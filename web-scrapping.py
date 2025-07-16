@@ -5,45 +5,54 @@ from bs4 import BeautifulSoup
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from logger import DharaLogger
 
+logger = DharaLogger(__name__).get_logger()
 
-f = open("all_links.txt","a")
+try:
+    logger.info("web-scrapping.py started.")
 
-options = Options()
-options.add_argument("--headless=new")
+    f = open("all_links.txt","a")
 
-driver = webdriver.Chrome(options=options)
+    options = Options()
+    options.add_argument("--headless=new")
 
-base_url = "https://indiankanoon.org/search/?formInput=commercial%20court%20%20%20doctypes%3A%20judgments"
+    driver = webdriver.Chrome(options=options)
 
-all_links = []
+    base_url = "https://indiankanoon.org/search/?formInput=commercial%20court%20%20%20doctypes%3A%20judgments"
 
-for page_num in range(0, 50):
+    all_links = []
 
-    if page_num == 0:
-        url = base_url
-    else:
-        url = base_url + "&pagenum=" + str(page_num)
+    for page_num in range(0, 50):
 
-    driver.get(url)
+        if page_num == 0:
+            url = base_url
+        else:
+            url = base_url + "&pagenum=" + str(page_num)
 
-    wait = WebDriverWait(driver, 20)
-    wait.until(EC.presence_of_all_elements_located((By.CLASS_NAME, 'result')))
+        driver.get(url)
 
-    page_source = driver.page_source
+        wait = WebDriverWait(driver, 20)
+        wait.until(EC.presence_of_all_elements_located((By.CLASS_NAME, 'result')))
 
-    soup = BeautifulSoup(page_source, 'html.parser')
+        page_source = driver.page_source
 
-    result_divs = soup.find_all('div', class_='result')
+        soup = BeautifulSoup(page_source, 'html.parser')
 
-    for div in result_divs:
-        link_element = div.find('a', href=True)
-        if link_element:
-            link = link_element['href']
-            all_links.append(link)
+        result_divs = soup.find_all('div', class_='result')
 
-driver.quit()
+        for div in result_divs:
+            link_element = div.find('a', href=True)
+            if link_element:
+                link = link_element['href']
+                all_links.append(link)
 
-for link in all_links:
-    link = link.split("/")
-    f.write("https://indiankanoon.org/doc/"+link[2]+"\n")
+    driver.quit()
+
+    for link in all_links:
+        link = link.split("/")
+        f.write("https://indiankanoon.org/doc/"+link[2]+"\n")
+    logger.info("web-scrapping.py finished successfully.")
+except Exception as e:
+    logger.error(f"Error in web-scrapping.py: {e}")
+    logger.exception(e)

@@ -1,0 +1,31 @@
+2025-07-15 04:35:31 | INFO | __main__ | rrl.py:21 | Found 400 case files in 'cases' directory.
+2025-07-15 04:35:32 | CRITICAL | __main__ | rrl.py:39 | Failed to create Data object: Command '['/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-New/.venv/bin/python3', '-m', 'pip', 'install', 'https://huggingface.co/opennyaiorg/en_legal_ner_trf/resolve/main/STOCK_SPACY_MODELS/en_core_web_trf-3.2.0-py3-none-any.whl', '--no-deps']' returned non-zero exit status 1.
+2025-07-15 04:35:32 | ERROR | __main__ | rrl.py:40 | Command '['/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-New/.venv/bin/python3', '-m', 'pip', 'install', 'https://huggingface.co/opennyaiorg/en_legal_ner_trf/resolve/main/STOCK_SPACY_MODELS/en_core_web_trf-3.2.0-py3-none-any.whl', '--no-deps']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-New/rrl.py", line 36, in <module>
+    data = Data(texts)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-New/.venv/lib/python3.10/site-packages/opennyai/utils/preprocess.py", line 76, in __init__
+    install(PIP_INSTALLER_URLS[preprocessing_nlp_model])
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-New/.venv/lib/python3.10/site-packages/opennyai/utils/download.py", line 28, in install
+    subprocess.check_call(
+  File "/home/ansh/.local/share/uv/python/cpython-3.10.18-linux-x86_64-gnu/lib/python3.10/subprocess.py", line 369, in check_call
+    raise CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command '['/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-New/.venv/bin/python3', '-m', 'pip', 'install', 'https://huggingface.co/opennyaiorg/en_legal_ner_trf/resolve/main/STOCK_SPACY_MODELS/en_core_web_trf-3.2.0-py3-none-any.whl', '--no-deps']' returned non-zero exit status 1.
+2025-07-15 04:39:29 | INFO | __main__ | rrl.py:21 | Found 400 case files in 'cases' directory.
+2025-07-15 04:40:40 | INFO | __main__ | rrl.py:37 | Data object created for pipeline.
+2025-07-15 04:40:51 | INFO | __main__ | rrl.py:46 | Pipeline initialized with Rhetorical_Role component.
+2025-07-15 04:40:51 | CRITICAL | __main__ | rrl.py:57 | Pipeline run failed: 'Pipeline' object has no attribute 'run'
+2025-07-15 04:40:51 | ERROR | __main__ | rrl.py:58 | 'Pipeline' object has no attribute 'run'
+Traceback (most recent call last):
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-New/rrl.py", line 54, in <module>
+    results = pipe.run(data)  # list of lists of {"sentence", "role"}
+AttributeError: 'Pipeline' object has no attribute 'run'
+2025-07-15 04:46:19 | INFO | __main__ | rrl.py:21 | Found 400 case files in 'cases' directory.
+2025-07-15 04:46:37 | INFO | __main__ | rrl.py:37 | Data object created for pipeline.
+2025-07-15 04:46:49 | INFO | __main__ | rrl.py:46 | Pipeline initialized with Rhetorical_Role component.
+2025-07-15 05:07:43 | INFO | __main__ | rrl.py:21 | Found 400 case files in 'cases' directory.
+2025-07-15 05:07:56 | INFO | __main__ | rrl.py:37 | Data object created for pipeline.
+2025-07-15 05:08:03 | INFO | __main__ | rrl.py:46 | Pipeline initialized with Rhetorical_Role component.
+2025-07-15 05:39:49 | INFO | __main__ | rrl.py:21 | Found 400 case files in 'cases' directory.
+2025-07-15 05:40:06 | INFO | __main__ | rrl.py:37 | Data object created for pipeline.
+2025-07-15 05:40:16 | INFO | __main__ | rrl.py:46 | Pipeline initialized with Rhetorical_Role component.
