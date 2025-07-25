@@ -1,0 +1,883 @@
+{
+  "entities": [
+    {
+      "text": "Gujarat High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 18
+    },
+    {
+      "text": "Vijay Cotton And Fiber Company vs Agarwal Cotton Spinning Pvt Ltd",
+      "label": "PRECEDENT",
+      "start_char": 19,
+      "end_char": 84
+    },
+    {
+      "text": "11 February, 2019",
+      "label": "DATE",
+      "start_char": 88,
+      "end_char": 105
+    },
+    {
+      "text": "G.R.Udhwani",
+      "label": "LAWYER",
+      "start_char": 114,
+      "end_char": 125
+    },
+    {
+      "text": "G.R.Udhwani",
+      "label": "LAWYER",
+      "start_char": 133,
+      "end_char": 144
+    },
+    {
+      "text": "HIGH COURT OF GUJARAT AT AHMEDABAD",
+      "label": "COURT",
+      "start_char": 243,
+      "end_char": 277
+    },
+    {
+      "text": "ORDER NO. 216 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 310,
+      "end_char": 331
+    },
+    {
+      "text": "VIJAY COTTON AND FIBER COMPANY",
+      "label": "PETITIONER",
+      "start_char": 468,
+      "end_char": 498
+    },
+    {
+      "text": "AGARWAL COTTON SPINNING PVT LTD",
+      "label": "RESPONDENT",
+      "start_char": 562,
+      "end_char": 593
+    },
+    {
+      "text": "ANAND B GOGIA(5849",
+      "label": "OTHER_PERSON",
+      "start_char": 696,
+      "end_char": 714
+    },
+    {
+      "text": "BB GOGIA(5851",
+      "label": "OTHER_PERSON",
+      "start_char": 747,
+      "end_char": 760
+    },
+    {
+      "text": "MUSKAN A GOGIA(6624",
+      "label": "LAWYER",
+      "start_char": 793,
+      "end_char": 812
+    },
+    {
+      "text": "G.R.UDHWANI",
+      "label": "OTHER_PERSON",
+      "start_char": 1010,
+      "end_char": 1021
+    },
+    {
+      "text": "11/02/2019",
+      "label": "DATE",
+      "start_char": 1029,
+      "end_char": 1039
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 1249,
+      "end_char": 1259
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 1267,
+      "end_char": 1305
+    },
+    {
+      "text": "arbitration proceedings No.85/2011­12",
+      "label": "CASE_NUMBER",
+      "start_char": 1409,
+      "end_char": 1446
+    },
+    {
+      "text": "District Court at Vadodara",
+      "label": "COURT",
+      "start_char": 1554,
+      "end_char": 1580
+    },
+    {
+      "text": "Court of Principal Senior Civil Judge, Chhota Udepur",
+      "label": "COURT",
+      "start_char": 1947,
+      "end_char": 1999
+    },
+    {
+      "text": "Principal Senior Civil Judge at Bodeli",
+      "label": "COURT",
+      "start_char": 2020,
+      "end_char": 2058
+    },
+    {
+      "text": "Bodeli",
+      "label": "GPE",
+      "start_char": 2251,
+      "end_char": 2257
+    },
+    {
+      "text": "Execution Application No.2 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 2263,
+      "end_char": 2297
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 2481,
+      "end_char": 2510
+    },
+    {
+      "text": "O.7, R.10­A",
+      "label": "PROVISION",
+      "start_char": 2735,
+      "end_char": 2746
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 3200,
+      "end_char": 3227
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 3286,
+      "end_char": 3313
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 3429,
+      "end_char": 3438
+    },
+    {
+      "text": "Gujarat",
+      "label": "GPE",
+      "start_char": 5646,
+      "end_char": 5653
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 5758,
+      "end_char": 5767
+    },
+    {
+      "text": "Gujarat",
+      "label": "GPE",
+      "start_char": 5821,
+      "end_char": 5828
+    },
+    {
+      "text": "sub­ section (2) of Section 3",
+      "label": "PROVISION",
+      "start_char": 5936,
+      "end_char": 5965
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 6011,
+      "end_char": 6021
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 6029,
+      "end_char": 6050
+    },
+    {
+      "text": "sub­section (3) of Section 3",
+      "label": "PROVISION",
+      "start_char": 6322,
+      "end_char": 6350
+    },
+    {
+      "text": "Section 2(1)(b)",
+      "label": "PROVISION",
+      "start_char": 6385,
+      "end_char": 6400
+    },
+    {
+      "text": "sub­section (1) of Section 3",
+      "label": "PROVISION",
+      "start_char": 6454,
+      "end_char": 6482
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 6490,
+      "end_char": 6511
+    },
+    {
+      "text": "Sub­section (1) of Section 3",
+      "label": "PROVISION",
+      "start_char": 6513,
+      "end_char": 6541
+    },
+    {
+      "text": "sub­section (1) of Section 3",
+      "label": "PROVISION",
+      "start_char": 6934,
+      "end_char": 6962
+    },
+    {
+      "text": "sub­section (1) of Section 3",
+      "label": "PROVISION",
+      "start_char": 7096,
+      "end_char": 7124
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 7262,
+      "end_char": 7272
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 7301,
+      "end_char": 7316
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 7324,
+      "end_char": 7339
+    },
+    {
+      "text": "State of Maharashtra",
+      "label": "GPE",
+      "start_char": 7343,
+      "end_char": 7363
+    },
+    {
+      "text": "Panvel",
+      "label": "GPE",
+      "start_char": 7426,
+      "end_char": 7432
+    },
+    {
+      "text": "Atlanta Limited [(2014) 11 SCC 619]",
+      "label": "PRECEDENT",
+      "start_char": 7444,
+      "end_char": 7479
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 7597,
+      "end_char": 7612
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 7620,
+      "end_char": 7652
+    },
+    {
+      "text": "Section 10",
+      "label": "PROVISION",
+      "start_char": 7728,
+      "end_char": 7738
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 7746,
+      "end_char": 7767
+    },
+    {
+      "text": "sub­section (3)",
+      "label": "PROVISION",
+      "start_char": 7769,
+      "end_char": 7784
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 8164,
+      "end_char": 8215
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 8522,
+      "end_char": 8532
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 8540,
+      "end_char": 8561
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 8647,
+      "end_char": 8685
+    },
+    {
+      "text": "sub­section (2) of section 15",
+      "label": "PROVISION",
+      "start_char": 8923,
+      "end_char": 8952
+    },
+    {
+      "text": "sub­section (3) of Section 15",
+      "label": "PROVISION",
+      "start_char": 9042,
+      "end_char": 9071
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 9233,
+      "end_char": 9254
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 9295,
+      "end_char": 9316
+    },
+    {
+      "text": "section 10",
+      "label": "PROVISION",
+      "start_char": 9337,
+      "end_char": 9347
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 9549,
+      "end_char": 9559
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 9567,
+      "end_char": 9588
+    },
+    {
+      "text": "Gujarat Civil Courts Act",
+      "label": "STATUTE",
+      "start_char": 9915,
+      "end_char": 9939
+    },
+    {
+      "text": "sub­section (3) of section 3",
+      "label": "PROVISION",
+      "start_char": 10116,
+      "end_char": 10144
+    },
+    {
+      "text": "Section 39",
+      "label": "PROVISION",
+      "start_char": 10309,
+      "end_char": 10319
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 10327,
+      "end_char": 10330
+    },
+    {
+      "text": "Gujarat Civil Courts Act",
+      "label": "STATUTE",
+      "start_char": 10442,
+      "end_char": 10466
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 10501,
+      "end_char": 10510
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 10514,
+      "end_char": 10535
+    },
+    {
+      "text": "Gujarat Civil Courts Act",
+      "label": "STATUTE",
+      "start_char": 10575,
+      "end_char": 10599
+    },
+    {
+      "text": "Gujarat Civil Courts Act",
+      "label": "STATUTE",
+      "start_char": 10765,
+      "end_char": 10789
+    },
+    {
+      "text": "Section 39",
+      "label": "PROVISION",
+      "start_char": 10855,
+      "end_char": 10865
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 10873,
+      "end_char": 10876
+    },
+    {
+      "text": "16/08/2017",
+      "label": "DATE",
+      "start_char": 10936,
+      "end_char": 10946
+    },
+    {
+      "text": "Legal Department, State of Gujarat",
+      "label": "ORG",
+      "start_char": 10965,
+      "end_char": 10999
+    },
+    {
+      "text": "sub­ section(2) of section 3 read with section 12",
+      "label": "PROVISION",
+      "start_char": 11006,
+      "end_char": 11055
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 11063,
+      "end_char": 11084
+    },
+    {
+      "text": "Vadodara District",
+      "label": "ORG",
+      "start_char": 11128,
+      "end_char": 11145
+    },
+    {
+      "text": "sub­section (2) of Section 3 read with Section 12",
+      "label": "PROVISION",
+      "start_char": 11301,
+      "end_char": 11350
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 11358,
+      "end_char": 11379
+    },
+    {
+      "text": "Vadodara District",
+      "label": "GPE",
+      "start_char": 11391,
+      "end_char": 11408
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 11474,
+      "end_char": 11495
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 11564,
+      "end_char": 11602
+    },
+    {
+      "text": "Gujarat",
+      "label": "GPE",
+      "start_char": 11675,
+      "end_char": 11682
+    },
+    {
+      "text": "sub­ section (1) of Section 3",
+      "label": "PROVISION",
+      "start_char": 12036,
+      "end_char": 12065
+    },
+    {
+      "text": "Section 39",
+      "label": "PROVISION",
+      "start_char": 12185,
+      "end_char": 12195
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 12199,
+      "end_char": 12202
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 12327,
+      "end_char": 12342
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 12350,
+      "end_char": 12382
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 12393,
+      "end_char": 12402
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 12410,
+      "end_char": 12431
+    },
+    {
+      "text": "sub­section (1) of Section 3",
+      "label": "PROVISION",
+      "start_char": 12545,
+      "end_char": 12573
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 12657,
+      "end_char": 12667
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 12675,
+      "end_char": 12690
+    },
+    {
+      "text": "Commercial Court Act",
+      "label": "STATUTE",
+      "start_char": 13100,
+      "end_char": 13120
+    },
+    {
+      "text": "Section 39",
+      "label": "PROVISION",
+      "start_char": 13180,
+      "end_char": 13190
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 13194,
+      "end_char": 13197
+    },
+    {
+      "text": "20/08/2018",
+      "label": "DATE",
+      "start_char": 13253,
+      "end_char": 13263
+    },
+    {
+      "text": "Special Darkhast No.2 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 13286,
+      "end_char": 13315
+    },
+    {
+      "text": "Principal Senior Civil Judge, Bodeli",
+      "label": "COURT",
+      "start_char": 13331,
+      "end_char": 13367
+    },
+    {
+      "text": "Principal Senior Civil Judge, Bodeli, District: Vadodara",
+      "label": "COURT",
+      "start_char": 13466,
+      "end_char": 13522
+    },
+    {
+      "text": "Vadodara",
+      "label": "GPE",
+      "start_char": 13684,
+      "end_char": 13692
+    },
+    {
+      "text": "18/10/2014",
+      "label": "DATE",
+      "start_char": 13710,
+      "end_char": 13720
+    },
+    {
+      "text": "Regular No.82 of 2013",
+      "label": "CASE_NUMBER",
+      "start_char": 13751,
+      "end_char": 13772
+    },
+    {
+      "text": "G.R.UDHWANI",
+      "label": "JUDGE",
+      "start_char": 13905,
+      "end_char": 13916
+    },
+    {
+      "text": "SOMPURA",
+      "label": "JUDGE",
+      "start_char": 13921,
+      "end_char": 13928
+    }
+  ],
+  "precedent_clusters": {},
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 12",
+      "Commercial Courts Act",
+      "Section 12",
+      "Commercial Courts Act"
+    ],
+    [
+      "sub­section (1) of Section 3",
+      "Commercial Courts Act",
+      "sub­section (1) of Section 3",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Arbitration Act",
+      "Section 2(1)(e)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Arbitration and Conciliation Act",
+      "Section 2(1)(e)",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 10",
+      "Commercial Courts Act",
+      "Section 10",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 15",
+      "Commercial Courts Act",
+      "Section 15",
+      "Commercial Courts Act"
+    ],
+    [
+      "sub­section (3) of Section 15",
+      "Commercial Courts Act",
+      "sub­section (3) of Section 15",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 15",
+      "Commercial Courts Act",
+      "Section 15",
+      "Commercial Courts Act"
+    ],
+    [
+      "section 10",
+      "Gujarat Civil Courts Act",
+      "section 10",
+      "Gujarat Civil Courts Act"
+    ],
+    [
+      "Section 39",
+      "CPC",
+      "Section 39",
+      "CPC"
+    ],
+    [
+      "Section 3",
+      "Commercial Courts Act",
+      "Section 3",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 39",
+      "CPC",
+      "Section 39",
+      "CPC"
+    ],
+    [
+      "sub­ section(2) of section 3 read with section 12",
+      "Commercial Courts Act",
+      "sub­ section(2) of section 3 read with section 12",
+      "Commercial Courts Act"
+    ],
+    [
+      "sub­section (2) of Section 3 read with Section 12",
+      "Commercial Courts Act",
+      "sub­section (2) of Section 3 read with Section 12",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 39",
+      "CPC",
+      "Section 39",
+      "CPC"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Arbitration and Conciliation Act",
+      "Section 2(1)(e)",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 3",
+      "Commercial Courts Act",
+      "Section 3",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 39",
+      "CPC",
+      "Section 39",
+      "CPC"
+    ],
+    [
+      "Section 3",
+      "Commercial Courts Act",
+      "Section 3",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 3",
+      "Commercial Courts Act",
+      "Section 3",
+      "Commercial Courts Act"
+    ],
+    [
+      "sub­ section (2) of Section 3",
+      "Commercial Courts Act",
+      "sub­ section (2) of Section 3",
+      "Commercial Courts Act"
+    ],
+    [
+      "sub­section (3) of Section 3",
+      "Commercial Courts Act",
+      "sub­section (3) of Section 3",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 2(1)(b)",
+      "Arbitration Act",
+      "Section 2(1)(b)",
+      "Arbitration Act"
+    ],
+    [
+      "Sub­section (1) of Section 3",
+      "Commercial Courts Act",
+      "Sub­section (1) of Section 3",
+      "Commercial Courts Act"
+    ],
+    [
+      "sub­section (1) of Section 3",
+      "Commercial Courts Act",
+      "sub­section (1) of Section 3",
+      "Commercial Courts Act"
+    ],
+    [
+      "sub­section (1) of Section 3",
+      "Commercial Courts Act",
+      "sub­section (1) of Section 3",
+      "Commercial Courts Act"
+    ],
+    [
+      "sub­section (2) of section 15",
+      "Commercial Courts Act",
+      "sub­section (2) of section 15",
+      "Commercial Courts Act"
+    ],
+    [
+      "sub­section (3) of section 3",
+      "Commercial Courts Act",
+      "sub­section (3) of section 3",
+      "Commercial Courts Act"
+    ],
+    [
+      "sub­ section (1) of Section 3",
+      "Commercial Courts Act",
+      "sub­ section (1) of Section 3",
+      "Commercial Courts Act"
+    ],
+    [
+      "sub­section (1) of Section 3",
+      "Commercial Courts Act",
+      "sub­section (1) of Section 3",
+      "Commercial Courts Act"
+    ],
+    [
+      "O.7, R.10­A",
+      "Code of Civil Procedure, 1908",
+      "O.7, R.10­A",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "sub­section (3)",
+      "Commercial Courts Act",
+      "sub­section (3)",
+      "Commercial Courts Act"
+    ]
+  ],
+  "precedent_counts": {},
+  "provision_counts": {
+    "Section 34 of Arbitration and Conciliation Act, 1996": 1,
+    "Section 12 of Commercial Courts Act": 1,
+    "sub­section (1) of Section 3 of Commercial Courts Act": 4,
+    "Section 2(1)(e) of Arbitration Act": 1,
+    "Section 2(1)(e) of Arbitration and Conciliation Act": 2,
+    "Section 10 of Commercial Courts Act": 1,
+    "Section 15 of Commercial Courts Act": 2,
+    "sub­section (3) of Section 15 of Commercial Courts Act": 1,
+    "section 10 of Gujarat Civil Courts Act": 1,
+    "Section 39 of CPC": 4,
+    "Section 3 of Commercial Courts Act": 4,
+    "sub­ section(2) of section 3 read with section 12 of Commercial Courts Act": 1,
+    "sub­section (2) of Section 3 read with Section 12 of Commercial Courts Act": 1,
+    "Section 34 of Arbitration Act": 1,
+    "sub­ section (2) of Section 3 of Commercial Courts Act": 1,
+    "sub­section (3) of Section 3 of Commercial Courts Act": 1,
+    "Section 2(1)(b) of Arbitration Act": 1,
+    "Sub­section (1) of Section 3 of Commercial Courts Act": 1,
+    "sub­section (2) of section 15 of Commercial Courts Act": 1,
+    "sub­section (3) of section 3 of Commercial Courts Act": 1,
+    "sub­ section (1) of Section 3 of Commercial Courts Act": 1,
+    "O.7, R.10­A of Code of Civil Procedure, 1908": 1,
+    "sub­section (3) of Commercial Courts Act": 1
+  },
+  "statute_counts": {
+    "Arbitration and Conciliation Act, 1996": 1,
+    "Commercial Courts Act": 22,
+    "Arbitration Act": 3,
+    "Arbitration and Conciliation Act": 2,
+    "Gujarat Civil Courts Act": 1,
+    "CPC": 4,
+    "Code of Civil Procedure, 1908": 1
+  }
+}

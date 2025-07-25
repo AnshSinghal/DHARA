@@ -1,0 +1,975 @@
+{
+  "entities": [
+    {
+      "text": "Chattisgarh High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 22
+    },
+    {
+      "text": "Prakash Corporates",
+      "label": "PETITIONER",
+      "start_char": 23,
+      "end_char": 41
+    },
+    {
+      "text": "Dee Vee Projects Limited",
+      "label": "RESPONDENT",
+      "start_char": 45,
+      "end_char": 69
+    },
+    {
+      "text": "Rajendra Chandra Singh Samant",
+      "label": "JUDGE",
+      "start_char": 94,
+      "end_char": 123
+    },
+    {
+      "text": "Rajendra Chandra Singh Samant",
+      "label": "JUDGE",
+      "start_char": 131,
+      "end_char": 160
+    },
+    {
+      "text": "High Court Of Chhattisgarh, Bilaspur",
+      "label": "COURT",
+      "start_char": 297,
+      "end_char": 333
+    },
+    {
+      "text": "Prakash Corporates",
+      "label": "ORG",
+      "start_char": 394,
+      "end_char": 412
+    },
+    {
+      "text": "Raipur",
+      "label": "GPE",
+      "start_char": 441,
+      "end_char": 447
+    },
+    {
+      "text": "Chhattisgarh",
+      "label": "GPE",
+      "start_char": 463,
+      "end_char": 475
+    },
+    {
+      "text": "Shailesh Kumar Goyal",
+      "label": "OTHER_PERSON",
+      "start_char": 508,
+      "end_char": 528
+    },
+    {
+      "text": "Bhimsen Goyal",
+      "label": "OTHER_PERSON",
+      "start_char": 545,
+      "end_char": 558
+    },
+    {
+      "text": "Raipur",
+      "label": "GPE",
+      "start_char": 616,
+      "end_char": 622
+    },
+    {
+      "text": "Raipur Chhattisgarh",
+      "label": "GPE",
+      "start_char": 633,
+      "end_char": 652
+    },
+    {
+      "text": "Dee Vee Projects Limited",
+      "label": "RESPONDENT",
+      "start_char": 869,
+      "end_char": 893
+    },
+    {
+      "text": "Chhattisgarh",
+      "label": "GPE",
+      "start_char": 983,
+      "end_char": 995
+    },
+    {
+      "text": "Manoj Paranjpe",
+      "label": "LAWYER",
+      "start_char": 1114,
+      "end_char": 1128
+    },
+    {
+      "text": "Amrito Das",
+      "label": "LAWYER",
+      "start_char": 1180,
+      "end_char": 1190
+    },
+    {
+      "text": "Rishabh Garg",
+      "label": "LAWYER",
+      "start_char": 1199,
+      "end_char": 1211
+    },
+    {
+      "text": "Rajendra Chandra Singh Samant",
+      "label": "JUDGE",
+      "start_char": 1281,
+      "end_char": 1310
+    },
+    {
+      "text": "09-07-2021",
+      "label": "DATE",
+      "start_char": 1326,
+      "end_char": 1336
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 1360,
+      "end_char": 1371
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 1375,
+      "end_char": 1396
+    },
+    {
+      "text": "22.06.2021",
+      "label": "DATE",
+      "start_char": 1449,
+      "end_char": 1459
+    },
+    {
+      "text": "Civil Suit No.01-B/2021",
+      "label": "CASE_NUMBER",
+      "start_char": 1470,
+      "end_char": 1493
+    },
+    {
+      "text": "Criminal Court District- Raipur, C.G.",
+      "label": "COURT",
+      "start_char": 1502,
+      "end_char": 1539
+    },
+    {
+      "text": "No.01-B/2021",
+      "label": "CASE_NUMBER",
+      "start_char": 1744,
+      "end_char": 1756
+    },
+    {
+      "text": "Criminal Court Raipur, C.G",
+      "label": "COURT",
+      "start_char": 1768,
+      "end_char": 1794
+    },
+    {
+      "text": "6th January, 2021",
+      "label": "DATE",
+      "start_char": 1846,
+      "end_char": 1863
+    },
+    {
+      "text": "06.05.2021",
+      "label": "DATE",
+      "start_char": 1950,
+      "end_char": 1960
+    },
+    {
+      "text": "15.04.2021",
+      "label": "DATE",
+      "start_char": 1985,
+      "end_char": 1995
+    },
+    {
+      "text": "Section 10",
+      "label": "PROVISION",
+      "start_char": 2071,
+      "end_char": 2081
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 2092,
+      "end_char": 2103
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 2107,
+      "end_char": 2113
+    },
+    {
+      "text": "Order 38 Rule 5",
+      "label": "PROVISION",
+      "start_char": 2136,
+      "end_char": 2151
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 2162,
+      "end_char": 2173
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 2177,
+      "end_char": 2183
+    },
+    {
+      "text": "22.06.2021",
+      "label": "DATE",
+      "start_char": 2188,
+      "end_char": 2198
+    },
+    {
+      "text": "06.05.2021",
+      "label": "DATE",
+      "start_char": 2311,
+      "end_char": 2321
+    },
+    {
+      "text": "Order VIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 2516,
+      "end_char": 2533
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 2537,
+      "end_char": 2543
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 2560,
+      "end_char": 2581
+    },
+    {
+      "text": "22.06.2021",
+      "label": "DATE",
+      "start_char": 2867,
+      "end_char": 2877
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 3136,
+      "end_char": 3149
+    },
+    {
+      "text": "Suo-moto Writ (Civil) No.-03 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 3157,
+      "end_char": 3193
+    },
+    {
+      "text": "15.03.2020",
+      "label": "DATE",
+      "start_char": 3315,
+      "end_char": 3325
+    },
+    {
+      "text": "14.03.2021",
+      "label": "DATE",
+      "start_char": 3329,
+      "end_char": 3339
+    },
+    {
+      "text": "27.04.2021",
+      "label": "DATE",
+      "start_char": 3365,
+      "end_char": 3375
+    },
+    {
+      "text": "19.07.2021",
+      "label": "DATE",
+      "start_char": 3487,
+      "end_char": 3497
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 3540,
+      "end_char": 3553
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 3716,
+      "end_char": 3729
+    },
+    {
+      "text": "S.S. Group Pvt",
+      "label": "ORG",
+      "start_char": 3745,
+      "end_char": 3759
+    },
+    {
+      "text": "Aaditiya J. Garg",
+      "label": "OTHER_PERSON",
+      "start_char": 3770,
+      "end_char": 3786
+    },
+    {
+      "text": "2020 SCC Online SC 1050",
+      "label": "PRECEDENT",
+      "start_char": 3808,
+      "end_char": 3831
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 3852,
+      "end_char": 3865
+    },
+    {
+      "text": "Kailash Vs. Nanhku & Ors",
+      "label": "PRECEDENT",
+      "start_char": 3869,
+      "end_char": 3893
+    },
+    {
+      "text": "(2005) 4 SCC 480",
+      "label": "PRECEDENT",
+      "start_char": 3907,
+      "end_char": 3923
+    },
+    {
+      "text": "S.C.G. Contracts (India) Private Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 3961,
+      "end_char": 4005
+    },
+    {
+      "text": "K.S. Chamankar Infrastructure Private Limited",
+      "label": "ORG",
+      "start_char": 4006,
+      "end_char": 4051
+    },
+    {
+      "text": "(2019) 12 SCC 210",
+      "label": "PRECEDENT",
+      "start_char": 4071,
+      "end_char": 4088
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 4094,
+      "end_char": 4107
+    },
+    {
+      "text": "Amrito Das",
+      "label": "LAWYER",
+      "start_char": 4412,
+      "end_char": 4422
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 4595,
+      "end_char": 4606
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 4607,
+      "end_char": 4628
+    },
+    {
+      "text": "Section 13(1)(A)",
+      "label": "PROVISION",
+      "start_char": 4650,
+      "end_char": 4666
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 4670,
+      "end_char": 4691
+    },
+    {
+      "text": "Order 43",
+      "label": "PROVISION",
+      "start_char": 5122,
+      "end_char": 5130
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 5134,
+      "end_char": 5140
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 5336,
+      "end_char": 5342
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 5355,
+      "end_char": 5365
+    },
+    {
+      "text": "S.C.G. Contracts (India) Private Limited",
+      "label": "ORG",
+      "start_char": 5469,
+      "end_char": 5509
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 5523,
+      "end_char": 5536
+    },
+    {
+      "text": "Sagufa Ahmed",
+      "label": "OTHER_PERSON",
+      "start_char": 5952,
+      "end_char": 5964
+    },
+    {
+      "text": "Upper Assam Polywood Products Private Limited & Ors. reported in (2021) 2 SCC 317",
+      "label": "PRECEDENT",
+      "start_char": 5976,
+      "end_char": 6057
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 6063,
+      "end_char": 6076
+    },
+    {
+      "text": "Suo-moto Writ (Civil) No.03 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 6383,
+      "end_char": 6418
+    },
+    {
+      "text": "22.06.2021",
+      "label": "DATE",
+      "start_char": 6701,
+      "end_char": 6711
+    },
+    {
+      "text": "06.05.2021",
+      "label": "DATE",
+      "start_char": 6826,
+      "end_char": 6836
+    },
+    {
+      "text": "Act, 2015",
+      "label": "STATUTE",
+      "start_char": 6937,
+      "end_char": 6946
+    },
+    {
+      "text": "Section 13(1)(A)",
+      "label": "PROVISION",
+      "start_char": 7184,
+      "end_char": 7200
+    },
+    {
+      "text": "Order 43",
+      "label": "PROVISION",
+      "start_char": 7345,
+      "end_char": 7353
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 7357,
+      "end_char": 7363
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 7391,
+      "end_char": 7401
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 7405,
+      "end_char": 7437
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 7469,
+      "end_char": 7482
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 7588,
+      "end_char": 7601
+    },
+    {
+      "text": "New India Assurance Company Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 7617,
+      "end_char": 7656
+    },
+    {
+      "text": "Hilli Multipurpose Cold Storage Private Limited",
+      "label": "ORG",
+      "start_char": 7657,
+      "end_char": 7704
+    },
+    {
+      "text": "(2020) 5 SCC 757",
+      "label": "PRECEDENT",
+      "start_char": 7717,
+      "end_char": 7733
+    },
+    {
+      "text": "Section 13(1)(A)",
+      "label": "PROVISION",
+      "start_char": 8099,
+      "end_char": 8115
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 8119,
+      "end_char": 8146
+    },
+    {
+      "text": "Order 43",
+      "label": "PROVISION",
+      "start_char": 8743,
+      "end_char": 8751
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 8755,
+      "end_char": 8761
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 8798,
+      "end_char": 8808
+    },
+    {
+      "text": "Order 43",
+      "label": "PROVISION",
+      "start_char": 8853,
+      "end_char": 8861
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 8865,
+      "end_char": 8871
+    },
+    {
+      "text": "Order 43",
+      "label": "PROVISION",
+      "start_char": 8917,
+      "end_char": 8925
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 8929,
+      "end_char": 8935
+    },
+    {
+      "text": "order 43 Rule 1",
+      "label": "PROVISION",
+      "start_char": 8990,
+      "end_char": 9005
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 9009,
+      "end_char": 9015
+    },
+    {
+      "text": "Order 8 Rule 1",
+      "label": "PROVISION",
+      "start_char": 9093,
+      "end_char": 9107
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 9111,
+      "end_char": 9117
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 9135,
+      "end_char": 9145
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 9153,
+      "end_char": 9191
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 9440,
+      "end_char": 9450
+    },
+    {
+      "text": "Act, 2015",
+      "label": "STATUTE",
+      "start_char": 9458,
+      "end_char": 9467
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 9499,
+      "end_char": 9510
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 9511,
+      "end_char": 9532
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 9602,
+      "end_char": 9615
+    },
+    {
+      "text": "S.C.G. Contracts (India) Private Limited",
+      "label": "ORG",
+      "start_char": 9631,
+      "end_char": 9671
+    },
+    {
+      "text": "Consumer Protection Act",
+      "label": "STATUTE",
+      "start_char": 9939,
+      "end_char": 9962
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 10138,
+      "end_char": 10151
+    },
+    {
+      "text": "Order VIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 10230,
+      "end_char": 10247
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 10355,
+      "end_char": 10358
+    },
+    {
+      "text": "Oku Tech (P) Ltd.",
+      "label": "ORG",
+      "start_char": 10401,
+      "end_char": 10418
+    },
+    {
+      "text": "V. Sangeet Agarwal",
+      "label": "JUDGE",
+      "start_char": 10419,
+      "end_char": 10437
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 10471,
+      "end_char": 10487
+    },
+    {
+      "text": "11.08.2016",
+      "label": "DATE",
+      "start_char": 10494,
+      "end_char": 10504
+    },
+    {
+      "text": "No. 3390 of 2015",
+      "label": "CASE_NUMBER",
+      "start_char": 10516,
+      "end_char": 10532
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 10600,
+      "end_char": 10616
+    },
+    {
+      "text": "Maja Cosmetics V. Oasis Commercial (P) Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 10620,
+      "end_char": 10663
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 10673,
+      "end_char": 10686
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 10781,
+      "end_char": 10794
+    },
+    {
+      "text": "New India Insurance Company Ltd.",
+      "label": "ORG",
+      "start_char": 10798,
+      "end_char": 10830
+    },
+    {
+      "text": "S.S. Group Pvt",
+      "label": "ORG",
+      "start_char": 10885,
+      "end_char": 10899
+    },
+    {
+      "text": "Shagufta Ahmed",
+      "label": "OTHER_PERSON",
+      "start_char": 10935,
+      "end_char": 10949
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 11872,
+      "end_char": 11885
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 11924,
+      "end_char": 11937
+    },
+    {
+      "text": "Suo-moto Writ (Civil) No.03 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 11941,
+      "end_char": 11976
+    },
+    {
+      "text": "22.06.2021",
+      "label": "DATE",
+      "start_char": 12244,
+      "end_char": 12254
+    },
+    {
+      "text": "Rajendra Chandra Singh Samant",
+      "label": "JUDGE",
+      "start_char": 13087,
+      "end_char": 13116
+    },
+    {
+      "text": "Monika                                                     Judge  ",
+      "label": "JUDGE",
+      "start_char": 13118,
+      "end_char": 13184
+    }
+  ],
+  "precedent_clusters": {
+    "S.C.G. Contracts (India) Private Limited Vs.": [
+      "Kailash Vs. Nanhku & Ors",
+      "S.C.G. Contracts (India) Private Limited Vs.",
+      "New India Assurance Company Limited Vs.",
+      "Maja Cosmetics V. Oasis Commercial (P) Ltd."
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Section 151",
+      "C.P.C.",
+      "Section 151",
+      "C.P.C."
+    ],
+    [
+      "Section 151",
+      "C.P.C.",
+      "Section 151",
+      "C.P.C."
+    ],
+    [
+      "Order VIII Rule 1",
+      "C.P.C.",
+      "Order VIII Rule 1",
+      "C.P.C."
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Section 13(1)(A)",
+      "Commercial Courts Act",
+      "Section 13(1)(A)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order 43",
+      "C.P.C.",
+      "Order 43",
+      "C.P.C."
+    ],
+    [
+      "Order 43",
+      "C.P.C.",
+      "Order 43",
+      "C.P.C."
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act",
+      "Section 37",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 13(1)(A)",
+      "Commercial Courts Act, 2015",
+      "Section 13(1)(A)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Order 43",
+      "C.P.C.",
+      "Order 43",
+      "C.P.C."
+    ],
+    [
+      "Order 43",
+      "C.P.C.",
+      "Order 43",
+      "C.P.C."
+    ],
+    [
+      "Order 43",
+      "C.P.C.",
+      "Order 43",
+      "C.P.C."
+    ],
+    [
+      "order 43 Rule 1",
+      "C.P.C.",
+      "order 43 Rule 1",
+      "C.P.C."
+    ],
+    [
+      "Order 8 Rule 1",
+      "C.P.C.",
+      "Order 8 Rule 1",
+      "C.P.C."
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 13",
+      "Act, 2015",
+      "Section 13",
+      "Act, 2015"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Order VIII Rule 1",
+      "CPC",
+      "Order VIII Rule 1",
+      "CPC"
+    ],
+    [
+      "Section 13(1)(A)",
+      "Commercial Courts Act",
+      "Section 13(1)(A)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 16",
+      "C.P.C.",
+      "Section 16",
+      "C.P.C."
+    ],
+    [
+      "Section 10",
+      "Constitution of India",
+      "Section 10",
+      "Constitution of India"
+    ],
+    [
+      "Order 38 Rule 5",
+      "C.P.C.",
+      "Order 38 Rule 5",
+      "C.P.C."
+    ],
+    [
+      "Section 16",
+      "C.P.C.",
+      "Section 16",
+      "C.P.C."
+    ]
+  ],
+  "precedent_counts": {
+    "S.C.G. Contracts (India) Private Limited Vs.": 4
+  },
+  "provision_counts": {
+    "Article 227 of Constitution of India": 3,
+    "Section 151 of C.P.C.": 2,
+    "Order VIII Rule 1 of C.P.C.": 1,
+    "Section 13(1)(A) of Commercial Courts Act": 2,
+    "Order 43 of C.P.C.": 5,
+    "Section 37 of Arbitration and Conciliation Act": 1,
+    "Section 13(1)(A) of Commercial Courts Act, 2015": 1,
+    "order 43 Rule 1 of C.P.C.": 1,
+    "Order 8 Rule 1 of C.P.C.": 1,
+    "Section 37 of Arbitration and Conciliation Act, 1996": 1,
+    "Section 13 of Act, 2015": 1,
+    "Order VIII Rule 1 of CPC": 1,
+    "Section 16 of C.P.C.": 2,
+    "Section 10 of Constitution of India": 1,
+    "Order 38 Rule 5 of C.P.C.": 1
+  },
+  "statute_counts": {
+    "Constitution of India": 4,
+    "C.P.C.": 13,
+    "Commercial Courts Act": 2,
+    "Arbitration and Conciliation Act": 1,
+    "Commercial Courts Act, 2015": 1,
+    "Arbitration and Conciliation Act, 1996": 1,
+    "Act, 2015": 1,
+    "CPC": 1
+  }
+}

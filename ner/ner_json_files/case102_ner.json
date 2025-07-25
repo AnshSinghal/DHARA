@@ -1,0 +1,967 @@
+{
+  "entities": [
+    {
+      "text": "Karnataka High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 20
+    },
+    {
+      "text": "Larsen And Toubro Limited",
+      "label": "PETITIONER",
+      "start_char": 21,
+      "end_char": 46
+    },
+    {
+      "text": "Geodesic Techniques Private Limited",
+      "label": "RESPONDENT",
+      "start_char": 50,
+      "end_char": 85
+    },
+    {
+      "text": "Alok Aradhe",
+      "label": "JUDGE",
+      "start_char": 113,
+      "end_char": 124
+    },
+    {
+      "text": "S Vishwajith Shetty",
+      "label": "JUDGE",
+      "start_char": 126,
+      "end_char": 145
+    },
+    {
+      "text": "High Court Of Karnataka At Bengaluru",
+      "label": "COURT",
+      "start_char": 190,
+      "end_char": 226
+    },
+    {
+      "text": "Alok Aradhe",
+      "label": "JUDGE",
+      "start_char": 341,
+      "end_char": 352
+    },
+    {
+      "text": "S. Vishwajith Shetty",
+      "label": "JUDGE",
+      "start_char": 412,
+      "end_char": 432
+    },
+    {
+      "text": "Larsen And Toubro Limited",
+      "label": "PETITIONER",
+      "start_char": 481,
+      "end_char": 506
+    },
+    {
+      "text": "C.A. Venkatesh",
+      "label": "LAWYER",
+      "start_char": 647,
+      "end_char": 661
+    },
+    {
+      "text": "R.V.S. Naik",
+      "label": "LAWYER",
+      "start_char": 725,
+      "end_char": 736
+    },
+    {
+      "text": "Vidur Nair",
+      "label": "LAWYER",
+      "start_char": 762,
+      "end_char": 772
+    },
+    {
+      "text": "T. Suryanarayana",
+      "label": "LAWYER",
+      "start_char": 785,
+      "end_char": 801
+    },
+    {
+      "text": "Geodesic Techniques Private Limited",
+      "label": "RESPONDENT",
+      "start_char": 825,
+      "end_char": 860
+    },
+    {
+      "text": "R.V. Raveendran",
+      "label": "RESPONDENT",
+      "start_char": 1102,
+      "end_char": 1117
+    },
+    {
+      "text": "S. Sriranga",
+      "label": "LAWYER",
+      "start_char": 1285,
+      "end_char": 1296
+    },
+    {
+      "text": "Alok Aradhe",
+      "label": "JUDGE",
+      "start_char": 1859,
+      "end_char": 1870
+    },
+    {
+      "text": "05.12.2020",
+      "label": "DATE",
+      "start_char": 1981,
+      "end_char": 1991
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 2076,
+      "end_char": 2086
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 2094,
+      "end_char": 2132
+    },
+    {
+      "text": "Bangalore International Airport Limited",
+      "label": "ORG",
+      "start_char": 2525,
+      "end_char": 2564
+    },
+    {
+      "text": "31.05.2011",
+      "label": "DATE",
+      "start_char": 2618,
+      "end_char": 2628
+    },
+    {
+      "text": "29.09.2011",
+      "label": "DATE",
+      "start_char": 3025,
+      "end_char": 3035
+    },
+    {
+      "text": "15.10.2011",
+      "label": "DATE",
+      "start_char": 3102,
+      "end_char": 3112
+    },
+    {
+      "text": "25.01.2012",
+      "label": "DATE",
+      "start_char": 3159,
+      "end_char": 3169
+    },
+    {
+      "text": "BIAL",
+      "label": "ORG",
+      "start_char": 3199,
+      "end_char": 3203
+    },
+    {
+      "text": "04.10.2011",
+      "label": "DATE",
+      "start_char": 3347,
+      "end_char": 3357
+    },
+    {
+      "text": "03.08.2012",
+      "label": "DATE",
+      "start_char": 3369,
+      "end_char": 3379
+    },
+    {
+      "text": "31.08.2013",
+      "label": "DATE",
+      "start_char": 3444,
+      "end_char": 3454
+    },
+    {
+      "text": "Section 11(6)",
+      "label": "PROVISION",
+      "start_char": 3983,
+      "end_char": 3996
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 4004,
+      "end_char": 4042
+    },
+    {
+      "text": "03.09.2014",
+      "label": "DATE",
+      "start_char": 4141,
+      "end_char": 4151
+    },
+    {
+      "text": "13.12.2014",
+      "label": "DATE",
+      "start_char": 4217,
+      "end_char": 4227
+    },
+    {
+      "text": "06.02.2016",
+      "label": "DATE",
+      "start_char": 4603,
+      "end_char": 4613
+    },
+    {
+      "text": "Karnataka Stamp Act, 1957",
+      "label": "STATUTE",
+      "start_char": 4836,
+      "end_char": 4861
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 4900,
+      "end_char": 4910
+    },
+    {
+      "text": "05.12.2020",
+      "label": "DATE",
+      "start_char": 4992,
+      "end_char": 5002
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 5260,
+      "end_char": 5270
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 5483,
+      "end_char": 5493
+    },
+    {
+      "text": "SSANYONG ENGINEERING AND CONSTRUCTION COMPANY LIMITED",
+      "label": "ORG",
+      "start_char": 6182,
+      "end_char": 6235
+    },
+    {
+      "text": "NATIONAL HIGHWAYS AUTHORITY OF INDIA', (2019) 15 SCC 131",
+      "label": "PRECEDENT",
+      "start_char": 6240,
+      "end_char": 6296
+    },
+    {
+      "text": "DYNA TECHNOLOGIES",
+      "label": "ORG",
+      "start_char": 6299,
+      "end_char": 6316
+    },
+    {
+      "text": "CROMPTON GREAVES LTD.', 2019 SCC ONLINE SC 1656",
+      "label": "PRECEDENT",
+      "start_char": 6331,
+      "end_char": 6378
+    },
+    {
+      "text": "INFRASTRUCTURE PRIVATE LIMITED VS.",
+      "label": "PRECEDENT",
+      "start_char": 6384,
+      "end_char": 6418
+    },
+    {
+      "text": "JINDAL BIOCHEM PRIVATE LIMITED",
+      "label": "ORG",
+      "start_char": 6419,
+      "end_char": 6449
+    },
+    {
+      "text": "ASSOCIATE BUILDERS",
+      "label": "PETITIONER",
+      "start_char": 6479,
+      "end_char": 6497
+    },
+    {
+      "text": "DELHI DEVELOPMENT AUTHORITY', (2015) 3 SCC 49",
+      "label": "PRECEDENT",
+      "start_char": 6502,
+      "end_char": 6547
+    },
+    {
+      "text": "P.SHEIK BATCHA ROWTHER",
+      "label": "OTHER_PERSON",
+      "start_char": 6550,
+      "end_char": 6572
+    },
+    {
+      "text": "N.R.ALAGAPPAN SERVAI', AIR 1959 MAD 12",
+      "label": "PRECEDENT",
+      "start_char": 6588,
+      "end_char": 6626
+    },
+    {
+      "text": "ORIENTAL STRUCTURAL ENGINEERS PRIVATE LIMITED VS.",
+      "label": "PRECEDENT",
+      "start_char": 6629,
+      "end_char": 6678
+    },
+    {
+      "text": "STATEOF KERALA', (2021) 6 SCC 150",
+      "label": "PRECEDENT",
+      "start_char": 6679,
+      "end_char": 6712
+    },
+    {
+      "text": "UNION OF INDIA VS.",
+      "label": "PRECEDENT",
+      "start_char": 6718,
+      "end_char": 6736
+    },
+    {
+      "text": "WARSAW ENGINEERS",
+      "label": "ORG",
+      "start_char": 6737,
+      "end_char": 6753
+    },
+    {
+      "text": "UNION OF INDIA VS.",
+      "label": "PRECEDENT",
+      "start_char": 6892,
+      "end_char": 6910
+    },
+    {
+      "text": "WARSAW ENGINEERS",
+      "label": "OTHER_PERSON",
+      "start_char": 6911,
+      "end_char": 6927
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 7023,
+      "end_char": 7033
+    },
+    {
+      "text": "Section 34(2)(a)",
+      "label": "PROVISION",
+      "start_char": 7234,
+      "end_char": 7250
+    },
+    {
+      "text": "Section 34(2)(a)",
+      "label": "PROVISION",
+      "start_char": 7511,
+      "end_char": 7527
+    },
+    {
+      "text": "WARSAW ENGINEERS",
+      "label": "OTHER_PERSON",
+      "start_char": 7753,
+      "end_char": 7769
+    },
+    {
+      "text": "Section 34(2)(a)",
+      "label": "PROVISION",
+      "start_char": 7872,
+      "end_char": 7888
+    },
+    {
+      "text": "NATIONAL HIGHWAYS AUTHORITY OF INDIA VS. M.HAKEEM & ANR.', 2021 SCC ONLINE SC 473",
+      "label": "PRECEDENT",
+      "start_char": 7980,
+      "end_char": 8061
+    },
+    {
+      "text": "PATEL ENGINEERING LTD VS.",
+      "label": "PRECEDENT",
+      "start_char": 8064,
+      "end_char": 8089
+    },
+    {
+      "text": "NORTH EASTERN ELECTRIC POWER CORPORATION LTD",
+      "label": "ORG",
+      "start_char": 8090,
+      "end_char": 8134
+    },
+    {
+      "text": "(2020) 7",
+      "label": "CASE_NUMBER",
+      "start_char": 8139,
+      "end_char": 8147
+    },
+    {
+      "text": "SCC 167",
+      "label": "PROVISION",
+      "start_char": 8148,
+      "end_char": 8155
+    },
+    {
+      "text": "SSANGYONG ENGINEER AND CONSTRUCTION COMPANY LTD",
+      "label": "ORG",
+      "start_char": 8158,
+      "end_char": 8205
+    },
+    {
+      "text": "NATIONAL HIGHWAYS AUTHORITY OF INDIA",
+      "label": "ORG",
+      "start_char": 8211,
+      "end_char": 8247
+    },
+    {
+      "text": "NATIONAL HIGHWAYS AUTHORITY OF INDIA VS.",
+      "label": "PRECEDENT",
+      "start_char": 8270,
+      "end_char": 8310
+    },
+    {
+      "text": "ITD CEMENTATION INDIA LTD.', (2015) 14 SCC 21",
+      "label": "PRECEDENT",
+      "start_char": 8311,
+      "end_char": 8356
+    },
+    {
+      "text": "DELHI DEVELOPMENT AUTHORITY', (2015) 3 SCC 49",
+      "label": "PRECEDENT",
+      "start_char": 8382,
+      "end_char": 8427
+    },
+    {
+      "text": "NATIONAL HGIHWAYS AUTHORITY OF INDIA",
+      "label": "PRECEDENT",
+      "start_char": 8434,
+      "end_char": 8470
+    },
+    {
+      "text": "R.N. SHETTY & COMPANY', 2014 SCC ONLINE DEL 3392",
+      "label": "ORG",
+      "start_char": 8475,
+      "end_char": 8523
+    },
+    {
+      "text": "Section 34(2)",
+      "label": "PROVISION",
+      "start_char": 8737,
+      "end_char": 8750
+    },
+    {
+      "text": "Amendment Act 2015",
+      "label": "STATUTE",
+      "start_char": 8827,
+      "end_char": 8845
+    },
+    {
+      "text": "23.10.2015",
+      "label": "DATE",
+      "start_char": 8863,
+      "end_char": 8873
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 8898,
+      "end_char": 8903
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 9029,
+      "end_char": 9042
+    },
+    {
+      "text": "DYNA TECHNOLOGIES",
+      "label": "ORG",
+      "start_char": 9047,
+      "end_char": 9064
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 9197,
+      "end_char": 9207
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 9215,
+      "end_char": 9230
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 9661,
+      "end_char": 9671
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 9779,
+      "end_char": 9789
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 10558,
+      "end_char": 10568
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 10576,
+      "end_char": 10591
+    },
+    {
+      "text": "UNION OF INDIA VS.",
+      "label": "PRECEDENT",
+      "start_char": 10632,
+      "end_char": 10650
+    },
+    {
+      "text": "WARSAW ENGINEERS",
+      "label": "ORG",
+      "start_char": 10655,
+      "end_char": 10671
+    },
+    {
+      "text": "17.04.2021",
+      "label": "DATE",
+      "start_char": 10704,
+      "end_char": 10714
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 10785,
+      "end_char": 10795
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 10897,
+      "end_char": 10907
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 11129,
+      "end_char": 11139
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 11298,
+      "end_char": 11308
+    },
+    {
+      "text": "sub-section (2) and sub- section (2A) of Section 34",
+      "label": "PROVISION",
+      "start_char": 11398,
+      "end_char": 11449
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 11518,
+      "end_char": 11528
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 11797,
+      "end_char": 11807
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 11940,
+      "end_char": 11950
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 12551,
+      "end_char": 12561
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 12691,
+      "end_char": 12701
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 12870,
+      "end_char": 12880
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 13508,
+      "end_char": 13518
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 13964,
+      "end_char": 13974
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 14653,
+      "end_char": 14663
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 14855,
+      "end_char": 14865
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 14991,
+      "end_char": 15001
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 15717,
+      "end_char": 15730
+    },
+    {
+      "text": "BHAGAT RAJA VS.",
+      "label": "PRECEDENT",
+      "start_char": 15824,
+      "end_char": 15839
+    },
+    {
+      "text": "UNION OF INDIA",
+      "label": "ORG",
+      "start_char": 15840,
+      "end_char": 15854
+    },
+    {
+      "text": "AIR 1967 SC 1606",
+      "label": "PRECEDENT",
+      "start_char": 15868,
+      "end_char": 15884
+    },
+    {
+      "text": "VISHNU DEV SHARMA VS.",
+      "label": "PRECEDENT",
+      "start_char": 16330,
+      "end_char": 16351
+    },
+    {
+      "text": "(2008) 3 SCC 172]",
+      "label": "CASE_NUMBER",
+      "start_char": 16373,
+      "end_char": 16390
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 17366,
+      "end_char": 17371
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 17815,
+      "end_char": 17825
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 17969,
+      "end_char": 17979
+    },
+    {
+      "text": "Warsaw Engineers",
+      "label": "ORG",
+      "start_char": 18039,
+      "end_char": 18055
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 18226,
+      "end_char": 18236
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 18680,
+      "end_char": 18690
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 19050,
+      "end_char": 19060
+    },
+    {
+      "text": "05.12.2020",
+      "label": "DATE",
+      "start_char": 19146,
+      "end_char": 19156
+    },
+    {
+      "text": "COM A.S.No.80/2016",
+      "label": "CASE_NUMBER",
+      "start_char": 19167,
+      "end_char": 19185
+    },
+    {
+      "text": "28.10.2021",
+      "label": "DATE",
+      "start_char": 19305,
+      "end_char": 19315
+    }
+  ],
+  "precedent_clusters": {
+    "ORIENTAL STRUCTURAL ENGINEERS PRIVATE LIMITED VS.": [
+      "INFRASTRUCTURE PRIVATE LIMITED VS.",
+      "ORIENTAL STRUCTURAL ENGINEERS PRIVATE LIMITED VS.",
+      "UNION OF INDIA VS.",
+      "UNION OF INDIA VS.",
+      "PATEL ENGINEERING LTD VS.",
+      "NATIONAL HIGHWAYS AUTHORITY OF INDIA VS.",
+      "NATIONAL HGIHWAYS AUTHORITY OF INDIA",
+      "UNION OF INDIA VS.",
+      "BHAGAT RAJA VS.",
+      "VISHNU DEV SHARMA VS."
+    ],
+    "DELHI DEVELOPMENT AUTHORITY', (2015) 3 SCC 49": [
+      "DELHI DEVELOPMENT AUTHORITY', (2015) 3 SCC 49",
+      "DELHI DEVELOPMENT AUTHORITY', (2015) 3 SCC 49"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 11(6)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 11(6)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34(2)(a)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34(2)(a)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34(2)(a)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34(2)(a)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34(2)(a)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34(2)(a)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34(2)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34(2)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "sub-section (2) and sub- section (2A) of Section 34",
+      "Arbitration Act",
+      "sub-section (2) and sub- section (2A) of Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "SCC 167",
+      "Karnataka Stamp Act, 1957",
+      "SCC 167",
+      "Karnataka Stamp Act, 1957"
+    ]
+  ],
+  "precedent_counts": {
+    "ORIENTAL STRUCTURAL ENGINEERS PRIVATE LIMITED VS.": 10,
+    "DELHI DEVELOPMENT AUTHORITY', (2015) 3 SCC 49": 2
+  },
+  "provision_counts": {
+    "Section 34 of Arbitration and Conciliation Act, 1996": 5,
+    "Section 11(6) of Arbitration and Conciliation Act, 1996": 1,
+    "Section 34 of Arbitration Act": 23,
+    "Section 34(2)(a) of Arbitration and Conciliation Act, 1996": 3,
+    "Section 34(2) of Arbitration and Conciliation Act, 1996": 1,
+    "sub-section (2) and sub- section (2A) of Section 34 of Arbitration Act": 1,
+    "SCC 167 of Karnataka Stamp Act, 1957": 1
+  },
+  "statute_counts": {
+    "Arbitration and Conciliation Act, 1996": 10,
+    "Arbitration Act": 24,
+    "Karnataka Stamp Act, 1957": 1
+  }
+}

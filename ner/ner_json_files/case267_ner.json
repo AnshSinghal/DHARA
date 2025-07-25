@@ -1,0 +1,1779 @@
+{
+  "entities": [
+    {
+      "text": "Yashoda Thakore",
+      "label": "PETITIONER",
+      "start_char": 17,
+      "end_char": 32
+    },
+    {
+      "text": "Kuchipudi Dance Centre",
+      "label": "RESPONDENT",
+      "start_char": 36,
+      "end_char": 58
+    },
+    {
+      "text": "C.Hari Shankar",
+      "label": "JUDGE",
+      "start_char": 92,
+      "end_char": 106
+    },
+    {
+      "text": "C.Hari Shankar",
+      "label": "JUDGE",
+      "start_char": 114,
+      "end_char": 128
+    },
+    {
+      "text": "High Court Of Delhi At New Delhi",
+      "label": "COURT",
+      "start_char": 188,
+      "end_char": 220
+    },
+    {
+      "text": "Yashoda Thakore",
+      "label": "PETITIONER",
+      "start_char": 315,
+      "end_char": 330
+    },
+    {
+      "text": "Prasanna S.",
+      "label": "LAWYER",
+      "start_char": 420,
+      "end_char": 431
+    },
+    {
+      "text": "Swati\n                                       Arya",
+      "label": "LAWYER",
+      "start_char": 440,
+      "end_char": 489
+    },
+    {
+      "text": "Kuchipudi Dance Centre",
+      "label": "RESPONDENT",
+      "start_char": 578,
+      "end_char": 600
+    },
+    {
+      "text": "C.Hari Shankar",
+      "label": "JUDGE",
+      "start_char": 763,
+      "end_char": 777
+    },
+    {
+      "text": "12.07.2023",
+      "label": "DATE",
+      "start_char": 845,
+      "end_char": 855
+    },
+    {
+      "text": "Swapnasundari",
+      "label": "OTHER_PERSON",
+      "start_char": 859,
+      "end_char": 872
+    },
+    {
+      "text": "CS (Comm) 671/2021",
+      "label": "CASE_NUMBER",
+      "start_char": 916,
+      "end_char": 934
+    },
+    {
+      "text": "District Judge (Commercial Court",
+      "label": "COURT",
+      "start_char": 955,
+      "end_char": 987
+    },
+    {
+      "text": "Yashoda Thakore",
+      "label": "PETITIONER",
+      "start_char": 1043,
+      "end_char": 1058
+    },
+    {
+      "text": "St. Petersburg",
+      "label": "GPE",
+      "start_char": 1115,
+      "end_char": 1129
+    },
+    {
+      "text": "Russia",
+      "label": "GPE",
+      "start_char": 1131,
+      "end_char": 1137
+    },
+    {
+      "text": "Swapnasundari",
+      "label": "OTHER_PERSON",
+      "start_char": 1190,
+      "end_char": 1203
+    },
+    {
+      "text": "Thakore",
+      "label": "PETITIONER",
+      "start_char": 1400,
+      "end_char": 1407
+    },
+    {
+      "text": "Kuchipudi Dance Centre",
+      "label": "ORG",
+      "start_char": 1457,
+      "end_char": 1479
+    },
+    {
+      "text": "Swapnasundari",
+      "label": "OTHER_PERSON",
+      "start_char": 1500,
+      "end_char": 1513
+    },
+    {
+      "text": "New Moti Bagh",
+      "label": "GPE",
+      "start_char": 1536,
+      "end_char": 1549
+    },
+    {
+      "text": "New Delhi-110023",
+      "label": "GPE",
+      "start_char": 1551,
+      "end_char": 1567
+    },
+    {
+      "text": "Swapnasundari",
+      "label": "OTHER_PERSON",
+      "start_char": 1573,
+      "end_char": 1586
+    },
+    {
+      "text": "Yashoda Thakore",
+      "label": "PETITIONER",
+      "start_char": 1638,
+      "end_char": 1653
+    },
+    {
+      "text": "YouTube LLC",
+      "label": "ORG",
+      "start_char": 1658,
+      "end_char": 1669
+    },
+    {
+      "text": "Kuchipudi Dance Centre",
+      "label": "ORG",
+      "start_char": 1738,
+      "end_char": 1760
+    },
+    {
+      "text": "Swapnasundari",
+      "label": "OTHER_PERSON",
+      "start_char": 1769,
+      "end_char": 1782
+    },
+    {
+      "text": "New Moti Bagh",
+      "label": "GPE",
+      "start_char": 1819,
+      "end_char": 1832
+    },
+    {
+      "text": "New Delhl-110023",
+      "label": "GPE",
+      "start_char": 1834,
+      "end_char": 1850
+    },
+    {
+      "text": "Yashoda Thakore",
+      "label": "PETITIONER",
+      "start_char": 1852,
+      "end_char": 1867
+    },
+    {
+      "text": "Hyderabad",
+      "label": "GPE",
+      "start_char": 1892,
+      "end_char": 1901
+    },
+    {
+      "text": "Yashoda Thakore",
+      "label": "PETITIONER",
+      "start_char": 1907,
+      "end_char": 1922
+    },
+    {
+      "text": "Swapnasundari",
+      "label": "OTHER_PERSON",
+      "start_char": 1927,
+      "end_char": 1940
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 2148,
+      "end_char": 2165
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 2173,
+      "end_char": 2202
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 2204,
+      "end_char": 2207
+    },
+    {
+      "text": "28 April 2023",
+      "label": "DATE",
+      "start_char": 2563,
+      "end_char": 2576
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 2673,
+      "end_char": 2684
+    },
+    {
+      "text": "Constitution of the India",
+      "label": "STATUTE",
+      "start_char": 2692,
+      "end_char": 2717
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 2819,
+      "end_char": 2824
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 3022,
+      "end_char": 3031
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 3076,
+      "end_char": 3085
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 3127,
+      "end_char": 3136
+    },
+    {
+      "text": "Section 62(2) 1",
+      "label": "PROVISION",
+      "start_char": 3158,
+      "end_char": 3173
+    },
+    {
+      "text": "Copyright Act, 1957",
+      "label": "STATUTE",
+      "start_char": 3181,
+      "end_char": 3200
+    },
+    {
+      "text": "Prasanna",
+      "label": "LAWYER",
+      "start_char": 3440,
+      "end_char": 3448
+    },
+    {
+      "text": "Section 62",
+      "label": "PROVISION",
+      "start_char": 3497,
+      "end_char": 3507
+    },
+    {
+      "text": "Copyright Act",
+      "label": "STATUTE",
+      "start_char": 3515,
+      "end_char": 3528
+    },
+    {
+      "text": "Section 6 2",
+      "label": "PROVISION",
+      "start_char": 3556,
+      "end_char": 3567
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 3575,
+      "end_char": 3602
+    },
+    {
+      "text": "Section 20 3",
+      "label": "PROVISION",
+      "start_char": 3650,
+      "end_char": 3662
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 3670,
+      "end_char": 3699
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 3706,
+      "end_char": 3709
+    },
+    {
+      "text": "28 April 2023",
+      "label": "DATE",
+      "start_char": 3755,
+      "end_char": 3768
+    },
+    {
+      "text": "Ultra Home Construction Pvt",
+      "label": "ORG",
+      "start_char": 3952,
+      "end_char": 3979
+    },
+    {
+      "text": "Ltd. v. Purushottam Kumar Choubey4",
+      "label": "PRECEDENT",
+      "start_char": 3981,
+      "end_char": 4015
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 4395,
+      "end_char": 4436
+    },
+    {
+      "text": "Sections 16 to 20",
+      "label": "PROVISION",
+      "start_char": 5404,
+      "end_char": 5421
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 5429,
+      "end_char": 5470
+    },
+    {
+      "text": "Prasanna",
+      "label": "LAWYER",
+      "start_char": 6377,
+      "end_char": 6385
+    },
+    {
+      "text": "Ultra Home Construction4",
+      "label": "ORG",
+      "start_char": 6498,
+      "end_char": 6522
+    },
+    {
+      "text": "Ultra Home Construction4",
+      "label": "ORG",
+      "start_char": 6573,
+      "end_char": 6597
+    },
+    {
+      "text": "Section 6",
+      "label": "PROVISION",
+      "start_char": 6655,
+      "end_char": 6664
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 6672,
+      "end_char": 6699
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 6900,
+      "end_char": 6913
+    },
+    {
+      "text": "Solidaire India Ltd. v. Fairgrowth Financial Services Ltd.5",
+      "label": "PRECEDENT",
+      "start_char": 6917,
+      "end_char": 6976
+    },
+    {
+      "text": "Prasanna",
+      "label": "LAWYER",
+      "start_char": 6998,
+      "end_char": 7006
+    },
+    {
+      "text": "Ultra Home Construction4",
+      "label": "PRECEDENT",
+      "start_char": 7106,
+      "end_char": 7130
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 7176,
+      "end_char": 7189
+    },
+    {
+      "text": "Indian Performing Rights Society Ltd. v. Sanjay Dalia 6",
+      "label": "PRECEDENT",
+      "start_char": 7193,
+      "end_char": 7248
+    },
+    {
+      "text": "Section 62",
+      "label": "PROVISION",
+      "start_char": 7255,
+      "end_char": 7265
+    },
+    {
+      "text": "Copyright Act",
+      "label": "STATUTE",
+      "start_char": 7273,
+      "end_char": 7286
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 7426,
+      "end_char": 7436
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 7444,
+      "end_char": 7447
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 7586,
+      "end_char": 7599
+    },
+    {
+      "text": "Sanjay Dalia6",
+      "label": "PRECEDENT",
+      "start_char": 7612,
+      "end_char": 7625
+    },
+    {
+      "text": "section 20",
+      "label": "PROVISION",
+      "start_char": 7689,
+      "end_char": 7699
+    },
+    {
+      "text": "section 134(2)",
+      "label": "PROVISION",
+      "start_char": 7731,
+      "end_char": 7745
+    },
+    {
+      "text": "Trade Marks Act, 1999",
+      "label": "STATUTE",
+      "start_char": 7753,
+      "end_char": 7774
+    },
+    {
+      "text": "section 62(2)",
+      "label": "PROVISION",
+      "start_char": 7779,
+      "end_char": 7792
+    },
+    {
+      "text": "Copyright Act, 1957",
+      "label": "STATUTE",
+      "start_char": 7800,
+      "end_char": 7819
+    },
+    {
+      "text": "section 20",
+      "label": "PROVISION",
+      "start_char": 8023,
+      "end_char": 8033
+    },
+    {
+      "text": "section 134(2)",
+      "label": "PROVISION",
+      "start_char": 8079,
+      "end_char": 8093
+    },
+    {
+      "text": "Trade marks Act, 1999",
+      "label": "STATUTE",
+      "start_char": 8101,
+      "end_char": 8122
+    },
+    {
+      "text": "section 62(2)",
+      "label": "PROVISION",
+      "start_char": 8127,
+      "end_char": 8140
+    },
+    {
+      "text": "Copyright Act, 1957",
+      "label": "STATUTE",
+      "start_char": 8148,
+      "end_char": 8167
+    },
+    {
+      "text": "section 20",
+      "label": "PROVISION",
+      "start_char": 8224,
+      "end_char": 8234
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 8321,
+      "end_char": 8334
+    },
+    {
+      "text": "section 20",
+      "label": "PROVISION",
+      "start_char": 8472,
+      "end_char": 8482
+    },
+    {
+      "text": "sections 134(2) and 62(2)",
+      "label": "PROVISION",
+      "start_char": 8570,
+      "end_char": 8595
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 8663,
+      "end_char": 8676
+    },
+    {
+      "text": "Section 62",
+      "label": "PROVISION",
+      "start_char": 8737,
+      "end_char": 8747
+    },
+    {
+      "text": "Copyright Act",
+      "label": "STATUTE",
+      "start_char": 8755,
+      "end_char": 8768
+    },
+    {
+      "text": "Section 134",
+      "label": "PROVISION",
+      "start_char": 8773,
+      "end_char": 8784
+    },
+    {
+      "text": "Trade Marks Act",
+      "label": "STATUTE",
+      "start_char": 8792,
+      "end_char": 8807
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 9324,
+      "end_char": 9347
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 9402,
+      "end_char": 9412
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 9420,
+      "end_char": 9443
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 9610,
+      "end_char": 9620
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 9628,
+      "end_char": 9651
+    },
+    {
+      "text": "Section 20(a) and Section 20(b)",
+      "label": "PROVISION",
+      "start_char": 9747,
+      "end_char": 9778
+    },
+    {
+      "text": "Section 20(c)",
+      "label": "PROVISION",
+      "start_char": 9900,
+      "end_char": 9913
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 9921,
+      "end_char": 9944
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 10057,
+      "end_char": 10067
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 10068,
+      "end_char": 10071
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 10190,
+      "end_char": 10195
+    },
+    {
+      "text": "Mulla",
+      "label": "OTHER_PERSON",
+      "start_char": 10521,
+      "end_char": 10526
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 10530,
+      "end_char": 10553
+    },
+    {
+      "text": "clauses (a) to (c) of Section 20",
+      "label": "PROVISION",
+      "start_char": 10590,
+      "end_char": 10622
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 10718,
+      "end_char": 10728
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 10736,
+      "end_char": 10759
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 11456,
+      "end_char": 11466
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 11467,
+      "end_char": 11470
+    },
+    {
+      "text": "Section 62",
+      "label": "PROVISION",
+      "start_char": 11472,
+      "end_char": 11482
+    },
+    {
+      "text": "Copyright Act",
+      "label": "STATUTE",
+      "start_char": 11490,
+      "end_char": 11503
+    },
+    {
+      "text": "Section 134",
+      "label": "PROVISION",
+      "start_char": 11508,
+      "end_char": 11519
+    },
+    {
+      "text": "Trade Marks Act",
+      "label": "STATUTE",
+      "start_char": 11527,
+      "end_char": 11542
+    },
+    {
+      "text": "Copyright Act",
+      "label": "STATUTE",
+      "start_char": 12594,
+      "end_char": 12607
+    },
+    {
+      "text": "Trade Marks Act",
+      "label": "STATUTE",
+      "start_char": 12616,
+      "end_char": 12631
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 12749,
+      "end_char": 12759
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 12760,
+      "end_char": 12763
+    },
+    {
+      "text": "Copyright Act",
+      "label": "STATUTE",
+      "start_char": 12954,
+      "end_char": 12967
+    },
+    {
+      "text": "Trade Marks Act",
+      "label": "STATUTE",
+      "start_char": 12976,
+      "end_char": 12991
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 13384,
+      "end_char": 13394
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 13395,
+      "end_char": 13398
+    },
+    {
+      "text": "Copyright Act",
+      "label": "STATUTE",
+      "start_char": 13563,
+      "end_char": 13576
+    },
+    {
+      "text": "Trade Marks Act",
+      "label": "STATUTE",
+      "start_char": 13585,
+      "end_char": 13600
+    },
+    {
+      "text": "Section 62",
+      "label": "PROVISION",
+      "start_char": 13820,
+      "end_char": 13830
+    },
+    {
+      "text": "Copyright Act",
+      "label": "STATUTE",
+      "start_char": 13838,
+      "end_char": 13851
+    },
+    {
+      "text": "Section 134",
+      "label": "PROVISION",
+      "start_char": 13856,
+      "end_char": 13867
+    },
+    {
+      "text": "Trade Marks Act",
+      "label": "STATUTE",
+      "start_char": 13875,
+      "end_char": 13890
+    },
+    {
+      "text": "Section 62",
+      "label": "PROVISION",
+      "start_char": 14903,
+      "end_char": 14913
+    },
+    {
+      "text": "Copyright Act",
+      "label": "STATUTE",
+      "start_char": 14921,
+      "end_char": 14934
+    },
+    {
+      "text": "Section 134",
+      "label": "PROVISION",
+      "start_char": 14939,
+      "end_char": 14950
+    },
+    {
+      "text": "Trade Marks Act",
+      "label": "STATUTE",
+      "start_char": 14958,
+      "end_char": 14973
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 15261,
+      "end_char": 15271
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 15272,
+      "end_char": 15275
+    },
+    {
+      "text": "Section 62",
+      "label": "PROVISION",
+      "start_char": 15812,
+      "end_char": 15822
+    },
+    {
+      "text": "Copyright Act",
+      "label": "STATUTE",
+      "start_char": 15830,
+      "end_char": 15843
+    },
+    {
+      "text": "Section 134",
+      "label": "PROVISION",
+      "start_char": 15848,
+      "end_char": 15859
+    },
+    {
+      "text": "Trade Marks Act",
+      "label": "STATUTE",
+      "start_char": 15867,
+      "end_char": 15882
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 15923,
+      "end_char": 15926
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 16008,
+      "end_char": 16018
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 16019,
+      "end_char": 16022
+    },
+    {
+      "text": "Copyright Act",
+      "label": "STATUTE",
+      "start_char": 16701,
+      "end_char": 16714
+    },
+    {
+      "text": "Trade Marks Act",
+      "label": "STATUTE",
+      "start_char": 16723,
+      "end_char": 16738
+    },
+    {
+      "text": "Section 62",
+      "label": "PROVISION",
+      "start_char": 16826,
+      "end_char": 16836
+    },
+    {
+      "text": "Copyright Act",
+      "label": "STATUTE",
+      "start_char": 16844,
+      "end_char": 16857
+    },
+    {
+      "text": "Section 134",
+      "label": "PROVISION",
+      "start_char": 16862,
+      "end_char": 16873
+    },
+    {
+      "text": "Trade Marks Act",
+      "label": "STATUTE",
+      "start_char": 16881,
+      "end_char": 16896
+    },
+    {
+      "text": "Indian Performing Rights Society6",
+      "label": "ORG",
+      "start_char": 17462,
+      "end_char": 17495
+    },
+    {
+      "text": "Ultra Home Construction4",
+      "label": "ORG",
+      "start_char": 17512,
+      "end_char": 17536
+    },
+    {
+      "text": "Section 62",
+      "label": "PROVISION",
+      "start_char": 17579,
+      "end_char": 17589
+    },
+    {
+      "text": "Copyright Act",
+      "label": "STATUTE",
+      "start_char": 17597,
+      "end_char": 17610
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 17783,
+      "end_char": 17793
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 17801,
+      "end_char": 17804
+    },
+    {
+      "text": "Indian Performing Rights Society6",
+      "label": "ORG",
+      "start_char": 18172,
+      "end_char": 18205
+    },
+    {
+      "text": "Ultra Home Construction4",
+      "label": "ORG",
+      "start_char": 18222,
+      "end_char": 18246
+    },
+    {
+      "text": "Prasanna",
+      "label": "LAWYER",
+      "start_char": 18304,
+      "end_char": 18312
+    },
+    {
+      "text": "Prasanna",
+      "label": "LAWYER",
+      "start_char": 18317,
+      "end_char": 18325
+    },
+    {
+      "text": "Section 6",
+      "label": "PROVISION",
+      "start_char": 18399,
+      "end_char": 18408
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 18416,
+      "end_char": 18437
+    },
+    {
+      "text": "Section 6",
+      "label": "PROVISION",
+      "start_char": 18485,
+      "end_char": 18494
+    },
+    {
+      "text": "Sections 16 to 20",
+      "label": "PROVISION",
+      "start_char": 18523,
+      "end_char": 18540
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 18548,
+      "end_char": 18551
+    },
+    {
+      "text": "Prasanna",
+      "label": "LAWYER",
+      "start_char": 18652,
+      "end_char": 18660
+    },
+    {
+      "text": "Section 6",
+      "label": "PROVISION",
+      "start_char": 18683,
+      "end_char": 18692
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 18700,
+      "end_char": 18721
+    },
+    {
+      "text": "Section 6",
+      "label": "PROVISION",
+      "start_char": 18822,
+      "end_char": 18831
+    },
+    {
+      "text": "Section 62 of the Section 6",
+      "label": "PROVISION",
+      "start_char": 18980,
+      "end_char": 19007
+    },
+    {
+      "text": "Prasanna",
+      "label": "LAWYER",
+      "start_char": 19052,
+      "end_char": 19060
+    },
+    {
+      "text": "Section 6",
+      "label": "PROVISION",
+      "start_char": 19066,
+      "end_char": 19075
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 19083,
+      "end_char": 19104
+    },
+    {
+      "text": "Section 62",
+      "label": "PROVISION",
+      "start_char": 19124,
+      "end_char": 19134
+    },
+    {
+      "text": "Copyright Act",
+      "label": "STATUTE",
+      "start_char": 19142,
+      "end_char": 19155
+    },
+    {
+      "text": "Indian Performing Rights Society6",
+      "label": "ORG",
+      "start_char": 19208,
+      "end_char": 19241
+    },
+    {
+      "text": "Ultra Home Construction4",
+      "label": "ORG",
+      "start_char": 19246,
+      "end_char": 19270
+    },
+    {
+      "text": "Section 62(2)",
+      "label": "PROVISION",
+      "start_char": 19288,
+      "end_char": 19301
+    },
+    {
+      "text": "Copyright Act",
+      "label": "STATUTE",
+      "start_char": 19309,
+      "end_char": 19322
+    },
+    {
+      "text": "Section 62",
+      "label": "PROVISION",
+      "start_char": 19384,
+      "end_char": 19394
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 19404,
+      "end_char": 19407
+    },
+    {
+      "text": "Section 6",
+      "label": "PROVISION",
+      "start_char": 19447,
+      "end_char": 19456
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 19464,
+      "end_char": 19485
+    },
+    {
+      "text": "Section 62",
+      "label": "PROVISION",
+      "start_char": 19560,
+      "end_char": 19570
+    },
+    {
+      "text": "Copyright Act",
+      "label": "STATUTE",
+      "start_char": 19578,
+      "end_char": 19591
+    },
+    {
+      "text": "Section 6",
+      "label": "PROVISION",
+      "start_char": 19593,
+      "end_char": 19602
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 19610,
+      "end_char": 19631
+    },
+    {
+      "text": "Section 16 to 20",
+      "label": "PROVISION",
+      "start_char": 19643,
+      "end_char": 19659
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 19667,
+      "end_char": 19670
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 19739,
+      "end_char": 19752
+    },
+    {
+      "text": "Indian Performing Rights Society6",
+      "label": "ORG",
+      "start_char": 19756,
+      "end_char": 19789
+    },
+    {
+      "text": "Ultra Home Construction4",
+      "label": "ORG",
+      "start_char": 19833,
+      "end_char": 19857
+    },
+    {
+      "text": "Copyright Act",
+      "label": "STATUTE",
+      "start_char": 19920,
+      "end_char": 19933
+    },
+    {
+      "text": "Section 62",
+      "label": "PROVISION",
+      "start_char": 20117,
+      "end_char": 20127
+    },
+    {
+      "text": "Copyright Act",
+      "label": "STATUTE",
+      "start_char": 20135,
+      "end_char": 20148
+    },
+    {
+      "text": "Section 16 to 20",
+      "label": "PROVISION",
+      "start_char": 20158,
+      "end_char": 20174
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 20182,
+      "end_char": 20185
+    },
+    {
+      "text": "Prasanna",
+      "label": "LAWYER",
+      "start_char": 20208,
+      "end_char": 20216
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 20348,
+      "end_char": 20361
+    },
+    {
+      "text": "Solidaire5",
+      "label": "PROVISION",
+      "start_char": 20365,
+      "end_char": 20375
+    },
+    {
+      "text": "Special Court (Trial of Offences Relating to Transactions and Securities) Act, 1992",
+      "label": "STATUTE",
+      "start_char": 20837,
+      "end_char": 20920
+    },
+    {
+      "text": "Sick Industrial Companies (Special Provisions) Act, 1985",
+      "label": "STATUTE",
+      "start_char": 20929,
+      "end_char": 20985
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 21101,
+      "end_char": 21114
+    },
+    {
+      "text": "Ultra Home Construction4",
+      "label": "ORG",
+      "start_char": 21224,
+      "end_char": 21248
+    },
+    {
+      "text": "Section 62",
+      "label": "PROVISION",
+      "start_char": 21289,
+      "end_char": 21299
+    },
+    {
+      "text": "Copyright Act",
+      "label": "STATUTE",
+      "start_char": 21307,
+      "end_char": 21320
+    },
+    {
+      "text": "Sections 16 to 20",
+      "label": "PROVISION",
+      "start_char": 21325,
+      "end_char": 21342
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 21350,
+      "end_char": 21353
+    },
+    {
+      "text": "Prasanna",
+      "label": "LAWYER",
+      "start_char": 21488,
+      "end_char": 21496
+    },
+    {
+      "text": "Prasanna",
+      "label": "LAWYER",
+      "start_char": 21507,
+      "end_char": 21515
+    },
+    {
+      "text": "Ultra Home Construction4",
+      "label": "ORG",
+      "start_char": 21592,
+      "end_char": 21616
+    },
+    {
+      "text": "Section 6",
+      "label": "PROVISION",
+      "start_char": 21633,
+      "end_char": 21642
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 21650,
+      "end_char": 21671
+    },
+    {
+      "text": "Ultra Home Construction4",
+      "label": "ORG",
+      "start_char": 21722,
+      "end_char": 21746
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 22044,
+      "end_char": 22055
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 22063,
+      "end_char": 22084
+    },
+    {
+      "text": "Prasanna",
+      "label": "LAWYER",
+      "start_char": 22162,
+      "end_char": 22170
+    },
+    {
+      "text": "C.HARI SHANKAR",
+      "label": "JUDGE",
+      "start_char": 22293,
+      "end_char": 22307
+    },
+    {
+      "text": "JULY 12, 2023",
+      "label": "DATE",
+      "start_char": 22311,
+      "end_char": 22324
+    }
+  ],
+  "precedent_clusters": {
+    "Indian Performing Rights Society Ltd. v. Sanjay Dalia 6": [
+      "Ltd. v. Purushottam Kumar Choubey4",
+      "Solidaire India Ltd. v. Fairgrowth Financial Services Ltd.5",
+      "Ultra Home Construction4",
+      "Indian Performing Rights Society Ltd. v. Sanjay Dalia 6",
+      "Sanjay Dalia6"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908",
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Article 227",
+      "Constitution of the India",
+      "Article 227",
+      "Constitution of the India"
+    ],
+    [
+      "Section 62(2) 1",
+      "Copyright Act, 1957",
+      "Section 62(2) 1",
+      "Copyright Act, 1957"
+    ],
+    [
+      "Section 62",
+      "Copyright Act",
+      "Section 62",
+      "Copyright Act"
+    ],
+    [
+      "Section 6 2",
+      "Commercial Courts Act, 2015",
+      "Section 6 2",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 20 3",
+      "Code of Civil Procedure, 1908",
+      "Section 20 3",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Sections 16 to 20",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "Sections 16 to 20",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "Section 6",
+      "Commercial Courts Act, 2015",
+      "Section 6",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 62",
+      "Copyright Act",
+      "Section 62",
+      "Copyright Act"
+    ],
+    [
+      "Section 20",
+      "CPC",
+      "Section 20",
+      "CPC"
+    ],
+    [
+      "section 134(2)",
+      "Trade Marks Act, 1999",
+      "section 134(2)",
+      "Trade Marks Act, 1999"
+    ],
+    [
+      "section 62(2)",
+      "Copyright Act, 1957",
+      "section 62(2)",
+      "Copyright Act, 1957"
+    ],
+    [
+      "section 134(2)",
+      "Trade marks Act, 1999",
+      "section 134(2)",
+      "Trade marks Act, 1999"
+    ],
+    [
+      "section 62(2)",
+      "Copyright Act, 1957",
+      "section 62(2)",
+      "Copyright Act, 1957"
+    ],
+    [
+      "Section 62",
+      "Copyright Act",
+      "Section 62",
+      "Copyright Act"
+    ],
+    [
+      "Section 134",
+      "Trade Marks Act",
+      "Section 134",
+      "Trade Marks Act"
+    ],
+    [
+      "Section 20",
+      "Code of Civil Procedure",
+      "Section 20",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 20",
+      "Code of Civil Procedure",
+      "Section 20",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 20(c)",
+      "Code of Civil Procedure",
+      "Section 20(c)",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 20",
+      "CPC",
+      "Section 20",
+      "CPC"
+    ],
+    [
+      "Section 20",
+      "Code of Civil Procedure",
+      "Section 20",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 20",
+      "CPC",
+      "Section 20",
+      "CPC"
+    ],
+    [
+      "Section 62",
+      "Copyright Act",
+      "Section 62",
+      "Copyright Act"
+    ],
+    [
+      "Section 134",
+      "Trade Marks Act",
+      "Section 134",
+      "Trade Marks Act"
+    ],
+    [
+      "Section 20",
+      "CPC",
+      "Section 20",
+      "CPC"
+    ],
+    [
+      "Section 20",
+      "CPC",
+      "Section 20",
+      "CPC"
+    ],
+    [
+      "Section 62",
+      "Copyright Act",
+      "Section 62",
+      "Copyright Act"
+    ],
+    [
+      "Section 134",
+      "Trade Marks Act",
+      "Section 134",
+      "Trade Marks Act"
+    ],
+    [
+      "Section 62",
+      "Copyright Act",
+      "Section 62",
+      "Copyright Act"
+    ],
+    [
+      "Section 134",
+      "Trade Marks Act",
+      "Section 134",
+      "Trade Marks Act"
+    ],
+    [
+      "Section 20",
+      "CPC",
+      "Section 20",
+      "CPC"
+    ],
+    [
+      "Section 62",
+      "Copyright Act",
+      "Section 62",
+      "Copyright Act"
+    ],
+    [
+      "Section 134",
+      "Trade Marks Act",
+      "Section 134",
+      "Trade Marks Act"
+    ],
+    [
+      "Section 20",
+      "CPC",
+      "Section 20",
+      "CPC"
+    ],
+    [
+      "Section 62",
+      "Copyright Act",
+      "Section 62",
+      "Copyright Act"
+    ],
+    [
+      "Section 134",
+      "Trade Marks Act",
+      "Section 134",
+      "Trade Marks Act"
+    ],
+    [
+      "Section 62",
+      "Copyright Act",
+      "Section 62",
+      "Copyright Act"
+    ],
+    [
+      "Section 20",
+      "CPC",
+      "Section 20",
+      "CPC"
+    ],
+    [
+      "Section 6",
+      "Commercial Courts Act",
+      "Section 6",
+      "Commercial Courts Act"
+    ],
+    [
+      "Sections 16 to 20",
+      "CPC",
+      "Sections 16 to 20",
+      "CPC"
+    ],
+    [
+      "Section 6",
+      "Commercial Courts Act",
+      "Section 6",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 6",
+      "Commercial Courts Act",
+      "Section 6",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 62",
+      "Copyright Act",
+      "Section 62",
+      "Copyright Act"
+    ],
+    [
+      "Section 62(2)",
+      "Copyright Act",
+      "Section 62(2)",
+      "Copyright Act"
+    ],
+    [
+      "Section 62",
+      "CPC",
+      "Section 62",
+      "CPC"
+    ],
+    [
+      "Section 6",
+      "Commercial Courts Act",
+      "Section 6",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 62",
+      "Copyright Act",
+      "Section 62",
+      "Copyright Act"
+    ],
+    [
+      "Section 6",
+      "Commercial Courts Act",
+      "Section 6",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 16 to 20",
+      "CPC",
+      "Section 16 to 20",
+      "CPC"
+    ],
+    [
+      "Section 62",
+      "Copyright Act",
+      "Section 62",
+      "Copyright Act"
+    ],
+    [
+      "Section 16 to 20",
+      "CPC",
+      "Section 16 to 20",
+      "CPC"
+    ],
+    [
+      "Section 62",
+      "Copyright Act",
+      "Section 62",
+      "Copyright Act"
+    ],
+    [
+      "Sections 16 to 20",
+      "CPC",
+      "Sections 16 to 20",
+      "CPC"
+    ],
+    [
+      "Section 6",
+      "Commercial Courts Act",
+      "Section 6",
+      "Commercial Courts Act"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "section 20",
+      "CPC",
+      "section 20",
+      "CPC"
+    ],
+    [
+      "section 20",
+      "CPC",
+      "section 20",
+      "CPC"
+    ],
+    [
+      "section 20",
+      "CPC",
+      "section 20",
+      "CPC"
+    ],
+    [
+      "section 20",
+      "CPC",
+      "section 20",
+      "CPC"
+    ],
+    [
+      "sections 134(2) and 62(2)",
+      "Copyright Act, 1957",
+      "sections 134(2) and 62(2)",
+      "Copyright Act, 1957"
+    ],
+    [
+      "Section 20(a) and Section 20(b)",
+      "Code of Civil Procedure",
+      "Section 20(a) and Section 20(b)",
+      "Code of Civil Procedure"
+    ],
+    [
+      "clauses (a) to (c) of Section 20",
+      "CPC",
+      "clauses (a) to (c) of Section 20",
+      "CPC"
+    ],
+    [
+      "Section 6",
+      "Commercial Courts Act",
+      "Section 6",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 6",
+      "Commercial Courts Act",
+      "Section 6",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 62 of the Section 6",
+      "Commercial Courts Act",
+      "Section 62 of the Section 6",
+      "Commercial Courts Act"
+    ],
+    [
+      "Solidaire5",
+      "CPC",
+      "Solidaire5",
+      "CPC"
+    ]
+  ],
+  "precedent_counts": {
+    "Indian Performing Rights Society Ltd. v. Sanjay Dalia 6": 5
+  },
+  "provision_counts": {
+    "Order VII Rule 10 of Code of Civil Procedure, 1908": 1,
+    "Article 227 of Constitution of the India": 1,
+    "Section 62(2) 1 of Copyright Act, 1957": 1,
+    "Section 62 of Copyright Act": 13,
+    "Section 6 2 of Commercial Courts Act, 2015": 1,
+    "Section 20 3 of Code of Civil Procedure, 1908": 1,
+    "Sections 16 to 20 of Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Section 6 of Commercial Courts Act, 2015": 1,
+    "Section 20 of CPC": 8,
+    "section 134(2) of Trade Marks Act, 1999": 1,
+    "section 62(2) of Copyright Act, 1957": 2,
+    "section 134(2) of Trade marks Act, 1999": 1,
+    "Section 134 of Trade Marks Act": 6,
+    "Section 20 of Code of Civil Procedure": 3,
+    "Section 20(c) of Code of Civil Procedure": 1,
+    "Section 6 of Commercial Courts Act": 8,
+    "Sections 16 to 20 of CPC": 2,
+    "Section 62(2) of Copyright Act": 1,
+    "Section 62 of CPC": 1,
+    "Section 16 to 20 of CPC": 2,
+    "Article 227 of Constitution of India": 1,
+    "section 20 of CPC": 4,
+    "sections 134(2) and 62(2) of Copyright Act, 1957": 1,
+    "Section 20(a) and Section 20(b) of Code of Civil Procedure": 1,
+    "clauses (a) to (c) of Section 20 of CPC": 1,
+    "Section 62 of the Section 6 of Commercial Courts Act": 1,
+    "Solidaire5 of CPC": 1
+  },
+  "statute_counts": {
+    "Code of Civil Procedure, 1908": 2,
+    "Constitution of the India": 1,
+    "Copyright Act, 1957": 4,
+    "Copyright Act": 14,
+    "Commercial Courts Act, 2015": 2,
+    "Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "CPC": 19,
+    "Trade Marks Act, 1999": 1,
+    "Trade marks Act, 1999": 1,
+    "Trade Marks Act": 6,
+    "Code of Civil Procedure": 5,
+    "Commercial Courts Act": 9,
+    "Constitution of India": 1
+  }
+}

@@ -1,0 +1,1403 @@
+{
+  "entities": [
+    {
+      "text": "Swan Lng Pvt. Ltd.",
+      "label": "PETITIONER",
+      "start_char": 19,
+      "end_char": 37
+    },
+    {
+      "text": "National Marine Infrastructure India",
+      "label": "RESPONDENT",
+      "start_char": 41,
+      "end_char": 77
+    },
+    {
+      "text": "M.R. Shah",
+      "label": "JUDGE",
+      "start_char": 110,
+      "end_char": 119
+    },
+    {
+      "text": "A.Y. Kogje",
+      "label": "JUDGE",
+      "start_char": 121,
+      "end_char": 131
+    },
+    {
+      "text": "High Court Of Gujarat At Ahmedabad",
+      "label": "COURT",
+      "start_char": 226,
+      "end_char": 260
+    },
+    {
+      "text": "M.R. Shah",
+      "label": "JUDGE",
+      "start_char": 476,
+      "end_char": 485
+    },
+    {
+      "text": "A.Y. Kogje",
+      "label": "JUDGE",
+      "start_char": 549,
+      "end_char": 559
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 1024,
+      "end_char": 1045
+    },
+    {
+      "text": "NATIONAL MARINE INFRASTRUCTURE INDIA PVT",
+      "label": "RESPONDENT",
+      "start_char": 1249,
+      "end_char": 1289
+    },
+    {
+      "text": "KAMAL   TRIVEDI",
+      "label": "OTHER_PERSON",
+      "start_char": 1383,
+      "end_char": 1398
+    },
+    {
+      "text": "JAY   KANSARA",
+      "label": "OTHER_PERSON",
+      "start_char": 1435,
+      "end_char": 1448
+    },
+    {
+      "text": "WADIAGHANDY & CO",
+      "label": "ORG",
+      "start_char": 1460,
+      "end_char": 1476
+    },
+    {
+      "text": "MIHIR THAKOR",
+      "label": "OTHER_PERSON",
+      "start_char": 1509,
+      "end_char": 1521
+    },
+    {
+      "text": "PAURAMIB SHETH",
+      "label": "OTHER_PERSON",
+      "start_char": 1547,
+      "end_char": 1561
+    },
+    {
+      "text": "M.R. SHAH",
+      "label": "JUDGE",
+      "start_char": 1689,
+      "end_char": 1698
+    },
+    {
+      "text": "A.Y. KOGJE",
+      "label": "JUDGE",
+      "start_char": 1743,
+      "end_char": 1753
+    },
+    {
+      "text": "M.R. SHAH",
+      "label": "JUDGE",
+      "start_char": 1867,
+      "end_char": 1876
+    },
+    {
+      "text": "Paurami Sheth",
+      "label": "OTHER_PERSON",
+      "start_char": 1894,
+      "end_char": 1907
+    },
+    {
+      "text": "C/FA/577/2018 JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 2095,
+      "end_char": 2117
+    },
+    {
+      "text": "Commercial   Court,   Rajkot",
+      "label": "COURT",
+      "start_char": 2320,
+      "end_char": 2348
+    },
+    {
+      "text": "Civil Miscellaneous Application No.3 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 2372,
+      "end_char": 2416
+    },
+    {
+      "text": "17.02.2018",
+      "label": "DATE",
+      "start_char": 2424,
+      "end_char": 2434
+    },
+    {
+      "text": "Section   13",
+      "label": "PROVISION",
+      "start_char": 2511,
+      "end_char": 2523
+    },
+    {
+      "text": "Commercial  Court Act, 2015",
+      "label": "STATUTE",
+      "start_char": 2691,
+      "end_char": 2718
+    },
+    {
+      "text": "SEL",
+      "label": "ORG",
+      "start_char": 2861,
+      "end_char": 2864
+    },
+    {
+      "text": "SEL",
+      "label": "ORG",
+      "start_char": 2875,
+      "end_char": 2878
+    },
+    {
+      "text": "Gujarat   Maritime   Board",
+      "label": "ORG",
+      "start_char": 3033,
+      "end_char": 3059
+    },
+    {
+      "text": "28.11.2013",
+      "label": "DATE",
+      "start_char": 3098,
+      "end_char": 3108
+    },
+    {
+      "text": "SEL",
+      "label": "ORG",
+      "start_char": 3146,
+      "end_char": 3149
+    },
+    {
+      "text": "Jafrabad",
+      "label": "GPE",
+      "start_char": 3228,
+      "end_char": 3236
+    },
+    {
+      "text": "SEL",
+      "label": "ORG",
+      "start_char": 3304,
+      "end_char": 3307
+    },
+    {
+      "text": "GMB",
+      "label": "ORG",
+      "start_char": 3438,
+      "end_char": 3441
+    },
+    {
+      "text": "Swan LNG Pvt. Ltd",
+      "label": "ORG",
+      "start_char": 3566,
+      "end_char": 3583
+    },
+    {
+      "text": "12.02.2013",
+      "label": "DATE",
+      "start_char": 3607,
+      "end_char": 3617
+    },
+    {
+      "text": "05.08.2016",
+      "label": "DATE",
+      "start_char": 4325,
+      "end_char": 4335
+    },
+    {
+      "text": "15.11.2016",
+      "label": "DATE",
+      "start_char": 4403,
+      "end_char": 4413
+    },
+    {
+      "text": "Jafrabad",
+      "label": "GPE",
+      "start_char": 4639,
+      "end_char": 4647
+    },
+    {
+      "text": "23.03.2017",
+      "label": "DATE",
+      "start_char": 5785,
+      "end_char": 5795
+    },
+    {
+      "text": "C/FA/577/2018 JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 5883,
+      "end_char": 5905
+    },
+    {
+      "text": "LNG Policy, 2012",
+      "label": "STATUTE",
+      "start_char": 6923,
+      "end_char": 6939
+    },
+    {
+      "text": "Gujarat State Petroleum Corporation Limited",
+      "label": "ORG",
+      "start_char": 7059,
+      "end_char": 7102
+    },
+    {
+      "text": "Bharat Petroleum  Corporation   Limited",
+      "label": "ORG",
+      "start_char": 7104,
+      "end_char": 7143
+    },
+    {
+      "text": "Indian   Oil   Corporation   Limited",
+      "label": "ORG",
+      "start_char": 7147,
+      "end_char": 7183
+    },
+    {
+      "text": "ONGC  Limited",
+      "label": "ORG",
+      "start_char": 7192,
+      "end_char": 7205
+    },
+    {
+      "text": "GMB",
+      "label": "ORG",
+      "start_char": 7698,
+      "end_char": 7701
+    },
+    {
+      "text": "08.12.2016",
+      "label": "DATE",
+      "start_char": 7708,
+      "end_char": 7718
+    },
+    {
+      "text": "C/FA/577/2018 JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 7792,
+      "end_char": 7814
+    },
+    {
+      "text": "Commercial   Court   at   Rajkot",
+      "label": "COURT",
+      "start_char": 8818,
+      "end_char": 8850
+    },
+    {
+      "text": "09.02.2018",
+      "label": "DATE",
+      "start_char": 8858,
+      "end_char": 8868
+    },
+    {
+      "text": "Section   9",
+      "label": "PROVISION",
+      "start_char": 8968,
+      "end_char": 8979
+    },
+    {
+      "text": "Arbitration   Act",
+      "label": "STATUTE",
+      "start_char": 8993,
+      "end_char": 9010
+    },
+    {
+      "text": "09.02.2018",
+      "label": "DATE",
+      "start_char": 9166,
+      "end_char": 9176
+    },
+    {
+      "text": "16.02.2018",
+      "label": "DATE",
+      "start_char": 9485,
+      "end_char": 9495
+    },
+    {
+      "text": "09.02.2018",
+      "label": "DATE",
+      "start_char": 9590,
+      "end_char": 9600
+    },
+    {
+      "text": "C/FA/577/2018 JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 9885,
+      "end_char": 9907
+    },
+    {
+      "text": "16.02.2018",
+      "label": "DATE",
+      "start_char": 10030,
+      "end_char": 10040
+    },
+    {
+      "text": "16.01.2018",
+      "label": "DATE",
+      "start_char": 10239,
+      "end_char": 10249
+    },
+    {
+      "text": "17.02.2018",
+      "label": "DATE",
+      "start_char": 10581,
+      "end_char": 10591
+    },
+    {
+      "text": "17.02.2018",
+      "label": "DATE",
+      "start_char": 10600,
+      "end_char": 10610
+    },
+    {
+      "text": "06.03.2018",
+      "label": "DATE",
+      "start_char": 11317,
+      "end_char": 11327
+    },
+    {
+      "text": "Commercial Court, Rajkot",
+      "label": "COURT",
+      "start_char": 11431,
+      "end_char": 11455
+    },
+    {
+      "text": "17.02.2018",
+      "label": "DATE",
+      "start_char": 11463,
+      "end_char": 11473
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 11555,
+      "end_char": 11565
+    },
+    {
+      "text": "Commercial Court Act,  2015",
+      "label": "STATUTE",
+      "start_char": 11573,
+      "end_char": 11600
+    },
+    {
+      "text": "Kamal Trivedi",
+      "label": "OTHER_PERSON",
+      "start_char": 11615,
+      "end_char": 11628
+    },
+    {
+      "text": "C/FA/577/2018 JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 11671,
+      "end_char": 11693
+    },
+    {
+      "text": "Mihir  Thakore",
+      "label": "OTHER_PERSON",
+      "start_char": 11770,
+      "end_char": 11784
+    },
+    {
+      "text": "Kamal   Trivedi",
+      "label": "OTHER_PERSON",
+      "start_char": 11893,
+      "end_char": 11908
+    },
+    {
+      "text": "Kamal Trivedi",
+      "label": "OTHER_PERSON",
+      "start_char": 12250,
+      "end_char": 12263
+    },
+    {
+      "text": "GMB",
+      "label": "ORG",
+      "start_char": 12947,
+      "end_char": 12950
+    },
+    {
+      "text": "Kamal   Trivedi",
+      "label": "OTHER_PERSON",
+      "start_char": 13027,
+      "end_char": 13042
+    },
+    {
+      "text": "Axis Bank",
+      "label": "ORG",
+      "start_char": 13470,
+      "end_char": 13479
+    },
+    {
+      "text": "C/FA/577/2018 JUDGMENT Banker",
+      "label": "CASE_NUMBER",
+      "start_char": 13483,
+      "end_char": 13512
+    },
+    {
+      "text": "09.02.2018",
+      "label": "DATE",
+      "start_char": 13887,
+      "end_char": 13897
+    },
+    {
+      "text": "Kamal   Trivedi",
+      "label": "OTHER_PERSON",
+      "start_char": 14060,
+      "end_char": 14075
+    },
+    {
+      "text": "Trivedi",
+      "label": "OTHER_PERSON",
+      "start_char": 15297,
+      "end_char": 15304
+    },
+    {
+      "text": "C/FA/577/2018 JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 15316,
+      "end_char": 15338
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 15447,
+      "end_char": 15460
+    },
+    {
+      "text": "Hindustan Dorr  Oliver Limited vs. Gujarat State Fertilizers and Chemicals Limited",
+      "label": "PRECEDENT",
+      "start_char": 15540,
+      "end_char": 15622
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 15727,
+      "end_char": 15740
+    },
+    {
+      "text": "SLP (C) No.8939 of  ",
+      "label": "CASE_NUMBER",
+      "start_char": 15744,
+      "end_char": 15764
+    },
+    {
+      "text": "UP State Sugar Corporation vs. Sumac International Limited  reported in (1997) 1",
+      "label": "PRECEDENT",
+      "start_char": 15776,
+      "end_char": 15856
+    },
+    {
+      "text": "SCC 568",
+      "label": "PROVISION",
+      "start_char": 15857,
+      "end_char": 15864
+    },
+    {
+      "text": "Dwarikesh   Sugar   Industries   Limited   vs.   Prem   Heavy  Engineering Works (P) Ltd reported in (1997) 6 SCC 450",
+      "label": "PRECEDENT",
+      "start_char": 15872,
+      "end_char": 15989
+    },
+    {
+      "text": "U.P. Cooperative Federation Ltd. vs. Singh Consultants and  Engineers (P) Ltd reported in (1998) 1 SCC 110",
+      "label": "PRECEDENT",
+      "start_char": 15997,
+      "end_char": 16103
+    },
+    {
+      "text": "Himadri  Chemicals   Industries  Ltd vs.   Coal   Tar  Refining Co  reported in (2007) 8 SCC 110",
+      "label": "PRECEDENT",
+      "start_char": 16111,
+      "end_char": 16207
+    },
+    {
+      "text": "Vintec Electronics Private Limited vs. HCL Info systems Ltd  reported in (2008) 1 SCC 544",
+      "label": "PRECEDENT",
+      "start_char": 16215,
+      "end_char": 16304
+    },
+    {
+      "text": "BSES Ltd vs. Fenner India Ltd and Anr reported in (2006) 2  SCC 728",
+      "label": "PRECEDENT",
+      "start_char": 16312,
+      "end_char": 16379
+    },
+    {
+      "text": "M/s.   Adani   Agri   Fresh   Ltd   vs.   Mahaboob   Sharif   and   Ors  reported in 2015 SCC Online SC 1302",
+      "label": "PRECEDENT",
+      "start_char": 16387,
+      "end_char": 16495
+    },
+    {
+      "text": "Ansal Engineering Projects Ltd vs. Tehri Hydro Development  Corporation Ltd. & Anr reported in (1996) 5 SCC 450",
+      "label": "PRECEDENT",
+      "start_char": 16503,
+      "end_char": 16614
+    },
+    {
+      "text": "C/FA/577/2018 JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 16617,
+      "end_char": 16639
+    },
+    {
+      "text": "Bank of Baroda vs. Ruby Sales Corporation (Agency) & Anr  reported in (2006)",
+      "label": "PRECEDENT",
+      "start_char": 16645,
+      "end_char": 16721
+    },
+    {
+      "text": "SCC Online Guj 130",
+      "label": "CASE_NUMBER",
+      "start_char": 16722,
+      "end_char": 16740
+    },
+    {
+      "text": "17.01.2018",
+      "label": "DATE",
+      "start_char": 16915,
+      "end_char": 16925
+    },
+    {
+      "text": "Mihir   Thakore",
+      "label": "OTHER_PERSON",
+      "start_char": 16940,
+      "end_char": 16955
+    },
+    {
+      "text": "Thakore",
+      "label": "OTHER_PERSON",
+      "start_char": 17107,
+      "end_char": 17114
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 17382,
+      "end_char": 17391
+    },
+    {
+      "text": "Arbitration   Act",
+      "label": "STATUTE",
+      "start_char": 17412,
+      "end_char": 17429
+    },
+    {
+      "text": "Thakore",
+      "label": "OTHER_PERSON",
+      "start_char": 17520,
+      "end_char": 17527
+    },
+    {
+      "text": "Section   9",
+      "label": "PROVISION",
+      "start_char": 17721,
+      "end_char": 17732
+    },
+    {
+      "text": "Thakore",
+      "label": "OTHER_PERSON",
+      "start_char": 18062,
+      "end_char": 18069
+    },
+    {
+      "text": "C/FA/577/2018 JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 18296,
+      "end_char": 18318
+    },
+    {
+      "text": "Thakore",
+      "label": "OTHER_PERSON",
+      "start_char": 18980,
+      "end_char": 18987
+    },
+    {
+      "text": "Thakore",
+      "label": "OTHER_PERSON",
+      "start_char": 19906,
+      "end_char": 19913
+    },
+    {
+      "text": "C/FA/577/2018 JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 20145,
+      "end_char": 20167
+    },
+    {
+      "text": "Thakore",
+      "label": "OTHER_PERSON",
+      "start_char": 20380,
+      "end_char": 20387
+    },
+    {
+      "text": "Kamal   Trivedi",
+      "label": "OTHER_PERSON",
+      "start_char": 21047,
+      "end_char": 21062
+    },
+    {
+      "text": "Section   9",
+      "label": "PROVISION",
+      "start_char": 21624,
+      "end_char": 21635
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 21895,
+      "end_char": 21904
+    },
+    {
+      "text": "C/FA/577/2018 JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 21940,
+      "end_char": 21962
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 22353,
+      "end_char": 22362
+    },
+    {
+      "text": "Hindustan   Dorr   Oliver   Limited",
+      "label": "PRECEDENT",
+      "start_char": 22537,
+      "end_char": 22572
+    },
+    {
+      "text": "Supreme  Court",
+      "label": "COURT",
+      "start_char": 23007,
+      "end_char": 23021
+    },
+    {
+      "text": "Trivedi",
+      "label": "OTHER_PERSON",
+      "start_char": 23192,
+      "end_char": 23199
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 23483,
+      "end_char": 23492
+    },
+    {
+      "text": "Thakore",
+      "label": "OTHER_PERSON",
+      "start_char": 23685,
+      "end_char": 23692
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 24663,
+      "end_char": 24672
+    },
+    {
+      "text": "Arbitration and  Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 24692,
+      "end_char": 24731
+    },
+    {
+      "text": "23.03.2017",
+      "label": "DATE",
+      "start_char": 24963,
+      "end_char": 24973
+    },
+    {
+      "text": "Axis Bank",
+      "label": "ORG",
+      "start_char": 25030,
+      "end_char": 25039
+    },
+    {
+      "text": "23.03.2017",
+      "label": "DATE",
+      "start_char": 25251,
+      "end_char": 25261
+    },
+    {
+      "text": "Axis Bank, Rajula",
+      "label": "ORG",
+      "start_char": 25310,
+      "end_char": 25327
+    },
+    {
+      "text": "Gujarat",
+      "label": "GPE",
+      "start_char": 25338,
+      "end_char": 25345
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 25446,
+      "end_char": 25455
+    },
+    {
+      "text": "09.01.2018",
+      "label": "DATE",
+      "start_char": 25956,
+      "end_char": 25966
+    },
+    {
+      "text": "Contract Act",
+      "label": "STATUTE",
+      "start_char": 27909,
+      "end_char": 27921
+    },
+    {
+      "text": "C/FA/577/2018 JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 28141,
+      "end_char": 28163
+    },
+    {
+      "text": "16.02.2018",
+      "label": "DATE",
+      "start_char": 28222,
+      "end_char": 28232
+    },
+    {
+      "text": "Axis Bank",
+      "label": "ORG",
+      "start_char": 28686,
+      "end_char": 28695
+    },
+    {
+      "text": "09.02.2018",
+      "label": "DATE",
+      "start_char": 29186,
+      "end_char": 29196
+    },
+    {
+      "text": "Section  13",
+      "label": "PROVISION",
+      "start_char": 29311,
+      "end_char": 29322
+    },
+    {
+      "text": "Commercial Court Act, 2015",
+      "label": "STATUTE",
+      "start_char": 29330,
+      "end_char": 29356
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 29979,
+      "end_char": 29988
+    },
+    {
+      "text": "C/FA/577/2018 JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 30074,
+      "end_char": 30096
+    },
+    {
+      "text": "Section   9",
+      "label": "PROVISION",
+      "start_char": 30439,
+      "end_char": 30450
+    },
+    {
+      "text": "Axis Bank Limited",
+      "label": "ORG",
+      "start_char": 30754,
+      "end_char": 30771
+    },
+    {
+      "text": "Indian   Companies Act, 1956",
+      "label": "STATUTE",
+      "start_char": 30827,
+      "end_char": 30855
+    },
+    {
+      "text": "Business of Banking   Regulation   Act,   1949",
+      "label": "STATUTE",
+      "start_char": 30873,
+      "end_char": 30919
+    },
+    {
+      "text": "Ahmedabad­",
+      "label": "GPE",
+      "start_char": 31054,
+      "end_char": 31064
+    },
+    {
+      "text": "Dakshinamurthy   School",
+      "label": "ORG",
+      "start_char": 31151,
+      "end_char": 31174
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 31227,
+      "end_char": 31232
+    },
+    {
+      "text": "EPC",
+      "label": "STATUTE",
+      "start_char": 31940,
+      "end_char": 31943
+    },
+    {
+      "text": "15.11.2016",
+      "label": "DATE",
+      "start_char": 31961,
+      "end_char": 31971
+    },
+    {
+      "text": "Axis Bank",
+      "label": "ORG",
+      "start_char": 32272,
+      "end_char": 32281
+    },
+    {
+      "text": "C/FA/577/2018 JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 32349,
+      "end_char": 32371
+    },
+    {
+      "text": "Hindustan Dorr Oliver Limited",
+      "label": "ORG",
+      "start_char": 32590,
+      "end_char": 32619
+    },
+    {
+      "text": "Vintec   Electronics   Private   Limited",
+      "label": "ORG",
+      "start_char": 33119,
+      "end_char": 33159
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 33321,
+      "end_char": 33334
+    },
+    {
+      "text": "U.P.   State   Sugar   Corporation   v.   Sumac   International   Ltd,   [1997]   1   SCC   568",
+      "label": "PRECEDENT",
+      "start_char": 33921,
+      "end_char": 34016
+    },
+    {
+      "text": "C/FA/577/2018 JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 34362,
+      "end_char": 34384
+    },
+    {
+      "text": "BSES Limited v.   Fenner India Ltd. & Anr, [2006] 2 SCC 728",
+      "label": "PRECEDENT",
+      "start_char": 36322,
+      "end_char": 36381
+    },
+    {
+      "text": "C/FA/577/2018 JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 36456,
+      "end_char": 36478
+    },
+    {
+      "text": "U.P State  Sugar Corpn",
+      "label": "ORG",
+      "start_char": 37163,
+      "end_char": 37185
+    },
+    {
+      "text": "Sumac International Limited  [1997]   1   SCC   568",
+      "label": "PRECEDENT",
+      "start_char": 37190,
+      "end_char": 37241
+    },
+    {
+      "text": "State   of   Maharashtra   v.  National Construction Co.",
+      "label": "PRECEDENT",
+      "start_char": 37245,
+      "end_char": 37301
+    },
+    {
+      "text": "[1996] 1 SCC 735",
+      "label": "PRECEDENT",
+      "start_char": 37302,
+      "end_char": 37318
+    },
+    {
+      "text": "United   Commercial   Bank   v.   Bank   of   India  [1981] 2 SCC 766",
+      "label": "PRECEDENT",
+      "start_char": 37321,
+      "end_char": 37390
+    },
+    {
+      "text": "Centax [India] Limited  v. Vinmar Impex Inc.",
+      "label": "PRECEDENT",
+      "start_char": 37395,
+      "end_char": 37439
+    },
+    {
+      "text": "[1986] 4 SCC 136",
+      "label": "PRECEDENT",
+      "start_char": 37440,
+      "end_char": 37456
+    },
+    {
+      "text": "U.P.   State   Sugar   Corpn",
+      "label": "ORG",
+      "start_char": 37469,
+      "end_char": 37497
+    },
+    {
+      "text": "U.P.   State   Sugar   Corpn",
+      "label": "ORG",
+      "start_char": 37575,
+      "end_char": 37603
+    },
+    {
+      "text": "Himadri   Chemicals   Industries   Ltd.   v.   Coal   Tar   Refining   Company, [2007] 8 SCC 110",
+      "label": "PRECEDENT",
+      "start_char": 37691,
+      "end_char": 37787
+    },
+    {
+      "text": "C/FA/577/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 38527,
+      "end_char": 38540
+    },
+    {
+      "text": "Mahatama Gandhi Sahakra Sakkare Karkhane v. National  Heavy Engg",
+      "label": "PRECEDENT",
+      "start_char": 39444,
+      "end_char": 39508
+    },
+    {
+      "text": "C/FA/577/2018 JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 40555,
+      "end_char": 40577
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 41155,
+      "end_char": 41168
+    },
+    {
+      "text": "Dwarikesh   Sugar   Industries   Ltd",
+      "label": "PRECEDENT",
+      "start_char": 41191,
+      "end_char": 41227
+    },
+    {
+      "text": "Singh  Consultants and Engineers Pvt. Ltd",
+      "label": "PRECEDENT",
+      "start_char": 41241,
+      "end_char": 41282
+    },
+    {
+      "text": "Fenner India Ltd",
+      "label": "ORG",
+      "start_char": 41292,
+      "end_char": 41308
+    },
+    {
+      "text": "Adani   Agri   Fresh   Ltd",
+      "label": "PRECEDENT",
+      "start_char": 41334,
+      "end_char": 41360
+    },
+    {
+      "text": "Ansal   Engineering  Projects Ltd",
+      "label": "PRECEDENT",
+      "start_char": 41374,
+      "end_char": 41407
+    },
+    {
+      "text": "Ruby State Corporation",
+      "label": "ORG",
+      "start_char": 41420,
+      "end_char": 41442
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 41510,
+      "end_char": 41523
+    },
+    {
+      "text": "Hindustan   Dorr  Oliver Limited",
+      "label": "PRECEDENT",
+      "start_char": 41596,
+      "end_char": 41628
+    },
+    {
+      "text": "Supreme   Court",
+      "label": "COURT",
+      "start_char": 41701,
+      "end_char": 41716
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 42316,
+      "end_char": 42329
+    },
+    {
+      "text": "C/FA/577/2018 JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 42440,
+      "end_char": 42462
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 42944,
+      "end_char": 42957
+    },
+    {
+      "text": "Supreme   Court",
+      "label": "COURT",
+      "start_char": 43397,
+      "end_char": 43412
+    },
+    {
+      "text": "C/FA/577/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 44458,
+      "end_char": 44471
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 44784,
+      "end_char": 44793
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 45303,
+      "end_char": 45312
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 45433,
+      "end_char": 45446
+    },
+    {
+      "text": "Section   9",
+      "label": "PROVISION",
+      "start_char": 45649,
+      "end_char": 45660
+    },
+    {
+      "text": "Section   9",
+      "label": "PROVISION",
+      "start_char": 45804,
+      "end_char": 45815
+    },
+    {
+      "text": "C/FA/577/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 46385,
+      "end_char": 46398
+    },
+    {
+      "text": "JUDGMENT Bank Guarantee",
+      "label": "ORG",
+      "start_char": 46399,
+      "end_char": 46422
+    },
+    {
+      "text": "Axis Bank",
+      "label": "ORG",
+      "start_char": 47097,
+      "end_char": 47106
+    },
+    {
+      "text": "17.02.2018",
+      "label": "DATE",
+      "start_char": 47218,
+      "end_char": 47228
+    },
+    {
+      "text": "Axis   Bank",
+      "label": "ORG",
+      "start_char": 47906,
+      "end_char": 47917
+    },
+    {
+      "text": "C/FA/577/2018 JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 48341,
+      "end_char": 48363
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 48364,
+      "end_char": 48373
+    },
+    {
+      "text": "Commercial  Court,   Rajkot",
+      "label": "COURT",
+      "start_char": 48505,
+      "end_char": 48532
+    },
+    {
+      "text": "Civil   Miscellaneous  Application No.3 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 48565,
+      "end_char": 48612
+    },
+    {
+      "text": "17.02.2018",
+      "label": "DATE",
+      "start_char": 48619,
+      "end_char": 48629
+    },
+    {
+      "text": "M.R. SHAH",
+      "label": "JUDGE",
+      "start_char": 49295,
+      "end_char": 49304
+    },
+    {
+      "text": "A.Y. KOGJE",
+      "label": "JUDGE",
+      "start_char": 49318,
+      "end_char": 49328
+    },
+    {
+      "text": "Thakore",
+      "label": "OTHER_PERSON",
+      "start_char": 49432,
+      "end_char": 49439
+    },
+    {
+      "text": "C/FA/577/2018 JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 49691,
+      "end_char": 49713
+    },
+    {
+      "text": "Supreme   Court",
+      "label": "COURT",
+      "start_char": 49799,
+      "end_char": 49814
+    },
+    {
+      "text": "Axis   Bank",
+      "label": "ORG",
+      "start_char": 50493,
+      "end_char": 50504
+    },
+    {
+      "text": "GMB",
+      "label": "ORG",
+      "start_char": 50667,
+      "end_char": 50670
+    },
+    {
+      "text": "M.R. SHAH",
+      "label": "JUDGE",
+      "start_char": 50700,
+      "end_char": 50709
+    },
+    {
+      "text": "A.Y. KOGJE",
+      "label": "JUDGE",
+      "start_char": 50722,
+      "end_char": 50732
+    },
+    {
+      "text": "KAUSHIK J. RATHOD",
+      "label": "JUDGE",
+      "start_char": 50739,
+      "end_char": 50756
+    }
+  ],
+  "precedent_clusters": {
+    "Bank of Baroda vs. Ruby Sales Corporation (Agency) & Anr  reported in (2006)": [
+      "Hindustan Dorr  Oliver Limited vs. Gujarat State Fertilizers and Chemicals Limited",
+      "UP State Sugar Corporation vs. Sumac International Limited  reported in (1997) 1",
+      "Bank of Baroda vs. Ruby Sales Corporation (Agency) & Anr  reported in (2006)",
+      "State   of   Maharashtra   v.  National Construction Co.",
+      "Centax [India] Limited  v. Vinmar Impex Inc.",
+      "Mahatama Gandhi Sahakra Sakkare Karkhane v. National  Heavy Engg",
+      "Hindustan   Dorr   Oliver   Limited",
+      "Hindustan   Dorr  Oliver Limited"
+    ],
+    "M/s.   Adani   Agri   Fresh   Ltd   vs.   Mahaboob   Sharif   and   Ors  reported in 2015 SCC Online SC 1302": [
+      "M/s.   Adani   Agri   Fresh   Ltd   vs.   Mahaboob   Sharif   and   Ors  reported in 2015 SCC Online SC 1302",
+      "Adani   Agri   Fresh   Ltd"
+    ],
+    "Ansal Engineering Projects Ltd vs. Tehri Hydro Development  Corporation Ltd. & Anr reported in (1996) 5 SCC 450": [
+      "Ansal Engineering Projects Ltd vs. Tehri Hydro Development  Corporation Ltd. & Anr reported in (1996) 5 SCC 450",
+      "Ansal   Engineering  Projects Ltd"
+    ],
+    "U.P.   State   Sugar   Corporation   v.   Sumac   International   Ltd,   [1997]   1   SCC   568": [
+      "U.P.   State   Sugar   Corporation   v.   Sumac   International   Ltd,   [1997]   1   SCC   568",
+      "Sumac International Limited  [1997]   1   SCC   568"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section   13",
+      "Commercial  Court Act, 2015",
+      "Section   13",
+      "Commercial  Court Act, 2015"
+    ],
+    [
+      "Section   9",
+      "Arbitration   Act",
+      "Section   9",
+      "Arbitration   Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Court Act,  2015",
+      "Section 13",
+      "Commercial Court Act,  2015"
+    ],
+    [
+      "Section 9",
+      "Arbitration   Act",
+      "Section 9",
+      "Arbitration   Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration and  Conciliation Act, 1996",
+      "Section 9",
+      "Arbitration and  Conciliation Act, 1996"
+    ],
+    [
+      "Section  13",
+      "Commercial Court Act, 2015",
+      "Section  13",
+      "Commercial Court Act, 2015"
+    ],
+    [
+      "Section   9",
+      "Arbitration   Act",
+      "Section   9",
+      "Arbitration   Act"
+    ],
+    [
+      "Section   9",
+      "Arbitration   Act",
+      "Section   9",
+      "Arbitration   Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration   Act",
+      "Section 9",
+      "Arbitration   Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration   Act",
+      "Section 9",
+      "Arbitration   Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration   Act",
+      "Section 9",
+      "Arbitration   Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration   Act",
+      "Section 9",
+      "Arbitration   Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration   Act",
+      "Section 9",
+      "Arbitration   Act"
+    ],
+    [
+      "Section   9",
+      "Arbitration   Act",
+      "Section   9",
+      "Arbitration   Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration   Act",
+      "Section 9",
+      "Arbitration   Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration   Act",
+      "Section 9",
+      "Arbitration   Act"
+    ],
+    [
+      "Section   9",
+      "Arbitration   Act",
+      "Section   9",
+      "Arbitration   Act"
+    ],
+    [
+      "Section   9",
+      "Arbitration   Act",
+      "Section   9",
+      "Arbitration   Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration   Act",
+      "Section 9",
+      "Arbitration   Act"
+    ],
+    [
+      "SCC 568",
+      "Commercial Court Act,  2015",
+      "SCC 568",
+      "Commercial Court Act,  2015"
+    ]
+  ],
+  "precedent_counts": {
+    "Bank of Baroda vs. Ruby Sales Corporation (Agency) & Anr  reported in (2006)": 8,
+    "M/s.   Adani   Agri   Fresh   Ltd   vs.   Mahaboob   Sharif   and   Ors  reported in 2015 SCC Online SC 1302": 2,
+    "Ansal Engineering Projects Ltd vs. Tehri Hydro Development  Corporation Ltd. & Anr reported in (1996) 5 SCC 450": 2,
+    "U.P.   State   Sugar   Corporation   v.   Sumac   International   Ltd,   [1997]   1   SCC   568": 2
+  },
+  "provision_counts": {
+    "Section   13 of Commercial  Court Act, 2015": 1,
+    "Section   9 of Arbitration   Act": 6,
+    "Section 13 of Commercial Court Act,  2015": 1,
+    "Section 9 of Arbitration   Act": 9,
+    "Section 9 of Arbitration and  Conciliation Act, 1996": 1,
+    "Section  13 of Commercial Court Act, 2015": 1,
+    "SCC 568 of Commercial Court Act,  2015": 1
+  },
+  "statute_counts": {
+    "Commercial  Court Act, 2015": 1,
+    "Arbitration   Act": 15,
+    "Commercial Court Act,  2015": 2,
+    "Arbitration and  Conciliation Act, 1996": 1,
+    "Commercial Court Act, 2015": 1
+  }
+}

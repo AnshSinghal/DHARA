@@ -1,0 +1,1987 @@
+{
+  "entities": [
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 16
+    },
+    {
+      "text": "Pankaj Ravjibhai Patel Trading",
+      "label": "PETITIONER",
+      "start_char": 17,
+      "end_char": 47
+    },
+    {
+      "text": "Sss Pharmachem Pvt. Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 58,
+      "end_char": 82
+    },
+    {
+      "text": "Yashwant Varma",
+      "label": "LAWYER",
+      "start_char": 111,
+      "end_char": 125
+    },
+    {
+      "text": "Yashwant Varma",
+      "label": "LAWYER",
+      "start_char": 133,
+      "end_char": 147
+    },
+    {
+      "text": "Dharmesh Sharma",
+      "label": "LAWYER",
+      "start_char": 149,
+      "end_char": 164
+    },
+    {
+      "text": "High Court Of Delhi At New Delhi",
+      "label": "COURT",
+      "start_char": 200,
+      "end_char": 232
+    },
+    {
+      "text": "Pankaj Ravjibhai Patel Trading As Rakesh\n                            Pharmaceuticals",
+      "label": "PETITIONER",
+      "start_char": 475,
+      "end_char": 559
+    },
+    {
+      "text": "Vikas Khera",
+      "label": "LAWYER",
+      "start_char": 654,
+      "end_char": 665
+    },
+    {
+      "text": "Ved\n                                                         Prakash",
+      "label": "LAWYER",
+      "start_char": 674,
+      "end_char": 742
+    },
+    {
+      "text": "Sss Pharmachem Pvt. Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 831,
+      "end_char": 855
+    },
+    {
+      "text": "Neeraj Gogia",
+      "label": "LAWYER",
+      "start_char": 951,
+      "end_char": 963
+    },
+    {
+      "text": "Manu\n                                                         Prabhakar",
+      "label": "LAWYER",
+      "start_char": 969,
+      "end_char": 1040
+    },
+    {
+      "text": "Avinash\n                                                         Kumar",
+      "label": "LAWYER",
+      "start_char": 1049,
+      "end_char": 1119
+    },
+    {
+      "text": "Sandeep Sethi",
+      "label": "LAWYER",
+      "start_char": 1188,
+      "end_char": 1201
+    },
+    {
+      "text": "Swathi Sukumar",
+      "label": "LAWYER",
+      "start_char": 1278,
+      "end_char": 1292
+    },
+    {
+      "text": "FAO (COMM) 98/2023",
+      "label": "CASE_NUMBER",
+      "start_char": 1584,
+      "end_char": 1602
+    },
+    {
+      "text": "CM APPL 20261/2023 (Stay)",
+      "label": "CASE_NUMBER",
+      "start_char": 1605,
+      "end_char": 1630
+    },
+    {
+      "text": "CM APPL",
+      "label": "CASE_NUMBER",
+      "start_char": 1632,
+      "end_char": 1639
+    },
+    {
+      "text": "21 February 2023",
+      "label": "DATE",
+      "start_char": 1715,
+      "end_char": 1731
+    },
+    {
+      "text": "25 September 2021",
+      "label": "DATE",
+      "start_char": 1927,
+      "end_char": 1944
+    },
+    {
+      "text": "25 April 2023",
+      "label": "DATE",
+      "start_char": 2162,
+      "end_char": 2175
+    },
+    {
+      "text": "Vishal Pipes Limited vs. Bhavya Pipe Industry1",
+      "label": "PRECEDENT",
+      "start_char": 2582,
+      "end_char": 2628
+    },
+    {
+      "text": "Swathi Sukumar",
+      "label": "LAWYER",
+      "start_char": 2659,
+      "end_char": 2673
+    },
+    {
+      "text": "Vishal Pipes",
+      "label": "OTHER_PERSON",
+      "start_char": 2854,
+      "end_char": 2866
+    },
+    {
+      "text": "Vishal Pipes",
+      "label": "OTHER_PERSON",
+      "start_char": 2953,
+      "end_char": 2965
+    },
+    {
+      "text": "Commercial Courts Act, 20152",
+      "label": "STATUTE",
+      "start_char": 3542,
+      "end_char": 3570
+    },
+    {
+      "text": "2022 SCC OnLine Del 1730 CCA",
+      "label": "PRECEDENT",
+      "start_char": 3610,
+      "end_char": 3638
+    },
+    {
+      "text": "Vishal Pipes",
+      "label": "OTHER_PERSON",
+      "start_char": 3667,
+      "end_char": 3679
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 3892,
+      "end_char": 3895
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 4249,
+      "end_char": 4252
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 4294,
+      "end_char": 4297
+    },
+    {
+      "text": "Court Fee Act, 18703",
+      "label": "STATUTE",
+      "start_char": 4303,
+      "end_char": 4323
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 4798,
+      "end_char": 4801
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 5000,
+      "end_char": 5003
+    },
+    {
+      "text": "CCA",
+      "label": "COURT",
+      "start_char": 5306,
+      "end_char": 5309
+    },
+    {
+      "text": "Court Fees Act (ii)",
+      "label": "STATUTE",
+      "start_char": 5421,
+      "end_char": 5440
+    },
+    {
+      "text": "Section 12(1)(d)",
+      "label": "PROVISION",
+      "start_char": 5659,
+      "end_char": 5675
+    },
+    {
+      "text": "IPR",
+      "label": "STATUTE",
+      "start_char": 6116,
+      "end_char": 6119
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 6129,
+      "end_char": 6132
+    },
+    {
+      "text": "IPR",
+      "label": "STATUTE",
+      "start_char": 6211,
+      "end_char": 6214
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 6232,
+      "end_char": 6235
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 7209,
+      "end_char": 7214
+    },
+    {
+      "text": "Section 12(1)(d)",
+      "label": "PROVISION",
+      "start_char": 7571,
+      "end_char": 7587
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 7613,
+      "end_char": 7616
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 7886,
+      "end_char": 7891
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 7990,
+      "end_char": 7995
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 8500,
+      "end_char": 8503
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 9203,
+      "end_char": 9208
+    },
+    {
+      "text": "IPR",
+      "label": "STATUTE",
+      "start_char": 9271,
+      "end_char": 9274
+    },
+    {
+      "text": "District Judge(Commercial)",
+      "label": "COURT",
+      "start_char": 10212,
+      "end_char": 10238
+    },
+    {
+      "text": "District Judge (Commercial)",
+      "label": "COURT",
+      "start_char": 10913,
+      "end_char": 10940
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 10992,
+      "end_char": 10995
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 11081,
+      "end_char": 11086
+    },
+    {
+      "text": "Vishal Pipes",
+      "label": "OTHER_PERSON",
+      "start_char": 11362,
+      "end_char": 11374
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 12483,
+      "end_char": 12486
+    },
+    {
+      "text": "Vishal Pipes",
+      "label": "OTHER_PERSON",
+      "start_char": 12689,
+      "end_char": 12701
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 12760,
+      "end_char": 12765
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 12836,
+      "end_char": 12839
+    },
+    {
+      "text": "IPR",
+      "label": "COURT",
+      "start_char": 13300,
+      "end_char": 13303
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 13449,
+      "end_char": 13454
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 13678,
+      "end_char": 13681
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 13822,
+      "end_char": 13827
+    },
+    {
+      "text": "Sukumar",
+      "label": "LAWYER",
+      "start_char": 13859,
+      "end_char": 13866
+    },
+    {
+      "text": "CCA",
+      "label": "ORG",
+      "start_char": 14089,
+      "end_char": 14092
+    },
+    {
+      "text": "Court Fees Act",
+      "label": "STATUTE",
+      "start_char": 14186,
+      "end_char": 14200
+    },
+    {
+      "text": "Sukumar",
+      "label": "LAWYER",
+      "start_char": 14329,
+      "end_char": 14336
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 14405,
+      "end_char": 14408
+    },
+    {
+      "text": "Section 2(1)(c)(xvii)",
+      "label": "PROVISION",
+      "start_char": 14612,
+      "end_char": 14633
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 14641,
+      "end_char": 14644
+    },
+    {
+      "text": "Sukumar",
+      "label": "LAWYER",
+      "start_char": 14713,
+      "end_char": 14720
+    },
+    {
+      "text": "Section 12(1)(d)",
+      "label": "PROVISION",
+      "start_char": 14751,
+      "end_char": 14767
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 14775,
+      "end_char": 14778
+    },
+    {
+      "text": "Sukumar",
+      "label": "LAWYER",
+      "start_char": 15074,
+      "end_char": 15081
+    },
+    {
+      "text": "Sukumar",
+      "label": "LAWYER",
+      "start_char": 15242,
+      "end_char": 15249
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 15414,
+      "end_char": 15417
+    },
+    {
+      "text": "Court Fees Act",
+      "label": "STATUTE",
+      "start_char": 15517,
+      "end_char": 15531
+    },
+    {
+      "text": "Suits Valuation Act, 19774",
+      "label": "STATUTE",
+      "start_char": 15547,
+      "end_char": 15573
+    },
+    {
+      "text": "Sukumar",
+      "label": "LAWYER",
+      "start_char": 15717,
+      "end_char": 15724
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 16003,
+      "end_char": 16006
+    },
+    {
+      "text": "Court Fees Act",
+      "label": "STATUTE",
+      "start_char": 16090,
+      "end_char": 16104
+    },
+    {
+      "text": "Sukumar",
+      "label": "LAWYER",
+      "start_char": 16115,
+      "end_char": 16122
+    },
+    {
+      "text": "Suits Valuation Act",
+      "label": "STATUTE",
+      "start_char": 16303,
+      "end_char": 16322
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 16435,
+      "end_char": 16438
+    },
+    {
+      "text": "Sukumar",
+      "label": "LAWYER",
+      "start_char": 16664,
+      "end_char": 16671
+    },
+    {
+      "text": "Sukumar",
+      "label": "LAWYER",
+      "start_char": 17149,
+      "end_char": 17156
+    },
+    {
+      "text": "Sukumar",
+      "label": "LAWYER",
+      "start_char": 17454,
+      "end_char": 17461
+    },
+    {
+      "text": "High Court of Karnataka",
+      "label": "COURT",
+      "start_char": 17528,
+      "end_char": 17551
+    },
+    {
+      "text": "Kirloskar Aaf Limited v. American Air Filters Company Inc. & Anr5",
+      "label": "PRECEDENT",
+      "start_char": 17555,
+      "end_char": 17620
+    },
+    {
+      "text": "Section 2(c)",
+      "label": "PROVISION",
+      "start_char": 17894,
+      "end_char": 17906
+    },
+    {
+      "text": "Section 2(1)(c) (xvii)",
+      "label": "PROVISION",
+      "start_char": 17919,
+      "end_char": 17941
+    },
+    {
+      "text": "RFA No.1 of 2015",
+      "label": "CASE_NUMBER",
+      "start_char": 17995,
+      "end_char": 18011
+    },
+    {
+      "text": "25th September, 2018",
+      "label": "DATE",
+      "start_char": 18013,
+      "end_char": 18033
+    },
+    {
+      "text": "Section 2(1)(c)(xvi)",
+      "label": "PROVISION",
+      "start_char": 18386,
+      "end_char": 18406
+    },
+    {
+      "text": "Karnataka Court Fees and Suits Valuation Act",
+      "label": "STATUTE",
+      "start_char": 18427,
+      "end_char": 18471
+    },
+    {
+      "text": "Section 26",
+      "label": "PROVISION",
+      "start_char": 18514,
+      "end_char": 18524
+    },
+    {
+      "text": "Section 26(c)",
+      "label": "PROVISION",
+      "start_char": 18922,
+      "end_char": 18935
+    },
+    {
+      "text": "Sukumar",
+      "label": "LAWYER",
+      "start_char": 19582,
+      "end_char": 19589
+    },
+    {
+      "text": "Vishal Pipes",
+      "label": "OTHER_PERSON",
+      "start_char": 19625,
+      "end_char": 19637
+    },
+    {
+      "text": "IPR",
+      "label": "STATUTE",
+      "start_char": 19916,
+      "end_char": 19919
+    },
+    {
+      "text": "Vishal Pipes",
+      "label": "OTHER_PERSON",
+      "start_char": 19976,
+      "end_char": 19988
+    },
+    {
+      "text": "IPR",
+      "label": "COURT",
+      "start_char": 20498,
+      "end_char": 20501
+    },
+    {
+      "text": "Sukumar",
+      "label": "LAWYER",
+      "start_char": 20736,
+      "end_char": 20743
+    },
+    {
+      "text": "Sheila Devi",
+      "label": "OTHER_PERSON",
+      "start_char": 21975,
+      "end_char": 21986
+    },
+    {
+      "text": "Kishan Lal Kalra",
+      "label": "OTHER_PERSON",
+      "start_char": 22000,
+      "end_char": 22016
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 22185,
+      "end_char": 22194
+    },
+    {
+      "text": "Court Fees Act",
+      "label": "STATUTE",
+      "start_char": 22202,
+      "end_char": 22216
+    },
+    {
+      "text": "Sheila Devi",
+      "label": "OTHER_PERSON",
+      "start_char": 22300,
+      "end_char": 22311
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 22314,
+      "end_char": 22323
+    },
+    {
+      "text": "Court-fees Act",
+      "label": "STATUTE",
+      "start_char": 22331,
+      "end_char": 22345
+    },
+    {
+      "text": "V. V. Chitaley",
+      "label": "OTHER_PERSON",
+      "start_char": 22511,
+      "end_char": 22525
+    },
+    {
+      "text": "S. Appurao",
+      "label": "OTHER_PERSON",
+      "start_char": 22530,
+      "end_char": 22540
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 22574,
+      "end_char": 22583
+    },
+    {
+      "text": "Court-fees Act",
+      "label": "STATUTE",
+      "start_char": 22591,
+      "end_char": 22605
+    },
+    {
+      "text": "Section 7(iv)",
+      "label": "PROVISION",
+      "start_char": 23742,
+      "end_char": 23755
+    },
+    {
+      "text": "Cour-fees Act",
+      "label": "STATUTE",
+      "start_char": 23763,
+      "end_char": 23776
+    },
+    {
+      "text": "Order VII Rule 11(b)",
+      "label": "PROVISION",
+      "start_char": 25043,
+      "end_char": 25063
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 25095,
+      "end_char": 25106
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 25114,
+      "end_char": 25137
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 25174,
+      "end_char": 25183
+    },
+    {
+      "text": "Court-fees Act",
+      "label": "STATUTE",
+      "start_char": 25191,
+      "end_char": 25205
+    },
+    {
+      "text": "Order VII Rule 11(b)",
+      "label": "PROVISION",
+      "start_char": 25479,
+      "end_char": 25499
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 25507,
+      "end_char": 25530
+    },
+    {
+      "text": "Section 7(iv)",
+      "label": "PROVISION",
+      "start_char": 25678,
+      "end_char": 25691
+    },
+    {
+      "text": "Court-fees Act",
+      "label": "STATUTE",
+      "start_char": 25699,
+      "end_char": 25713
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 25766,
+      "end_char": 25775
+    },
+    {
+      "text": "Court-fees Act",
+      "label": "STATUTE",
+      "start_char": 25783,
+      "end_char": 25797
+    },
+    {
+      "text": "clauses (a) to (f) of paragraph (iv) of Section 7",
+      "label": "PROVISION",
+      "start_char": 26037,
+      "end_char": 26086
+    },
+    {
+      "text": "Court-fees Act",
+      "label": "STATUTE",
+      "start_char": 27109,
+      "end_char": 27123
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 27221,
+      "end_char": 27231
+    },
+    {
+      "text": "Court-fees Act",
+      "label": "STATUTE",
+      "start_char": 27239,
+      "end_char": 27253
+    },
+    {
+      "text": "clauses (a) to (e) of paragraph (iv) of Section 7",
+      "label": "PROVISION",
+      "start_char": 27988,
+      "end_char": 28037
+    },
+    {
+      "text": "Court-fees Act",
+      "label": "STATUTE",
+      "start_char": 28045,
+      "end_char": 28059
+    },
+    {
+      "text": "Sections 7(iv) and 11)",
+      "label": "PROVISION",
+      "start_char": 28187,
+      "end_char": 28209
+    },
+    {
+      "text": "Court-fees Act",
+      "label": "STATUTE",
+      "start_char": 28217,
+      "end_char": 28231
+    },
+    {
+      "text": "Sathappa Chettiar",
+      "label": "PRECEDENT",
+      "start_char": 28329,
+      "end_char": 28346
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 28391,
+      "end_char": 28400
+    },
+    {
+      "text": "Suits Valuation Act",
+      "label": "STATUTE",
+      "start_char": 28408,
+      "end_char": 28427
+    },
+    {
+      "text": "Section 7(iv)",
+      "label": "PROVISION",
+      "start_char": 28614,
+      "end_char": 28627
+    },
+    {
+      "text": "Court-fees Act",
+      "label": "STATUTE",
+      "start_char": 28635,
+      "end_char": 28649
+    },
+    {
+      "text": "Section 7(iv)",
+      "label": "PROVISION",
+      "start_char": 28954,
+      "end_char": 28967
+    },
+    {
+      "text": "Court-fees Act",
+      "label": "STATUTE",
+      "start_char": 28975,
+      "end_char": 28989
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 29035,
+      "end_char": 29044
+    },
+    {
+      "text": "Suits Valuation Act",
+      "label": "STATUTE",
+      "start_char": 29052,
+      "end_char": 29071
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 29196,
+      "end_char": 29205
+    },
+    {
+      "text": "Suits Valuation Act",
+      "label": "STATUTE",
+      "start_char": 29213,
+      "end_char": 29232
+    },
+    {
+      "text": "Section 7(iv)",
+      "label": "PROVISION",
+      "start_char": 29313,
+      "end_char": 29326
+    },
+    {
+      "text": "Court-fees Act",
+      "label": "STATUTE",
+      "start_char": 29334,
+      "end_char": 29348
+    },
+    {
+      "text": "Punjab High Court",
+      "label": "COURT",
+      "start_char": 29428,
+      "end_char": 29445
+    },
+    {
+      "text": "Rules 3 and 4",
+      "label": "PROVISION",
+      "start_char": 29485,
+      "end_char": 29498
+    },
+    {
+      "text": "Rule 4",
+      "label": "PROVISION",
+      "start_char": 29824,
+      "end_char": 29830
+    },
+    {
+      "text": "Court-fees Act",
+      "label": "STATUTE",
+      "start_char": 29942,
+      "end_char": 29956
+    },
+    {
+      "text": "Section 7(iv)",
+      "label": "PROVISION",
+      "start_char": 30005,
+      "end_char": 30018
+    },
+    {
+      "text": "Court- fees Act",
+      "label": "STATUTE",
+      "start_char": 30026,
+      "end_char": 30041
+    },
+    {
+      "text": "Rule 4",
+      "label": "PROVISION",
+      "start_char": 30313,
+      "end_char": 30319
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 30779,
+      "end_char": 30788
+    },
+    {
+      "text": "Court-fees Act",
+      "label": "STATUTE",
+      "start_char": 30796,
+      "end_char": 30810
+    },
+    {
+      "text": "Sections 8 and 9",
+      "label": "PROVISION",
+      "start_char": 30850,
+      "end_char": 30866
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 30894,
+      "end_char": 30903
+    },
+    {
+      "text": "Suits Valuation Act",
+      "label": "STATUTE",
+      "start_char": 30911,
+      "end_char": 30930
+    },
+    {
+      "text": "Court-fees Act",
+      "label": "STATUTE",
+      "start_char": 31124,
+      "end_char": 31138
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 31336,
+      "end_char": 31345
+    },
+    {
+      "text": "Suits Valuation Act",
+      "label": "STATUTE",
+      "start_char": 31353,
+      "end_char": 31372
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 31593,
+      "end_char": 31606
+    },
+    {
+      "text": "Tara Devi Vs.",
+      "label": "PRECEDENT",
+      "start_char": 31610,
+      "end_char": 31623
+    },
+    {
+      "text": "Thakur Radha Krishna Maharaj",
+      "label": "OTHER_PERSON",
+      "start_char": 31628,
+      "end_char": 31656
+    },
+    {
+      "text": "Sebaits Chandeshwar Prasad",
+      "label": "OTHER_PERSON",
+      "start_char": 31666,
+      "end_char": 31692
+    },
+    {
+      "text": "Meshwar Prasad",
+      "label": "OTHER_PERSON",
+      "start_char": 31697,
+      "end_char": 31711
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 31740,
+      "end_char": 31753
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 32008,
+      "end_char": 32011
+    },
+    {
+      "text": "Soni Dave Vs.",
+      "label": "PRECEDENT",
+      "start_char": 32139,
+      "end_char": 32152
+    },
+    {
+      "text": "Trans Asian Industries Expositions Pvt",
+      "label": "ORG",
+      "start_char": 32153,
+      "end_char": 32191
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 32245,
+      "end_char": 32255
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 32263,
+      "end_char": 32266
+    },
+    {
+      "text": "Court Fees and Suits Valuation Acts",
+      "label": "STATUTE",
+      "start_char": 32303,
+      "end_char": 32338
+    },
+    {
+      "text": "SCC 69 2016 SCC OnLine Del 4282",
+      "label": "CASE_NUMBER",
+      "start_char": 32373,
+      "end_char": 32404
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 32444,
+      "end_char": 32465
+    },
+    {
+      "text": "Courts Fees Act",
+      "label": "STATUTE",
+      "start_char": 32509,
+      "end_char": 32524
+    },
+    {
+      "text": "Suits Valuation Act",
+      "label": "STATUTE",
+      "start_char": 32532,
+      "end_char": 32551
+    },
+    {
+      "text": "Section 21",
+      "label": "PROVISION",
+      "start_char": 32614,
+      "end_char": 32624
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 33134,
+      "end_char": 33144
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 33152,
+      "end_char": 33173
+    },
+    {
+      "text": "Section 2(i)",
+      "label": "PROVISION",
+      "start_char": 33235,
+      "end_char": 33247
+    },
+    {
+      "text": "Court Fees Act",
+      "label": "STATUTE",
+      "start_char": 33506,
+      "end_char": 33520
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 33629,
+      "end_char": 33650
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 33686,
+      "end_char": 33696
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 33704,
+      "end_char": 33725
+    },
+    {
+      "text": "Court Fees Act",
+      "label": "STATUTE",
+      "start_char": 33763,
+      "end_char": 33777
+    },
+    {
+      "text": "Suits Valuation Act",
+      "label": "STATUTE",
+      "start_char": 33786,
+      "end_char": 33805
+    },
+    {
+      "text": "Court Fees Act",
+      "label": "STATUTE",
+      "start_char": 34042,
+      "end_char": 34056
+    },
+    {
+      "text": "Suits Valuation Act",
+      "label": "STATUTE",
+      "start_char": 34070,
+      "end_char": 34089
+    },
+    {
+      "text": "Court Fees Act",
+      "label": "STATUTE",
+      "start_char": 34168,
+      "end_char": 34182
+    },
+    {
+      "text": "Suits Valuation Act",
+      "label": "STATUTE",
+      "start_char": 34191,
+      "end_char": 34210
+    },
+    {
+      "text": "Soni Dave",
+      "label": "OTHER_PERSON",
+      "start_char": 34527,
+      "end_char": 34536
+    },
+    {
+      "text": "Karnataka and Kerala High Courts:-",
+      "label": "COURT",
+      "start_char": 34660,
+      "end_char": 34694
+    },
+    {
+      "text": "Fine Footwear Pvt",
+      "label": "ORG",
+      "start_char": 34698,
+      "end_char": 34715
+    },
+    {
+      "text": "Skechers USA Inc.",
+      "label": "ORG",
+      "start_char": 34790,
+      "end_char": 34807
+    },
+    {
+      "text": "C.K. Surendran",
+      "label": "OTHER_PERSON",
+      "start_char": 34855,
+      "end_char": 34869
+    },
+    {
+      "text": "Kunhimoosa10",
+      "label": "OTHER_PERSON",
+      "start_char": 34874,
+      "end_char": 34886
+    },
+    {
+      "text": "Bangalore Blues Entertainment India Private Limited",
+      "label": "PRECEDENT",
+      "start_char": 34924,
+      "end_char": 34975
+    },
+    {
+      "text": "Ikigaii Edutech Private Limited",
+      "label": "ORG",
+      "start_char": 34984,
+      "end_char": 35015
+    },
+    {
+      "text": "Vishal Pipes",
+      "label": "OTHER_PERSON",
+      "start_char": 35075,
+      "end_char": 35087
+    },
+    {
+      "text": "Soni Dave",
+      "label": "OTHER_PERSON",
+      "start_char": 35160,
+      "end_char": 35169
+    },
+    {
+      "text": "Soni Dave",
+      "label": "OTHER_PERSON",
+      "start_char": 35288,
+      "end_char": 35297
+    },
+    {
+      "text": "section 12",
+      "label": "PROVISION",
+      "start_char": 35333,
+      "end_char": 35343
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 35351,
+      "end_char": 35354
+    },
+    {
+      "text": "Court Fees and Suits Valuation Acts",
+      "label": "STATUTE",
+      "start_char": 35523,
+      "end_char": 35558
+    },
+    {
+      "text": "Vishal Pipes",
+      "label": "ORG",
+      "start_char": 35644,
+      "end_char": 35656
+    },
+    {
+      "text": "2019 SCC OnLine Kar 1024 2021 SCC OnLine Ker 9808 Miscellaneous First Appeal No. 6392 of 2022 (CPC)",
+      "label": "PRECEDENT",
+      "start_char": 35973,
+      "end_char": 36072
+    },
+    {
+      "text": "02.01.2023",
+      "label": "DATE",
+      "start_char": 36086,
+      "end_char": 36096
+    },
+    {
+      "text": "Vishal Pipes",
+      "label": "OTHER_PERSON",
+      "start_char": 36264,
+      "end_char": 36276
+    },
+    {
+      "text": "Vishal Pipes",
+      "label": "OTHER_PERSON",
+      "start_char": 36328,
+      "end_char": 36340
+    },
+    {
+      "text": "Section 12(1)(d)",
+      "label": "PROVISION",
+      "start_char": 36743,
+      "end_char": 36759
+    },
+    {
+      "text": "Vishal Pipes",
+      "label": "OTHER_PERSON",
+      "start_char": 36910,
+      "end_char": 36922
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 37170,
+      "end_char": 37173
+    },
+    {
+      "text": "Sukumar",
+      "label": "LAWYER",
+      "start_char": 37290,
+      "end_char": 37297
+    },
+    {
+      "text": "Vishal Pipes",
+      "label": "OTHER_PERSON",
+      "start_char": 37361,
+      "end_char": 37373
+    },
+    {
+      "text": "CCA",
+      "label": "ORG",
+      "start_char": 37478,
+      "end_char": 37481
+    },
+    {
+      "text": "section 2(1)(c)",
+      "label": "PROVISION",
+      "start_char": 37592,
+      "end_char": 37607
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 38506,
+      "end_char": 38509
+    },
+    {
+      "text": "Vishal Pipes",
+      "label": "OTHER_PERSON",
+      "start_char": 38896,
+      "end_char": 38908
+    },
+    {
+      "text": "Sukumar",
+      "label": "LAWYER",
+      "start_char": 39129,
+      "end_char": 39136
+    },
+    {
+      "text": "Vishal Pipes",
+      "label": "OTHER_PERSON",
+      "start_char": 39230,
+      "end_char": 39242
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 39312,
+      "end_char": 39315
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 39526,
+      "end_char": 39536
+    },
+    {
+      "text": "sub-paragraphs (iv) and (v) of Para 66",
+      "label": "PROVISION",
+      "start_char": 39828,
+      "end_char": 39866
+    },
+    {
+      "text": "Vishal Pipes",
+      "label": "OTHER_PERSON",
+      "start_char": 39870,
+      "end_char": 39882
+    },
+    {
+      "text": "Para 66 (iv)",
+      "label": "PROVISION",
+      "start_char": 39925,
+      "end_char": 39937
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 40642,
+      "end_char": 40645
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 40845,
+      "end_char": 40850
+    },
+    {
+      "text": "CCA",
+      "label": "ORG",
+      "start_char": 40953,
+      "end_char": 40956
+    },
+    {
+      "text": "Vishal Pipes",
+      "label": "OTHER_PERSON",
+      "start_char": 41141,
+      "end_char": 41153
+    },
+    {
+      "text": "Para 66 (iv) and (v)",
+      "label": "PROVISION",
+      "start_char": 41170,
+      "end_char": 41190
+    },
+    {
+      "text": "CCA",
+      "label": "ORG",
+      "start_char": 41501,
+      "end_char": 41504
+    },
+    {
+      "text": "Vishal Pipes",
+      "label": "OTHER_PERSON",
+      "start_char": 41582,
+      "end_char": 41594
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 41894,
+      "end_char": 41897
+    },
+    {
+      "text": "Vishal Pipes",
+      "label": "OTHER_PERSON",
+      "start_char": 42282,
+      "end_char": 42294
+    },
+    {
+      "text": "Sukumar",
+      "label": "LAWYER",
+      "start_char": 42607,
+      "end_char": 42614
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 43583,
+      "end_char": 43593
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 43740,
+      "end_char": 43743
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 43964,
+      "end_char": 43974
+    },
+    {
+      "text": "Court Fees and Suits Valuation Acts",
+      "label": "STATUTE",
+      "start_char": 44059,
+      "end_char": 44094
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 44149,
+      "end_char": 44159
+    },
+    {
+      "text": "Sections 2(1)(c)",
+      "label": "PROVISION",
+      "start_char": 44292,
+      "end_char": 44308
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 45165,
+      "end_char": 45168
+    },
+    {
+      "text": "Sukumar",
+      "label": "LAWYER",
+      "start_char": 45366,
+      "end_char": 45373
+    },
+    {
+      "text": "Vishal Pipes",
+      "label": "OTHER_PERSON",
+      "start_char": 45644,
+      "end_char": 45656
+    },
+    {
+      "text": "Soni Dave",
+      "label": "OTHER_PERSON",
+      "start_char": 45896,
+      "end_char": 45905
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 45959,
+      "end_char": 45962
+    },
+    {
+      "text": "Court Fees and Suits Valuation Acts",
+      "label": "STATUTE",
+      "start_char": 45971,
+      "end_char": 46006
+    },
+    {
+      "text": "Soni Dave",
+      "label": "OTHER_PERSON",
+      "start_char": 46008,
+      "end_char": 46017
+    },
+    {
+      "text": "Section 21",
+      "label": "PROVISION",
+      "start_char": 46061,
+      "end_char": 46071
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 46079,
+      "end_char": 46082
+    },
+    {
+      "text": "CCA",
+      "label": "COURT",
+      "start_char": 46173,
+      "end_char": 46176
+    },
+    {
+      "text": "Court Fees and Suits Valuation Acts",
+      "label": "STATUTE",
+      "start_char": 46233,
+      "end_char": 46268
+    },
+    {
+      "text": "Vishal Pipes",
+      "label": "OTHER_PERSON",
+      "start_char": 46398,
+      "end_char": 46410
+    },
+    {
+      "text": "Vishal Pipes",
+      "label": "OTHER_PERSON",
+      "start_char": 46798,
+      "end_char": 46810
+    },
+    {
+      "text": "IPR",
+      "label": "COURT",
+      "start_char": 47037,
+      "end_char": 47040
+    },
+    {
+      "text": "Sukumar",
+      "label": "LAWYER",
+      "start_char": 47407,
+      "end_char": 47414
+    },
+    {
+      "text": "21 February 2023",
+      "label": "DATE",
+      "start_char": 48661,
+      "end_char": 48677
+    },
+    {
+      "text": "25 April 2023",
+      "label": "DATE",
+      "start_char": 48912,
+      "end_char": 48925
+    },
+    {
+      "text": "Vishal Pipes",
+      "label": "OTHER_PERSON",
+      "start_char": 49320,
+      "end_char": 49332
+    },
+    {
+      "text": "Vishal Pipes",
+      "label": "OTHER_PERSON",
+      "start_char": 49515,
+      "end_char": 49527
+    },
+    {
+      "text": "YASHWANT VARMA",
+      "label": "JUDGE",
+      "start_char": 50296,
+      "end_char": 50310
+    },
+    {
+      "text": "DHARMESH SHARMA",
+      "label": "JUDGE",
+      "start_char": 50315,
+      "end_char": 50330
+    },
+    {
+      "text": "NOVEMBER 02, 2023",
+      "label": "DATE",
+      "start_char": 50335,
+      "end_char": 50352
+    }
+  ],
+  "precedent_clusters": {
+    "Kirloskar Aaf Limited v. American Air Filters Company Inc. & Anr5": [
+      "Vishal Pipes Limited vs. Bhavya Pipe Industry1",
+      "Kirloskar Aaf Limited v. American Air Filters Company Inc. & Anr5",
+      "Tara Devi Vs.",
+      "Soni Dave Vs.",
+      "Bangalore Blues Entertainment India Private Limited"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 12(1)(d)",
+      "CCA",
+      "Section 12(1)(d)",
+      "CCA"
+    ],
+    [
+      "Section 2(1)(c)(xvii)",
+      "CCA",
+      "Section 2(1)(c)(xvii)",
+      "CCA"
+    ],
+    [
+      "Section 12(1)(d)",
+      "CCA",
+      "Section 12(1)(d)",
+      "CCA"
+    ],
+    [
+      "Section 7",
+      "Court Fees Act",
+      "Section 7",
+      "Court Fees Act"
+    ],
+    [
+      "Section 7",
+      "Court-fees Act",
+      "Section 7",
+      "Court-fees Act"
+    ],
+    [
+      "Section 7",
+      "Court-fees Act",
+      "Section 7",
+      "Court-fees Act"
+    ],
+    [
+      "Section 7(iv)",
+      "Cour-fees Act",
+      "Section 7(iv)",
+      "Cour-fees Act"
+    ],
+    [
+      "Section 151",
+      "Code of Civil Procedure",
+      "Section 151",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 7",
+      "Court-fees Act",
+      "Section 7",
+      "Court-fees Act"
+    ],
+    [
+      "Order VII Rule 11(b)",
+      "Code of Civil Procedure",
+      "Order VII Rule 11(b)",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 7(iv)",
+      "Court-fees Act",
+      "Section 7(iv)",
+      "Court-fees Act"
+    ],
+    [
+      "Section 7",
+      "Court-fees Act",
+      "Section 7",
+      "Court-fees Act"
+    ],
+    [
+      "Section 11",
+      "Court-fees Act",
+      "Section 11",
+      "Court-fees Act"
+    ],
+    [
+      "clauses (a) to (e) of paragraph (iv) of Section 7",
+      "Court-fees Act",
+      "clauses (a) to (e) of paragraph (iv) of Section 7",
+      "Court-fees Act"
+    ],
+    [
+      "Sections 7(iv) and 11)",
+      "Court-fees Act",
+      "Sections 7(iv) and 11)",
+      "Court-fees Act"
+    ],
+    [
+      "Section 8",
+      "Suits Valuation Act",
+      "Section 8",
+      "Suits Valuation Act"
+    ],
+    [
+      "Section 7(iv)",
+      "Court-fees Act",
+      "Section 7(iv)",
+      "Court-fees Act"
+    ],
+    [
+      "Section 7(iv)",
+      "Court-fees Act",
+      "Section 7(iv)",
+      "Court-fees Act"
+    ],
+    [
+      "Section 8",
+      "Suits Valuation Act",
+      "Section 8",
+      "Suits Valuation Act"
+    ],
+    [
+      "Section 9",
+      "Suits Valuation Act",
+      "Section 9",
+      "Suits Valuation Act"
+    ],
+    [
+      "Section 7(iv)",
+      "Court-fees Act",
+      "Section 7(iv)",
+      "Court-fees Act"
+    ],
+    [
+      "Rule 4",
+      "Court-fees Act",
+      "Rule 4",
+      "Court-fees Act"
+    ],
+    [
+      "Section 7(iv)",
+      "Court- fees Act",
+      "Section 7(iv)",
+      "Court- fees Act"
+    ],
+    [
+      "Section 7",
+      "Court-fees Act",
+      "Section 7",
+      "Court-fees Act"
+    ],
+    [
+      "Section 9",
+      "Suits Valuation Act",
+      "Section 9",
+      "Suits Valuation Act"
+    ],
+    [
+      "Section 9",
+      "Suits Valuation Act",
+      "Section 9",
+      "Suits Valuation Act"
+    ],
+    [
+      "Section 12",
+      "CCA",
+      "Section 12",
+      "CCA"
+    ],
+    [
+      "Section 12",
+      "Commercial Courts Act",
+      "Section 12",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 12",
+      "Commercial Courts Act",
+      "Section 12",
+      "Commercial Courts Act"
+    ],
+    [
+      "section 12",
+      "CCA",
+      "section 12",
+      "CCA"
+    ],
+    [
+      "Section 12",
+      "CCA",
+      "Section 12",
+      "CCA"
+    ],
+    [
+      "Section 12",
+      "Court Fees and Suits Valuation Acts",
+      "Section 12",
+      "Court Fees and Suits Valuation Acts"
+    ],
+    [
+      "Section 21",
+      "CCA",
+      "Section 21",
+      "CCA"
+    ],
+    [
+      "Section 12(1)(d)",
+      "CCA",
+      "Section 12(1)(d)",
+      "CCA"
+    ],
+    [
+      "Section 2(c)",
+      "CCA",
+      "Section 2(c)",
+      "CCA"
+    ],
+    [
+      "Section 2(1)(c) (xvii)",
+      "CCA",
+      "Section 2(1)(c) (xvii)",
+      "CCA"
+    ],
+    [
+      "Section 2(1)(c)(xvi)",
+      "CCA",
+      "Section 2(1)(c)(xvi)",
+      "CCA"
+    ],
+    [
+      "Section 26(c)",
+      "Karnataka Court Fees and Suits Valuation Act",
+      "Section 26(c)",
+      "Karnataka Court Fees and Suits Valuation Act"
+    ],
+    [
+      "Order VII Rule 11(b)",
+      "Code of Civil Procedure",
+      "Order VII Rule 11(b)",
+      "Code of Civil Procedure"
+    ],
+    [
+      "clauses (a) to (f) of paragraph (iv) of Section 7",
+      "Court-fees Act",
+      "clauses (a) to (f) of paragraph (iv) of Section 7",
+      "Court-fees Act"
+    ],
+    [
+      "Rule 4",
+      "Court-fees Act",
+      "Rule 4",
+      "Court-fees Act"
+    ],
+    [
+      "Sections 8 and 9",
+      "Suits Valuation Act",
+      "Sections 8 and 9",
+      "Suits Valuation Act"
+    ],
+    [
+      "Section 21",
+      "CCA",
+      "Section 21",
+      "CCA"
+    ],
+    [
+      "Section 2(i)",
+      "CCA",
+      "Section 2(i)",
+      "CCA"
+    ],
+    [
+      "Section 12(1)(d)",
+      "CCA",
+      "Section 12(1)(d)",
+      "CCA"
+    ],
+    [
+      "section 2(1)(c)",
+      "CCA",
+      "section 2(1)(c)",
+      "CCA"
+    ],
+    [
+      "Section 12",
+      "CCA",
+      "Section 12",
+      "CCA"
+    ],
+    [
+      "Para 66 (iv)",
+      "CCA",
+      "Para 66 (iv)",
+      "CCA"
+    ],
+    [
+      "Para 66 (iv) and (v)",
+      "CCA",
+      "Para 66 (iv) and (v)",
+      "CCA"
+    ],
+    [
+      "Section 12",
+      "CCA",
+      "Section 12",
+      "CCA"
+    ],
+    [
+      "Sections 2(1)(c)",
+      "CCA",
+      "Sections 2(1)(c)",
+      "CCA"
+    ],
+    [
+      "Section 26",
+      "Karnataka Court Fees and Suits Valuation Act",
+      "Section 26",
+      "Karnataka Court Fees and Suits Valuation Act"
+    ],
+    [
+      "Rules 3 and 4",
+      "Court-fees Act",
+      "Rules 3 and 4",
+      "Court-fees Act"
+    ],
+    [
+      "sub-paragraphs (iv) and (v) of Para 66",
+      "CCA",
+      "sub-paragraphs (iv) and (v) of Para 66",
+      "CCA"
+    ]
+  ],
+  "precedent_counts": {
+    "Kirloskar Aaf Limited v. American Air Filters Company Inc. & Anr5": 5
+  },
+  "provision_counts": {
+    "Section 12(1)(d) of CCA": 4,
+    "Section 2(1)(c)(xvii) of CCA": 1,
+    "Section 7 of Court Fees Act": 1,
+    "Section 7 of Court-fees Act": 5,
+    "Section 7(iv) of Cour-fees Act": 1,
+    "Section 151 of Code of Civil Procedure": 1,
+    "Order VII Rule 11(b) of Code of Civil Procedure": 2,
+    "Section 7(iv) of Court-fees Act": 4,
+    "Section 11 of Court-fees Act": 1,
+    "clauses (a) to (e) of paragraph (iv) of Section 7 of Court-fees Act": 1,
+    "Sections 7(iv) and 11) of Court-fees Act": 1,
+    "Section 8 of Suits Valuation Act": 2,
+    "Section 9 of Suits Valuation Act": 3,
+    "Rule 4 of Court-fees Act": 2,
+    "Section 7(iv) of Court- fees Act": 1,
+    "Section 12 of CCA": 4,
+    "Section 12 of Commercial Courts Act": 2,
+    "section 12 of CCA": 1,
+    "Section 12 of Court Fees and Suits Valuation Acts": 1,
+    "Section 21 of CCA": 2,
+    "Section 2(c) of CCA": 1,
+    "Section 2(1)(c) (xvii) of CCA": 1,
+    "Section 2(1)(c)(xvi) of CCA": 1,
+    "Section 26(c) of Karnataka Court Fees and Suits Valuation Act": 1,
+    "clauses (a) to (f) of paragraph (iv) of Section 7 of Court-fees Act": 1,
+    "Sections 8 and 9 of Suits Valuation Act": 1,
+    "Section 2(i) of CCA": 1,
+    "section 2(1)(c) of CCA": 1,
+    "Para 66 (iv) of CCA": 1,
+    "Para 66 (iv) and (v) of CCA": 1,
+    "Sections 2(1)(c) of CCA": 1,
+    "Section 26 of Karnataka Court Fees and Suits Valuation Act": 1,
+    "Rules 3 and 4 of Court-fees Act": 1,
+    "sub-paragraphs (iv) and (v) of Para 66 of CCA": 1
+  },
+  "statute_counts": {
+    "CCA": 21,
+    "Court Fees Act": 1,
+    "Court-fees Act": 16,
+    "Cour-fees Act": 1,
+    "Code of Civil Procedure": 3,
+    "Suits Valuation Act": 6,
+    "Court- fees Act": 1,
+    "Commercial Courts Act": 2,
+    "Court Fees and Suits Valuation Acts": 1,
+    "Karnataka Court Fees and Suits Valuation Act": 2
+  }
+}

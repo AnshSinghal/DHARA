@@ -1,0 +1,7022 @@
+{
+  "entities": [
+    {
+      "text": "Zapdor-Ubc-Abnjv Delhi",
+      "label": "PETITIONER",
+      "start_char": 25,
+      "end_char": 47
+    },
+    {
+      "text": "U.O.I. Thru.General Manager Northern",
+      "label": "RESPONDENT",
+      "start_char": 51,
+      "end_char": 87
+    },
+    {
+      "text": "Sangeeta Chandra",
+      "label": "LAWYER",
+      "start_char": 121,
+      "end_char": 137
+    },
+    {
+      "text": "Sangeeta Chandra",
+      "label": "LAWYER",
+      "start_char": 145,
+      "end_char": 161
+    },
+    {
+      "text": "High Court Of Judicature At Allahabad, Lucknow Bench",
+      "label": "COURT",
+      "start_char": 162,
+      "end_char": 214
+    },
+    {
+      "text": "Zapdor-Ubc-Abnjv Delhi",
+      "label": "PETITIONER",
+      "start_char": 361,
+      "end_char": 383
+    },
+    {
+      "text": "U.O.I. Thru.General Manager Northern Railway New Delhi",
+      "label": "RESPONDENT",
+      "start_char": 400,
+      "end_char": 454
+    },
+    {
+      "text": "Anil Srivastava",
+      "label": "LAWYER",
+      "start_char": 491,
+      "end_char": 506
+    },
+    {
+      "text": "Divyam Krishna",
+      "label": "LAWYER",
+      "start_char": 507,
+      "end_char": 521
+    },
+    {
+      "text": "Utkarsh Srivastava",
+      "label": "LAWYER",
+      "start_char": 522,
+      "end_char": 540
+    },
+    {
+      "text": "Suniti Sachan",
+      "label": "LAWYER",
+      "start_char": 574,
+      "end_char": 587
+    },
+    {
+      "text": "Brijesh Kumar Shukla",
+      "label": "LAWYER",
+      "start_char": 588,
+      "end_char": 608
+    },
+    {
+      "text": "Pratyush Chaube",
+      "label": "LAWYER",
+      "start_char": 609,
+      "end_char": 624
+    },
+    {
+      "text": "Sangeeta Chandra",
+      "label": "JUDGE",
+      "start_char": 644,
+      "end_char": 660
+    },
+    {
+      "text": "Divyam Krishna",
+      "label": "LAWYER",
+      "start_char": 679,
+      "end_char": 693
+    },
+    {
+      "text": "Utkarsh Srivastava",
+      "label": "LAWYER",
+      "start_char": 702,
+      "end_char": 720
+    },
+    {
+      "text": "Brajesh Kumar Shukla",
+      "label": "LAWYER",
+      "start_char": 749,
+      "end_char": 769
+    },
+    {
+      "text": "Pratyush Chaubey",
+      "label": "LAWYER",
+      "start_char": 781,
+      "end_char": 797
+    },
+    {
+      "text": "30.10.2015",
+      "label": "DATE",
+      "start_char": 1258,
+      "end_char": 1268
+    },
+    {
+      "text": "Organisation for Railway Electrification (CORE)",
+      "label": "ORG",
+      "start_char": 1724,
+      "end_char": 1771
+    },
+    {
+      "text": "Allahabad",
+      "label": "GPE",
+      "start_char": 1775,
+      "end_char": 1784
+    },
+    {
+      "text": "19.04.2016",
+      "label": "DATE",
+      "start_char": 1785,
+      "end_char": 1795
+    },
+    {
+      "text": "14.7.2016",
+      "label": "DATE",
+      "start_char": 1826,
+      "end_char": 1835
+    },
+    {
+      "text": "Lucknow",
+      "label": "GPE",
+      "start_char": 1910,
+      "end_char": 1917
+    },
+    {
+      "text": "Jafrabad",
+      "label": "GPE",
+      "start_char": 1997,
+      "end_char": 2005
+    },
+    {
+      "text": "Akbar Pur - Tanda",
+      "label": "GPE",
+      "start_char": 2008,
+      "end_char": 2025
+    },
+    {
+      "text": "Lucknow",
+      "label": "GPE",
+      "start_char": 2098,
+      "end_char": 2105
+    },
+    {
+      "text": "01.12.2017",
+      "label": "DATE",
+      "start_char": 2414,
+      "end_char": 2424
+    },
+    {
+      "text": "Railways",
+      "label": "ORG",
+      "start_char": 2468,
+      "end_char": 2476
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 2528,
+      "end_char": 2537
+    },
+    {
+      "text": "CORE",
+      "label": "GPE",
+      "start_char": 2545,
+      "end_char": 2549
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 2731,
+      "end_char": 2740
+    },
+    {
+      "text": "6 March 2019",
+      "label": "DATE",
+      "start_char": 2744,
+      "end_char": 2756
+    },
+    {
+      "text": "Arbitration Application No. 925 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 2758,
+      "end_char": 2797
+    },
+    {
+      "text": "30 August 2019",
+      "label": "DATE",
+      "start_char": 2811,
+      "end_char": 2825
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 2832,
+      "end_char": 2842
+    },
+    {
+      "text": "Arbitration and Conciliation Act 1996",
+      "label": "STATUTE",
+      "start_char": 2850,
+      "end_char": 2887
+    },
+    {
+      "text": "Commercial Court at Lucknow",
+      "label": "COURT",
+      "start_char": 2989,
+      "end_char": 3016
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 3190,
+      "end_char": 3200
+    },
+    {
+      "text": "High Court at Delhi",
+      "label": "COURT",
+      "start_char": 3228,
+      "end_char": 3247
+    },
+    {
+      "text": "17.09.2019",
+      "label": "DATE",
+      "start_char": 3251,
+      "end_char": 3261
+    },
+    {
+      "text": "19.11.2019",
+      "label": "DATE",
+      "start_char": 3340,
+      "end_char": 3350
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 3454,
+      "end_char": 3464
+    },
+    {
+      "text": "04.12.2019",
+      "label": "DATE",
+      "start_char": 3543,
+      "end_char": 3553
+    },
+    {
+      "text": "12.12.2019",
+      "label": "DATE",
+      "start_char": 3603,
+      "end_char": 3613
+    },
+    {
+      "text": "Commercial Court at Lucknow",
+      "label": "COURT",
+      "start_char": 3868,
+      "end_char": 3895
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 4009,
+      "end_char": 4019
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 4129,
+      "end_char": 4139
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 4161,
+      "end_char": 4178
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 4179,
+      "end_char": 4182
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 4221,
+      "end_char": 4232
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 4240,
+      "end_char": 4261
+    },
+    {
+      "text": "19.04.2016",
+      "label": "DATE",
+      "start_char": 4380,
+      "end_char": 4390
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 5066,
+      "end_char": 5075
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 5127,
+      "end_char": 5136
+    },
+    {
+      "text": "Commercial Court at Lucknow",
+      "label": "COURT",
+      "start_char": 5147,
+      "end_char": 5174
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 5242,
+      "end_char": 5252
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 5334,
+      "end_char": 5344
+    },
+    {
+      "text": "Prayagraj",
+      "label": "GPE",
+      "start_char": 5479,
+      "end_char": 5488
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 5537,
+      "end_char": 5546
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 5621,
+      "end_char": 5631
+    },
+    {
+      "text": "Commercial Court at Lucknow",
+      "label": "COURT",
+      "start_char": 5740,
+      "end_char": 5767
+    },
+    {
+      "text": "Constitution Bench",
+      "label": "COURT",
+      "start_char": 6255,
+      "end_char": 6273
+    },
+    {
+      "text": "Bhartiya Alluminium Company Ltd. vs Kaiser Aluminium Technical Services 2012 (9) SCC 552",
+      "label": "PRECEDENT",
+      "start_char": 6277,
+      "end_char": 6365
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 6435,
+      "end_char": 6445
+    },
+    {
+      "text": "BALCO",
+      "label": "PRECEDENT",
+      "start_char": 6752,
+      "end_char": 6757
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 6819,
+      "end_char": 6832
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 6930,
+      "end_char": 6940
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 7264,
+      "end_char": 7277
+    },
+    {
+      "text": "BGS SGS Soma JV versus NHPC Ltd, 2004 (4) SCC 234",
+      "label": "PRECEDENT",
+      "start_char": 7281,
+      "end_char": 7330
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 7419,
+      "end_char": 7432
+    },
+    {
+      "text": "QUIPPO Construction Equipment Ltd versus Janardan Nirman Private Limited (2020)",
+      "label": "PRECEDENT",
+      "start_char": 7436,
+      "end_char": 7515
+    },
+    {
+      "text": "Om Prakash and others versus Vijay Dwarka Dass Verma 2020 SCC online Bombay 796",
+      "label": "PRECEDENT",
+      "start_char": 7539,
+      "end_char": 7618
+    },
+    {
+      "text": "L&T Finance Vs.",
+      "label": "PRECEDENT",
+      "start_char": 7620,
+      "end_char": 7635
+    },
+    {
+      "text": "Manoj Pathak",
+      "label": "OTHER_PERSON",
+      "start_char": 7636,
+      "end_char": 7648
+    },
+    {
+      "text": "Bombay",
+      "label": "GPE",
+      "start_char": 7667,
+      "end_char": 7673
+    },
+    {
+      "text": "TNGQ Projects Ltd.",
+      "label": "ORG",
+      "start_char": 7682,
+      "end_char": 7700
+    },
+    {
+      "text": "Balaji Projects (2021) SCC Online Madras",
+      "label": "RESPONDENT",
+      "start_char": 7705,
+      "end_char": 7745
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 7977,
+      "end_char": 7987
+    },
+    {
+      "text": "Allahabad",
+      "label": "GPE",
+      "start_char": 8466,
+      "end_char": 8475
+    },
+    {
+      "text": "Constitution Bench",
+      "label": "COURT",
+      "start_char": 8915,
+      "end_char": 8933
+    },
+    {
+      "text": "BALCO",
+      "label": "ORG",
+      "start_char": 8937,
+      "end_char": 8942
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 8996,
+      "end_char": 9009
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 9414,
+      "end_char": 9423
+    },
+    {
+      "text": "Lucknow",
+      "label": "GPE",
+      "start_char": 9431,
+      "end_char": 9438
+    },
+    {
+      "text": "Lucknow",
+      "label": "GPE",
+      "start_char": 9487,
+      "end_char": 9494
+    },
+    {
+      "text": "Lucknow",
+      "label": "GPE",
+      "start_char": 9534,
+      "end_char": 9541
+    },
+    {
+      "text": "Lucknow",
+      "label": "GPE",
+      "start_char": 9629,
+      "end_char": 9636
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 9672,
+      "end_char": 9682
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 9948,
+      "end_char": 9958
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 10271,
+      "end_char": 10284
+    },
+    {
+      "text": "Chief Postmaster General and others versus Living Media India Ltd 2012 (3) SCC 563",
+      "label": "PRECEDENT",
+      "start_char": 10300,
+      "end_char": 10382
+    },
+    {
+      "text": "Brajesh Kumar Shukla",
+      "label": "LAWYER",
+      "start_char": 10665,
+      "end_char": 10685
+    },
+    {
+      "text": "Amresh Anand",
+      "label": "OTHER_PERSON",
+      "start_char": 10987,
+      "end_char": 10999
+    },
+    {
+      "text": "Amresh Anand",
+      "label": "OTHER_PERSON",
+      "start_char": 11406,
+      "end_char": 11418
+    },
+    {
+      "text": "Amresh Anand",
+      "label": "OTHER_PERSON",
+      "start_char": 11700,
+      "end_char": 11712
+    },
+    {
+      "text": "Amresh Anand",
+      "label": "OTHER_PERSON",
+      "start_char": 11802,
+      "end_char": 11814
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 12112,
+      "end_char": 12123
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 12131,
+      "end_char": 12143
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 12220,
+      "end_char": 12230
+    },
+    {
+      "text": "Act of 1996",
+      "label": "STATUTE",
+      "start_char": 12238,
+      "end_char": 12249
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 12287,
+      "end_char": 12297
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 12374,
+      "end_char": 12384
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 12584,
+      "end_char": 12595
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 12603,
+      "end_char": 12615
+    },
+    {
+      "text": "Sub-Section (3) of Section 34",
+      "label": "PROVISION",
+      "start_char": 12792,
+      "end_char": 12821
+    },
+    {
+      "text": "Speed Post",
+      "label": "ORG",
+      "start_char": 13077,
+      "end_char": 13087
+    },
+    {
+      "text": "03.05.2019",
+      "label": "DATE",
+      "start_char": 13091,
+      "end_char": 13101
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 13132,
+      "end_char": 13142
+    },
+    {
+      "text": "03.08.2019",
+      "label": "DATE",
+      "start_char": 13212,
+      "end_char": 13222
+    },
+    {
+      "text": "28th of August",
+      "label": "DATE",
+      "start_char": 13336,
+      "end_char": 13350
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 13509,
+      "end_char": 13522
+    },
+    {
+      "text": "Pratiyush Chaube",
+      "label": "OTHER_PERSON",
+      "start_char": 13765,
+      "end_char": 13781
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 13989,
+      "end_char": 13994
+    },
+    {
+      "text": "Indian Railways Standard General Conditions of Contract- July 2014",
+      "label": "STATUTE",
+      "start_char": 14341,
+      "end_char": 14407
+    },
+    {
+      "text": "Chapter 2",
+      "label": "PROVISION",
+      "start_char": 14907,
+      "end_char": 14916
+    },
+    {
+      "text": "Tender Paper ELCORE",
+      "label": "STATUTE",
+      "start_char": 14924,
+      "end_char": 14943
+    },
+    {
+      "text": "Part I of Chapter I",
+      "label": "PROVISION",
+      "start_char": 15174,
+      "end_char": 15193
+    },
+    {
+      "text": "Chapter II",
+      "label": "PROVISION",
+      "start_char": 15236,
+      "end_char": 15246
+    },
+    {
+      "text": "1.2.54 (k)",
+      "label": "PROVISION",
+      "start_char": 15418,
+      "end_char": 15428
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 16031,
+      "end_char": 16040
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 16091,
+      "end_char": 16100
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 16150,
+      "end_char": 16159
+    },
+    {
+      "text": "Lucknow",
+      "label": "GPE",
+      "start_char": 16489,
+      "end_char": 16496
+    },
+    {
+      "text": "Lucknow",
+      "label": "GPE",
+      "start_char": 16558,
+      "end_char": 16565
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 16609,
+      "end_char": 16619
+    },
+    {
+      "text": "Commercial Court at Lucknow",
+      "label": "COURT",
+      "start_char": 16648,
+      "end_char": 16675
+    },
+    {
+      "text": "Railway Electrification Lucknow",
+      "label": "ORG",
+      "start_char": 16930,
+      "end_char": 16961
+    },
+    {
+      "text": "Lucknow",
+      "label": "GPE",
+      "start_char": 17242,
+      "end_char": 17249
+    },
+    {
+      "text": "Lucknow",
+      "label": "GPE",
+      "start_char": 17298,
+      "end_char": 17305
+    },
+    {
+      "text": "14.07.2016",
+      "label": "DATE",
+      "start_char": 17343,
+      "end_char": 17353
+    },
+    {
+      "text": "Lucknow",
+      "label": "GPE",
+      "start_char": 17384,
+      "end_char": 17391
+    },
+    {
+      "text": "Lucknow",
+      "label": "GPE",
+      "start_char": 17431,
+      "end_char": 17438
+    },
+    {
+      "text": "Lucknow",
+      "label": "GPE",
+      "start_char": 17548,
+      "end_char": 17555
+    },
+    {
+      "text": "Lucknow",
+      "label": "GPE",
+      "start_char": 17658,
+      "end_char": 17665
+    },
+    {
+      "text": "Lucknow",
+      "label": "GPE",
+      "start_char": 17848,
+      "end_char": 17855
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 18252,
+      "end_char": 18257
+    },
+    {
+      "text": "Section 31 sub-clause (4) and Section 20",
+      "label": "PROVISION",
+      "start_char": 18444,
+      "end_char": 18484
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 18711,
+      "end_char": 18724
+    },
+    {
+      "text": "Mankastu Impex Private Limited versus Air Visual Ltd 2020 (5) SCC 399",
+      "label": "PRECEDENT",
+      "start_char": 18740,
+      "end_char": 18809
+    },
+    {
+      "text": "Hasmukh Prajapati versus Jai Prakash Associates Limited",
+      "label": "PRECEDENT",
+      "start_char": 19092,
+      "end_char": 19147
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 19168,
+      "end_char": 19179
+    },
+    {
+      "text": "Constitution No. 6890 of 2021",
+      "label": "STATUTE",
+      "start_char": 19187,
+      "end_char": 19216
+    },
+    {
+      "text": "17.02.2022",
+      "label": "DATE",
+      "start_char": 19229,
+      "end_char": 19239
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 19396,
+      "end_char": 19405
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 19672,
+      "end_char": 19682
+    },
+    {
+      "text": "Commercial Court at Lucknow",
+      "label": "COURT",
+      "start_char": 19713,
+      "end_char": 19740
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 19818,
+      "end_char": 19828
+    },
+    {
+      "text": "17.09.2019",
+      "label": "DATE",
+      "start_char": 19843,
+      "end_char": 19853
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 19865,
+      "end_char": 19881
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 19887,
+      "end_char": 19903
+    },
+    {
+      "text": "High Court of Delhi",
+      "label": "COURT",
+      "start_char": 20060,
+      "end_char": 20079
+    },
+    {
+      "text": "18.09.2019",
+      "label": "DATE",
+      "start_char": 20099,
+      "end_char": 20109
+    },
+    {
+      "text": "High Court of Delhi",
+      "label": "COURT",
+      "start_char": 20141,
+      "end_char": 20160
+    },
+    {
+      "text": "24.12.2019",
+      "label": "DATE",
+      "start_char": 20274,
+      "end_char": 20284
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 20583,
+      "end_char": 20593
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 20601,
+      "end_char": 20633
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 20845,
+      "end_char": 20855
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 20997,
+      "end_char": 21013
+    },
+    {
+      "text": "24.12.2019",
+      "label": "DATE",
+      "start_char": 21017,
+      "end_char": 21027
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 21356,
+      "end_char": 21366
+    },
+    {
+      "text": "Commercial Court at Lucknow",
+      "label": "COURT",
+      "start_char": 21399,
+      "end_char": 21426
+    },
+    {
+      "text": "6.03.2019",
+      "label": "DATE",
+      "start_char": 21504,
+      "end_char": 21513
+    },
+    {
+      "text": "09.02.2021",
+      "label": "DATE",
+      "start_char": 21533,
+      "end_char": 21543
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 21671,
+      "end_char": 21687
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 21701,
+      "end_char": 21717
+    },
+    {
+      "text": "05.11.2020",
+      "label": "DATE",
+      "start_char": 21789,
+      "end_char": 21799
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 21825,
+      "end_char": 21841
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 21922,
+      "end_char": 21933
+    },
+    {
+      "text": "08.12.2020",
+      "label": "DATE",
+      "start_char": 21942,
+      "end_char": 21952
+    },
+    {
+      "text": "12.12.2019",
+      "label": "DATE",
+      "start_char": 22024,
+      "end_char": 22034
+    },
+    {
+      "text": "Lucknow",
+      "label": "GPE",
+      "start_char": 22665,
+      "end_char": 22672
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 22825,
+      "end_char": 22838
+    },
+    {
+      "text": "BGSSGS Soma",
+      "label": "PRECEDENT",
+      "start_char": 22868,
+      "end_char": 22879
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 23083,
+      "end_char": 23088
+    },
+    {
+      "text": "Mankastu Impex",
+      "label": "PRECEDENT",
+      "start_char": 23300,
+      "end_char": 23314
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 23494,
+      "end_char": 23499
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 23539,
+      "end_char": 23545
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 23867,
+      "end_char": 23880
+    },
+    {
+      "text": "Inox Renewables Ltd versus Jayesh Electricals Ltd 2021 SCC Online SC 448",
+      "label": "PRECEDENT",
+      "start_char": 23884,
+      "end_char": 23956
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 24121,
+      "end_char": 24132
+    },
+    {
+      "text": "Zapdor",
+      "label": "ORG",
+      "start_char": 24415,
+      "end_char": 24421
+    },
+    {
+      "text": "Order XXX Rule 2",
+      "label": "PROVISION",
+      "start_char": 24430,
+      "end_char": 24446
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 24447,
+      "end_char": 24453
+    },
+    {
+      "text": "Order XXIX Rule 1",
+      "label": "PROVISION",
+      "start_char": 24458,
+      "end_char": 24475
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 24476,
+      "end_char": 24482
+    },
+    {
+      "text": "Amresh Anand",
+      "label": "OTHER_PERSON",
+      "start_char": 24484,
+      "end_char": 24496
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 24744,
+      "end_char": 24755
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 24918,
+      "end_char": 24928
+    },
+    {
+      "text": "J.V. Company",
+      "label": "ORG",
+      "start_char": 25506,
+      "end_char": 25518
+    },
+    {
+      "text": "Jafarabad",
+      "label": "GPE",
+      "start_char": 25861,
+      "end_char": 25870
+    },
+    {
+      "text": "Akbarpur",
+      "label": "GPE",
+      "start_char": 25871,
+      "end_char": 25879
+    },
+    {
+      "text": "Zapdor",
+      "label": "OTHER_PERSON",
+      "start_char": 25911,
+      "end_char": 25917
+    },
+    {
+      "text": "Amresh Anand",
+      "label": "OTHER_PERSON",
+      "start_char": 25921,
+      "end_char": 25933
+    },
+    {
+      "text": "Amresh Anand",
+      "label": "OTHER_PERSON",
+      "start_char": 26128,
+      "end_char": 26140
+    },
+    {
+      "text": "Amresh Anand",
+      "label": "OTHER_PERSON",
+      "start_char": 26287,
+      "end_char": 26299
+    },
+    {
+      "text": "Amresh Anand",
+      "label": "OTHER_PERSON",
+      "start_char": 26446,
+      "end_char": 26458
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 26571,
+      "end_char": 26584
+    },
+    {
+      "text": "United Bank of India versus Naresh Kumar and others 1996 (6) SCC 660",
+      "label": "PRECEDENT",
+      "start_char": 26600,
+      "end_char": 26668
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 27266,
+      "end_char": 27279
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 27290,
+      "end_char": 27303
+    },
+    {
+      "text": "Order VI Rule 14",
+      "label": "PROVISION",
+      "start_char": 27577,
+      "end_char": 27593
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 27601,
+      "end_char": 27624
+    },
+    {
+      "text": "Order XXIX Rule 1",
+      "label": "PROVISION",
+      "start_char": 27814,
+      "end_char": 27831
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 27839,
+      "end_char": 27862
+    },
+    {
+      "text": "Order VI Rule 14",
+      "label": "PROVISION",
+      "start_char": 28107,
+      "end_char": 28123
+    },
+    {
+      "text": "Order XXIX Rule 1",
+      "label": "PROVISION",
+      "start_char": 28138,
+      "end_char": 28155
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 28163,
+      "end_char": 28186
+    },
+    {
+      "text": "Rule 1 of Order XXIX",
+      "label": "PROVISION",
+      "start_char": 28329,
+      "end_char": 28349
+    },
+    {
+      "text": "Order XXIX Rule (1)",
+      "label": "PROVISION",
+      "start_char": 28482,
+      "end_char": 28501
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 28509,
+      "end_char": 28532
+    },
+    {
+      "text": "Order VI Rule 14",
+      "label": "PROVISION",
+      "start_char": 28737,
+      "end_char": 28753
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 28761,
+      "end_char": 28784
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 29784,
+      "end_char": 29795
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 29803,
+      "end_char": 29815
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 29864,
+      "end_char": 29877
+    },
+    {
+      "text": "Soma JV",
+      "label": "PRECEDENT",
+      "start_char": 29881,
+      "end_char": 29888
+    },
+    {
+      "text": "Assam",
+      "label": "GPE",
+      "start_char": 29949,
+      "end_char": 29954
+    },
+    {
+      "text": "Arunachal Pradesh",
+      "label": "GPE",
+      "start_char": 29959,
+      "end_char": 29976
+    },
+    {
+      "text": "Faridabad",
+      "label": "GPE",
+      "start_char": 30009,
+      "end_char": 30018
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 30226,
+      "end_char": 30235
+    },
+    {
+      "text": "Faridabad",
+      "label": "GPE",
+      "start_char": 30236,
+      "end_char": 30245
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 30247,
+      "end_char": 30252
+    },
+    {
+      "text": "16.05.2011",
+      "label": "DATE",
+      "start_char": 30258,
+      "end_char": 30268
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 30460,
+      "end_char": 30469
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 30516,
+      "end_char": 30525
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 30727,
+      "end_char": 30737
+    },
+    {
+      "text": "Court of District and Sessions Judge, Faridabad Haryana",
+      "label": "COURT",
+      "start_char": 30749,
+      "end_char": 30804
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 30848,
+      "end_char": 30859
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 30870,
+      "end_char": 30887
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 30895,
+      "end_char": 30901
+    },
+    {
+      "text": "Section 2 (1) (e) (i)",
+      "label": "PROVISION",
+      "start_char": 30906,
+      "end_char": 30927
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 30983,
+      "end_char": 30993
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 31043,
+      "end_char": 31052
+    },
+    {
+      "text": "District Judge at Dhemaji Assam",
+      "label": "COURT",
+      "start_char": 31065,
+      "end_char": 31096
+    },
+    {
+      "text": "Special Commercial Court Gurugram",
+      "label": "COURT",
+      "start_char": 31102,
+      "end_char": 31135
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 31193,
+      "end_char": 31203
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 31277,
+      "end_char": 31286
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 31325,
+      "end_char": 31335
+    },
+    {
+      "text": "Punjab and Haryana High Court",
+      "label": "COURT",
+      "start_char": 31363,
+      "end_char": 31392
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 31448,
+      "end_char": 31453
+    },
+    {
+      "text": "Faridabad",
+      "label": "GPE",
+      "start_char": 31567,
+      "end_char": 31576
+    },
+    {
+      "text": "Faridabad",
+      "label": "GPE",
+      "start_char": 31658,
+      "end_char": 31667
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 31717,
+      "end_char": 31730
+    },
+    {
+      "text": "order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 31800,
+      "end_char": 31817
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 31818,
+      "end_char": 31821
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 31894,
+      "end_char": 31904
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 31959,
+      "end_char": 31968
+    },
+    {
+      "text": "Faridabad",
+      "label": "GPE",
+      "start_char": 31973,
+      "end_char": 31982
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 32051,
+      "end_char": 32060
+    },
+    {
+      "text": "Faridabad",
+      "label": "GPE",
+      "start_char": 32068,
+      "end_char": 32077
+    },
+    {
+      "text": "Constitution Bench",
+      "label": "COURT",
+      "start_char": 32106,
+      "end_char": 32124
+    },
+    {
+      "text": "BALCO",
+      "label": "PRECEDENT",
+      "start_char": 32149,
+      "end_char": 32154
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 32224,
+      "end_char": 32237
+    },
+    {
+      "text": "Reliance Industries Ltd versus Union of India 2014 (7) SCC 603",
+      "label": "PRECEDENT",
+      "start_char": 32241,
+      "end_char": 32303
+    },
+    {
+      "text": "Indus Mobile Distribution (Private )Limited versus DataWind Innovation (Private )Limited 2017 (7) SCC 678",
+      "label": "PRECEDENT",
+      "start_char": 32312,
+      "end_char": 32417
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 32544,
+      "end_char": 32554
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 32575,
+      "end_char": 32584
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 32674,
+      "end_char": 32684
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 32737,
+      "end_char": 32746
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 32871,
+      "end_char": 32888
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 32889,
+      "end_char": 32895
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 33100,
+      "end_char": 33109
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 33125,
+      "end_char": 33134
+    },
+    {
+      "text": "Section 20 (1)",
+      "label": "PROVISION",
+      "start_char": 33165,
+      "end_char": 33179
+    },
+    {
+      "text": "Faridabad",
+      "label": "GPE",
+      "start_char": 33240,
+      "end_char": 33249
+    },
+    {
+      "text": "Faridabad",
+      "label": "GPE",
+      "start_char": 33285,
+      "end_char": 33294
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 33340,
+      "end_char": 33350
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 33373,
+      "end_char": 33386
+    },
+    {
+      "text": "Soma",
+      "label": "JUDGE",
+      "start_char": 33390,
+      "end_char": 33394
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 33465,
+      "end_char": 33475
+    },
+    {
+      "text": "Commercial Court at Gurugram",
+      "label": "COURT",
+      "start_char": 33573,
+      "end_char": 33601
+    },
+    {
+      "text": "Section 8 or Section 9",
+      "label": "PROVISION",
+      "start_char": 33623,
+      "end_char": 33645
+    },
+    {
+      "text": "Section 34(1) (c )",
+      "label": "PROVISION",
+      "start_char": 33729,
+      "end_char": 33747
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 33773,
+      "end_char": 33783
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 33841,
+      "end_char": 33851
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 33859,
+      "end_char": 33880
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 33885,
+      "end_char": 33895
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 33916,
+      "end_char": 33926
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 33934,
+      "end_char": 33955
+    },
+    {
+      "text": "Order 43",
+      "label": "PROVISION",
+      "start_char": 33993,
+      "end_char": 34001
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 34009,
+      "end_char": 34015
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 34020,
+      "end_char": 34030
+    },
+    {
+      "text": "Fuerst Day Lawson Ltd versus Jindal Exports Ltd, 2011 (8) SCC 333",
+      "label": "PRECEDENT",
+      "start_char": 34083,
+      "end_char": 34148
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 34163,
+      "end_char": 34173
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 34181,
+      "end_char": 34202
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 34315,
+      "end_char": 34325
+    },
+    {
+      "text": "Section 13 (1)",
+      "label": "PROVISION",
+      "start_char": 34386,
+      "end_char": 34400
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 34529,
+      "end_char": 34550
+    },
+    {
+      "text": "Section 37(1)",
+      "label": "PROVISION",
+      "start_char": 34629,
+      "end_char": 34642
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 34813,
+      "end_char": 34823
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 34861,
+      "end_char": 34871
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 35042,
+      "end_char": 35052
+    },
+    {
+      "text": "Commercial Court at Gurugram",
+      "label": "COURT",
+      "start_char": 35102,
+      "end_char": 35130
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 35170,
+      "end_char": 35181
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 35192,
+      "end_char": 35209
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 35210,
+      "end_char": 35216
+    },
+    {
+      "text": "Commercial Court at Gurugram",
+      "label": "COURT",
+      "start_char": 35235,
+      "end_char": 35263
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 35312,
+      "end_char": 35322
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 35428,
+      "end_char": 35437
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 35518,
+      "end_char": 35531
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 35560,
+      "end_char": 35570
+    },
+    {
+      "text": "Punjab and Haryana High Court",
+      "label": "COURT",
+      "start_char": 35582,
+      "end_char": 35611
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 35687,
+      "end_char": 35700
+    },
+    {
+      "text": "Soma JV",
+      "label": "PRECEDENT",
+      "start_char": 35704,
+      "end_char": 35711
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 35774,
+      "end_char": 35785
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 35793,
+      "end_char": 35805
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 35897,
+      "end_char": 35907
+    },
+    {
+      "text": "Constitution Bench",
+      "label": "COURT",
+      "start_char": 36199,
+      "end_char": 36217
+    },
+    {
+      "text": "BALCO Vs.",
+      "label": "PRECEDENT",
+      "start_char": 36221,
+      "end_char": 36230
+    },
+    {
+      "text": "Kaiser Alluminium",
+      "label": "PRECEDENT",
+      "start_char": 36231,
+      "end_char": 36248
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 36262,
+      "end_char": 36275
+    },
+    {
+      "text": "BALCO",
+      "label": "PRECEDENT",
+      "start_char": 36279,
+      "end_char": 36284
+    },
+    {
+      "text": "Article 17",
+      "label": "PROVISION",
+      "start_char": 36404,
+      "end_char": 36414
+    },
+    {
+      "text": "London",
+      "label": "GPE",
+      "start_char": 36545,
+      "end_char": 36551
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 36693,
+      "end_char": 36698
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 36911,
+      "end_char": 36916
+    },
+    {
+      "text": "London",
+      "label": "GPE",
+      "start_char": 37042,
+      "end_char": 37048
+    },
+    {
+      "text": "London",
+      "label": "GPE",
+      "start_char": 37198,
+      "end_char": 37204
+    },
+    {
+      "text": "London",
+      "label": "GPE",
+      "start_char": 37247,
+      "end_char": 37253
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 37310,
+      "end_char": 37320
+    },
+    {
+      "text": "1996 Act",
+      "label": "STATUTE",
+      "start_char": 37328,
+      "end_char": 37336
+    },
+    {
+      "text": "District Judge Bilaspur",
+      "label": "COURT",
+      "start_char": 37396,
+      "end_char": 37419
+    },
+    {
+      "text": "Bilaspur",
+      "label": "GPE",
+      "start_char": 37440,
+      "end_char": 37448
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 37485,
+      "end_char": 37495
+    },
+    {
+      "text": "High Court of Chhattisgarh",
+      "label": "COURT",
+      "start_char": 37633,
+      "end_char": 37659
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 37761,
+      "end_char": 37774
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 37780,
+      "end_char": 37793
+    },
+    {
+      "text": "Constitution Bench",
+      "label": "COURT",
+      "start_char": 37935,
+      "end_char": 37953
+    },
+    {
+      "text": "Section 2 (2) and 20",
+      "label": "PROVISION",
+      "start_char": 38049,
+      "end_char": 38069
+    },
+    {
+      "text": "Arbitration Act 1996",
+      "label": "STATUTE",
+      "start_char": 38077,
+      "end_char": 38097
+    },
+    {
+      "text": "Section 48",
+      "label": "PROVISION",
+      "start_char": 38189,
+      "end_char": 38199
+    },
+    {
+      "text": "Section 2 (2)",
+      "label": "PROVISION",
+      "start_char": 38228,
+      "end_char": 38241
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 38265,
+      "end_char": 38271
+    },
+    {
+      "text": "Arbitration Act 1996",
+      "label": "STATUTE",
+      "start_char": 38279,
+      "end_char": 38299
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 38342,
+      "end_char": 38347
+    },
+    {
+      "text": "Part II and III",
+      "label": "PROVISION",
+      "start_char": 38541,
+      "end_char": 38556
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 38683,
+      "end_char": 38696
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 38875,
+      "end_char": 38885
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 38957,
+      "end_char": 38970
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 39217,
+      "end_char": 39230
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 39306,
+      "end_char": 39311
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 39313,
+      "end_char": 39319
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 39451,
+      "end_char": 39457
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 39539,
+      "end_char": 39544
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 39546,
+      "end_char": 39552
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 39989,
+      "end_char": 40002
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 40215,
+      "end_char": 40221
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 40288,
+      "end_char": 40293
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 40295,
+      "end_char": 40301
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 40397,
+      "end_char": 40402
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 40533,
+      "end_char": 40538
+    },
+    {
+      "text": "part II",
+      "label": "PROVISION",
+      "start_char": 40586,
+      "end_char": 40593
+    },
+    {
+      "text": "part II",
+      "label": "PROVISION",
+      "start_char": 40727,
+      "end_char": 40734
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 40873,
+      "end_char": 40882
+    },
+    {
+      "text": "part I",
+      "label": "PROVISION",
+      "start_char": 40957,
+      "end_char": 40963
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 41030,
+      "end_char": 41035
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 41116,
+      "end_char": 41121
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 41200,
+      "end_char": 41205
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 41213,
+      "end_char": 41219
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 41315,
+      "end_char": 41320
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 41331,
+      "end_char": 41344
+    },
+    {
+      "text": "Section 2(1) (e)",
+      "label": "PROVISION",
+      "start_char": 41398,
+      "end_char": 41414
+    },
+    {
+      "text": "Section 2 (1) (e)",
+      "label": "PROVISION",
+      "start_char": 41514,
+      "end_char": 41531
+    },
+    {
+      "text": "Part I.",
+      "label": "PROVISION",
+      "start_char": 41547,
+      "end_char": 41554
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 41836,
+      "end_char": 41851
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 41906,
+      "end_char": 41916
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 42481,
+      "end_char": 42486
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 42525,
+      "end_char": 42530
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 42532,
+      "end_char": 42537
+    },
+    {
+      "text": "Mumbai",
+      "label": "GPE",
+      "start_char": 42602,
+      "end_char": 42608
+    },
+    {
+      "text": "Kolkata",
+      "label": "GPE",
+      "start_char": 42628,
+      "end_char": 42635
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 42674,
+      "end_char": 42679
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 42710,
+      "end_char": 42720
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 42785,
+      "end_char": 42795
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 42821,
+      "end_char": 42826
+    },
+    {
+      "text": "Mumbai",
+      "label": "GPE",
+      "start_char": 43052,
+      "end_char": 43058
+    },
+    {
+      "text": "Kolkata",
+      "label": "GPE",
+      "start_char": 43065,
+      "end_char": 43072
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 43115,
+      "end_char": 43120
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 43443,
+      "end_char": 43448
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 44235,
+      "end_char": 44248
+    },
+    {
+      "text": "Constitution Bench",
+      "label": "COURT",
+      "start_char": 44499,
+      "end_char": 44517
+    },
+    {
+      "text": "Section 2(2) and 20",
+      "label": "PROVISION",
+      "start_char": 44588,
+      "end_char": 44607
+    },
+    {
+      "text": "Arbitration Act 1996",
+      "label": "STATUTE",
+      "start_char": 44615,
+      "end_char": 44635
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 44675,
+      "end_char": 44688
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 45161,
+      "end_char": 45174
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 46138,
+      "end_char": 46151
+    },
+    {
+      "text": "Union of India versus McDonnell Douglas Corporation 1993 (2) Lloyd's Report 48",
+      "label": "PRECEDENT",
+      "start_char": 46167,
+      "end_char": 46245
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 46257,
+      "end_char": 46270
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 46400,
+      "end_char": 46406
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 46474,
+      "end_char": 46479
+    },
+    {
+      "text": "Arbitration Act 1996",
+      "label": "STATUTE",
+      "start_char": 46736,
+      "end_char": 46756
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 46981,
+      "end_char": 46996
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 47334,
+      "end_char": 47347
+    },
+    {
+      "text": "Section 2(1)(e)includes \"",
+      "label": "PROVISION",
+      "start_char": 47394,
+      "end_char": 47419
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 47741,
+      "end_char": 47754
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 47809,
+      "end_char": 47819
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 48477,
+      "end_char": 48487
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 48560,
+      "end_char": 48565
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 48625,
+      "end_char": 48630
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 48632,
+      "end_char": 48641
+    },
+    {
+      "text": "Mumbai",
+      "label": "GPE",
+      "start_char": 48645,
+      "end_char": 48651
+    },
+    {
+      "text": "Section 20(3)",
+      "label": "PROVISION",
+      "start_char": 48807,
+      "end_char": 48820
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 49021,
+      "end_char": 49034
+    },
+    {
+      "text": "Section 20(3)",
+      "label": "PROVISION",
+      "start_char": 49176,
+      "end_char": 49189
+    },
+    {
+      "text": "Section 20(3)has to",
+      "label": "PROVISION",
+      "start_char": 49191,
+      "end_char": 49210
+    },
+    {
+      "text": "Section 20(2)which places",
+      "label": "PROVISION",
+      "start_char": 49237,
+      "end_char": 49262
+    },
+    {
+      "text": "Part 1",
+      "label": "PROVISION",
+      "start_char": 49310,
+      "end_char": 49316
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 49354,
+      "end_char": 49359
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 49479,
+      "end_char": 49484
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 49523,
+      "end_char": 49528
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 49728,
+      "end_char": 49733
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 49740,
+      "end_char": 49753
+    },
+    {
+      "text": "Redfern",
+      "label": "OTHER_PERSON",
+      "start_char": 49795,
+      "end_char": 49802
+    },
+    {
+      "text": "Hunter",
+      "label": "OTHER_PERSON",
+      "start_char": 49807,
+      "end_char": 49813
+    },
+    {
+      "text": "Section 20 (1)and subsection 20 (2)and",
+      "label": "PROVISION",
+      "start_char": 51297,
+      "end_char": 51335
+    },
+    {
+      "text": "Section 20 (3)",
+      "label": "PROVISION",
+      "start_char": 51358,
+      "end_char": 51372
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 51406,
+      "end_char": 51419
+    },
+    {
+      "text": "Union of India versus Hardy Exploration and Production (India) Inc 2019 (13) SCC 472",
+      "label": "PRECEDENT",
+      "start_char": 51435,
+      "end_char": 51519
+    },
+    {
+      "text": "Kuala Lumpur",
+      "label": "GPE",
+      "start_char": 51748,
+      "end_char": 51760
+    },
+    {
+      "text": "UNCITRAL",
+      "label": "STATUTE",
+      "start_char": 51831,
+      "end_char": 51839
+    },
+    {
+      "text": "Kuala Lumpur",
+      "label": "GPE",
+      "start_char": 51933,
+      "end_char": 51945
+    },
+    {
+      "text": "Kuala Lumpur",
+      "label": "GPE",
+      "start_char": 51988,
+      "end_char": 52000
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 52006,
+      "end_char": 52020
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 52084,
+      "end_char": 52100
+    },
+    {
+      "text": "Kuala Lumpur",
+      "label": "GPE",
+      "start_char": 52120,
+      "end_char": 52132
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 52158,
+      "end_char": 52167
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 52201,
+      "end_char": 52214
+    },
+    {
+      "text": "Kuala",
+      "label": "GPE",
+      "start_char": 52368,
+      "end_char": 52373
+    },
+    {
+      "text": "Lumpur",
+      "label": "GPE",
+      "start_char": 52374,
+      "end_char": 52380
+    },
+    {
+      "text": "BALCO",
+      "label": "PRECEDENT",
+      "start_char": 52715,
+      "end_char": 52720
+    },
+    {
+      "text": "Soma JV",
+      "label": "PRECEDENT",
+      "start_char": 52787,
+      "end_char": 52794
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 52808,
+      "end_char": 52821
+    },
+    {
+      "text": "BALCO Vs.",
+      "label": "PRECEDENT",
+      "start_char": 52825,
+      "end_char": 52834
+    },
+    {
+      "text": "Kaiser Alluminium",
+      "label": "PRECEDENT",
+      "start_char": 52835,
+      "end_char": 52852
+    },
+    {
+      "text": "Braes of Doune Wind Farm (Scotland) Ltd v Alfred MacAlpine Business Services Ltd 2008 EWHC 426 (TCC)",
+      "label": "PRECEDENT",
+      "start_char": 52898,
+      "end_char": 52998
+    },
+    {
+      "text": "Glasgow",
+      "label": "GPE",
+      "start_char": 53365,
+      "end_char": 53372
+    },
+    {
+      "text": "London",
+      "label": "GPE",
+      "start_char": 53452,
+      "end_char": 53458
+    },
+    {
+      "text": "England",
+      "label": "GPE",
+      "start_char": 53459,
+      "end_char": 53466
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 53905,
+      "end_char": 53918
+    },
+    {
+      "text": "Alfred MacAlpine",
+      "label": "OTHER_PERSON",
+      "start_char": 53954,
+      "end_char": 53970
+    },
+    {
+      "text": "Shashoua v Sharma 2009 EWHC 957(Comm)",
+      "label": "PRECEDENT",
+      "start_char": 53987,
+      "end_char": 54024
+    },
+    {
+      "text": "Shashoua",
+      "label": "OTHER_PERSON",
+      "start_char": 54033,
+      "end_char": 54041
+    },
+    {
+      "text": "London",
+      "label": "GPE",
+      "start_char": 54198,
+      "end_char": 54204
+    },
+    {
+      "text": "United Kingdom",
+      "label": "GPE",
+      "start_char": 54206,
+      "end_char": 54220
+    },
+    {
+      "text": "ICC",
+      "label": "STATUTE",
+      "start_char": 54333,
+      "end_char": 54336
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 54428,
+      "end_char": 54433
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 54490,
+      "end_char": 54499
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 54544,
+      "end_char": 54553
+    },
+    {
+      "text": "Arbitration Act 1996",
+      "label": "STATUTE",
+      "start_char": 54561,
+      "end_char": 54581
+    },
+    {
+      "text": "High Court of Delhi",
+      "label": "COURT",
+      "start_char": 55083,
+      "end_char": 55102
+    },
+    {
+      "text": "Section 34 (2)(a)",
+      "label": "PROVISION",
+      "start_char": 55109,
+      "end_char": 55126
+    },
+    {
+      "text": "Arbitration Act 1996",
+      "label": "STATUTE",
+      "start_char": 55134,
+      "end_char": 55154
+    },
+    {
+      "text": "England",
+      "label": "GPE",
+      "start_char": 55301,
+      "end_char": 55308
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 55339,
+      "end_char": 55355
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 55477,
+      "end_char": 55487
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 55500,
+      "end_char": 55505
+    },
+    {
+      "text": "Section 68 and Section 69",
+      "label": "PROVISION",
+      "start_char": 55631,
+      "end_char": 55656
+    },
+    {
+      "text": "UK Act",
+      "label": "STATUTE",
+      "start_char": 55664,
+      "end_char": 55670
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 55742,
+      "end_char": 55755
+    },
+    {
+      "text": "Soma J.V.",
+      "label": "OTHER_PERSON",
+      "start_char": 55759,
+      "end_char": 55768
+    },
+    {
+      "text": "BALCO",
+      "label": "ORG",
+      "start_char": 55803,
+      "end_char": 55808
+    },
+    {
+      "text": "Shashua",
+      "label": "OTHER_PERSON",
+      "start_char": 55908,
+      "end_char": 55915
+    },
+    {
+      "text": "ICC",
+      "label": "ORG",
+      "start_char": 56689,
+      "end_char": 56692
+    },
+    {
+      "text": "Paris",
+      "label": "GPE",
+      "start_char": 56696,
+      "end_char": 56701
+    },
+    {
+      "text": "London",
+      "label": "GPE",
+      "start_char": 56787,
+      "end_char": 56793
+    },
+    {
+      "text": "United Kingdom",
+      "label": "GPE",
+      "start_char": 56795,
+      "end_char": 56809
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 57044,
+      "end_char": 57057
+    },
+    {
+      "text": "BALCO",
+      "label": "ORG",
+      "start_char": 57061,
+      "end_char": 57066
+    },
+    {
+      "text": "Union of India Vs.",
+      "label": "PRECEDENT",
+      "start_char": 57123,
+      "end_char": 57141
+    },
+    {
+      "text": "McDonnell Douglas Corporation",
+      "label": "ORG",
+      "start_char": 57142,
+      "end_char": 57171
+    },
+    {
+      "text": "Union of India versus McDonnell Douglas Corpn (1993)",
+      "label": "PRECEDENT",
+      "start_char": 57176,
+      "end_char": 57228
+    },
+    {
+      "text": "Indian Arbitration Act of 1940",
+      "label": "STATUTE",
+      "start_char": 57357,
+      "end_char": 57387
+    },
+    {
+      "text": "London",
+      "label": "GPE",
+      "start_char": 57478,
+      "end_char": 57484
+    },
+    {
+      "text": "United Kingdom",
+      "label": "GPE",
+      "start_char": 57486,
+      "end_char": 57500
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 57541,
+      "end_char": 57554
+    },
+    {
+      "text": "Indian Act",
+      "label": "STATUTE",
+      "start_char": 57703,
+      "end_char": 57713
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 57895,
+      "end_char": 57908
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 58099,
+      "end_char": 58112
+    },
+    {
+      "text": "Soma J.V.",
+      "label": "PRECEDENT",
+      "start_char": 58127,
+      "end_char": 58136
+    },
+    {
+      "text": "BALCO",
+      "label": "ORG",
+      "start_char": 58174,
+      "end_char": 58179
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 58518,
+      "end_char": 58531
+    },
+    {
+      "text": "Soma",
+      "label": "JUDGE",
+      "start_char": 58535,
+      "end_char": 58539
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 58628,
+      "end_char": 58637
+    },
+    {
+      "text": "Faridabad",
+      "label": "GPE",
+      "start_char": 58641,
+      "end_char": 58650
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 58691,
+      "end_char": 58701
+    },
+    {
+      "text": "Arbitration Act 1996",
+      "label": "STATUTE",
+      "start_char": 58709,
+      "end_char": 58729
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 59222,
+      "end_char": 59235
+    },
+    {
+      "text": "Arbitration Act 1940",
+      "label": "STATUTE",
+      "start_char": 59251,
+      "end_char": 59271
+    },
+    {
+      "text": "UNCITRAL",
+      "label": "STATUTE",
+      "start_char": 59355,
+      "end_char": 59363
+    },
+    {
+      "text": "Part I.",
+      "label": "PROVISION",
+      "start_char": 59717,
+      "end_char": 59724
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 59733,
+      "end_char": 59746
+    },
+    {
+      "text": "Section 2 (1) (e) and Sub-clause (i) and (ii)",
+      "label": "PROVISION",
+      "start_char": 59787,
+      "end_char": 59832
+    },
+    {
+      "text": "Section 20, 31 (4) and 42",
+      "label": "PROVISION",
+      "start_char": 59854,
+      "end_char": 59879
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 59906,
+      "end_char": 59919
+    },
+    {
+      "text": "Soma JV",
+      "label": "PRECEDENT",
+      "start_char": 59923,
+      "end_char": 59930
+    },
+    {
+      "text": "BALCO",
+      "label": "PRECEDENT",
+      "start_char": 59976,
+      "end_char": 59981
+    },
+    {
+      "text": "BALCO",
+      "label": "PRECEDENT",
+      "start_char": 60183,
+      "end_char": 60188
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 60202,
+      "end_char": 60215
+    },
+    {
+      "text": "BALCO",
+      "label": "ORG",
+      "start_char": 60316,
+      "end_char": 60321
+    },
+    {
+      "text": "BALCO",
+      "label": "ORG",
+      "start_char": 60671,
+      "end_char": 60676
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 60794,
+      "end_char": 60804
+    },
+    {
+      "text": "Arbitration Act 1996",
+      "label": "STATUTE",
+      "start_char": 60812,
+      "end_char": 60832
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 60861,
+      "end_char": 60871
+    },
+    {
+      "text": "Section 2 (1)(e)",
+      "label": "PROVISION",
+      "start_char": 60877,
+      "end_char": 60893
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 61013,
+      "end_char": 61026
+    },
+    {
+      "text": "BALCO",
+      "label": "PRECEDENT",
+      "start_char": 61095,
+      "end_char": 61100
+    },
+    {
+      "text": "Harper versus National Coal Board",
+      "label": "PRECEDENT",
+      "start_char": 61578,
+      "end_char": 61611
+    },
+    {
+      "text": "BALCO",
+      "label": "STATUTE",
+      "start_char": 61831,
+      "end_char": 61836
+    },
+    {
+      "text": "Section 2 (1)(e)has",
+      "label": "PROVISION",
+      "start_char": 61891,
+      "end_char": 61910
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 61943,
+      "end_char": 61953
+    },
+    {
+      "text": "Arbitration Act 1996",
+      "label": "STATUTE",
+      "start_char": 61961,
+      "end_char": 61981
+    },
+    {
+      "text": "Arbitration Act 1996",
+      "label": "STATUTE",
+      "start_char": 62030,
+      "end_char": 62050
+    },
+    {
+      "text": "Section 2 (2)",
+      "label": "PROVISION",
+      "start_char": 62099,
+      "end_char": 62112
+    },
+    {
+      "text": "UNCITRAL Model Law",
+      "label": "STATUTE",
+      "start_char": 62128,
+      "end_char": 62146
+    },
+    {
+      "text": "Section 2 (1) (e)",
+      "label": "PROVISION",
+      "start_char": 62175,
+      "end_char": 62192
+    },
+    {
+      "text": "BALCO",
+      "label": "PRECEDENT",
+      "start_char": 62244,
+      "end_char": 62249
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 62321,
+      "end_char": 62331
+    },
+    {
+      "text": "Section 2 (1) (e)",
+      "label": "PROVISION",
+      "start_char": 62346,
+      "end_char": 62363
+    },
+    {
+      "text": "Arbitration Act 1996",
+      "label": "STATUTE",
+      "start_char": 62371,
+      "end_char": 62391
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 62403,
+      "end_char": 62416
+    },
+    {
+      "text": "Union of India Vs.",
+      "label": "PRECEDENT",
+      "start_char": 62464,
+      "end_char": 62482
+    },
+    {
+      "text": "Reliance Industries Ltd 2015 (10) SCC 213",
+      "label": "PRECEDENT",
+      "start_char": 62483,
+      "end_char": 62524
+    },
+    {
+      "text": "Videocon Industries Ltd versus Union of India 2011 (6) SCC 161",
+      "label": "PRECEDENT",
+      "start_char": 62543,
+      "end_char": 62605
+    },
+    {
+      "text": "C v D, 2007 EWCA Civ 1282 (CA)",
+      "label": "PRECEDENT",
+      "start_char": 62656,
+      "end_char": 62686
+    },
+    {
+      "text": "High Court of Justice, Queens Bench Division",
+      "label": "COURT",
+      "start_char": 62727,
+      "end_char": 62771
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 63049,
+      "end_char": 63062
+    },
+    {
+      "text": "Soma JV",
+      "label": "OTHER_PERSON",
+      "start_char": 63066,
+      "end_char": 63073
+    },
+    {
+      "text": "Indus Mobile Distribution Private Limited versus Datawind Innovations Private Limited (2017) 7",
+      "label": "PRECEDENT",
+      "start_char": 63117,
+      "end_char": 63211
+    },
+    {
+      "text": "SCC 678",
+      "label": "CASE_NUMBER",
+      "start_char": 63212,
+      "end_char": 63219
+    },
+    {
+      "text": "Indus Mobile",
+      "label": "PRECEDENT",
+      "start_char": 63309,
+      "end_char": 63321
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 63335,
+      "end_char": 63348
+    },
+    {
+      "text": "Law Commission of India",
+      "label": "ORG",
+      "start_char": 63385,
+      "end_char": 63408
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 63484,
+      "end_char": 63494
+    },
+    {
+      "text": "Indus Mobile",
+      "label": "PRECEDENT",
+      "start_char": 63576,
+      "end_char": 63588
+    },
+    {
+      "text": "BALCO",
+      "label": "ORG",
+      "start_char": 63690,
+      "end_char": 63695
+    },
+    {
+      "text": "Section 2 (2)",
+      "label": "PROVISION",
+      "start_char": 63793,
+      "end_char": 63806
+    },
+    {
+      "text": "Section 20 (1) and Section 20 (2)",
+      "label": "PROVISION",
+      "start_char": 63853,
+      "end_char": 63886
+    },
+    {
+      "text": "Section 20 (3)",
+      "label": "PROVISION",
+      "start_char": 63956,
+      "end_char": 63970
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 64024,
+      "end_char": 64037
+    },
+    {
+      "text": "Indus Mobile",
+      "label": "PRECEDENT",
+      "start_char": 64066,
+      "end_char": 64078
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 64452,
+      "end_char": 64465
+    },
+    {
+      "text": "Brahmani River Pellets Limited versus Kamatchi Industries Ltd 2020 (5) SCC 462",
+      "label": "PRECEDENT",
+      "start_char": 64500,
+      "end_char": 64578
+    },
+    {
+      "text": "Indus Mobiles",
+      "label": "PRECEDENT",
+      "start_char": 64608,
+      "end_char": 64621
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 64648,
+      "end_char": 64661
+    },
+    {
+      "text": "Soma",
+      "label": "JUDGE",
+      "start_char": 64712,
+      "end_char": 64716
+    },
+    {
+      "text": "BALCO",
+      "label": "ORG",
+      "start_char": 65405,
+      "end_char": 65410
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 65705,
+      "end_char": 65718
+    },
+    {
+      "text": "Enercon (India) Limited versus Enercon GMBH, 2014 (5) SCC 1",
+      "label": "PRECEDENT",
+      "start_char": 66003,
+      "end_char": 66062
+    },
+    {
+      "text": "Shashoua",
+      "label": "OTHER_PERSON",
+      "start_char": 66098,
+      "end_char": 66106
+    },
+    {
+      "text": "Shashoua",
+      "label": "OTHER_PERSON",
+      "start_char": 66181,
+      "end_char": 66189
+    },
+    {
+      "text": "ICC",
+      "label": "STATUTE",
+      "start_char": 66982,
+      "end_char": 66985
+    },
+    {
+      "text": "Paris",
+      "label": "GPE",
+      "start_char": 66989,
+      "end_char": 66994
+    },
+    {
+      "text": "London",
+      "label": "GPE",
+      "start_char": 67083,
+      "end_char": 67089
+    },
+    {
+      "text": "United Kingdom",
+      "label": "GPE",
+      "start_char": 67091,
+      "end_char": 67105
+    },
+    {
+      "text": "Enercon",
+      "label": "PRECEDENT",
+      "start_char": 67226,
+      "end_char": 67233
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 67247,
+      "end_char": 67260
+    },
+    {
+      "text": "Enercon",
+      "label": "GPE",
+      "start_char": 67318,
+      "end_char": 67325
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 67390,
+      "end_char": 67395
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 67565,
+      "end_char": 67578
+    },
+    {
+      "text": "Shashoua v Sharma",
+      "label": "PRECEDENT",
+      "start_char": 67886,
+      "end_char": 67903
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 68264,
+      "end_char": 68277
+    },
+    {
+      "text": "McDonnell Douglas",
+      "label": "ORG",
+      "start_char": 68305,
+      "end_char": 68322
+    },
+    {
+      "text": "Dozco(India)",
+      "label": "ORG",
+      "start_char": 68381,
+      "end_char": 68393
+    },
+    {
+      "text": "Private Limited v Doosan Infracore Company Ltd 2011 (6) SCC 179",
+      "label": "PRECEDENT",
+      "start_char": 68394,
+      "end_char": 68457
+    },
+    {
+      "text": "Redfern",
+      "label": "OTHER_PERSON",
+      "start_char": 68481,
+      "end_char": 68488
+    },
+    {
+      "text": "Hunter",
+      "label": "OTHER_PERSON",
+      "start_char": 68493,
+      "end_char": 68499
+    },
+    {
+      "text": "Alfred MacAlpine",
+      "label": "PRECEDENT",
+      "start_char": 68534,
+      "end_char": 68550
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 68939,
+      "end_char": 68952
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 69778,
+      "end_char": 69791
+    },
+    {
+      "text": "Soma JV",
+      "label": "PRECEDENT",
+      "start_char": 69795,
+      "end_char": 69802
+    },
+    {
+      "text": "Shashoua versus Sharma",
+      "label": "PRECEDENT",
+      "start_char": 69854,
+      "end_char": 69876
+    },
+    {
+      "text": "Constitution Bench",
+      "label": "COURT",
+      "start_char": 69925,
+      "end_char": 69943
+    },
+    {
+      "text": "BALCO",
+      "label": "GPE",
+      "start_char": 69947,
+      "end_char": 69952
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 69963,
+      "end_char": 69976
+    },
+    {
+      "text": "ManKastu Impex Private Limited versus Air Visual Ltd 2020 (5) SCC 399",
+      "label": "PRECEDENT",
+      "start_char": 70013,
+      "end_char": 70082
+    },
+    {
+      "text": "ManKastu",
+      "label": "ORG",
+      "start_char": 70118,
+      "end_char": 70126
+    },
+    {
+      "text": "Hong Kong",
+      "label": "GPE",
+      "start_char": 70263,
+      "end_char": 70272
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 70416,
+      "end_char": 70421
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 70440,
+      "end_char": 70449
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 70580,
+      "end_char": 70585
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 70632,
+      "end_char": 70641
+    },
+    {
+      "text": "Air Visual",
+      "label": "OTHER_PERSON",
+      "start_char": 70710,
+      "end_char": 70720
+    },
+    {
+      "text": "Hong Kong",
+      "label": "GPE",
+      "start_char": 70804,
+      "end_char": 70813
+    },
+    {
+      "text": "Hong Kong",
+      "label": "GPE",
+      "start_char": 70860,
+      "end_char": 70869
+    },
+    {
+      "text": "Hong Kong",
+      "label": "GPE",
+      "start_char": 70899,
+      "end_char": 70908
+    },
+    {
+      "text": "Soma",
+      "label": "JUDGE",
+      "start_char": 71006,
+      "end_char": 71010
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 71036,
+      "end_char": 71049
+    },
+    {
+      "text": "Soma",
+      "label": "JUDGE",
+      "start_char": 71071,
+      "end_char": 71075
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 71525,
+      "end_char": 71538
+    },
+    {
+      "text": "Hong Kong",
+      "label": "GPE",
+      "start_char": 71583,
+      "end_char": 71592
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 71625,
+      "end_char": 71638
+    },
+    {
+      "text": "ManKastu",
+      "label": "OTHER_PERSON",
+      "start_char": 71651,
+      "end_char": 71659
+    },
+    {
+      "text": "Enercon (India )Ltd versus Enercon GMBH",
+      "label": "PRECEDENT",
+      "start_char": 72280,
+      "end_char": 72319
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 72324,
+      "end_char": 72337
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 73081,
+      "end_char": 73094
+    },
+    {
+      "text": "Hardy Exploration",
+      "label": "PRECEDENT",
+      "start_char": 73154,
+      "end_char": 73171
+    },
+    {
+      "text": "Soma",
+      "label": "JUDGE",
+      "start_char": 73259,
+      "end_char": 73263
+    },
+    {
+      "text": "Soma",
+      "label": "JUDGE",
+      "start_char": 73278,
+      "end_char": 73282
+    },
+    {
+      "text": "Hardy Exploration",
+      "label": "ORG",
+      "start_char": 73306,
+      "end_char": 73323
+    },
+    {
+      "text": "MOU",
+      "label": "STATUTE",
+      "start_char": 73454,
+      "end_char": 73457
+    },
+    {
+      "text": "BGS Soma",
+      "label": "ORG",
+      "start_char": 73625,
+      "end_char": 73633
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 73658,
+      "end_char": 73671
+    },
+    {
+      "text": "Hong Kong",
+      "label": "GPE",
+      "start_char": 73868,
+      "end_char": 73877
+    },
+    {
+      "text": "Hong Kong",
+      "label": "GPE",
+      "start_char": 73964,
+      "end_char": 73973
+    },
+    {
+      "text": "Hong Kong",
+      "label": "GPE",
+      "start_char": 73996,
+      "end_char": 74005
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 74121,
+      "end_char": 74134
+    },
+    {
+      "text": "Eitzen Bulk A/S versus Ashapura Minechem Ltd 2016 (11) SCC 508",
+      "label": "PRECEDENT",
+      "start_char": 74181,
+      "end_char": 74243
+    },
+    {
+      "text": "Indus Mobile",
+      "label": "PRECEDENT",
+      "start_char": 74249,
+      "end_char": 74261
+    },
+    {
+      "text": "Inox Renewables Ltd versus Jayesh Electricals Ltd, 2021 SCCOnline Supreme Court 448",
+      "label": "PRECEDENT",
+      "start_char": 74529,
+      "end_char": 74612
+    },
+    {
+      "text": "High Court of Gujarat at Ahmedabad",
+      "label": "COURT",
+      "start_char": 74701,
+      "end_char": 74735
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 74766,
+      "end_char": 74776
+    },
+    {
+      "text": "Jaipur",
+      "label": "GPE",
+      "start_char": 74846,
+      "end_char": 74852
+    },
+    {
+      "text": "Rajasthan",
+      "label": "GPE",
+      "start_char": 74854,
+      "end_char": 74863
+    },
+    {
+      "text": "Gujarat Fluorochemicals Ltd",
+      "label": "ORG",
+      "start_char": 74998,
+      "end_char": 75025
+    },
+    {
+      "text": "Jayesh Electricals Ltd",
+      "label": "ORG",
+      "start_char": 75045,
+      "end_char": 75067
+    },
+    {
+      "text": "Jaipur",
+      "label": "GPE",
+      "start_char": 75227,
+      "end_char": 75233
+    },
+    {
+      "text": "Gujarat Fluorochemicals Ltd",
+      "label": "ORG",
+      "start_char": 75276,
+      "end_char": 75303
+    },
+    {
+      "text": "GFL",
+      "label": "ORG",
+      "start_char": 75379,
+      "end_char": 75382
+    },
+    {
+      "text": "Vadodara",
+      "label": "GPE",
+      "start_char": 75494,
+      "end_char": 75502
+    },
+    {
+      "text": "Vadodara",
+      "label": "GPE",
+      "start_char": 75547,
+      "end_char": 75555
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 75683,
+      "end_char": 75693
+    },
+    {
+      "text": "High Court of Gujarat at Ahmedabad",
+      "label": "COURT",
+      "start_char": 75709,
+      "end_char": 75743
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 75830,
+      "end_char": 75840
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 75880,
+      "end_char": 75889
+    },
+    {
+      "text": "Vadodara",
+      "label": "GPE",
+      "start_char": 76003,
+      "end_char": 76011
+    },
+    {
+      "text": "Commercial Court at Ahmedabad",
+      "label": "COURT",
+      "start_char": 76043,
+      "end_char": 76072
+    },
+    {
+      "text": "Vadodara",
+      "label": "GPE",
+      "start_char": 76204,
+      "end_char": 76212
+    },
+    {
+      "text": "Special Civil Application No.9536 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 76276,
+      "end_char": 76317
+    },
+    {
+      "text": "Rajasthan",
+      "label": "GPE",
+      "start_char": 76452,
+      "end_char": 76461
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 76580,
+      "end_char": 76589
+    },
+    {
+      "text": "Rajasthan",
+      "label": "GPE",
+      "start_char": 76668,
+      "end_char": 76677
+    },
+    {
+      "text": "Jaipur",
+      "label": "GPE",
+      "start_char": 76723,
+      "end_char": 76729
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 76800,
+      "end_char": 76809
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 76840,
+      "end_char": 76853
+    },
+    {
+      "text": "Gujarat Fluorochemicals",
+      "label": "ORG",
+      "start_char": 76918,
+      "end_char": 76941
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 77266,
+      "end_char": 77275
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 77352,
+      "end_char": 77361
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 77389,
+      "end_char": 77398
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 77463,
+      "end_char": 77476
+    },
+    {
+      "text": "Soma",
+      "label": "JUDGE",
+      "start_char": 77492,
+      "end_char": 77496
+    },
+    {
+      "text": "Jaipur",
+      "label": "GPE",
+      "start_char": 77772,
+      "end_char": 77778
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 77782,
+      "end_char": 77791
+    },
+    {
+      "text": "Section 20(3)",
+      "label": "PROVISION",
+      "start_char": 77814,
+      "end_char": 77827
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 77843,
+      "end_char": 77852
+    },
+    {
+      "text": "Jaipur",
+      "label": "GPE",
+      "start_char": 77966,
+      "end_char": 77972
+    },
+    {
+      "text": "Jaipur",
+      "label": "GPE",
+      "start_char": 78159,
+      "end_char": 78165
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 78289,
+      "end_char": 78298
+    },
+    {
+      "text": "Jaipur",
+      "label": "GPE",
+      "start_char": 78310,
+      "end_char": 78316
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 78363,
+      "end_char": 78372
+    },
+    {
+      "text": "High Court of Gujarat",
+      "label": "COURT",
+      "start_char": 78456,
+      "end_char": 78477
+    },
+    {
+      "text": "Jaipur",
+      "label": "GPE",
+      "start_char": 78657,
+      "end_char": 78663
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 78667,
+      "end_char": 78676
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 78970,
+      "end_char": 78983
+    },
+    {
+      "text": "Soma JV",
+      "label": "OTHER_PERSON",
+      "start_char": 79015,
+      "end_char": 79022
+    },
+    {
+      "text": "Indus Mobile",
+      "label": "ORG",
+      "start_char": 79031,
+      "end_char": 79043
+    },
+    {
+      "text": "Videocon",
+      "label": "PRECEDENT",
+      "start_char": 79056,
+      "end_char": 79064
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 79173,
+      "end_char": 79182
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 79261,
+      "end_char": 79270
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 79400,
+      "end_char": 79409
+    },
+    {
+      "text": "Rajasthan",
+      "label": "GPE",
+      "start_char": 79425,
+      "end_char": 79434
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 79535,
+      "end_char": 79544
+    },
+    {
+      "text": "Quippo Construction Equipment Ltd versus Janardan Nirman Private Limited 2020 SCCOnline Supreme Court 419",
+      "label": "PRECEDENT",
+      "start_char": 79600,
+      "end_char": 79705
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 79711,
+      "end_char": 79724
+    },
+    {
+      "text": "High Court at Calcutta",
+      "label": "COURT",
+      "start_char": 79777,
+      "end_char": 79799
+    },
+    {
+      "text": "Construction Industry Arbitration Association Rules and Regulations",
+      "label": "STATUTE",
+      "start_char": 80162,
+      "end_char": 80229
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 80294,
+      "end_char": 80303
+    },
+    {
+      "text": "Kolkata",
+      "label": "GPE",
+      "start_char": 80430,
+      "end_char": 80437
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 80646,
+      "end_char": 80655
+    },
+    {
+      "text": "Sealdah",
+      "label": "GPE",
+      "start_char": 80889,
+      "end_char": 80896
+    },
+    {
+      "text": "Section 5 and 8",
+      "label": "PROVISION",
+      "start_char": 81275,
+      "end_char": 81290
+    },
+    {
+      "text": "Additional District Judge, Sealdah",
+      "label": "COURT",
+      "start_char": 81807,
+      "end_char": 81841
+    },
+    {
+      "text": "High Court of Delhi",
+      "label": "COURT",
+      "start_char": 82065,
+      "end_char": 82084
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 82106,
+      "end_char": 82115
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 82195,
+      "end_char": 82205
+    },
+    {
+      "text": "High Court at Calcutta",
+      "label": "COURT",
+      "start_char": 82228,
+      "end_char": 82250
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 82324,
+      "end_char": 82334
+    },
+    {
+      "text": "Court of District Judge, Alipore",
+      "label": "COURT",
+      "start_char": 82354,
+      "end_char": 82386
+    },
+    {
+      "text": "Kolkata",
+      "label": "GPE",
+      "start_char": 82466,
+      "end_char": 82473
+    },
+    {
+      "text": "High Court at Calcutta",
+      "label": "COURT",
+      "start_char": 82638,
+      "end_char": 82660
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 82740,
+      "end_char": 82753
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 82762,
+      "end_char": 82775
+    },
+    {
+      "text": "Kolkata",
+      "label": "GPE",
+      "start_char": 82900,
+      "end_char": 82907
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 82947,
+      "end_char": 82956
+    },
+    {
+      "text": "Sections 4, 16 and 20",
+      "label": "PROVISION",
+      "start_char": 83168,
+      "end_char": 83189
+    },
+    {
+      "text": "Section 4",
+      "label": "PROVISION",
+      "start_char": 83207,
+      "end_char": 83216
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 83255,
+      "end_char": 83265
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 83350,
+      "end_char": 83360
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 83431,
+      "end_char": 83444
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 83581,
+      "end_char": 83590
+    },
+    {
+      "text": "Section 11 (6)",
+      "label": "PROVISION",
+      "start_char": 83870,
+      "end_char": 83884
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 83920,
+      "end_char": 83933
+    },
+    {
+      "text": "Construction Industry Arbitration Association",
+      "label": "ORG",
+      "start_char": 84010,
+      "end_char": 84055
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 84115,
+      "end_char": 84128
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 84447,
+      "end_char": 84460
+    },
+    {
+      "text": "Kolkata",
+      "label": "GPE",
+      "start_char": 84777,
+      "end_char": 84784
+    },
+    {
+      "text": "High Courts of Bombay and Madras and Delhi",
+      "label": "COURT",
+      "start_char": 85232,
+      "end_char": 85274
+    },
+    {
+      "text": "Soma JV",
+      "label": "PRECEDENT",
+      "start_char": 85312,
+      "end_char": 85319
+    },
+    {
+      "text": "L&T Finance Ltd versus Manoj Pathak and another;",
+      "label": "PRECEDENT",
+      "start_char": 85326,
+      "end_char": 85374
+    },
+    {
+      "text": "2020 SCC online Bombay 177",
+      "label": "PRECEDENT",
+      "start_char": 85375,
+      "end_char": 85401
+    },
+    {
+      "text": "Om Prakash and others versus Vijay Dwaraka Das Varma 2020 SCC online Bombay 796",
+      "label": "PRECEDENT",
+      "start_char": 85403,
+      "end_char": 85482
+    },
+    {
+      "text": "Engineering Projects India versus Balaji Projects 2021 SCConline Madras 409",
+      "label": "PRECEDENT",
+      "start_char": 85484,
+      "end_char": 85559
+    },
+    {
+      "text": "S.P. Singla Constructions Pvt Ltd versus Construction and Design Services UP Jal Nigam ARB.P450/2021",
+      "label": "PRECEDENT",
+      "start_char": 85565,
+      "end_char": 85665
+    },
+    {
+      "text": "23.9.2021",
+      "label": "DATE",
+      "start_char": 85677,
+      "end_char": 85686
+    },
+    {
+      "text": "Section 34/37",
+      "label": "PROVISION",
+      "start_char": 86201,
+      "end_char": 86214
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 86848,
+      "end_char": 86861
+    },
+    {
+      "text": "Ravi Ranjan Developers Private Limited versus Aditya Kumar Chatterji 2022 SCConline Supreme Court 568",
+      "label": "PRECEDENT",
+      "start_char": 86865,
+      "end_char": 86966
+    },
+    {
+      "text": "24.03.2022",
+      "label": "DATE",
+      "start_char": 86979,
+      "end_char": 86989
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 87023,
+      "end_char": 87042
+    },
+    {
+      "text": "Section 11 (6)",
+      "label": "PROVISION",
+      "start_char": 87078,
+      "end_char": 87092
+    },
+    {
+      "text": "Muzaffarpur",
+      "label": "GPE",
+      "start_char": 87211,
+      "end_char": 87222
+    },
+    {
+      "text": "Bihar",
+      "label": "GPE",
+      "start_char": 87226,
+      "end_char": 87231
+    },
+    {
+      "text": "Patna",
+      "label": "GPE",
+      "start_char": 87458,
+      "end_char": 87463
+    },
+    {
+      "text": "Bihar",
+      "label": "GPE",
+      "start_char": 87467,
+      "end_char": 87472
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 87505,
+      "end_char": 87524
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 87634,
+      "end_char": 87653
+    },
+    {
+      "text": "Bihar",
+      "label": "GPE",
+      "start_char": 87802,
+      "end_char": 87807
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 87898,
+      "end_char": 87917
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 88018,
+      "end_char": 88037
+    },
+    {
+      "text": "Kolkata",
+      "label": "GPE",
+      "start_char": 88048,
+      "end_char": 88055
+    },
+    {
+      "text": "Soma JV and Indus Mobile and Hindustan Construction Company Limited versus NHPC 2020 (4) SCC 234",
+      "label": "PRECEDENT",
+      "start_char": 88141,
+      "end_char": 88237
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 88692,
+      "end_char": 88705
+    },
+    {
+      "text": "Constitution Bench",
+      "label": "COURT",
+      "start_char": 88789,
+      "end_char": 88807
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 88820,
+      "end_char": 88826
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 88834,
+      "end_char": 88866
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 88938,
+      "end_char": 88943
+    },
+    {
+      "text": "Constitution Bench",
+      "label": "COURT",
+      "start_char": 88970,
+      "end_char": 88988
+    },
+    {
+      "text": "Section 2 (2)",
+      "label": "PROVISION",
+      "start_char": 88990,
+      "end_char": 89003
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 89011,
+      "end_char": 89043
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 89098,
+      "end_char": 89104
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 89147,
+      "end_char": 89152
+    },
+    {
+      "text": "Constitution Bench",
+      "label": "COURT",
+      "start_char": 89158,
+      "end_char": 89176
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 89279,
+      "end_char": 89289
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 89399,
+      "end_char": 89404
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 89410,
+      "end_char": 89416
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 89474,
+      "end_char": 89479
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 89481,
+      "end_char": 89487
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 89562,
+      "end_char": 89567
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 89611,
+      "end_char": 89616
+    },
+    {
+      "text": "Soma",
+      "label": "JUDGE",
+      "start_char": 89655,
+      "end_char": 89659
+    },
+    {
+      "text": "Section 2 (2)",
+      "label": "PROVISION",
+      "start_char": 89715,
+      "end_char": 89728
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 89736,
+      "end_char": 89768
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 89794,
+      "end_char": 89800
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 89808,
+      "end_char": 89840
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 89925,
+      "end_char": 89930
+    },
+    {
+      "text": "Hindustan Construction Company Ltd",
+      "label": "PRECEDENT",
+      "start_char": 89941,
+      "end_char": 89975
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 90306,
+      "end_char": 90315
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 90926,
+      "end_char": 90939
+    },
+    {
+      "text": "Ravi Ranjan Developers",
+      "label": "PRECEDENT",
+      "start_char": 90943,
+      "end_char": 90965
+    },
+    {
+      "text": "Kolkata",
+      "label": "GPE",
+      "start_char": 91168,
+      "end_char": 91175
+    },
+    {
+      "text": "Union of India versus Hardy Exploration and ManKastu Impex",
+      "label": "PRECEDENT",
+      "start_char": 91191,
+      "end_char": 91249
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 91423,
+      "end_char": 91436
+    },
+    {
+      "text": "Kolkata",
+      "label": "GPE",
+      "start_char": 91447,
+      "end_char": 91454
+    },
+    {
+      "text": "Kolkata",
+      "label": "GPE",
+      "start_char": 91619,
+      "end_char": 91626
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 91645,
+      "end_char": 91668
+    },
+    {
+      "text": "Sub-Section (2) of Section 2",
+      "label": "PROVISION",
+      "start_char": 91673,
+      "end_char": 91701
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 91723,
+      "end_char": 91736
+    },
+    {
+      "text": "Muzaffarpur",
+      "label": "GPE",
+      "start_char": 92189,
+      "end_char": 92200
+    },
+    {
+      "text": "Bihar",
+      "label": "GPE",
+      "start_char": 92204,
+      "end_char": 92209
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 92306,
+      "end_char": 92325
+    },
+    {
+      "text": "Section 11(6)of the",
+      "label": "PROVISION",
+      "start_char": 92420,
+      "end_char": 92439
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 92440,
+      "end_char": 92472
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 92538,
+      "end_char": 92543
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 92844,
+      "end_char": 92857
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 92883,
+      "end_char": 92893
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 92953,
+      "end_char": 92959
+    },
+    {
+      "text": "18.5.2022",
+      "label": "DATE",
+      "start_char": 93391,
+      "end_char": 93400
+    },
+    {
+      "text": "Civil Appeal No.4130 of 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 93433,
+      "end_char": 93461
+    },
+    {
+      "text": "BBR (India) Private Limited versus SP Singla Constructions (Private) Limited",
+      "label": "PRECEDENT",
+      "start_char": 93463,
+      "end_char": 93539
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 93545,
+      "end_char": 93558
+    },
+    {
+      "text": "Panchkula",
+      "label": "GPE",
+      "start_char": 93718,
+      "end_char": 93727
+    },
+    {
+      "text": "Haryana",
+      "label": "GPE",
+      "start_char": 93729,
+      "end_char": 93736
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 93867,
+      "end_char": 93876
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 93916,
+      "end_char": 93925
+    },
+    {
+      "text": "Panchkula",
+      "label": "GPE",
+      "start_char": 94170,
+      "end_char": 94179
+    },
+    {
+      "text": "Haryana",
+      "label": "GPE",
+      "start_char": 94181,
+      "end_char": 94188
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 94250,
+      "end_char": 94259
+    },
+    {
+      "text": "Additional District Judge Panchkula, Haryana",
+      "label": "COURT",
+      "start_char": 94287,
+      "end_char": 94331
+    },
+    {
+      "text": "Additional District Judge, Panchkula",
+      "label": "COURT",
+      "start_char": 94397,
+      "end_char": 94433
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 94563,
+      "end_char": 94579
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 94609,
+      "end_char": 94619
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 94688,
+      "end_char": 94697
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 94748,
+      "end_char": 94758
+    },
+    {
+      "text": "High Court of Punjab and Haryana",
+      "label": "COURT",
+      "start_char": 94803,
+      "end_char": 94835
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 94933,
+      "end_char": 94943
+    },
+    {
+      "text": "Court at Panchkula, Haryana",
+      "label": "COURT",
+      "start_char": 94963,
+      "end_char": 94990
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 95077,
+      "end_char": 95090
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 95096,
+      "end_char": 95109
+    },
+    {
+      "text": "Section 2(1)(e) and Section 20 and Section 42",
+      "label": "PROVISION",
+      "start_char": 95133,
+      "end_char": 95178
+    },
+    {
+      "text": "BALCO",
+      "label": "ORG",
+      "start_char": 95240,
+      "end_char": 95245
+    },
+    {
+      "text": "Soma JV versus NHPC Ltd",
+      "label": "PRECEDENT",
+      "start_char": 95480,
+      "end_char": 95503
+    },
+    {
+      "text": "BALCO",
+      "label": "ORG",
+      "start_char": 95527,
+      "end_char": 95532
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 95585,
+      "end_char": 95598
+    },
+    {
+      "text": "Soma JV",
+      "label": "OTHER_PERSON",
+      "start_char": 95603,
+      "end_char": 95610
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 95616,
+      "end_char": 95629
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 95984,
+      "end_char": 95994
+    },
+    {
+      "text": "Sub-Section (1) of Section 2",
+      "label": "PROVISION",
+      "start_char": 96048,
+      "end_char": 96076
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 96272,
+      "end_char": 96285
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 96358,
+      "end_char": 96368
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 97056,
+      "end_char": 97069
+    },
+    {
+      "text": "Singla Construction",
+      "label": "PRECEDENT",
+      "start_char": 97073,
+      "end_char": 97092
+    },
+    {
+      "text": "Soma JV",
+      "label": "PRECEDENT",
+      "start_char": 97287,
+      "end_char": 97294
+    },
+    {
+      "text": "Indus Mobile versus Datawind Innovations and Brahmani River Pellets Ltd versus Kamatchi Industries Ltd",
+      "label": "PRECEDENT",
+      "start_char": 97394,
+      "end_char": 97496
+    },
+    {
+      "text": "Soma JV",
+      "label": "PRECEDENT",
+      "start_char": 97911,
+      "end_char": 97918
+    },
+    {
+      "text": "Indus",
+      "label": "OTHER_PERSON",
+      "start_char": 97932,
+      "end_char": 97937
+    },
+    {
+      "text": "Soma JV",
+      "label": "JUDGE",
+      "start_char": 98259,
+      "end_char": 98266
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 98280,
+      "end_char": 98293
+    },
+    {
+      "text": "Singla Constructions",
+      "label": "ORG",
+      "start_char": 98297,
+      "end_char": 98317
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 99048,
+      "end_char": 99061
+    },
+    {
+      "text": "S.P. Singla",
+      "label": "PRECEDENT",
+      "start_char": 99065,
+      "end_char": 99076
+    },
+    {
+      "text": "Soma JV",
+      "label": "PRECEDENT",
+      "start_char": 99115,
+      "end_char": 99122
+    },
+    {
+      "text": "Arbitration Act 1996",
+      "label": "STATUTE",
+      "start_char": 100342,
+      "end_char": 100362
+    },
+    {
+      "text": "S.P. Singla",
+      "label": "PRECEDENT",
+      "start_char": 100480,
+      "end_char": 100491
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 100505,
+      "end_char": 100518
+    },
+    {
+      "text": "Soma JV",
+      "label": "OTHER_PERSON",
+      "start_char": 100556,
+      "end_char": 100563
+    },
+    {
+      "text": "Hardy Exploration and Production",
+      "label": "PRECEDENT",
+      "start_char": 100592,
+      "end_char": 100624
+    },
+    {
+      "text": "BALCO",
+      "label": "PRECEDENT",
+      "start_char": 100693,
+      "end_char": 100698
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 100712,
+      "end_char": 100725
+    },
+    {
+      "text": "Panchkula",
+      "label": "GPE",
+      "start_char": 100844,
+      "end_char": 100853
+    },
+    {
+      "text": "Haryana",
+      "label": "GPE",
+      "start_char": 100857,
+      "end_char": 100864
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 100963,
+      "end_char": 100968
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 100997,
+      "end_char": 101002
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 101152,
+      "end_char": 101157
+    },
+    {
+      "text": "Panchkula",
+      "label": "GPE",
+      "start_char": 101210,
+      "end_char": 101219
+    },
+    {
+      "text": "Haryana",
+      "label": "GPE",
+      "start_char": 101223,
+      "end_char": 101230
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 101234,
+      "end_char": 101239
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 101245,
+      "end_char": 101258
+    },
+    {
+      "text": "sub-Section (1) of Section 20",
+      "label": "PROVISION",
+      "start_char": 101286,
+      "end_char": 101315
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 101375,
+      "end_char": 101388
+    },
+    {
+      "text": "Inox Renewable",
+      "label": "PRECEDENT",
+      "start_char": 101392,
+      "end_char": 101406
+    },
+    {
+      "text": "sub-Section (2) of Section 20",
+      "label": "PROVISION",
+      "start_char": 101485,
+      "end_char": 101514
+    },
+    {
+      "text": "sub-Section (2) of Section 20",
+      "label": "PROVISION",
+      "start_char": 101742,
+      "end_char": 101771
+    },
+    {
+      "text": "sub-Section (2) of Section 20",
+      "label": "PROVISION",
+      "start_char": 101831,
+      "end_char": 101860
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 102097,
+      "end_char": 102110
+    },
+    {
+      "text": "S.P. Singla",
+      "label": "OTHER_PERSON",
+      "start_char": 102163,
+      "end_char": 102174
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 102855,
+      "end_char": 102868
+    },
+    {
+      "text": "S.P. Singla",
+      "label": "OTHER_PERSON",
+      "start_char": 102889,
+      "end_char": 102900
+    },
+    {
+      "text": "subsection (2) of Section 20",
+      "label": "PROVISION",
+      "start_char": 103897,
+      "end_char": 103925
+    },
+    {
+      "text": "Soma",
+      "label": "JUDGE",
+      "start_char": 104374,
+      "end_char": 104378
+    },
+    {
+      "text": "subsection (2) of Section 20",
+      "label": "PROVISION",
+      "start_char": 104478,
+      "end_char": 104506
+    },
+    {
+      "text": "Article 227 No.6890 of 2021",
+      "label": "PROVISION",
+      "start_char": 104776,
+      "end_char": 104803
+    },
+    {
+      "text": "Hasmukh Prajapati versus Jaiprakash Associates Ltd",
+      "label": "PRECEDENT",
+      "start_char": 104804,
+      "end_char": 104854
+    },
+    {
+      "text": "17.2.2022",
+      "label": "DATE",
+      "start_char": 104867,
+      "end_char": 104876
+    },
+    {
+      "text": "Commercial Court Gautam Budh Nagar",
+      "label": "COURT",
+      "start_char": 104983,
+      "end_char": 105017
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 105053,
+      "end_char": 105063
+    },
+    {
+      "text": "1996 Act",
+      "label": "STATUTE",
+      "start_char": 105071,
+      "end_char": 105079
+    },
+    {
+      "text": "16.02.2019",
+      "label": "DATE",
+      "start_char": 105107,
+      "end_char": 105117
+    },
+    {
+      "text": "Arbitral Tribunal at New Delhi",
+      "label": "COURT",
+      "start_char": 105132,
+      "end_char": 105162
+    },
+    {
+      "text": "Jaypee Associates",
+      "label": "ORG",
+      "start_char": 105399,
+      "end_char": 105416
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 105610,
+      "end_char": 105619
+    },
+    {
+      "text": "Section 11(6)",
+      "label": "PROVISION",
+      "start_char": 105627,
+      "end_char": 105640
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 105739,
+      "end_char": 105748
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 105880,
+      "end_char": 105890
+    },
+    {
+      "text": "District Judge Gautam Budh Nagar",
+      "label": "COURT",
+      "start_char": 105902,
+      "end_char": 105934
+    },
+    {
+      "text": "Commercial Court Gautam Budh Nagar",
+      "label": "COURT",
+      "start_char": 106089,
+      "end_char": 106123
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 106190,
+      "end_char": 106201
+    },
+    {
+      "text": "Commercial Court at Gautam Budh Nagar",
+      "label": "COURT",
+      "start_char": 106268,
+      "end_char": 106305
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 106346,
+      "end_char": 106356
+    },
+    {
+      "text": "1996 Act",
+      "label": "STATUTE",
+      "start_char": 106364,
+      "end_char": 106372
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 106428,
+      "end_char": 106437
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 106492,
+      "end_char": 106497
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 106666,
+      "end_char": 106675
+    },
+    {
+      "text": "Soma JV",
+      "label": "CASE_NUMBER",
+      "start_char": 106970,
+      "end_char": 106977
+    },
+    {
+      "text": "Constitution Bench",
+      "label": "COURT",
+      "start_char": 107014,
+      "end_char": 107032
+    },
+    {
+      "text": "BALCO",
+      "label": "ORG",
+      "start_char": 107046,
+      "end_char": 107051
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 107235,
+      "end_char": 107245
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 107377,
+      "end_char": 107386
+    },
+    {
+      "text": "Roger Shashoua versus Mukesh Sharma and others 2017 (14) SCC 722",
+      "label": "PRECEDENT",
+      "start_char": 107475,
+      "end_char": 107539
+    },
+    {
+      "text": "Hardy Exploration",
+      "label": "PRECEDENT",
+      "start_char": 107608,
+      "end_char": 107625
+    },
+    {
+      "text": "Soma",
+      "label": "JUDGE",
+      "start_char": 107681,
+      "end_char": 107685
+    },
+    {
+      "text": "Hardy Exploration",
+      "label": "ORG",
+      "start_char": 107767,
+      "end_char": 107784
+    },
+    {
+      "text": "Hardy Exploration",
+      "label": "ORG",
+      "start_char": 107894,
+      "end_char": 107911
+    },
+    {
+      "text": "Soma JV",
+      "label": "ORG",
+      "start_char": 107915,
+      "end_char": 107922
+    },
+    {
+      "text": "Hardy Exploration",
+      "label": "ORG",
+      "start_char": 108003,
+      "end_char": 108020
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 108170,
+      "end_char": 108183
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 108280,
+      "end_char": 108293
+    },
+    {
+      "text": "BALCO",
+      "label": "PRECEDENT",
+      "start_char": 108309,
+      "end_char": 108314
+    },
+    {
+      "text": "Hardy Exploration",
+      "label": "PRECEDENT",
+      "start_char": 108370,
+      "end_char": 108387
+    },
+    {
+      "text": "Soma JV",
+      "label": "PRECEDENT",
+      "start_char": 108399,
+      "end_char": 108406
+    },
+    {
+      "text": "Hardy Exploration",
+      "label": "ORG",
+      "start_char": 108519,
+      "end_char": 108536
+    },
+    {
+      "text": "Soma",
+      "label": "WITNESS",
+      "start_char": 108667,
+      "end_char": 108671
+    },
+    {
+      "text": "Messers Inox Renewables Ltd",
+      "label": "PRECEDENT",
+      "start_char": 108867,
+      "end_char": 108894
+    },
+    {
+      "text": "Soma JV",
+      "label": "PRECEDENT",
+      "start_char": 108911,
+      "end_char": 108918
+    },
+    {
+      "text": "BALCO",
+      "label": "ORG",
+      "start_char": 108984,
+      "end_char": 108989
+    },
+    {
+      "text": "Gautam Budh Nagar",
+      "label": "GPE",
+      "start_char": 109434,
+      "end_char": 109451
+    },
+    {
+      "text": "UP",
+      "label": "GPE",
+      "start_char": 109455,
+      "end_char": 109457
+    },
+    {
+      "text": "Shashoua",
+      "label": "OTHER_PERSON",
+      "start_char": 109635,
+      "end_char": 109643
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 109712,
+      "end_char": 109721
+    },
+    {
+      "text": "Gautam Budh Nagar",
+      "label": "ORG",
+      "start_char": 109766,
+      "end_char": 109783
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 109893,
+      "end_char": 109902
+    },
+    {
+      "text": "Gautam Budh Nagar",
+      "label": "GPE",
+      "start_char": 110041,
+      "end_char": 110058
+    },
+    {
+      "text": "UP India",
+      "label": "GPE",
+      "start_char": 110060,
+      "end_char": 110068
+    },
+    {
+      "text": "Gautam Budh Nagar",
+      "label": "GPE",
+      "start_char": 110256,
+      "end_char": 110273
+    },
+    {
+      "text": "New Delhi India",
+      "label": "GPE",
+      "start_char": 110302,
+      "end_char": 110317
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 110406,
+      "end_char": 110416
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 110475,
+      "end_char": 110485
+    },
+    {
+      "text": "Gautam Budh Nagar",
+      "label": "GPE",
+      "start_char": 110517,
+      "end_char": 110534
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 110604,
+      "end_char": 110613
+    },
+    {
+      "text": "Allahabad",
+      "label": "GPE",
+      "start_char": 110717,
+      "end_char": 110726
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 110791,
+      "end_char": 110800
+    },
+    {
+      "text": "Gautam Buddh Nagar",
+      "label": "ORG",
+      "start_char": 110839,
+      "end_char": 110857
+    },
+    {
+      "text": "Gautam Buddh Nagar",
+      "label": "GPE",
+      "start_char": 110904,
+      "end_char": 110922
+    },
+    {
+      "text": "Soma J V",
+      "label": "PRECEDENT",
+      "start_char": 111067,
+      "end_char": 111075
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 111111,
+      "end_char": 111124
+    },
+    {
+      "text": "Singla Constructions",
+      "label": "PRECEDENT",
+      "start_char": 111161,
+      "end_char": 111181
+    },
+    {
+      "text": "Soma JV",
+      "label": "OTHER_PERSON",
+      "start_char": 111219,
+      "end_char": 111226
+    },
+    {
+      "text": "Hardy Exploration",
+      "label": "PRECEDENT",
+      "start_char": 111238,
+      "end_char": 111255
+    },
+    {
+      "text": "Singla Constructions",
+      "label": "ORG",
+      "start_char": 111325,
+      "end_char": 111345
+    },
+    {
+      "text": "Soma JV",
+      "label": "PRECEDENT",
+      "start_char": 111347,
+      "end_char": 111354
+    },
+    {
+      "text": "ManKastu Impex",
+      "label": "OTHER_PERSON",
+      "start_char": 111413,
+      "end_char": 111427
+    },
+    {
+      "text": "Soma J V.",
+      "label": "OTHER_PERSON",
+      "start_char": 111569,
+      "end_char": 111578
+    },
+    {
+      "text": "ManKastu",
+      "label": "OTHER_PERSON",
+      "start_char": 111601,
+      "end_char": 111609
+    },
+    {
+      "text": "Shashoua",
+      "label": "OTHER_PERSON",
+      "start_char": 111686,
+      "end_char": 111694
+    },
+    {
+      "text": "Hong",
+      "label": "GPE",
+      "start_char": 111830,
+      "end_char": 111834
+    },
+    {
+      "text": "Ravi Ranjan Developers",
+      "label": "PRECEDENT",
+      "start_char": 111947,
+      "end_char": 111969
+    },
+    {
+      "text": "Ravi Ranjan Developers",
+      "label": "ORG",
+      "start_char": 112010,
+      "end_char": 112032
+    },
+    {
+      "text": "Bihar",
+      "label": "GPE",
+      "start_char": 112118,
+      "end_char": 112123
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 112178,
+      "end_char": 112188
+    },
+    {
+      "text": "Ravi Ranjan Developers",
+      "label": "ORG",
+      "start_char": 112245,
+      "end_char": 112267
+    },
+    {
+      "text": "Soma J V",
+      "label": "PRECEDENT",
+      "start_char": 112373,
+      "end_char": 112381
+    },
+    {
+      "text": "BALCO",
+      "label": "GPE",
+      "start_char": 112419,
+      "end_char": 112424
+    },
+    {
+      "text": "Section 4 and Section 20",
+      "label": "PROVISION",
+      "start_char": 112598,
+      "end_char": 112622
+    },
+    {
+      "text": "Tender Paper ELCORe",
+      "label": "ORG",
+      "start_char": 112675,
+      "end_char": 112694
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 113043,
+      "end_char": 113052
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 113202,
+      "end_char": 113211
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 113463,
+      "end_char": 113472
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 113639,
+      "end_char": 113648
+    },
+    {
+      "text": "12.12.2019",
+      "label": "DATE",
+      "start_char": 113752,
+      "end_char": 113762
+    },
+    {
+      "text": "Commercial Court at Lucknow",
+      "label": "COURT",
+      "start_char": 113818,
+      "end_char": 113845
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 113866,
+      "end_char": 113876
+    },
+    {
+      "text": "12.12.2019",
+      "label": "DATE",
+      "start_char": 114073,
+      "end_char": 114083
+    },
+    {
+      "text": "1.9.2022",
+      "label": "DATE",
+      "start_char": 114137,
+      "end_char": 114145
+    },
+    {
+      "text": "Rahul",
+      "label": "JUDGE",
+      "start_char": 114146,
+      "end_char": 114151
+    },
+    {
+      "text": "Sangeeta Chandra",
+      "label": "JUDGE",
+      "start_char": 114161,
+      "end_char": 114177
+    }
+  ],
+  "precedent_clusters": {
+    "BGS SGS Soma JV versus NHPC Ltd, 2004 (4) SCC 234": [
+      "BGS SGS Soma JV versus NHPC Ltd, 2004 (4) SCC 234",
+      "BGSSGS Soma",
+      "Soma JV",
+      "Soma JV",
+      "Soma JV",
+      "Soma J.V.",
+      "Soma JV",
+      "Soma JV"
+    ],
+    "Indus Mobile Distribution Private Limited versus Datawind Innovations Private Limited (2017) 7": [
+      "QUIPPO Construction Equipment Ltd versus Janardan Nirman Private Limited (2020)",
+      "L&T Finance Vs.",
+      "Hasmukh Prajapati versus Jai Prakash Associates Limited",
+      "BALCO Vs.",
+      "BALCO Vs.",
+      "Union of India Vs.",
+      "Union of India versus McDonnell Douglas Corpn (1993)",
+      "Harper versus National Coal Board",
+      "Union of India Vs.",
+      "Indus Mobile Distribution Private Limited versus Datawind Innovations Private Limited (2017) 7",
+      "Shashoua v Sharma",
+      "Shashoua versus Sharma",
+      "Enercon (India )Ltd versus Enercon GMBH",
+      "Soma JV",
+      "L&T Finance Ltd versus Manoj Pathak and another;",
+      "S.P. Singla Constructions Pvt Ltd versus Construction and Design Services UP Jal Nigam ARB.P450/2021",
+      "Union of India versus Hardy Exploration and ManKastu Impex",
+      "BBR (India) Private Limited versus SP Singla Constructions (Private) Limited",
+      "Soma JV versus NHPC Ltd",
+      "Indus Mobile versus Datawind Innovations and Brahmani River Pellets Ltd versus Kamatchi Industries Ltd",
+      "Hasmukh Prajapati versus Jaiprakash Associates Ltd",
+      "Soma J V",
+      "Soma J V",
+      "BALCO",
+      "BALCO",
+      "BALCO",
+      "BALCO",
+      "BALCO",
+      "BALCO",
+      "Indus Mobile",
+      "Indus Mobile",
+      "Indus Mobile",
+      "Indus Mobile",
+      "Singla Construction",
+      "Soma JV",
+      "Soma JV",
+      "S.P. Singla",
+      "Soma JV",
+      "S.P. Singla",
+      "BALCO",
+      "Hardy Exploration",
+      "BALCO",
+      "Hardy Exploration",
+      "Soma JV",
+      "Soma JV",
+      "Singla Constructions",
+      "Hardy Exploration",
+      "Soma JV"
+    ],
+    "Om Prakash and others versus Vijay Dwarka Dass Verma 2020 SCC online Bombay 796": [
+      "Om Prakash and others versus Vijay Dwarka Dass Verma 2020 SCC online Bombay 796",
+      "2020 SCC online Bombay 177",
+      "Om Prakash and others versus Vijay Dwaraka Das Varma 2020 SCC online Bombay 796"
+    ],
+    "Mankastu Impex Private Limited versus Air Visual Ltd 2020 (5) SCC 399": [
+      "Mankastu Impex Private Limited versus Air Visual Ltd 2020 (5) SCC 399",
+      "ManKastu Impex Private Limited versus Air Visual Ltd 2020 (5) SCC 399",
+      "Mankastu Impex"
+    ],
+    "Union of India versus Hardy Exploration and Production (India) Inc 2019 (13) SCC 472": [
+      "Union of India versus Hardy Exploration and Production (India) Inc 2019 (13) SCC 472",
+      "Hardy Exploration",
+      "Hardy Exploration and Production"
+    ],
+    "Braes of Doune Wind Farm (Scotland) Ltd v Alfred MacAlpine Business Services Ltd 2008 EWHC 426 (TCC)": [
+      "Braes of Doune Wind Farm (Scotland) Ltd v Alfred MacAlpine Business Services Ltd 2008 EWHC 426 (TCC)",
+      "Alfred MacAlpine"
+    ],
+    "Videocon Industries Ltd versus Union of India 2011 (6) SCC 161": [
+      "Videocon Industries Ltd versus Union of India 2011 (6) SCC 161",
+      "Videocon"
+    ],
+    "Enercon (India) Limited versus Enercon GMBH, 2014 (5) SCC 1": [
+      "Enercon (India) Limited versus Enercon GMBH, 2014 (5) SCC 1",
+      "Enercon"
+    ],
+    "Inox Renewables Ltd versus Jayesh Electricals Ltd, 2021 SCCOnline Supreme Court 448": [
+      "Inox Renewables Ltd versus Jayesh Electricals Ltd, 2021 SCCOnline Supreme Court 448",
+      "Inox Renewable"
+    ],
+    "Ravi Ranjan Developers Private Limited versus Aditya Kumar Chatterji 2022 SCConline Supreme Court 568": [
+      "Ravi Ranjan Developers Private Limited versus Aditya Kumar Chatterji 2022 SCConline Supreme Court 568",
+      "Ravi Ranjan Developers",
+      "Ravi Ranjan Developers"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "Order VII Rule 10",
+      "CPC",
+      "Order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "Section 34",
+      "Act of 1996",
+      "Section 34",
+      "Act of 1996"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "Chapter 2",
+      "Tender Paper ELCORE",
+      "Chapter 2",
+      "Tender Paper ELCORE"
+    ],
+    [
+      "Article 227",
+      "Constitution No. 6890 of 2021",
+      "Article 227",
+      "Constitution No. 6890 of 2021"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Order XXX Rule 2",
+      "C.P.C.",
+      "Order XXX Rule 2",
+      "C.P.C."
+    ],
+    [
+      "Order XXIX Rule 1",
+      "C.P.C.",
+      "Order XXIX Rule 1",
+      "C.P.C."
+    ],
+    [
+      "Order VI Rule 14",
+      "Code of Civil Procedure",
+      "Order VI Rule 14",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Order XXIX Rule 1",
+      "Code of Civil Procedure",
+      "Order XXIX Rule 1",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Order XXIX Rule 1",
+      "Code of Civil Procedure",
+      "Order XXIX Rule 1",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Order XXIX Rule (1)",
+      "Code of Civil Procedure",
+      "Order XXIX Rule (1)",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Order VI Rule 14",
+      "Code of Civil Procedure",
+      "Order VI Rule 14",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "Order VII Rule 10",
+      "C.P.C.",
+      "Order VII Rule 10",
+      "C.P.C."
+    ],
+    [
+      "order VII Rule 10",
+      "CPC",
+      "order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "Order VII Rule 10",
+      "C.P.C.",
+      "Order VII Rule 10",
+      "C.P.C."
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order 43",
+      "C.P.C.",
+      "Order 43",
+      "C.P.C."
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13 (1)",
+      "Commercial Courts Act",
+      "Section 13 (1)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order VII Rule 10",
+      "C.P.C.",
+      "Order VII Rule 10",
+      "C.P.C."
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "Section 34",
+      "1996 Act",
+      "Section 34",
+      "1996 Act"
+    ],
+    [
+      "Section 2 (2) and 20",
+      "Arbitration Act 1996",
+      "Section 2 (2) and 20",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Part I",
+      "Arbitration Act 1996",
+      "Part I",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 2(2) and 20",
+      "Arbitration Act 1996",
+      "Section 2(2) and 20",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act 1996",
+      "Section 9",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 34 (2)(a)",
+      "Arbitration Act 1996",
+      "Section 34 (2)(a)",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 68 and Section 69",
+      "UK Act",
+      "Section 68 and Section 69",
+      "UK Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act 1996",
+      "Section 34",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 20",
+      "Arbitration Act 1996",
+      "Section 20",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 20",
+      "Arbitration Act 1996",
+      "Section 20",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 2 (2)",
+      "UNCITRAL Model Law",
+      "Section 2 (2)",
+      "UNCITRAL Model Law"
+    ],
+    [
+      "Section 2 (1) (e)",
+      "Arbitration Act 1996",
+      "Section 2 (1) (e)",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Part I",
+      "Arbitration and Conciliation Act",
+      "Part I",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 2 (2)",
+      "Arbitration and Conciliation Act",
+      "Section 2 (2)",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 2 (2)",
+      "Arbitration and Conciliation Act",
+      "Section 2 (2)",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Part I",
+      "Arbitration and Conciliation Act",
+      "Part I",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 11(6)of the",
+      "Arbitration and Conciliation Act",
+      "Section 11(6)of the",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 34",
+      "1996 Act",
+      "Section 34",
+      "1996 Act"
+    ],
+    [
+      "Section 34",
+      "1996 Act",
+      "Section 34",
+      "1996 Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act 1996",
+      "Section 37",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "Section 34",
+      "Act of 1996",
+      "Section 34",
+      "Act of 1996"
+    ],
+    [
+      "Sub-Section (3) of Section 34",
+      "Act of 1996",
+      "Sub-Section (3) of Section 34",
+      "Act of 1996"
+    ],
+    [
+      "Section 34",
+      "Act of 1996",
+      "Section 34",
+      "Act of 1996"
+    ],
+    [
+      "Section 34",
+      "Act of 1996",
+      "Section 34",
+      "Act of 1996"
+    ],
+    [
+      "Section 31 sub-clause (4) and Section 20",
+      "Arbitration Act 1996",
+      "Section 31 sub-clause (4) and Section 20",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 34",
+      "Act of 1996",
+      "Section 34",
+      "Act of 1996"
+    ],
+    [
+      "Section 36",
+      "Arbitration and Conciliation Act 1996",
+      "Section 36",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Article 227",
+      "Constitution No. 6890 of 2021",
+      "Article 227",
+      "Constitution No. 6890 of 2021"
+    ],
+    [
+      "Part I",
+      "Arbitration Act 1996",
+      "Part I",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Article 227",
+      "Constitution No. 6890 of 2021",
+      "Article 227",
+      "Constitution No. 6890 of 2021"
+    ],
+    [
+      "Article 227",
+      "Constitution No. 6890 of 2021",
+      "Article 227",
+      "Constitution No. 6890 of 2021"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Order VI Rule 14",
+      "Code of Civil Procedure",
+      "Order VI Rule 14",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 2 (1) (e) (i)",
+      "Arbitration Act 1996",
+      "Section 2 (1) (e) (i)",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act 1996",
+      "Section 37",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 20",
+      "Arbitration Act 1996",
+      "Section 20",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 20 (1)",
+      "Arbitration Act 1996",
+      "Section 20 (1)",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act 1996",
+      "Section 37",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "Section 8 or Section 9",
+      "Arbitration Act 1996",
+      "Section 8 or Section 9",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 34(1) (c )",
+      "Arbitration and Conciliation Act",
+      "Section 34(1) (c )",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act 1996",
+      "Section 37",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act 1996",
+      "Section 37",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act 1996",
+      "Section 37",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act 1996",
+      "Section 37",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "Section 37(1)",
+      "Arbitration and Conciliation Act 1996",
+      "Section 37(1)",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 151",
+      "Code of Civil Procedure",
+      "Section 151",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act 1996",
+      "Section 37",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 34",
+      "1996 Act",
+      "Section 34",
+      "1996 Act"
+    ],
+    [
+      "Section 2 (2)",
+      "Arbitration Act 1996",
+      "Section 2 (2)",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 20",
+      "Arbitration Act 1996",
+      "Section 20",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Part I",
+      "Arbitration Act 1996",
+      "Part I",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Part I",
+      "Arbitration Act 1996",
+      "Part I",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Part I",
+      "Arbitration Act 1996",
+      "Part I",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Part I",
+      "Arbitration Act 1996",
+      "Part I",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Part I",
+      "Arbitration Act 1996",
+      "Part I",
+      "Arbitration Act 1996"
+    ],
+    [
+      "part II",
+      "Arbitration Act 1996",
+      "part II",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act 1996",
+      "Section 9",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Part I",
+      "Arbitration Act 1996",
+      "Part I",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 2(1) (e)",
+      "Arbitration Act 1996",
+      "Section 2(1) (e)",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 2 (1) (e)",
+      "Arbitration Act 1996",
+      "Section 2 (1) (e)",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Arbitration Act 1996",
+      "Section 2(1)(e)",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 20",
+      "Arbitration Act 1996",
+      "Section 20",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 17",
+      "Constitution",
+      "Section 17",
+      "Constitution"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act 1996",
+      "Section 37",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "Part I",
+      "Arbitration Act 1996",
+      "Part I",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Arbitration Act 1996",
+      "Section 2(1)(e)",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 2(1)(e)includes \"",
+      "Arbitration Act 1996",
+      "Section 2(1)(e)includes \"",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 20",
+      "Arbitration Act 1996",
+      "Section 20",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 20",
+      "Arbitration Act 1996",
+      "Section 20",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 20(3)",
+      "Arbitration Act 1996",
+      "Section 20(3)",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 20(3)",
+      "Arbitration Act 1996",
+      "Section 20(3)",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 20(3)has to",
+      "Arbitration Act 1996",
+      "Section 20(3)has to",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 20(2)which places",
+      "Arbitration Act 1996",
+      "Section 20(2)which places",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 20 (1)and subsection 20 (2)and",
+      "Arbitration Act 1996",
+      "Section 20 (1)and subsection 20 (2)and",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 20 (3)",
+      "Arbitration Act 1996",
+      "Section 20 (3)",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act 1996",
+      "Section 34",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Part I.",
+      "Arbitration Act 1996",
+      "Part I.",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 2 (1) (e) and Sub-clause (i) and (ii)",
+      "Arbitration Act 1996",
+      "Section 2 (1) (e) and Sub-clause (i) and (ii)",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 20, 31 (4) and 42",
+      "Arbitration Act 1996",
+      "Section 20, 31 (4) and 42",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 20",
+      "Arbitration Act 1996",
+      "Section 20",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 2 (1)(e)",
+      "Arbitration Act 1996",
+      "Section 2 (1)(e)",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 2 (1)(e)has",
+      "Arbitration Act 1996",
+      "Section 2 (1)(e)has",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 2 (1) (e)",
+      "UNCITRAL Model Law",
+      "Section 2 (1) (e)",
+      "UNCITRAL Model Law"
+    ],
+    [
+      "Section 20",
+      "Arbitration Act 1996",
+      "Section 20",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 20",
+      "Arbitration Act 1996",
+      "Section 20",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 2 (2)",
+      "Arbitration Act 1996",
+      "Section 2 (2)",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 20 (1) and Section 20 (2)",
+      "Arbitration Act 1996",
+      "Section 20 (1) and Section 20 (2)",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 20 (3)",
+      "Arbitration Act 1996",
+      "Section 20 (3)",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act 1996",
+      "Section 34",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act 1996",
+      "Section 34",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 20(3)",
+      "Arbitration Act 1996",
+      "Section 20(3)",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 5 and 8",
+      "C.P.C.",
+      "Section 5 and 8",
+      "C.P.C."
+    ],
+    [
+      "Section 9",
+      "Arbitration Act 1996",
+      "Section 9",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act 1996",
+      "Section 34",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act 1996",
+      "Section 34",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Sections 4, 16 and 20",
+      "Arbitration Act 1996",
+      "Sections 4, 16 and 20",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 4",
+      "Construction Industry Arbitration Association Rules and Regulations",
+      "Section 4",
+      "Construction Industry Arbitration Association Rules and Regulations"
+    ],
+    [
+      "Section 20",
+      "Arbitration Act 1996",
+      "Section 20",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 11 (6)",
+      "MOU",
+      "Section 11 (6)",
+      "MOU"
+    ],
+    [
+      "Section 34/37",
+      "Arbitration and Conciliation Act 1996",
+      "Section 34/37",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "Section 11 (6)",
+      "MOU",
+      "Section 11 (6)",
+      "MOU"
+    ],
+    [
+      "Part I",
+      "Arbitration and Conciliation Act",
+      "Part I",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 20",
+      "Arbitration Act 1996",
+      "Section 20",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Part I",
+      "Arbitration and Conciliation Act",
+      "Part I",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Part I",
+      "Arbitration and Conciliation Act",
+      "Part I",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Sub-Section (2) of Section 2",
+      "Arbitration and Conciliation Act",
+      "Sub-Section (2) of Section 2",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Part I",
+      "Arbitration and Conciliation Act",
+      "Part I",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act 1996",
+      "Section 9",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act 1996",
+      "Section 34",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act 1996",
+      "Section 9",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration and Conciliation Act",
+      "Section 42",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act 1996",
+      "Section 34",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 2(1)(e) and Section 20 and Section 42",
+      "Arbitration and Conciliation Act",
+      "Section 2(1)(e) and Section 20 and Section 42",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 20",
+      "Arbitration Act 1996",
+      "Section 20",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Sub-Section (1) of Section 2",
+      "Arbitration and Conciliation Act",
+      "Sub-Section (1) of Section 2",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 20",
+      "Arbitration Act 1996",
+      "Section 20",
+      "Arbitration Act 1996"
+    ],
+    [
+      "sub-Section (1) of Section 20",
+      "Arbitration Act 1996",
+      "sub-Section (1) of Section 20",
+      "Arbitration Act 1996"
+    ],
+    [
+      "sub-Section (2) of Section 20",
+      "Arbitration Act 1996",
+      "sub-Section (2) of Section 20",
+      "Arbitration Act 1996"
+    ],
+    [
+      "sub-Section (2) of Section 20",
+      "Arbitration Act 1996",
+      "sub-Section (2) of Section 20",
+      "Arbitration Act 1996"
+    ],
+    [
+      "sub-Section (2) of Section 20",
+      "Arbitration Act 1996",
+      "sub-Section (2) of Section 20",
+      "Arbitration Act 1996"
+    ],
+    [
+      "subsection (2) of Section 20",
+      "Arbitration Act 1996",
+      "subsection (2) of Section 20",
+      "Arbitration Act 1996"
+    ],
+    [
+      "subsection (2) of Section 20",
+      "Arbitration Act 1996",
+      "subsection (2) of Section 20",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 11(6)",
+      "MOU",
+      "Section 11(6)",
+      "MOU"
+    ],
+    [
+      "Section 34",
+      "1996 Act",
+      "Section 34",
+      "1996 Act"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "Section 34",
+      "1996 Act",
+      "Section 34",
+      "1996 Act"
+    ],
+    [
+      "Section 11",
+      "MOU",
+      "Section 11",
+      "MOU"
+    ],
+    [
+      "Section 36",
+      "Arbitration and Conciliation Act 1996",
+      "Section 36",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration and Conciliation Act",
+      "Section 42",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 4 and Section 20",
+      "Arbitration Act 1996",
+      "Section 4 and Section 20",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 34",
+      "1996 Act",
+      "Section 34",
+      "1996 Act"
+    ],
+    [
+      "Section 36",
+      "Arbitration and Conciliation Act 1996",
+      "Section 36",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act 1996",
+      "Section 37",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "Part I of Chapter I",
+      "Tender Paper ELCORE",
+      "Part I of Chapter I",
+      "Tender Paper ELCORE"
+    ],
+    [
+      "Chapter II",
+      "Tender Paper ELCORE",
+      "Chapter II",
+      "Tender Paper ELCORE"
+    ],
+    [
+      "1.2.54 (k)",
+      "Tender Paper ELCORE",
+      "1.2.54 (k)",
+      "Tender Paper ELCORE"
+    ],
+    [
+      "Rule 1 of Order XXIX",
+      "Code of Civil Procedure",
+      "Rule 1 of Order XXIX",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 151",
+      "Code of Civil Procedure",
+      "Section 151",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Article 17",
+      "Constitution",
+      "Article 17",
+      "Constitution"
+    ],
+    [
+      "Section 48",
+      "Arbitration Act 1996",
+      "Section 48",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Part II and III",
+      "Arbitration Act 1996",
+      "Part II and III",
+      "Arbitration Act 1996"
+    ],
+    [
+      "part II",
+      "Arbitration Act 1996",
+      "part II",
+      "Arbitration Act 1996"
+    ],
+    [
+      "part I",
+      "Arbitration Act 1996",
+      "part I",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Part I.",
+      "Arbitration Act 1996",
+      "Part I.",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Part 1",
+      "Arbitration Act 1996",
+      "Part 1",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 11",
+      "MOU",
+      "Section 11",
+      "MOU"
+    ],
+    [
+      "Section 16",
+      "Construction Industry Arbitration Association Rules and Regulations",
+      "Section 16",
+      "Construction Industry Arbitration Association Rules and Regulations"
+    ],
+    [
+      "Section 42",
+      "Arbitration and Conciliation Act",
+      "Section 42",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Article 227 No.6890 of 2021",
+      "Constitution",
+      "Article 227 No.6890 of 2021",
+      "Constitution"
+    ]
+  ],
+  "precedent_counts": {
+    "BGS SGS Soma JV versus NHPC Ltd, 2004 (4) SCC 234": 8,
+    "Indus Mobile Distribution Private Limited versus Datawind Innovations Private Limited (2017) 7": 48,
+    "Om Prakash and others versus Vijay Dwarka Dass Verma 2020 SCC online Bombay 796": 3,
+    "Mankastu Impex Private Limited versus Air Visual Ltd 2020 (5) SCC 399": 3,
+    "Union of India versus Hardy Exploration and Production (India) Inc 2019 (13) SCC 472": 3,
+    "Braes of Doune Wind Farm (Scotland) Ltd v Alfred MacAlpine Business Services Ltd 2008 EWHC 426 (TCC)": 2,
+    "Videocon Industries Ltd versus Union of India 2011 (6) SCC 161": 2,
+    "Enercon (India) Limited versus Enercon GMBH, 2014 (5) SCC 1": 2,
+    "Inox Renewables Ltd versus Jayesh Electricals Ltd, 2021 SCCOnline Supreme Court 448": 2,
+    "Ravi Ranjan Developers Private Limited versus Aditya Kumar Chatterji 2022 SCConline Supreme Court 568": 3
+  },
+  "provision_counts": {
+    "Section 34 of Arbitration and Conciliation Act 1996": 11,
+    "Order VII Rule 10 of CPC": 1,
+    "Article 227 of Constitution of India": 1,
+    "Article 227 of Constitution": 5,
+    "Section 34 of Act of 1996": 5,
+    "Chapter 2 of Tender Paper ELCORE": 1,
+    "Article 227 of Constitution No. 6890 of 2021": 4,
+    "Section 34 of Arbitration and Conciliation Act": 15,
+    "Order XXX Rule 2 of C.P.C.": 1,
+    "Order XXIX Rule 1 of C.P.C.": 1,
+    "Order VI Rule 14 of Code of Civil Procedure": 3,
+    "Order XXIX Rule 1 of Code of Civil Procedure": 2,
+    "Order XXIX Rule (1) of Code of Civil Procedure": 1,
+    "Order VII Rule 10 of C.P.C.": 3,
+    "order VII Rule 10 of CPC": 1,
+    "Section 13 of Commercial Courts Act": 3,
+    "Order 43 of C.P.C.": 1,
+    "Section 13 (1) of Commercial Courts Act": 1,
+    "Section 34 of 1996 Act": 7,
+    "Section 2 (2) and 20 of Arbitration Act 1996": 1,
+    "Part I of Arbitration Act 1996": 9,
+    "Section 2(2) and 20 of Arbitration Act 1996": 1,
+    "Section 9 of Arbitration Act 1996": 5,
+    "Section 34 (2)(a) of Arbitration Act 1996": 1,
+    "Section 68 and Section 69 of UK Act": 1,
+    "Section 34 of Arbitration Act 1996": 8,
+    "Section 20 of Arbitration Act 1996": 14,
+    "Section 2 (2) of UNCITRAL Model Law": 1,
+    "Section 2 (1) (e) of Arbitration Act 1996": 2,
+    "Part I of Arbitration and Conciliation Act": 6,
+    "Section 2 (2) of Arbitration and Conciliation Act": 2,
+    "Section 11(6)of the of Arbitration and Conciliation Act": 1,
+    "Section 37 of Arbitration and Conciliation Act 1996": 10,
+    "Sub-Section (3) of Section 34 of Act of 1996": 1,
+    "Section 31 sub-clause (4) and Section 20 of Arbitration Act 1996": 1,
+    "Section 36 of Arbitration and Conciliation Act 1996": 3,
+    "Section 2 (1) (e) (i) of Arbitration Act 1996": 1,
+    "Section 20 (1) of Arbitration Act 1996": 1,
+    "Section 8 or Section 9 of Arbitration Act 1996": 1,
+    "Section 34(1) (c ) of Arbitration and Conciliation Act": 1,
+    "Section 37(1) of Arbitration and Conciliation Act 1996": 1,
+    "Section 151 of Code of Civil Procedure": 2,
+    "Section 2 (2) of Arbitration Act 1996": 2,
+    "part II of Arbitration Act 1996": 2,
+    "Section 2(1) (e) of Arbitration Act 1996": 1,
+    "Section 2(1)(e) of Arbitration Act 1996": 2,
+    "Section 17 of Constitution": 1,
+    "Section 2(1)(e)includes \" of Arbitration Act 1996": 1,
+    "Section 20(3) of Arbitration Act 1996": 3,
+    "Section 20(3)has to of Arbitration Act 1996": 1,
+    "Section 20(2)which places of Arbitration Act 1996": 1,
+    "Section 20 (1)and subsection 20 (2)and of Arbitration Act 1996": 1,
+    "Section 20 (3) of Arbitration Act 1996": 2,
+    "Part I. of Arbitration Act 1996": 2,
+    "Section 2 (1) (e) and Sub-clause (i) and (ii) of Arbitration Act 1996": 1,
+    "Section 20, 31 (4) and 42 of Arbitration Act 1996": 1,
+    "Section 2 (1)(e) of Arbitration Act 1996": 1,
+    "Section 2 (1)(e)has of Arbitration Act 1996": 1,
+    "Section 2 (1) (e) of UNCITRAL Model Law": 1,
+    "Section 20 (1) and Section 20 (2) of Arbitration Act 1996": 1,
+    "Section 5 and 8 of C.P.C.": 1,
+    "Sections 4, 16 and 20 of Arbitration Act 1996": 1,
+    "Section 4 of Construction Industry Arbitration Association Rules and Regulations": 1,
+    "Section 11 (6) of MOU": 2,
+    "Section 34/37 of Arbitration and Conciliation Act 1996": 1,
+    "Sub-Section (2) of Section 2 of Arbitration and Conciliation Act": 1,
+    "Section 42 of Arbitration and Conciliation Act": 3,
+    "Section 2(1)(e) and Section 20 and Section 42 of Arbitration and Conciliation Act": 1,
+    "Sub-Section (1) of Section 2 of Arbitration and Conciliation Act": 1,
+    "sub-Section (1) of Section 20 of Arbitration Act 1996": 1,
+    "sub-Section (2) of Section 20 of Arbitration Act 1996": 3,
+    "subsection (2) of Section 20 of Arbitration Act 1996": 2,
+    "Section 11(6) of MOU": 1,
+    "Section 11 of MOU": 2,
+    "Section 4 and Section 20 of Arbitration Act 1996": 1,
+    "Part I of Chapter I of Tender Paper ELCORE": 1,
+    "Chapter II of Tender Paper ELCORE": 1,
+    "1.2.54 (k) of Tender Paper ELCORE": 1,
+    "Rule 1 of Order XXIX of Code of Civil Procedure": 1,
+    "Article 17 of Constitution": 1,
+    "Section 48 of Arbitration Act 1996": 1,
+    "Part II and III of Arbitration Act 1996": 1,
+    "part I of Arbitration Act 1996": 1,
+    "Part 1 of Arbitration Act 1996": 1,
+    "Section 16 of Construction Industry Arbitration Association Rules and Regulations": 1,
+    "Article 227 No.6890 of 2021 of Constitution": 1
+  },
+  "statute_counts": {
+    "Arbitration and Conciliation Act 1996": 26,
+    "CPC": 2,
+    "Constitution of India": 1,
+    "Constitution": 8,
+    "Act of 1996": 6,
+    "Tender Paper ELCORE": 4,
+    "Constitution No. 6890 of 2021": 4,
+    "Arbitration and Conciliation Act": 31,
+    "C.P.C.": 7,
+    "Code of Civil Procedure": 9,
+    "Commercial Courts Act": 4,
+    "1996 Act": 7,
+    "Arbitration Act 1996": 80,
+    "UK Act": 1,
+    "UNCITRAL Model Law": 2,
+    "Construction Industry Arbitration Association Rules and Regulations": 2,
+    "MOU": 5
+  }
+}

@@ -1,0 +1,678 @@
+{
+  "entities": [
+    {
+      "text": "D. M. Corporation Pvt. Ltd.",
+      "label": "PETITIONER",
+      "start_char": 23,
+      "end_char": 50
+    },
+    {
+      "text": "State Of Maharashtra",
+      "label": "RESPONDENT",
+      "start_char": 70,
+      "end_char": 90
+    },
+    {
+      "text": "High Court Of Judicature At Bombay",
+      "label": "COURT",
+      "start_char": 289,
+      "end_char": 323
+    },
+    {
+      "text": "D.M. Corporation Pvt. Ltd.",
+      "label": "PETITIONER",
+      "start_char": 466,
+      "end_char": 492
+    },
+    {
+      "text": "Dilip Ramchandra Mohite",
+      "label": "LAWYER",
+      "start_char": 665,
+      "end_char": 688
+    },
+    {
+      "text": "State of Maharashtra",
+      "label": "RESPONDENT",
+      "start_char": 1208,
+      "end_char": 1228
+    },
+    {
+      "text": "Chief Engineer (Electrical)                                                        ]\n           Hydro Project, HSBC Building,                                                          ]\n           4th floor, M.G. Road, Fort, Mumbai.",
+      "label": "RESPONDENT",
+      "start_char": 1608,
+      "end_char": 1839
+    },
+    {
+      "text": "Chief Engineer (SP)                                                                ]\n           Water Resource Department,                                                             ]\n           Mangalwar Peth, Pune",
+      "label": "RESPONDENT",
+      "start_char": 1908,
+      "end_char": 2124
+    },
+    {
+      "text": "Superintendent Engineer,                                                           ]\n           Satara Irrigation Project Circle,                                                      ]\n           Satara",
+      "label": "RESPONDENT",
+      "start_char": 2208,
+      "end_char": 2410
+    },
+    {
+      "text": "Executive Engineer                                                                 ]\n           Kather Canal Division",
+      "label": "RESPONDENT",
+      "start_char": 2508,
+      "end_char": 2625
+    },
+    {
+      "text": "Bank of Baroda",
+      "label": "RESPONDENT",
+      "start_char": 2804,
+      "end_char": 2818
+    },
+    {
+      "text": "Shrikrishna R. Ganbavale",
+      "label": "LAWYER",
+      "start_char": 3758,
+      "end_char": 3782
+    },
+    {
+      "text": "S.H. Kankal",
+      "label": "OTHER_PERSON",
+      "start_char": 3819,
+      "end_char": 3830
+    },
+    {
+      "text": "N.N. Singh",
+      "label": "LAWYER",
+      "start_char": 3877,
+      "end_char": 3887
+    },
+    {
+      "text": "DR.SHALINI PHANSALKAR-JOSHI",
+      "label": "JUDGE",
+      "start_char": 3956,
+      "end_char": 3983
+    },
+    {
+      "text": "20 th MARCH, 2018",
+      "label": "DATE",
+      "start_char": 4039,
+      "end_char": 4056
+    },
+    {
+      "text": "5 th APRIL, 2018",
+      "label": "DATE",
+      "start_char": 4111,
+      "end_char": 4127
+    },
+    {
+      "text": "Ganbavale",
+      "label": "LAWYER",
+      "start_char": 4249,
+      "end_char": 4258
+    },
+    {
+      "text": "Kankal",
+      "label": "OTHER_PERSON",
+      "start_char": 4299,
+      "end_char": 4305
+    },
+    {
+      "text": "Singh",
+      "label": "LAWYER",
+      "start_char": 4342,
+      "end_char": 4347
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 4425,
+      "end_char": 4436
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 4444,
+      "end_char": 4465
+    },
+    {
+      "text": "30 th November 2017",
+      "label": "DATE",
+      "start_char": 4513,
+      "end_char": 4532
+    },
+    {
+      "text": "Principal District Judge, Satara",
+      "label": "COURT",
+      "start_char": 4547,
+      "end_char": 4579
+    },
+    {
+      "text": "Arbitration Application No. 235 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 4620,
+      "end_char": 4659
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 4782,
+      "end_char": 4792
+    },
+    {
+      "text": "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 4800,
+      "end_char": 4897
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 5059,
+      "end_char": 5068
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 5076,
+      "end_char": 5097
+    },
+    {
+      "text": "Tarali Hydro Electric Project",
+      "label": "ORG",
+      "start_char": 5250,
+      "end_char": 5279
+    },
+    {
+      "text": "1 st April 2011",
+      "label": "DATE",
+      "start_char": 5301,
+      "end_char": 5316
+    },
+    {
+      "text": "Hydro Project Development Agreement",
+      "label": "STATUTE",
+      "start_char": 5331,
+      "end_char": 5366
+    },
+    {
+      "text": "HPD Agreement",
+      "label": "STATUTE",
+      "start_char": 5613,
+      "end_char": 5626
+    },
+    {
+      "text": "2 nd November 2016",
+      "label": "DATE",
+      "start_char": 5766,
+      "end_char": 5784
+    },
+    {
+      "text": "District Court, Satara",
+      "label": "COURT",
+      "start_char": 6065,
+      "end_char": 6087
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 6095,
+      "end_char": 6104
+    },
+    {
+      "text": "Arbitration Act and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 6112,
+      "end_char": 6154
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 6168,
+      "end_char": 6183
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 7140,
+      "end_char": 7150
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 7158,
+      "end_char": 7179
+    },
+    {
+      "text": "District Judge-1, Satara",
+      "label": "COURT",
+      "start_char": 7664,
+      "end_char": 7688
+    },
+    {
+      "text": "Court of District Judge-1, Satara",
+      "label": "COURT",
+      "start_char": 8010,
+      "end_char": 8043
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 8086,
+      "end_char": 8095
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 8103,
+      "end_char": 8124
+    },
+    {
+      "text": "Satara",
+      "label": "GPE",
+      "start_char": 8150,
+      "end_char": 8156
+    },
+    {
+      "text": "Part-I",
+      "label": "PROVISION",
+      "start_char": 8300,
+      "end_char": 8306
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 8314,
+      "end_char": 8329
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 8361,
+      "end_char": 8399
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 8607,
+      "end_char": 8616
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 8624,
+      "end_char": 8639
+    },
+    {
+      "text": "Section 10",
+      "label": "PROVISION",
+      "start_char": 8785,
+      "end_char": 8795
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 8799,
+      "end_char": 8820
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 9052,
+      "end_char": 9073
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996",
+      "label": "STATUTE",
+      "start_char": 9574,
+      "end_char": 9624
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 9932,
+      "end_char": 9942
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 9950,
+      "end_char": 9971
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 10070,
+      "end_char": 10108
+    },
+    {
+      "text": "sub-clause of Section 15(2)",
+      "label": "PROVISION",
+      "start_char": 10199,
+      "end_char": 10226
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 10359,
+      "end_char": 10410
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 10895,
+      "end_char": 10905
+    },
+    {
+      "text": "Section 2 (i)",
+      "label": "PROVISION",
+      "start_char": 11084,
+      "end_char": 11097
+    },
+    {
+      "text": "section 12",
+      "label": "PROVISION",
+      "start_char": 11293,
+      "end_char": 11303
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 11398,
+      "end_char": 11416
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 11424,
+      "end_char": 11434
+    },
+    {
+      "text": "section 115",
+      "label": "PROVISION",
+      "start_char": 13506,
+      "end_char": 13517
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 13525,
+      "end_char": 13566
+    },
+    {
+      "text": "Section 10",
+      "label": "PROVISION",
+      "start_char": 14172,
+      "end_char": 14182
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 14262,
+      "end_char": 14272
+    },
+    {
+      "text": "Section 2(i)",
+      "label": "PROVISION",
+      "start_char": 14343,
+      "end_char": 14355
+    },
+    {
+      "text": "Section 15(2)",
+      "label": "PROVISION",
+      "start_char": 14413,
+      "end_char": 14426
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 14835,
+      "end_char": 14867
+    },
+    {
+      "text": "Section 10(3)",
+      "label": "PROVISION",
+      "start_char": 14872,
+      "end_char": 14885
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 14893,
+      "end_char": 14914
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 15329,
+      "end_char": 15338
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 15346,
+      "end_char": 15361
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 15666,
+      "end_char": 15675
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 15683,
+      "end_char": 15698
+    },
+    {
+      "text": "Section 10(3)",
+      "label": "PROVISION",
+      "start_char": 16240,
+      "end_char": 16253
+    },
+    {
+      "text": "Section 10(3)",
+      "label": "PROVISION",
+      "start_char": 17038,
+      "end_char": 17051
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 17059,
+      "end_char": 17080
+    },
+    {
+      "text": "Principal District Judge, Satara",
+      "label": "COURT",
+      "start_char": 17094,
+      "end_char": 17126
+    },
+    {
+      "text": "DR.SHALINI PHANSALKAR-JOSHI",
+      "label": "JUDGE",
+      "start_char": 17497,
+      "end_char": 17524
+    }
+  ],
+  "precedent_clusters": {},
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Section 15",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 15",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 3",
+      "Commercial Courts Act",
+      "Section 3",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act and Conciliation Act, 1996",
+      "Section 9",
+      "Arbitration Act and Conciliation Act, 1996"
+    ],
+    [
+      "Section 12",
+      "Commercial Courts Act",
+      "Section 12",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 3",
+      "Commercial Courts Act",
+      "Section 3",
+      "Commercial Courts Act"
+    ],
+    [
+      "Part-I",
+      "Arbitration Act",
+      "Part-I",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 10",
+      "Commercial Courts Act",
+      "Section 10",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 15",
+      "Commercial Courts Act",
+      "Section 15",
+      "Commercial Courts Act"
+    ],
+    [
+      "section 115",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "section 115",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "Section 10(3)",
+      "Commercial Courts Act",
+      "Section 10(3)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 10(3)",
+      "Commercial Courts Act",
+      "Section 10(3)",
+      "Commercial Courts Act"
+    ],
+    [
+      "sub-clause of Section 15(2)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "sub-clause of Section 15(2)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 12",
+      "Commercial Courts Act",
+      "Section 12",
+      "Commercial Courts Act"
+    ],
+    [
+      "section 12",
+      "Commercial Courts Act",
+      "section 12",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 12",
+      "Commercial Courts Act",
+      "Section 12",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 10",
+      "Commercial Courts Act",
+      "Section 10",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 12",
+      "Commercial Courts Act",
+      "Section 12",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 2(i)",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "Section 2(i)",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)"
+    ],
+    [
+      "Section 15(2)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 15(2)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 10(3)",
+      "Commercial Courts Act",
+      "Section 10(3)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 2 (i)",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "Section 2 (i)",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)"
+    ]
+  ],
+  "precedent_counts": {},
+  "provision_counts": {
+    "Article 227 of Constitution of India": 1,
+    "Section 15 of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 1,
+    "Section 3 of Commercial Courts Act": 2,
+    "Section 9 of Arbitration Act and Conciliation Act, 1996": 1,
+    "Section 12 of Commercial Courts Act": 4,
+    "Part-I of Arbitration Act": 1,
+    "Section 9 of Arbitration Act": 3,
+    "Section 10 of Commercial Courts Act": 2,
+    "Section 15 of Commercial Courts Act": 1,
+    "section 115 of Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Section 10(3) of Commercial Courts Act": 3,
+    "sub-clause of Section 15(2) of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 1,
+    "section 12 of Commercial Courts Act": 1,
+    "Section 2(i) of Arbitration and Conciliation Act, 1996 (26 of 1996)": 1,
+    "Section 15(2) of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 1,
+    "Section 2 (i) of Arbitration and Conciliation Act, 1996 (26 of 1996)": 1
+  },
+  "statute_counts": {
+    "Constitution of India": 1,
+    "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 3,
+    "Commercial Courts Act": 13,
+    "Arbitration Act and Conciliation Act, 1996": 1,
+    "Arbitration Act": 4,
+    "Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Arbitration and Conciliation Act, 1996 (26 of 1996)": 2
+  }
+}

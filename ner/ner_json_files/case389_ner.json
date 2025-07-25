@@ -1,0 +1,972 @@
+{
+  "entities": [
+    {
+      "text": "Telangana High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 20
+    },
+    {
+      "text": "K.N. Mahesh Prasad",
+      "label": "PETITIONER",
+      "start_char": 25,
+      "end_char": 43
+    },
+    {
+      "text": "Optimus Drugs Private Limited",
+      "label": "RESPONDENT",
+      "start_char": 47,
+      "end_char": 76
+    },
+    {
+      "text": "P.Naveen Rao",
+      "label": "LAWYER",
+      "start_char": 112,
+      "end_char": 124
+    },
+    {
+      "text": "P Naveen Rao",
+      "label": "JUDGE",
+      "start_char": 132,
+      "end_char": 144
+    },
+    {
+      "text": "Nagesh Bheemapaka",
+      "label": "JUDGE",
+      "start_char": 146,
+      "end_char": 163
+    },
+    {
+      "text": "P.Naveen Rao",
+      "label": "JUDGE",
+      "start_char": 198,
+      "end_char": 210
+    },
+    {
+      "text": "Nagesh Bheemapaka",
+      "label": "JUDGE",
+      "start_char": 275,
+      "end_char": 292
+    },
+    {
+      "text": "K.N.Mahesh Prasad",
+      "label": "PETITIONER",
+      "start_char": 402,
+      "end_char": 419
+    },
+    {
+      "text": "Optimus Drugs Private Limited",
+      "label": "RESPONDENT",
+      "start_char": 685,
+      "end_char": 714
+    },
+    {
+      "text": "Kondapur",
+      "label": "GPE",
+      "start_char": 811,
+      "end_char": 819
+    },
+    {
+      "text": "Hyderabad",
+      "label": "GPE",
+      "start_char": 821,
+      "end_char": 830
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 1169,
+      "end_char": 1172
+    },
+    {
+      "text": "NBK",
+      "label": "JUDGE",
+      "start_char": 1177,
+      "end_char": 1180
+    },
+    {
+      "text": "P.NAVEEN RAO",
+      "label": "JUDGE",
+      "start_char": 1333,
+      "end_char": 1345
+    },
+    {
+      "text": "NAGESH BHEEMAPAKA",
+      "label": "JUDGE",
+      "start_char": 1408,
+      "end_char": 1425
+    },
+    {
+      "text": "P.Naveen Rao",
+      "label": "JUDGE",
+      "start_char": 1510,
+      "end_char": 1522
+    },
+    {
+      "text": "03.11.2018",
+      "label": "DATE",
+      "start_char": 1978,
+      "end_char": 1988
+    },
+    {
+      "text": "I.A.No.349 of 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 2024,
+      "end_char": 2042
+    },
+    {
+      "text": "Order XXXIX Rules 1 and 2 read",
+      "label": "PROVISION",
+      "start_char": 2049,
+      "end_char": 2079
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 2085,
+      "end_char": 2096
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 2100,
+      "end_char": 2129
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 2143,
+      "end_char": 2146
+    },
+    {
+      "text": "09.03.2023",
+      "label": "DATE",
+      "start_char": 2641,
+      "end_char": 2651
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 2680,
+      "end_char": 2683
+    },
+    {
+      "text": "NBK",
+      "label": "JUDGE",
+      "start_char": 2688,
+      "end_char": 2691
+    },
+    {
+      "text": "Optrix Laboratories Pvt. Ltd.",
+      "label": "ORG",
+      "start_char": 4671,
+      "end_char": 4700
+    },
+    {
+      "text": "03.11.2018",
+      "label": "DATE",
+      "start_char": 4761,
+      "end_char": 4771
+    },
+    {
+      "text": "Optrix Laboratories Pvt",
+      "label": "ORG",
+      "start_char": 5001,
+      "end_char": 5024
+    },
+    {
+      "text": "1st September, 2018",
+      "label": "DATE",
+      "start_char": 5067,
+      "end_char": 5086
+    },
+    {
+      "text": "Optix Laboratories Pvt. Ltd.",
+      "label": "ORG",
+      "start_char": 5289,
+      "end_char": 5317
+    },
+    {
+      "text": "Optix Laboratories Pvt. Ltd.",
+      "label": "ORG",
+      "start_char": 5479,
+      "end_char": 5507
+    },
+    {
+      "text": "clauses 4 and 5(a)",
+      "label": "PROVISION",
+      "start_char": 5679,
+      "end_char": 5697
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 5736,
+      "end_char": 5739
+    },
+    {
+      "text": "NBK",
+      "label": "JUDGE",
+      "start_char": 5744,
+      "end_char": 5747
+    },
+    {
+      "text": "Optimus Group",
+      "label": "ORG",
+      "start_char": 5811,
+      "end_char": 5824
+    },
+    {
+      "text": "Optimus Drugs",
+      "label": "ORG",
+      "start_char": 6078,
+      "end_char": 6091
+    },
+    {
+      "text": "Optrix Laboratories",
+      "label": "ORG",
+      "start_char": 6137,
+      "end_char": 6156
+    },
+    {
+      "text": "Optimus Drugs",
+      "label": "ORG",
+      "start_char": 6200,
+      "end_char": 6213
+    },
+    {
+      "text": "Optrix Laboratories",
+      "label": "ORG",
+      "start_char": 6218,
+      "end_char": 6237
+    },
+    {
+      "text": "Optimus Group",
+      "label": "ORG",
+      "start_char": 7136,
+      "end_char": 7149
+    },
+    {
+      "text": "Optimus Group",
+      "label": "ORG",
+      "start_char": 7279,
+      "end_char": 7292
+    },
+    {
+      "text": "Optimus Drugs",
+      "label": "ORG",
+      "start_char": 7796,
+      "end_char": 7809
+    },
+    {
+      "text": "Optrix Laboratories",
+      "label": "ORG",
+      "start_char": 7863,
+      "end_char": 7882
+    },
+    {
+      "text": "Optimus Group Company",
+      "label": "ORG",
+      "start_char": 8017,
+      "end_char": 8038
+    },
+    {
+      "text": "Optimus Group Company",
+      "label": "ORG",
+      "start_char": 8227,
+      "end_char": 8248
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 8339,
+      "end_char": 8342
+    },
+    {
+      "text": "NBK",
+      "label": "JUDGE",
+      "start_char": 8347,
+      "end_char": 8350
+    },
+    {
+      "text": "Optimus Group",
+      "label": "ORG",
+      "start_char": 8680,
+      "end_char": 8693
+    },
+    {
+      "text": "Optimus Group",
+      "label": "ORG",
+      "start_char": 8948,
+      "end_char": 8961
+    },
+    {
+      "text": "Optimus Group",
+      "label": "ORG",
+      "start_char": 9049,
+      "end_char": 9062
+    },
+    {
+      "text": "Optimus Drugs",
+      "label": "ORG",
+      "start_char": 9118,
+      "end_char": 9131
+    },
+    {
+      "text": "Optrix Laboratories",
+      "label": "ORG",
+      "start_char": 9185,
+      "end_char": 9204
+    },
+    {
+      "text": "Optimus Group",
+      "label": "ORG",
+      "start_char": 9299,
+      "end_char": 9312
+    },
+    {
+      "text": "Optimus Group",
+      "label": "ORG",
+      "start_char": 9622,
+      "end_char": 9635
+    },
+    {
+      "text": "Optimus Group",
+      "label": "ORG",
+      "start_char": 9723,
+      "end_char": 9736
+    },
+    {
+      "text": "Optimus Drugs",
+      "label": "ORG",
+      "start_char": 9792,
+      "end_char": 9805
+    },
+    {
+      "text": "Optrix Laboratories",
+      "label": "ORG",
+      "start_char": 9859,
+      "end_char": 9878
+    },
+    {
+      "text": "Optimus Drugs",
+      "label": "ORG",
+      "start_char": 9981,
+      "end_char": 9994
+    },
+    {
+      "text": "Optrix Laboratories",
+      "label": "ORG",
+      "start_char": 10009,
+      "end_char": 10028
+    },
+    {
+      "text": "Optimus Drugs",
+      "label": "ORG",
+      "start_char": 10114,
+      "end_char": 10127
+    },
+    {
+      "text": "Optrix Laboratories",
+      "label": "ORG",
+      "start_char": 10132,
+      "end_char": 10151
+    },
+    {
+      "text": "Optimus Group",
+      "label": "ORG",
+      "start_char": 10450,
+      "end_char": 10463
+    },
+    {
+      "text": "Optimus Group",
+      "label": "ORG",
+      "start_char": 10724,
+      "end_char": 10737
+    },
+    {
+      "text": "Optimus Group",
+      "label": "ORG",
+      "start_char": 11096,
+      "end_char": 11109
+    },
+    {
+      "text": "Optimus Group",
+      "label": "ORG",
+      "start_char": 11800,
+      "end_char": 11813
+    },
+    {
+      "text": "Optimum Drugs",
+      "label": "ORG",
+      "start_char": 12952,
+      "end_char": 12965
+    },
+    {
+      "text": "Optrix Laboratories",
+      "label": "ORG",
+      "start_char": 13005,
+      "end_char": 13024
+    },
+    {
+      "text": "Optimus Group",
+      "label": "ORG",
+      "start_char": 13404,
+      "end_char": 13417
+    },
+    {
+      "text": "Optimus Group companies",
+      "label": "ORG",
+      "start_char": 13591,
+      "end_char": 13614
+    },
+    {
+      "text": "Optimus Group Companies",
+      "label": "ORG",
+      "start_char": 13688,
+      "end_char": 13711
+    },
+    {
+      "text": "Optimus Group",
+      "label": "ORG",
+      "start_char": 13838,
+      "end_char": 13851
+    },
+    {
+      "text": "Optimus Group",
+      "label": "ORG",
+      "start_char": 14037,
+      "end_char": 14050
+    },
+    {
+      "text": "Optimus Group",
+      "label": "ORG",
+      "start_char": 14181,
+      "end_char": 14194
+    },
+    {
+      "text": "Gujarat Themis Biosyn Ltd.",
+      "label": "ORG",
+      "start_char": 15265,
+      "end_char": 15291
+    },
+    {
+      "text": "Kotak Mahindra Bank",
+      "label": "ORG",
+      "start_char": 15430,
+      "end_char": 15449
+    },
+    {
+      "text": "Optrix Laboratories Pvt",
+      "label": "ORG",
+      "start_char": 15482,
+      "end_char": 15505
+    },
+    {
+      "text": "Mumbai",
+      "label": "GPE",
+      "start_char": 15567,
+      "end_char": 15573
+    },
+    {
+      "text": "Optrix Laboratories Pvt",
+      "label": "ORG",
+      "start_char": 15706,
+      "end_char": 15729
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 15845,
+      "end_char": 15848
+    },
+    {
+      "text": "NBK",
+      "label": "JUDGE",
+      "start_char": 15853,
+      "end_char": 15856
+    },
+    {
+      "text": "Optrix Laboratories Pvt",
+      "label": "ORG",
+      "start_char": 15890,
+      "end_char": 15913
+    },
+    {
+      "text": "01.04.2020",
+      "label": "DATE",
+      "start_char": 15955,
+      "end_char": 15965
+    },
+    {
+      "text": "16.09.2021",
+      "label": "DATE",
+      "start_char": 15983,
+      "end_char": 15993
+    },
+    {
+      "text": "NCLT, Hyderabad",
+      "label": "COURT",
+      "start_char": 16017,
+      "end_char": 16032
+    },
+    {
+      "text": "31.03.2021",
+      "label": "DATE",
+      "start_char": 16131,
+      "end_char": 16141
+    },
+    {
+      "text": "31.03.2021",
+      "label": "DATE",
+      "start_char": 16230,
+      "end_char": 16240
+    },
+    {
+      "text": "25.05.2022",
+      "label": "DATE",
+      "start_char": 17035,
+      "end_char": 17045
+    },
+    {
+      "text": "25.05.2022",
+      "label": "DATE",
+      "start_char": 17405,
+      "end_char": 17415
+    },
+    {
+      "text": "25.05.2022",
+      "label": "DATE",
+      "start_char": 17515,
+      "end_char": 17525
+    },
+    {
+      "text": "S.Niranjan Reddy",
+      "label": "OTHER_PERSON",
+      "start_char": 18458,
+      "end_char": 18474
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 18713,
+      "end_char": 18716
+    },
+    {
+      "text": "NBK",
+      "label": "JUDGE",
+      "start_char": 18721,
+      "end_char": 18724
+    },
+    {
+      "text": "M.V.Pratap Kumar",
+      "label": "OTHER_PERSON",
+      "start_char": 18751,
+      "end_char": 18767
+    },
+    {
+      "text": "Schedule 2",
+      "label": "PROVISION",
+      "start_char": 18917,
+      "end_char": 18927
+    },
+    {
+      "text": "S.Ravi",
+      "label": "OTHER_PERSON",
+      "start_char": 20052,
+      "end_char": 20058
+    },
+    {
+      "text": "25.5.2022",
+      "label": "DATE",
+      "start_char": 20121,
+      "end_char": 20130
+    },
+    {
+      "text": "M.V.Pratap Kumar",
+      "label": "OTHER_PERSON",
+      "start_char": 21371,
+      "end_char": 21387
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 21593,
+      "end_char": 21596
+    },
+    {
+      "text": "NBK",
+      "label": "JUDGE",
+      "start_char": 21601,
+      "end_char": 21604
+    },
+    {
+      "text": "25.5.2022",
+      "label": "DATE",
+      "start_char": 22739,
+      "end_char": 22748
+    },
+    {
+      "text": "Optimus Drugs Private Limited",
+      "label": "ORG",
+      "start_char": 22946,
+      "end_char": 22975
+    },
+    {
+      "text": "Optimus Group Companies",
+      "label": "ORG",
+      "start_char": 23188,
+      "end_char": 23211
+    },
+    {
+      "text": "Optimus Drugs Private Limited",
+      "label": "ORG",
+      "start_char": 23587,
+      "end_char": 23616
+    },
+    {
+      "text": "S.Ravi",
+      "label": "OTHER_PERSON",
+      "start_char": 23810,
+      "end_char": 23816
+    },
+    {
+      "text": "S.Niranjan Reddy",
+      "label": "OTHER_PERSON",
+      "start_char": 23950,
+      "end_char": 23966
+    },
+    {
+      "text": "25.5.2022",
+      "label": "DATE",
+      "start_char": 24008,
+      "end_char": 24017
+    },
+    {
+      "text": "M.V.Pratap Kumar",
+      "label": "OTHER_PERSON",
+      "start_char": 24106,
+      "end_char": 24122
+    },
+    {
+      "text": "Section 16 (c)",
+      "label": "PROVISION",
+      "start_char": 24176,
+      "end_char": 24190
+    },
+    {
+      "text": "Specific Relief Act",
+      "label": "STATUTE",
+      "start_char": 24198,
+      "end_char": 24217
+    },
+    {
+      "text": "25.5.2022",
+      "label": "DATE",
+      "start_char": 24428,
+      "end_char": 24437
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 24614,
+      "end_char": 24617
+    },
+    {
+      "text": "NBK",
+      "label": "JUDGE",
+      "start_char": 24622,
+      "end_char": 24625
+    },
+    {
+      "text": "M.S. Madhusoodhanan Vs Kerala Kaumudi (P) Ltd1",
+      "label": "PRECEDENT",
+      "start_char": 24821,
+      "end_char": 24867
+    },
+    {
+      "text": "Supreme court",
+      "label": "COURT",
+      "start_char": 24877,
+      "end_char": 24890
+    },
+    {
+      "text": "Section 4",
+      "label": "PROVISION",
+      "start_char": 24908,
+      "end_char": 24917
+    },
+    {
+      "text": "Section 2 (10)",
+      "label": "PROVISION",
+      "start_char": 24928,
+      "end_char": 24942
+    },
+    {
+      "text": "Sale of Goods Act, 1930",
+      "label": "STATUTE",
+      "start_char": 24950,
+      "end_char": 24973
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 25092,
+      "end_char": 25101
+    },
+    {
+      "text": "Section 29",
+      "label": "PROVISION",
+      "start_char": 25442,
+      "end_char": 25452
+    },
+    {
+      "text": "Contract Act, 1872",
+      "label": "STATUTE",
+      "start_char": 25460,
+      "end_char": 25478
+    },
+    {
+      "text": "J.B.Builders Vs A.Ramadas Rao2",
+      "label": "PRECEDENT",
+      "start_char": 25784,
+      "end_char": 25814
+    },
+    {
+      "text": "M.V.Pratap Kumar",
+      "label": "OTHER_PERSON",
+      "start_char": 25855,
+      "end_char": 25871
+    },
+    {
+      "text": "(2004) 9 SCC 204 2 (2011) 1 SCC 429",
+      "label": "PRECEDENT",
+      "start_char": 25903,
+      "end_char": 25938
+    },
+    {
+      "text": "J.B.Builders",
+      "label": "ORG",
+      "start_char": 26078,
+      "end_char": 26090
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 26100,
+      "end_char": 26113
+    },
+    {
+      "text": "Section 16 (C)",
+      "label": "PROVISION",
+      "start_char": 26125,
+      "end_char": 26139
+    },
+    {
+      "text": "Specific Relief Act",
+      "label": "STATUTE",
+      "start_char": 26147,
+      "end_char": 26166
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 26333,
+      "end_char": 26346
+    },
+    {
+      "text": "Order XXXIX Rules 1 and 2",
+      "label": "PROVISION",
+      "start_char": 26658,
+      "end_char": 26683
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 26687,
+      "end_char": 26690
+    },
+    {
+      "text": "Order XXXIX Rules 1 and 2",
+      "label": "PROVISION",
+      "start_char": 27430,
+      "end_char": 27455
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 27459,
+      "end_char": 27462
+    },
+    {
+      "text": "COS No.32 of 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 28171,
+      "end_char": 28188
+    },
+    {
+      "text": "Ranga Reddy",
+      "label": "OTHER_PERSON",
+      "start_char": 28265,
+      "end_char": 28276
+    },
+    {
+      "text": "L.B.Nagar",
+      "label": "GPE",
+      "start_char": 28280,
+      "end_char": 28289
+    },
+    {
+      "text": "P.NAVEEN RAO",
+      "label": "JUDGE",
+      "start_char": 28460,
+      "end_char": 28472
+    },
+    {
+      "text": "NAGESH BHEEMAPAKA",
+      "label": "JUDGE",
+      "start_char": 28504,
+      "end_char": 28521
+    },
+    {
+      "text": "12.06.2023",
+      "label": "DATE",
+      "start_char": 28530,
+      "end_char": 28540
+    },
+    {
+      "text": "NBK",
+      "label": "JUDGE",
+      "start_char": 28557,
+      "end_char": 28560
+    },
+    {
+      "text": "P.NAVEEN RAO",
+      "label": "JUDGE",
+      "start_char": 28583,
+      "end_char": 28595
+    },
+    {
+      "text": "NAGESH BHEEMAPAKA",
+      "label": "JUDGE",
+      "start_char": 28620,
+      "end_char": 28637
+    },
+    {
+      "text": "APPEAL NO.20 OF 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 28655,
+      "end_char": 28675
+    },
+    {
+      "text": "12.06.2023",
+      "label": "DATE",
+      "start_char": 28682,
+      "end_char": 28692
+    }
+  ],
+  "precedent_clusters": {
+    "M.S. Madhusoodhanan Vs Kerala Kaumudi (P) Ltd1": [
+      "M.S. Madhusoodhanan Vs Kerala Kaumudi (P) Ltd1",
+      "J.B.Builders Vs A.Ramadas Rao2"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 151",
+      "Code of Civil Procedure, 1908",
+      "Section 151",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order XXXIX Rules 1 and 2 read",
+      "CPC",
+      "Order XXXIX Rules 1 and 2 read",
+      "CPC"
+    ],
+    [
+      "Section 16 (c)",
+      "Specific Relief Act",
+      "Section 16 (c)",
+      "Specific Relief Act"
+    ],
+    [
+      "Section 2 (10)",
+      "Sale of Goods Act, 1930",
+      "Section 2 (10)",
+      "Sale of Goods Act, 1930"
+    ],
+    [
+      "Section 29",
+      "Contract Act, 1872",
+      "Section 29",
+      "Contract Act, 1872"
+    ],
+    [
+      "Section 16 (C)",
+      "Specific Relief Act",
+      "Section 16 (C)",
+      "Specific Relief Act"
+    ],
+    [
+      "Order XXXIX Rules 1 and 2",
+      "CPC",
+      "Order XXXIX Rules 1 and 2",
+      "CPC"
+    ],
+    [
+      "Order XXXIX Rules 1 and 2",
+      "CPC",
+      "Order XXXIX Rules 1 and 2",
+      "CPC"
+    ],
+    [
+      "clauses 4 and 5(a)",
+      "CPC",
+      "clauses 4 and 5(a)",
+      "CPC"
+    ],
+    [
+      "Schedule 2",
+      "CPC",
+      "Schedule 2",
+      "CPC"
+    ],
+    [
+      "Section 4",
+      "Specific Relief Act",
+      "Section 4",
+      "Specific Relief Act"
+    ],
+    [
+      "Section 9",
+      "Sale of Goods Act, 1930",
+      "Section 9",
+      "Sale of Goods Act, 1930"
+    ]
+  ],
+  "precedent_counts": {
+    "M.S. Madhusoodhanan Vs Kerala Kaumudi (P) Ltd1": 2
+  },
+  "provision_counts": {
+    "Section 151 of Code of Civil Procedure, 1908": 1,
+    "Order XXXIX Rules 1 and 2 read of CPC": 1,
+    "Section 16 (c) of Specific Relief Act": 1,
+    "Section 2 (10) of Sale of Goods Act, 1930": 1,
+    "Section 29 of Contract Act, 1872": 1,
+    "Section 16 (C) of Specific Relief Act": 1,
+    "Order XXXIX Rules 1 and 2 of CPC": 2,
+    "clauses 4 and 5(a) of CPC": 1,
+    "Schedule 2 of CPC": 1,
+    "Section 4 of Specific Relief Act": 1,
+    "Section 9 of Sale of Goods Act, 1930": 1
+  },
+  "statute_counts": {
+    "Code of Civil Procedure, 1908": 1,
+    "CPC": 5,
+    "Specific Relief Act": 3,
+    "Sale of Goods Act, 1930": 2,
+    "Contract Act, 1872": 1
+  }
+}

@@ -1,0 +1,784 @@
+{
+  "entities": [
+    {
+      "text": "Sikkim High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 17
+    },
+    {
+      "text": "Thomas Enterprises",
+      "label": "PETITIONER",
+      "start_char": 22,
+      "end_char": 40
+    },
+    {
+      "text": "Yuksom Breweries Ltd",
+      "label": "RESPONDENT",
+      "start_char": 56,
+      "end_char": 76
+    },
+    {
+      "text": "Bhaskar Raj Pradhan",
+      "label": "LAWYER",
+      "start_char": 105,
+      "end_char": 124
+    },
+    {
+      "text": "Meenakshi M. Rai",
+      "label": "JUDGE",
+      "start_char": 132,
+      "end_char": 148
+    },
+    {
+      "text": "Bhaskar Raj Pradhan",
+      "label": "LAWYER",
+      "start_char": 150,
+      "end_char": 169
+    },
+    {
+      "text": "High Court Of Sikkim: Gangtok",
+      "label": "COURT",
+      "start_char": 185,
+      "end_char": 214
+    },
+    {
+      "text": "Meenakshi Madan Rai",
+      "label": "JUDGE",
+      "start_char": 401,
+      "end_char": 420
+    },
+    {
+      "text": "Bhaskar Raj Pradhan",
+      "label": "JUDGE",
+      "start_char": 464,
+      "end_char": 483
+    },
+    {
+      "text": "Thomas Enterprises",
+      "label": "PETITIONER",
+      "start_char": 648,
+      "end_char": 666
+    },
+    {
+      "text": "N.L. Thomas",
+      "label": "PETITIONER",
+      "start_char": 796,
+      "end_char": 807
+    },
+    {
+      "text": "Yuksom Breweries Limited",
+      "label": "RESPONDENT",
+      "start_char": 1083,
+      "end_char": 1107
+    },
+    {
+      "text": "Anmole Prasad",
+      "label": "LAWYER",
+      "start_char": 1437,
+      "end_char": 1450
+    },
+    {
+      "text": "Sagar\n             Chettri",
+      "label": "LAWYER",
+      "start_char": 1477,
+      "end_char": 1503
+    },
+    {
+      "text": "Jorgay Namka",
+      "label": "LAWYER",
+      "start_char": 1550,
+      "end_char": 1562
+    },
+    {
+      "text": "Bhaskar Raj Pradhan",
+      "label": "JUDGE",
+      "start_char": 1810,
+      "end_char": 1829
+    },
+    {
+      "text": "05.10.2018",
+      "label": "DATE",
+      "start_char": 1869,
+      "end_char": 1879
+    },
+    {
+      "text": "30.07.2018",
+      "label": "DATE",
+      "start_char": 1918,
+      "end_char": 1928
+    },
+    {
+      "text": "Thomas Enterprises",
+      "label": "ORG",
+      "start_char": 1956,
+      "end_char": 1974
+    },
+    {
+      "text": "Yuksom Breweries Ltd.",
+      "label": "ORG",
+      "start_char": 1990,
+      "end_char": 2011
+    },
+    {
+      "text": "District Judge, South Sikkim, at Namchi",
+      "label": "COURT",
+      "start_char": 2042,
+      "end_char": 2081
+    },
+    {
+      "text": "Money Suit No.3 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 2114,
+      "end_char": 2137
+    },
+    {
+      "text": "25.10.2018",
+      "label": "DATE",
+      "start_char": 2217,
+      "end_char": 2227
+    },
+    {
+      "text": "22.10.2021",
+      "label": "DATE",
+      "start_char": 2233,
+      "end_char": 2243
+    },
+    {
+      "text": "Commercial Courts Act, 2015 (Commercial Act)",
+      "label": "STATUTE",
+      "start_char": 2395,
+      "end_char": 2439
+    },
+    {
+      "text": "Circular No.06/HCS",
+      "label": "CASE_NUMBER",
+      "start_char": 2453,
+      "end_char": 2471
+    },
+    {
+      "text": "27.04.2021",
+      "label": "DATE",
+      "start_char": 2484,
+      "end_char": 2494
+    },
+    {
+      "text": "22.10.2021",
+      "label": "DATE",
+      "start_char": 2610,
+      "end_char": 2620
+    },
+    {
+      "text": "Circular No.6/HCS",
+      "label": "CASE_NUMBER",
+      "start_char": 2669,
+      "end_char": 2686
+    },
+    {
+      "text": "27.04.2021",
+      "label": "DATE",
+      "start_char": 2699,
+      "end_char": 2709
+    },
+    {
+      "text": "Anmole Prasad",
+      "label": "LAWYER",
+      "start_char": 2809,
+      "end_char": 2822
+    },
+    {
+      "text": "Jorgay Namka",
+      "label": "LAWYER",
+      "start_char": 2874,
+      "end_char": 2886
+    },
+    {
+      "text": "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 3222,
+      "end_char": 3319
+    },
+    {
+      "text": "Thomas Enterprises",
+      "label": "ORG",
+      "start_char": 3329,
+      "end_char": 3347
+    },
+    {
+      "text": "Yuksom Breweries Ltd.",
+      "label": "ORG",
+      "start_char": 3363,
+      "end_char": 3384
+    },
+    {
+      "text": "23.10.2015",
+      "label": "DATE",
+      "start_char": 3399,
+      "end_char": 3409
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 3465,
+      "end_char": 3492
+    },
+    {
+      "text": "Section 2 (1) (c)",
+      "label": "PROVISION",
+      "start_char": 3506,
+      "end_char": 3523
+    },
+    {
+      "text": "01.04.2014",
+      "label": "DATE",
+      "start_char": 3815,
+      "end_char": 3825
+    },
+    {
+      "text": "North Bengal",
+      "label": "GPE",
+      "start_char": 3973,
+      "end_char": 3985
+    },
+    {
+      "text": "Vide Notification No.27/HCS/Judl.",
+      "label": "CASE_NUMBER",
+      "start_char": 4238,
+      "end_char": 4271
+    },
+    {
+      "text": "20.08.2016",
+      "label": "DATE",
+      "start_char": 4278,
+      "end_char": 4288
+    },
+    {
+      "text": "Section 5(1)",
+      "label": "PROVISION",
+      "start_char": 4357,
+      "end_char": 4369
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 4570,
+      "end_char": 4580
+    },
+    {
+      "text": "Government of Sikkim",
+      "label": "ORG",
+      "start_char": 4600,
+      "end_char": 4620
+    },
+    {
+      "text": "06.10.2016",
+      "label": "DATE",
+      "start_char": 4661,
+      "end_char": 4671
+    },
+    {
+      "text": "Thomas Enterprises",
+      "label": "ORG",
+      "start_char": 4702,
+      "end_char": 4720
+    },
+    {
+      "text": "Yuksom Breweries Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 4736,
+      "end_char": 4757
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 4771,
+      "end_char": 4780
+    },
+    {
+      "text": "District & Sessions Court",
+      "label": "COURT",
+      "start_char": 4807,
+      "end_char": 4832
+    },
+    {
+      "text": "Section 6",
+      "label": "PROVISION",
+      "start_char": 5085,
+      "end_char": 5094
+    },
+    {
+      "text": "Section 2 (1) (i)",
+      "label": "PROVISION",
+      "start_char": 5371,
+      "end_char": 5388
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 5565,
+      "end_char": 5575
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 5671,
+      "end_char": 5689
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 5691,
+      "end_char": 5701
+    },
+    {
+      "text": "Section 12-A",
+      "label": "PROVISION",
+      "start_char": 5792,
+      "end_char": 5804
+    },
+    {
+      "text": "Thomas Enterprises",
+      "label": "ORG",
+      "start_char": 6097,
+      "end_char": 6115
+    },
+    {
+      "text": "Yuksom Breweries Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 6131,
+      "end_char": 6152
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 6185,
+      "end_char": 6203
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 6209,
+      "end_char": 6227
+    },
+    {
+      "text": "Legal Services Authorities Act, 1987 (LSA Act)",
+      "label": "STATUTE",
+      "start_char": 6298,
+      "end_char": 6344
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 6424,
+      "end_char": 6442
+    },
+    {
+      "text": "sub-section (4) of Section 30",
+      "label": "PROVISION",
+      "start_char": 6875,
+      "end_char": 6904
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 6912,
+      "end_char": 6950
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 6956,
+      "end_char": 6971
+    },
+    {
+      "text": "3rd July, 2018",
+      "label": "DATE",
+      "start_char": 7010,
+      "end_char": 7024
+    },
+    {
+      "text": "Section 12-A",
+      "label": "PROVISION",
+      "start_char": 7092,
+      "end_char": 7104
+    },
+    {
+      "text": "LSA Act",
+      "label": "STATUTE",
+      "start_char": 7197,
+      "end_char": 7204
+    },
+    {
+      "text": "Chapter III A",
+      "label": "PROVISION",
+      "start_char": 7272,
+      "end_char": 7285
+    },
+    {
+      "text": "Section 15(2)",
+      "label": "PROVISION",
+      "start_char": 7302,
+      "end_char": 7315
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 7402,
+      "end_char": 7417
+    },
+    {
+      "text": "Thomas Enterprises",
+      "label": "ORG",
+      "start_char": 7549,
+      "end_char": 7567
+    },
+    {
+      "text": "Yuksom Breweries Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 7583,
+      "end_char": 7604
+    },
+    {
+      "text": "Section 15(2)",
+      "label": "PROVISION",
+      "start_char": 7937,
+      "end_char": 7950
+    },
+    {
+      "text": "06.10.2016",
+      "label": "DATE",
+      "start_char": 7965,
+      "end_char": 7975
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 8396,
+      "end_char": 8425
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 8433,
+      "end_char": 8443
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 8487,
+      "end_char": 8490
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 8496,
+      "end_char": 8499
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 8655,
+      "end_char": 8658
+    },
+    {
+      "text": "Section 16(2)",
+      "label": "PROVISION",
+      "start_char": 8660,
+      "end_char": 8673
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 8744,
+      "end_char": 8747
+    },
+    {
+      "text": "Section 16(3)",
+      "label": "PROVISION",
+      "start_char": 8831,
+      "end_char": 8844
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 8948,
+      "end_char": 8951
+    },
+    {
+      "text": "Thomas Enterprises",
+      "label": "ORG",
+      "start_char": 8984,
+      "end_char": 9002
+    },
+    {
+      "text": "Yuksom Breweries Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 9018,
+      "end_char": 9039
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 9079,
+      "end_char": 9082
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 9128,
+      "end_char": 9131
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 9174,
+      "end_char": 9184
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 9337,
+      "end_char": 9347
+    },
+    {
+      "text": "Order XLI, Rule 1 and 2",
+      "label": "PROVISION",
+      "start_char": 9369,
+      "end_char": 9392
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 9396,
+      "end_char": 9399
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 9506,
+      "end_char": 9515
+    },
+    {
+      "text": "20.08.2016",
+      "label": "DATE",
+      "start_char": 9566,
+      "end_char": 9576
+    },
+    {
+      "text": "Section 15(2)",
+      "label": "PROVISION",
+      "start_char": 9643,
+      "end_char": 9656
+    },
+    {
+      "text": "Sikkim",
+      "label": "GPE",
+      "start_char": 9719,
+      "end_char": 9725
+    },
+    {
+      "text": "30.07.2018",
+      "label": "DATE",
+      "start_char": 10297,
+      "end_char": 10307
+    },
+    {
+      "text": "Thomas Enterprises",
+      "label": "ORG",
+      "start_char": 10393,
+      "end_char": 10411
+    },
+    {
+      "text": "Yuksom Breweries Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 10427,
+      "end_char": 10448
+    },
+    {
+      "text": "Bhaskar Raj Pradhan",
+      "label": "JUDGE",
+      "start_char": 10676,
+      "end_char": 10695
+    },
+    {
+      "text": "Meenakshi M. Rai",
+      "label": "JUDGE",
+      "start_char": 10726,
+      "end_char": 10742
+    },
+    {
+      "text": "01.11.2021",
+      "label": "DATE",
+      "start_char": 10836,
+      "end_char": 10846
+    },
+    {
+      "text": "01.11.2021",
+      "label": "DATE",
+      "start_char": 10880,
+      "end_char": 10890
+    }
+  ],
+  "precedent_clusters": {},
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "sub-section (4) of Section 30",
+      "Arbitration and Conciliation Act, 1996",
+      "sub-section (4) of Section 30",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 12-A",
+      "LSA Act",
+      "Section 12-A",
+      "LSA Act"
+    ],
+    [
+      "Section 15(2)",
+      "Arbitration Act",
+      "Section 15(2)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 16",
+      "CPC",
+      "Section 16",
+      "CPC"
+    ],
+    [
+      "Section 16(2)",
+      "CPC",
+      "Section 16(2)",
+      "CPC"
+    ],
+    [
+      "Section 16(3)",
+      "CPC",
+      "Section 16(3)",
+      "CPC"
+    ],
+    [
+      "Order XLI, Rule 1 and 2",
+      "CPC",
+      "Order XLI, Rule 1 and 2",
+      "CPC"
+    ],
+    [
+      "Section 2 (1) (c)",
+      "CPC",
+      "Section 2 (1) (c)",
+      "CPC"
+    ],
+    [
+      "Section 2 (1) (i)",
+      "CPC",
+      "Section 2 (1) (i)",
+      "CPC"
+    ],
+    [
+      "Section 12",
+      "Commercial Courts Act, 2015",
+      "Section 12",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 12-A",
+      "LSA Act",
+      "Section 12-A",
+      "LSA Act"
+    ],
+    [
+      "Section 15(2)",
+      "Arbitration Act",
+      "Section 15(2)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act, 2015",
+      "Section 13",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act, 2015",
+      "Section 13",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 5",
+      "Commercial Courts Act, 2015",
+      "Section 5",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 15(2)",
+      "Arbitration Act",
+      "Section 15(2)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 5(1)",
+      "Commercial Courts Act, 2015",
+      "Section 5(1)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act, 2015",
+      "Section 13",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 3",
+      "Commercial Courts Act, 2015",
+      "Section 3",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 6",
+      "Commercial Courts Act, 2015",
+      "Section 6",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 12",
+      "Commercial Courts Act, 2015",
+      "Section 12",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Chapter III A",
+      "LSA Act",
+      "Chapter III A",
+      "LSA Act"
+    ]
+  ],
+  "precedent_counts": {},
+  "provision_counts": {
+    "sub-section (4) of Section 30 of Arbitration and Conciliation Act, 1996": 1,
+    "Section 12-A of LSA Act": 2,
+    "Section 15(2) of Arbitration Act": 3,
+    "Section 16 of CPC": 1,
+    "Section 16(2) of CPC": 1,
+    "Section 16(3) of CPC": 1,
+    "Order XLI, Rule 1 and 2 of CPC": 1,
+    "Section 2 (1) (c) of CPC": 1,
+    "Section 2 (1) (i) of CPC": 1,
+    "Section 12 of Commercial Courts Act, 2015": 2,
+    "Section 13 of Commercial Courts Act, 2015": 3,
+    "Section 5 of Commercial Courts Act, 2015": 1,
+    "Section 5(1) of Commercial Courts Act, 2015": 1,
+    "Section 3 of Commercial Courts Act, 2015": 1,
+    "Section 6 of Commercial Courts Act, 2015": 1,
+    "Chapter III A of LSA Act": 1
+  },
+  "statute_counts": {
+    "Arbitration and Conciliation Act, 1996": 1,
+    "LSA Act": 3,
+    "Arbitration Act": 3,
+    "CPC": 6,
+    "Commercial Courts Act, 2015": 9
+  }
+}

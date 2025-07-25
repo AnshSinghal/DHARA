@@ -1,0 +1,1522 @@
+{
+  "entities": [
+    {
+      "text": "Aggarwal Timbers Pvt Ltd",
+      "label": "PETITIONER",
+      "start_char": 21,
+      "end_char": 45
+    },
+    {
+      "text": "Amrose Singapore Pte. Limited",
+      "label": "RESPONDENT",
+      "start_char": 49,
+      "end_char": 78
+    },
+    {
+      "text": "Vibhu Bakhru",
+      "label": "LAWYER",
+      "start_char": 115,
+      "end_char": 127
+    },
+    {
+      "text": "Vibhu Bakhru",
+      "label": "JUDGE",
+      "start_char": 135,
+      "end_char": 147
+    },
+    {
+      "text": "High Court Of Delhi At New Delhi",
+      "label": "COURT",
+      "start_char": 186,
+      "end_char": 218
+    },
+    {
+      "text": "Aggarwal Timbers Pvt. Ltd.",
+      "label": "PETITIONER",
+      "start_char": 475,
+      "end_char": 501
+    },
+    {
+      "text": "Amrose Singapore Pte. Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 631,
+      "end_char": 657
+    },
+    {
+      "text": "Ashish Dholakia",
+      "label": "LAWYER",
+      "start_char": 819,
+      "end_char": 834
+    },
+    {
+      "text": "Dheeraj Gupta",
+      "label": "LAWYER",
+      "start_char": 910,
+      "end_char": 923
+    },
+    {
+      "text": "Arpit Kumar",
+      "label": "LAWYER",
+      "start_char": 931,
+      "end_char": 942
+    },
+    {
+      "text": "Gautam Awasthi",
+      "label": "LAWYER",
+      "start_char": 1066,
+      "end_char": 1080
+    },
+    {
+      "text": "Ayush Choudhary",
+      "label": "LAWYER",
+      "start_char": 1085,
+      "end_char": 1100
+    },
+    {
+      "text": "Devansh Yadav",
+      "label": "LAWYER",
+      "start_char": 1156,
+      "end_char": 1169
+    },
+    {
+      "text": "Sahil Sharma",
+      "label": "LAWYER",
+      "start_char": 1177,
+      "end_char": 1189
+    },
+    {
+      "text": "Vibhu Bakhru",
+      "label": "JUDGE",
+      "start_char": 1349,
+      "end_char": 1361
+    },
+    {
+      "text": "Amit Mahajan",
+      "label": "JUDGE",
+      "start_char": 1407,
+      "end_char": 1419
+    },
+    {
+      "text": "VIBHU BAKHRU",
+      "label": "JUDGE",
+      "start_char": 1482,
+      "end_char": 1494
+    },
+    {
+      "text": "16.08.2023",
+      "label": "DATE",
+      "start_char": 1577,
+      "end_char": 1587
+    },
+    {
+      "text": "Order XXXIX, Rules 1 and 2",
+      "label": "PROVISION",
+      "start_char": 1713,
+      "end_char": 1739
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 1747,
+      "end_char": 1776
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 1793,
+      "end_char": 1796
+    },
+    {
+      "text": "CS (COMM) 388/2020",
+      "label": "CASE_NUMBER",
+      "start_char": 1856,
+      "end_char": 1874
+    },
+    {
+      "text": "Agarwalla Timbers Private Limited v. Amrose Singapore Pte Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 1890,
+      "end_char": 1952
+    },
+    {
+      "text": "Amrose Singapore Pte",
+      "label": "RESPONDENT",
+      "start_char": 2184,
+      "end_char": 2204
+    },
+    {
+      "text": "09.03.2020",
+      "label": "DATE",
+      "start_char": 2335,
+      "end_char": 2345
+    },
+    {
+      "text": "06.03.2020",
+      "label": "DATE",
+      "start_char": 2485,
+      "end_char": 2495
+    },
+    {
+      "text": "Union Bank of India",
+      "label": "ORG",
+      "start_char": 2674,
+      "end_char": 2693
+    },
+    {
+      "text": "ASPL",
+      "label": "ORG",
+      "start_char": 2719,
+      "end_char": 2723
+    },
+    {
+      "text": "Indian Bank",
+      "label": "ORG",
+      "start_char": 2765,
+      "end_char": 2776
+    },
+    {
+      "text": "ASPL",
+      "label": "ORG",
+      "start_char": 2791,
+      "end_char": 2795
+    },
+    {
+      "text": "Indian Bank",
+      "label": "ORG",
+      "start_char": 2804,
+      "end_char": 2815
+    },
+    {
+      "text": "Union Bank of India",
+      "label": "ORG",
+      "start_char": 2864,
+      "end_char": 2883
+    },
+    {
+      "text": "Union Bank of India",
+      "label": "ORG",
+      "start_char": 3085,
+      "end_char": 3104
+    },
+    {
+      "text": "Indian Bank",
+      "label": "ORG",
+      "start_char": 3136,
+      "end_char": 3147
+    },
+    {
+      "text": "New Zealand",
+      "label": "GPE",
+      "start_char": 3268,
+      "end_char": 3279
+    },
+    {
+      "text": "ASPL",
+      "label": "ORG",
+      "start_char": 3312,
+      "end_char": 3316
+    },
+    {
+      "text": "Union Bank of India",
+      "label": "ORG",
+      "start_char": 3440,
+      "end_char": 3459
+    },
+    {
+      "text": "ASPL",
+      "label": "ORG",
+      "start_char": 3545,
+      "end_char": 3549
+    },
+    {
+      "text": "Union Bank of India",
+      "label": "ORG",
+      "start_char": 3725,
+      "end_char": 3744
+    },
+    {
+      "text": "09.03.2020",
+      "label": "DATE",
+      "start_char": 3794,
+      "end_char": 3804
+    },
+    {
+      "text": "Indian Bank",
+      "label": "ORG",
+      "start_char": 3810,
+      "end_char": 3821
+    },
+    {
+      "text": "Union Bank of India",
+      "label": "ORG",
+      "start_char": 3927,
+      "end_char": 3946
+    },
+    {
+      "text": "09.03.2020",
+      "label": "DATE",
+      "start_char": 3976,
+      "end_char": 3986
+    },
+    {
+      "text": "09.03.2020",
+      "label": "DATE",
+      "start_char": 4045,
+      "end_char": 4055
+    },
+    {
+      "text": "09.03.2020",
+      "label": "DATE",
+      "start_char": 4103,
+      "end_char": 4113
+    },
+    {
+      "text": "09.03.2020",
+      "label": "DATE",
+      "start_char": 4133,
+      "end_char": 4143
+    },
+    {
+      "text": "09.03.2020",
+      "label": "DATE",
+      "start_char": 4175,
+      "end_char": 4185
+    },
+    {
+      "text": "09.03.2020",
+      "label": "DATE",
+      "start_char": 4221,
+      "end_char": 4231
+    },
+    {
+      "text": "09.03.2020",
+      "label": "DATE",
+      "start_char": 4260,
+      "end_char": 4270
+    },
+    {
+      "text": "Tauranga",
+      "label": "GPE",
+      "start_char": 4303,
+      "end_char": 4311
+    },
+    {
+      "text": "Marsden Point",
+      "label": "GPE",
+      "start_char": 4316,
+      "end_char": 4329
+    },
+    {
+      "text": "New Zealand",
+      "label": "GPE",
+      "start_char": 4331,
+      "end_char": 4342
+    },
+    {
+      "text": "Singapore",
+      "label": "GPE",
+      "start_char": 4485,
+      "end_char": 4494
+    },
+    {
+      "text": "ASPL",
+      "label": "ORG",
+      "start_char": 4516,
+      "end_char": 4520
+    },
+    {
+      "text": "Asia",
+      "label": "OTHER_PERSON",
+      "start_char": 4552,
+      "end_char": 4556
+    },
+    {
+      "text": "Lirong",
+      "label": "OTHER_PERSON",
+      "start_char": 4576,
+      "end_char": 4582
+    },
+    {
+      "text": "Union Bank of India",
+      "label": "ORG",
+      "start_char": 4632,
+      "end_char": 4651
+    },
+    {
+      "text": "17.03.2020",
+      "label": "DATE",
+      "start_char": 4655,
+      "end_char": 4665
+    },
+    {
+      "text": "Indian Bank",
+      "label": "ORG",
+      "start_char": 4729,
+      "end_char": 4740
+    },
+    {
+      "text": "11.03.2020",
+      "label": "DATE",
+      "start_char": 4749,
+      "end_char": 4759
+    },
+    {
+      "text": "World Health Organisation",
+      "label": "ORG",
+      "start_char": 4813,
+      "end_char": 4838
+    },
+    {
+      "text": "24.03.2020",
+      "label": "DATE",
+      "start_char": 4854,
+      "end_char": 4864
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 4902,
+      "end_char": 4907
+    },
+    {
+      "text": "National Disaster Management Act, 2005",
+      "label": "STATUTE",
+      "start_char": 4936,
+      "end_char": 4974
+    },
+    {
+      "text": "01.04.2020",
+      "label": "DATE",
+      "start_char": 5018,
+      "end_char": 5028
+    },
+    {
+      "text": "Praveen Bejoy",
+      "label": "OTHER_PERSON",
+      "start_char": 5034,
+      "end_char": 5047
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 5151,
+      "end_char": 5156
+    },
+    {
+      "text": "China",
+      "label": "GPE",
+      "start_char": 5205,
+      "end_char": 5210
+    },
+    {
+      "text": "Kandla Port",
+      "label": "GPE",
+      "start_char": 5342,
+      "end_char": 5353
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 5355,
+      "end_char": 5360
+    },
+    {
+      "text": "17.04.2020",
+      "label": "DATE",
+      "start_char": 5612,
+      "end_char": 5622
+    },
+    {
+      "text": "Union Bank of India",
+      "label": "ORG",
+      "start_char": 5820,
+      "end_char": 5839
+    },
+    {
+      "text": "Indian Bank",
+      "label": "ORG",
+      "start_char": 5868,
+      "end_char": 5879
+    },
+    {
+      "text": "22.04.2020",
+      "label": "DATE",
+      "start_char": 5883,
+      "end_char": 5893
+    },
+    {
+      "text": "17.03.2020",
+      "label": "DATE",
+      "start_char": 5966,
+      "end_char": 5976
+    },
+    {
+      "text": "Indian Bank",
+      "label": "ORG",
+      "start_char": 6004,
+      "end_char": 6015
+    },
+    {
+      "text": "Union Bank of India",
+      "label": "ORG",
+      "start_char": 6057,
+      "end_char": 6076
+    },
+    {
+      "text": "04.05.2020",
+      "label": "DATE",
+      "start_char": 6102,
+      "end_char": 6112
+    },
+    {
+      "text": "17.03.2020",
+      "label": "DATE",
+      "start_char": 6187,
+      "end_char": 6197
+    },
+    {
+      "text": "01.04.2020",
+      "label": "DATE",
+      "start_char": 6288,
+      "end_char": 6298
+    },
+    {
+      "text": "03.04.2020",
+      "label": "DATE",
+      "start_char": 6318,
+      "end_char": 6328
+    },
+    {
+      "text": "Praveen Bejoy",
+      "label": "OTHER_PERSON",
+      "start_char": 6346,
+      "end_char": 6359
+    },
+    {
+      "text": "Union Bank of India",
+      "label": "ORG",
+      "start_char": 6413,
+      "end_char": 6432
+    },
+    {
+      "text": "Praveen Bejoy",
+      "label": "OTHER_PERSON",
+      "start_char": 6459,
+      "end_char": 6472
+    },
+    {
+      "text": "Indian Bank",
+      "label": "ORG",
+      "start_char": 6484,
+      "end_char": 6495
+    },
+    {
+      "text": "Union Bank of India",
+      "label": "ORG",
+      "start_char": 6521,
+      "end_char": 6540
+    },
+    {
+      "text": "03.04.2020",
+      "label": "DATE",
+      "start_char": 6641,
+      "end_char": 6651
+    },
+    {
+      "text": "08.04.2020",
+      "label": "DATE",
+      "start_char": 6664,
+      "end_char": 6674
+    },
+    {
+      "text": "TPT Forests",
+      "label": "ORG",
+      "start_char": 6728,
+      "end_char": 6739
+    },
+    {
+      "text": "ASPL",
+      "label": "ORG",
+      "start_char": 6741,
+      "end_char": 6745
+    },
+    {
+      "text": "TPT Forests",
+      "label": "ORG",
+      "start_char": 6761,
+      "end_char": 6772
+    },
+    {
+      "text": "07.05.2020",
+      "label": "DATE",
+      "start_char": 6780,
+      "end_char": 6790
+    },
+    {
+      "text": "Kandla Port",
+      "label": "GPE",
+      "start_char": 6922,
+      "end_char": 6933
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 6935,
+      "end_char": 6940
+    },
+    {
+      "text": "07.05.2020",
+      "label": "DATE",
+      "start_char": 6976,
+      "end_char": 6986
+    },
+    {
+      "text": "Wilson Surveyors and Adjusters Pvt",
+      "label": "ORG",
+      "start_char": 7017,
+      "end_char": 7051
+    },
+    {
+      "text": "Vero Marine",
+      "label": "ORG",
+      "start_char": 7089,
+      "end_char": 7100
+    },
+    {
+      "text": "TPT Forests",
+      "label": "ORG",
+      "start_char": 7415,
+      "end_char": 7426
+    },
+    {
+      "text": "11.05.2020",
+      "label": "DATE",
+      "start_char": 7440,
+      "end_char": 7450
+    },
+    {
+      "text": "22.03.2020",
+      "label": "DATE",
+      "start_char": 7521,
+      "end_char": 7531
+    },
+    {
+      "text": "12.05.2020",
+      "label": "DATE",
+      "start_char": 7576,
+      "end_char": 7586
+    },
+    {
+      "text": "Praveen Bejoy",
+      "label": "OTHER_PERSON",
+      "start_char": 7592,
+      "end_char": 7605
+    },
+    {
+      "text": "Indian Bank",
+      "label": "ORG",
+      "start_char": 7686,
+      "end_char": 7697
+    },
+    {
+      "text": "TPT Forests",
+      "label": "ORG",
+      "start_char": 7809,
+      "end_char": 7820
+    },
+    {
+      "text": "13.05.2020",
+      "label": "DATE",
+      "start_char": 7824,
+      "end_char": 7834
+    },
+    {
+      "text": "09.06.2020",
+      "label": "DATE",
+      "start_char": 7934,
+      "end_char": 7944
+    },
+    {
+      "text": "TPT Forests",
+      "label": "ORG",
+      "start_char": 7968,
+      "end_char": 7979
+    },
+    {
+      "text": "ASPL",
+      "label": "ORG",
+      "start_char": 7993,
+      "end_char": 7997
+    },
+    {
+      "text": "Indian Bank",
+      "label": "ORG",
+      "start_char": 8022,
+      "end_char": 8033
+    },
+    {
+      "text": "Union Bank of India",
+      "label": "ORG",
+      "start_char": 8058,
+      "end_char": 8077
+    },
+    {
+      "text": "Indian Bank",
+      "label": "ORG",
+      "start_char": 8139,
+      "end_char": 8150
+    },
+    {
+      "text": "Union Bank of India",
+      "label": "ORG",
+      "start_char": 8189,
+      "end_char": 8208
+    },
+    {
+      "text": "29.07.2020",
+      "label": "DATE",
+      "start_char": 8343,
+      "end_char": 8353
+    },
+    {
+      "text": "TPT Forests",
+      "label": "ORG",
+      "start_char": 8359,
+      "end_char": 8370
+    },
+    {
+      "text": "TPT Forests",
+      "label": "ORG",
+      "start_char": 8487,
+      "end_char": 8498
+    },
+    {
+      "text": "09.03.2020",
+      "label": "DATE",
+      "start_char": 8548,
+      "end_char": 8558
+    },
+    {
+      "text": "19.05.2020",
+      "label": "DATE",
+      "start_char": 8687,
+      "end_char": 8697
+    },
+    {
+      "text": "Wilson Surveyors and Adjusters Pvt. Ltd.",
+      "label": "ORG",
+      "start_char": 8703,
+      "end_char": 8743
+    },
+    {
+      "text": "07.05.2020",
+      "label": "DATE",
+      "start_char": 8774,
+      "end_char": 8784
+    },
+    {
+      "text": "ASPL",
+      "label": "ORG",
+      "start_char": 9131,
+      "end_char": 9135
+    },
+    {
+      "text": "21.05.2020",
+      "label": "DATE",
+      "start_char": 9178,
+      "end_char": 9188
+    },
+    {
+      "text": "Chaudhary Timbers Private Limited",
+      "label": "ORG",
+      "start_char": 9208,
+      "end_char": 9241
+    },
+    {
+      "text": "International Maritime Bureau (IMB)",
+      "label": "ORG",
+      "start_char": 9257,
+      "end_char": 9292
+    },
+    {
+      "text": "ASPL",
+      "label": "ORG",
+      "start_char": 9419,
+      "end_char": 9423
+    },
+    {
+      "text": "Chaudhary Timbers Private Limited",
+      "label": "ORG",
+      "start_char": 9433,
+      "end_char": 9466
+    },
+    {
+      "text": "Chaudhary Timbers Private Limited",
+      "label": "ORG",
+      "start_char": 9505,
+      "end_char": 9538
+    },
+    {
+      "text": "Chaudhary Timbers Private Limited",
+      "label": "ORG",
+      "start_char": 9601,
+      "end_char": 9634
+    },
+    {
+      "text": "Vero Marine",
+      "label": "ORG",
+      "start_char": 9679,
+      "end_char": 9690
+    },
+    {
+      "text": "ASPL",
+      "label": "ORG",
+      "start_char": 9731,
+      "end_char": 9735
+    },
+    {
+      "text": "Auckland Business Chamber",
+      "label": "ORG",
+      "start_char": 9771,
+      "end_char": 9796
+    },
+    {
+      "text": "New Zealand Chambers of Commerce",
+      "label": "ORG",
+      "start_char": 9876,
+      "end_char": 9908
+    },
+    {
+      "text": "Utkal Lumbers Private Limited",
+      "label": "ORG",
+      "start_char": 10024,
+      "end_char": 10053
+    },
+    {
+      "text": "Vero Marine",
+      "label": "ORG",
+      "start_char": 10070,
+      "end_char": 10081
+    },
+    {
+      "text": "Asia Maritime Pacific Limited",
+      "label": "ORG",
+      "start_char": 10243,
+      "end_char": 10272
+    },
+    {
+      "text": "Jyoti Timbers",
+      "label": "ORG",
+      "start_char": 10341,
+      "end_char": 10354
+    },
+    {
+      "text": "FAO (COMM) 179/2023",
+      "label": "CASE_NUMBER",
+      "start_char": 10370,
+      "end_char": 10389
+    },
+    {
+      "text": "ASPL",
+      "label": "ORG",
+      "start_char": 10445,
+      "end_char": 10449
+    },
+    {
+      "text": "18.07.2020",
+      "label": "DATE",
+      "start_char": 10534,
+      "end_char": 10544
+    },
+    {
+      "text": "Arnav Shipping Private Limited",
+      "label": "ORG",
+      "start_char": 10546,
+      "end_char": 10576
+    },
+    {
+      "text": "Asia Maritime Pacific Limited",
+      "label": "ORG",
+      "start_char": 10609,
+      "end_char": 10638
+    },
+    {
+      "text": "ASPL",
+      "label": "ORG",
+      "start_char": 10764,
+      "end_char": 10768
+    },
+    {
+      "text": "Indian Bank",
+      "label": "ORG",
+      "start_char": 10971,
+      "end_char": 10982
+    },
+    {
+      "text": "ASPL",
+      "label": "ORG",
+      "start_char": 11065,
+      "end_char": 11069
+    },
+    {
+      "text": "Indian Bank",
+      "label": "ORG",
+      "start_char": 11078,
+      "end_char": 11089
+    },
+    {
+      "text": "Indian Bank",
+      "label": "ORG",
+      "start_char": 11299,
+      "end_char": 11310
+    },
+    {
+      "text": "Order VII Rule 11",
+      "label": "PROVISION",
+      "start_char": 11317,
+      "end_char": 11334
+    },
+    {
+      "text": "12.10.2021",
+      "label": "DATE",
+      "start_char": 11411,
+      "end_char": 11421
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 11466,
+      "end_char": 11477
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 11485,
+      "end_char": 11506
+    },
+    {
+      "text": "Indian Bank",
+      "label": "ORG",
+      "start_char": 11554,
+      "end_char": 11565
+    },
+    {
+      "text": "ORDER 23",
+      "label": "PROVISION",
+      "start_char": 11618,
+      "end_char": 11626
+    },
+    {
+      "text": "ASPL",
+      "label": "ORG",
+      "start_char": 11704,
+      "end_char": 11708
+    },
+    {
+      "text": "Union Bank of India",
+      "label": "ORG",
+      "start_char": 11716,
+      "end_char": 11735
+    },
+    {
+      "text": "Indian Bank",
+      "label": "ORG",
+      "start_char": 11748,
+      "end_char": 11759
+    },
+    {
+      "text": "Union Bank of India",
+      "label": "ORG",
+      "start_char": 11781,
+      "end_char": 11800
+    },
+    {
+      "text": "Indian Bank",
+      "label": "ORG",
+      "start_char": 11867,
+      "end_char": 11878
+    },
+    {
+      "text": "Article 14 and Article 15",
+      "label": "PROVISION",
+      "start_char": 11926,
+      "end_char": 11951
+    },
+    {
+      "text": "Uniform Customs and Practice",
+      "label": "STATUTE",
+      "start_char": 11959,
+      "end_char": 11987
+    },
+    {
+      "text": "International Chamber of Commerce",
+      "label": "ORG",
+      "start_char": 12019,
+      "end_char": 12052
+    },
+    {
+      "text": "01.07.2007",
+      "label": "DATE",
+      "start_char": 12077,
+      "end_char": 12087
+    },
+    {
+      "text": "Indian Bank",
+      "label": "ORG",
+      "start_char": 12171,
+      "end_char": 12182
+    },
+    {
+      "text": "Union Bank of India",
+      "label": "ORG",
+      "start_char": 12428,
+      "end_char": 12447
+    },
+    {
+      "text": "Indian Bank",
+      "label": "ORG",
+      "start_char": 12682,
+      "end_char": 12693
+    },
+    {
+      "text": "Union Bank of India",
+      "label": "ORG",
+      "start_char": 13080,
+      "end_char": 13099
+    },
+    {
+      "text": "ASPL",
+      "label": "ORG",
+      "start_char": 13209,
+      "end_char": 13213
+    },
+    {
+      "text": "Indian Bank",
+      "label": "ORG",
+      "start_char": 13305,
+      "end_char": 13316
+    },
+    {
+      "text": "Dholakia",
+      "label": "LAWYER",
+      "start_char": 13510,
+      "end_char": 13518
+    },
+    {
+      "text": "Indian Bank",
+      "label": "ORG",
+      "start_char": 13588,
+      "end_char": 13599
+    },
+    {
+      "text": "UCP-600",
+      "label": "PROVISION",
+      "start_char": 13942,
+      "end_char": 13949
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 14063,
+      "end_char": 14072
+    },
+    {
+      "text": "Negotiable Instrument Act, 1881",
+      "label": "STATUTE",
+      "start_char": 14080,
+      "end_char": 14111
+    },
+    {
+      "text": "Union Bank of India",
+      "label": "ORG",
+      "start_char": 14419,
+      "end_char": 14438
+    },
+    {
+      "text": "Indian Bank",
+      "label": "ORG",
+      "start_char": 14446,
+      "end_char": 14457
+    },
+    {
+      "text": "Union Bank of India",
+      "label": "ORG",
+      "start_char": 14768,
+      "end_char": 14787
+    },
+    {
+      "text": "ASPL",
+      "label": "ORG",
+      "start_char": 14858,
+      "end_char": 14862
+    },
+    {
+      "text": "China",
+      "label": "GPE",
+      "start_char": 15147,
+      "end_char": 15152
+    },
+    {
+      "text": "Indian Bank",
+      "label": "ORG",
+      "start_char": 15242,
+      "end_char": 15253
+    },
+    {
+      "text": "Union Bank",
+      "label": "ORG",
+      "start_char": 15287,
+      "end_char": 15297
+    },
+    {
+      "text": "03.04.2020",
+      "label": "DATE",
+      "start_char": 15331,
+      "end_char": 15341
+    },
+    {
+      "text": "ASPL",
+      "label": "ORG",
+      "start_char": 15354,
+      "end_char": 15358
+    },
+    {
+      "text": "Indian Bank",
+      "label": "ORG",
+      "start_char": 15374,
+      "end_char": 15385
+    },
+    {
+      "text": "Union Bank of India",
+      "label": "ORG",
+      "start_char": 15410,
+      "end_char": 15429
+    },
+    {
+      "text": "08.04.2020",
+      "label": "DATE",
+      "start_char": 15497,
+      "end_char": 15507
+    },
+    {
+      "text": "Vero Marine",
+      "label": "ORG",
+      "start_char": 15844,
+      "end_char": 15855
+    },
+    {
+      "text": "Wilson Surveyors and Adjusters Pvt. Ltd.",
+      "label": "ORG",
+      "start_char": 15861,
+      "end_char": 15901
+    },
+    {
+      "text": "Utkal Lumbers Pvt. Ltd.",
+      "label": "ORG",
+      "start_char": 16073,
+      "end_char": 16096
+    },
+    {
+      "text": "Vero Marine)",
+      "label": "ORG",
+      "start_char": 16194,
+      "end_char": 16206
+    },
+    {
+      "text": "Chaudhary Timbers Pvt. Ltd.",
+      "label": "ORG",
+      "start_char": 16375,
+      "end_char": 16402
+    },
+    {
+      "text": "Asia Maritime Pacific Limited",
+      "label": "ORG",
+      "start_char": 16559,
+      "end_char": 16588
+    },
+    {
+      "text": "Indian Bank",
+      "label": "ORG",
+      "start_char": 17238,
+      "end_char": 17249
+    },
+    {
+      "text": "Indian bank",
+      "label": "ORG",
+      "start_char": 17345,
+      "end_char": 17356
+    },
+    {
+      "text": "Indian Bank",
+      "label": "ORG",
+      "start_char": 17422,
+      "end_char": 17433
+    },
+    {
+      "text": "Indian Bank",
+      "label": "ORG",
+      "start_char": 17444,
+      "end_char": 17455
+    },
+    {
+      "text": "Indian Bank",
+      "label": "ORG",
+      "start_char": 17607,
+      "end_char": 17618
+    },
+    {
+      "text": "Union Bank of India",
+      "label": "ORG",
+      "start_char": 17734,
+      "end_char": 17753
+    },
+    {
+      "text": "UCP 600",
+      "label": "PROVISION",
+      "start_char": 17787,
+      "end_char": 17794
+    },
+    {
+      "text": "Article 4",
+      "label": "PROVISION",
+      "start_char": 17840,
+      "end_char": 17849
+    },
+    {
+      "text": "UCP 600",
+      "label": "STATUTE",
+      "start_char": 17853,
+      "end_char": 17860
+    },
+    {
+      "text": "Article 4",
+      "label": "PROVISION",
+      "start_char": 18120,
+      "end_char": 18129
+    },
+    {
+      "text": "UCP 600",
+      "label": "STATUTE",
+      "start_char": 18133,
+      "end_char": 18140
+    },
+    {
+      "text": "Credits v. Contracts",
+      "label": "PRECEDENT",
+      "start_char": 18176,
+      "end_char": 18196
+    },
+    {
+      "text": "Article 14",
+      "label": "PROVISION",
+      "start_char": 19021,
+      "end_char": 19031
+    },
+    {
+      "text": "UPC",
+      "label": "STATUTE",
+      "start_char": 19035,
+      "end_char": 19038
+    },
+    {
+      "text": "Union Bank of India",
+      "label": "ORG",
+      "start_char": 19201,
+      "end_char": 19220
+    },
+    {
+      "text": "Indian Bank",
+      "label": "ORG",
+      "start_char": 19257,
+      "end_char": 19268
+    },
+    {
+      "text": "Union Bank of India",
+      "label": "ORG",
+      "start_char": 19368,
+      "end_char": 19387
+    },
+    {
+      "text": "Indian Bank",
+      "label": "ORG",
+      "start_char": 20050,
+      "end_char": 20061
+    },
+    {
+      "text": "UBS AG v. State Bank of Patiala: (2006) 5 SCC 416",
+      "label": "PRECEDENT",
+      "start_char": 20131,
+      "end_char": 20180
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 20186,
+      "end_char": 20199
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 20747,
+      "end_char": 20760
+    },
+    {
+      "text": "UBS AG v. State Bank of Patiala",
+      "label": "PRECEDENT",
+      "start_char": 20764,
+      "end_char": 20795
+    },
+    {
+      "text": "Allahabad Bank v. Malayan Banking Limited: 2019 SCC OnLine Del 11447",
+      "label": "PRECEDENT",
+      "start_char": 22682,
+      "end_char": 22750
+    },
+    {
+      "text": "UBS AG v. State Bank of Patiala",
+      "label": "PRECEDENT",
+      "start_char": 22810,
+      "end_char": 22841
+    },
+    {
+      "text": "UCP-600",
+      "label": "PROVISION",
+      "start_char": 23015,
+      "end_char": 23022
+    },
+    {
+      "text": "Clause (d) of Article 16",
+      "label": "PROVISION",
+      "start_char": 23167,
+      "end_char": 23191
+    },
+    {
+      "text": "Article 7",
+      "label": "PROVISION",
+      "start_char": 23559,
+      "end_char": 23568
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 24215,
+      "end_char": 24228
+    },
+    {
+      "text": "UBS AG v. State Bank of Patiala, (2006) 5 SCC 416",
+      "label": "PRECEDENT",
+      "start_char": 24232,
+      "end_char": 24281
+    },
+    {
+      "text": "07.12.2011",
+      "label": "DATE",
+      "start_char": 24612,
+      "end_char": 24622
+    },
+    {
+      "text": "02.01.2012",
+      "label": "DATE",
+      "start_char": 24642,
+      "end_char": 24652
+    },
+    {
+      "text": "Millenium Wires Private Limited v. State Trading Corporation of India Limited & Ors.: (2015) 14 SCC 375",
+      "label": "PRECEDENT",
+      "start_char": 25325,
+      "end_char": 25428
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 25434,
+      "end_char": 25447
+    },
+    {
+      "text": "Union Bank of India",
+      "label": "ORG",
+      "start_char": 26729,
+      "end_char": 26748
+    },
+    {
+      "text": "Union Bank of India",
+      "label": "ORG",
+      "start_char": 26866,
+      "end_char": 26885
+    },
+    {
+      "text": "Indian Bank",
+      "label": "ORG",
+      "start_char": 26913,
+      "end_char": 26924
+    },
+    {
+      "text": "Union Bank of India",
+      "label": "ORG",
+      "start_char": 26959,
+      "end_char": 26978
+    },
+    {
+      "text": "ASPL",
+      "label": "ORG",
+      "start_char": 27200,
+      "end_char": 27204
+    },
+    {
+      "text": "Indian Bank",
+      "label": "ORG",
+      "start_char": 27236,
+      "end_char": 27247
+    },
+    {
+      "text": "Indian Bank",
+      "label": "ORG",
+      "start_char": 27398,
+      "end_char": 27409
+    },
+    {
+      "text": "VIBHU BAKHRU",
+      "label": "JUDGE",
+      "start_char": 27816,
+      "end_char": 27828
+    },
+    {
+      "text": "AMIT MAHAJAN",
+      "label": "JUDGE",
+      "start_char": 27832,
+      "end_char": 27844
+    },
+    {
+      "text": "DECEMBER 22, 2023",
+      "label": "DATE",
+      "start_char": 27848,
+      "end_char": 27865
+    }
+  ],
+  "precedent_clusters": {
+    "Agarwalla Timbers Private Limited v. Amrose Singapore Pte Ltd.": [
+      "Agarwalla Timbers Private Limited v. Amrose Singapore Pte Ltd.",
+      "Credits v. Contracts",
+      "UBS AG v. State Bank of Patiala",
+      "UBS AG v. State Bank of Patiala"
+    ],
+    "UBS AG v. State Bank of Patiala: (2006) 5 SCC 416": [
+      "UBS AG v. State Bank of Patiala: (2006) 5 SCC 416",
+      "UBS AG v. State Bank of Patiala, (2006) 5 SCC 416"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Order XXXIX, Rules 1 and 2",
+      "Code of Civil Procedure, 1908",
+      "Order XXXIX, Rules 1 and 2",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Article 14 and Article 15",
+      "Uniform Customs and Practice",
+      "Article 14 and Article 15",
+      "Uniform Customs and Practice"
+    ],
+    [
+      "Section 9",
+      "Negotiable Instrument Act, 1881",
+      "Section 9",
+      "Negotiable Instrument Act, 1881"
+    ],
+    [
+      "Article 4",
+      "UCP 600",
+      "Article 4",
+      "UCP 600"
+    ],
+    [
+      "Article 4",
+      "UCP 600",
+      "Article 4",
+      "UCP 600"
+    ],
+    [
+      "Article 14",
+      "UPC",
+      "Article 14",
+      "UPC"
+    ],
+    [
+      "UCP-600",
+      "Uniform Customs and Practice",
+      "UCP-600",
+      "Uniform Customs and Practice"
+    ],
+    [
+      "Order VII Rule 11",
+      "National Disaster Management Act, 2005",
+      "Order VII Rule 11",
+      "National Disaster Management Act, 2005"
+    ],
+    [
+      "ORDER 23",
+      "National Disaster Management Act, 2005",
+      "ORDER 23",
+      "National Disaster Management Act, 2005"
+    ],
+    [
+      "UCP-600",
+      "Uniform Customs and Practice",
+      "UCP-600",
+      "Uniform Customs and Practice"
+    ],
+    [
+      "UCP 600",
+      "Negotiable Instrument Act, 1881",
+      "UCP 600",
+      "Negotiable Instrument Act, 1881"
+    ],
+    [
+      "Clause (d) of Article 16",
+      "Code of Civil Procedure, 1908",
+      "Clause (d) of Article 16",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Article 7",
+      "Code of Civil Procedure, 1908",
+      "Article 7",
+      "Code of Civil Procedure, 1908"
+    ]
+  ],
+  "precedent_counts": {
+    "Agarwalla Timbers Private Limited v. Amrose Singapore Pte Ltd.": 4,
+    "UBS AG v. State Bank of Patiala: (2006) 5 SCC 416": 2
+  },
+  "provision_counts": {
+    "Order XXXIX, Rules 1 and 2 of Code of Civil Procedure, 1908": 1,
+    "Article 227 of Constitution of India": 1,
+    "Article 14 and Article 15 of Uniform Customs and Practice": 1,
+    "Section 9 of Negotiable Instrument Act, 1881": 1,
+    "Article 4 of UCP 600": 2,
+    "Article 14 of UPC": 1,
+    "UCP-600 of Uniform Customs and Practice": 2,
+    "Order VII Rule 11 of National Disaster Management Act, 2005": 1,
+    "ORDER 23 of National Disaster Management Act, 2005": 1,
+    "UCP 600 of Negotiable Instrument Act, 1881": 1,
+    "Clause (d) of Article 16 of Code of Civil Procedure, 1908": 1,
+    "Article 7 of Code of Civil Procedure, 1908": 1
+  },
+  "statute_counts": {
+    "Code of Civil Procedure, 1908": 3,
+    "Constitution of India": 1,
+    "Uniform Customs and Practice": 3,
+    "Negotiable Instrument Act, 1881": 2,
+    "UCP 600": 2,
+    "UPC": 1,
+    "National Disaster Management Act, 2005": 2
+  }
+}

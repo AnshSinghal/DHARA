@@ -1,0 +1,1395 @@
+{
+  "entities": [
+    {
+      "text": "Uttarakhand High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 22
+    },
+    {
+      "text": "Manoj Kumar Tiwari",
+      "label": "JUDGE",
+      "start_char": 67,
+      "end_char": 85
+    },
+    {
+      "text": "Manoj Kumar Tiwari",
+      "label": "JUDGE",
+      "start_char": 93,
+      "end_char": 111
+    },
+    {
+      "text": "High Court Of Uttarakhand\n                         At Nainital",
+      "label": "COURT",
+      "start_char": 120,
+      "end_char": 182
+    },
+    {
+      "text": "Manoj Kumar Tiwari",
+      "label": "JUDGE",
+      "start_char": 286,
+      "end_char": 304
+    },
+    {
+      "text": "Odisha State Financial Corporation",
+      "label": "PETITIONER",
+      "start_char": 364,
+      "end_char": 398
+    },
+    {
+      "text": "Neeraj Garg",
+      "label": "LAWYER",
+      "start_char": 447,
+      "end_char": 458
+    },
+    {
+      "text": "Yashpal Singh",
+      "label": "LAWYER",
+      "start_char": 467,
+      "end_char": 480
+    },
+    {
+      "text": "Vigyan Chemical Industries",
+      "label": "RESPONDENT",
+      "start_char": 525,
+      "end_char": 551
+    },
+    {
+      "text": "S.K. Jain",
+      "label": "LAWYER",
+      "start_char": 609,
+      "end_char": 618
+    },
+    {
+      "text": "Siddhartha Jain",
+      "label": "LAWYER",
+      "start_char": 653,
+      "end_char": 668
+    },
+    {
+      "text": "Article     227",
+      "label": "PROVISION",
+      "start_char": 809,
+      "end_char": 824
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 838,
+      "end_char": 850
+    },
+    {
+      "text": "18.04.2022",
+      "label": "DATE",
+      "start_char": 910,
+      "end_char": 920
+    },
+    {
+      "text": "VIth Additional Civil Judge, Senior Division, Dehradun",
+      "label": "COURT",
+      "start_char": 931,
+      "end_char": 985
+    },
+    {
+      "text": "Section 47",
+      "label": "PROVISION",
+      "start_char": 1024,
+      "end_char": 1034
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 1035,
+      "end_char": 1041
+    },
+    {
+      "text": "02.09.2022",
+      "label": "DATE",
+      "start_char": 1106,
+      "end_char": 1116
+    },
+    {
+      "text": "VIIth Additional District Judge, Dehradun",
+      "label": "COURT",
+      "start_char": 1129,
+      "end_char": 1170
+    },
+    {
+      "text": "18.04.2022",
+      "label": "DATE",
+      "start_char": 1217,
+      "end_char": 1227
+    },
+    {
+      "text": "Vigyan Chemical Industries",
+      "label": "ORG",
+      "start_char": 1351,
+      "end_char": 1377
+    },
+    {
+      "text": "Court of Civil Judge, Dehradun",
+      "label": "COURT",
+      "start_char": 1436,
+      "end_char": 1466
+    },
+    {
+      "text": "Suit No. 103 of 1988",
+      "label": "CASE_NUMBER",
+      "start_char": 1492,
+      "end_char": 1512
+    },
+    {
+      "text": "Manorama Chemical Works Ltd.",
+      "label": "ORG",
+      "start_char": 1591,
+      "end_char": 1619
+    },
+    {
+      "text": "Manorama         Chemical   Works       Ltd.",
+      "label": "ORG",
+      "start_char": 1867,
+      "end_char": 1911
+    },
+    {
+      "text": "Odisha State Financial Corporation",
+      "label": "ORG",
+      "start_char": 2004,
+      "end_char": 2038
+    },
+    {
+      "text": "Manorama Chemical Works Ltd.",
+      "label": "ORG",
+      "start_char": 2179,
+      "end_char": 2207
+    },
+    {
+      "text": "Section 29",
+      "label": "PROVISION",
+      "start_char": 2232,
+      "end_char": 2242
+    },
+    {
+      "text": "State Financial Corporations Act, 1951",
+      "label": "STATUTE",
+      "start_char": 2250,
+      "end_char": 2288
+    },
+    {
+      "text": "Manorama Chemical Works Ltd.",
+      "label": "ORG",
+      "start_char": 2504,
+      "end_char": 2532
+    },
+    {
+      "text": "Section 29",
+      "label": "PROVISION",
+      "start_char": 2539,
+      "end_char": 2549
+    },
+    {
+      "text": "S.F.C. Act",
+      "label": "STATUTE",
+      "start_char": 2557,
+      "end_char": 2567
+    },
+    {
+      "text": "Section 29 (5)",
+      "label": "PROVISION",
+      "start_char": 2736,
+      "end_char": 2750
+    },
+    {
+      "text": "S.F.C. Act",
+      "label": "STATUTE",
+      "start_char": 2758,
+      "end_char": 2768
+    },
+    {
+      "text": "Manorama Chemical Works Ltd.",
+      "label": "ORG",
+      "start_char": 2854,
+      "end_char": 2882
+    },
+    {
+      "text": "18.08.1987",
+      "label": "DATE",
+      "start_char": 3215,
+      "end_char": 3225
+    },
+    {
+      "text": "Section 29",
+      "label": "PROVISION",
+      "start_char": 3232,
+      "end_char": 3242
+    },
+    {
+      "text": "S.F.C. Act",
+      "label": "STATUTE",
+      "start_char": 3250,
+      "end_char": 3260
+    },
+    {
+      "text": "T.R.K. Rao",
+      "label": "OTHER_PERSON",
+      "start_char": 3335,
+      "end_char": 3345
+    },
+    {
+      "text": "Dehradun",
+      "label": "GPE",
+      "start_char": 3596,
+      "end_char": 3604
+    },
+    {
+      "text": "Vigyan Prakash",
+      "label": "OTHER_PERSON",
+      "start_char": 3771,
+      "end_char": 3785
+    },
+    {
+      "text": "6,229.29",
+      "label": "DATE",
+      "start_char": 4165,
+      "end_char": 4173
+    },
+    {
+      "text": "20.08.2001",
+      "label": "DATE",
+      "start_char": 4776,
+      "end_char": 4786
+    },
+    {
+      "text": "1.3.198",
+      "label": "DATE",
+      "start_char": 5005,
+      "end_char": 5012
+    },
+    {
+      "text": "23.9.1992",
+      "label": "DATE",
+      "start_char": 5016,
+      "end_char": 5025
+    },
+    {
+      "text": "23.9.1992",
+      "label": "DATE",
+      "start_char": 5035,
+      "end_char": 5044
+    },
+    {
+      "text": "Civil Appeal No.182 of 2001",
+      "label": "CASE_NUMBER",
+      "start_char": 6123,
+      "end_char": 6150
+    },
+    {
+      "text": "Additional District Judge, F.T.C., VIth, Dehradun",
+      "label": "COURT",
+      "start_char": 6238,
+      "end_char": 6287
+    },
+    {
+      "text": "08.08.2006",
+      "label": "DATE",
+      "start_char": 6308,
+      "end_char": 6318
+    },
+    {
+      "text": "07.05.2007",
+      "label": "DATE",
+      "start_char": 6547,
+      "end_char": 6557
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 6589,
+      "end_char": 6602
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 6662,
+      "end_char": 6675
+    },
+    {
+      "text": "23.11.2017",
+      "label": "DATE",
+      "start_char": 6737,
+      "end_char": 6747
+    },
+    {
+      "text": "Regular Execution Case No. 107 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 6961,
+      "end_char": 6999
+    },
+    {
+      "text": "Section 47",
+      "label": "PROVISION",
+      "start_char": 7084,
+      "end_char": 7094
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 7105,
+      "end_char": 7116
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 7117,
+      "end_char": 7123
+    },
+    {
+      "text": "Case No. 156 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 7155,
+      "end_char": 7175
+    },
+    {
+      "text": "Section 47",
+      "label": "PROVISION",
+      "start_char": 7265,
+      "end_char": 7275
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 7276,
+      "end_char": 7282
+    },
+    {
+      "text": "18.04.2022",
+      "label": "DATE",
+      "start_char": 7337,
+      "end_char": 7347
+    },
+    {
+      "text": "18.04.2022",
+      "label": "DATE",
+      "start_char": 7387,
+      "end_char": 7397
+    },
+    {
+      "text": "Section 115",
+      "label": "PROVISION",
+      "start_char": 7433,
+      "end_char": 7444
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 7445,
+      "end_char": 7451
+    },
+    {
+      "text": "Civil Revision No. 40 of 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 7475,
+      "end_char": 7504
+    },
+    {
+      "text": "VIIth Additional District Judge, Dehradun",
+      "label": "COURT",
+      "start_char": 7514,
+      "end_char": 7555
+    },
+    {
+      "text": "02.09.2022",
+      "label": "DATE",
+      "start_char": 7623,
+      "end_char": 7633
+    },
+    {
+      "text": "13.05.1996",
+      "label": "DATE",
+      "start_char": 8237,
+      "end_char": 8247
+    },
+    {
+      "text": "Order 43 Rule (q)",
+      "label": "PROVISION",
+      "start_char": 8302,
+      "end_char": 8319
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 8320,
+      "end_char": 8326
+    },
+    {
+      "text": "IIIrd Additional District Judge, Dehradun",
+      "label": "COURT",
+      "start_char": 8359,
+      "end_char": 8400
+    },
+    {
+      "text": "03.06.1999",
+      "label": "DATE",
+      "start_char": 8421,
+      "end_char": 8431
+    },
+    {
+      "text": "Civil Misc.",
+      "label": "CASE_NUMBER",
+      "start_char": 8549,
+      "end_char": 8560
+    },
+    {
+      "text": "No. 33425 of 1999",
+      "label": "CASE_NUMBER",
+      "start_char": 8575,
+      "end_char": 8592
+    },
+    {
+      "text": "Allahabad High Court",
+      "label": "COURT",
+      "start_char": 8625,
+      "end_char": 8645
+    },
+    {
+      "text": "10.08.1999",
+      "label": "DATE",
+      "start_char": 8666,
+      "end_char": 8676
+    },
+    {
+      "text": "Order 24 Rule 1",
+      "label": "PROVISION",
+      "start_char": 8813,
+      "end_char": 8828
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 8829,
+      "end_char": 8835
+    },
+    {
+      "text": "Order 24 Rule 1",
+      "label": "PROVISION",
+      "start_char": 8856,
+      "end_char": 8871
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 8872,
+      "end_char": 8878
+    },
+    {
+      "text": "Order 24 Rule 1",
+      "label": "PROVISION",
+      "start_char": 9159,
+      "end_char": 9174
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 9175,
+      "end_char": 9181
+    },
+    {
+      "text": "Order XXVIII Rule 5",
+      "label": "PROVISION",
+      "start_char": 9425,
+      "end_char": 9444
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 9445,
+      "end_char": 9448
+    },
+    {
+      "text": "Order 24 Rule 1",
+      "label": "PROVISION",
+      "start_char": 9567,
+      "end_char": 9582
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 9583,
+      "end_char": 9589
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 9920,
+      "end_char": 9930
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 9934,
+      "end_char": 9963
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 10020,
+      "end_char": 10030
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 10031,
+      "end_char": 10037
+    },
+    {
+      "text": "01.03.1988",
+      "label": "DATE",
+      "start_char": 10550,
+      "end_char": 10560
+    },
+    {
+      "text": "23.09.1992",
+      "label": "DATE",
+      "start_char": 10564,
+      "end_char": 10574
+    },
+    {
+      "text": "Rajasthan Financial Corporation v. Man Industrial Corpn. Ltd., reported in (2003) 7",
+      "label": "PRECEDENT",
+      "start_char": 10939,
+      "end_char": 11022
+    },
+    {
+      "text": "SCC 522",
+      "label": "CASE_NUMBER",
+      "start_char": 11023,
+      "end_char": 11030
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 11374,
+      "end_char": 11387
+    },
+    {
+      "text": "Bhawarlal Bhandari v. Universal Heavy Mechanical Lifting Enterprises [(1999) 1 SCC 558]",
+      "label": "PRECEDENT",
+      "start_char": 11586,
+      "end_char": 11673
+    },
+    {
+      "text": "Rameshwar Dass Gupta v. State of U.P.",
+      "label": "PRECEDENT",
+      "start_char": 12263,
+      "end_char": 12300
+    },
+    {
+      "text": "(1996) 5 SCC 728]",
+      "label": "PRECEDENT",
+      "start_char": 12302,
+      "end_char": 12319
+    },
+    {
+      "text": "C.V. Rajendran v. N.M.",
+      "label": "PRECEDENT",
+      "start_char": 12670,
+      "end_char": 12692
+    },
+    {
+      "text": "Muhammed Kunhi [(2002) 7 SCC 447]",
+      "label": "PRECEDENT",
+      "start_char": 12693,
+      "end_char": 12726
+    },
+    {
+      "text": "Divan",
+      "label": "OTHER_PERSON",
+      "start_char": 13012,
+      "end_char": 13017
+    },
+    {
+      "text": "Divan",
+      "label": "OTHER_PERSON",
+      "start_char": 13499,
+      "end_char": 13504
+    },
+    {
+      "text": "Cochin Development Authority",
+      "label": "ORG",
+      "start_char": 13963,
+      "end_char": 13991
+    },
+    {
+      "text": "Order 23 Rule 3",
+      "label": "PROVISION",
+      "start_char": 14318,
+      "end_char": 14333
+    },
+    {
+      "text": "Civil Procedure Code",
+      "label": "STATUTE",
+      "start_char": 14341,
+      "end_char": 14361
+    },
+    {
+      "text": "Clauses 2 and 7",
+      "label": "PROVISION",
+      "start_char": 15043,
+      "end_char": 15058
+    },
+    {
+      "text": "Brakewel Automotive Components (India) Private Limited v. P.R. Selvam Alagappan, reported in (2017) 5 SCC 371",
+      "label": "PRECEDENT",
+      "start_char": 16122,
+      "end_char": 16231
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 16241,
+      "end_char": 16254
+    },
+    {
+      "text": "Section 47",
+      "label": "PROVISION",
+      "start_char": 16311,
+      "end_char": 16321
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 16322,
+      "end_char": 16325
+    },
+    {
+      "text": "Section 47",
+      "label": "PROVISION",
+      "start_char": 16364,
+      "end_char": 16374
+    },
+    {
+      "text": "Section 47",
+      "label": "PROVISION",
+      "start_char": 17384,
+      "end_char": 17394
+    },
+    {
+      "text": "Section 47",
+      "label": "PROVISION",
+      "start_char": 17934,
+      "end_char": 17944
+    },
+    {
+      "text": "Vasudev Dhanjibhai Modi v. Rajabhai Abdul Rehman",
+      "label": "PRECEDENT",
+      "start_char": 18115,
+      "end_char": 18163
+    },
+    {
+      "text": "Vasudev Dhanjibhai Modi v. Rajabhai Abdul Rehman, (1970) 1",
+      "label": "PRECEDENT",
+      "start_char": 18165,
+      "end_char": 18223
+    },
+    {
+      "text": "SCC 670 : AIR 1970 SC 1475 : (1971) 1 SCR 66]",
+      "label": "PRECEDENT",
+      "start_char": 18224,
+      "end_char": 18269
+    },
+    {
+      "text": "Section 47",
+      "label": "PROVISION",
+      "start_char": 18375,
+      "end_char": 18385
+    },
+    {
+      "text": "Dhurandhar Prasad Singh v. Jai Prakash University",
+      "label": "PRECEDENT",
+      "start_char": 19949,
+      "end_char": 19998
+    },
+    {
+      "text": "Dhurandhar Prasad Singh v. Jai Prakash University, (2001) 6 SCC 534 : AIR 2001 SC 2552",
+      "label": "PRECEDENT",
+      "start_char": 20000,
+      "end_char": 20086
+    },
+    {
+      "text": "Section 47",
+      "label": "PROVISION",
+      "start_char": 20121,
+      "end_char": 20131
+    },
+    {
+      "text": "Section 47",
+      "label": "PROVISION",
+      "start_char": 20328,
+      "end_char": 20338
+    },
+    {
+      "text": "Aditya Mass Communications (P) Ltd. v. A.P. S.R.T.C., reported in (2003) 11 SCC 17",
+      "label": "PRECEDENT",
+      "start_char": 21315,
+      "end_char": 21397
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 21407,
+      "end_char": 21420
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 21634,
+      "end_char": 21647
+    },
+    {
+      "text": "Sovintorg (India) Ltd. v. State Bank of India",
+      "label": "PRECEDENT",
+      "start_char": 23033,
+      "end_char": 23078
+    },
+    {
+      "text": "(1999) 6 SCC 406]",
+      "label": "PRECEDENT",
+      "start_char": 23080,
+      "end_char": 23097
+    },
+    {
+      "text": "Ghaziabad Development Authority v. Union of India [(2000) 6 SCC 113]",
+      "label": "PRECEDENT",
+      "start_char": 23102,
+      "end_char": 23170
+    },
+    {
+      "text": "Section 15 (2)",
+      "label": "PROVISION",
+      "start_char": 23793,
+      "end_char": 23807
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 23815,
+      "end_char": 23842
+    },
+    {
+      "text": "Sub-section (3) of Section 39",
+      "label": "PROVISION",
+      "start_char": 24523,
+      "end_char": 24552
+    },
+    {
+      "text": "Section 39",
+      "label": "PROVISION",
+      "start_char": 24587,
+      "end_char": 24597
+    },
+    {
+      "text": "Court of Civil Judge (Senior Division), Dehradun",
+      "label": "COURT",
+      "start_char": 24871,
+      "end_char": 24919
+    },
+    {
+      "text": "Section 38",
+      "label": "PROVISION",
+      "start_char": 24945,
+      "end_char": 24955
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 24959,
+      "end_char": 24965
+    },
+    {
+      "text": "Court of Civil Judge (Senior Division), Dehradun",
+      "label": "COURT",
+      "start_char": 24971,
+      "end_char": 25019
+    },
+    {
+      "text": "Chapter V",
+      "label": "PROVISION",
+      "start_char": 25054,
+      "end_char": 25063
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 25071,
+      "end_char": 25098
+    },
+    {
+      "text": "sub-section (5) of Section 15",
+      "label": "PROVISION",
+      "start_char": 25478,
+      "end_char": 25507
+    },
+    {
+      "text": "Section 15 (5)",
+      "label": "PROVISION",
+      "start_char": 25872,
+      "end_char": 25886
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 25890,
+      "end_char": 25917
+    },
+    {
+      "text": "Section 47",
+      "label": "PROVISION",
+      "start_char": 26114,
+      "end_char": 26124
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 26125,
+      "end_char": 26131
+    },
+    {
+      "text": "20.08.2001",
+      "label": "DATE",
+      "start_char": 26310,
+      "end_char": 26320
+    },
+    {
+      "text": "Commercial Court at Dehradun",
+      "label": "COURT",
+      "start_char": 26373,
+      "end_char": 26401
+    },
+    {
+      "text": "Chapter V",
+      "label": "PROVISION",
+      "start_char": 26413,
+      "end_char": 26422
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 26430,
+      "end_char": 26457
+    },
+    {
+      "text": "Sub- section (5) of Section 15",
+      "label": "PROVISION",
+      "start_char": 26655,
+      "end_char": 26685
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 27172,
+      "end_char": 27199
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 27201,
+      "end_char": 27211
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 27219,
+      "end_char": 27240
+    },
+    {
+      "text": "Court of Civil Judge (Senior Division), Dehradun",
+      "label": "COURT",
+      "start_char": 27406,
+      "end_char": 27454
+    },
+    {
+      "text": "20.08.2001",
+      "label": "DATE",
+      "start_char": 27690,
+      "end_char": 27700
+    },
+    {
+      "text": "VIth Additional Civil Judge (Junior Division), Dehradun",
+      "label": "COURT",
+      "start_char": 27857,
+      "end_char": 27912
+    },
+    {
+      "text": "18.04.2022",
+      "label": "DATE",
+      "start_char": 27930,
+      "end_char": 27940
+    },
+    {
+      "text": "VIIth Additional District Judge, Dehradun",
+      "label": "COURT",
+      "start_char": 27964,
+      "end_char": 28005
+    },
+    {
+      "text": "02.09.2022",
+      "label": "DATE",
+      "start_char": 28026,
+      "end_char": 28036
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 28176,
+      "end_char": 28187
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 28195,
+      "end_char": 28216
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 28231,
+      "end_char": 28244
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 28301,
+      "end_char": 28312
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 28491,
+      "end_char": 28504
+    },
+    {
+      "text": "Garment Craft v. Prakash Chand Goel, reported in (2022) 4",
+      "label": "PRECEDENT",
+      "start_char": 28541,
+      "end_char": 28598
+    },
+    {
+      "text": "SCC 181",
+      "label": "CASE_NUMBER",
+      "start_char": 28599,
+      "end_char": 28606
+    },
+    {
+      "text": "Prakash Chand Goel v. Garment Craft, 2019 SCC OnLine Del 11943",
+      "label": "PRECEDENT",
+      "start_char": 28726,
+      "end_char": 28788
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 28946,
+      "end_char": 28957
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 28965,
+      "end_char": 28986
+    },
+    {
+      "text": "Celina Coelho Pereira v. Ulhas Mahabaleshwar Kholkar, (2010) 1 SCC 217 : (2010) 1 SCC (Civ) 69",
+      "label": "PRECEDENT",
+      "start_char": 29445,
+      "end_char": 29539
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 29743,
+      "end_char": 29754
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 30144,
+      "end_char": 30155
+    },
+    {
+      "text": "Estralla Rubber v. Dass Estate (P) Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 30171,
+      "end_char": 30210
+    },
+    {
+      "text": "Estralla Rubber v. Dass Estate (P) Ltd., (2001) 8 SCC 97",
+      "label": "PRECEDENT",
+      "start_char": 30212,
+      "end_char": 30268
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 30395,
+      "end_char": 30406
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 30414,
+      "end_char": 30435
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 31981,
+      "end_char": 31992
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 32000,
+      "end_char": 32012
+    },
+    {
+      "text": "MANOJ KUMAR TIWARI",
+      "label": "JUDGE",
+      "start_char": 32098,
+      "end_char": 32116
+    },
+    {
+      "text": "Navin",
+      "label": "OTHER_PERSON",
+      "start_char": 32122,
+      "end_char": 32127
+    }
+  ],
+  "precedent_clusters": {
+    "Rajasthan Financial Corporation v. Man Industrial Corpn. Ltd., reported in (2003) 7": [
+      "Rajasthan Financial Corporation v. Man Industrial Corpn. Ltd., reported in (2003) 7",
+      "Rameshwar Dass Gupta v. State of U.P.",
+      "C.V. Rajendran v. N.M.",
+      "Vasudev Dhanjibhai Modi v. Rajabhai Abdul Rehman",
+      "Vasudev Dhanjibhai Modi v. Rajabhai Abdul Rehman, (1970) 1",
+      "Dhurandhar Prasad Singh v. Jai Prakash University",
+      "Sovintorg (India) Ltd. v. State Bank of India",
+      "Garment Craft v. Prakash Chand Goel, reported in (2022) 4",
+      "Estralla Rubber v. Dass Estate (P) Ltd."
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Article     227",
+      "Constitution",
+      "Article     227",
+      "Constitution"
+    ],
+    [
+      "Section 47",
+      "C.P.C.",
+      "Section 47",
+      "C.P.C."
+    ],
+    [
+      "Section 29",
+      "State Financial Corporations Act, 1951",
+      "Section 29",
+      "State Financial Corporations Act, 1951"
+    ],
+    [
+      "Section 29",
+      "S.F.C. Act",
+      "Section 29",
+      "S.F.C. Act"
+    ],
+    [
+      "Section 29 (5)",
+      "S.F.C. Act",
+      "Section 29 (5)",
+      "S.F.C. Act"
+    ],
+    [
+      "Section 29",
+      "S.F.C. Act",
+      "Section 29",
+      "S.F.C. Act"
+    ],
+    [
+      "Section 151",
+      "C.P.C.",
+      "Section 151",
+      "C.P.C."
+    ],
+    [
+      "Section 47",
+      "C.P.C.",
+      "Section 47",
+      "C.P.C."
+    ],
+    [
+      "Section 115",
+      "C.P.C.",
+      "Section 115",
+      "C.P.C."
+    ],
+    [
+      "Order 43 Rule (q)",
+      "C.P.C.",
+      "Order 43 Rule (q)",
+      "C.P.C."
+    ],
+    [
+      "Order 24 Rule 1",
+      "C.P.C.",
+      "Order 24 Rule 1",
+      "C.P.C."
+    ],
+    [
+      "Order 24 Rule 1",
+      "C.P.C.",
+      "Order 24 Rule 1",
+      "C.P.C."
+    ],
+    [
+      "Order 24 Rule 1",
+      "C.P.C.",
+      "Order 24 Rule 1",
+      "C.P.C."
+    ],
+    [
+      "Order XXVIII Rule 5",
+      "CPC",
+      "Order XXVIII Rule 5",
+      "CPC"
+    ],
+    [
+      "Order 24 Rule 1",
+      "C.P.C.",
+      "Order 24 Rule 1",
+      "C.P.C."
+    ],
+    [
+      "Section 34",
+      "Code of Civil Procedure, 1908",
+      "Section 34",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 34",
+      "C.P.C.",
+      "Section 34",
+      "C.P.C."
+    ],
+    [
+      "Order 23 Rule 3",
+      "Civil Procedure Code",
+      "Order 23 Rule 3",
+      "Civil Procedure Code"
+    ],
+    [
+      "Section 47",
+      "CPC",
+      "Section 47",
+      "CPC"
+    ],
+    [
+      "Section 15 (2)",
+      "Commercial Courts Act, 2015",
+      "Section 15 (2)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 38",
+      "C.P.C.",
+      "Section 38",
+      "C.P.C."
+    ],
+    [
+      "Chapter V",
+      "Commercial Courts Act, 2015",
+      "Chapter V",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 15 (5)",
+      "Commercial Courts Act, 2015",
+      "Section 15 (5)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 47",
+      "C.P.C.",
+      "Section 47",
+      "C.P.C."
+    ],
+    [
+      "Chapter V",
+      "Commercial Courts Act, 2015",
+      "Chapter V",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 11",
+      "Commercial Courts Act",
+      "Section 11",
+      "Commercial Courts Act"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "Section 47",
+      "C.P.C.",
+      "Section 47",
+      "C.P.C."
+    ],
+    [
+      "Section 47",
+      "CPC",
+      "Section 47",
+      "CPC"
+    ],
+    [
+      "Section 47",
+      "CPC",
+      "Section 47",
+      "CPC"
+    ],
+    [
+      "Section 47",
+      "CPC",
+      "Section 47",
+      "CPC"
+    ],
+    [
+      "Section 47",
+      "CPC",
+      "Section 47",
+      "CPC"
+    ],
+    [
+      "Section 47",
+      "CPC",
+      "Section 47",
+      "CPC"
+    ],
+    [
+      "Section 47",
+      "CPC",
+      "Section 47",
+      "CPC"
+    ],
+    [
+      "Section 39",
+      "Commercial Courts Act, 2015",
+      "Section 39",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "sub-section (5) of Section 15",
+      "Commercial Courts Act, 2015",
+      "sub-section (5) of Section 15",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Sub- section (5) of Section 15",
+      "Commercial Courts Act, 2015",
+      "Sub- section (5) of Section 15",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Clauses 2 and 7",
+      "Civil Procedure Code",
+      "Clauses 2 and 7",
+      "Civil Procedure Code"
+    ],
+    [
+      "Sub-section (3) of Section 39",
+      "Commercial Courts Act, 2015",
+      "Sub-section (3) of Section 39",
+      "Commercial Courts Act, 2015"
+    ]
+  ],
+  "precedent_counts": {
+    "Rajasthan Financial Corporation v. Man Industrial Corpn. Ltd., reported in (2003) 7": 9
+  },
+  "provision_counts": {
+    "Article     227 of Constitution": 1,
+    "Section 47 of C.P.C.": 4,
+    "Section 29 of State Financial Corporations Act, 1951": 1,
+    "Section 29 of S.F.C. Act": 2,
+    "Section 29 (5) of S.F.C. Act": 1,
+    "Section 151 of C.P.C.": 1,
+    "Section 115 of C.P.C.": 1,
+    "Order 43 Rule (q) of C.P.C.": 1,
+    "Order 24 Rule 1 of C.P.C.": 4,
+    "Order XXVIII Rule 5 of CPC": 1,
+    "Section 34 of Code of Civil Procedure, 1908": 1,
+    "Section 34 of C.P.C.": 1,
+    "Order 23 Rule 3 of Civil Procedure Code": 1,
+    "Section 47 of CPC": 7,
+    "Section 15 (2) of Commercial Courts Act, 2015": 1,
+    "Section 38 of C.P.C.": 1,
+    "Chapter V of Commercial Courts Act, 2015": 2,
+    "Section 15 (5) of Commercial Courts Act, 2015": 1,
+    "Section 11 of Commercial Courts Act": 1,
+    "Article 227 of Constitution of India": 6,
+    "Article 227 of Constitution": 1,
+    "Section 39 of Commercial Courts Act, 2015": 1,
+    "sub-section (5) of Section 15 of Commercial Courts Act, 2015": 1,
+    "Sub- section (5) of Section 15 of Commercial Courts Act, 2015": 1,
+    "Clauses 2 and 7 of Civil Procedure Code": 1,
+    "Sub-section (3) of Section 39 of Commercial Courts Act, 2015": 1
+  },
+  "statute_counts": {
+    "Constitution": 2,
+    "C.P.C.": 13,
+    "State Financial Corporations Act, 1951": 1,
+    "S.F.C. Act": 3,
+    "CPC": 8,
+    "Code of Civil Procedure, 1908": 1,
+    "Civil Procedure Code": 2,
+    "Commercial Courts Act, 2015": 8,
+    "Commercial Courts Act": 1,
+    "Constitution of India": 6
+  }
+}
