@@ -1,0 +1,1707 @@
+{
+  "entities": [
+    {
+      "text": "Telangana High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 20
+    },
+    {
+      "text": "Director, Esd Mee Seva vs Cms Computers Limited And Another",
+      "label": "PRECEDENT",
+      "start_char": 25,
+      "end_char": 84
+    },
+    {
+      "text": "26 August, 2022",
+      "label": "DATE",
+      "start_char": 88,
+      "end_char": 103
+    },
+    {
+      "text": "P Naveen Rao",
+      "label": "JUDGE",
+      "start_char": 111,
+      "end_char": 123
+    },
+    {
+      "text": "G.Radha Rani",
+      "label": "JUDGE",
+      "start_char": 125,
+      "end_char": 137
+    },
+    {
+      "text": "P.Naveen Rao",
+      "label": "JUDGE",
+      "start_char": 172,
+      "end_char": 184
+    },
+    {
+      "text": "RADHA RANI COMMERCIAL COURT",
+      "label": "JUDGE",
+      "start_char": 251,
+      "end_char": 278
+    },
+    {
+      "text": "26.08.2022",
+      "label": "DATE",
+      "start_char": 403,
+      "end_char": 413
+    },
+    {
+      "text": "COM CA NO.33 OF 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 414,
+      "end_char": 434
+    },
+    {
+      "text": "CCS Infotech Limited",
+      "label": "PETITIONER",
+      "start_char": 447,
+      "end_char": 467
+    },
+    {
+      "text": "T.Nagar",
+      "label": "GPE",
+      "start_char": 516,
+      "end_char": 523
+    },
+    {
+      "text": "Chennai",
+      "label": "GPE",
+      "start_char": 525,
+      "end_char": 532
+    },
+    {
+      "text": "S.Sridhar",
+      "label": "OTHER_PERSON",
+      "start_char": 570,
+      "end_char": 579
+    },
+    {
+      "text": "Hanumantha Rao",
+      "label": "OTHER_PERSON",
+      "start_char": 591,
+      "end_char": 605
+    },
+    {
+      "text": "Nellore",
+      "label": "OTHER_PERSON",
+      "start_char": 626,
+      "end_char": 633
+    },
+    {
+      "text": "Director ESD (Mee Seva)",
+      "label": "RESPONDENT",
+      "start_char": 730,
+      "end_char": 753
+    },
+    {
+      "text": "Eseva",
+      "label": "GPE",
+      "start_char": 784,
+      "end_char": 789
+    },
+    {
+      "text": "Hyderabad",
+      "label": "GPE",
+      "start_char": 817,
+      "end_char": 826
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 987,
+      "end_char": 990
+    },
+    {
+      "text": "GRR",
+      "label": "JUDGE",
+      "start_char": 998,
+      "end_char": 1001
+    },
+    {
+      "text": "COM CA No.33 OF 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 1056,
+      "end_char": 1076
+    },
+    {
+      "text": "P.NAVEEN RAO",
+      "label": "JUDGE",
+      "start_char": 1157,
+      "end_char": 1169
+    },
+    {
+      "text": "JUSTICE RADHA RANI COMMERCIAL COURT",
+      "label": "COURT",
+      "start_char": 1229,
+      "end_char": 1264
+    },
+    {
+      "text": "P.Naveen Rao",
+      "label": "JUDGE",
+      "start_char": 1400,
+      "end_char": 1412
+    },
+    {
+      "text": "Pushyam Kiran",
+      "label": "OTHER_PERSON",
+      "start_char": 1444,
+      "end_char": 1457
+    },
+    {
+      "text": "State of Andhra Pradesh",
+      "label": "ORG",
+      "start_char": 1506,
+      "end_char": 1529
+    },
+    {
+      "text": "Goverdhan Reddy",
+      "label": "OTHER_PERSON",
+      "start_char": 1534,
+      "end_char": 1549
+    },
+    {
+      "text": "Telangana State",
+      "label": "GPE",
+      "start_char": 1598,
+      "end_char": 1613
+    },
+    {
+      "text": "COMCA Nos.33 and 34 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 1620,
+      "end_char": 1647
+    },
+    {
+      "text": "CCS Infotech Limited",
+      "label": "ORG",
+      "start_char": 1661,
+      "end_char": 1681
+    },
+    {
+      "text": "COMCA Nos.40, 41, 42, 48, 49 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 1683,
+      "end_char": 1719
+    },
+    {
+      "text": "COMCA Nos.4, 17, 18, 19, 20 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 1724,
+      "end_char": 1759
+    },
+    {
+      "text": "ESD (Mee Seva",
+      "label": "ORG",
+      "start_char": 1773,
+      "end_char": 1786
+    },
+    {
+      "text": "United Telecoms Ltd.",
+      "label": "ORG",
+      "start_char": 1862,
+      "end_char": 1882
+    },
+    {
+      "text": "Hyderabad",
+      "label": "GPE",
+      "start_char": 2075,
+      "end_char": 2084
+    },
+    {
+      "text": "Secunderabad",
+      "label": "GPE",
+      "start_char": 2089,
+      "end_char": 2101
+    },
+    {
+      "text": "Government of the then combined State of",
+      "label": "ORG",
+      "start_char": 2142,
+      "end_char": 2182
+    },
+    {
+      "text": "Andhra Pradesh",
+      "label": "GPE",
+      "start_char": 2183,
+      "end_char": 2197
+    },
+    {
+      "text": "CMS Computers Limited",
+      "label": "ORG",
+      "start_char": 2512,
+      "end_char": 2533
+    },
+    {
+      "text": "GRR,J COM CA No.33 OF 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 2620,
+      "end_char": 2646
+    },
+    {
+      "text": "CCS Infotech Limited",
+      "label": "ORG",
+      "start_char": 2715,
+      "end_char": 2735
+    },
+    {
+      "text": "Data Management Corporation",
+      "label": "ORG",
+      "start_char": 2740,
+      "end_char": 2767
+    },
+    {
+      "text": "MEE-SEVA Organisation",
+      "label": "ORG",
+      "start_char": 2863,
+      "end_char": 2884
+    },
+    {
+      "text": "19.05.2003",
+      "label": "DATE",
+      "start_char": 2888,
+      "end_char": 2898
+    },
+    {
+      "text": "Article 3",
+      "label": "PROVISION",
+      "start_char": 3117,
+      "end_char": 3126
+    },
+    {
+      "text": "Article 4.1",
+      "label": "PROVISION",
+      "start_char": 3232,
+      "end_char": 3243
+    },
+    {
+      "text": "CMS",
+      "label": "ORG",
+      "start_char": 3267,
+      "end_char": 3270
+    },
+    {
+      "text": "UTL",
+      "label": "ORG",
+      "start_char": 3380,
+      "end_char": 3383
+    },
+    {
+      "text": "CCS",
+      "label": "ORG",
+      "start_char": 3422,
+      "end_char": 3425
+    },
+    {
+      "text": "MEE-SEVA Organization",
+      "label": "ORG",
+      "start_char": 3548,
+      "end_char": 3569
+    },
+    {
+      "text": "01.12.2003",
+      "label": "DATE",
+      "start_char": 3573,
+      "end_char": 3583
+    },
+    {
+      "text": ",",
+      "label": "DATE",
+      "start_char": 3583,
+      "end_char": 3584
+    },
+    {
+      "text": "18.02.2004",
+      "label": "DATE",
+      "start_char": 3585,
+      "end_char": 3595
+    },
+    {
+      "text": "10.02.2004",
+      "label": "DATE",
+      "start_char": 3600,
+      "end_char": 3610
+    },
+    {
+      "text": "CMS",
+      "label": "ORG",
+      "start_char": 3705,
+      "end_char": 3708
+    },
+    {
+      "text": "CMS",
+      "label": "ORG",
+      "start_char": 3866,
+      "end_char": 3869
+    },
+    {
+      "text": "UTL",
+      "label": "ORG",
+      "start_char": 4041,
+      "end_char": 4044
+    },
+    {
+      "text": "CCS",
+      "label": "ORG",
+      "start_char": 4093,
+      "end_char": 4096
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 4231,
+      "end_char": 4234
+    },
+    {
+      "text": "GRR",
+      "label": "JUDGE",
+      "start_char": 4242,
+      "end_char": 4245
+    },
+    {
+      "text": "CA No.33 OF 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 4252,
+      "end_char": 4268
+    },
+    {
+      "text": "V.V.N.Sastry",
+      "label": "JUDGE",
+      "start_char": 4515,
+      "end_char": 4527
+    },
+    {
+      "text": "01.10.2007",
+      "label": "DATE",
+      "start_char": 4731,
+      "end_char": 4741
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 5387,
+      "end_char": 5390
+    },
+    {
+      "text": "GRR",
+      "label": "JUDGE",
+      "start_char": 5398,
+      "end_char": 5401
+    },
+    {
+      "text": "01.10.2007",
+      "label": "DATE",
+      "start_char": 5558,
+      "end_char": 5568
+    },
+    {
+      "text": "01.03.2008",
+      "label": "DATE",
+      "start_char": 6051,
+      "end_char": 6061
+    },
+    {
+      "text": "30.06.2009",
+      "label": "DATE",
+      "start_char": 6276,
+      "end_char": 6286
+    },
+    {
+      "text": "01.03.2008",
+      "label": "DATE",
+      "start_char": 6407,
+      "end_char": 6417
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 6657,
+      "end_char": 6660
+    },
+    {
+      "text": "GRR",
+      "label": "JUDGE",
+      "start_char": 6668,
+      "end_char": 6671
+    },
+    {
+      "text": "CA No.33 OF 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 6678,
+      "end_char": 6694
+    },
+    {
+      "text": "Mee",
+      "label": "OTHER_PERSON",
+      "start_char": 7165,
+      "end_char": 7168
+    },
+    {
+      "text": "seva",
+      "label": "OTHER_PERSON",
+      "start_char": 7169,
+      "end_char": 7173
+    },
+    {
+      "text": "O.P.No.1122 of 2012",
+      "label": "CASE_NUMBER",
+      "start_char": 7184,
+      "end_char": 7203
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 7210,
+      "end_char": 7220
+    },
+    {
+      "text": "Act, 1996",
+      "label": "STATUTE",
+      "start_char": 7228,
+      "end_char": 7237
+    },
+    {
+      "text": "C.O.P.No.124 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 7314,
+      "end_char": 7334
+    },
+    {
+      "text": "Mee-seva",
+      "label": "OTHER_PERSON",
+      "start_char": 7630,
+      "end_char": 7638
+    },
+    {
+      "text": "O.P.No.1121 of 2012",
+      "label": "CASE_NUMBER",
+      "start_char": 7649,
+      "end_char": 7668
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 7675,
+      "end_char": 7685
+    },
+    {
+      "text": "Act, 1996",
+      "label": "STATUTE",
+      "start_char": 7693,
+      "end_char": 7702
+    },
+    {
+      "text": "C.O.P.No.119 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 7783,
+      "end_char": 7803
+    },
+    {
+      "text": "01.03.2008",
+      "label": "DATE",
+      "start_char": 7933,
+      "end_char": 7943
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 7946,
+      "end_char": 7949
+    },
+    {
+      "text": "GRR",
+      "label": "JUDGE",
+      "start_char": 7957,
+      "end_char": 7960
+    },
+    {
+      "text": "CA No.33 OF 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 7967,
+      "end_char": 7983
+    },
+    {
+      "text": "30.06.2009",
+      "label": "DATE",
+      "start_char": 8077,
+      "end_char": 8087
+    },
+    {
+      "text": "State of Telangana",
+      "label": "GPE",
+      "start_char": 8369,
+      "end_char": 8387
+    },
+    {
+      "text": "State of Andhra Pradesh",
+      "label": "ORG",
+      "start_char": 8408,
+      "end_char": 8431
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 8517,
+      "end_char": 8527
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 8636,
+      "end_char": 8646
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 8692,
+      "end_char": 8702
+    },
+    {
+      "text": "30.06.2009",
+      "label": "DATE",
+      "start_char": 8936,
+      "end_char": 8946
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 9142,
+      "end_char": 9145
+    },
+    {
+      "text": "GRR",
+      "label": "JUDGE",
+      "start_char": 9153,
+      "end_char": 9156
+    },
+    {
+      "text": "CA No.33 OF 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 9163,
+      "end_char": 9179
+    },
+    {
+      "text": "State of Andhra Pradesh",
+      "label": "GPE",
+      "start_char": 9220,
+      "end_char": 9243
+    },
+    {
+      "text": "Goverdhan Reddy",
+      "label": "OTHER_PERSON",
+      "start_char": 9248,
+      "end_char": 9263
+    },
+    {
+      "text": "No.205",
+      "label": "CASE_NUMBER",
+      "start_char": 9321,
+      "end_char": 9327
+    },
+    {
+      "text": "dt.30.06.2009",
+      "label": "DATE",
+      "start_char": 9328,
+      "end_char": 9341
+    },
+    {
+      "text": "Section 32",
+      "label": "PROVISION",
+      "start_char": 9847,
+      "end_char": 9857
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 10106,
+      "end_char": 10116
+    },
+    {
+      "text": "Article 3.1",
+      "label": "PROVISION",
+      "start_char": 10494,
+      "end_char": 10505
+    },
+    {
+      "text": "Article 3.2.1",
+      "label": "PROVISION",
+      "start_char": 10572,
+      "end_char": 10585
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 10596,
+      "end_char": 10599
+    },
+    {
+      "text": "GRR,J COM CA No.33 OF 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 10607,
+      "end_char": 10633
+    },
+    {
+      "text": "31.03.2007",
+      "label": "DATE",
+      "start_char": 10822,
+      "end_char": 10832
+    },
+    {
+      "text": "01.04.2007",
+      "label": "DATE",
+      "start_char": 10929,
+      "end_char": 10939
+    },
+    {
+      "text": "01.03.2008",
+      "label": "DATE",
+      "start_char": 11022,
+      "end_char": 11032
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 11500,
+      "end_char": 11510
+    },
+    {
+      "text": "State of Telangana",
+      "label": "GPE",
+      "start_char": 11784,
+      "end_char": 11802
+    },
+    {
+      "text": "Government of Andhra Pradesh",
+      "label": "ORG",
+      "start_char": 11928,
+      "end_char": 11956
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 11959,
+      "end_char": 11962
+    },
+    {
+      "text": "GRR",
+      "label": "JUDGE",
+      "start_char": 11970,
+      "end_char": 11973
+    },
+    {
+      "text": "CA No.33 OF 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 11980,
+      "end_char": 11996
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 12069,
+      "end_char": 12079
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 13126,
+      "end_char": 13136
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 13340,
+      "end_char": 13343
+    },
+    {
+      "text": "GRR",
+      "label": "JUDGE",
+      "start_char": 13351,
+      "end_char": 13354
+    },
+    {
+      "text": "Sections 171, 322, and 333",
+      "label": "PROVISION",
+      "start_char": 13512,
+      "end_char": 13538
+    },
+    {
+      "text": "Section 2(1)(c)4 has",
+      "label": "PROVISION",
+      "start_char": 13557,
+      "end_char": 13577
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 13727,
+      "end_char": 13737
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 13739,
+      "end_char": 13749
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 13890,
+      "end_char": 13900
+    },
+    {
+      "text": "Section 32",
+      "label": "PROVISION",
+      "start_char": 13902,
+      "end_char": 13912
+    },
+    {
+      "text": "S.17",
+      "label": "PROVISION",
+      "start_char": 13939,
+      "end_char": 13943
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 15339,
+      "end_char": 15349
+    },
+    {
+      "text": "Code of Civil Procedure,1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 15508,
+      "end_char": 15548
+    },
+    {
+      "text": "section 33 and sub-section (4) of section 34",
+      "label": "PROVISION",
+      "start_char": 16297,
+      "end_char": 16341
+    },
+    {
+      "text": "Section 31",
+      "label": "PROVISION",
+      "start_char": 18194,
+      "end_char": 18204
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 18470,
+      "end_char": 18473
+    },
+    {
+      "text": "GRR",
+      "label": "JUDGE",
+      "start_char": 18481,
+      "end_char": 18484
+    },
+    {
+      "text": "COM CA No.33 OF 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 18487,
+      "end_char": 18507
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 18884,
+      "end_char": 18894
+    },
+    {
+      "text": "PNR,J & Dr.GRR,J COM CA No.33 OF 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 20151,
+      "end_char": 20188
+    },
+    {
+      "text": "sub-sections (1) and (2) of Section 33",
+      "label": "PROVISION",
+      "start_char": 20491,
+      "end_char": 20529
+    },
+    {
+      "text": "section 33",
+      "label": "PROVISION",
+      "start_char": 21060,
+      "end_char": 21070
+    },
+    {
+      "text": "Section 345",
+      "label": "PROVISION",
+      "start_char": 21223,
+      "end_char": 21234
+    },
+    {
+      "text": "S.34",
+      "label": "PROVISION",
+      "start_char": 21356,
+      "end_char": 21360
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 22527,
+      "end_char": 22530
+    },
+    {
+      "text": "GRR",
+      "label": "JUDGE",
+      "start_char": 22538,
+      "end_char": 22541
+    },
+    {
+      "text": "CA No.33 OF 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 22548,
+      "end_char": 22564
+    },
+    {
+      "text": "Project Director, National Highways Nos.45E and 220, National Highways Authority of India vs. M.Hakeem and others6",
+      "label": "PRECEDENT",
+      "start_char": 22864,
+      "end_char": 22978
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 22992,
+      "end_char": 23005
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 23070,
+      "end_char": 23080
+    },
+    {
+      "text": "sub-sections (2) and (3) of Section 34",
+      "label": "PROVISION",
+      "start_char": 23227,
+      "end_char": 23265
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 23301,
+      "end_char": 23311
+    },
+    {
+      "text": "P. Ramanatha Aiyar",
+      "label": "OTHER_PERSON",
+      "start_char": 23505,
+      "end_char": 23523
+    },
+    {
+      "text": "sub-section (1) of Section 34",
+      "label": "PROVISION",
+      "start_char": 24007,
+      "end_char": 24036
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 24064,
+      "end_char": 24074
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 24464,
+      "end_char": 24474
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 25098,
+      "end_char": 25103
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 25224,
+      "end_char": 25229
+    },
+    {
+      "text": "section 75 or section 81",
+      "label": "PROVISION",
+      "start_char": 25340,
+      "end_char": 25364
+    },
+    {
+      "text": "section 33",
+      "label": "PROVISION",
+      "start_char": 26301,
+      "end_char": 26311
+    },
+    {
+      "text": "(2021) 9 SCC 1",
+      "label": "PRECEDENT",
+      "start_char": 27521,
+      "end_char": 27535
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 27536,
+      "end_char": 27539
+    },
+    {
+      "text": "GRR,J COM CA No.33 OF 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 27547,
+      "end_char": 27573
+    },
+    {
+      "text": "McDermott International Inc. v. Burn Standard Co. Ltd., (2006) 11 SCC 181",
+      "label": "PRECEDENT",
+      "start_char": 27684,
+      "end_char": 27757
+    },
+    {
+      "text": "Kinnari Mullick v. Ghanshyam Das Damani, (2018) 11 SCC 328 : (2018) 5 SCC (Civ) 106",
+      "label": "PRECEDENT",
+      "start_char": 27762,
+      "end_char": 27845
+    },
+    {
+      "text": "Dakshin Haryana Bijli Vitran Nigam Ltd. v. Navigant Technologies (P) Ltd., (2021) 7 SCC 657",
+      "label": "PRECEDENT",
+      "start_char": 27850,
+      "end_char": 27941
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 28064,
+      "end_char": 28074
+    },
+    {
+      "text": "UNCITRAL Model Law on International Commercial Arbitration, 1985",
+      "label": "STATUTE",
+      "start_char": 28252,
+      "end_char": 28316
+    },
+    {
+      "text": "Redfern",
+      "label": "OTHER_PERSON",
+      "start_char": 28351,
+      "end_char": 28358
+    },
+    {
+      "text": "Hunter",
+      "label": "OTHER_PERSON",
+      "start_char": 28363,
+      "end_char": 28369
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 28558,
+      "end_char": 28568
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 28705,
+      "end_char": 28715
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 28723,
+      "end_char": 28744
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 28827,
+      "end_char": 28837
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "start_char": 29030,
+      "end_char": 29040
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "start_char": 29062,
+      "end_char": 29072
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 29180,
+      "end_char": 29190
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 29198,
+      "end_char": 29219
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "start_char": 29236,
+      "end_char": 29246
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 29347,
+      "end_char": 29368
+    },
+    {
+      "text": "Ragya Bee and others vs. P.S.R. Constructions and others7",
+      "label": "PRECEDENT",
+      "start_char": 29474,
+      "end_char": 29531
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 29593,
+      "end_char": 29603
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 29663,
+      "end_char": 29676
+    },
+    {
+      "text": "McDermott International Inc Vs Burn Standard Company Limited8",
+      "label": "PRECEDENT",
+      "start_char": 29680,
+      "end_char": 29741
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 29809,
+      "end_char": 29822
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 29853,
+      "end_char": 29863
+    },
+    {
+      "text": "McDermott International Inc",
+      "label": "ORG",
+      "start_char": 29982,
+      "end_char": 30009
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 30813,
+      "end_char": 30826
+    },
+    {
+      "text": "M.Hakeem",
+      "label": "PRECEDENT",
+      "start_char": 30830,
+      "end_char": 30838
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 30994,
+      "end_char": 31007
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 31018,
+      "end_char": 31028
+    },
+    {
+      "text": "Delhi Airport Metro Express Pvt. Ltd. Vs.",
+      "label": "PRECEDENT",
+      "start_char": 31125,
+      "end_char": 31166
+    },
+    {
+      "text": "Delhi Metro Rail Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 31167,
+      "end_char": 31200
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 31290,
+      "end_char": 31300
+    },
+    {
+      "text": "2022 (3) ALD 151 (2006) 11 SCC 181 (2022) 1 SCC 131",
+      "label": "PRECEDENT",
+      "start_char": 31676,
+      "end_char": 31727
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 31728,
+      "end_char": 31731
+    },
+    {
+      "text": "GRR",
+      "label": "JUDGE",
+      "start_char": 31739,
+      "end_char": 31742
+    },
+    {
+      "text": "COM CA No.33 OF 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 31745,
+      "end_char": 31765
+    },
+    {
+      "text": "Section 34(2-A)",
+      "label": "PROVISION",
+      "start_char": 33254,
+      "end_char": 33269
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 34106,
+      "end_char": 34116
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 34234,
+      "end_char": 34244
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 34278,
+      "end_char": 34288
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 34393,
+      "end_char": 34403
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 34759,
+      "end_char": 34762
+    },
+    {
+      "text": "GRR",
+      "label": "JUDGE",
+      "start_char": 34770,
+      "end_char": 34773
+    },
+    {
+      "text": "CA No.33 OF 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 34780,
+      "end_char": 34796
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 35040,
+      "end_char": 35050
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 35143,
+      "end_char": 35153
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 35407,
+      "end_char": 35417
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 35819,
+      "end_char": 35829
+    },
+    {
+      "text": "Vilas V.Afzulpurkar",
+      "label": "JUDGE",
+      "start_char": 36142,
+      "end_char": 36161
+    },
+    {
+      "text": "PNR,J & Dr.GRR,J COM CA No.33 OF 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 36303,
+      "end_char": 36340
+    },
+    {
+      "text": "Vilas V.Afzulpurkar",
+      "label": "JUDGE",
+      "start_char": 36416,
+      "end_char": 36435
+    },
+    {
+      "text": "Vilas V.Afzulpurkar",
+      "label": "JUDGE",
+      "start_char": 36494,
+      "end_char": 36513
+    },
+    {
+      "text": "Vilas V.Afzulpurkar",
+      "label": "JUDGE",
+      "start_char": 36775,
+      "end_char": 36794
+    },
+    {
+      "text": "P.NAVEEN RAO",
+      "label": "JUDGE",
+      "start_char": 37012,
+      "end_char": 37024
+    },
+    {
+      "text": "DR.G.RADHA RANI",
+      "label": "JUDGE",
+      "start_char": 37052,
+      "end_char": 37067
+    },
+    {
+      "text": "26.08.2022",
+      "label": "DATE",
+      "start_char": 37077,
+      "end_char": 37087
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 37097,
+      "end_char": 37100
+    },
+    {
+      "text": "GRR",
+      "label": "JUDGE",
+      "start_char": 37108,
+      "end_char": 37111
+    },
+    {
+      "text": "CA No.33 OF 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 37118,
+      "end_char": 37134
+    },
+    {
+      "text": "P.NAVEEN RAO",
+      "label": "JUDGE",
+      "start_char": 37166,
+      "end_char": 37178
+    },
+    {
+      "text": "RADHA RANI COMMERCIAL COURT",
+      "label": "JUDGE",
+      "start_char": 37204,
+      "end_char": 37231
+    },
+    {
+      "text": "26.08.2022",
+      "label": "DATE",
+      "start_char": 37325,
+      "end_char": 37335
+    }
+  ],
+  "precedent_clusters": {
+    "Director, Esd Mee Seva vs Cms Computers Limited And Another": [
+      "Director, Esd Mee Seva vs Cms Computers Limited And Another",
+      "Ragya Bee and others vs. P.S.R. Constructions and others7",
+      "McDermott International Inc Vs Burn Standard Company Limited8",
+      "Delhi Airport Metro Express Pvt. Ltd. Vs."
+    ],
+    "Project Director, National Highways Nos.45E and 220, National Highways Authority of India vs. M.Hakeem and others6": [
+      "Project Director, National Highways Nos.45E and 220, National Highways Authority of India vs. M.Hakeem and others6",
+      "M.Hakeem"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 34",
+      "Act, 1996",
+      "Section 34",
+      "Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Act, 1996",
+      "Section 34",
+      "Act, 1996"
+    ],
+    [
+      "section 37",
+      "Code of Civil Procedure,1908 (5 of 1908)",
+      "section 37",
+      "Code of Civil Procedure,1908 (5 of 1908)"
+    ],
+    [
+      "Section 34",
+      "UNCITRAL Model Law on International Commercial Arbitration, 1985",
+      "Section 34",
+      "UNCITRAL Model Law on International Commercial Arbitration, 1985"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act, 1996",
+      "Section 34",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act, 1996",
+      "Section 34",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "section 34",
+      "Act, 1996",
+      "section 34",
+      "Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Act, 1996",
+      "Section 34",
+      "Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Act, 1996",
+      "Section 34",
+      "Act, 1996"
+    ],
+    [
+      "section 34",
+      "Act, 1996",
+      "section 34",
+      "Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Act, 1996",
+      "Section 34",
+      "Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Act, 1996",
+      "Section 34",
+      "Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Act, 1996",
+      "Section 34",
+      "Act, 1996"
+    ],
+    [
+      "Section 17",
+      "Act, 1996",
+      "Section 17",
+      "Act, 1996"
+    ],
+    [
+      "Section 17",
+      "Act, 1996",
+      "Section 17",
+      "Act, 1996"
+    ],
+    [
+      "Section 32",
+      "Act, 1996",
+      "Section 32",
+      "Act, 1996"
+    ],
+    [
+      "section 33 and sub-section (4) of section 34",
+      "Act, 1996",
+      "section 33 and sub-section (4) of section 34",
+      "Act, 1996"
+    ],
+    [
+      "sub-sections (1) and (2) of Section 33",
+      "Code of Civil Procedure,1908 (5 of 1908)",
+      "sub-sections (1) and (2) of Section 33",
+      "Code of Civil Procedure,1908 (5 of 1908)"
+    ],
+    [
+      "section 33",
+      "Code of Civil Procedure,1908 (5 of 1908)",
+      "section 33",
+      "Code of Civil Procedure,1908 (5 of 1908)"
+    ],
+    [
+      "Section 34",
+      "Act, 1996",
+      "Section 34",
+      "Act, 1996"
+    ],
+    [
+      "sub-sections (2) and (3) of Section 34",
+      "Act, 1996",
+      "sub-sections (2) and (3) of Section 34",
+      "Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Act, 1996",
+      "Section 34",
+      "Act, 1996"
+    ],
+    [
+      "sub-section (1) of Section 34",
+      "Act, 1996",
+      "sub-section (1) of Section 34",
+      "Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Act, 1996",
+      "Section 34",
+      "Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Act, 1996",
+      "Section 34",
+      "Act, 1996"
+    ],
+    [
+      "section 33",
+      "Code of Civil Procedure,1908 (5 of 1908)",
+      "section 33",
+      "Code of Civil Procedure,1908 (5 of 1908)"
+    ],
+    [
+      "Section 34",
+      "UNCITRAL Model Law on International Commercial Arbitration, 1985",
+      "Section 34",
+      "UNCITRAL Model Law on International Commercial Arbitration, 1985"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act, 1996",
+      "Section 34",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act, 1996",
+      "Section 34",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act, 1996",
+      "Section 34",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act, 1996",
+      "Section 34",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act, 1996",
+      "Section 34",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34(2-A)",
+      "Arbitration Act, 1996",
+      "Section 34(2-A)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act, 1996",
+      "Section 34",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act, 1996",
+      "Section 34",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act, 1996",
+      "Section 34",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "section 34",
+      "Arbitration Act, 1996",
+      "section 34",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act, 1996",
+      "Section 34",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act, 1996",
+      "Section 34",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act, 1996",
+      "Section 34",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act, 1996",
+      "Section 34",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Article 3",
+      "Act, 1996",
+      "Article 3",
+      "Act, 1996"
+    ],
+    [
+      "Article 4.1",
+      "Act, 1996",
+      "Article 4.1",
+      "Act, 1996"
+    ],
+    [
+      "Section 32",
+      "Act, 1996",
+      "Section 32",
+      "Act, 1996"
+    ],
+    [
+      "Article 3.1",
+      "Act, 1996",
+      "Article 3.1",
+      "Act, 1996"
+    ],
+    [
+      "Article 3.2.1",
+      "Act, 1996",
+      "Article 3.2.1",
+      "Act, 1996"
+    ],
+    [
+      "Sections 171, 322, and 333",
+      "Act, 1996",
+      "Sections 171, 322, and 333",
+      "Act, 1996"
+    ],
+    [
+      "Section 2(1)(c)4 has",
+      "Act, 1996",
+      "Section 2(1)(c)4 has",
+      "Act, 1996"
+    ],
+    [
+      "Section 17",
+      "Act, 1996",
+      "Section 17",
+      "Act, 1996"
+    ],
+    [
+      "S.17",
+      "Act, 1996",
+      "S.17",
+      "Act, 1996"
+    ],
+    [
+      "Section 31",
+      "Code of Civil Procedure,1908 (5 of 1908)",
+      "Section 31",
+      "Code of Civil Procedure,1908 (5 of 1908)"
+    ],
+    [
+      "Section 33",
+      "Code of Civil Procedure,1908 (5 of 1908)",
+      "Section 33",
+      "Code of Civil Procedure,1908 (5 of 1908)"
+    ],
+    [
+      "Section 345",
+      "Code of Civil Procedure,1908 (5 of 1908)",
+      "Section 345",
+      "Code of Civil Procedure,1908 (5 of 1908)"
+    ],
+    [
+      "S.34",
+      "Code of Civil Procedure,1908 (5 of 1908)",
+      "S.34",
+      "Code of Civil Procedure,1908 (5 of 1908)"
+    ],
+    [
+      "section 75 or section 81",
+      "Code of Civil Procedure,1908 (5 of 1908)",
+      "section 75 or section 81",
+      "Code of Civil Procedure,1908 (5 of 1908)"
+    ]
+  ],
+  "precedent_counts": {
+    "Director, Esd Mee Seva vs Cms Computers Limited And Another": 4,
+    "Project Director, National Highways Nos.45E and 220, National Highways Authority of India vs. M.Hakeem and others6": 2
+  },
+  "provision_counts": {
+    "Section 34 of Act, 1996": 11,
+    "section 37 of Code of Civil Procedure,1908 (5 of 1908)": 1,
+    "Section 34 of UNCITRAL Model Law on International Commercial Arbitration, 1985": 2,
+    "Section 34 of Arbitration Act, 1996": 14,
+    "section 34 of Act, 1996": 2,
+    "Section 17 of Act, 1996": 3,
+    "Section 32 of Act, 1996": 2,
+    "section 33 and sub-section (4) of section 34 of Act, 1996": 1,
+    "sub-sections (1) and (2) of Section 33 of Code of Civil Procedure,1908 (5 of 1908)": 1,
+    "section 33 of Code of Civil Procedure,1908 (5 of 1908)": 2,
+    "sub-sections (2) and (3) of Section 34 of Act, 1996": 1,
+    "sub-section (1) of Section 34 of Act, 1996": 1,
+    "Section 34(2-A) of Arbitration Act, 1996": 1,
+    "section 34 of Arbitration Act, 1996": 1,
+    "Article 3 of Act, 1996": 1,
+    "Article 4.1 of Act, 1996": 1,
+    "Article 3.1 of Act, 1996": 1,
+    "Article 3.2.1 of Act, 1996": 1,
+    "Sections 171, 322, and 333 of Act, 1996": 1,
+    "Section 2(1)(c)4 has of Act, 1996": 1,
+    "S.17 of Act, 1996": 1,
+    "Section 31 of Code of Civil Procedure,1908 (5 of 1908)": 1,
+    "Section 33 of Code of Civil Procedure,1908 (5 of 1908)": 1,
+    "Section 345 of Code of Civil Procedure,1908 (5 of 1908)": 1,
+    "S.34 of Code of Civil Procedure,1908 (5 of 1908)": 1,
+    "section 75 or section 81 of Code of Civil Procedure,1908 (5 of 1908)": 1
+  },
+  "statute_counts": {
+    "Act, 1996": 28,
+    "Code of Civil Procedure,1908 (5 of 1908)": 9,
+    "UNCITRAL Model Law on International Commercial Arbitration, 1985": 2,
+    "Arbitration Act, 1996": 16
+  }
+}

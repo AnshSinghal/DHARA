@@ -1,0 +1,1393 @@
+{
+  "entities": [
+    {
+      "text": "Jharkhand High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 20
+    },
+    {
+      "text": "Vikash Kumar",
+      "label": "RESPONDENT",
+      "start_char": 64,
+      "end_char": 76
+    },
+    {
+      "text": "Anil Kumar Choudhary",
+      "label": "LAWYER",
+      "start_char": 102,
+      "end_char": 122
+    },
+    {
+      "text": "Anil Kumar Choudhary",
+      "label": "JUDGE",
+      "start_char": 130,
+      "end_char": 150
+    },
+    {
+      "text": "High Court Of Jharkhand At Ranchi",
+      "label": "COURT",
+      "start_char": 277,
+      "end_char": 310
+    },
+    {
+      "text": "No. 3941 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 350,
+      "end_char": 366
+    },
+    {
+      "text": "27.04.2019",
+      "label": "DATE",
+      "start_char": 398,
+      "end_char": 408
+    },
+    {
+      "text": "District Judge-XIV-cum-       Presiding Officer, Commercial Court, Dhanbad",
+      "label": "COURT",
+      "start_char": 423,
+      "end_char": 497
+    },
+    {
+      "text": "Execution Case No. 29 of       2019",
+      "label": "CASE_NUMBER",
+      "start_char": 501,
+      "end_char": 536
+    },
+    {
+      "text": "Daimler Financial Services India Pvt",
+      "label": "ORG",
+      "start_char": 549,
+      "end_char": 585
+    },
+    {
+      "text": "Companies Act, 1956",
+      "label": "STATUTE",
+      "start_char": 637,
+      "end_char": 656
+    },
+    {
+      "text": "-Perungudi",
+      "label": "GPE",
+      "start_char": 787,
+      "end_char": 797
+    },
+    {
+      "text": "-Chennai",
+      "label": "GPE",
+      "start_char": 808,
+      "end_char": 816
+    },
+    {
+      "text": "Tamil Nadu",
+      "label": "GPE",
+      "start_char": 826,
+      "end_char": 836
+    },
+    {
+      "text": "Manoj Bijwe",
+      "label": "OTHER_PERSON",
+      "start_char": 884,
+      "end_char": 895
+    },
+    {
+      "text": "-Krishna Rao",
+      "label": "OTHER_PERSON",
+      "start_char": 901,
+      "end_char": 913
+    },
+    {
+      "text": "Daimler Financial Services India Pvt",
+      "label": "ORG",
+      "start_char": 947,
+      "end_char": 983
+    },
+    {
+      "text": "RMZ Millenia Business Park",
+      "label": "ORG",
+      "start_char": 1042,
+      "end_char": 1068
+    },
+    {
+      "text": "-Perungudi",
+      "label": "GPE",
+      "start_char": 1117,
+      "end_char": 1127
+    },
+    {
+      "text": "-Chennai",
+      "label": "GPE",
+      "start_char": 1138,
+      "end_char": 1146
+    },
+    {
+      "text": "State -Tamil Nadu",
+      "label": "GPE",
+      "start_char": 1157,
+      "end_char": 1174
+    },
+    {
+      "text": "Vikash Kumar",
+      "label": "RESPONDENT",
+      "start_char": 1313,
+      "end_char": 1325
+    },
+    {
+      "text": "Purnima            ",
+      "label": "GPE",
+      "start_char": 1369,
+      "end_char": 1388
+    },
+    {
+      "text": "Koderma",
+      "label": "GPE",
+      "start_char": 1472,
+      "end_char": 1479
+    },
+    {
+      "text": "Jharkhand-",
+      "label": "GPE",
+      "start_char": 1481,
+      "end_char": 1491
+    },
+    {
+      "text": "Vikram Kumar",
+      "label": "OTHER_PERSON",
+      "start_char": 1512,
+      "end_char": 1524
+    },
+    {
+      "text": "Koderma",
+      "label": "GPE",
+      "start_char": 1670,
+      "end_char": 1677
+    },
+    {
+      "text": "Jharkhand-",
+      "label": "GPE",
+      "start_char": 1679,
+      "end_char": 1689
+    },
+    {
+      "text": "ANIL KUMAR CHOUDHARY",
+      "label": "JUDGE",
+      "start_char": 1860,
+      "end_char": 1880
+    },
+    {
+      "text": "Bharat Kumar",
+      "label": "LAWYER",
+      "start_char": 1949,
+      "end_char": 1961
+    },
+    {
+      "text": "Mitul Kumar",
+      "label": "LAWYER",
+      "start_char": 1997,
+      "end_char": 2008
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 2218,
+      "end_char": 2229
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 2237,
+      "end_char": 2258
+    },
+    {
+      "text": "Execution Case No. 29 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 2395,
+      "end_char": 2424
+    },
+    {
+      "text": "commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 2809,
+      "end_char": 2836
+    },
+    {
+      "text": "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Act, 2018 (28 of 2018)",
+      "label": "STATUTE",
+      "start_char": 2860,
+      "end_char": 2982
+    },
+    {
+      "text": "amendment Act of 28 of 2018",
+      "label": "STATUTE",
+      "start_char": 3017,
+      "end_char": 3044
+    },
+    {
+      "text": "Bharat Kumar",
+      "label": "LAWYER",
+      "start_char": 3074,
+      "end_char": 3086
+    },
+    {
+      "text": "Execution Case No. 29 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 3440,
+      "end_char": 3469
+    },
+    {
+      "text": "Commercial Court, Dhanbad",
+      "label": "COURT",
+      "start_char": 3477,
+      "end_char": 3502
+    },
+    {
+      "text": "Section 3 (1-A)",
+      "label": "PROVISION",
+      "start_char": 3521,
+      "end_char": 3536
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 3544,
+      "end_char": 3571
+    },
+    {
+      "text": "amendment Act of 28 of 2018",
+      "label": "STATUTE",
+      "start_char": 3590,
+      "end_char": 3617
+    },
+    {
+      "text": "03.05.2018",
+      "label": "DATE",
+      "start_char": 3663,
+      "end_char": 3673
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 4200,
+      "end_char": 4218
+    },
+    {
+      "text": "Section 3 (1-A)",
+      "label": "PROVISION",
+      "start_char": 4277,
+      "end_char": 4292
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 4300,
+      "end_char": 4327
+    },
+    {
+      "text": "Kumar",
+      "label": "OTHER_PERSON",
+      "start_char": 4533,
+      "end_char": 4538
+    },
+    {
+      "text": "Section 2(1) (i)",
+      "label": "PROVISION",
+      "start_char": 4613,
+      "end_char": 4629
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 4637,
+      "end_char": 4664
+    },
+    {
+      "text": "section 12",
+      "label": "PROVISION",
+      "start_char": 4901,
+      "end_char": 4911
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 5009,
+      "end_char": 5027
+    },
+    {
+      "text": "03.05.2018",
+      "label": "DATE",
+      "start_char": 5139,
+      "end_char": 5149
+    },
+    {
+      "text": "amendment Act of 28 of 2018",
+      "label": "STATUTE",
+      "start_char": 5180,
+      "end_char": 5207
+    },
+    {
+      "text": "Dhanbad",
+      "label": "GPE",
+      "start_char": 5419,
+      "end_char": 5426
+    },
+    {
+      "text": "24th may, 2016",
+      "label": "DATE",
+      "start_char": 5467,
+      "end_char": 5481
+    },
+    {
+      "text": "27th may, 2016",
+      "label": "DATE",
+      "start_char": 5498,
+      "end_char": 5512
+    },
+    {
+      "text": "Section 3(1)",
+      "label": "PROVISION",
+      "start_char": 5552,
+      "end_char": 5564
+    },
+    {
+      "text": "Commercial Appellate Division of High Court Act, 2015",
+      "label": "STATUTE",
+      "start_char": 5615,
+      "end_char": 5668
+    },
+    {
+      "text": "High Court of Jharkhand, Ranchi",
+      "label": "COURT",
+      "start_char": 5724,
+      "end_char": 5755
+    },
+    {
+      "text": "Ranchi",
+      "label": "GPE",
+      "start_char": 5810,
+      "end_char": 5816
+    },
+    {
+      "text": "Dhanbad",
+      "label": "GPE",
+      "start_char": 5818,
+      "end_char": 5825
+    },
+    {
+      "text": "Singhbhum",
+      "label": "GPE",
+      "start_char": 5833,
+      "end_char": 5842
+    },
+    {
+      "text": "Jamshedpur)",
+      "label": "GPE",
+      "start_char": 5844,
+      "end_char": 5855
+    },
+    {
+      "text": "Ranchi",
+      "label": "GPE",
+      "start_char": 5923,
+      "end_char": 5929
+    },
+    {
+      "text": "Dhanbad",
+      "label": "GPE",
+      "start_char": 5931,
+      "end_char": 5938
+    },
+    {
+      "text": "East Singhbhum",
+      "label": "GPE",
+      "start_char": 5943,
+      "end_char": 5957
+    },
+    {
+      "text": "Jamshedpur",
+      "label": "GPE",
+      "start_char": 5959,
+      "end_char": 5969
+    },
+    {
+      "text": "Ranchi",
+      "label": "GPE",
+      "start_char": 6000,
+      "end_char": 6006
+    },
+    {
+      "text": "Dhanbad",
+      "label": "GPE",
+      "start_char": 6008,
+      "end_char": 6015
+    },
+    {
+      "text": "East Singhbhum",
+      "label": "GPE",
+      "start_char": 6020,
+      "end_char": 6034
+    },
+    {
+      "text": "Jamshedpur",
+      "label": "GPE",
+      "start_char": 6036,
+      "end_char": 6046
+    },
+    {
+      "text": "Vidhi-Court",
+      "label": "COURT",
+      "start_char": 6173,
+      "end_char": 6184
+    },
+    {
+      "text": "Jharkhand",
+      "label": "GPE",
+      "start_char": 6243,
+      "end_char": 6252
+    },
+    {
+      "text": "Dinesh Kumar Singh",
+      "label": "OTHER_PERSON",
+      "start_char": 6254,
+      "end_char": 6272
+    },
+    {
+      "text": "Jharkhand",
+      "label": "GPE",
+      "start_char": 6326,
+      "end_char": 6335
+    },
+    {
+      "text": "Ranchi",
+      "label": "GPE",
+      "start_char": 6337,
+      "end_char": 6343
+    },
+    {
+      "text": "Section 3(1)",
+      "label": "PROVISION",
+      "start_char": 6655,
+      "end_char": 6667
+    },
+    {
+      "text": "High Court of Jharkhand, Ranchi",
+      "label": "COURT",
+      "start_char": 6827,
+      "end_char": 6858
+    },
+    {
+      "text": "Ranchi",
+      "label": "GPE",
+      "start_char": 6920,
+      "end_char": 6926
+    },
+    {
+      "text": "Dhanbad",
+      "label": "GPE",
+      "start_char": 6928,
+      "end_char": 6935
+    },
+    {
+      "text": "Singhbhum",
+      "label": "GPE",
+      "start_char": 6943,
+      "end_char": 6952
+    },
+    {
+      "text": "Jamshedpur",
+      "label": "GPE",
+      "start_char": 6954,
+      "end_char": 6964
+    },
+    {
+      "text": "24.05.2016",
+      "label": "DATE",
+      "start_char": 7020,
+      "end_char": 7030
+    },
+    {
+      "text": "High Court of Jharkhand, Ranchi",
+      "label": "COURT",
+      "start_char": 7110,
+      "end_char": 7141
+    },
+    {
+      "text": "24.05.2016",
+      "label": "DATE",
+      "start_char": 7400,
+      "end_char": 7410
+    },
+    {
+      "text": "Ranchi Ranchi",
+      "label": "GPE",
+      "start_char": 7422,
+      "end_char": 7435
+    },
+    {
+      "text": "Chotanagpur Division",
+      "label": "GPE",
+      "start_char": 7442,
+      "end_char": 7462
+    },
+    {
+      "text": "Palamau Division",
+      "label": "GPE",
+      "start_char": 7467,
+      "end_char": 7483
+    },
+    {
+      "text": "Dhanbad Dhanbad",
+      "label": "GPE",
+      "start_char": 7487,
+      "end_char": 7502
+    },
+    {
+      "text": "Chotanagpur Division",
+      "label": "GPE",
+      "start_char": 7509,
+      "end_char": 7529
+    },
+    {
+      "text": "Santhal Pargana Division",
+      "label": "GPE",
+      "start_char": 7534,
+      "end_char": 7558
+    },
+    {
+      "text": "East East Singhbhum",
+      "label": "RESPONDENT",
+      "start_char": 7562,
+      "end_char": 7581
+    },
+    {
+      "text": "Jamshedpur",
+      "label": "GPE",
+      "start_char": 7583,
+      "end_char": 7593
+    },
+    {
+      "text": "Kolhan Division Singhbhum",
+      "label": "OTHER_PERSON",
+      "start_char": 7595,
+      "end_char": 7620
+    },
+    {
+      "text": "Jamshedpur",
+      "label": "GPE",
+      "start_char": 7622,
+      "end_char": 7632
+    },
+    {
+      "text": "24.05.2016",
+      "label": "DATE",
+      "start_char": 7766,
+      "end_char": 7776
+    },
+    {
+      "text": "Vidhi-Court",
+      "label": "COURT",
+      "start_char": 7851,
+      "end_char": 7862
+    },
+    {
+      "text": "Gathan",
+      "label": "JUDGE",
+      "start_char": 7863,
+      "end_char": 7869
+    },
+    {
+      "text": "Jharkhand",
+      "label": "GPE",
+      "start_char": 7921,
+      "end_char": 7930
+    },
+    {
+      "text": "Dinesh Kumar Singh",
+      "label": "OTHER_PERSON",
+      "start_char": 7932,
+      "end_char": 7950
+    },
+    {
+      "text": "Jharkhand",
+      "label": "GPE",
+      "start_char": 8004,
+      "end_char": 8013
+    },
+    {
+      "text": "Ranchi",
+      "label": "GPE",
+      "start_char": 8015,
+      "end_char": 8021
+    },
+    {
+      "text": "Kumar",
+      "label": "OTHER_PERSON",
+      "start_char": 8047,
+      "end_char": 8052
+    },
+    {
+      "text": "Amendment Act, 28 of 2018",
+      "label": "STATUTE",
+      "start_char": 8107,
+      "end_char": 8132
+    },
+    {
+      "text": "20.08.2018",
+      "label": "DATE",
+      "start_char": 8169,
+      "end_char": 8179
+    },
+    {
+      "text": "20.08.2019",
+      "label": "DATE",
+      "start_char": 8323,
+      "end_char": 8333
+    },
+    {
+      "text": "21.08.2018",
+      "label": "DATE",
+      "start_char": 8384,
+      "end_char": 8394
+    },
+    {
+      "text": "03.05.2018",
+      "label": "DATE",
+      "start_char": 8459,
+      "end_char": 8469
+    },
+    {
+      "text": "Kumar",
+      "label": "OTHER_PERSON",
+      "start_char": 8479,
+      "end_char": 8484
+    },
+    {
+      "text": "section 2(1)(i) and section 3(1-A)",
+      "label": "PROVISION",
+      "start_char": 8680,
+      "end_char": 8714
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 8814,
+      "end_char": 8832
+    },
+    {
+      "text": "section 2(1)(i)",
+      "label": "PROVISION",
+      "start_char": 8895,
+      "end_char": 8910
+    },
+    {
+      "text": "Dhanbad",
+      "label": "GPE",
+      "start_char": 9506,
+      "end_char": 9513
+    },
+    {
+      "text": "section 3(1-A)",
+      "label": "PROVISION",
+      "start_char": 9710,
+      "end_char": 9724
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 9732,
+      "end_char": 9759
+    },
+    {
+      "text": "amendment Act of 28 of 2018",
+      "label": "STATUTE",
+      "start_char": 9778,
+      "end_char": 9805
+    },
+    {
+      "text": "section 2(1)(i)",
+      "label": "PROVISION",
+      "start_char": 10228,
+      "end_char": 10243
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 10251,
+      "end_char": 10278
+    },
+    {
+      "text": "Section 2(1)(i)",
+      "label": "PROVISION",
+      "start_char": 10507,
+      "end_char": 10522
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 10530,
+      "end_char": 10557
+    },
+    {
+      "text": "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Act, 2018 (28 of 2018)",
+      "label": "STATUTE",
+      "start_char": 10576,
+      "end_char": 10698
+    },
+    {
+      "text": "Section 2(1)(i)",
+      "label": "PROVISION",
+      "start_char": 10756,
+      "end_char": 10771
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 10779,
+      "end_char": 10806
+    },
+    {
+      "text": "Act 28 of 2018",
+      "label": "STATUTE",
+      "start_char": 10825,
+      "end_char": 10839
+    },
+    {
+      "text": "Commercial Court at Dhanbad",
+      "label": "COURT",
+      "start_char": 10849,
+      "end_char": 10876
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 10936,
+      "end_char": 10946
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 10954,
+      "end_char": 10981
+    },
+    {
+      "text": "Commercial Court at Dhanbad",
+      "label": "COURT",
+      "start_char": 11084,
+      "end_char": 11111
+    },
+    {
+      "text": "Bharat Kumar",
+      "label": "LAWYER",
+      "start_char": 11151,
+      "end_char": 11163
+    },
+    {
+      "text": "Gujarat High Court",
+      "label": "COURT",
+      "start_char": 11240,
+      "end_char": 11258
+    },
+    {
+      "text": "Vijay Cotton And Fiber Company vs. Agarwal Cotton Spinning Pvt",
+      "label": "PRECEDENT",
+      "start_char": 11275,
+      "end_char": 11337
+    },
+    {
+      "text": "11.02.2019",
+      "label": "DATE",
+      "start_char": 11350,
+      "end_char": 11360
+    },
+    {
+      "text": "Gujarat",
+      "label": "GPE",
+      "start_char": 11475,
+      "end_char": 11482
+    },
+    {
+      "text": "subsection (1) of Section 3",
+      "label": "PROVISION",
+      "start_char": 11836,
+      "end_char": 11863
+    },
+    {
+      "text": "Section 39",
+      "label": "PROVISION",
+      "start_char": 11983,
+      "end_char": 11993
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 11997,
+      "end_char": 12000
+    },
+    {
+      "text": "Section 2 (1) (e)",
+      "label": "PROVISION",
+      "start_char": 12125,
+      "end_char": 12142
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 12150,
+      "end_char": 12182
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 12193,
+      "end_char": 12202
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 12210,
+      "end_char": 12231
+    },
+    {
+      "text": "subsection (1) of Section 3",
+      "label": "PROVISION",
+      "start_char": 12345,
+      "end_char": 12372
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 12456,
+      "end_char": 12466
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 12474,
+      "end_char": 12489
+    },
+    {
+      "text": "C",
+      "label": "CASE_NUMBER",
+      "start_char": 12603,
+      "end_char": 12604
+    },
+    {
+      "text": "/",
+      "label": "CASE_NUMBER",
+      "start_char": 12604,
+      "end_char": 12605
+    },
+    {
+      "text": "AO/216/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 12605,
+      "end_char": 12616
+    },
+    {
+      "text": "Commercial Court Act",
+      "label": "STATUTE",
+      "start_char": 12919,
+      "end_char": 12939
+    },
+    {
+      "text": "Section 39",
+      "label": "PROVISION",
+      "start_char": 12999,
+      "end_char": 13009
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 13010,
+      "end_char": 13013
+    },
+    {
+      "text": "Bharat Kumar",
+      "label": "LAWYER",
+      "start_char": 13024,
+      "end_char": 13036
+    },
+    {
+      "text": "Supreme Court of India",
+      "label": "COURT",
+      "start_char": 13078,
+      "end_char": 13100
+    },
+    {
+      "text": "Radhey Shyam",
+      "label": "OTHER_PERSON",
+      "start_char": 13116,
+      "end_char": 13128
+    },
+    {
+      "text": "Chhabi Nath",
+      "label": "RESPONDENT",
+      "start_char": 13140,
+      "end_char": 13151
+    },
+    {
+      "text": "(2015) 5 SCC 423",
+      "label": "PRECEDENT",
+      "start_char": 13171,
+      "end_char": 13187
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 13287,
+      "end_char": 13298
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 13306,
+      "end_char": 13327
+    },
+    {
+      "text": "Kumar",
+      "label": "OTHER_PERSON",
+      "start_char": 13364,
+      "end_char": 13369
+    },
+    {
+      "text": "27.04.2019",
+      "label": "DATE",
+      "start_char": 13405,
+      "end_char": 13415
+    },
+    {
+      "text": "District Judge-XIV- cum-Presiding Officer, Commercial Court, Dhanbad",
+      "label": "COURT",
+      "start_char": 13430,
+      "end_char": 13498
+    },
+    {
+      "text": "Execution Case No. 29 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 13502,
+      "end_char": 13531
+    },
+    {
+      "text": "Commercial Court at Dhanbad",
+      "label": "COURT",
+      "start_char": 13565,
+      "end_char": 13592
+    },
+    {
+      "text": "Execution Case no. 29 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 13636,
+      "end_char": 13665
+    },
+    {
+      "text": "Mitul Kumar",
+      "label": "RESPONDENT",
+      "start_char": 13742,
+      "end_char": 13753
+    },
+    {
+      "text": "Mitul Kumar",
+      "label": "OTHER_PERSON",
+      "start_char": 13927,
+      "end_char": 13938
+    },
+    {
+      "text": "Bihar",
+      "label": "GPE",
+      "start_char": 14071,
+      "end_char": 14076
+    },
+    {
+      "text": "Section 2(1)(i)",
+      "label": "PROVISION",
+      "start_char": 14726,
+      "end_char": 14741
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 14749,
+      "end_char": 14770
+    },
+    {
+      "text": "section 3(1)",
+      "label": "PROVISION",
+      "start_char": 14869,
+      "end_char": 14881
+    },
+    {
+      "text": "commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 14889,
+      "end_char": 14916
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 14953,
+      "end_char": 14963
+    },
+    {
+      "text": "03.05.2018",
+      "label": "DATE",
+      "start_char": 15103,
+      "end_char": 15113
+    },
+    {
+      "text": "Kumar",
+      "label": "OTHER_PERSON",
+      "start_char": 15143,
+      "end_char": 15148
+    },
+    {
+      "text": "section 3 (1-A)",
+      "label": "PROVISION",
+      "start_char": 15191,
+      "end_char": 15206
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 15219,
+      "end_char": 15246
+    },
+    {
+      "text": "commercial Court at Dhanbad",
+      "label": "COURT",
+      "start_char": 15290,
+      "end_char": 15317
+    },
+    {
+      "text": "section 3(1)",
+      "label": "PROVISION",
+      "start_char": 15348,
+      "end_char": 15360
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 15368,
+      "end_char": 15389
+    },
+    {
+      "text": "24th May, 2016",
+      "label": "DATE",
+      "start_char": 15416,
+      "end_char": 15430
+    },
+    {
+      "text": "03.05.2018",
+      "label": "DATE",
+      "start_char": 15518,
+      "end_char": 15528
+    },
+    {
+      "text": "03.05.2018",
+      "label": "DATE",
+      "start_char": 15600,
+      "end_char": 15610
+    },
+    {
+      "text": "Mitul Kumar",
+      "label": "OTHER_PERSON",
+      "start_char": 15649,
+      "end_char": 15660
+    },
+    {
+      "text": "Commercial Court, Dhanbad",
+      "label": "COURT",
+      "start_char": 15793,
+      "end_char": 15818
+    },
+    {
+      "text": "Commercial Court, Dhanbad",
+      "label": "COURT",
+      "start_char": 16089,
+      "end_char": 16114
+    },
+    {
+      "text": "27.04.2019",
+      "label": "DATE",
+      "start_char": 16264,
+      "end_char": 16274
+    },
+    {
+      "text": "Commercial Court, Dhanbad",
+      "label": "COURT",
+      "start_char": 16308,
+      "end_char": 16333
+    },
+    {
+      "text": "Execution Case No. 29 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 16337,
+      "end_char": 16366
+    },
+    {
+      "text": "Commercial Court, Dhanbad",
+      "label": "COURT",
+      "start_char": 16432,
+      "end_char": 16457
+    },
+    {
+      "text": "27.04.2019",
+      "label": "DATE",
+      "start_char": 16587,
+      "end_char": 16597
+    },
+    {
+      "text": "District Judge-XIV-cum-Presiding Officer, Commercial Court, Dhanbad",
+      "label": "COURT",
+      "start_char": 16612,
+      "end_char": 16679
+    },
+    {
+      "text": "Execution Case No. 29 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 16683,
+      "end_char": 16712
+    },
+    {
+      "text": "commercial Court at Dhanbad",
+      "label": "COURT",
+      "start_char": 16800,
+      "end_char": 16827
+    },
+    {
+      "text": "Execution Case No. 29 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 16844,
+      "end_char": 16873
+    },
+    {
+      "text": "Execution Case No. 29 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 16979,
+      "end_char": 17008
+    },
+    {
+      "text": "Commercial Court, Dhanbad",
+      "label": "COURT",
+      "start_char": 17185,
+      "end_char": 17210
+    },
+    {
+      "text": "Anil Kumar Choudhary",
+      "label": "JUDGE",
+      "start_char": 17394,
+      "end_char": 17414
+    },
+    {
+      "text": "High Court of Jharkhand, Ranchi",
+      "label": "COURT",
+      "start_char": 17420,
+      "end_char": 17451
+    },
+    {
+      "text": "24th of June, 2020",
+      "label": "DATE",
+      "start_char": 17462,
+      "end_char": 17480
+    }
+  ],
+  "precedent_clusters": {},
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Section 3 (1-A)",
+      "Commercial Courts Act, 2015",
+      "Section 3 (1-A)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 3 (1-A)",
+      "Commercial Courts Act, 2015",
+      "Section 3 (1-A)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 2(1) (i)",
+      "Commercial Courts Act, 2015",
+      "Section 2(1) (i)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "section 12",
+      "amendment Act of 28 of 2018",
+      "section 12",
+      "amendment Act of 28 of 2018"
+    ],
+    [
+      "Section 3(1)",
+      "Commercial Appellate Division of High Court Act, 2015",
+      "Section 3(1)",
+      "Commercial Appellate Division of High Court Act, 2015"
+    ],
+    [
+      "section 3(1-A)",
+      "Commercial Courts Act, 2015",
+      "section 3(1-A)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "section 2(1)(i)",
+      "Commercial Courts Act, 2015",
+      "section 2(1)(i)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 2(1)(i)",
+      "Commercial Courts Act, 2015",
+      "Section 2(1)(i)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 2(1)(i)",
+      "Commercial Courts Act, 2015",
+      "Section 2(1)(i)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 12",
+      "Commercial Courts Act, 2015",
+      "Section 12",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 39",
+      "CPC",
+      "Section 39",
+      "CPC"
+    ],
+    [
+      "Section 2 (1) (e)",
+      "Arbitration and Conciliation Act",
+      "Section 2 (1) (e)",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 3",
+      "Commercial Courts Act",
+      "Section 3",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 39",
+      "CPC",
+      "Section 39",
+      "CPC"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Section 2(1)(i)",
+      "Commercial Courts Act",
+      "Section 2(1)(i)",
+      "Commercial Courts Act"
+    ],
+    [
+      "section 3(1)",
+      "commercial Courts Act, 2015",
+      "section 3(1)",
+      "commercial Courts Act, 2015"
+    ],
+    [
+      "section 3 (1-A)",
+      "Commercial Courts Act, 2015",
+      "section 3 (1-A)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "section 3(1)",
+      "Commercial Courts Act",
+      "section 3(1)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 3(1)",
+      "Commercial Appellate Division of High Court Act, 2015",
+      "Section 3(1)",
+      "Commercial Appellate Division of High Court Act, 2015"
+    ],
+    [
+      "section 2(1)(i) and section 3(1-A)",
+      "Commercial Appellate Division of High Court Act, 2015",
+      "section 2(1)(i) and section 3(1-A)",
+      "Commercial Appellate Division of High Court Act, 2015"
+    ],
+    [
+      "section 2(1)(i)",
+      "Commercial Courts Act, 2015",
+      "section 2(1)(i)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "subsection (1) of Section 3",
+      "Commercial Courts Act, 2015",
+      "subsection (1) of Section 3",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "subsection (1) of Section 3",
+      "Commercial Courts Act",
+      "subsection (1) of Section 3",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 12",
+      "amendment Act of 28 of 2018",
+      "Section 12",
+      "amendment Act of 28 of 2018"
+    ]
+  ],
+  "precedent_counts": {},
+  "provision_counts": {
+    "Article 227 of Constitution of India": 2,
+    "Section 3 (1-A) of Commercial Courts Act, 2015": 2,
+    "Section 2(1) (i) of Commercial Courts Act, 2015": 1,
+    "section 12 of amendment Act of 28 of 2018": 1,
+    "Section 3(1) of Commercial Appellate Division of High Court Act, 2015": 2,
+    "section 3(1-A) of Commercial Courts Act, 2015": 1,
+    "section 2(1)(i) of Commercial Courts Act, 2015": 2,
+    "Section 2(1)(i) of Commercial Courts Act, 2015": 2,
+    "Section 12 of Commercial Courts Act, 2015": 1,
+    "Section 39 of CPC": 2,
+    "Section 2 (1) (e) of Arbitration and Conciliation Act": 1,
+    "Section 3 of Commercial Courts Act": 1,
+    "Section 34 of Arbitration Act": 1,
+    "Section 2(1)(i) of Commercial Courts Act": 1,
+    "section 3(1) of commercial Courts Act, 2015": 1,
+    "section 3 (1-A) of Commercial Courts Act, 2015": 1,
+    "section 3(1) of Commercial Courts Act": 1,
+    "section 2(1)(i) and section 3(1-A) of Commercial Appellate Division of High Court Act, 2015": 1,
+    "subsection (1) of Section 3 of Commercial Courts Act, 2015": 1,
+    "subsection (1) of Section 3 of Commercial Courts Act": 1,
+    "Section 12 of amendment Act of 28 of 2018": 1
+  },
+  "statute_counts": {
+    "Constitution of India": 2,
+    "Commercial Courts Act, 2015": 11,
+    "amendment Act of 28 of 2018": 2,
+    "Commercial Appellate Division of High Court Act, 2015": 3,
+    "CPC": 2,
+    "Arbitration and Conciliation Act": 1,
+    "Commercial Courts Act": 4,
+    "Arbitration Act": 1,
+    "commercial Courts Act, 2015": 1
+  }
+}

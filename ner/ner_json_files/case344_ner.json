@@ -1,0 +1,754 @@
+{
+  "entities": [
+    {
+      "text": "Vittal Cashew Industries",
+      "label": "PETITIONER",
+      "start_char": 25,
+      "end_char": 49
+    },
+    {
+      "text": "Tropical Industries International Pvt",
+      "label": "RESPONDENT",
+      "start_char": 53,
+      "end_char": 90
+    },
+    {
+      "text": "S.R.Krishna Kumar",
+      "label": "LAWYER",
+      "start_char": 120,
+      "end_char": 137
+    },
+    {
+      "text": "S.R.Krishna Kumar",
+      "label": "JUDGE",
+      "start_char": 145,
+      "end_char": 162
+    },
+    {
+      "text": "High Court Of Karnataka At Bengaluru",
+      "label": "COURT",
+      "start_char": 378,
+      "end_char": 414
+    },
+    {
+      "text": "S.R.Krishna Kumar",
+      "label": "JUDGE",
+      "start_char": 567,
+      "end_char": 584
+    },
+    {
+      "text": "Vittal Cashew Industries",
+      "label": "PETITIONER",
+      "start_char": 692,
+      "end_char": 716
+    },
+    {
+      "text": "Vittal Impex",
+      "label": "RESPONDENT",
+      "start_char": 1139,
+      "end_char": 1151
+    },
+    {
+      "text": "Vandana S",
+      "label": "PETITIONER",
+      "start_char": 1555,
+      "end_char": 1564
+    },
+    {
+      "text": "Arun Shyam",
+      "label": "LAWYER",
+      "start_char": 1662,
+      "end_char": 1672
+    },
+    {
+      "text": "Rakesh Kini",
+      "label": "LAWYER",
+      "start_char": 1724,
+      "end_char": 1735
+    },
+    {
+      "text": "Tropical Industries International Pvt Ltd",
+      "label": "RESPONDENT",
+      "start_char": 1794,
+      "end_char": 1835
+    },
+    {
+      "text": "Vink Corporation Dmcc",
+      "label": "PETITIONER",
+      "start_char": 2370,
+      "end_char": 2391
+    },
+    {
+      "text": "Rohan Raj Savara",
+      "label": "LAWYER",
+      "start_char": 2629,
+      "end_char": 2645
+    },
+    {
+      "text": "Siddharth Muchandi",
+      "label": "LAWYER",
+      "start_char": 2725,
+      "end_char": 2743
+    },
+    {
+      "text": "Princy Ponnan",
+      "label": "LAWYER",
+      "start_char": 2767,
+      "end_char": 2780
+    },
+    {
+      "text": "Shyam V. Prasad",
+      "label": "LAWYER",
+      "start_char": 2790,
+      "end_char": 2805
+    },
+    {
+      "text": "O.S.No.506 / 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 3234,
+      "end_char": 3251
+    },
+    {
+      "text": "District Judge and Commercial Court, D.K., Mangalore",
+      "label": "COURT",
+      "start_char": 3284,
+      "end_char": 3336
+    },
+    {
+      "text": "Order 37",
+      "label": "PROVISION",
+      "start_char": 3677,
+      "end_char": 3685
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 3686,
+      "end_char": 3689
+    },
+    {
+      "text": "NC: 2023:KHC:22303",
+      "label": "CASE_NUMBER",
+      "start_char": 3759,
+      "end_char": 3777
+    },
+    {
+      "text": "I.A.1",
+      "label": "PETITIONER",
+      "start_char": 3839,
+      "end_char": 3844
+    },
+    {
+      "text": "Order 37 Rule 3(4)",
+      "label": "PROVISION",
+      "start_char": 3851,
+      "end_char": 3869
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 3870,
+      "end_char": 3873
+    },
+    {
+      "text": "19.07.2022",
+      "label": "DATE",
+      "start_char": 4397,
+      "end_char": 4407
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 4550,
+      "end_char": 4560
+    },
+    {
+      "text": "Civil Appeal No.5277/2022",
+      "label": "CASE_NUMBER",
+      "start_char": 4564,
+      "end_char": 4589
+    },
+    {
+      "text": "SLP (civil) No.13822/2022",
+      "label": "CASE_NUMBER",
+      "start_char": 4606,
+      "end_char": 4631
+    },
+    {
+      "text": "12.08.2022",
+      "label": "DATE",
+      "start_char": 4655,
+      "end_char": 4665
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 4671,
+      "end_char": 4681
+    },
+    {
+      "text": "19.07.2022",
+      "label": "DATE",
+      "start_char": 4718,
+      "end_char": 4728
+    },
+    {
+      "text": "30.05.2022",
+      "label": "DATE",
+      "start_char": 4890,
+      "end_char": 4900
+    },
+    {
+      "text": "19.07.2022",
+      "label": "DATE",
+      "start_char": 4949,
+      "end_char": 4959
+    },
+    {
+      "text": "NC: 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 5073,
+      "end_char": 5081
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 5270,
+      "end_char": 5275
+    },
+    {
+      "text": "29.04.2019",
+      "label": "DATE",
+      "start_char": 5838,
+      "end_char": 5848
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 5970,
+      "end_char": 5979
+    },
+    {
+      "text": "Mangaluru",
+      "label": "GPE",
+      "start_char": 6011,
+      "end_char": 6020
+    },
+    {
+      "text": "B.L.Kashyap & Sons Ltd.",
+      "label": "ORG",
+      "start_char": 6297,
+      "end_char": 6320
+    },
+    {
+      "text": "JMS Steels & Power Corpn",
+      "label": "ORG",
+      "start_char": 6322,
+      "end_char": 6346
+    },
+    {
+      "text": "IDBI Trusteeship v. Hub Town Ltd.,- 2017 (1) SCC 568",
+      "label": "PRECEDENT",
+      "start_char": 6374,
+      "end_char": 6426
+    },
+    {
+      "text": "Shriram City Union Finance Corporation Ltd., vs. Rama Mishra - (2002)",
+      "label": "PRECEDENT",
+      "start_char": 6434,
+      "end_char": 6503
+    },
+    {
+      "text": "Abhimanya vs. Sri.",
+      "label": "PRECEDENT",
+      "start_char": 6520,
+      "end_char": 6538
+    },
+    {
+      "text": "Ram Investment Limited",
+      "label": "ORG",
+      "start_char": 6539,
+      "end_char": 6561
+    },
+    {
+      "text": "Gulbarga",
+      "label": "GPE",
+      "start_char": 6563,
+      "end_char": 6571
+    },
+    {
+      "text": "Indus Mobile Distribution Private Limited Versus Datawind Innovations Private Limited and Others, - (2017) 7",
+      "label": "PRECEDENT",
+      "start_char": 6605,
+      "end_char": 6713
+    },
+    {
+      "text": "SCC 678",
+      "label": "CASE_NUMBER",
+      "start_char": 6714,
+      "end_char": 6721
+    },
+    {
+      "text": "Swastik Gases",
+      "label": "OTHER_PERSON",
+      "start_char": 6729,
+      "end_char": 6742
+    },
+    {
+      "text": "Indian Oil Corporation Ltd. - (2013) 9 SCC 32",
+      "label": "PRECEDENT",
+      "start_char": 6756,
+      "end_char": 6801
+    },
+    {
+      "text": "B.E. Simoese Von Staraburg Niedenthal",
+      "label": "OTHER_PERSON",
+      "start_char": 6810,
+      "end_char": 6847
+    },
+    {
+      "text": "SCC 225",
+      "label": "CASE_NUMBER",
+      "start_char": 6899,
+      "end_char": 6906
+    },
+    {
+      "text": "Sundaram Finance Limited and Ors V. T. Thankam - 2015 (14) SCC 444",
+      "label": "PRECEDENT",
+      "start_char": 6916,
+      "end_char": 6982
+    },
+    {
+      "text": "Dr. Jagmittar Sain Bhagar v. Dir",
+      "label": "PRECEDENT",
+      "start_char": 6990,
+      "end_char": 7022
+    },
+    {
+      "text": "Health Services, Haryana",
+      "label": "ORG",
+      "start_char": 7024,
+      "end_char": 7048
+    },
+    {
+      "text": "AIR SCW 4387",
+      "label": "CASE_NUMBER",
+      "start_char": 7065,
+      "end_char": 7077
+    },
+    {
+      "text": "Omega Finvest LLP v. Direct News Private Limited - 2022 SCC Online Del 3418 : (2022) 295 DLT 645",
+      "label": "PRECEDENT",
+      "start_char": 7084,
+      "end_char": 7180
+    },
+    {
+      "text": "Hakam Singh v. M/s. Gammon (India) Ltd., - (1971) 1 SCC 286",
+      "label": "PRECEDENT",
+      "start_char": 7187,
+      "end_char": 7246
+    },
+    {
+      "text": "Careers and another vs. Frankfinn Aviation Service Pvt. Ltd., -2020 (12) SCC 667",
+      "label": "PRECEDENT",
+      "start_char": 7259,
+      "end_char": 7339
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 7510,
+      "end_char": 7519
+    },
+    {
+      "text": "NC: 2023:KHC:22303",
+      "label": "CASE_NUMBER",
+      "start_char": 7524,
+      "end_char": 7542
+    },
+    {
+      "text": "29.04.2019",
+      "label": "DATE",
+      "start_char": 7677,
+      "end_char": 7687
+    },
+    {
+      "text": "Mangaluru",
+      "label": "GPE",
+      "start_char": 7736,
+      "end_char": 7745
+    },
+    {
+      "text": "Haier Telecom (India) P. Ltd. vs. Drive India Enterprises Solutions Ltd., - 2018 SCC Online Bom",
+      "label": "PRECEDENT",
+      "start_char": 7959,
+      "end_char": 8054
+    },
+    {
+      "text": "Young Achievers vs. IMS Learning Resources - (2013)",
+      "label": "PRECEDENT",
+      "start_char": 8072,
+      "end_char": 8123
+    },
+    {
+      "text": "Zenith Drugs vs. Nicholas Piramal - (2020) 17 SCC 419",
+      "label": "PRECEDENT",
+      "start_char": 8142,
+      "end_char": 8195
+    },
+    {
+      "text": "Hakam Singh vs. Gammon India - 1971(1) SCC 286",
+      "label": "PRECEDENT",
+      "start_char": 8202,
+      "end_char": 8248
+    },
+    {
+      "text": "Patel Roadways Limited vs. Prasad Trading Company - (1991) 4 SCC 270",
+      "label": "PRECEDENT",
+      "start_char": 8254,
+      "end_char": 8322
+    },
+    {
+      "text": "New Moga Transport vs United India Insurance - (2004) 4 SCC 677",
+      "label": "PRECEDENT",
+      "start_char": 8329,
+      "end_char": 8392
+    },
+    {
+      "text": "29.04.2019",
+      "label": "DATE",
+      "start_char": 8578,
+      "end_char": 8588
+    },
+    {
+      "text": "NC: 2023:KHC:22303",
+      "label": "CASE_NUMBER",
+      "start_char": 8614,
+      "end_char": 8632
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 8863,
+      "end_char": 8872
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 9079,
+      "end_char": 9088
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 9563,
+      "end_char": 9572
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 9630,
+      "end_char": 9639
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 9772,
+      "end_char": 9781
+    },
+    {
+      "text": "Dubai",
+      "label": "GPE",
+      "start_char": 9804,
+      "end_char": 9809
+    },
+    {
+      "text": "UAE",
+      "label": "GPE",
+      "start_char": 9811,
+      "end_char": 9814
+    },
+    {
+      "text": "Mangaluru",
+      "label": "GPE",
+      "start_char": 9840,
+      "end_char": 9849
+    },
+    {
+      "text": "Kasargod",
+      "label": "GPE",
+      "start_char": 9874,
+      "end_char": 9882
+    },
+    {
+      "text": "Mangaluru",
+      "label": "GPE",
+      "start_char": 9963,
+      "end_char": 9972
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 10182,
+      "end_char": 10191
+    },
+    {
+      "text": "Dubai",
+      "label": "GPE",
+      "start_char": 10193,
+      "end_char": 10198
+    },
+    {
+      "text": "Kasargod",
+      "label": "GPE",
+      "start_char": 10203,
+      "end_char": 10211
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 10272,
+      "end_char": 10281
+    },
+    {
+      "text": "Dubai",
+      "label": "GPE",
+      "start_char": 10286,
+      "end_char": 10291
+    },
+    {
+      "text": "17.12.2020",
+      "label": "DATE",
+      "start_char": 10380,
+      "end_char": 10390
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 10407,
+      "end_char": 10416
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 10606,
+      "end_char": 10615
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 10733,
+      "end_char": 10742
+    },
+    {
+      "text": "Mangaluru",
+      "label": "GPE",
+      "start_char": 10768,
+      "end_char": 10777
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 10931,
+      "end_char": 10940
+    },
+    {
+      "text": "Mangaluru",
+      "label": "GPE",
+      "start_char": 10980,
+      "end_char": 10989
+    },
+    {
+      "text": "NC: 2023:KHC:22303",
+      "label": "CASE_NUMBER",
+      "start_char": 11257,
+      "end_char": 11275
+    },
+    {
+      "text": "17.12.2020",
+      "label": "DATE",
+      "start_char": 11276,
+      "end_char": 11286
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 11357,
+      "end_char": 11366
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 11478,
+      "end_char": 11487
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 11621,
+      "end_char": 11630
+    },
+    {
+      "text": "29.04.2019",
+      "label": "DATE",
+      "start_char": 11737,
+      "end_char": 11747
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 11959,
+      "end_char": 11968
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 12026,
+      "end_char": 12035
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 12171,
+      "end_char": 12180
+    },
+    {
+      "text": "Mangaluru",
+      "label": "GPE",
+      "start_char": 12366,
+      "end_char": 12375
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 12581,
+      "end_char": 12590
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 12778,
+      "end_char": 12787
+    },
+    {
+      "text": "20.04.2022",
+      "label": "DATE",
+      "start_char": 12958,
+      "end_char": 12968
+    },
+    {
+      "text": "COM.O.S.No.506/2021",
+      "label": "CASE_NUMBER",
+      "start_char": 12979,
+      "end_char": 12998
+    },
+    {
+      "text": "Commercial court, D.K., Mangalore",
+      "label": "COURT",
+      "start_char": 13006,
+      "end_char": 13039
+    },
+    {
+      "text": "Mangalore",
+      "label": "GPE",
+      "start_char": 13157,
+      "end_char": 13166
+    },
+    {
+      "text": "30.05.2022",
+      "label": "DATE",
+      "start_char": 13261,
+      "end_char": 13271
+    },
+    {
+      "text": "Sections 20 to 22 and Section 151",
+      "label": "PROVISION",
+      "start_char": 13316,
+      "end_char": 13349
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 13350,
+      "end_char": 13353
+    },
+    {
+      "text": "Order 7 Rule 11",
+      "label": "PROVISION",
+      "start_char": 13358,
+      "end_char": 13373
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 13374,
+      "end_char": 13377
+    },
+    {
+      "text": "O.S.No.506/2021",
+      "label": "CASE_NUMBER",
+      "start_char": 13415,
+      "end_char": 13430
+    },
+    {
+      "text": "COM.O.S.No.506/2021",
+      "label": "CASE_NUMBER",
+      "start_char": 13467,
+      "end_char": 13486
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 13620,
+      "end_char": 13629
+    }
+  ],
+  "precedent_clusters": {
+    "Indus Mobile Distribution Private Limited Versus Datawind Innovations Private Limited and Others, - (2017) 7": [
+      "Shriram City Union Finance Corporation Ltd., vs. Rama Mishra - (2002)",
+      "Abhimanya vs. Sri.",
+      "Indus Mobile Distribution Private Limited Versus Datawind Innovations Private Limited and Others, - (2017) 7",
+      "Dr. Jagmittar Sain Bhagar v. Dir",
+      "Young Achievers vs. IMS Learning Resources - (2013)"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Order 37",
+      "CPC",
+      "Order 37",
+      "CPC"
+    ],
+    [
+      "Order 37 Rule 3(4)",
+      "CPC",
+      "Order 37 Rule 3(4)",
+      "CPC"
+    ],
+    [
+      "Sections 20 to 22 and Section 151",
+      "CPC",
+      "Sections 20 to 22 and Section 151",
+      "CPC"
+    ],
+    [
+      "Order 7 Rule 11",
+      "CPC",
+      "Order 7 Rule 11",
+      "CPC"
+    ]
+  ],
+  "precedent_counts": {
+    "Indus Mobile Distribution Private Limited Versus Datawind Innovations Private Limited and Others, - (2017) 7": 5
+  },
+  "provision_counts": {
+    "Order 37 of CPC": 1,
+    "Order 37 Rule 3(4) of CPC": 1,
+    "Sections 20 to 22 and Section 151 of CPC": 1,
+    "Order 7 Rule 11 of CPC": 1
+  },
+  "statute_counts": {
+    "CPC": 4
+  }
+}

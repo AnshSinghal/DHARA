@@ -1,0 +1,1476 @@
+{
+  "entities": [
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 16
+    },
+    {
+      "text": "Harmanprit Singh Sidhu vs Arcadia Shares & Stock Brokers Pvt",
+      "label": "PRECEDENT",
+      "start_char": 17,
+      "end_char": 77
+    },
+    {
+      "text": "Badar Durrez Ahmed",
+      "label": "JUDGE",
+      "start_char": 114,
+      "end_char": 132
+    },
+    {
+      "text": "Badar Durrez Ahmed",
+      "label": "JUDGE",
+      "start_char": 140,
+      "end_char": 158
+    },
+    {
+      "text": "Ashutosh Kumar",
+      "label": "JUDGE",
+      "start_char": 160,
+      "end_char": 174
+    },
+    {
+      "text": "HIGH COURT OF DELHI AT NEW DELHI",
+      "label": "COURT",
+      "start_char": 188,
+      "end_char": 220
+    },
+    {
+      "text": "FAO (OS) 136/2016",
+      "label": "CASE_NUMBER",
+      "start_char": 303,
+      "end_char": 320
+    },
+    {
+      "text": "15748/2016",
+      "label": "DATE",
+      "start_char": 332,
+      "end_char": 342
+    },
+    {
+      "text": "HARMANPRIT SINGH SIDHU",
+      "label": "OTHER_PERSON",
+      "start_char": 343,
+      "end_char": 365
+    },
+    {
+      "text": "ARCADIA SHARES & STOCK BROKERS PVT",
+      "label": "RESPONDENT",
+      "start_char": 472,
+      "end_char": 506
+    },
+    {
+      "text": "Anand Shankar",
+      "label": "LAWYER",
+      "start_char": 598,
+      "end_char": 611
+    },
+    {
+      "text": "Shantanu Kumar",
+      "label": "LAWYER",
+      "start_char": 620,
+      "end_char": 634
+    },
+    {
+      "text": "Narsingh N. Rai",
+      "label": "LAWYER",
+      "start_char": 673,
+      "end_char": 688
+    },
+    {
+      "text": "Subhash Bansal",
+      "label": "LAWYER",
+      "start_char": 723,
+      "end_char": 737
+    },
+    {
+      "text": "Raghav Bansal",
+      "label": "LAWYER",
+      "start_char": 746,
+      "end_char": 759
+    },
+    {
+      "text": "Shashwat Bansal",
+      "label": "LAWYER",
+      "start_char": 798,
+      "end_char": 813
+    },
+    {
+      "text": "BADAR DURREZ AHMED",
+      "label": "JUDGE",
+      "start_char": 841,
+      "end_char": 859
+    },
+    {
+      "text": "ASHUTOSH KUMAR",
+      "label": "JUDGE",
+      "start_char": 879,
+      "end_char": 893
+    },
+    {
+      "text": "JUDGMENT BADAR DURREZ AHMED",
+      "label": "JUDGE",
+      "start_char": 929,
+      "end_char": 956
+    },
+    {
+      "text": "17.02.2016",
+      "label": "DATE",
+      "start_char": 1011,
+      "end_char": 1021
+    },
+    {
+      "text": "IA No.4311/2016",
+      "label": "CASE_NUMBER",
+      "start_char": 1072,
+      "end_char": 1087
+    },
+    {
+      "text": "OMP 294/2014",
+      "label": "CASE_NUMBER",
+      "start_char": 1091,
+      "end_char": 1103
+    },
+    {
+      "text": "IA No.4311/2016",
+      "label": "CASE_NUMBER",
+      "start_char": 1105,
+      "end_char": 1120
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 1146,
+      "end_char": 1155
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 1163,
+      "end_char": 1177
+    },
+    {
+      "text": "17.02.2016",
+      "label": "DATE",
+      "start_char": 1362,
+      "end_char": 1372
+    },
+    {
+      "text": "OMP 294/2014",
+      "label": "CASE_NUMBER",
+      "start_char": 1374,
+      "end_char": 1386
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 1407,
+      "end_char": 1417
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 1425,
+      "end_char": 1463
+    },
+    {
+      "text": "A&C Act‟",
+      "label": "STATUTE",
+      "start_char": 1497,
+      "end_char": 1505
+    },
+    {
+      "text": "10.09.2013",
+      "label": "DATE",
+      "start_char": 1550,
+      "end_char": 1560
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 1728,
+      "end_char": 1738
+    },
+    {
+      "text": "A&C Act",
+      "label": "STATUTE",
+      "start_char": 1746,
+      "end_char": 1753
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 1960,
+      "end_char": 1970
+    },
+    {
+      "text": "A&C Act",
+      "label": "STATUTE",
+      "start_char": 1978,
+      "end_char": 1985
+    },
+    {
+      "text": "Section 37(1)(a), (b) or (c)",
+      "label": "PROVISION",
+      "start_char": 2038,
+      "end_char": 2066
+    },
+    {
+      "text": "Section 37(1)",
+      "label": "PROVISION",
+      "start_char": 2156,
+      "end_char": 2169
+    },
+    {
+      "text": "A&C Act",
+      "label": "STATUTE",
+      "start_char": 2177,
+      "end_char": 2184
+    },
+    {
+      "text": "Section 37(1)",
+      "label": "PROVISION",
+      "start_char": 2222,
+      "end_char": 2235
+    },
+    {
+      "text": "Section 37(1)",
+      "label": "PROVISION",
+      "start_char": 2351,
+      "end_char": 2364
+    },
+    {
+      "text": "Sections 8 and 13",
+      "label": "PROVISION",
+      "start_char": 2550,
+      "end_char": 2567
+    },
+    {
+      "text": "Commercial Courts, Commercial Division",
+      "label": "STATUTE",
+      "start_char": 2575,
+      "end_char": 2613
+    },
+    {
+      "text": "High Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 2655,
+      "end_char": 2676
+    },
+    {
+      "text": "Commercial Courts Act‟",
+      "label": "STATUTE",
+      "start_char": 2710,
+      "end_char": 2732
+    },
+    {
+      "text": "National Highways Authority of India v. Oriental Structure Engineers Limited-Gammon India Limited (JV): 2012 (132) DRJ 769 (FB)",
+      "label": "PRECEDENT",
+      "start_char": 2813,
+      "end_char": 2940
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 2992,
+      "end_char": 3001
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 3009,
+      "end_char": 3030
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 3207,
+      "end_char": 3217
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 3249,
+      "end_char": 3259
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 3267,
+      "end_char": 3288
+    },
+    {
+      "text": "Section 13(1)",
+      "label": "PROVISION",
+      "start_char": 3316,
+      "end_char": 3329
+    },
+    {
+      "text": "National Highways Authority",
+      "label": "PRECEDENT",
+      "start_char": 3760,
+      "end_char": 3787
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 3962,
+      "end_char": 3972
+    },
+    {
+      "text": "A&C Act",
+      "label": "STATUTE",
+      "start_char": 3980,
+      "end_char": 3987
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 4243,
+      "end_char": 4253
+    },
+    {
+      "text": "A&C Act",
+      "label": "STATUTE",
+      "start_char": 4273,
+      "end_char": 4280
+    },
+    {
+      "text": "OMP No.294/2014",
+      "label": "CASE_NUMBER",
+      "start_char": 4523,
+      "end_char": 4538
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 4701,
+      "end_char": 4711
+    },
+    {
+      "text": "A&C Act",
+      "label": "STATUTE",
+      "start_char": 4719,
+      "end_char": 4726
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 4886,
+      "end_char": 4896
+    },
+    {
+      "text": "A&C Act",
+      "label": "STATUTE",
+      "start_char": 4904,
+      "end_char": 4911
+    },
+    {
+      "text": "Arbitration and Conciliation (Amendment) Act, 2015 (act 3 of 2016)",
+      "label": "STATUTE",
+      "start_char": 4936,
+      "end_char": 5002
+    },
+    {
+      "text": "23.10.2015",
+      "label": "DATE",
+      "start_char": 5034,
+      "end_char": 5044
+    },
+    {
+      "text": "Section 37(1)",
+      "label": "PROVISION",
+      "start_char": 5081,
+      "end_char": 5094
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 5182,
+      "end_char": 5192
+    },
+    {
+      "text": "A&C Act",
+      "label": "STATUTE",
+      "start_char": 5200,
+      "end_char": 5207
+    },
+    {
+      "text": "section 8",
+      "label": "PROVISION",
+      "start_char": 5504,
+      "end_char": 5513
+    },
+    {
+      "text": "section 9",
+      "label": "PROVISION",
+      "start_char": 5567,
+      "end_char": 5576
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 5645,
+      "end_char": 5655
+    },
+    {
+      "text": "sub-section (2) or sub-section (3) of section 16",
+      "label": "PROVISION",
+      "start_char": 5783,
+      "end_char": 5831
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 5895,
+      "end_char": 5905
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 6071,
+      "end_char": 6084
+    },
+    {
+      "text": "Sections 8 and 13",
+      "label": "PROVISION",
+      "start_char": 6090,
+      "end_char": 6107
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 6115,
+      "end_char": 6136
+    },
+    {
+      "text": "section 13",
+      "label": "PROVISION",
+      "start_char": 6535,
+      "end_char": 6545
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 7129,
+      "end_char": 7140
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 7148,
+      "end_char": 7189
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 7217,
+      "end_char": 7227
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 7235,
+      "end_char": 7286
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 7600,
+      "end_char": 7609
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 7617,
+      "end_char": 7638
+    },
+    {
+      "text": "Section 2(1)(b) read with Section 3(1)",
+      "label": "PROVISION",
+      "start_char": 7878,
+      "end_char": 7916
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 8116,
+      "end_char": 8125
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 8133,
+      "end_char": 8154
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 8190,
+      "end_char": 8200
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 8208,
+      "end_char": 8229
+    },
+    {
+      "text": "proviso to Section 13(1)",
+      "label": "PROVISION",
+      "start_char": 8317,
+      "end_char": 8341
+    },
+    {
+      "text": "Order 43",
+      "label": "PROVISION",
+      "start_char": 8484,
+      "end_char": 8492
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 8500,
+      "end_char": 8529
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 8549,
+      "end_char": 8570
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 8576,
+      "end_char": 8586
+    },
+    {
+      "text": "A&C Act",
+      "label": "STATUTE",
+      "start_char": 8594,
+      "end_char": 8601
+    },
+    {
+      "text": "Section 13(1)",
+      "label": "PROVISION",
+      "start_char": 8647,
+      "end_char": 8660
+    },
+    {
+      "text": "Order 43",
+      "label": "PROVISION",
+      "start_char": 8824,
+      "end_char": 8832
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 8834,
+      "end_char": 8837
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 8842,
+      "end_char": 8852
+    },
+    {
+      "text": "A&C Act",
+      "label": "STATUTE",
+      "start_char": 8860,
+      "end_char": 8867
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 9016,
+      "end_char": 9026
+    },
+    {
+      "text": "A&C Act",
+      "label": "STATUTE",
+      "start_char": 9034,
+      "end_char": 9041
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 9069,
+      "end_char": 9079
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 9087,
+      "end_char": 9108
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 9193,
+      "end_char": 9203
+    },
+    {
+      "text": "A&C Act",
+      "label": "STATUTE",
+      "start_char": 9211,
+      "end_char": 9218
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 9331,
+      "end_char": 9341
+    },
+    {
+      "text": "A&C Act",
+      "label": "STATUTE",
+      "start_char": 9349,
+      "end_char": 9356
+    },
+    {
+      "text": "Section 13(2)",
+      "label": "PROVISION",
+      "start_char": 9367,
+      "end_char": 9380
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 9680,
+      "end_char": 9701
+    },
+    {
+      "text": "Section 37(1)",
+      "label": "PROVISION",
+      "start_char": 9718,
+      "end_char": 9731
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 9861,
+      "end_char": 9871
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 9971,
+      "end_char": 9980
+    },
+    {
+      "text": "A&C Act",
+      "label": "STATUTE",
+      "start_char": 9988,
+      "end_char": 9995
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 10058,
+      "end_char": 10067
+    },
+    {
+      "text": "A&C Act",
+      "label": "STATUTE",
+      "start_char": 10075,
+      "end_char": 10082
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 10163,
+      "end_char": 10173
+    },
+    {
+      "text": "A&C Act",
+      "label": "STATUTE",
+      "start_char": 10181,
+      "end_char": 10188
+    },
+    {
+      "text": "Sections 8 or 9",
+      "label": "PROVISION",
+      "start_char": 10237,
+      "end_char": 10252
+    },
+    {
+      "text": "A&C Act",
+      "label": "STATUTE",
+      "start_char": 10260,
+      "end_char": 10267
+    },
+    {
+      "text": "Section 37(1)(c)",
+      "label": "PROVISION",
+      "start_char": 10382,
+      "end_char": 10398
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 10492,
+      "end_char": 10502
+    },
+    {
+      "text": "10.09.2013",
+      "label": "DATE",
+      "start_char": 10604,
+      "end_char": 10614
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 10724,
+      "end_char": 10734
+    },
+    {
+      "text": "A&C Act",
+      "label": "STATUTE",
+      "start_char": 10742,
+      "end_char": 10749
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 11028,
+      "end_char": 11038
+    },
+    {
+      "text": "National Highways Authority",
+      "label": "PRECEDENT",
+      "start_char": 11193,
+      "end_char": 11220
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 11476,
+      "end_char": 11486
+    },
+    {
+      "text": "A&C Act",
+      "label": "STATUTE",
+      "start_char": 11494,
+      "end_char": 11501
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 11693,
+      "end_char": 11703
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 12069,
+      "end_char": 12079
+    },
+    {
+      "text": "A&C Act",
+      "label": "STATUTE",
+      "start_char": 12087,
+      "end_char": 12094
+    },
+    {
+      "text": "National Highways Authority",
+      "label": "PRECEDENT",
+      "start_char": 12327,
+      "end_char": 12354
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 12639,
+      "end_char": 12649
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 12861,
+      "end_char": 12871
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 12973,
+      "end_char": 12983
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 13318,
+      "end_char": 13328
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 13513,
+      "end_char": 13523
+    },
+    {
+      "text": "National Highways Authority",
+      "label": "PRECEDENT",
+      "start_char": 13964,
+      "end_char": 13991
+    },
+    {
+      "text": "Section 37(1)",
+      "label": "PROVISION",
+      "start_char": 14354,
+      "end_char": 14367
+    },
+    {
+      "text": "A&C Act",
+      "label": "STATUTE",
+      "start_char": 14375,
+      "end_char": 14382
+    },
+    {
+      "text": "Section 37(1)",
+      "label": "PROVISION",
+      "start_char": 14421,
+      "end_char": 14434
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 14449,
+      "end_char": 14459
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 14467,
+      "end_char": 14488
+    },
+    {
+      "text": "OMP 294/2014",
+      "label": "CASE_NUMBER",
+      "start_char": 14660,
+      "end_char": 14672
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 14680,
+      "end_char": 14690
+    },
+    {
+      "text": "A&C Act",
+      "label": "STATUTE",
+      "start_char": 14698,
+      "end_char": 14705
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 14866,
+      "end_char": 14876
+    },
+    {
+      "text": "A&C Act",
+      "label": "STATUTE",
+      "start_char": 14884,
+      "end_char": 14891
+    },
+    {
+      "text": "A&C Act",
+      "label": "STATUTE",
+      "start_char": 15024,
+      "end_char": 15031
+    },
+    {
+      "text": "Section 13(4)",
+      "label": "PROVISION",
+      "start_char": 15108,
+      "end_char": 15121
+    },
+    {
+      "text": "A&C Act",
+      "label": "STATUTE",
+      "start_char": 15129,
+      "end_char": 15136
+    },
+    {
+      "text": "Section 13(5)",
+      "label": "PROVISION",
+      "start_char": 15328,
+      "end_char": 15341
+    },
+    {
+      "text": "A&C Act",
+      "label": "STATUTE",
+      "start_char": 15349,
+      "end_char": 15356
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 15479,
+      "end_char": 15489
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 15647,
+      "end_char": 15657
+    },
+    {
+      "text": "Section 16(5)",
+      "label": "PROVISION",
+      "start_char": 15814,
+      "end_char": 15827
+    },
+    {
+      "text": "A&C Act",
+      "label": "STATUTE",
+      "start_char": 15835,
+      "end_char": 15842
+    },
+    {
+      "text": "Section 16(6)",
+      "label": "PROVISION",
+      "start_char": 15917,
+      "end_char": 15930
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 16062,
+      "end_char": 16072
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 16614,
+      "end_char": 16624
+    },
+    {
+      "text": "BADAR DURREZ AHMED",
+      "label": "JUDGE",
+      "start_char": 16771,
+      "end_char": 16789
+    },
+    {
+      "text": "September 30, 2016",
+      "label": "DATE",
+      "start_char": 16793,
+      "end_char": 16811
+    },
+    {
+      "text": "ASHUTOSH KUMAR",
+      "label": "JUDGE",
+      "start_char": 16843,
+      "end_char": 16857
+    }
+  ],
+  "precedent_clusters": {
+    "National Highways Authority of India v. Oriental Structure Engineers Limited-Gammon India Limited (JV): 2012 (132) DRJ 769 (FB)": [
+      "National Highways Authority of India v. Oriental Structure Engineers Limited-Gammon India Limited (JV): 2012 (132) DRJ 769 (FB)",
+      "National Highways Authority",
+      "National Highways Authority",
+      "National Highways Authority",
+      "National Highways Authority"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 5",
+      "Limitation Act",
+      "Section 5",
+      "Limitation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "A&C Act",
+      "Section 34",
+      "A&C Act"
+    ],
+    [
+      "Section 37",
+      "A&C Act",
+      "Section 37",
+      "A&C Act"
+    ],
+    [
+      "Section 37(1)",
+      "A&C Act",
+      "Section 37(1)",
+      "A&C Act"
+    ],
+    [
+      "Sections 8 and 13",
+      "Commercial Courts, Commercial Division",
+      "Sections 8 and 13",
+      "Commercial Courts, Commercial Division"
+    ],
+    [
+      "Section 8",
+      "Commercial Courts Act",
+      "Section 8",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 34",
+      "A&C Act",
+      "Section 34",
+      "A&C Act"
+    ],
+    [
+      "Section 34",
+      "A&C Act",
+      "Section 34",
+      "A&C Act"
+    ],
+    [
+      "Section 34",
+      "A&C Act",
+      "Section 34",
+      "A&C Act"
+    ],
+    [
+      "Section 37",
+      "A&C Act",
+      "Section 37",
+      "A&C Act"
+    ],
+    [
+      "Section 37",
+      "A&C Act",
+      "Section 37",
+      "A&C Act"
+    ],
+    [
+      "Sections 8 and 13",
+      "Commercial Courts Act",
+      "Sections 8 and 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "section 37",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "section 37",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)"
+    ],
+    [
+      "Section 8",
+      "Commercial Courts Act",
+      "Section 8",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 8",
+      "Commercial Courts Act",
+      "Section 8",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order 43",
+      "Code of Civil Procedure, 1908",
+      "Order 43",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "proviso to Section 13(1)",
+      "Commercial Courts Act",
+      "proviso to Section 13(1)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 37",
+      "A&C Act",
+      "Section 37",
+      "A&C Act"
+    ],
+    [
+      "Order 43",
+      "CPC",
+      "Order 43",
+      "CPC"
+    ],
+    [
+      "Section 37",
+      "A&C Act",
+      "Section 37",
+      "A&C Act"
+    ],
+    [
+      "Section 37",
+      "A&C Act",
+      "Section 37",
+      "A&C Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 37",
+      "A&C Act",
+      "Section 37",
+      "A&C Act"
+    ],
+    [
+      "Section 37",
+      "A&C Act",
+      "Section 37",
+      "A&C Act"
+    ],
+    [
+      "Section 13(2)",
+      "Commercial Courts Act",
+      "Section 13(2)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 8",
+      "A&C Act",
+      "Section 8",
+      "A&C Act"
+    ],
+    [
+      "Section 9",
+      "A&C Act",
+      "Section 9",
+      "A&C Act"
+    ],
+    [
+      "Section 34",
+      "A&C Act",
+      "Section 34",
+      "A&C Act"
+    ],
+    [
+      "Sections 8 or 9",
+      "A&C Act",
+      "Sections 8 or 9",
+      "A&C Act"
+    ],
+    [
+      "Section 34",
+      "A&C Act",
+      "Section 34",
+      "A&C Act"
+    ],
+    [
+      "Section 34",
+      "A&C Act",
+      "Section 34",
+      "A&C Act"
+    ],
+    [
+      "Section 37",
+      "A&C Act",
+      "Section 37",
+      "A&C Act"
+    ],
+    [
+      "Section 37(1)",
+      "A&C Act",
+      "Section 37(1)",
+      "A&C Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 34",
+      "A&C Act",
+      "Section 34",
+      "A&C Act"
+    ],
+    [
+      "Section 37",
+      "A&C Act",
+      "Section 37",
+      "A&C Act"
+    ],
+    [
+      "Section 13(4)",
+      "A&C Act",
+      "Section 13(4)",
+      "A&C Act"
+    ],
+    [
+      "Section 13(5)",
+      "A&C Act",
+      "Section 13(5)",
+      "A&C Act"
+    ],
+    [
+      "Section 16(5)",
+      "A&C Act",
+      "Section 16(5)",
+      "A&C Act"
+    ],
+    [
+      "Section 37(1)(a), (b) or (c)",
+      "A&C Act",
+      "Section 37(1)(a), (b) or (c)",
+      "A&C Act"
+    ],
+    [
+      "Section 37(1)",
+      "A&C Act",
+      "Section 37(1)",
+      "A&C Act"
+    ],
+    [
+      "Section 37(1)",
+      "A&C Act",
+      "Section 37(1)",
+      "A&C Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts, Commercial Division",
+      "Section 13",
+      "Commercial Courts, Commercial Division"
+    ],
+    [
+      "Section 13(1)",
+      "Commercial Courts Act",
+      "Section 13(1)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 37(1)",
+      "A&C Act",
+      "Section 37(1)",
+      "A&C Act"
+    ],
+    [
+      "section 8",
+      "Commercial Courts Act",
+      "section 8",
+      "Commercial Courts Act"
+    ],
+    [
+      "section 9",
+      "A&C Act",
+      "section 9",
+      "A&C Act"
+    ],
+    [
+      "section 34",
+      "A&C Act",
+      "section 34",
+      "A&C Act"
+    ],
+    [
+      "sub-section (2) or sub-section (3) of section 16",
+      "A&C Act",
+      "sub-section (2) or sub-section (3) of section 16",
+      "A&C Act"
+    ],
+    [
+      "section 13",
+      "Commercial Courts Act",
+      "section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13(1)",
+      "Commercial Courts Act",
+      "Section 13(1)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 37(1)",
+      "A&C Act",
+      "Section 37(1)",
+      "A&C Act"
+    ],
+    [
+      "Section 37",
+      "A&C Act",
+      "Section 37",
+      "A&C Act"
+    ],
+    [
+      "Section 37(1)(c)",
+      "A&C Act",
+      "Section 37(1)(c)",
+      "A&C Act"
+    ],
+    [
+      "Section 34",
+      "A&C Act",
+      "Section 34",
+      "A&C Act"
+    ],
+    [
+      "Section 34",
+      "A&C Act",
+      "Section 34",
+      "A&C Act"
+    ],
+    [
+      "Section 34",
+      "A&C Act",
+      "Section 34",
+      "A&C Act"
+    ],
+    [
+      "Section 34",
+      "A&C Act",
+      "Section 34",
+      "A&C Act"
+    ],
+    [
+      "Section 37",
+      "A&C Act",
+      "Section 37",
+      "A&C Act"
+    ],
+    [
+      "Section 34",
+      "A&C Act",
+      "Section 34",
+      "A&C Act"
+    ],
+    [
+      "Section 34",
+      "A&C Act",
+      "Section 34",
+      "A&C Act"
+    ],
+    [
+      "Section 34",
+      "A&C Act",
+      "Section 34",
+      "A&C Act"
+    ],
+    [
+      "Section 37(1)",
+      "A&C Act",
+      "Section 37(1)",
+      "A&C Act"
+    ],
+    [
+      "Section 34",
+      "A&C Act",
+      "Section 34",
+      "A&C Act"
+    ],
+    [
+      "Section 16",
+      "A&C Act",
+      "Section 16",
+      "A&C Act"
+    ],
+    [
+      "Section 16(6)",
+      "A&C Act",
+      "Section 16(6)",
+      "A&C Act"
+    ],
+    [
+      "Section 34",
+      "A&C Act",
+      "Section 34",
+      "A&C Act"
+    ],
+    [
+      "Section 34",
+      "A&C Act",
+      "Section 34",
+      "A&C Act"
+    ],
+    [
+      "Section 17",
+      "A&C Act",
+      "Section 17",
+      "A&C Act"
+    ],
+    [
+      "Section 2(1)(b) read with Section 3(1)",
+      "Commercial Courts Act",
+      "Section 2(1)(b) read with Section 3(1)",
+      "Commercial Courts Act"
+    ]
+  ],
+  "precedent_counts": {
+    "National Highways Authority of India v. Oriental Structure Engineers Limited-Gammon India Limited (JV): 2012 (132) DRJ 769 (FB)": 5
+  },
+  "provision_counts": {
+    "Section 5 of Limitation Act": 1,
+    "Section 34 of Arbitration and Conciliation Act, 1996": 1,
+    "Section 34 of A&C Act": 18,
+    "Section 37 of A&C Act": 12,
+    "Section 37(1) of A&C Act": 7,
+    "Sections 8 and 13 of Commercial Courts, Commercial Division": 1,
+    "Section 8 of Commercial Courts Act": 3,
+    "Section 13 of Commercial Courts Act": 4,
+    "Sections 8 and 13 of Commercial Courts Act": 1,
+    "Order XLIII of Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "section 37 of Arbitration and Conciliation Act, 1996 (26 of 1996)": 1,
+    "Order 43 of Code of Civil Procedure, 1908": 1,
+    "proviso to Section 13(1) of Commercial Courts Act": 1,
+    "Order 43 of CPC": 1,
+    "Section 13(2) of Commercial Courts Act": 1,
+    "Section 8 of A&C Act": 1,
+    "Section 9 of A&C Act": 1,
+    "Sections 8 or 9 of A&C Act": 1,
+    "Section 13(4) of A&C Act": 1,
+    "Section 13(5) of A&C Act": 1,
+    "Section 16(5) of A&C Act": 1,
+    "Section 37(1)(a), (b) or (c) of A&C Act": 1,
+    "Section 13 of Commercial Courts, Commercial Division": 1,
+    "Section 13(1) of Commercial Courts Act": 2,
+    "section 8 of Commercial Courts Act": 1,
+    "section 9 of A&C Act": 1,
+    "section 34 of A&C Act": 1,
+    "sub-section (2) or sub-section (3) of section 16 of A&C Act": 1,
+    "section 13 of Commercial Courts Act": 1,
+    "Section 37(1)(c) of A&C Act": 1,
+    "Section 16 of A&C Act": 1,
+    "Section 16(6) of A&C Act": 1,
+    "Section 17 of A&C Act": 1,
+    "Section 2(1)(b) read with Section 3(1) of Commercial Courts Act": 1
+  },
+  "statute_counts": {
+    "Limitation Act": 1,
+    "Arbitration and Conciliation Act, 1996": 1,
+    "A&C Act": 51,
+    "Commercial Courts, Commercial Division": 2,
+    "Commercial Courts Act": 15,
+    "Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Arbitration and Conciliation Act, 1996 (26 of 1996)": 1,
+    "Code of Civil Procedure, 1908": 1,
+    "CPC": 1
+  }
+}

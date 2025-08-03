@@ -1,0 +1,59 @@
+version: '3.8'
+
+services:
+  legal-rag-api:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - USE_PINECONE=${USE_PINECONE:-true}
+      - PINECONE_API_KEY=${PINECONE_API_KEY}
+      - PINECONE_ENVIRONMENT=${PINECONE_ENVIRONMENT:-us-east-1}
+      - ENABLE_GPU=${ENABLE_GPU:-true}
+      - DATA_DIRECTORY=/app/data/merged
+      - ENVIRONMENT=production
+      - UV_CACHE_DIR=/tmp/uv-cache
+    volumes:
+      - ./data:/app/data:ro
+      - ./logs:/app/logs
+      - uv-cache:/tmp/uv-cache
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 90s
+    deploy:
+      resources:
+        limits:
+          memory: 6G
+        reservations:
+          memory: 2G
+
+  # Development service with hot reload
+  legal-rag-dev:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8001:8000"
+    environment:
+      - USE_PINECONE=false
+      - ENABLE_GPU=false
+      - DATA_DIRECTORY=/app/data/merged
+      - ENVIRONMENT=development
+      - UV_CACHE_DIR=/tmp/uv-cache
+    volumes:
+      - .:/app
+      - /app/.venv  # Exclude virtual environment from mount
+      - uv-cache:/tmp/uv-cache
+    command: ["uv", "run", "python", "main.py", "demo"]
+    profiles:
+      - dev
+    user: root  # Override for development to allow file changes
+
+volumes:
+  uv-cache:

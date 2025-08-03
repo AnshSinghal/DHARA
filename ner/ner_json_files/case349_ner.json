@@ -1,0 +1,807 @@
+{
+  "entities": [
+    {
+      "text": "Telangana High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 20
+    },
+    {
+      "text": "M/S. Kamadhenu Enterprises vs Mrs. Zara Ahmad And 4 Others",
+      "label": "PRECEDENT",
+      "start_char": 21,
+      "end_char": 79
+    },
+    {
+      "text": "29 July, 2022",
+      "label": "DATE",
+      "start_char": 83,
+      "end_char": 96
+    },
+    {
+      "text": "P.Naveen Rao",
+      "label": "JUDGE",
+      "start_char": 105,
+      "end_char": 117
+    },
+    {
+      "text": "P.Naveen Rao",
+      "label": "JUDGE",
+      "start_char": 125,
+      "end_char": 137
+    },
+    {
+      "text": "HIGH COURT FOR THE STATE OF TELANGANA",
+      "label": "COURT",
+      "start_char": 151,
+      "end_char": 188
+    },
+    {
+      "text": "CIVIL MISCELLANEOUS APPEAL NO.270 OF 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 240,
+      "end_char": 281
+    },
+    {
+      "text": "Kamadhenu Enterprises",
+      "label": "PETITIONER",
+      "start_char": 297,
+      "end_char": 318
+    },
+    {
+      "text": "B.Jagath Kumar",
+      "label": "OTHER_PERSON",
+      "start_char": 450,
+      "end_char": 464
+    },
+    {
+      "text": "Secunderabad",
+      "label": "GPE",
+      "start_char": 550,
+      "end_char": 562
+    },
+    {
+      "text": "Zara Ahmad",
+      "label": "OTHER_PERSON",
+      "start_char": 663,
+      "end_char": 673
+    },
+    {
+      "text": "Zaki Ahmed",
+      "label": "OTHER_PERSON",
+      "start_char": 680,
+      "end_char": 690
+    },
+    {
+      "text": "Hyderabad",
+      "label": "GPE",
+      "start_char": 796,
+      "end_char": 805
+    },
+    {
+      "text": "JUDGMENT PRONOUNCED",
+      "label": "RESPONDENT",
+      "start_char": 895,
+      "end_char": 914
+    },
+    {
+      "text": "29.07.2022",
+      "label": "DATE",
+      "start_char": 948,
+      "end_char": 958
+    },
+    {
+      "text": "P.NAVEEN RAO",
+      "label": "JUDGE",
+      "start_char": 996,
+      "end_char": 1008
+    },
+    {
+      "text": "SAMBASIVARAO NAIDU",
+      "label": "JUDGE",
+      "start_char": 1076,
+      "end_char": 1094
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 1488,
+      "end_char": 1491
+    },
+    {
+      "text": "SSRN",
+      "label": "JUDGE",
+      "start_char": 1496,
+      "end_char": 1500
+    },
+    {
+      "text": "P.NAVEEN RAO",
+      "label": "JUDGE",
+      "start_char": 1667,
+      "end_char": 1679
+    },
+    {
+      "text": "SAMBASIVARAO NAIDU",
+      "label": "JUDGE",
+      "start_char": 1751,
+      "end_char": 1769
+    },
+    {
+      "text": "Kamadhenu Enterprises",
+      "label": "PETITIONER",
+      "start_char": 1843,
+      "end_char": 1864
+    },
+    {
+      "text": "B.Jagath Kumar",
+      "label": "OTHER_PERSON",
+      "start_char": 1996,
+      "end_char": 2010
+    },
+    {
+      "text": "Secunderabad",
+      "label": "GPE",
+      "start_char": 2096,
+      "end_char": 2108
+    },
+    {
+      "text": "Zara Ahmad",
+      "label": "OTHER_PERSON",
+      "start_char": 2215,
+      "end_char": 2225
+    },
+    {
+      "text": "Zaki Ahmed",
+      "label": "OTHER_PERSON",
+      "start_char": 2232,
+      "end_char": 2242
+    },
+    {
+      "text": "Hyderabad",
+      "label": "GPE",
+      "start_char": 2348,
+      "end_char": 2357
+    },
+    {
+      "text": "Nikunj Dugar",
+      "label": "LAWYER",
+      "start_char": 2480,
+      "end_char": 2492
+    },
+    {
+      "text": "Damodar Mundra",
+      "label": "LAWYER",
+      "start_char": 2526,
+      "end_char": 2540
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 2695,
+      "end_char": 2698
+    },
+    {
+      "text": "SSRN",
+      "label": "JUDGE",
+      "start_char": 2703,
+      "end_char": 2707
+    },
+    {
+      "text": "P.NAVEEN RAO",
+      "label": "JUDGE",
+      "start_char": 2871,
+      "end_char": 2883
+    },
+    {
+      "text": "SAMBASIVARAO NAIDU",
+      "label": "JUDGE",
+      "start_char": 2952,
+      "end_char": 2970
+    },
+    {
+      "text": "P.Naveen Rao",
+      "label": "JUDGE",
+      "start_char": 3059,
+      "end_char": 3071
+    },
+    {
+      "text": "Nikunj Dugar",
+      "label": "LAWYER",
+      "start_char": 3083,
+      "end_char": 3095
+    },
+    {
+      "text": "Damodar Mundra",
+      "label": "LAWYER",
+      "start_char": 3138,
+      "end_char": 3152
+    },
+    {
+      "text": "Indian Partnership Act, 1932",
+      "label": "STATUTE",
+      "start_char": 3315,
+      "end_char": 3343
+    },
+    {
+      "text": "Sy.Nos.322, 323 and 326",
+      "label": "CASE_NUMBER",
+      "start_char": 3440,
+      "end_char": 3463
+    },
+    {
+      "text": "Quthbullapur village",
+      "label": "GPE",
+      "start_char": 3467,
+      "end_char": 3487
+    },
+    {
+      "text": "Medchal-Malkajgiri district",
+      "label": "GPE",
+      "start_char": 3500,
+      "end_char": 3527
+    },
+    {
+      "text": "08.09.2014",
+      "label": "DATE",
+      "start_char": 3790,
+      "end_char": 3800
+    },
+    {
+      "text": "Balanagar",
+      "label": "GPE",
+      "start_char": 3832,
+      "end_char": 3841
+    },
+    {
+      "text": "PNR,J & SSRN,J CMA No.270 OF 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 4274,
+      "end_char": 4307
+    },
+    {
+      "text": "GHMC",
+      "label": "ORG",
+      "start_char": 4351,
+      "end_char": 4355
+    },
+    {
+      "text": "03.12.2016",
+      "label": "DATE",
+      "start_char": 4538,
+      "end_char": 4548
+    },
+    {
+      "text": "04.11.2017",
+      "label": "DATE",
+      "start_char": 4778,
+      "end_char": 4788
+    },
+    {
+      "text": "02.01.2019",
+      "label": "DATE",
+      "start_char": 5128,
+      "end_char": 5138
+    },
+    {
+      "text": "17.01.2019",
+      "label": "DATE",
+      "start_char": 5324,
+      "end_char": 5334
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 5603,
+      "end_char": 5606
+    },
+    {
+      "text": "SSRN,J CMA No.270 OF 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 5611,
+      "end_char": 5636
+    },
+    {
+      "text": "03.09.2021",
+      "label": "DATE",
+      "start_char": 5785,
+      "end_char": 5795
+    },
+    {
+      "text": "08.09.2021",
+      "label": "DATE",
+      "start_char": 5882,
+      "end_char": 5892
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 6089,
+      "end_char": 6098
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 6106,
+      "end_char": 6144
+    },
+    {
+      "text": "Arb.O.P.No.5 of 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 6178,
+      "end_char": 6198
+    },
+    {
+      "text": "Court of XVI Additional District and Sessions Judge, Malkajgiri",
+      "label": "COURT",
+      "start_char": 6206,
+      "end_char": 6269
+    },
+    {
+      "text": "03.04.2019",
+      "label": "DATE",
+      "start_char": 7103,
+      "end_char": 7113
+    },
+    {
+      "text": "CMA No.270 OF 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 7214,
+      "end_char": 7232
+    },
+    {
+      "text": "GHMC",
+      "label": "ORG",
+      "start_char": 7238,
+      "end_char": 7242
+    },
+    {
+      "text": "18.04.2022",
+      "label": "DATE",
+      "start_char": 7771,
+      "end_char": 7781
+    },
+    {
+      "text": "20.06.2022",
+      "label": "DATE",
+      "start_char": 7896,
+      "end_char": 7906
+    },
+    {
+      "text": "Arb.O.P.No.5 of 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 8312,
+      "end_char": 8332
+    },
+    {
+      "text": "XVI Additional District and Sessions Judge, Malkajgiri",
+      "label": "COURT",
+      "start_char": 8349,
+      "end_char": 8403
+    },
+    {
+      "text": "CMA No.270 OF 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 8561,
+      "end_char": 8579
+    },
+    {
+      "text": "Section 2(1)(c)(vii)",
+      "label": "PROVISION",
+      "start_char": 8724,
+      "end_char": 8744
+    },
+    {
+      "text": "Sections 10 and 12",
+      "label": "PROVISION",
+      "start_char": 8760,
+      "end_char": 8778
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 8786,
+      "end_char": 8813
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 9580,
+      "end_char": 9593
+    },
+    {
+      "text": "Ambalal Sarabhai Enterprises Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 9597,
+      "end_char": 9637
+    },
+    {
+      "text": "K.S. Infraspace LLP",
+      "label": "ORG",
+      "start_char": 9638,
+      "end_char": 9657
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 9708,
+      "end_char": 9735
+    },
+    {
+      "text": "(2020) 15 SCC 585 PNR,J & SSRN,J CMA No.270 OF 2022",
+      "label": "PRECEDENT",
+      "start_char": 9825,
+      "end_char": 9876
+    },
+    {
+      "text": "Section 2(1)(c)",
+      "label": "PROVISION",
+      "start_char": 9881,
+      "end_char": 9896
+    },
+    {
+      "text": "Section 2(1)(c)(vii)2]",
+      "label": "PROVISION",
+      "start_char": 10199,
+      "end_char": 10221
+    },
+    {
+      "text": "Section 10(3)",
+      "label": "PROVISION",
+      "start_char": 10400,
+      "end_char": 10413
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 10887,
+      "end_char": 10897
+    },
+    {
+      "text": "Section 2(1)(c)(vii), Section 103 and Section 124",
+      "label": "PROVISION",
+      "start_char": 10991,
+      "end_char": 11040
+    },
+    {
+      "text": "Section 2",
+      "label": "PROVISION",
+      "start_char": 11103,
+      "end_char": 11112
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 11668,
+      "end_char": 11719
+    },
+    {
+      "text": "PNR,J & SSRN,J CMA No.270 OF 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 11889,
+      "end_char": 11922
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 12171,
+      "end_char": 12180
+    },
+    {
+      "text": "GHMC",
+      "label": "ORG",
+      "start_char": 12363,
+      "end_char": 12367
+    },
+    {
+      "text": "03.12.2016",
+      "label": "DATE",
+      "start_char": 12371,
+      "end_char": 12381
+    },
+    {
+      "text": "18.12.2020",
+      "label": "DATE",
+      "start_char": 12477,
+      "end_char": 12487
+    },
+    {
+      "text": "26.03.2021",
+      "label": "DATE",
+      "start_char": 12581,
+      "end_char": 12591
+    },
+    {
+      "text": "13.07.2021",
+      "label": "DATE",
+      "start_char": 12745,
+      "end_char": 12755
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 12980,
+      "end_char": 13031
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 13391,
+      "end_char": 13442
+    },
+    {
+      "text": "section 115",
+      "label": "PROVISION",
+      "start_char": 15513,
+      "end_char": 15524
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 15532,
+      "end_char": 15573
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 15743,
+      "end_char": 15746
+    },
+    {
+      "text": "SSRN,J CMA No.270 OF 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 15751,
+      "end_char": 15776
+    },
+    {
+      "text": "13.07.2021",
+      "label": "DATE",
+      "start_char": 15809,
+      "end_char": 15819
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 16506,
+      "end_char": 16519
+    },
+    {
+      "text": "Ambarlal Sarabhai Enterprises Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 16523,
+      "end_char": 16557
+    },
+    {
+      "text": "Section 2(1)(c)(vii)",
+      "label": "PROVISION",
+      "start_char": 16788,
+      "end_char": 16808
+    },
+    {
+      "text": "PNR,J & SSRN,J CMA No.270 OF 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 17218,
+      "end_char": 17251
+    },
+    {
+      "text": "Section 2(1)(c)(vii)",
+      "label": "PROVISION",
+      "start_char": 17268,
+      "end_char": 17288
+    },
+    {
+      "text": "Section 10 read with Section 12",
+      "label": "PROVISION",
+      "start_char": 17675,
+      "end_char": 17706
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 17743,
+      "end_char": 17752
+    },
+    {
+      "text": "Arb.O.P.No.5 of 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 17951,
+      "end_char": 17971
+    },
+    {
+      "text": "Arb.O.P.No.5 of 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 18345,
+      "end_char": 18365
+    },
+    {
+      "text": "XVI Additional District and Sessions Judge, Malkajgiri",
+      "label": "COURT",
+      "start_char": 18390,
+      "end_char": 18444
+    },
+    {
+      "text": "Ranga Reddy",
+      "label": "GPE",
+      "start_char": 18450,
+      "end_char": 18461
+    },
+    {
+      "text": "Medchal Malkajgiri",
+      "label": "GPE",
+      "start_char": 18481,
+      "end_char": 18499
+    },
+    {
+      "text": "PNR,J & SSRN,J CMA No.270 OF 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 18543,
+      "end_char": 18576
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 18628,
+      "end_char": 18655
+    },
+    {
+      "text": "P.NAVEEN RAO",
+      "label": "JUDGE",
+      "start_char": 18743,
+      "end_char": 18755
+    },
+    {
+      "text": "SAMBASIVARAO NAIDU",
+      "label": "JUDGE",
+      "start_char": 18785,
+      "end_char": 18803
+    },
+    {
+      "text": "29.07.2022",
+      "label": "DATE",
+      "start_char": 18812,
+      "end_char": 18822
+    },
+    {
+      "text": "KKM PNR",
+      "label": "JUDGE",
+      "start_char": 18823,
+      "end_char": 18830
+    },
+    {
+      "text": "SSRN",
+      "label": "JUDGE",
+      "start_char": 18835,
+      "end_char": 18839
+    },
+    {
+      "text": "P.NAVEEN RAO",
+      "label": "JUDGE",
+      "start_char": 18884,
+      "end_char": 18896
+    },
+    {
+      "text": "SAMBASIVARAO NAIDU",
+      "label": "JUDGE",
+      "start_char": 18919,
+      "end_char": 18937
+    },
+    {
+      "text": "29.07.2022",
+      "label": "DATE",
+      "start_char": 18987,
+      "end_char": 18997
+    }
+  ],
+  "precedent_clusters": {},
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 9",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 9",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Sections 10 and 12",
+      "Commercial Courts Act, 2015",
+      "Sections 10 and 12",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "section 115",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "section 115",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "Section 2(1)(c)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 2(1)(c)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 2(1)(c)(vii)2]",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 2(1)(c)(vii)2]",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 10(3)",
+      "Commercial Courts Act, 2015",
+      "Section 10(3)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 12",
+      "Commercial Courts Act, 2015",
+      "Section 12",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 2(1)(c)(vii), Section 103 and Section 124",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 2(1)(c)(vii), Section 103 and Section 124",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 2",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 2",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 9",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 9",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 2(1)(c)(vii)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 2(1)(c)(vii)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 2(1)(c)(vii)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 2(1)(c)(vii)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 9",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 9",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 2(1)(c)(vii)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 2(1)(c)(vii)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 10 read with Section 12",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "Section 10 read with Section 12",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ]
+  ],
+  "precedent_counts": {},
+  "provision_counts": {
+    "Section 9 of Arbitration and Conciliation Act, 1996": 3,
+    "Sections 10 and 12 of Commercial Courts Act, 2015": 1,
+    "section 115 of Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Section 2(1)(c) of Arbitration and Conciliation Act, 1996": 1,
+    "Section 2(1)(c)(vii)2] of Arbitration and Conciliation Act, 1996": 1,
+    "Section 10(3) of Commercial Courts Act, 2015": 1,
+    "Section 12 of Commercial Courts Act, 2015": 1,
+    "Section 2(1)(c)(vii), Section 103 and Section 124 of Arbitration and Conciliation Act, 1996": 1,
+    "Section 2 of Arbitration and Conciliation Act, 1996": 1,
+    "Section 2(1)(c)(vii) of Arbitration and Conciliation Act, 1996": 3,
+    "Section 10 read with Section 12 of Code of Civil Procedure, 1908 (5 of 1908)": 1
+  },
+  "statute_counts": {
+    "Arbitration and Conciliation Act, 1996": 10,
+    "Commercial Courts Act, 2015": 3,
+    "Code of Civil Procedure, 1908 (5 of 1908)": 2
+  }
+}

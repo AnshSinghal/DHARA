@@ -1,0 +1,3533 @@
+{
+  "entities": [
+    {
+      "text": "Kandla Export Corporation",
+      "label": "PETITIONER",
+      "start_char": 19,
+      "end_char": 44
+    },
+    {
+      "text": "Oci Corporation",
+      "label": "RESPONDENT",
+      "start_char": 50,
+      "end_char": 65
+    },
+    {
+      "text": "M.R. Shah",
+      "label": "JUDGE",
+      "start_char": 97,
+      "end_char": 106
+    },
+    {
+      "text": "B.N. Karia",
+      "label": "JUDGE",
+      "start_char": 108,
+      "end_char": 118
+    },
+    {
+      "text": "HIGH COURT OF GUJARAT AT AHMEDABAD",
+      "label": "COURT",
+      "start_char": 250,
+      "end_char": 284
+    },
+    {
+      "text": "M.R. SHAH",
+      "label": "JUDGE",
+      "start_char": 1239,
+      "end_char": 1248
+    },
+    {
+      "text": "B.N. KARIA",
+      "label": "JUDGE",
+      "start_char": 1354,
+      "end_char": 1364
+    },
+    {
+      "text": "Constitution  of   India",
+      "label": "STATUTE",
+      "start_char": 1982,
+      "end_char": 2006
+    },
+    {
+      "text": "KANDLA EXPORT CORPORATION",
+      "label": "PETITIONER",
+      "start_char": 2110,
+      "end_char": 2135
+    },
+    {
+      "text": "OCI CORPORATION",
+      "label": "RESPONDENT",
+      "start_char": 2165,
+      "end_char": 2180
+    },
+    {
+      "text": "SN SOPARKAR",
+      "label": "OTHER_PERSON",
+      "start_char": 2285,
+      "end_char": 2296
+    },
+    {
+      "text": "ARCHIT P JANI",
+      "label": "OTHER_PERSON",
+      "start_char": 2322,
+      "end_char": 2335
+    },
+    {
+      "text": "SALIL M SHAH",
+      "label": "OTHER_PERSON",
+      "start_char": 2343,
+      "end_char": 2355
+    },
+    {
+      "text": "MIHIR THAKORE",
+      "label": "OTHER_PERSON",
+      "start_char": 2389,
+      "end_char": 2402
+    },
+    {
+      "text": "NIRAG PATHAK",
+      "label": "OTHER_PERSON",
+      "start_char": 2428,
+      "end_char": 2440
+    },
+    {
+      "text": "SHWITI SABHIWAL",
+      "label": "OTHER_PERSON",
+      "start_char": 2445,
+      "end_char": 2460
+    },
+    {
+      "text": "GRIMA AHUJA",
+      "label": "OTHER_PERSON",
+      "start_char": 2466,
+      "end_char": 2477
+    },
+    {
+      "text": "SHALIN JANI",
+      "label": "OTHER_PERSON",
+      "start_char": 2485,
+      "end_char": 2496
+    },
+    {
+      "text": "SHARDUL AMARCHAND MANGALDAS",
+      "label": "OTHER_PERSON",
+      "start_char": 2501,
+      "end_char": 2528
+    },
+    {
+      "text": "M.R. SHAH",
+      "label": "JUDGE",
+      "start_char": 2655,
+      "end_char": 2664
+    },
+    {
+      "text": "B.N. KARIA",
+      "label": "JUDGE",
+      "start_char": 2691,
+      "end_char": 2701
+    },
+    {
+      "text": "Sat Oct 07 07:50:16",
+      "label": "DATE",
+      "start_char": 2733,
+      "end_char": 2752
+    },
+    {
+      "text": "28/09/2017",
+      "label": "DATE",
+      "start_char": 2769,
+      "end_char": 2779
+    },
+    {
+      "text": "M.R. SHAH",
+      "label": "JUDGE",
+      "start_char": 2833,
+      "end_char": 2842
+    },
+    {
+      "text": "High Court Act, 2015",
+      "label": "STATUTE",
+      "start_char": 3211,
+      "end_char": 3231
+    },
+    {
+      "text": "Part II",
+      "label": "PROVISION",
+      "start_char": 3693,
+      "end_char": 3700
+    },
+    {
+      "text": "Arbitration and  Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 3708,
+      "end_char": 3747
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 3777,
+      "end_char": 3792
+    },
+    {
+      "text": "Section 48",
+      "label": "PROVISION",
+      "start_char": 3976,
+      "end_char": 3986
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 3994,
+      "end_char": 4009
+    },
+    {
+      "text": "Gandhidham",
+      "label": "GPE",
+      "start_char": 4211,
+      "end_char": 4221
+    },
+    {
+      "text": "Section  15(5)",
+      "label": "PROVISION",
+      "start_char": 4322,
+      "end_char": 4336
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 4344,
+      "end_char": 4365
+    },
+    {
+      "text": "Sat Oct 07 07:50:16 IST 2017",
+      "label": "DATE",
+      "start_char": 4428,
+      "end_char": 4456
+    },
+    {
+      "text": "Special   Execution   Petition  No.167/2015",
+      "label": "CASE_NUMBER",
+      "start_char": 4499,
+      "end_char": 4542
+    },
+    {
+      "text": "District   Court,   Gandhidham,   Kutch",
+      "label": "COURT",
+      "start_char": 4607,
+      "end_char": 4646
+    },
+    {
+      "text": "2017 (1) GLH 383",
+      "label": "CASE_NUMBER",
+      "start_char": 4824,
+      "end_char": 4840
+    },
+    {
+      "text": "11.00",
+      "label": "DATE",
+      "start_char": 4870,
+      "end_char": 4875
+    },
+    {
+      "text": "Arbitration   and   Conciliation   Act,   1996",
+      "label": "STATUTE",
+      "start_char": 5222,
+      "end_char": 5268
+    },
+    {
+      "text": "High Court of Gujarat",
+      "label": "COURT",
+      "start_char": 5443,
+      "end_char": 5464
+    },
+    {
+      "text": "Arbitration   and  Conciliation   (Amendment)  Act,   2015",
+      "label": "STATUTE",
+      "start_char": 5679,
+      "end_char": 5737
+    },
+    {
+      "text": "Arbitration   and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 6074,
+      "end_char": 6114
+    },
+    {
+      "text": "section 15",
+      "label": "PROVISION",
+      "start_char": 6320,
+      "end_char": 6330
+    },
+    {
+      "text": "Commercial Courts  Act",
+      "label": "STATUTE",
+      "start_char": 6338,
+      "end_char": 6360
+    },
+    {
+      "text": "Arbitration  and   Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 6421,
+      "end_char": 6462
+    },
+    {
+      "text": "High   Court   of   Gujarat",
+      "label": "COURT",
+      "start_char": 6565,
+      "end_char": 6592
+    },
+    {
+      "text": "Gujarat   High   Court",
+      "label": "COURT",
+      "start_char": 6615,
+      "end_char": 6637
+    },
+    {
+      "text": "12.0",
+      "label": "DATE",
+      "start_char": 6742,
+      "end_char": 6746
+    },
+    {
+      "text": "Sat Oct 07 07:50:16 IST 2017",
+      "label": "DATE",
+      "start_char": 6933,
+      "end_char": 6961
+    },
+    {
+      "text": "Supreme   Court",
+      "label": "COURT",
+      "start_char": 7544,
+      "end_char": 7559
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 7936,
+      "end_char": 7957
+    },
+    {
+      "text": "sections 47, 48 and 49",
+      "label": "PROVISION",
+      "start_char": 8190,
+      "end_char": 8212
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 8220,
+      "end_char": 8235
+    },
+    {
+      "text": "Part   II",
+      "label": "PROVISION",
+      "start_char": 8469,
+      "end_char": 8478
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 8491,
+      "end_char": 8506
+    },
+    {
+      "text": "Arbitration   Act",
+      "label": "STATUTE",
+      "start_char": 8874,
+      "end_char": 8891
+    },
+    {
+      "text": "Sat Oct 07 07:50:16 IST 2017",
+      "label": "DATE",
+      "start_char": 8982,
+      "end_char": 9010
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 9256,
+      "end_char": 9266
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 9274,
+      "end_char": 9295
+    },
+    {
+      "text": "S.N. Soparkar",
+      "label": "OTHER_PERSON",
+      "start_char": 9309,
+      "end_char": 9322
+    },
+    {
+      "text": "Mihir Thakore",
+      "label": "OTHER_PERSON",
+      "start_char": 9459,
+      "end_char": 9472
+    },
+    {
+      "text": "Thakore",
+      "label": "OTHER_PERSON",
+      "start_char": 9754,
+      "end_char": 9761
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 9886,
+      "end_char": 9896
+    },
+    {
+      "text": "Commercial   Courts   Act",
+      "label": "STATUTE",
+      "start_char": 9907,
+      "end_char": 9932
+    },
+    {
+      "text": "Thakore",
+      "label": "OTHER_PERSON",
+      "start_char": 10001,
+      "end_char": 10008
+    },
+    {
+      "text": "section 50",
+      "label": "PROVISION",
+      "start_char": 10258,
+      "end_char": 10268
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 10276,
+      "end_char": 10291
+    },
+    {
+      "text": "Thakore",
+      "label": "OTHER_PERSON",
+      "start_char": 10389,
+      "end_char": 10396
+    },
+    {
+      "text": "Section   13",
+      "label": "PROVISION",
+      "start_char": 10552,
+      "end_char": 10564
+    },
+    {
+      "text": "Commercial   Courts   Act",
+      "label": "STATUTE",
+      "start_char": 10577,
+      "end_char": 10602
+    },
+    {
+      "text": "section   13",
+      "label": "PROVISION",
+      "start_char": 10635,
+      "end_char": 10647
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 10660,
+      "end_char": 10681
+    },
+    {
+      "text": "Sat Oct 07 07:50:16 IST 2017",
+      "label": "DATE",
+      "start_char": 10823,
+      "end_char": 10851
+    },
+    {
+      "text": "section  13(1)",
+      "label": "PROVISION",
+      "start_char": 10926,
+      "end_char": 10940
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 10948,
+      "end_char": 10969
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 11058,
+      "end_char": 11069
+    },
+    {
+      "text": "Code   of   Civil   Procedure,   1908",
+      "label": "STATUTE",
+      "start_char": 11082,
+      "end_char": 11119
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 11158,
+      "end_char": 11161
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 11168,
+      "end_char": 11178
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 11186,
+      "end_char": 11201
+    },
+    {
+      "text": "section   13(1)",
+      "label": "PROVISION",
+      "start_char": 11279,
+      "end_char": 11294
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 11307,
+      "end_char": 11328
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 11361,
+      "end_char": 11372
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 11377,
+      "end_char": 11406
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 11411,
+      "end_char": 11421
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 11425,
+      "end_char": 11440
+    },
+    {
+      "text": "Thakore",
+      "label": "OTHER_PERSON",
+      "start_char": 11553,
+      "end_char": 11560
+    },
+    {
+      "text": "section 13",
+      "label": "PROVISION",
+      "start_char": 11690,
+      "end_char": 11700
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 11708,
+      "end_char": 11729
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 11781,
+      "end_char": 11784
+    },
+    {
+      "text": "section 2(2)",
+      "label": "PROVISION",
+      "start_char": 11808,
+      "end_char": 11820
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 11828,
+      "end_char": 11849
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 11952,
+      "end_char": 11973
+    },
+    {
+      "text": "CPC   and   Evidence   Act",
+      "label": "STATUTE",
+      "start_char": 12031,
+      "end_char": 12057
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 12096,
+      "end_char": 12099
+    },
+    {
+      "text": "Section 2(9)",
+      "label": "PROVISION",
+      "start_char": 12156,
+      "end_char": 12168
+    },
+    {
+      "text": "section 13",
+      "label": "PROVISION",
+      "start_char": 12308,
+      "end_char": 12318
+    },
+    {
+      "text": "Commercial  Courts Act",
+      "label": "STATUTE",
+      "start_char": 12327,
+      "end_char": 12349
+    },
+    {
+      "text": "sections 37 and 50",
+      "label": "PROVISION",
+      "start_char": 12546,
+      "end_char": 12564
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 12572,
+      "end_char": 12587
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 12618,
+      "end_char": 12633
+    },
+    {
+      "text": "section 13",
+      "label": "PROVISION",
+      "start_char": 12695,
+      "end_char": 12705
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 12713,
+      "end_char": 12734
+    },
+    {
+      "text": "Section 48",
+      "label": "PROVISION",
+      "start_char": 12780,
+      "end_char": 12790
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 12798,
+      "end_char": 12813
+    },
+    {
+      "text": "Sat Oct 07 07:50:16 IST 2017",
+      "label": "DATE",
+      "start_char": 12853,
+      "end_char": 12881
+    },
+    {
+      "text": "section 13",
+      "label": "PROVISION",
+      "start_char": 12908,
+      "end_char": 12918
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 12926,
+      "end_char": 12947
+    },
+    {
+      "text": "Thakore",
+      "label": "OTHER_PERSON",
+      "start_char": 13032,
+      "end_char": 13039
+    },
+    {
+      "text": "Section   13",
+      "label": "PROVISION",
+      "start_char": 13170,
+      "end_char": 13182
+    },
+    {
+      "text": "Commercial  Courts Act",
+      "label": "STATUTE",
+      "start_char": 13196,
+      "end_char": 13218
+    },
+    {
+      "text": "section 50",
+      "label": "PROVISION",
+      "start_char": 13242,
+      "end_char": 13252
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 13260,
+      "end_char": 13275
+    },
+    {
+      "text": "section   50   of",
+      "label": "PROVISION",
+      "start_char": 13307,
+      "end_char": 13324
+    },
+    {
+      "text": "Arbitration   Act",
+      "label": "STATUTE",
+      "start_char": 13333,
+      "end_char": 13350
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 13575,
+      "end_char": 13585
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 13593,
+      "end_char": 13614
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 13709,
+      "end_char": 13724
+    },
+    {
+      "text": "Section 50",
+      "label": "PROVISION",
+      "start_char": 13792,
+      "end_char": 13802
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 13810,
+      "end_char": 13825
+    },
+    {
+      "text": "Section   13",
+      "label": "PROVISION",
+      "start_char": 14058,
+      "end_char": 14070
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 14083,
+      "end_char": 14104
+    },
+    {
+      "text": "Thakore",
+      "label": "OTHER_PERSON",
+      "start_char": 14230,
+      "end_char": 14237
+    },
+    {
+      "text": "Arbitration   Act",
+      "label": "STATUTE",
+      "start_char": 14335,
+      "end_char": 14352
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 14609,
+      "end_char": 14624
+    },
+    {
+      "text": "Sat Oct 07 07:50:16 IST 2017",
+      "label": "DATE",
+      "start_char": 14733,
+      "end_char": 14761
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 14928,
+      "end_char": 14941
+    },
+    {
+      "text": "Fuerst Day Lawson  Limited vs. Jindal Exports Limited reported in (2011) 8 SCC 333  (Paras 89, 90 and 91)",
+      "label": "PRECEDENT",
+      "start_char": 14958,
+      "end_char": 15063
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 15125,
+      "end_char": 15138
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 15184,
+      "end_char": 15199
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 15354,
+      "end_char": 15367
+    },
+    {
+      "text": "Section 50",
+      "label": "PROVISION",
+      "start_char": 15474,
+      "end_char": 15484
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 15492,
+      "end_char": 15507
+    },
+    {
+      "text": "Delhi  High Court",
+      "label": "COURT",
+      "start_char": 15605,
+      "end_char": 15622
+    },
+    {
+      "text": "Vijay Sekhri and Another vs. Tinna Oils  and Chemicals and Others reported in (2010) 174 DLT 462",
+      "label": "PRECEDENT",
+      "start_char": 15638,
+      "end_char": 15734
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 15788,
+      "end_char": 15804
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 15889,
+      "end_char": 15899
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 15907,
+      "end_char": 15922
+    },
+    {
+      "text": "Thakore",
+      "label": "OTHER_PERSON",
+      "start_char": 16051,
+      "end_char": 16058
+    },
+    {
+      "text": "Part II",
+      "label": "PROVISION",
+      "start_char": 16186,
+      "end_char": 16193
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 16201,
+      "end_char": 16216
+    },
+    {
+      "text": "section  50",
+      "label": "PROVISION",
+      "start_char": 16235,
+      "end_char": 16246
+    },
+    {
+      "text": "Arbitration   Act",
+      "label": "STATUTE",
+      "start_char": 16257,
+      "end_char": 16274
+    },
+    {
+      "text": "section 50",
+      "label": "PROVISION",
+      "start_char": 16298,
+      "end_char": 16308
+    },
+    {
+      "text": "Part II",
+      "label": "PROVISION",
+      "start_char": 16412,
+      "end_char": 16419
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 16427,
+      "end_char": 16442
+    },
+    {
+      "text": "Sat Oct 07 07:50:16 IST 2017",
+      "label": "DATE",
+      "start_char": 16636,
+      "end_char": 16664
+    },
+    {
+      "text": "Section   45",
+      "label": "PROVISION",
+      "start_char": 16673,
+      "end_char": 16685
+    },
+    {
+      "text": "Section 48",
+      "label": "PROVISION",
+      "start_char": 16748,
+      "end_char": 16758
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 16766,
+      "end_char": 16781
+    },
+    {
+      "text": "Fuerst   Day  Lawson   Limited",
+      "label": "ORG",
+      "start_char": 16820,
+      "end_char": 16850
+    },
+    {
+      "text": "Supreme   Court",
+      "label": "COURT",
+      "start_char": 16879,
+      "end_char": 16894
+    },
+    {
+      "text": "Foreign   Awards   (Recognition   and   Enforcement)   Act,   1961",
+      "label": "STATUTE",
+      "start_char": 16968,
+      "end_char": 17034
+    },
+    {
+      "text": "Foreign   Awards   Act",
+      "label": "STATUTE",
+      "start_char": 17073,
+      "end_char": 17095
+    },
+    {
+      "text": "Arbitration   Act",
+      "label": "STATUTE",
+      "start_char": 17111,
+      "end_char": 17128
+    },
+    {
+      "text": "Supreme   Court",
+      "label": "COURT",
+      "start_char": 17166,
+      "end_char": 17181
+    },
+    {
+      "text": "sections 49 and 50",
+      "label": "PROVISION",
+      "start_char": 17217,
+      "end_char": 17235
+    },
+    {
+      "text": "Arbitration  Act",
+      "label": "STATUTE",
+      "start_char": 17243,
+      "end_char": 17259
+    },
+    {
+      "text": "Section   6",
+      "label": "PROVISION",
+      "start_char": 17386,
+      "end_char": 17397
+    },
+    {
+      "text": "Foreign Awards Act",
+      "label": "STATUTE",
+      "start_char": 17409,
+      "end_char": 17427
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 17489,
+      "end_char": 17502
+    },
+    {
+      "text": "section 50(1)(b)",
+      "label": "PROVISION",
+      "start_char": 17570,
+      "end_char": 17586
+    },
+    {
+      "text": "Section   48",
+      "label": "PROVISION",
+      "start_char": 17678,
+      "end_char": 17690
+    },
+    {
+      "text": "Supreme  Court",
+      "label": "COURT",
+      "start_char": 17752,
+      "end_char": 17766
+    },
+    {
+      "text": "Section 50",
+      "label": "PROVISION",
+      "start_char": 17918,
+      "end_char": 17928
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 17936,
+      "end_char": 17951
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 17985,
+      "end_char": 18001
+    },
+    {
+      "text": "Vijay  ",
+      "label": "OTHER_PERSON",
+      "start_char": 18017,
+      "end_char": 18024
+    },
+    {
+      "text": "section 50",
+      "label": "PROVISION",
+      "start_char": 18071,
+      "end_char": 18081
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 18090,
+      "end_char": 18105
+    },
+    {
+      "text": "Section 48",
+      "label": "PROVISION",
+      "start_char": 18336,
+      "end_char": 18346
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 18354,
+      "end_char": 18369
+    },
+    {
+      "text": "section   50   of",
+      "label": "PROVISION",
+      "start_char": 18431,
+      "end_char": 18448
+    },
+    {
+      "text": "Arbitration   Act",
+      "label": "STATUTE",
+      "start_char": 18457,
+      "end_char": 18474
+    },
+    {
+      "text": "Sat Oct 07 07:50:16 IST 2017",
+      "label": "DATE",
+      "start_char": 18577,
+      "end_char": 18605
+    },
+    {
+      "text": "Section 50(1)(a)",
+      "label": "PROVISION",
+      "start_char": 18652,
+      "end_char": 18668
+    },
+    {
+      "text": "section   50(1)(b)",
+      "label": "PROVISION",
+      "start_char": 18724,
+      "end_char": 18742
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 18801,
+      "end_char": 18816
+    },
+    {
+      "text": "Section 50",
+      "label": "PROVISION",
+      "start_char": 18977,
+      "end_char": 18987
+    },
+    {
+      "text": "Thakore",
+      "label": "OTHER_PERSON",
+      "start_char": 19048,
+      "end_char": 19055
+    },
+    {
+      "text": "Section  5",
+      "label": "PROVISION",
+      "start_char": 19138,
+      "end_char": 19148
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 19156,
+      "end_char": 19177
+    },
+    {
+      "text": "section 13",
+      "label": "PROVISION",
+      "start_char": 19310,
+      "end_char": 19320
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 19328,
+      "end_char": 19349
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 19522,
+      "end_char": 19537
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 19652,
+      "end_char": 19667
+    },
+    {
+      "text": "Thakore",
+      "label": "OTHER_PERSON",
+      "start_char": 19720,
+      "end_char": 19727
+    },
+    {
+      "text": "section  13",
+      "label": "PROVISION",
+      "start_char": 19810,
+      "end_char": 19821
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 19829,
+      "end_char": 19850
+    },
+    {
+      "text": "section 50",
+      "label": "PROVISION",
+      "start_char": 19855,
+      "end_char": 19865
+    },
+    {
+      "text": "Arbitration  Act",
+      "label": "STATUTE",
+      "start_char": 19873,
+      "end_char": 19889
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 19992,
+      "end_char": 20005
+    },
+    {
+      "text": "Arun Dev Upadhyay vs. Integrated Sales Services Ltd. and Anr",
+      "label": "PRECEDENT",
+      "start_char": 20022,
+      "end_char": 20082
+    },
+    {
+      "text": "(2016) 9 SCC 524",
+      "label": "PRECEDENT",
+      "start_char": 20100,
+      "end_char": 20116
+    },
+    {
+      "text": "Thakore",
+      "label": "OTHER_PERSON",
+      "start_char": 20149,
+      "end_char": 20156
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 20289,
+      "end_char": 20302
+    },
+    {
+      "text": "Section 50",
+      "label": "PROVISION",
+      "start_char": 20338,
+      "end_char": 20348
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 20356,
+      "end_char": 20371
+    },
+    {
+      "text": "Sat Oct 07 07:50:16 IST 2017",
+      "label": "DATE",
+      "start_char": 20405,
+      "end_char": 20433
+    },
+    {
+      "text": "Section 48",
+      "label": "PROVISION",
+      "start_char": 20535,
+      "end_char": 20545
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 20553,
+      "end_char": 20568
+    },
+    {
+      "text": "Supreme   Court",
+      "label": "COURT",
+      "start_char": 20657,
+      "end_char": 20672
+    },
+    {
+      "text": "Commercial   Courts   Act",
+      "label": "STATUTE",
+      "start_char": 20728,
+      "end_char": 20753
+    },
+    {
+      "text": "Section   13",
+      "label": "PROVISION",
+      "start_char": 20779,
+      "end_char": 20791
+    },
+    {
+      "text": "Commercial   Courts   Act",
+      "label": "STATUTE",
+      "start_char": 20804,
+      "end_char": 20829
+    },
+    {
+      "text": "section 50",
+      "label": "PROVISION",
+      "start_char": 20906,
+      "end_char": 20916
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 20924,
+      "end_char": 20939
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 20995,
+      "end_char": 21016
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 21082,
+      "end_char": 21097
+    },
+    {
+      "text": "Thakore",
+      "label": "OTHER_PERSON",
+      "start_char": 21212,
+      "end_char": 21219
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 21818,
+      "end_char": 21828
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 21837,
+      "end_char": 21858
+    },
+    {
+      "text": "Section 50",
+      "label": "PROVISION",
+      "start_char": 21933,
+      "end_char": 21943
+    },
+    {
+      "text": "Arbitration  Act",
+      "label": "STATUTE",
+      "start_char": 21951,
+      "end_char": 21967
+    },
+    {
+      "text": "Section   13",
+      "label": "PROVISION",
+      "start_char": 22230,
+      "end_char": 22242
+    },
+    {
+      "text": "Commercial   Courts   Act",
+      "label": "STATUTE",
+      "start_char": 22255,
+      "end_char": 22280
+    },
+    {
+      "text": "Sat Oct 07 07:50:16 IST 2017",
+      "label": "DATE",
+      "start_char": 22380,
+      "end_char": 22408
+    },
+    {
+      "text": "S.N. Soparkar",
+      "label": "OTHER_PERSON",
+      "start_char": 22580,
+      "end_char": 22593
+    },
+    {
+      "text": "Section   49",
+      "label": "PROVISION",
+      "start_char": 22898,
+      "end_char": 22910
+    },
+    {
+      "text": "Arbitration   Act",
+      "label": "STATUTE",
+      "start_char": 22924,
+      "end_char": 22941
+    },
+    {
+      "text": "Section   13",
+      "label": "PROVISION",
+      "start_char": 23064,
+      "end_char": 23076
+    },
+    {
+      "text": "Commercial  Courts Act",
+      "label": "STATUTE",
+      "start_char": 23090,
+      "end_char": 23112
+    },
+    {
+      "text": "Soparkar",
+      "label": "OTHER_PERSON",
+      "start_char": 23145,
+      "end_char": 23153
+    },
+    {
+      "text": "section   13(1)",
+      "label": "PROVISION",
+      "start_char": 23235,
+      "end_char": 23250
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 23263,
+      "end_char": 23284
+    },
+    {
+      "text": "section  13(1)",
+      "label": "PROVISION",
+      "start_char": 23466,
+      "end_char": 23480
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 23488,
+      "end_char": 23509
+    },
+    {
+      "text": "proviso to section 13(1)",
+      "label": "PROVISION",
+      "start_char": 23581,
+      "end_char": 23605
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 23614,
+      "end_char": 23635
+    },
+    {
+      "text": "Soparkar",
+      "label": "OTHER_PERSON",
+      "start_char": 23903,
+      "end_char": 23911
+    },
+    {
+      "text": "Sat Oct 07 07:50:16 IST 2017",
+      "label": "DATE",
+      "start_char": 24118,
+      "end_char": 24146
+    },
+    {
+      "text": "Section 13(1)",
+      "label": "PROVISION",
+      "start_char": 24193,
+      "end_char": 24206
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 24215,
+      "end_char": 24236
+    },
+    {
+      "text": "08.08.2017",
+      "label": "DATE",
+      "start_char": 24279,
+      "end_char": 24289
+    },
+    {
+      "text": "08.08.2017",
+      "label": "DATE",
+      "start_char": 24740,
+      "end_char": 24750
+    },
+    {
+      "text": "Rajah Tasadduq Rasul Khan vs. Manikchand",
+      "label": "PRECEDENT",
+      "start_char": 25024,
+      "end_char": 25064
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 25316,
+      "end_char": 25333
+    },
+    {
+      "text": "Hubtown   Ltd.   vs.   IDBI   Trusteeship   Service   Ltd.  reported in  2016 SCC Online Bom 9019 (Paras 4, 8, 23, 24, 30­ 33,   36)",
+      "label": "PRECEDENT",
+      "start_char": 25355,
+      "end_char": 25487
+    },
+    {
+      "text": "Bombay   High   Court",
+      "label": "COURT",
+      "start_char": 25526,
+      "end_char": 25547
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 25609,
+      "end_char": 25619
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 25628,
+      "end_char": 25649
+    },
+    {
+      "text": "Sat Oct 07 07:50:16 IST 2017",
+      "label": "DATE",
+      "start_char": 26095,
+      "end_char": 26123
+    },
+    {
+      "text": "Section 13(1)",
+      "label": "PROVISION",
+      "start_char": 26444,
+      "end_char": 26457
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 26465,
+      "end_char": 26486
+    },
+    {
+      "text": "Soparkar",
+      "label": "OTHER_PERSON",
+      "start_char": 26569,
+      "end_char": 26577
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 26722,
+      "end_char": 26737
+    },
+    {
+      "text": "section   13",
+      "label": "PROVISION",
+      "start_char": 26783,
+      "end_char": 26795
+    },
+    {
+      "text": "Commercial  Courts Act",
+      "label": "STATUTE",
+      "start_char": 26809,
+      "end_char": 26831
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 26912,
+      "end_char": 26922
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 26930,
+      "end_char": 26951
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 27014,
+      "end_char": 27024
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 27033,
+      "end_char": 27054
+    },
+    {
+      "text": "Commercial   Division   Court",
+      "label": "COURT",
+      "start_char": 27136,
+      "end_char": 27165
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 27268,
+      "end_char": 27289
+    },
+    {
+      "text": "section 50",
+      "label": "PROVISION",
+      "start_char": 27652,
+      "end_char": 27662
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 27671,
+      "end_char": 27686
+    },
+    {
+      "text": "Section   13",
+      "label": "PROVISION",
+      "start_char": 27860,
+      "end_char": 27872
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 27885,
+      "end_char": 27906
+    },
+    {
+      "text": "Sat Oct 07 07:50:16 IST 2017",
+      "label": "DATE",
+      "start_char": 27968,
+      "end_char": 27996
+    },
+    {
+      "text": "Soparkar",
+      "label": "OTHER_PERSON",
+      "start_char": 28047,
+      "end_char": 28055
+    },
+    {
+      "text": "section 13(1)",
+      "label": "PROVISION",
+      "start_char": 28195,
+      "end_char": 28208
+    },
+    {
+      "text": "Commercial  Courts  Act",
+      "label": "STATUTE",
+      "start_char": 28217,
+      "end_char": 28240
+    },
+    {
+      "text": "section   50",
+      "label": "PROVISION",
+      "start_char": 28296,
+      "end_char": 28308
+    },
+    {
+      "text": "Arbitration   Act",
+      "label": "STATUTE",
+      "start_char": 28322,
+      "end_char": 28339
+    },
+    {
+      "text": "section   50",
+      "label": "PROVISION",
+      "start_char": 28356,
+      "end_char": 28368
+    },
+    {
+      "text": "section 13(1)",
+      "label": "PROVISION",
+      "start_char": 28415,
+      "end_char": 28428
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 28533,
+      "end_char": 28543
+    },
+    {
+      "text": "Commercial Courts  Act",
+      "label": "STATUTE",
+      "start_char": 28551,
+      "end_char": 28573
+    },
+    {
+      "text": "Soparkar",
+      "label": "OTHER_PERSON",
+      "start_char": 28630,
+      "end_char": 28638
+    },
+    {
+      "text": "Supreme   Court",
+      "label": "COURT",
+      "start_char": 28763,
+      "end_char": 28778
+    },
+    {
+      "text": "Rajkumar   Shivhare   vs.   Assistant   Director,   Directorate   of  Enforcement   &   Ors",
+      "label": "PRECEDENT",
+      "start_char": 28803,
+      "end_char": 28894
+    },
+    {
+      "text": "(2010)4   SCC   772",
+      "label": "PRECEDENT",
+      "start_char": 28912,
+      "end_char": 28931
+    },
+    {
+      "text": "Soparkar",
+      "label": "OTHER_PERSON",
+      "start_char": 28960,
+      "end_char": 28968
+    },
+    {
+      "text": "section 13",
+      "label": "PROVISION",
+      "start_char": 29359,
+      "end_char": 29369
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 29377,
+      "end_char": 29398
+    },
+    {
+      "text": "section 13",
+      "label": "PROVISION",
+      "start_char": 29680,
+      "end_char": 29690
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 29699,
+      "end_char": 29720
+    },
+    {
+      "text": "Soparkar",
+      "label": "OTHER_PERSON",
+      "start_char": 29773,
+      "end_char": 29781
+    },
+    {
+      "text": "section   21",
+      "label": "PROVISION",
+      "start_char": 29861,
+      "end_char": 29873
+    },
+    {
+      "text": "Sat Oct 07 07:50:16 IST 2017",
+      "label": "DATE",
+      "start_char": 29918,
+      "end_char": 29946
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 29947,
+      "end_char": 29968
+    },
+    {
+      "text": "section   50",
+      "label": "PROVISION",
+      "start_char": 30205,
+      "end_char": 30217
+    },
+    {
+      "text": "Arbitration   Act",
+      "label": "STATUTE",
+      "start_char": 30231,
+      "end_char": 30248
+    },
+    {
+      "text": "section 13",
+      "label": "PROVISION",
+      "start_char": 30284,
+      "end_char": 30294
+    },
+    {
+      "text": "Commercial Courts  Act",
+      "label": "STATUTE",
+      "start_char": 30302,
+      "end_char": 30324
+    },
+    {
+      "text": "section 21",
+      "label": "PROVISION",
+      "start_char": 30371,
+      "end_char": 30381
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 30390,
+      "end_char": 30411
+    },
+    {
+      "text": "Commercial  Courts Act",
+      "label": "STATUTE",
+      "start_char": 30443,
+      "end_char": 30465
+    },
+    {
+      "text": "Arbitration  Act",
+      "label": "STATUTE",
+      "start_char": 30510,
+      "end_char": 30526
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 30560,
+      "end_char": 30575
+    },
+    {
+      "text": "Commercial   Courts   Act",
+      "label": "STATUTE",
+      "start_char": 30619,
+      "end_char": 30644
+    },
+    {
+      "text": "section 13",
+      "label": "PROVISION",
+      "start_char": 30859,
+      "end_char": 30869
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 30878,
+      "end_char": 30899
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 31167,
+      "end_char": 31182
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 31232,
+      "end_char": 31245
+    },
+    {
+      "text": "Vanguard Fire and General Insurance Ltd. vs. Fraser  and Ross and Anr",
+      "label": "PRECEDENT",
+      "start_char": 31263,
+      "end_char": 31332
+    },
+    {
+      "text": "AIR 1960 SC 971",
+      "label": "PRECEDENT",
+      "start_char": 31348,
+      "end_char": 31363
+    },
+    {
+      "text": "Sat Oct 07 07:50:16 IST 2017",
+      "label": "DATE",
+      "start_char": 31789,
+      "end_char": 31817
+    },
+    {
+      "text": "section 13",
+      "label": "PROVISION",
+      "start_char": 31962,
+      "end_char": 31972
+    },
+    {
+      "text": "Commercial   Courts   Act",
+      "label": "STATUTE",
+      "start_char": 31983,
+      "end_char": 32008
+    },
+    {
+      "text": "Commercial   Courts   Act",
+      "label": "STATUTE",
+      "start_char": 32018,
+      "end_char": 32043
+    },
+    {
+      "text": "Commercial   Courts   Act",
+      "label": "STATUTE",
+      "start_char": 32861,
+      "end_char": 32886
+    },
+    {
+      "text": "Section   49",
+      "label": "PROVISION",
+      "start_char": 32906,
+      "end_char": 32918
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 32931,
+      "end_char": 32946
+    },
+    {
+      "text": "Part II",
+      "label": "PROVISION",
+      "start_char": 33031,
+      "end_char": 33038
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 33046,
+      "end_char": 33061
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 33356,
+      "end_char": 33377
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 33461,
+      "end_char": 33471
+    },
+    {
+      "text": "Sat Oct 07 07:50:16 IST 2017",
+      "label": "DATE",
+      "start_char": 33505,
+      "end_char": 33533
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 33541,
+      "end_char": 33562
+    },
+    {
+      "text": "sub­section (1) of Section 13",
+      "label": "PROVISION",
+      "start_char": 33692,
+      "end_char": 33721
+    },
+    {
+      "text": "Commercial Courts  Act",
+      "label": "STATUTE",
+      "start_char": 33729,
+      "end_char": 33751
+    },
+    {
+      "text": "sub­ section (1) of Section 13",
+      "label": "PROVISION",
+      "start_char": 34286,
+      "end_char": 34316
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 34324,
+      "end_char": 34345
+    },
+    {
+      "text": "sub­ section (1) of Section 13",
+      "label": "PROVISION",
+      "start_char": 34510,
+      "end_char": 34540
+    },
+    {
+      "text": "section  50",
+      "label": "PROVISION",
+      "start_char": 34712,
+      "end_char": 34723
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 34731,
+      "end_char": 34746
+    },
+    {
+      "text": "section  45",
+      "label": "PROVISION",
+      "start_char": 34852,
+      "end_char": 34863
+    },
+    {
+      "text": "Section 48",
+      "label": "PROVISION",
+      "start_char": 34901,
+      "end_char": 34911
+    },
+    {
+      "text": "Sat Oct 07 07:50:16 IST 2017",
+      "label": "DATE",
+      "start_char": 35303,
+      "end_char": 35331
+    },
+    {
+      "text": "sub­section (1) of Section 13",
+      "label": "PROVISION",
+      "start_char": 35414,
+      "end_char": 35443
+    },
+    {
+      "text": "Commercial Courts  Act",
+      "label": "STATUTE",
+      "start_char": 35451,
+      "end_char": 35473
+    },
+    {
+      "text": "sub­section  (1) of Section 13",
+      "label": "PROVISION",
+      "start_char": 35611,
+      "end_char": 35641
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 35649,
+      "end_char": 35670
+    },
+    {
+      "text": "sub­section   (1)   of   Section   13",
+      "label": "PROVISION",
+      "start_char": 35709,
+      "end_char": 35746
+    },
+    {
+      "text": "sub­ section (1) of Section 13",
+      "label": "PROVISION",
+      "start_char": 35767,
+      "end_char": 35797
+    },
+    {
+      "text": "Section 13(1)",
+      "label": "PROVISION",
+      "start_char": 35809,
+      "end_char": 35822
+    },
+    {
+      "text": "Commercial  Courts Act",
+      "label": "STATUTE",
+      "start_char": 35830,
+      "end_char": 35852
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 35929,
+      "end_char": 35950
+    },
+    {
+      "text": "Section   21",
+      "label": "PROVISION",
+      "start_char": 36045,
+      "end_char": 36057
+    },
+    {
+      "text": "Commercial   Courts   Act",
+      "label": "STATUTE",
+      "start_char": 36070,
+      "end_char": 36095
+    },
+    {
+      "text": "Commercial   Courts   Act",
+      "label": "STATUTE",
+      "start_char": 36105,
+      "end_char": 36130
+    },
+    {
+      "text": "Arbitration   Act",
+      "label": "STATUTE",
+      "start_char": 36253,
+      "end_char": 36270
+    },
+    {
+      "text": "Section 50",
+      "label": "PROVISION",
+      "start_char": 36321,
+      "end_char": 36331
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 36339,
+      "end_char": 36354
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 36384,
+      "end_char": 36394
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 36402,
+      "end_char": 36423
+    },
+    {
+      "text": "section   50",
+      "label": "PROVISION",
+      "start_char": 36466,
+      "end_char": 36478
+    },
+    {
+      "text": "Arbitration   Act",
+      "label": "STATUTE",
+      "start_char": 36492,
+      "end_char": 36509
+    },
+    {
+      "text": "Commercial   Courts   Act",
+      "label": "STATUTE",
+      "start_char": 36648,
+      "end_char": 36673
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 36931,
+      "end_char": 36946
+    },
+    {
+      "text": "Commercial   Courts   Act",
+      "label": "STATUTE",
+      "start_char": 37089,
+      "end_char": 37114
+    },
+    {
+      "text": "Sat Oct 07 07:50:16 IST 2017",
+      "label": "DATE",
+      "start_char": 37160,
+      "end_char": 37188
+    },
+    {
+      "text": "section   50",
+      "label": "PROVISION",
+      "start_char": 37352,
+      "end_char": 37364
+    },
+    {
+      "text": "Arbitration   Act",
+      "label": "STATUTE",
+      "start_char": 37378,
+      "end_char": 37395
+    },
+    {
+      "text": "Commercial   Courts  Act",
+      "label": "STATUTE",
+      "start_char": 37632,
+      "end_char": 37656
+    },
+    {
+      "text": "Section 50",
+      "label": "PROVISION",
+      "start_char": 37805,
+      "end_char": 37815
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 37823,
+      "end_char": 37838
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 37927,
+      "end_char": 37942
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 37969,
+      "end_char": 37990
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 38026,
+      "end_char": 38041
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 38069,
+      "end_char": 38090
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 38242,
+      "end_char": 38255
+    },
+    {
+      "text": "Furest  Day Lawson Limited",
+      "label": "ORG",
+      "start_char": 38271,
+      "end_char": 38297
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 38307,
+      "end_char": 38322
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 38424,
+      "end_char": 38437
+    },
+    {
+      "text": "Sat Oct 07 07:50:16 IST 2017",
+      "label": "DATE",
+      "start_char": 38959,
+      "end_char": 38987
+    },
+    {
+      "text": "Supreme   Court",
+      "label": "COURT",
+      "start_char": 38998,
+      "end_char": 39013
+    },
+    {
+      "text": "Section 50",
+      "label": "PROVISION",
+      "start_char": 39103,
+      "end_char": 39113
+    },
+    {
+      "text": "Arbitration  Act",
+      "label": "STATUTE",
+      "start_char": 39121,
+      "end_char": 39137
+    },
+    {
+      "text": "Arun   Dev   Upadhyaya",
+      "label": "OTHER_PERSON",
+      "start_char": 39331,
+      "end_char": 39353
+    },
+    {
+      "text": "Section   50(1)(b)",
+      "label": "PROVISION",
+      "start_char": 39611,
+      "end_char": 39629
+    },
+    {
+      "text": "Arbitration   Act",
+      "label": "STATUTE",
+      "start_char": 39643,
+      "end_char": 39660
+    },
+    {
+      "text": "Supreme  Court",
+      "label": "COURT",
+      "start_char": 39752,
+      "end_char": 39766
+    },
+    {
+      "text": "section   5   and   13",
+      "label": "PROVISION",
+      "start_char": 39813,
+      "end_char": 39835
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 39848,
+      "end_char": 39869
+    },
+    {
+      "text": "section 50",
+      "label": "PROVISION",
+      "start_char": 39874,
+      "end_char": 39884
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 39892,
+      "end_char": 39907
+    },
+    {
+      "text": "Section  50(1)(b)",
+      "label": "PROVISION",
+      "start_char": 40144,
+      "end_char": 40161
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 40169,
+      "end_char": 40184
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 40264,
+      "end_char": 40277
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 40321,
+      "end_char": 40342
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 40348,
+      "end_char": 40363
+    },
+    {
+      "text": "Delhi High  Court",
+      "label": "COURT",
+      "start_char": 40457,
+      "end_char": 40474
+    },
+    {
+      "text": "Harmanprit Singh Sidhu vs. Arcadia Shares &  Stock Brokers Pvt",
+      "label": "PRECEDENT",
+      "start_char": 40490,
+      "end_char": 40552
+    },
+    {
+      "text": "(2016) 234 DLT 30 (DB)",
+      "label": "PRECEDENT",
+      "start_char": 40573,
+      "end_char": 40595
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 40629,
+      "end_char": 40645
+    },
+    {
+      "text": "Sat Oct 07 07:50:16 IST 2017",
+      "label": "DATE",
+      "start_char": 40730,
+      "end_char": 40758
+    },
+    {
+      "text": "Section   13",
+      "label": "PROVISION",
+      "start_char": 40780,
+      "end_char": 40792
+    },
+    {
+      "text": "Commercial   Courts   Act",
+      "label": "STATUTE",
+      "start_char": 40806,
+      "end_char": 40831
+    },
+    {
+      "text": "Section 13(1)",
+      "label": "PROVISION",
+      "start_char": 40934,
+      "end_char": 40947
+    },
+    {
+      "text": "Order 43",
+      "label": "PROVISION",
+      "start_char": 41112,
+      "end_char": 41120
+    },
+    {
+      "text": "Code  of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 41128,
+      "end_char": 41158
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 41178,
+      "end_char": 41199
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 41206,
+      "end_char": 41216
+    },
+    {
+      "text": "A&C Act",
+      "label": "STATUTE",
+      "start_char": 41224,
+      "end_char": 41231
+    },
+    {
+      "text": "FAO (OS) 136/2016",
+      "label": "CASE_NUMBER",
+      "start_char": 41233,
+      "end_char": 41250
+    },
+    {
+      "text": "Section  13(1)",
+      "label": "PROVISION",
+      "start_char": 41319,
+      "end_char": 41333
+    },
+    {
+      "text": "Order 43",
+      "label": "PROVISION",
+      "start_char": 41503,
+      "end_char": 41511
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 41513,
+      "end_char": 41516
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 41521,
+      "end_char": 41531
+    },
+    {
+      "text": "A&C Act",
+      "label": "STATUTE",
+      "start_char": 41539,
+      "end_char": 41546
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 41724,
+      "end_char": 41734
+    },
+    {
+      "text": "A&C Act",
+      "label": "STATUTE",
+      "start_char": 41742,
+      "end_char": 41749
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 41777,
+      "end_char": 41787
+    },
+    {
+      "text": "Commercial Courts  Act",
+      "label": "STATUTE",
+      "start_char": 41795,
+      "end_char": 41817
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 41905,
+      "end_char": 41915
+    },
+    {
+      "text": "A&C Act",
+      "label": "STATUTE",
+      "start_char": 41923,
+      "end_char": 41930
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 42061,
+      "end_char": 42071
+    },
+    {
+      "text": "A&C Act",
+      "label": "STATUTE",
+      "start_char": 42079,
+      "end_char": 42086
+    },
+    {
+      "text": "Section 13(2)",
+      "label": "PROVISION",
+      "start_char": 42097,
+      "end_char": 42110
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 42453,
+      "end_char": 42474
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 42551,
+      "end_char": 42566
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 42575,
+      "end_char": 42596
+    },
+    {
+      "text": "section  50",
+      "label": "PROVISION",
+      "start_char": 42610,
+      "end_char": 42621
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 42629,
+      "end_char": 42644
+    },
+    {
+      "text": "Section 49",
+      "label": "PROVISION",
+      "start_char": 42724,
+      "end_char": 42734
+    },
+    {
+      "text": "Arbitration  Act",
+      "label": "STATUTE",
+      "start_char": 42742,
+      "end_char": 42758
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 42960,
+      "end_char": 42973
+    },
+    {
+      "text": "Raj Kumar Shivhare vs. Assistant Director, Directorate  of Enforcement and Another reported in  (2010) 4 SCC 772",
+      "label": "PRECEDENT",
+      "start_char": 42990,
+      "end_char": 43102
+    },
+    {
+      "text": "Sat Oct 07 07:50:16 IST 2017",
+      "label": "DATE",
+      "start_char": 43212,
+      "end_char": 43240
+    },
+    {
+      "text": "Commercial   Courts   Act",
+      "label": "STATUTE",
+      "start_char": 43257,
+      "end_char": 43282
+    },
+    {
+      "text": "Commercial  Courts   Act",
+      "label": "STATUTE",
+      "start_char": 43765,
+      "end_char": 43789
+    },
+    {
+      "text": "Section 50",
+      "label": "PROVISION",
+      "start_char": 43895,
+      "end_char": 43905
+    },
+    {
+      "text": "Arbitration  Act",
+      "label": "STATUTE",
+      "start_char": 43913,
+      "end_char": 43929
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 44026,
+      "end_char": 44041
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 44113,
+      "end_char": 44134
+    },
+    {
+      "text": "Arbitration  Act",
+      "label": "STATUTE",
+      "start_char": 44427,
+      "end_char": 44443
+    },
+    {
+      "text": "section 50",
+      "label": "PROVISION",
+      "start_char": 44536,
+      "end_char": 44546
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 44554,
+      "end_char": 44569
+    },
+    {
+      "text": "section 50",
+      "label": "PROVISION",
+      "start_char": 44675,
+      "end_char": 44685
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 44693,
+      "end_char": 44708
+    },
+    {
+      "text": "section 50",
+      "label": "PROVISION",
+      "start_char": 44839,
+      "end_char": 44849
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 44858,
+      "end_char": 44873
+    },
+    {
+      "text": "Sat Oct 07 07:50:16 IST 2017",
+      "label": "DATE",
+      "start_char": 45185,
+      "end_char": 45213
+    },
+    {
+      "text": "section 50",
+      "label": "PROVISION",
+      "start_char": 46448,
+      "end_char": 46458
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 46466,
+      "end_char": 46481
+    },
+    {
+      "text": "section 13",
+      "label": "PROVISION",
+      "start_char": 46486,
+      "end_char": 46496
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 46505,
+      "end_char": 46526
+    },
+    {
+      "text": "Section   49",
+      "label": "PROVISION",
+      "start_char": 46620,
+      "end_char": 46632
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 46645,
+      "end_char": 46660
+    },
+    {
+      "text": "Sat Oct 07 07:50:16 IST 2017",
+      "label": "DATE",
+      "start_char": 47090,
+      "end_char": 47118
+    },
+    {
+      "text": "NOS.11626/2017",
+      "label": "DATE",
+      "start_char": 47333,
+      "end_char": 47347
+    },
+    {
+      "text": "11629/2017",
+      "label": "DATE",
+      "start_char": 47351,
+      "end_char": 47361
+    },
+    {
+      "text": "11630/2017",
+      "label": "DATE",
+      "start_char": 47369,
+      "end_char": 47379
+    },
+    {
+      "text": "M.R. SHAH",
+      "label": "JUDGE",
+      "start_char": 47510,
+      "end_char": 47519
+    },
+    {
+      "text": "B.N. KARIA",
+      "label": "JUDGE",
+      "start_char": 47541,
+      "end_char": 47551
+    },
+    {
+      "text": "Sat Oct 07 07:50:16 IST 2017",
+      "label": "DATE",
+      "start_char": 47595,
+      "end_char": 47623
+    }
+  ],
+  "precedent_clusters": {
+    "Rajkumar   Shivhare   vs.   Assistant   Director,   Directorate   of  Enforcement   &   Ors": [
+      "Arun Dev Upadhyay vs. Integrated Sales Services Ltd. and Anr",
+      "Rajah Tasadduq Rasul Khan vs. Manikchand",
+      "Rajkumar   Shivhare   vs.   Assistant   Director,   Directorate   of  Enforcement   &   Ors",
+      "Vanguard Fire and General Insurance Ltd. vs. Fraser  and Ross and Anr",
+      "Harmanprit Singh Sidhu vs. Arcadia Shares &  Stock Brokers Pvt"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Part II",
+      "Arbitration and  Conciliation Act, 1996",
+      "Part II",
+      "Arbitration and  Conciliation Act, 1996"
+    ],
+    [
+      "Section 48",
+      "Arbitration Act",
+      "Section 48",
+      "Arbitration Act"
+    ],
+    [
+      "Section  15(5)",
+      "Commercial Courts Act",
+      "Section  15(5)",
+      "Commercial Courts Act"
+    ],
+    [
+      "section 15",
+      "Commercial Courts  Act",
+      "section 15",
+      "Commercial Courts  Act"
+    ],
+    [
+      "sections 47, 48 and 49",
+      "Arbitration Act",
+      "sections 47, 48 and 49",
+      "Arbitration Act"
+    ],
+    [
+      "Part   II",
+      "Arbitration Act",
+      "Part   II",
+      "Arbitration Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13",
+      "Commercial   Courts   Act",
+      "Section 13",
+      "Commercial   Courts   Act"
+    ],
+    [
+      "section 50",
+      "Arbitration Act",
+      "section 50",
+      "Arbitration Act"
+    ],
+    [
+      "Section   13",
+      "Commercial   Courts   Act",
+      "Section   13",
+      "Commercial   Courts   Act"
+    ],
+    [
+      "section   13",
+      "Commercial Courts Act",
+      "section   13",
+      "Commercial Courts Act"
+    ],
+    [
+      "section  13(1)",
+      "Commercial Courts Act",
+      "section  13(1)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order XLIII",
+      "Code   of   Civil   Procedure,   1908",
+      "Order XLIII",
+      "Code   of   Civil   Procedure,   1908"
+    ],
+    [
+      "section 37",
+      "Arbitration Act",
+      "section 37",
+      "Arbitration Act"
+    ],
+    [
+      "section   13(1)",
+      "Commercial Courts Act",
+      "section   13(1)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order XLIII",
+      "Code of Civil Procedure, 1908",
+      "Order XLIII",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "section 13",
+      "Commercial Courts Act",
+      "section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "section 2(2)",
+      "Commercial Courts Act",
+      "section 2(2)",
+      "Commercial Courts Act"
+    ],
+    [
+      "section 13",
+      "Commercial  Courts Act",
+      "section 13",
+      "Commercial  Courts Act"
+    ],
+    [
+      "sections 37 and 50",
+      "Arbitration Act",
+      "sections 37 and 50",
+      "Arbitration Act"
+    ],
+    [
+      "section 13",
+      "Commercial Courts Act",
+      "section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 48",
+      "Arbitration Act",
+      "Section 48",
+      "Arbitration Act"
+    ],
+    [
+      "section 13",
+      "Commercial Courts Act",
+      "section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section   13",
+      "Commercial  Courts Act",
+      "Section   13",
+      "Commercial  Courts Act"
+    ],
+    [
+      "section 50",
+      "Arbitration Act",
+      "section 50",
+      "Arbitration Act"
+    ],
+    [
+      "section   50   of",
+      "Arbitration   Act",
+      "section   50   of",
+      "Arbitration   Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 50",
+      "Arbitration Act",
+      "Section 50",
+      "Arbitration Act"
+    ],
+    [
+      "Section   13",
+      "Commercial Courts Act",
+      "Section   13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 50",
+      "Arbitration Act",
+      "Section 50",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Part II",
+      "Arbitration Act",
+      "Part II",
+      "Arbitration Act"
+    ],
+    [
+      "section  50",
+      "Arbitration   Act",
+      "section  50",
+      "Arbitration   Act"
+    ],
+    [
+      "Part II",
+      "Arbitration Act",
+      "Part II",
+      "Arbitration Act"
+    ],
+    [
+      "Section 48",
+      "Arbitration Act",
+      "Section 48",
+      "Arbitration Act"
+    ],
+    [
+      "sections 49 and 50",
+      "Arbitration  Act",
+      "sections 49 and 50",
+      "Arbitration  Act"
+    ],
+    [
+      "Section   6",
+      "Foreign Awards Act",
+      "Section   6",
+      "Foreign Awards Act"
+    ],
+    [
+      "Section 50",
+      "Arbitration Act",
+      "Section 50",
+      "Arbitration Act"
+    ],
+    [
+      "section 50",
+      "Arbitration Act",
+      "section 50",
+      "Arbitration Act"
+    ],
+    [
+      "Section 48",
+      "Arbitration Act",
+      "Section 48",
+      "Arbitration Act"
+    ],
+    [
+      "section   50   of",
+      "Arbitration   Act",
+      "section   50   of",
+      "Arbitration   Act"
+    ],
+    [
+      "Section  5",
+      "Commercial Courts Act",
+      "Section  5",
+      "Commercial Courts Act"
+    ],
+    [
+      "section 13",
+      "Commercial Courts Act",
+      "section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "section  13",
+      "Commercial Courts Act",
+      "section  13",
+      "Commercial Courts Act"
+    ],
+    [
+      "section 50",
+      "Arbitration  Act",
+      "section 50",
+      "Arbitration  Act"
+    ],
+    [
+      "Section 50",
+      "Arbitration Act",
+      "Section 50",
+      "Arbitration Act"
+    ],
+    [
+      "Section 48",
+      "Arbitration Act",
+      "Section 48",
+      "Arbitration Act"
+    ],
+    [
+      "Section   13",
+      "Commercial   Courts   Act",
+      "Section   13",
+      "Commercial   Courts   Act"
+    ],
+    [
+      "section 50",
+      "Arbitration Act",
+      "section 50",
+      "Arbitration Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 50",
+      "Arbitration  Act",
+      "Section 50",
+      "Arbitration  Act"
+    ],
+    [
+      "Section   13",
+      "Commercial   Courts   Act",
+      "Section   13",
+      "Commercial   Courts   Act"
+    ],
+    [
+      "Section   49",
+      "Arbitration   Act",
+      "Section   49",
+      "Arbitration   Act"
+    ],
+    [
+      "Section   13",
+      "Commercial  Courts Act",
+      "Section   13",
+      "Commercial  Courts Act"
+    ],
+    [
+      "section   13(1)",
+      "Commercial Courts Act",
+      "section   13(1)",
+      "Commercial Courts Act"
+    ],
+    [
+      "section  13(1)",
+      "Commercial Courts Act",
+      "section  13(1)",
+      "Commercial Courts Act"
+    ],
+    [
+      "proviso to section 13(1)",
+      "Commercial Courts Act",
+      "proviso to section 13(1)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13(1)",
+      "Commercial Courts Act",
+      "Section 13(1)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13(1)",
+      "Commercial Courts Act",
+      "Section 13(1)",
+      "Commercial Courts Act"
+    ],
+    [
+      "section   13",
+      "Commercial  Courts Act",
+      "section   13",
+      "Commercial  Courts Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "section 50",
+      "Arbitration Act",
+      "section 50",
+      "Arbitration Act"
+    ],
+    [
+      "Section   13",
+      "Commercial Courts Act",
+      "Section   13",
+      "Commercial Courts Act"
+    ],
+    [
+      "section 13(1)",
+      "Commercial  Courts  Act",
+      "section 13(1)",
+      "Commercial  Courts  Act"
+    ],
+    [
+      "section   50",
+      "Arbitration   Act",
+      "section   50",
+      "Arbitration   Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts  Act",
+      "Section 13",
+      "Commercial Courts  Act"
+    ],
+    [
+      "section 13",
+      "Commercial Courts Act",
+      "section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "section 13",
+      "Commercial Courts Act",
+      "section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "section   21",
+      "Commercial Courts Act",
+      "section   21",
+      "Commercial Courts Act"
+    ],
+    [
+      "section   50",
+      "Arbitration   Act",
+      "section   50",
+      "Arbitration   Act"
+    ],
+    [
+      "section 13",
+      "Commercial Courts  Act",
+      "section 13",
+      "Commercial Courts  Act"
+    ],
+    [
+      "section 21",
+      "Commercial Courts Act",
+      "section 21",
+      "Commercial Courts Act"
+    ],
+    [
+      "section 13",
+      "Commercial Courts Act",
+      "section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "section 13",
+      "Commercial   Courts   Act",
+      "section 13",
+      "Commercial   Courts   Act"
+    ],
+    [
+      "Section   49",
+      "Arbitration Act",
+      "Section   49",
+      "Arbitration Act"
+    ],
+    [
+      "Part II",
+      "Arbitration Act",
+      "Part II",
+      "Arbitration Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "sub­section (1) of Section 13",
+      "Commercial Courts  Act",
+      "sub­section (1) of Section 13",
+      "Commercial Courts  Act"
+    ],
+    [
+      "sub­ section (1) of Section 13",
+      "Commercial Courts Act",
+      "sub­ section (1) of Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "section  50",
+      "Arbitration Act",
+      "section  50",
+      "Arbitration Act"
+    ],
+    [
+      "sub­section (1) of Section 13",
+      "Commercial Courts  Act",
+      "sub­section (1) of Section 13",
+      "Commercial Courts  Act"
+    ],
+    [
+      "sub­section  (1) of Section 13",
+      "Commercial Courts Act",
+      "sub­section  (1) of Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13(1)",
+      "Commercial  Courts Act",
+      "Section 13(1)",
+      "Commercial  Courts Act"
+    ],
+    [
+      "Section   21",
+      "Commercial   Courts   Act",
+      "Section   21",
+      "Commercial   Courts   Act"
+    ],
+    [
+      "Section 50",
+      "Arbitration Act",
+      "Section 50",
+      "Arbitration Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "section   50",
+      "Arbitration   Act",
+      "section   50",
+      "Arbitration   Act"
+    ],
+    [
+      "section   50",
+      "Arbitration   Act",
+      "section   50",
+      "Arbitration   Act"
+    ],
+    [
+      "Section 50",
+      "Arbitration Act",
+      "Section 50",
+      "Arbitration Act"
+    ],
+    [
+      "Section 50",
+      "Arbitration  Act",
+      "Section 50",
+      "Arbitration  Act"
+    ],
+    [
+      "Section   50(1)(b)",
+      "Arbitration   Act",
+      "Section   50(1)(b)",
+      "Arbitration   Act"
+    ],
+    [
+      "section   5   and   13",
+      "Commercial Courts Act",
+      "section   5   and   13",
+      "Commercial Courts Act"
+    ],
+    [
+      "section 50",
+      "Arbitration Act",
+      "section 50",
+      "Arbitration Act"
+    ],
+    [
+      "Section  50(1)(b)",
+      "Arbitration Act",
+      "Section  50(1)(b)",
+      "Arbitration Act"
+    ],
+    [
+      "Section   13",
+      "Commercial   Courts   Act",
+      "Section   13",
+      "Commercial   Courts   Act"
+    ],
+    [
+      "Order 43",
+      "Code  of Civil Procedure, 1908",
+      "Order 43",
+      "Code  of Civil Procedure, 1908"
+    ],
+    [
+      "Section 13(1)",
+      "Commercial Courts Act",
+      "Section 13(1)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 37",
+      "A&C Act",
+      "Section 37",
+      "A&C Act"
+    ],
+    [
+      "Order 43",
+      "CPC",
+      "Order 43",
+      "CPC"
+    ],
+    [
+      "Section 37",
+      "A&C Act",
+      "Section 37",
+      "A&C Act"
+    ],
+    [
+      "Section 37",
+      "A&C Act",
+      "Section 37",
+      "A&C Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts  Act",
+      "Section 13",
+      "Commercial Courts  Act"
+    ],
+    [
+      "Section 37",
+      "A&C Act",
+      "Section 37",
+      "A&C Act"
+    ],
+    [
+      "Section 37",
+      "A&C Act",
+      "Section 37",
+      "A&C Act"
+    ],
+    [
+      "Section 13(2)",
+      "Commercial Courts Act",
+      "Section 13(2)",
+      "Commercial Courts Act"
+    ],
+    [
+      "section  50",
+      "Arbitration Act",
+      "section  50",
+      "Arbitration Act"
+    ],
+    [
+      "Section 49",
+      "Arbitration  Act",
+      "Section 49",
+      "Arbitration  Act"
+    ],
+    [
+      "Section 50",
+      "Arbitration  Act",
+      "Section 50",
+      "Arbitration  Act"
+    ],
+    [
+      "section 50",
+      "Arbitration Act",
+      "section 50",
+      "Arbitration Act"
+    ],
+    [
+      "section 50",
+      "Arbitration Act",
+      "section 50",
+      "Arbitration Act"
+    ],
+    [
+      "section 50",
+      "Arbitration Act",
+      "section 50",
+      "Arbitration Act"
+    ],
+    [
+      "section 50",
+      "Arbitration Act",
+      "section 50",
+      "Arbitration Act"
+    ],
+    [
+      "section 13",
+      "Commercial Courts Act",
+      "section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section   49",
+      "Arbitration Act",
+      "Section   49",
+      "Arbitration Act"
+    ],
+    [
+      "Section 2(9)",
+      "Commercial Courts Act",
+      "Section 2(9)",
+      "Commercial Courts Act"
+    ],
+    [
+      "section 50",
+      "Arbitration   Act",
+      "section 50",
+      "Arbitration   Act"
+    ],
+    [
+      "section 50(1)(b)",
+      "Arbitration  Act",
+      "section 50(1)(b)",
+      "Arbitration  Act"
+    ],
+    [
+      "Section   48",
+      "Arbitration Act",
+      "Section   48",
+      "Arbitration Act"
+    ],
+    [
+      "Section 50(1)(a)",
+      "Arbitration Act",
+      "Section 50(1)(a)",
+      "Arbitration Act"
+    ],
+    [
+      "section   50(1)(b)",
+      "Arbitration Act",
+      "section   50(1)(b)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 50",
+      "Arbitration Act",
+      "Section 50",
+      "Arbitration Act"
+    ],
+    [
+      "section   50",
+      "Arbitration   Act",
+      "section   50",
+      "Arbitration   Act"
+    ],
+    [
+      "section 13(1)",
+      "Commercial  Courts  Act",
+      "section 13(1)",
+      "Commercial  Courts  Act"
+    ],
+    [
+      "sub­ section (1) of Section 13",
+      "Commercial Courts Act",
+      "sub­ section (1) of Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "section  45",
+      "Arbitration Act",
+      "section  45",
+      "Arbitration Act"
+    ],
+    [
+      "Section 48",
+      "Arbitration Act",
+      "Section 48",
+      "Arbitration Act"
+    ],
+    [
+      "sub­section   (1)   of   Section   13",
+      "Commercial Courts Act",
+      "sub­section   (1)   of   Section   13",
+      "Commercial Courts Act"
+    ],
+    [
+      "sub­ section (1) of Section 13",
+      "Commercial Courts Act",
+      "sub­ section (1) of Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section  13(1)",
+      "Commercial Courts Act",
+      "Section  13(1)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section   45",
+      "Arbitration Act",
+      "Section   45",
+      "Arbitration Act"
+    ]
+  ],
+  "precedent_counts": {
+    "Rajkumar   Shivhare   vs.   Assistant   Director,   Directorate   of  Enforcement   &   Ors": 5
+  },
+  "provision_counts": {
+    "Part II of Arbitration and  Conciliation Act, 1996": 1,
+    "Section 48 of Arbitration Act": 6,
+    "Section  15(5) of Commercial Courts Act": 1,
+    "section 15 of Commercial Courts  Act": 1,
+    "sections 47, 48 and 49 of Arbitration Act": 1,
+    "Part   II of Arbitration Act": 1,
+    "Section 13 of Commercial Courts Act": 8,
+    "Section 13 of Commercial   Courts   Act": 1,
+    "section 50 of Arbitration Act": 10,
+    "Section   13 of Commercial   Courts   Act": 4,
+    "section   13 of Commercial Courts Act": 1,
+    "section  13(1) of Commercial Courts Act": 2,
+    "Order XLIII of Code   of   Civil   Procedure,   1908": 1,
+    "section 37 of Arbitration Act": 1,
+    "section   13(1) of Commercial Courts Act": 2,
+    "Order XLIII of Code of Civil Procedure, 1908": 1,
+    "Section 37 of Arbitration Act": 2,
+    "section 13 of Commercial Courts Act": 8,
+    "section 2(2) of Commercial Courts Act": 1,
+    "section 13 of Commercial  Courts Act": 1,
+    "sections 37 and 50 of Arbitration Act": 1,
+    "Section   13 of Commercial  Courts Act": 2,
+    "section   50   of of Arbitration   Act": 2,
+    "Section 50 of Arbitration Act": 7,
+    "Section   13 of Commercial Courts Act": 2,
+    "Part II of Arbitration Act": 3,
+    "section  50 of Arbitration   Act": 1,
+    "sections 49 and 50 of Arbitration  Act": 1,
+    "Section   6 of Foreign Awards Act": 1,
+    "Section  5 of Commercial Courts Act": 1,
+    "section  13 of Commercial Courts Act": 1,
+    "section 50 of Arbitration  Act": 1,
+    "Section 50 of Arbitration  Act": 3,
+    "Section   49 of Arbitration   Act": 1,
+    "proviso to section 13(1) of Commercial Courts Act": 1,
+    "Section 13(1) of Commercial Courts Act": 3,
+    "section   13 of Commercial  Courts Act": 1,
+    "section 13(1) of Commercial  Courts  Act": 2,
+    "section   50 of Arbitration   Act": 5,
+    "Section 13 of Commercial Courts  Act": 2,
+    "section   21 of Commercial Courts Act": 1,
+    "section 13 of Commercial Courts  Act": 1,
+    "section 21 of Commercial Courts Act": 1,
+    "section 13 of Commercial   Courts   Act": 1,
+    "Section   49 of Arbitration Act": 2,
+    "sub­section (1) of Section 13 of Commercial Courts  Act": 2,
+    "sub­ section (1) of Section 13 of Commercial Courts Act": 3,
+    "section  50 of Arbitration Act": 2,
+    "sub­section  (1) of Section 13 of Commercial Courts Act": 1,
+    "Section 13(1) of Commercial  Courts Act": 1,
+    "Section   21 of Commercial   Courts   Act": 1,
+    "Section   50(1)(b) of Arbitration   Act": 1,
+    "section   5   and   13 of Commercial Courts Act": 1,
+    "Section  50(1)(b) of Arbitration Act": 1,
+    "Order 43 of Code  of Civil Procedure, 1908": 1,
+    "Section 37 of A&C Act": 5,
+    "Order 43 of CPC": 1,
+    "Section 13(2) of Commercial Courts Act": 1,
+    "Section 49 of Arbitration  Act": 1,
+    "Section 2(9) of Commercial Courts Act": 1,
+    "section 50 of Arbitration   Act": 1,
+    "section 50(1)(b) of Arbitration  Act": 1,
+    "Section   48 of Arbitration Act": 1,
+    "Section 50(1)(a) of Arbitration Act": 1,
+    "section   50(1)(b) of Arbitration Act": 1,
+    "section  45 of Arbitration Act": 1,
+    "sub­section   (1)   of   Section   13 of Commercial Courts Act": 1,
+    "Section  13(1) of Commercial Courts Act": 1,
+    "Section   45 of Arbitration Act": 1
+  },
+  "statute_counts": {
+    "Arbitration and  Conciliation Act, 1996": 1,
+    "Arbitration Act": 42,
+    "Commercial Courts Act": 42,
+    "Commercial Courts  Act": 6,
+    "Commercial   Courts   Act": 7,
+    "Code   of   Civil   Procedure,   1908": 1,
+    "Code of Civil Procedure, 1908": 1,
+    "Commercial  Courts Act": 5,
+    "Arbitration   Act": 11,
+    "Arbitration  Act": 7,
+    "Foreign Awards Act": 1,
+    "Commercial  Courts  Act": 2,
+    "Code  of Civil Procedure, 1908": 1,
+    "A&C Act": 5,
+    "CPC": 1
+  }
+}

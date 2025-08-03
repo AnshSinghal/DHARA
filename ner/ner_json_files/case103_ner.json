@@ -1,0 +1,788 @@
+{
+  "entities": [
+    {
+      "text": "Telangana High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 20
+    },
+    {
+      "text": "Condore Health Care Pvt.Ltd",
+      "label": "PETITIONER",
+      "start_char": 21,
+      "end_char": 48
+    },
+    {
+      "text": "Corem Pharma Pvt Ltd",
+      "label": "RESPONDENT",
+      "start_char": 56,
+      "end_char": 76
+    },
+    {
+      "text": "C. Praveen Kumar",
+      "label": "JUDGE",
+      "start_char": 128,
+      "end_char": 144
+    },
+    {
+      "text": "T. Rajani",
+      "label": "JUDGE",
+      "start_char": 220,
+      "end_char": 229
+    },
+    {
+      "text": "T. Rajani",
+      "label": "JUDGE",
+      "start_char": 319,
+      "end_char": 328
+    },
+    {
+      "text": "XXIV Additional Chief Judge, City Civil Court, Hyderabad",
+      "label": "COURT",
+      "start_char": 393,
+      "end_char": 449
+    },
+    {
+      "text": "I.A.No.104 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 453,
+      "end_char": 471
+    },
+    {
+      "text": "C.O.S.No.36 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 475,
+      "end_char": 494
+    },
+    {
+      "text": "10.07.2017",
+      "label": "DATE",
+      "start_char": 501,
+      "end_char": 511
+    },
+    {
+      "text": "Order VII Rule 11 read",
+      "label": "PROVISION",
+      "start_char": 567,
+      "end_char": 589
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 595,
+      "end_char": 606
+    },
+    {
+      "text": "Civil Procedure Code",
+      "label": "STATUTE",
+      "start_char": 614,
+      "end_char": 634
+    },
+    {
+      "text": "Commercial Court Act",
+      "label": "STATUTE",
+      "start_char": 723,
+      "end_char": 743
+    },
+    {
+      "text": "O.S.No.36 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 900,
+      "end_char": 917
+    },
+    {
+      "text": "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 1012,
+      "end_char": 1109
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 1278,
+      "end_char": 1296
+    },
+    {
+      "text": "Section 2(i)",
+      "label": "PROVISION",
+      "start_char": 1311,
+      "end_char": 1323
+    },
+    {
+      "text": "16.03.2013",
+      "label": "DATE",
+      "start_char": 1528,
+      "end_char": 1538
+    },
+    {
+      "text": "Section 2(c)(xvii)",
+      "label": "PROVISION",
+      "start_char": 3700,
+      "end_char": 3718
+    },
+    {
+      "text": "Section 12(1)(d)",
+      "label": "PROVISION",
+      "start_char": 3929,
+      "end_char": 3945
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 4340,
+      "end_char": 4350
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 4394,
+      "end_char": 4412
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 4470,
+      "end_char": 4480
+    },
+    {
+      "text": "section 12",
+      "label": "PROVISION",
+      "start_char": 5011,
+      "end_char": 5021
+    },
+    {
+      "text": "section 2(i)(c) (xvii)",
+      "label": "PROVISION",
+      "start_char": 5875,
+      "end_char": 5897
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 6185,
+      "end_char": 6195
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 6621,
+      "end_char": 6631
+    },
+    {
+      "text": "Section 12(1)(d)",
+      "label": "PROVISION",
+      "start_char": 6650,
+      "end_char": 6666
+    },
+    {
+      "text": "Section 2(1)(c)(xvii)",
+      "label": "PROVISION",
+      "start_char": 7249,
+      "end_char": 7270
+    },
+    {
+      "text": "High Court of Delhi",
+      "label": "COURT",
+      "start_char": 7577,
+      "end_char": 7596
+    },
+    {
+      "text": "GUINESS WORLD RECORDS LIMITED v. SABABBI NMANGAL1",
+      "label": "PRECEDENT",
+      "start_char": 7600,
+      "end_char": 7649
+    },
+    {
+      "text": "NOVARTIS AG v. CIPLA LTD",
+      "label": "PRECEDENT",
+      "start_char": 7654,
+      "end_char": 7678
+    },
+    {
+      "text": "CS(OS) No.3812 of 2014",
+      "label": "CASE_NUMBER",
+      "start_char": 7682,
+      "end_char": 7704
+    },
+    {
+      "text": "27.11.20015",
+      "label": "DATE",
+      "start_char": 7711,
+      "end_char": 7722
+    },
+    {
+      "text": "Trademarks Act",
+      "label": "STATUTE",
+      "start_char": 7840,
+      "end_char": 7854
+    },
+    {
+      "text": "2016 (66) PTC 341 [DEL]",
+      "label": "PRECEDENT",
+      "start_char": 8042,
+      "end_char": 8065
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 8091,
+      "end_char": 8100
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 8194,
+      "end_char": 8203
+    },
+    {
+      "text": "GUINESS WORLD RECORDS LIMITED",
+      "label": "PRECEDENT",
+      "start_char": 8839,
+      "end_char": 8868
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 8888,
+      "end_char": 8904
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 8922,
+      "end_char": 8931
+    },
+    {
+      "text": "Trademarks Act",
+      "label": "STATUTE",
+      "start_char": 8985,
+      "end_char": 8999
+    },
+    {
+      "text": "Trademarks Act",
+      "label": "STATUTE",
+      "start_char": 9123,
+      "end_char": 9137
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 9205,
+      "end_char": 9214
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 9560,
+      "end_char": 9569
+    },
+    {
+      "text": "Trademarks Act",
+      "label": "STATUTE",
+      "start_char": 9891,
+      "end_char": 9905
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 10030,
+      "end_char": 10039
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 10076,
+      "end_char": 10092
+    },
+    {
+      "text": "Trademarks Act",
+      "label": "STATUTE",
+      "start_char": 10134,
+      "end_char": 10148
+    },
+    {
+      "text": "NOVARTIS",
+      "label": "OTHER_PERSON",
+      "start_char": 10255,
+      "end_char": 10263
+    },
+    {
+      "text": "Trademarks Act",
+      "label": "STATUTE",
+      "start_char": 10403,
+      "end_char": 10417
+    },
+    {
+      "text": "Section 2 (c)",
+      "label": "PROVISION",
+      "start_char": 10514,
+      "end_char": 10527
+    },
+    {
+      "text": "Section 2(1)(c)(xvii)",
+      "label": "PROVISION",
+      "start_char": 10699,
+      "end_char": 10720
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 10789,
+      "end_char": 10799
+    },
+    {
+      "text": "Section 2(1) (c)",
+      "label": "PROVISION",
+      "start_char": 10870,
+      "end_char": 10886
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 10914,
+      "end_char": 10924
+    },
+    {
+      "text": "Section 2(1)(c)",
+      "label": "PROVISION",
+      "start_char": 10971,
+      "end_char": 10986
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 11044,
+      "end_char": 11054
+    },
+    {
+      "text": "Section 12(1)(d)",
+      "label": "PROVISION",
+      "start_char": 11593,
+      "end_char": 11609
+    },
+    {
+      "text": "Section 12(1)",
+      "label": "PROVISION",
+      "start_char": 11916,
+      "end_char": 11929
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 12780,
+      "end_char": 12790
+    },
+    {
+      "text": "Court Fees and Suits Valuation Act",
+      "label": "STATUTE",
+      "start_char": 12798,
+      "end_char": 12832
+    },
+    {
+      "text": "section 24(d)",
+      "label": "PROVISION",
+      "start_char": 14217,
+      "end_char": 14230
+    },
+    {
+      "text": "Court Fees Act",
+      "label": "STATUTE",
+      "start_char": 14238,
+      "end_char": 14252
+    },
+    {
+      "text": "clauses (a) to (c) of section 24",
+      "label": "PROVISION",
+      "start_char": 14552,
+      "end_char": 14584
+    },
+    {
+      "text": "Court Fees Act",
+      "label": "STATUTE",
+      "start_char": 14592,
+      "end_char": 14606
+    },
+    {
+      "text": "Section 50",
+      "label": "PROVISION",
+      "start_char": 15062,
+      "end_char": 15072
+    },
+    {
+      "text": "Court Fees Act",
+      "label": "STATUTE",
+      "start_char": 15080,
+      "end_char": 15094
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 15524,
+      "end_char": 15537
+    },
+    {
+      "text": "KALLA YADAGIRI v. KOTHA BAL REDDY2",
+      "label": "PRECEDENT",
+      "start_char": 15918,
+      "end_char": 15952
+    },
+    {
+      "text": "1999 (1) ALD 222 simplicitor",
+      "label": "PRECEDENT",
+      "start_char": 16763,
+      "end_char": 16791
+    },
+    {
+      "text": "A.P. Courts Fees and Suits Valuation Act, 1956",
+      "label": "STATUTE",
+      "start_char": 17982,
+      "end_char": 18028
+    },
+    {
+      "text": "A.P. Civil Courts Act, 1972",
+      "label": "STATUTE",
+      "start_char": 18037,
+      "end_char": 18064
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 18306,
+      "end_char": 18319
+    },
+    {
+      "text": "Suits Valuation Act, 1887",
+      "label": "STATUTE",
+      "start_char": 18382,
+      "end_char": 18407
+    },
+    {
+      "text": "Sathappa Chettiar v. S.Rm",
+      "label": "PRECEDENT",
+      "start_char": 18428,
+      "end_char": 18453
+    },
+    {
+      "text": "Ramanathan Chettiar",
+      "label": "OTHER_PERSON",
+      "start_char": 18463,
+      "end_char": 18482
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 18618,
+      "end_char": 18627
+    },
+    {
+      "text": "Section 7(iv)",
+      "label": "PROVISION",
+      "start_char": 18833,
+      "end_char": 18846
+    },
+    {
+      "text": "Civil Courts Act",
+      "label": "STATUTE",
+      "start_char": 19757,
+      "end_char": 19773
+    },
+    {
+      "text": "Y. VENKATA SESHA REDDY",
+      "label": "OTHER_PERSON",
+      "start_char": 20105,
+      "end_char": 20127
+    },
+    {
+      "text": "CHEMBATI KAUSALYAMMA3",
+      "label": "OTHER_PERSON",
+      "start_char": 20132,
+      "end_char": 20153
+    },
+    {
+      "text": "court fees Act",
+      "label": "STATUTE",
+      "start_char": 20512,
+      "end_char": 20526
+    },
+    {
+      "text": "2007 (6) ALD 561",
+      "label": "CASE_NUMBER",
+      "start_char": 20651,
+      "end_char": 20667
+    },
+    {
+      "text": "KALLA YADAGIRI",
+      "label": "OTHER_PERSON",
+      "start_char": 21068,
+      "end_char": 21082
+    },
+    {
+      "text": "C. PRAVAEEN KUMAR",
+      "label": "JUDGE",
+      "start_char": 21617,
+      "end_char": 21634
+    },
+    {
+      "text": "T. RAJANI",
+      "label": "JUDGE",
+      "start_char": 21649,
+      "end_char": 21658
+    },
+    {
+      "text": "August 3, 2018",
+      "label": "DATE",
+      "start_char": 21662,
+      "end_char": 21676
+    }
+  ],
+  "precedent_clusters": {
+    "GUINESS WORLD RECORDS LIMITED v. SABABBI NMANGAL1": [
+      "GUINESS WORLD RECORDS LIMITED v. SABABBI NMANGAL1",
+      "NOVARTIS AG v. CIPLA LTD",
+      "KALLA YADAGIRI v. KOTHA BAL REDDY2",
+      "Sathappa Chettiar v. S.Rm",
+      "GUINESS WORLD RECORDS LIMITED"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 151",
+      "Civil Procedure Code",
+      "Section 151",
+      "Civil Procedure Code"
+    ],
+    [
+      "Order VII Rule 11 read",
+      "Commercial Court Act",
+      "Order VII Rule 11 read",
+      "Commercial Court Act"
+    ],
+    [
+      "Section 7",
+      "Trademarks Act",
+      "Section 7",
+      "Trademarks Act"
+    ],
+    [
+      "Section 7",
+      "Trademarks Act",
+      "Section 7",
+      "Trademarks Act"
+    ],
+    [
+      "Section 24",
+      "Court Fees and Suits Valuation Act",
+      "Section 24",
+      "Court Fees and Suits Valuation Act"
+    ],
+    [
+      "section 24(d)",
+      "Court Fees Act",
+      "section 24(d)",
+      "Court Fees Act"
+    ],
+    [
+      "clauses (a) to (c) of section 24",
+      "Court Fees Act",
+      "clauses (a) to (c) of section 24",
+      "Court Fees Act"
+    ],
+    [
+      "Section 50",
+      "Court Fees Act",
+      "Section 50",
+      "Court Fees Act"
+    ],
+    [
+      "Section 2(c)(xvii)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 2(c)(xvii)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 12",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 12",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 12",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 12",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "section 12",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "section 12",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "section 2(i)(c) (xvii)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "section 2(i)(c) (xvii)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 12",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 12",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 12",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 12",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 12(1)(d)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 12(1)(d)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 2(1)(c)(xvii)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 2(1)(c)(xvii)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 7",
+      "Trademarks Act",
+      "Section 7",
+      "Trademarks Act"
+    ],
+    [
+      "Section 7",
+      "Trademarks Act",
+      "Section 7",
+      "Trademarks Act"
+    ],
+    [
+      "Section 7",
+      "Trademarks Act",
+      "Section 7",
+      "Trademarks Act"
+    ],
+    [
+      "Section 7",
+      "Trademarks Act",
+      "Section 7",
+      "Trademarks Act"
+    ],
+    [
+      "Section 2 (c)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 2 (c)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 2(1)(c)(xvii)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 2(1)(c)(xvii)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 12",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 12",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 2(1) (c)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 2(1) (c)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 12",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 12",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 2(1)(c)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 2(1)(c)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 12",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 12",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 12(1)(d)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 12(1)(d)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 12(1)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 12(1)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 7(iv)",
+      "Trademarks Act",
+      "Section 7(iv)",
+      "Trademarks Act"
+    ],
+    [
+      "Section 2(i)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 2(i)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 12(1)(d)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 12(1)(d)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 8",
+      "Suits Valuation Act, 1887",
+      "Section 8",
+      "Suits Valuation Act, 1887"
+    ]
+  ],
+  "precedent_counts": {
+    "GUINESS WORLD RECORDS LIMITED v. SABABBI NMANGAL1": 5
+  },
+  "provision_counts": {
+    "Section 151 of Civil Procedure Code": 1,
+    "Order VII Rule 11 read of Commercial Court Act": 1,
+    "Section 7 of Trademarks Act": 6,
+    "Section 24 of Court Fees and Suits Valuation Act": 1,
+    "section 24(d) of Court Fees Act": 1,
+    "clauses (a) to (c) of section 24 of Court Fees Act": 1,
+    "Section 50 of Court Fees Act": 1,
+    "Section 2(c)(xvii) of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 1,
+    "Section 12 of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 7,
+    "section 12 of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 1,
+    "section 2(i)(c) (xvii) of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 1,
+    "Section 12(1)(d) of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 3,
+    "Section 2(1)(c)(xvii) of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 2,
+    "Section 2 (c) of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 1,
+    "Section 2(1) (c) of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 1,
+    "Section 2(1)(c) of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 1,
+    "Section 12(1) of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 1,
+    "Section 7(iv) of Trademarks Act": 1,
+    "Section 2(i) of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 1,
+    "Section 8 of Suits Valuation Act, 1887": 1
+  },
+  "statute_counts": {
+    "Civil Procedure Code": 1,
+    "Commercial Court Act": 1,
+    "Trademarks Act": 7,
+    "Court Fees and Suits Valuation Act": 1,
+    "Court Fees Act": 3,
+    "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 20,
+    "Suits Valuation Act, 1887": 1
+  }
+}

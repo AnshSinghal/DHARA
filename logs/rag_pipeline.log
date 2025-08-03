@@ -1,0 +1,633 @@
+2025-08-02 14:19:09 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:41 | ============================================================
+2025-08-02 14:19:09 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:42 | Initializing Complete Legal RAG Pipeline
+2025-08-02 14:19:09 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:43 | ============================================================
+2025-08-02 14:19:09 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:49 | Configuration:
+2025-08-02 14:19:09 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:50 |   - Use Pinecone: True
+2025-08-02 14:19:09 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:51 |   - Enable GPU: True
+2025-08-02 14:19:09 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:52 |   - Config keys: ['use_pinecone', 'enable_gpu']
+2025-08-02 14:19:09 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:71 | Starting component initialization...
+2025-08-02 14:19:09 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:74 | Initializing document processor...
+2025-08-02 14:19:09 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:77 | Document processor initialized in 0.00s
+2025-08-02 14:19:09 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:80 | Initializing embedding models (GPU: True)...
+2025-08-02 14:20:56 | ERROR | complete_rag_pipeline | complete_rag_pipeline.py:140 | Error initializing pipeline components: Due to a serious vulnerability issue in `torch.load`, even with `weights_only=True`, we now require users to upgrade torch to at least v2.6 in order to use the function. This version restriction does not apply when loading files with safetensors.
+See the vulnerability report here https://nvd.nist.gov/vuln/detail/CVE-2025-32434
+2025-08-02 14:20:57 | ERROR | complete_rag_pipeline | complete_rag_pipeline.py:141 | Full traceback: Traceback (most recent call last):
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/src/embeddings.py", line 23, in __init__
+    self.model = SentenceTransformer(self.model_name, device=self.device)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/sentence_transformers/SentenceTransformer.py", line 339, in __init__
+    modules = self._load_auto_model(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/sentence_transformers/SentenceTransformer.py", line 2061, in _load_auto_model
+    transformer_model = Transformer(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/sentence_transformers/models/Transformer.py", line 88, in __init__
+    self._load_model(model_name_or_path, config, cache_dir, backend, is_peft_model, **model_args)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/sentence_transformers/models/Transformer.py", line 186, in _load_model
+    self.auto_model = AutoModel.from_pretrained(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/models/auto/auto_factory.py", line 600, in from_pretrained
+    return model_class.from_pretrained(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/modeling_utils.py", line 315, in _wrapper
+    return func(*args, **kwargs)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/modeling_utils.py", line 5001, in from_pretrained
+    ) = cls._load_pretrained_model(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/modeling_utils.py", line 5262, in _load_pretrained_model
+    load_state_dict(checkpoint_files[0], map_location="meta", weights_only=weights_only).keys()
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/modeling_utils.py", line 560, in load_state_dict
+    check_torch_load_is_safe()
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/utils/import_utils.py", line 1606, in check_torch_load_is_safe
+    raise ValueError(
+ValueError: Due to a serious vulnerability issue in `torch.load`, even with `weights_only=True`, we now require users to upgrade torch to at least v2.6 in order to use the function. This version restriction does not apply when loading files with safetensors.
+See the vulnerability report here https://nvd.nist.gov/vuln/detail/CVE-2025-32434
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/src/complete_rag_pipeline.py", line 82, in _initialize_components
+    self.embedding_model = LegalEmbeddingModel(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/src/embeddings.py", line 29, in __init__
+    self.model = AutoModel.from_pretrained(self.model_name)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/models/auto/auto_factory.py", line 600, in from_pretrained
+    return model_class.from_pretrained(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/modeling_utils.py", line 315, in _wrapper
+    return func(*args, **kwargs)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/modeling_utils.py", line 5001, in from_pretrained
+    ) = cls._load_pretrained_model(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/modeling_utils.py", line 5262, in _load_pretrained_model
+    load_state_dict(checkpoint_files[0], map_location="meta", weights_only=weights_only).keys()
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/modeling_utils.py", line 560, in load_state_dict
+    check_torch_load_is_safe()
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/utils/import_utils.py", line 1606, in check_torch_load_is_safe
+    raise ValueError(
+ValueError: Due to a serious vulnerability issue in `torch.load`, even with `weights_only=True`, we now require users to upgrade torch to at least v2.6 in order to use the function. This version restriction does not apply when loading files with safetensors.
+See the vulnerability report here https://nvd.nist.gov/vuln/detail/CVE-2025-32434
+
+2025-08-03 05:33:19 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:41 | ============================================================
+2025-08-03 05:33:19 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:42 | Initializing Complete Legal RAG Pipeline
+2025-08-03 05:33:19 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:43 | ============================================================
+2025-08-03 05:33:19 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:49 | Configuration:
+2025-08-03 05:33:19 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:50 |   - Use Pinecone: True
+2025-08-03 05:33:19 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:51 |   - Enable GPU: True
+2025-08-03 05:33:19 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:52 |   - Config keys: ['use_pinecone', 'enable_gpu']
+2025-08-03 05:33:19 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:71 | Starting component initialization...
+2025-08-03 05:33:19 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:74 | Initializing document processor...
+2025-08-03 05:33:19 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:77 | Document processor initialized in 0.00s
+2025-08-03 05:33:19 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:80 | Initializing embedding models (GPU: True)...
+2025-08-03 05:34:27 | ERROR | complete_rag_pipeline | complete_rag_pipeline.py:140 | Error initializing pipeline components: Due to a serious vulnerability issue in `torch.load`, even with `weights_only=True`, we now require users to upgrade torch to at least v2.6 in order to use the function. This version restriction does not apply when loading files with safetensors.
+See the vulnerability report here https://nvd.nist.gov/vuln/detail/CVE-2025-32434
+2025-08-03 05:34:27 | ERROR | complete_rag_pipeline | complete_rag_pipeline.py:141 | Full traceback: Traceback (most recent call last):
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/src/embeddings.py", line 23, in __init__
+    self.model = SentenceTransformer(self.model_name, device=self.device)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/sentence_transformers/SentenceTransformer.py", line 339, in __init__
+    modules = self._load_auto_model(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/sentence_transformers/SentenceTransformer.py", line 2061, in _load_auto_model
+    transformer_model = Transformer(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/sentence_transformers/models/Transformer.py", line 88, in __init__
+    self._load_model(model_name_or_path, config, cache_dir, backend, is_peft_model, **model_args)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/sentence_transformers/models/Transformer.py", line 186, in _load_model
+    self.auto_model = AutoModel.from_pretrained(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/models/auto/auto_factory.py", line 600, in from_pretrained
+    return model_class.from_pretrained(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/modeling_utils.py", line 315, in _wrapper
+    return func(*args, **kwargs)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/modeling_utils.py", line 5001, in from_pretrained
+    ) = cls._load_pretrained_model(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/modeling_utils.py", line 5262, in _load_pretrained_model
+    load_state_dict(checkpoint_files[0], map_location="meta", weights_only=weights_only).keys()
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/modeling_utils.py", line 560, in load_state_dict
+    check_torch_load_is_safe()
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/utils/import_utils.py", line 1606, in check_torch_load_is_safe
+    raise ValueError(
+ValueError: Due to a serious vulnerability issue in `torch.load`, even with `weights_only=True`, we now require users to upgrade torch to at least v2.6 in order to use the function. This version restriction does not apply when loading files with safetensors.
+See the vulnerability report here https://nvd.nist.gov/vuln/detail/CVE-2025-32434
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/src/complete_rag_pipeline.py", line 82, in _initialize_components
+    self.embedding_model = LegalEmbeddingModel(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/src/embeddings.py", line 29, in __init__
+    self.model = AutoModel.from_pretrained(self.model_name)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/models/auto/auto_factory.py", line 600, in from_pretrained
+    return model_class.from_pretrained(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/modeling_utils.py", line 315, in _wrapper
+    return func(*args, **kwargs)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/modeling_utils.py", line 5001, in from_pretrained
+    ) = cls._load_pretrained_model(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/modeling_utils.py", line 5262, in _load_pretrained_model
+    load_state_dict(checkpoint_files[0], map_location="meta", weights_only=weights_only).keys()
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/modeling_utils.py", line 560, in load_state_dict
+    check_torch_load_is_safe()
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/utils/import_utils.py", line 1606, in check_torch_load_is_safe
+    raise ValueError(
+ValueError: Due to a serious vulnerability issue in `torch.load`, even with `weights_only=True`, we now require users to upgrade torch to at least v2.6 in order to use the function. This version restriction does not apply when loading files with safetensors.
+See the vulnerability report here https://nvd.nist.gov/vuln/detail/CVE-2025-32434
+
+2025-08-03 05:54:56 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:41 | ============================================================
+2025-08-03 05:54:56 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:42 | Initializing Complete Legal RAG Pipeline
+2025-08-03 05:54:56 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:43 | ============================================================
+2025-08-03 05:54:56 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:49 | Configuration:
+2025-08-03 05:54:56 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:50 |   - Use Pinecone: True
+2025-08-03 05:54:56 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:51 |   - Enable GPU: True
+2025-08-03 05:54:56 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:52 |   - Config keys: ['use_pinecone', 'enable_gpu']
+2025-08-03 05:54:56 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:71 | Starting component initialization...
+2025-08-03 05:54:56 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:74 | Initializing document processor...
+2025-08-03 05:54:56 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:77 | Document processor initialized in 0.00s
+2025-08-03 05:54:56 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:80 | Initializing embedding models (GPU: True)...
+2025-08-03 05:55:47 | ERROR | complete_rag_pipeline | complete_rag_pipeline.py:140 | Error initializing pipeline components: Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+2025-08-03 05:55:47 | ERROR | complete_rag_pipeline | complete_rag_pipeline.py:141 | Full traceback: Traceback (most recent call last):
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/src/embeddings.py", line 23, in __init__
+    self.model = SentenceTransformer(self.model_name, device=self.device)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/sentence_transformers/SentenceTransformer.py", line 367, in __init__
+    self.to(device)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1355, in to
+    return self._apply(convert)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 915, in _apply
+    module._apply(fn)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 915, in _apply
+    module._apply(fn)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 915, in _apply
+    module._apply(fn)
+  [Previous line repeated 1 more time]
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 942, in _apply
+    param_applied = fn(param)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1341, in convert
+    return t.to(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/cuda/__init__.py", line 372, in _lazy_init
+    torch._C._cuda_init()
+RuntimeError: Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/src/complete_rag_pipeline.py", line 82, in _initialize_components
+    self.embedding_model = LegalEmbeddingModel(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/src/embeddings.py", line 30, in __init__
+    self.model.to(self.device)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/modeling_utils.py", line 4276, in to
+    return super().to(*args, **kwargs)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1355, in to
+    return self._apply(convert)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 915, in _apply
+    module._apply(fn)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 915, in _apply
+    module._apply(fn)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 942, in _apply
+    param_applied = fn(param)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1341, in convert
+    return t.to(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/cuda/__init__.py", line 372, in _lazy_init
+    torch._C._cuda_init()
+RuntimeError: Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+
+2025-08-03 06:04:05 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:41 | ============================================================
+2025-08-03 06:04:05 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:42 | Initializing Complete Legal RAG Pipeline
+2025-08-03 06:04:05 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:43 | ============================================================
+2025-08-03 06:04:05 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:49 | Configuration:
+2025-08-03 06:04:05 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:50 |   - Use Pinecone: True
+2025-08-03 06:04:05 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:51 |   - Enable GPU: True
+2025-08-03 06:04:05 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:52 |   - Config keys: ['use_pinecone', 'enable_gpu']
+2025-08-03 06:04:05 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:71 | Starting component initialization...
+2025-08-03 06:04:05 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:74 | Initializing document processor...
+2025-08-03 06:04:05 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:77 | Document processor initialized in 0.00s
+2025-08-03 06:04:05 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:80 | Initializing embedding models (GPU: True)...
+2025-08-03 06:05:21 | ERROR | complete_rag_pipeline | complete_rag_pipeline.py:140 | Error initializing pipeline components: Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+2025-08-03 06:05:21 | ERROR | complete_rag_pipeline | complete_rag_pipeline.py:141 | Full traceback: Traceback (most recent call last):
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/src/embeddings.py", line 23, in __init__
+    self.model = SentenceTransformer(self.model_name, device=self.device)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/sentence_transformers/SentenceTransformer.py", line 367, in __init__
+    self.to(device)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1355, in to
+    return self._apply(convert)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 915, in _apply
+    module._apply(fn)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 915, in _apply
+    module._apply(fn)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 915, in _apply
+    module._apply(fn)
+  [Previous line repeated 1 more time]
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 942, in _apply
+    param_applied = fn(param)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1341, in convert
+    return t.to(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/cuda/__init__.py", line 372, in _lazy_init
+    torch._C._cuda_init()
+RuntimeError: Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/src/complete_rag_pipeline.py", line 82, in _initialize_components
+    self.embedding_model = LegalEmbeddingModel(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/src/embeddings.py", line 30, in __init__
+    self.model.to(self.device)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/modeling_utils.py", line 4276, in to
+    return super().to(*args, **kwargs)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1355, in to
+    return self._apply(convert)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 915, in _apply
+    module._apply(fn)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 915, in _apply
+    module._apply(fn)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 942, in _apply
+    param_applied = fn(param)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1341, in convert
+    return t.to(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/cuda/__init__.py", line 372, in _lazy_init
+    torch._C._cuda_init()
+RuntimeError: Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+
+2025-08-03 06:11:45 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:41 | ============================================================
+2025-08-03 06:11:45 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:42 | Initializing Complete Legal RAG Pipeline
+2025-08-03 06:11:45 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:43 | ============================================================
+2025-08-03 06:11:45 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:49 | Configuration:
+2025-08-03 06:11:45 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:50 |   - Use Pinecone: True
+2025-08-03 06:11:45 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:51 |   - Enable GPU: False
+2025-08-03 06:11:45 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:52 |   - Config keys: ['use_pinecone', 'enable_gpu']
+2025-08-03 06:11:45 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:71 | Starting component initialization...
+2025-08-03 06:11:45 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:74 | Initializing document processor...
+2025-08-03 06:11:45 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:77 | Document processor initialized in 0.00s
+2025-08-03 06:11:45 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:80 | Initializing embedding models (GPU: False)...
+2025-08-03 06:12:54 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:86 | Embedding models initialized in 68.61s
+2025-08-03 06:12:54 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:89 | Initializing vector store (Pinecone: True)...
+2025-08-03 06:12:54 | ERROR | complete_rag_pipeline | complete_rag_pipeline.py:140 | Error initializing pipeline components: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2025-08-03 06:12:54 | ERROR | complete_rag_pipeline | complete_rag_pipeline.py:141 | Full traceback: Traceback (most recent call last):
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/src/complete_rag_pipeline.py", line 92, in _initialize_components
+    self.vector_store = EnhancedPineconeStore()
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/src/vector_store.py", line 21, in __init__
+    self.pc = Pinecone(api_key=settings.PINECONE_API_KEY)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/pinecone/pinecone.py", line 216, in __init__
+    self._config = PineconeConfig.build(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/pinecone/config/pinecone_config.py", line 35, in build
+    return ConfigBuilder.build(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/pinecone/config/config.py", line 67, in build
+    raise PineconeConfigurationError(
+pinecone.exceptions.exceptions.PineconeConfigurationError: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+
+2025-08-03 06:20:50 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:41 | ============================================================
+2025-08-03 06:20:50 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:42 | Initializing Complete Legal RAG Pipeline
+2025-08-03 06:20:50 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:43 | ============================================================
+2025-08-03 06:20:50 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:49 | Configuration:
+2025-08-03 06:20:50 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:50 |   - Use Pinecone: True
+2025-08-03 06:20:50 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:51 |   - Enable GPU: False
+2025-08-03 06:20:50 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:52 |   - Config keys: ['use_pinecone', 'enable_gpu']
+2025-08-03 06:20:50 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:71 | Starting component initialization...
+2025-08-03 06:20:50 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:74 | Initializing document processor...
+2025-08-03 06:20:50 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:77 | Document processor initialized in 0.00s
+2025-08-03 06:20:50 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:80 | Initializing embedding models (GPU: False)...
+2025-08-03 06:22:11 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:86 | Embedding models initialized in 81.31s
+2025-08-03 06:22:11 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:89 | Initializing vector store (Pinecone: True)...
+2025-08-03 06:22:25 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:93 | Pinecone vector store initialized
+2025-08-03 06:22:25 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:97 | Vector store initialized in 14.22s
+2025-08-03 06:22:25 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:100 | Initializing BM25 retriever...
+2025-08-03 06:22:25 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:103 | BM25 retriever initialized in 0.01s
+2025-08-03 06:22:25 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:106 | Initializing hybrid retriever...
+2025-08-03 06:22:25 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:111 | Hybrid retriever initialized in 0.00s
+2025-08-03 06:22:25 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:114 | Initializing multi-faceted search...
+2025-08-03 06:22:25 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:119 | Multi-faceted search initialized in 0.00s
+2025-08-03 06:22:25 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:122 | Initializing reranking components...
+2025-08-03 06:23:55 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:126 | Reranking components initialized in 89.41s
+2025-08-03 06:23:55 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:129 | Initializing generation components (GPU: False)...
+2025-08-03 06:25:17 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:135 | Generation components initialized in 82.78s
+2025-08-03 06:25:17 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:137 | All pipeline components initialized successfully
+2025-08-03 06:25:17 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:64 | Complete Legal RAG Pipeline initialized successfully in 267.82s
+2025-08-03 06:25:17 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:65 | ============================================================
+2025-08-03 06:25:18 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:156 | ==================================================
+2025-08-03 06:25:18 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:157 | Starting index building process...
+2025-08-03 06:25:18 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:158 | Data directory: merged_output
+2025-08-03 06:25:18 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:159 | Force rebuild: False
+2025-08-03 06:25:18 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:160 | ==================================================
+2025-08-03 06:25:18 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:164 | Step 1: Processing documents into rhetorical chunks
+2025-08-03 06:25:18 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:165 | Looking for documents in: merged_output
+2025-08-03 06:25:19 | ERROR | complete_rag_pipeline | complete_rag_pipeline.py:171 | No chunks created from documents
+2025-08-03 06:25:19 | ERROR | complete_rag_pipeline | complete_rag_pipeline.py:172 | Please check if documents exist in: merged_output
+2025-08-03 06:40:43 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:41 | ============================================================
+2025-08-03 06:40:43 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:42 | Initializing Complete Legal RAG Pipeline
+2025-08-03 06:40:43 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:43 | ============================================================
+2025-08-03 06:40:43 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:49 | Configuration:
+2025-08-03 06:40:43 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:50 |   - Use Pinecone: True
+2025-08-03 06:40:43 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:51 |   - Enable GPU: False
+2025-08-03 06:40:43 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:52 |   - Config keys: ['use_pinecone', 'enable_gpu']
+2025-08-03 06:40:43 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:71 | Starting component initialization...
+2025-08-03 06:40:43 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:74 | Initializing document processor...
+2025-08-03 06:40:43 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:77 | Document processor initialized in 0.03s
+2025-08-03 06:40:43 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:80 | Initializing embedding models (GPU: False)...
+2025-08-03 06:41:56 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:86 | Embedding models initialized in 73.80s
+2025-08-03 06:41:56 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:89 | Initializing vector store (Pinecone: True)...
+2025-08-03 06:42:22 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:93 | Pinecone vector store initialized
+2025-08-03 06:42:22 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:97 | Vector store initialized in 25.64s
+2025-08-03 06:42:22 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:100 | Initializing BM25 retriever...
+2025-08-03 06:42:22 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:103 | BM25 retriever initialized in 0.00s
+2025-08-03 06:42:22 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:106 | Initializing hybrid retriever...
+2025-08-03 06:42:22 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:111 | Hybrid retriever initialized in 0.00s
+2025-08-03 06:42:22 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:114 | Initializing multi-faceted search...
+2025-08-03 06:42:22 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:119 | Multi-faceted search initialized in 0.00s
+2025-08-03 06:42:22 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:122 | Initializing reranking components...
+2025-08-03 06:42:25 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:126 | Reranking components initialized in 3.15s
+2025-08-03 06:42:25 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:129 | Initializing generation components (GPU: False)...
+2025-08-03 06:42:34 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:135 | Generation components initialized in 8.54s
+2025-08-03 06:42:34 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:137 | All pipeline components initialized successfully
+2025-08-03 06:42:34 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:64 | Complete Legal RAG Pipeline initialized successfully in 111.21s
+2025-08-03 06:42:34 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:65 | ============================================================
+2025-08-03 06:42:34 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:156 | ==================================================
+2025-08-03 06:42:34 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:157 | Starting index building process...
+2025-08-03 06:42:34 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:158 | Data directory: merged_output
+2025-08-03 06:42:34 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:159 | Force rebuild: False
+2025-08-03 06:42:34 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:160 | ==================================================
+2025-08-03 06:42:34 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:164 | Step 1: Processing documents into rhetorical chunks
+2025-08-03 06:42:34 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:165 | Looking for documents in: merged_output
+2025-08-03 06:42:34 | ERROR | complete_rag_pipeline | complete_rag_pipeline.py:171 | No chunks created from documents
+2025-08-03 06:42:34 | ERROR | complete_rag_pipeline | complete_rag_pipeline.py:172 | Please check if documents exist in: merged_output
+2025-08-03 06:52:11 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:41 | ============================================================
+2025-08-03 06:52:11 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:42 | Initializing Complete Legal RAG Pipeline
+2025-08-03 06:52:11 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:43 | ============================================================
+2025-08-03 06:52:11 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:49 | Configuration:
+2025-08-03 06:52:11 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:50 |   - Use Pinecone: True
+2025-08-03 06:52:11 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:51 |   - Enable GPU: False
+2025-08-03 06:52:11 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:52 |   - Config keys: ['use_pinecone', 'enable_gpu']
+2025-08-03 06:52:11 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:71 | Starting component initialization...
+2025-08-03 06:52:11 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:74 | Initializing document processor...
+2025-08-03 06:52:11 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:77 | Document processor initialized in 0.03s
+2025-08-03 06:52:11 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:80 | Initializing embedding models (GPU: False)...
+2025-08-03 06:52:59 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:86 | Embedding models initialized in 47.70s
+2025-08-03 06:52:59 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:89 | Initializing vector store (Pinecone: True)...
+2025-08-03 06:53:44 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:93 | Pinecone vector store initialized
+2025-08-03 06:53:44 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:97 | Vector store initialized in 45.48s
+2025-08-03 06:53:44 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:100 | Initializing BM25 retriever...
+2025-08-03 06:53:44 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:103 | BM25 retriever initialized in 0.00s
+2025-08-03 06:53:44 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:106 | Initializing hybrid retriever...
+2025-08-03 06:53:44 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:111 | Hybrid retriever initialized in 0.00s
+2025-08-03 06:53:44 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:114 | Initializing multi-faceted search...
+2025-08-03 06:53:44 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:119 | Multi-faceted search initialized in 0.00s
+2025-08-03 06:53:44 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:122 | Initializing reranking components...
+2025-08-03 06:53:48 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:126 | Reranking components initialized in 3.59s
+2025-08-03 06:53:48 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:129 | Initializing generation components (GPU: False)...
+2025-08-03 06:53:53 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:135 | Generation components initialized in 5.28s
+2025-08-03 06:53:53 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:137 | All pipeline components initialized successfully
+2025-08-03 06:53:53 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:64 | Complete Legal RAG Pipeline initialized successfully in 102.13s
+2025-08-03 06:53:53 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:65 | ============================================================
+2025-08-03 06:53:53 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:156 | ==================================================
+2025-08-03 06:53:53 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:157 | Starting index building process...
+2025-08-03 06:53:53 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:158 | Data directory: merged_output
+2025-08-03 06:53:53 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:159 | Force rebuild: False
+2025-08-03 06:53:53 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:160 | ==================================================
+2025-08-03 06:53:53 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:164 | Step 1: Processing documents into rhetorical chunks
+2025-08-03 06:53:53 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:165 | Looking for documents in: merged_output
+2025-08-03 07:13:15 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:41 | ============================================================
+2025-08-03 07:13:15 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:42 | Initializing Complete Legal RAG Pipeline
+2025-08-03 07:13:15 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:43 | ============================================================
+2025-08-03 07:13:15 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:49 | Configuration:
+2025-08-03 07:13:15 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:50 |   - Use Pinecone: True
+2025-08-03 07:13:15 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:51 |   - Enable GPU: False
+2025-08-03 07:13:15 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:52 |   - Config keys: ['use_pinecone', 'enable_gpu']
+2025-08-03 07:13:15 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:71 | Starting component initialization...
+2025-08-03 07:13:15 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:74 | Initializing document processor...
+2025-08-03 07:13:15 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:77 | Document processor initialized in 0.00s
+2025-08-03 07:13:15 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:80 | Initializing embedding models (GPU: False)...
+2025-08-03 07:14:41 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:86 | Embedding models initialized in 85.82s
+2025-08-03 07:14:41 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:89 | Initializing vector store (Pinecone: True)...
+2025-08-03 07:14:47 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:93 | Pinecone vector store initialized
+2025-08-03 07:14:47 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:97 | Vector store initialized in 5.78s
+2025-08-03 07:14:47 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:100 | Initializing BM25 retriever...
+2025-08-03 07:14:47 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:103 | BM25 retriever initialized in 0.00s
+2025-08-03 07:14:47 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:106 | Initializing hybrid retriever...
+2025-08-03 07:14:47 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:111 | Hybrid retriever initialized in 0.00s
+2025-08-03 07:14:47 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:114 | Initializing multi-faceted search...
+2025-08-03 07:14:47 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:119 | Multi-faceted search initialized in 0.00s
+2025-08-03 07:14:47 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:122 | Initializing reranking components...
+2025-08-03 07:14:50 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:126 | Reranking components initialized in 2.75s
+2025-08-03 07:14:50 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:129 | Initializing generation components (GPU: False)...
+2025-08-03 07:14:56 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:135 | Generation components initialized in 6.56s
+2025-08-03 07:14:56 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:137 | All pipeline components initialized successfully
+2025-08-03 07:14:56 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:64 | Complete Legal RAG Pipeline initialized successfully in 100.96s
+2025-08-03 07:14:56 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:65 | ============================================================
+2025-08-03 07:14:56 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:156 | ==================================================
+2025-08-03 07:14:56 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:157 | Starting index building process...
+2025-08-03 07:14:56 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:158 | Data directory: merged_output
+2025-08-03 07:14:56 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:159 | Force rebuild: False
+2025-08-03 07:14:56 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:160 | ==================================================
+2025-08-03 07:14:56 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:164 | Step 1: Processing documents into rhetorical chunks
+2025-08-03 07:14:56 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:165 | Looking for documents in: merged_output
+2025-08-03 07:14:56 | ERROR | complete_rag_pipeline | complete_rag_pipeline.py:171 | No chunks created from documents
+2025-08-03 07:14:56 | ERROR | complete_rag_pipeline | complete_rag_pipeline.py:172 | Please check if documents exist in: merged_output
+2025-08-03 07:21:29 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:41 | ============================================================
+2025-08-03 07:21:29 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:42 | Initializing Complete Legal RAG Pipeline
+2025-08-03 07:21:29 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:43 | ============================================================
+2025-08-03 07:21:29 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:49 | Configuration:
+2025-08-03 07:21:29 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:50 |   - Use Pinecone: True
+2025-08-03 07:21:29 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:51 |   - Enable GPU: False
+2025-08-03 07:21:29 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:52 |   - Config keys: ['use_pinecone', 'enable_gpu']
+2025-08-03 07:21:29 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:71 | Starting component initialization...
+2025-08-03 07:21:29 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:74 | Initializing document processor...
+2025-08-03 07:21:29 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:77 | Document processor initialized in 0.00s
+2025-08-03 07:21:29 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:80 | Initializing embedding models (GPU: False)...
+2025-08-03 07:22:30 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:86 | Embedding models initialized in 60.82s
+2025-08-03 07:22:30 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:89 | Initializing vector store (Pinecone: True)...
+2025-08-03 07:22:39 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:93 | Pinecone vector store initialized
+2025-08-03 07:22:39 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:97 | Vector store initialized in 5.90s
+2025-08-03 07:22:39 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:100 | Initializing BM25 retriever...
+2025-08-03 07:22:39 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:103 | BM25 retriever initialized in 0.00s
+2025-08-03 07:22:39 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:106 | Initializing hybrid retriever...
+2025-08-03 07:22:39 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:111 | Hybrid retriever initialized in 0.00s
+2025-08-03 07:22:39 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:114 | Initializing multi-faceted search...
+2025-08-03 07:22:39 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:119 | Multi-faceted search initialized in 0.00s
+2025-08-03 07:22:39 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:122 | Initializing reranking components...
+2025-08-03 07:22:42 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:126 | Reranking components initialized in 2.69s
+2025-08-03 07:22:42 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:129 | Initializing generation components (GPU: False)...
+2025-08-03 07:22:47 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:135 | Generation components initialized in 5.24s
+2025-08-03 07:22:47 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:137 | All pipeline components initialized successfully
+2025-08-03 07:22:47 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:64 | Complete Legal RAG Pipeline initialized successfully in 78.22s
+2025-08-03 07:22:47 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:65 | ============================================================
+2025-08-03 07:22:47 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:156 | ==================================================
+2025-08-03 07:22:47 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:157 | Starting index building process...
+2025-08-03 07:22:47 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:158 | Data directory: merged_output
+2025-08-03 07:22:47 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:159 | Force rebuild: False
+2025-08-03 07:22:47 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:160 | ==================================================
+2025-08-03 07:22:47 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:164 | Step 1: Processing documents into rhetorical chunks
+2025-08-03 07:22:47 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:165 | Looking for documents in: merged_output
+2025-08-03 07:22:47 | ERROR | complete_rag_pipeline | complete_rag_pipeline.py:247 | ==================================================
+2025-08-03 07:22:47 | ERROR | complete_rag_pipeline | complete_rag_pipeline.py:248 | INDEX BUILDING FAILED
+2025-08-03 07:22:47 | ERROR | complete_rag_pipeline | complete_rag_pipeline.py:249 | Error after 0.11s: name 'traceback' is not defined
+2025-08-03 07:22:47 | ERROR | complete_rag_pipeline | complete_rag_pipeline.py:250 | Full traceback: Traceback (most recent call last):
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/src/rhetorical_chunking.py", line 424, in process_all_documents
+    chunks = self.chunker.create_rhetorical_chunks(document)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/src/rhetorical_chunking.py", line 121, in create_rhetorical_chunks
+    sub_chunks = self._split_large_chunk(chunk_text, span_start)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/src/rhetorical_chunking.py", line 214, in _split_large_chunk
+    sentences = sent_tokenize(text)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/nltk/tokenize/__init__.py", line 119, in sent_tokenize
+    tokenizer = _get_punkt_tokenizer(language)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/nltk/tokenize/__init__.py", line 105, in _get_punkt_tokenizer
+    return PunktTokenizer(language)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/nltk/tokenize/punkt.py", line 1744, in __init__
+    self.load_lang(lang)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/nltk/tokenize/punkt.py", line 1749, in load_lang
+    lang_dir = find(f"tokenizers/punkt_tab/{lang}/")
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/nltk/data.py", line 579, in find
+    raise LookupError(resource_not_found)
+LookupError: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - '/home/ansh/nltk_data'
+    - '/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/nltk_data'
+    - '/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/share/nltk_data'
+    - '/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/src/complete_rag_pipeline.py", line 167, in build_index
+    chunks = self.document_processor.process_all_documents(data_directory)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/src/rhetorical_chunking.py", line 429, in process_all_documents
+    logger.error(traceback.format_exc())
+NameError: name 'traceback' is not defined
+
+2025-08-03 07:22:47 | ERROR | complete_rag_pipeline | complete_rag_pipeline.py:251 | ==================================================
+2025-08-03 14:04:30 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:41 | ============================================================
+2025-08-03 14:04:30 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:42 | Initializing Complete Legal RAG Pipeline
+2025-08-03 14:04:30 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:43 | ============================================================
+2025-08-03 14:04:30 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:49 | Configuration:
+2025-08-03 14:04:30 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:50 |   - Use Pinecone: True
+2025-08-03 14:04:30 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:51 |   - Enable GPU: False
+2025-08-03 14:04:30 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:52 |   - Config keys: ['use_pinecone', 'enable_gpu']
+2025-08-03 14:04:30 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:71 | Starting component initialization...
+2025-08-03 14:04:30 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:74 | Initializing document processor...
+2025-08-03 14:04:51 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:77 | Document processor initialized in 20.35s
+2025-08-03 14:04:51 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:80 | Initializing embedding models (GPU: False)...
+2025-08-03 14:06:16 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:86 | Embedding models initialized in 85.66s
+2025-08-03 14:06:16 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:89 | Initializing vector store (Pinecone: True)...
+2025-08-03 14:06:58 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:93 | Pinecone vector store initialized
+2025-08-03 14:06:59 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:97 | Vector store initialized in 42.06s
+2025-08-03 14:06:59 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:100 | Initializing BM25 retriever...
+2025-08-03 14:06:59 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:103 | BM25 retriever initialized in 0.01s
+2025-08-03 14:06:59 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:106 | Initializing hybrid retriever...
+2025-08-03 14:06:59 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:111 | Hybrid retriever initialized in 0.00s
+2025-08-03 14:06:59 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:114 | Initializing multi-faceted search...
+2025-08-03 14:06:59 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:119 | Multi-faceted search initialized in 0.00s
+2025-08-03 14:06:59 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:122 | Initializing reranking components...
+2025-08-03 14:07:03 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:126 | Reranking components initialized in 4.42s
+2025-08-03 14:07:03 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:129 | Initializing generation components (GPU: False)...
+2025-08-03 14:07:13 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:135 | Generation components initialized in 10.02s
+2025-08-03 14:07:13 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:137 | All pipeline components initialized successfully
+2025-08-03 14:07:13 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:64 | Complete Legal RAG Pipeline initialized successfully in 162.60s
+2025-08-03 14:07:13 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:65 | ============================================================
+2025-08-03 14:07:13 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:156 | ==================================================
+2025-08-03 14:07:13 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:157 | Starting index building process...
+2025-08-03 14:07:13 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:158 | Data directory: merged_output
+2025-08-03 14:07:13 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:159 | Force rebuild: False
+2025-08-03 14:07:13 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:160 | ==================================================
+2025-08-03 14:07:13 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:164 | Step 1: Processing documents into rhetorical chunks
+2025-08-03 14:07:13 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:165 | Looking for documents in: merged_output
+2025-08-03 14:07:44 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:175 | Created 39326 rhetorical chunks in 31.21s
+2025-08-03 14:07:44 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:176 | Average chunk length: 537 characters
+2025-08-03 14:07:44 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:180 | Step 2: Generating embeddings with metadata enrichment
+2025-08-03 14:07:44 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:181 | Processing 39326 chunks for embedding generation...
+2025-08-03 16:27:58 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:42 | ============================================================
+2025-08-03 16:27:58 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:43 | Initializing Complete Legal RAG Pipeline
+2025-08-03 16:27:58 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:44 | ============================================================
+2025-08-03 16:27:58 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:50 | Configuration:
+2025-08-03 16:27:58 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:51 |   - Use Pinecone: True
+2025-08-03 16:27:58 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:52 |   - Enable GPU: False
+2025-08-03 16:27:58 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:53 |   - Config keys: ['use_pinecone', 'enable_gpu']
+2025-08-03 16:27:58 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:72 | Starting component initialization...
+2025-08-03 16:27:58 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:75 | Initializing document processor...
+2025-08-03 16:27:58 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:78 | Document processor initialized in 0.00s
+2025-08-03 16:27:58 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:81 | Initializing embedding models (GPU: False)...
+2025-08-03 16:29:36 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:87 | Embedding models initialized in 97.57s
+2025-08-03 16:29:36 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:90 | Initializing vector store (Pinecone: True)...
+2025-08-03 16:29:42 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:94 | Pinecone vector store initialized
+2025-08-03 16:29:42 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:98 | Vector store initialized in 5.69s
+2025-08-03 16:29:42 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:101 | Initializing BM25 retriever...
+2025-08-03 16:29:42 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:104 | BM25 retriever initialized in 0.00s
+2025-08-03 16:29:42 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:107 | Initializing hybrid retriever...
+2025-08-03 16:29:42 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:112 | Hybrid retriever initialized in 0.00s
+2025-08-03 16:29:42 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:115 | Initializing multi-faceted search...
+2025-08-03 16:29:42 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:120 | Multi-faceted search initialized in 0.00s
+2025-08-03 16:29:42 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:123 | Initializing reranking components...
+2025-08-03 16:29:44 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:127 | Reranking components initialized in 2.69s
+2025-08-03 16:29:44 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:130 | Initializing generation components (GPU: False)...
+2025-08-03 16:29:58 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:136 | Generation components initialized in 13.43s
+2025-08-03 16:29:58 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:138 | All pipeline components initialized successfully
+2025-08-03 16:29:58 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:65 | Complete Legal RAG Pipeline initialized successfully in 119.43s
+2025-08-03 16:29:58 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:66 | ============================================================
+2025-08-03 16:29:58 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:156 | Starting index building process...
+2025-08-03 16:29:58 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:159 | Step 1: Processing documents into rhetorical chunks
+2025-08-03 16:30:25 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:166 | Created 39326 rhetorical chunks
+2025-08-03 16:30:25 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:169 | Step 2: Generating embeddings with metadata enrichment
+2025-08-03 16:37:10 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:42 | ============================================================
+2025-08-03 16:37:10 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:43 | Initializing Complete Legal RAG Pipeline
+2025-08-03 16:37:10 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:44 | ============================================================
+2025-08-03 16:37:10 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:50 | Configuration:
+2025-08-03 16:37:10 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:51 |   - Use Pinecone: True
+2025-08-03 16:37:10 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:52 |   - Enable GPU: False
+2025-08-03 16:37:10 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:53 |   - Config keys: ['use_pinecone', 'enable_gpu']
+2025-08-03 16:37:10 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:72 | Starting component initialization...
+2025-08-03 16:37:10 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:75 | Initializing document processor...
+2025-08-03 16:37:10 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:78 | Document processor initialized in 0.00s
+2025-08-03 16:37:10 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:81 | Initializing embedding models (GPU: False)...
+2025-08-03 16:38:26 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:87 | Embedding models initialized in 76.56s
+2025-08-03 16:38:26 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:90 | Initializing vector store (Pinecone: True)...
+2025-08-03 16:38:51 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:94 | Pinecone vector store initialized
+2025-08-03 16:38:51 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:98 | Vector store initialized in 24.73s
+2025-08-03 16:38:51 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:101 | Initializing BM25 retriever...
+2025-08-03 16:38:51 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:104 | BM25 retriever initialized in 0.00s
+2025-08-03 16:38:51 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:107 | Initializing hybrid retriever...
+2025-08-03 16:38:51 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:112 | Hybrid retriever initialized in 0.00s
+2025-08-03 16:38:51 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:115 | Initializing multi-faceted search...
+2025-08-03 16:38:51 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:120 | Multi-faceted search initialized in 0.00s
+2025-08-03 16:38:51 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:123 | Initializing reranking components...
+2025-08-03 16:38:54 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:127 | Reranking components initialized in 3.23s
+2025-08-03 16:38:54 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:130 | Initializing generation components (GPU: False)...
+2025-08-03 16:39:03 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:136 | Generation components initialized in 8.40s
+2025-08-03 16:39:03 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:138 | All pipeline components initialized successfully
+2025-08-03 16:39:03 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:65 | Complete Legal RAG Pipeline initialized successfully in 112.98s
+2025-08-03 16:39:03 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:66 | ============================================================
+2025-08-03 16:48:04 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:42 | ============================================================
+2025-08-03 16:48:04 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:43 | Initializing Complete Legal RAG Pipeline
+2025-08-03 16:48:04 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:44 | ============================================================
+2025-08-03 16:48:04 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:50 | Configuration:
+2025-08-03 16:48:04 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:51 |   - Use Pinecone: True
+2025-08-03 16:48:04 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:52 |   - Enable GPU: False
+2025-08-03 16:48:04 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:53 |   - Config keys: ['use_pinecone', 'enable_gpu']
+2025-08-03 16:48:04 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:72 | Starting component initialization...
+2025-08-03 16:48:04 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:75 | Initializing document processor...
+2025-08-03 16:48:04 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:78 | Document processor initialized in 0.00s
+2025-08-03 16:48:04 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:81 | Initializing embedding models (GPU: False)...
+2025-08-03 16:49:10 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:87 | Embedding models initialized in 66.06s
+2025-08-03 16:49:10 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:90 | Initializing vector store (Pinecone: True)...
+2025-08-03 16:51:32 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:94 | Pinecone vector store initialized
+2025-08-03 16:51:32 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:98 | Vector store initialized in 142.38s
+2025-08-03 16:51:32 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:101 | Initializing BM25 retriever...
+2025-08-03 16:51:32 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:104 | BM25 retriever initialized in 0.01s
+2025-08-03 16:51:32 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:107 | Initializing hybrid retriever...
+2025-08-03 16:51:32 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:112 | Hybrid retriever initialized in 0.00s
+2025-08-03 16:51:32 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:115 | Initializing multi-faceted search...
+2025-08-03 16:51:32 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:120 | Multi-faceted search initialized in 0.00s
+2025-08-03 16:51:32 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:123 | Initializing reranking components...
+2025-08-03 16:51:36 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:127 | Reranking components initialized in 3.73s
+2025-08-03 16:51:36 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:130 | Initializing generation components (GPU: False)...
+2025-08-03 16:51:43 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:136 | Generation components initialized in 6.80s
+2025-08-03 16:51:43 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:138 | All pipeline components initialized successfully
+2025-08-03 16:51:43 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:65 | Complete Legal RAG Pipeline initialized successfully in 219.03s
+2025-08-03 16:51:43 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:66 | ============================================================
+2025-08-03 17:22:35 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:292 | ============================================================
+2025-08-03 17:22:35 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:293 | PROCESSING LEGAL QUERY
+2025-08-03 17:22:35 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:294 | Query: HELLO
+2025-08-03 17:22:35 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:295 | Search options: None
+2025-08-03 17:22:35 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:296 | ============================================================
+2025-08-03 17:22:35 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:305 | Step 1: Executing hybrid retrieval
+2025-08-03 17:22:35 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:306 | Retrieval top_k: 20
+2025-08-03 17:22:35 | INFO | complete_rag_pipeline | complete_rag_pipeline.py:307 | Fusion method: weighted_sum

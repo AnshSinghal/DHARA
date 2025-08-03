@@ -1,0 +1,26 @@
+.
+├── Dockerfile
+├── README.md
+├── __pycache__
+├── cases
+├── cleaned_text
+├── config
+├── docker-compose.yml
+├── inlegalbert-rrl
+├── json_files
+├── legal_rag_system.log
+├── logger.py
+├── logs
+├── main.py
+├── merge_json.py
+├── merged_output
+├── ner
+├── pyproject.toml
+├── rrl
+├── src
+├── structure.txt
+├── txt_to_json.py
+├── uv.lock
+└── web-scrapping.py
+
+12 directories, 12 files

@@ -1,0 +1,1341 @@
+{
+  "entities": [
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 19
+    },
+    {
+      "text": "India Power Corporation Ltd",
+      "label": "PETITIONER",
+      "start_char": 42,
+      "end_char": 69
+    },
+    {
+      "text": "Sbicap Trustee Company Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 73,
+      "end_char": 100
+    },
+    {
+      "text": "Harish Tandon",
+      "label": "JUDGE",
+      "start_char": 131,
+      "end_char": 144
+    },
+    {
+      "text": "Harish Tandon",
+      "label": "JUDGE",
+      "start_char": 152,
+      "end_char": 165
+    },
+    {
+      "text": "High Court At Calcutta",
+      "label": "COURT",
+      "start_char": 272,
+      "end_char": 294
+    },
+    {
+      "text": "Harish Tandon",
+      "label": "JUDGE",
+      "start_char": 425,
+      "end_char": 438
+    },
+    {
+      "text": "Prasenjit Biswas",
+      "label": "JUDGE",
+      "start_char": 475,
+      "end_char": 491
+    },
+    {
+      "text": "India Power Corporation Ltd.",
+      "label": "PETITIONER",
+      "start_char": 621,
+      "end_char": 649
+    },
+    {
+      "text": "Sbicap Trustee Company Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 712,
+      "end_char": 739
+    },
+    {
+      "text": "Deepak Khosla",
+      "label": "LAWYER",
+      "start_char": 808,
+      "end_char": 821
+    },
+    {
+      "text": "Anjana Banerjee",
+      "label": "LAWYER",
+      "start_char": 873,
+      "end_char": 888
+    },
+    {
+      "text": "Rohan S. Nandy",
+      "label": "LAWYER",
+      "start_char": 940,
+      "end_char": 954
+    },
+    {
+      "text": "Sourajit Dasgupta",
+      "label": "LAWYER",
+      "start_char": 1007,
+      "end_char": 1024
+    },
+    {
+      "text": "Soumya Nag",
+      "label": "LAWYER",
+      "start_char": 1076,
+      "end_char": 1086
+    },
+    {
+      "text": "Jishnu Saha",
+      "label": "LAWYER",
+      "start_char": 1139,
+      "end_char": 1150
+    },
+    {
+      "text": "Debnath Ghosh",
+      "label": "LAWYER",
+      "start_char": 1202,
+      "end_char": 1215
+    },
+    {
+      "text": "Shwetank Ginodia",
+      "label": "LAWYER",
+      "start_char": 1267,
+      "end_char": 1283
+    },
+    {
+      "text": "Bhavesh Garodia",
+      "label": "LAWYER",
+      "start_char": 1335,
+      "end_char": 1350
+    },
+    {
+      "text": "Ratnadipa Sarkar",
+      "label": "JUDGE",
+      "start_char": 1404,
+      "end_char": 1420
+    },
+    {
+      "text": "16.05.2023",
+      "label": "DATE",
+      "start_char": 1461,
+      "end_char": 1471
+    },
+    {
+      "text": "Harish Tandon",
+      "label": "JUDGE",
+      "start_char": 1472,
+      "end_char": 1485
+    },
+    {
+      "text": "9.9.2022",
+      "label": "DATE",
+      "start_char": 1537,
+      "end_char": 1545
+    },
+    {
+      "text": "Commercial Court at Alipore",
+      "label": "COURT",
+      "start_char": 1571,
+      "end_char": 1598
+    },
+    {
+      "text": "Money Suit no. 1 of 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 1602,
+      "end_char": 1626
+    },
+    {
+      "text": "24th January, 2022",
+      "label": "DATE",
+      "start_char": 1813,
+      "end_char": 1831
+    },
+    {
+      "text": "23rd September, 2016",
+      "label": "DATE",
+      "start_char": 2036,
+      "end_char": 2056
+    },
+    {
+      "text": "29th January, 2022",
+      "label": "DATE",
+      "start_char": 2136,
+      "end_char": 2154
+    },
+    {
+      "text": "FMAT 142 of 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 2399,
+      "end_char": 2415
+    },
+    {
+      "text": "Meenakshi Energy Pvt",
+      "label": "ORG",
+      "start_char": 3188,
+      "end_char": 3208
+    },
+    {
+      "text": "Ltd. (MEL)",
+      "label": "ORG",
+      "start_char": 3210,
+      "end_char": 3220
+    },
+    {
+      "text": "Meenakshi Engineering and Infrastructure Holdings Ltd.",
+      "label": "ORG",
+      "start_char": 3300,
+      "end_char": 3354
+    },
+    {
+      "text": "NG Global Development (BW)",
+      "label": "ORG",
+      "start_char": 3393,
+      "end_char": 3419
+    },
+    {
+      "text": "MEL",
+      "label": "ORG",
+      "start_char": 3454,
+      "end_char": 3457
+    },
+    {
+      "text": "French Government",
+      "label": "ORG",
+      "start_char": 3691,
+      "end_char": 3708
+    },
+    {
+      "text": "September 23, 2016",
+      "label": "DATE",
+      "start_char": 4836,
+      "end_char": 4854
+    },
+    {
+      "text": "West Bengal Electricity Regulatory Commission (Licensing and Condition of License) Regulations, 2019",
+      "label": "STATUTE",
+      "start_char": 4954,
+      "end_char": 5054
+    },
+    {
+      "text": "West Bengal Electricity Regulatory Commission",
+      "label": "ORG",
+      "start_char": 5130,
+      "end_char": 5175
+    },
+    {
+      "text": "State Bank of India",
+      "label": "ORG",
+      "start_char": 5630,
+      "end_char": 5649
+    },
+    {
+      "text": "MEL",
+      "label": "ORG",
+      "start_char": 5962,
+      "end_char": 5965
+    },
+    {
+      "text": "COS 266 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 6001,
+      "end_char": 6016
+    },
+    {
+      "text": "Commercial Court, City Civil Court, Hyderabad",
+      "label": "COURT",
+      "start_char": 6028,
+      "end_char": 6073
+    },
+    {
+      "text": "23.9.2016",
+      "label": "DATE",
+      "start_char": 6127,
+      "end_char": 6136
+    },
+    {
+      "text": "High Court of Andhra Pradesh",
+      "label": "COURT",
+      "start_char": 6509,
+      "end_char": 6537
+    },
+    {
+      "text": "no. 26999 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 6558,
+      "end_char": 6575
+    },
+    {
+      "text": "WP 26977 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 6920,
+      "end_char": 6936
+    },
+    {
+      "text": "Writ Petition being no. 30048 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 7206,
+      "end_char": 7243
+    },
+    {
+      "text": "January 23, 2019",
+      "label": "DATE",
+      "start_char": 7450,
+      "end_char": 7466
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 7633,
+      "end_char": 7642
+    },
+    {
+      "text": "IBC Code, 2016",
+      "label": "STATUTE",
+      "start_char": 7650,
+      "end_char": 7664
+    },
+    {
+      "text": "SBI",
+      "label": "ORG",
+      "start_char": 7682,
+      "end_char": 7685
+    },
+    {
+      "text": "MEL",
+      "label": "ORG",
+      "start_char": 7698,
+      "end_char": 7701
+    },
+    {
+      "text": "National Company Law Tribunal, Hyderabad",
+      "label": "COURT",
+      "start_char": 7713,
+      "end_char": 7753
+    },
+    {
+      "text": "November 7, 2009",
+      "label": "DATE",
+      "start_char": 7812,
+      "end_char": 7828
+    },
+    {
+      "text": "High Court of Andhra Pradesh",
+      "label": "COURT",
+      "start_char": 7991,
+      "end_char": 8019
+    },
+    {
+      "text": "MEL",
+      "label": "ORG",
+      "start_char": 8328,
+      "end_char": 8331
+    },
+    {
+      "text": "SBI",
+      "label": "ORG",
+      "start_char": 8453,
+      "end_char": 8456
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 8484,
+      "end_char": 8493
+    },
+    {
+      "text": "IBC",
+      "label": "STATUTE",
+      "start_char": 8501,
+      "end_char": 8504
+    },
+    {
+      "text": "Regulation 5.13.2",
+      "label": "PROVISION",
+      "start_char": 8836,
+      "end_char": 8853
+    },
+    {
+      "text": "West Bengal Electricity Regulatory Commission (Licensing and Condition of License) Regulation, 2013",
+      "label": "STATUTE",
+      "start_char": 8861,
+      "end_char": 8960
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 9759,
+      "end_char": 9772
+    },
+    {
+      "text": "PTC India Financial Services Ltd.",
+      "label": "ORG",
+      "start_char": 9776,
+      "end_char": 9809
+    },
+    {
+      "text": "Venkateswarlu Kari",
+      "label": "RESPONDENT",
+      "start_char": 9814,
+      "end_char": 9832
+    },
+    {
+      "text": "(2022) SCC Online SC 608",
+      "label": "PRECEDENT",
+      "start_char": 9853,
+      "end_char": 9877
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 10267,
+      "end_char": 10280
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 11229,
+      "end_char": 11239
+    },
+    {
+      "text": "Mannalal Khetan vs. Kedar Nath Khetan, reported in AIR 1977 SC 536",
+      "label": "PRECEDENT",
+      "start_char": 11251,
+      "end_char": 11317
+    },
+    {
+      "text": "IBC",
+      "label": "STATUTE",
+      "start_char": 11711,
+      "end_char": 11714
+    },
+    {
+      "text": "Order 7 Rule 11",
+      "label": "PROVISION",
+      "start_char": 11954,
+      "end_char": 11969
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 11977,
+      "end_char": 11980
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 12538,
+      "end_char": 12548
+    },
+    {
+      "text": "IBC",
+      "label": "STATUTE",
+      "start_char": 12556,
+      "end_char": 12559
+    },
+    {
+      "text": "IBC",
+      "label": "STATUTE",
+      "start_char": 12802,
+      "end_char": 12805
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 13220,
+      "end_char": 13233
+    },
+    {
+      "text": "Agricultural Produce Marketing Committee, Bangalore vs. State of Karnataka &Ors",
+      "label": "PRECEDENT",
+      "start_char": 13245,
+      "end_char": 13324
+    },
+    {
+      "text": "1345-1346 of 2022",
+      "label": "DATE",
+      "start_char": 13345,
+      "end_char": 13362
+    },
+    {
+      "text": "22.3.2022",
+      "label": "DATE",
+      "start_char": 13374,
+      "end_char": 13383
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 13670,
+      "end_char": 13679
+    },
+    {
+      "text": "IBC",
+      "label": "STATUTE",
+      "start_char": 13683,
+      "end_char": 13686
+    },
+    {
+      "text": "City Civil Court, Hyderabad",
+      "label": "COURT",
+      "start_char": 14125,
+      "end_char": 14152
+    },
+    {
+      "text": "NCLT",
+      "label": "STATUTE",
+      "start_char": 15225,
+      "end_char": 15229
+    },
+    {
+      "text": "NCLT",
+      "label": "STATUTE",
+      "start_char": 15321,
+      "end_char": 15325
+    },
+    {
+      "text": "Section 41(b)",
+      "label": "PROVISION",
+      "start_char": 15368,
+      "end_char": 15381
+    },
+    {
+      "text": "Specific Relief Act",
+      "label": "STATUTE",
+      "start_char": 15389,
+      "end_char": 15408
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 15443,
+      "end_char": 15460
+    },
+    {
+      "text": "PSL Ltd.",
+      "label": "ORG",
+      "start_char": 15472,
+      "end_char": 15480
+    },
+    {
+      "text": "SCC Online Bombay 36",
+      "label": "PRECEDENT",
+      "start_char": 15499,
+      "end_char": 15519
+    },
+    {
+      "text": "Bombay",
+      "label": "GPE",
+      "start_char": 15572,
+      "end_char": 15578
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 15630,
+      "end_char": 15643
+    },
+    {
+      "text": "Forech (India) Ltd.",
+      "label": "ORG",
+      "start_char": 15647,
+      "end_char": 15666
+    },
+    {
+      "text": "Edelweiss Assets Reconstruction Co. Ltd.",
+      "label": "ORG",
+      "start_char": 15671,
+      "end_char": 15711
+    },
+    {
+      "text": "(2019) 18 SCC 549",
+      "label": "PRECEDENT",
+      "start_char": 15725,
+      "end_char": 15742
+    },
+    {
+      "text": "Mannalal Khetan",
+      "label": "PRECEDENT",
+      "start_char": 16034,
+      "end_char": 16049
+    },
+    {
+      "text": "Section 108",
+      "label": "PROVISION",
+      "start_char": 16211,
+      "end_char": 16222
+    },
+    {
+      "text": "Companies Act, 1956",
+      "label": "STATUTE",
+      "start_char": 16230,
+      "end_char": 16249
+    },
+    {
+      "text": "Regulation 5.13.2",
+      "label": "PROVISION",
+      "start_char": 22227,
+      "end_char": 22244
+    },
+    {
+      "text": "West Bengal Electricity Regulatory Commission (Licensing and condition of Licence) Regulations, 2013",
+      "label": "STATUTE",
+      "start_char": 22252,
+      "end_char": 22352
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 22670,
+      "end_char": 22680
+    },
+    {
+      "text": "P.T.C",
+      "label": "COURT",
+      "start_char": 22701,
+      "end_char": 22706
+    },
+    {
+      "text": "NCLT",
+      "label": "ORG",
+      "start_char": 23178,
+      "end_char": 23182
+    },
+    {
+      "text": "NCLT",
+      "label": "ORG",
+      "start_char": 23279,
+      "end_char": 23283
+    },
+    {
+      "text": "IBC",
+      "label": "STATUTE",
+      "start_char": 23313,
+      "end_char": 23316
+    },
+    {
+      "text": "Commercial Courts, the City Civil Court at Hyderabad",
+      "label": "COURT",
+      "start_char": 23454,
+      "end_char": 23506
+    },
+    {
+      "text": "Order 23 Rule 1",
+      "label": "PROVISION",
+      "start_char": 23660,
+      "end_char": 23675
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 23683,
+      "end_char": 23706
+    },
+    {
+      "text": "IBC",
+      "label": "STATUTE",
+      "start_char": 23901,
+      "end_char": 23904
+    },
+    {
+      "text": "Section 41 (b)",
+      "label": "PROVISION",
+      "start_char": 23955,
+      "end_char": 23969
+    },
+    {
+      "text": "Specific Relief Act",
+      "label": "STATUTE",
+      "start_char": 23977,
+      "end_char": 23996
+    },
+    {
+      "text": "Section 104 and Order 43",
+      "label": "PROVISION",
+      "start_char": 26944,
+      "end_char": 26968
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 26976,
+      "end_char": 26999
+    },
+    {
+      "text": "MEL",
+      "label": "ORG",
+      "start_char": 27390,
+      "end_char": 27393
+    },
+    {
+      "text": "French Government",
+      "label": "ORG",
+      "start_char": 27613,
+      "end_char": 27630
+    },
+    {
+      "text": "MEL",
+      "label": "ORG",
+      "start_char": 27834,
+      "end_char": 27837
+    },
+    {
+      "text": "French Government",
+      "label": "ORG",
+      "start_char": 27982,
+      "end_char": 27999
+    },
+    {
+      "text": "MEL",
+      "label": "ORG",
+      "start_char": 28030,
+      "end_char": 28033
+    },
+    {
+      "text": "MEL",
+      "label": "ORG",
+      "start_char": 28917,
+      "end_char": 28920
+    },
+    {
+      "text": "MEL",
+      "label": "ORG",
+      "start_char": 30432,
+      "end_char": 30435
+    },
+    {
+      "text": "Regulation 5.13.2",
+      "label": "PROVISION",
+      "start_char": 30538,
+      "end_char": 30555
+    },
+    {
+      "text": "5.13.2",
+      "label": "DATE",
+      "start_char": 30600,
+      "end_char": 30606
+    },
+    {
+      "text": "29th September, 2016",
+      "label": "DATE",
+      "start_char": 33463,
+      "end_char": 33483
+    },
+    {
+      "text": "MEPL",
+      "label": "ORG",
+      "start_char": 35745,
+      "end_char": 35749
+    },
+    {
+      "text": "IPCL",
+      "label": "ORG",
+      "start_char": 35809,
+      "end_char": 35813
+    },
+    {
+      "text": "MEPL",
+      "label": "ORG",
+      "start_char": 35837,
+      "end_char": 35841
+    },
+    {
+      "text": "IPCL",
+      "label": "ORG",
+      "start_char": 36006,
+      "end_char": 36010
+    },
+    {
+      "text": "IPCL",
+      "label": "ORG",
+      "start_char": 36016,
+      "end_char": 36020
+    },
+    {
+      "text": "West Bengal Electricity Regulatory Commission (Licensing and Conditions of Licensee) Regulation, 2013",
+      "label": "STATUTE",
+      "start_char": 36064,
+      "end_char": 36165
+    },
+    {
+      "text": "West Bengal Electricity Regulatory Commission",
+      "label": "ORG",
+      "start_char": 36225,
+      "end_char": 36270
+    },
+    {
+      "text": "Mannalal Khetan",
+      "label": "OTHER_PERSON",
+      "start_char": 36535,
+      "end_char": 36550
+    },
+    {
+      "text": "Section 23",
+      "label": "PROVISION",
+      "start_char": 36658,
+      "end_char": 36668
+    },
+    {
+      "text": "Contract Act",
+      "label": "STATUTE",
+      "start_char": 36676,
+      "end_char": 36688
+    },
+    {
+      "text": "WBERC Regulation",
+      "label": "STATUTE",
+      "start_char": 36745,
+      "end_char": 36761
+    },
+    {
+      "text": "Mannala lKhetan vs. KedarNath Khetan - AIR 1977 SC 536",
+      "label": "PRECEDENT",
+      "start_char": 36774,
+      "end_char": 36828
+    },
+    {
+      "text": "Milliss v. Shirley Local Board, (1885)",
+      "label": "PRECEDENT",
+      "start_char": 37015,
+      "end_char": 37053
+    },
+    {
+      "text": "St. John Shipping Corporation v. Joseph Bank, (1957) 1 QB 267",
+      "label": "PRECEDENT",
+      "start_char": 38107,
+      "end_char": 38168
+    },
+    {
+      "text": "England",
+      "label": "GPE",
+      "start_char": 38200,
+      "end_char": 38207
+    },
+    {
+      "text": "Melliss v. Shirley Local Board, (1885) 16 QBD 446",
+      "label": "PRECEDENT",
+      "start_char": 38636,
+      "end_char": 38685
+    },
+    {
+      "text": "Section 108",
+      "label": "PROVISION",
+      "start_char": 39682,
+      "end_char": 39693
+    },
+    {
+      "text": "Mannalal Khetan",
+      "label": "PRECEDENT",
+      "start_char": 40582,
+      "end_char": 40597
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 40637,
+      "end_char": 40650
+    },
+    {
+      "text": "BOI Finance Ltd. Vs.",
+      "label": "PRECEDENT",
+      "start_char": 40671,
+      "end_char": 40691
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 40733,
+      "end_char": 40743
+    },
+    {
+      "text": "Section 142",
+      "label": "PROVISION",
+      "start_char": 40926,
+      "end_char": 40937
+    },
+    {
+      "text": "Electricity Act",
+      "label": "STATUTE",
+      "start_char": 40945,
+      "end_char": 40960
+    },
+    {
+      "text": "Section 46",
+      "label": "PROVISION",
+      "start_char": 41241,
+      "end_char": 41251
+    },
+    {
+      "text": "Section 36 (1)(a)",
+      "label": "PROVISION",
+      "start_char": 42295,
+      "end_char": 42312
+    },
+    {
+      "text": "Reserve Bank of India",
+      "label": "ORG",
+      "start_char": 42852,
+      "end_char": 42873
+    },
+    {
+      "text": "Section 46",
+      "label": "PROVISION",
+      "start_char": 43327,
+      "end_char": 43337
+    },
+    {
+      "text": "Regulation 5.13.2",
+      "label": "PROVISION",
+      "start_char": 44606,
+      "end_char": 44623
+    },
+    {
+      "text": "Dishargarh Electrical License",
+      "label": "ORG",
+      "start_char": 45210,
+      "end_char": 45239
+    },
+    {
+      "text": "Bacchaj Nahar vs. Nilima Mandal & Anr., reported in (2008) 17 SCC 491",
+      "label": "PRECEDENT",
+      "start_char": 45726,
+      "end_char": 45795
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 48276,
+      "end_char": 48289
+    },
+    {
+      "text": "State of Jharkand",
+      "label": "OTHER_PERSON",
+      "start_char": 48293,
+      "end_char": 48310
+    },
+    {
+      "text": "Brahmputra Metallics Ltd.",
+      "label": "ORG",
+      "start_char": 48322,
+      "end_char": 48347
+    },
+    {
+      "text": "(2022) 7 SCC 323",
+      "label": "CASE_NUMBER",
+      "start_char": 48361,
+      "end_char": 48377
+    },
+    {
+      "text": "Motilal Padampat",
+      "label": "PRECEDENT",
+      "start_char": 48576,
+      "end_char": 48592
+    },
+    {
+      "text": "P.N.Bhagabati",
+      "label": "JUDGE",
+      "start_char": 48794,
+      "end_char": 48807
+    },
+    {
+      "text": "R v. North and East Devon Health Authority",
+      "label": "PRECEDENT",
+      "start_char": 49863,
+      "end_char": 49905
+    },
+    {
+      "text": "NCLT",
+      "label": "COURT",
+      "start_char": 51038,
+      "end_char": 51042
+    },
+    {
+      "text": "CIRP",
+      "label": "COURT",
+      "start_char": 51085,
+      "end_char": 51089
+    },
+    {
+      "text": "41(b)",
+      "label": "PROVISION",
+      "start_char": 51131,
+      "end_char": 51136
+    },
+    {
+      "text": "Specific Relief Act",
+      "label": "STATUTE",
+      "start_char": 51144,
+      "end_char": 51163
+    },
+    {
+      "text": "NCLT",
+      "label": "ORG",
+      "start_char": 51259,
+      "end_char": 51263
+    },
+    {
+      "text": "IBC",
+      "label": "STATUTE",
+      "start_char": 51270,
+      "end_char": 51273
+    },
+    {
+      "text": "Section 41(b)",
+      "label": "PROVISION",
+      "start_char": 51462,
+      "end_char": 51475
+    },
+    {
+      "text": "Specific Relief Act",
+      "label": "STATUTE",
+      "start_char": 51483,
+      "end_char": 51502
+    },
+    {
+      "text": "Bhagwandas Auto Finance Ltd.",
+      "label": "ORG",
+      "start_char": 52303,
+      "end_char": 52331
+    },
+    {
+      "text": "Citicorp Finance (India) Ltd.",
+      "label": "ORG",
+      "start_char": 52343,
+      "end_char": 52372
+    },
+    {
+      "text": "AIR 2009 CAL 231",
+      "label": "CASE_NUMBER",
+      "start_char": 52386,
+      "end_char": 52402
+    },
+    {
+      "text": "January 7, 2009",
+      "label": "DATE",
+      "start_char": 52587,
+      "end_char": 52602
+    },
+    {
+      "text": "City Civil Court at Calcutta",
+      "label": "COURT",
+      "start_char": 53350,
+      "end_char": 53378
+    },
+    {
+      "text": "January 7, 2009",
+      "label": "DATE",
+      "start_char": 53533,
+      "end_char": 53548
+    },
+    {
+      "text": "NCLT",
+      "label": "COURT",
+      "start_char": 54494,
+      "end_char": 54498
+    },
+    {
+      "text": "IBC",
+      "label": "STATUTE",
+      "start_char": 54505,
+      "end_char": 54508
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 54548,
+      "end_char": 54561
+    },
+    {
+      "text": "Invent Asset Securitisation and Reconstruction Pvt",
+      "label": "ORG",
+      "start_char": 54565,
+      "end_char": 54615
+    },
+    {
+      "text": "Ltd. vs GirnarFibres Ltd., reported in 2022 SCC Online SC 808",
+      "label": "PRECEDENT",
+      "start_char": 54617,
+      "end_char": 54678
+    },
+    {
+      "text": "NCLT",
+      "label": "COURT",
+      "start_char": 54708,
+      "end_char": 54712
+    },
+    {
+      "text": "IBC",
+      "label": "STATUTE",
+      "start_char": 54987,
+      "end_char": 54990
+    },
+    {
+      "text": "Commercial Court, City Civil Court at Hyderabad",
+      "label": "COURT",
+      "start_char": 55370,
+      "end_char": 55417
+    },
+    {
+      "text": "Order 23 Rule 1",
+      "label": "PROVISION",
+      "start_char": 55529,
+      "end_char": 55544
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 55552,
+      "end_char": 55555
+    },
+    {
+      "text": "Ballavh vs. Madanlal AIR 1970 SC 987",
+      "label": "PRECEDENT",
+      "start_char": 56429,
+      "end_char": 56465
+    },
+    {
+      "text": "NCLT",
+      "label": "ORG",
+      "start_char": 57888,
+      "end_char": 57892
+    },
+    {
+      "text": "IBC",
+      "label": "STATUTE",
+      "start_char": 58596,
+      "end_char": 58599
+    },
+    {
+      "text": "NCLT",
+      "label": "COURT",
+      "start_char": 58611,
+      "end_char": 58615
+    },
+    {
+      "text": "Section 41 (b)",
+      "label": "PROVISION",
+      "start_char": 58884,
+      "end_char": 58898
+    },
+    {
+      "text": "Specific Relief Act",
+      "label": "STATUTE",
+      "start_char": 58906,
+      "end_char": 58925
+    },
+    {
+      "text": "Harish Tandon",
+      "label": "JUDGE",
+      "start_char": 59258,
+      "end_char": 59271
+    },
+    {
+      "text": "Prasenjit Biswas",
+      "label": "JUDGE",
+      "start_char": 59281,
+      "end_char": 59297
+    }
+  ],
+  "precedent_clusters": {
+    "Mannalal Khetan vs. Kedar Nath Khetan, reported in AIR 1977 SC 536": [
+      "Mannalal Khetan vs. Kedar Nath Khetan, reported in AIR 1977 SC 536",
+      "Mannala lKhetan vs. KedarNath Khetan - AIR 1977 SC 536",
+      "Mannalal Khetan",
+      "Mannalal Khetan"
+    ],
+    "Agricultural Produce Marketing Committee, Bangalore vs. State of Karnataka &Ors": [
+      "Agricultural Produce Marketing Committee, Bangalore vs. State of Karnataka &Ors",
+      "SCC Online Bombay 36",
+      "Milliss v. Shirley Local Board, (1885)",
+      "BOI Finance Ltd. Vs.",
+      "R v. North and East Devon Health Authority"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 7",
+      "IBC Code, 2016",
+      "Section 7",
+      "IBC Code, 2016"
+    ],
+    [
+      "Section 7",
+      "IBC",
+      "Section 7",
+      "IBC"
+    ],
+    [
+      "Regulation 5.13.2",
+      "West Bengal Electricity Regulatory Commission (Licensing and Condition of License) Regulation, 2013",
+      "Regulation 5.13.2",
+      "West Bengal Electricity Regulatory Commission (Licensing and Condition of License) Regulation, 2013"
+    ],
+    [
+      "Order 7 Rule 11",
+      "CPC",
+      "Order 7 Rule 11",
+      "CPC"
+    ],
+    [
+      "Section 14",
+      "IBC",
+      "Section 14",
+      "IBC"
+    ],
+    [
+      "Section 7",
+      "IBC",
+      "Section 7",
+      "IBC"
+    ],
+    [
+      "Section 41(b)",
+      "Specific Relief Act",
+      "Section 41(b)",
+      "Specific Relief Act"
+    ],
+    [
+      "Section 108",
+      "Companies Act, 1956",
+      "Section 108",
+      "Companies Act, 1956"
+    ],
+    [
+      "Regulation 5.13.2",
+      "West Bengal Electricity Regulatory Commission (Licensing and condition of Licence) Regulations, 2013",
+      "Regulation 5.13.2",
+      "West Bengal Electricity Regulatory Commission (Licensing and condition of Licence) Regulations, 2013"
+    ],
+    [
+      "Order 23 Rule 1",
+      "Code of Civil Procedure",
+      "Order 23 Rule 1",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 41 (b)",
+      "Specific Relief Act",
+      "Section 41 (b)",
+      "Specific Relief Act"
+    ],
+    [
+      "Section 104 and Order 43",
+      "Code of Civil Procedure",
+      "Section 104 and Order 43",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 23",
+      "Contract Act",
+      "Section 23",
+      "Contract Act"
+    ],
+    [
+      "Section 142",
+      "Electricity Act",
+      "Section 142",
+      "Electricity Act"
+    ],
+    [
+      "41(b)",
+      "Specific Relief Act",
+      "41(b)",
+      "Specific Relief Act"
+    ],
+    [
+      "Section 41(b)",
+      "Specific Relief Act",
+      "Section 41(b)",
+      "Specific Relief Act"
+    ],
+    [
+      "Order 23 Rule 1",
+      "CPC",
+      "Order 23 Rule 1",
+      "CPC"
+    ],
+    [
+      "Section 41 (b)",
+      "Specific Relief Act",
+      "Section 41 (b)",
+      "Specific Relief Act"
+    ],
+    [
+      "Regulation 5.13.2",
+      "West Bengal Electricity Regulatory Commission (Licensing and Condition of License) Regulation, 2013",
+      "Regulation 5.13.2",
+      "West Bengal Electricity Regulatory Commission (Licensing and Condition of License) Regulation, 2013"
+    ],
+    [
+      "Section 108",
+      "Companies Act, 1956",
+      "Section 108",
+      "Companies Act, 1956"
+    ],
+    [
+      "Section 46",
+      "Electricity Act",
+      "Section 46",
+      "Electricity Act"
+    ],
+    [
+      "Regulation 5.13.2",
+      "West Bengal Electricity Regulatory Commission (Licensing and Condition of License) Regulation, 2013",
+      "Regulation 5.13.2",
+      "West Bengal Electricity Regulatory Commission (Licensing and Condition of License) Regulation, 2013"
+    ],
+    [
+      "Section 46",
+      "Electricity Act",
+      "Section 46",
+      "Electricity Act"
+    ],
+    [
+      "Section 36 (1)(a)",
+      "Electricity Act",
+      "Section 36 (1)(a)",
+      "Electricity Act"
+    ]
+  ],
+  "precedent_counts": {
+    "Mannalal Khetan vs. Kedar Nath Khetan, reported in AIR 1977 SC 536": 4,
+    "Agricultural Produce Marketing Committee, Bangalore vs. State of Karnataka &Ors": 5
+  },
+  "provision_counts": {
+    "Section 7 of IBC Code, 2016": 1,
+    "Section 7 of IBC": 2,
+    "Regulation 5.13.2 of West Bengal Electricity Regulatory Commission (Licensing and Condition of License) Regulation, 2013": 3,
+    "Order 7 Rule 11 of CPC": 1,
+    "Section 14 of IBC": 1,
+    "Section 41(b) of Specific Relief Act": 2,
+    "Section 108 of Companies Act, 1956": 2,
+    "Regulation 5.13.2 of West Bengal Electricity Regulatory Commission (Licensing and condition of Licence) Regulations, 2013": 1,
+    "Order 23 Rule 1 of Code of Civil Procedure": 1,
+    "Section 41 (b) of Specific Relief Act": 2,
+    "Section 104 and Order 43 of Code of Civil Procedure": 1,
+    "Section 23 of Contract Act": 1,
+    "Section 142 of Electricity Act": 1,
+    "41(b) of Specific Relief Act": 1,
+    "Order 23 Rule 1 of CPC": 1,
+    "Section 46 of Electricity Act": 2,
+    "Section 36 (1)(a) of Electricity Act": 1
+  },
+  "statute_counts": {
+    "IBC Code, 2016": 1,
+    "IBC": 3,
+    "West Bengal Electricity Regulatory Commission (Licensing and Condition of License) Regulation, 2013": 3,
+    "CPC": 2,
+    "Specific Relief Act": 5,
+    "Companies Act, 1956": 2,
+    "West Bengal Electricity Regulatory Commission (Licensing and condition of Licence) Regulations, 2013": 1,
+    "Code of Civil Procedure": 2,
+    "Contract Act": 1,
+    "Electricity Act": 4
+  }
+}

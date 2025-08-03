@@ -1,0 +1,1704 @@
+{
+  "entities": [
+    {
+      "text": "Sanjay Suganchand Kasliwal",
+      "label": "PETITIONER",
+      "start_char": 18,
+      "end_char": 44
+    },
+    {
+      "text": "Golden Dreams Buildcon Pvt Ltd",
+      "label": "RESPONDENT",
+      "start_char": 62,
+      "end_char": 92
+    },
+    {
+      "text": "High Court Of Judicature At Bombay\n                                           Bench At Aurangabad",
+      "label": "COURT",
+      "start_char": 344,
+      "end_char": 441
+    },
+    {
+      "text": "Sanjay Suganchand Kasliwal",
+      "label": "PETITIONER",
+      "start_char": 543,
+      "end_char": 569
+    },
+    {
+      "text": "Aurangabad",
+      "label": "GPE",
+      "start_char": 1309,
+      "end_char": 1319
+    },
+    {
+      "text": "Santosh Shantilal Muthiyan",
+      "label": "OTHER_PERSON",
+      "start_char": 1361,
+      "end_char": 1387
+    },
+    {
+      "text": "Aurangabad",
+      "label": "GPE",
+      "start_char": 1572,
+      "end_char": 1582
+    },
+    {
+      "text": "Vinod Premchand Surana",
+      "label": "OTHER_PERSON",
+      "start_char": 1634,
+      "end_char": 1656
+    },
+    {
+      "text": "Aurangabad",
+      "label": "GPE",
+      "start_char": 1836,
+      "end_char": 1846
+    },
+    {
+      "text": "Shobha Vinod Surana",
+      "label": "OTHER_PERSON",
+      "start_char": 1889,
+      "end_char": 1908
+    },
+    {
+      "text": "Vipul Vinod Surana",
+      "label": "OTHER_PERSON",
+      "start_char": 2064,
+      "end_char": 2082
+    },
+    {
+      "text": "Mudit Vinod Surana",
+      "label": "OTHER_PERSON",
+      "start_char": 2238,
+      "end_char": 2256
+    },
+    {
+      "text": "10/11/2023",
+      "label": "DATE",
+      "start_char": 2411,
+      "end_char": 2421
+    },
+    {
+      "text": "25/02/2024",
+      "label": "DATE",
+      "start_char": 2463,
+      "end_char": 2473
+    },
+    {
+      "text": "Ajanta Infrastructures Ltd.",
+      "label": "ORG",
+      "start_char": 2634,
+      "end_char": 2661
+    },
+    {
+      "text": "Ajanta Infrastructures                    Private Ltd.",
+      "label": "ORG",
+      "start_char": 2700,
+      "end_char": 2754
+    },
+    {
+      "text": "Companies Act, 1956",
+      "label": "STATUTE",
+      "start_char": 2824,
+      "end_char": 2843
+    },
+    {
+      "text": "Aurangabad",
+      "label": "GPE",
+      "start_char": 2953,
+      "end_char": 2963
+    },
+    {
+      "text": "Vinay Premchand Surana",
+      "label": "OTHER_PERSON",
+      "start_char": 2989,
+      "end_char": 3011
+    },
+    {
+      "text": "Aurangabad",
+      "label": "GPE",
+      "start_char": 3143,
+      "end_char": 3153
+    },
+    {
+      "text": "Manjeet Landmark LLP",
+      "label": "ORG",
+      "start_char": 3181,
+      "end_char": 3201
+    },
+    {
+      "text": "Rajendra Singh Rajpal",
+      "label": "OTHER_PERSON",
+      "start_char": 3525,
+      "end_char": 3546
+    },
+    {
+      "text": "Manjeet Landmark LLP",
+      "label": "ORG",
+      "start_char": 3642,
+      "end_char": 3662
+    },
+    {
+      "text": "CIDCO",
+      "label": "GPE",
+      "start_char": 3706,
+      "end_char": 3711
+    },
+    {
+      "text": "Aurangabad",
+      "label": "GPE",
+      "start_char": 3732,
+      "end_char": 3742
+    },
+    {
+      "text": "Karan Rajpal",
+      "label": "OTHER_PERSON",
+      "start_char": 3768,
+      "end_char": 3780
+    },
+    {
+      "text": "Manjeet Landmark LLP",
+      "label": "ORG",
+      "start_char": 3876,
+      "end_char": 3896
+    },
+    {
+      "text": "Maharashra industrial Development Corporation",
+      "label": "ORG",
+      "start_char": 3953,
+      "end_char": 3998
+    },
+    {
+      "text": "10/11/2023",
+      "label": "DATE",
+      "start_char": 4459,
+      "end_char": 4469
+    },
+    {
+      "text": "25/02/2024",
+      "label": "DATE",
+      "start_char": 4510,
+      "end_char": 4520
+    },
+    {
+      "text": "SICOM Ltd.",
+      "label": "PETITIONER",
+      "start_char": 4679,
+      "end_char": 4689
+    },
+    {
+      "text": "A.P.Bhandari",
+      "label": "LAWYER",
+      "start_char": 5180,
+      "end_char": 5192
+    },
+    {
+      "text": "R.N.Dhorde",
+      "label": "LAWYER",
+      "start_char": 5234,
+      "end_char": 5244
+    },
+    {
+      "text": "V.A.Bagdiya",
+      "label": "LAWYER",
+      "start_char": 5270,
+      "end_char": 5281
+    },
+    {
+      "text": "M.R.Sonawane",
+      "label": "LAWYER",
+      "start_char": 5347,
+      "end_char": 5359
+    },
+    {
+      "text": "S.V.Adwant",
+      "label": "LAWYER",
+      "start_char": 5407,
+      "end_char": 5417
+    },
+    {
+      "text": "Neha Kamble",
+      "label": "LAWYER",
+      "start_char": 5434,
+      "end_char": 5445
+    },
+    {
+      "text": "ARUN R. PEDNEKER",
+      "label": "JUDGE",
+      "start_char": 5580,
+      "end_char": 5596
+    },
+    {
+      "text": "4th May, 2023",
+      "label": "DATE",
+      "start_char": 5833,
+      "end_char": 5846
+    },
+    {
+      "text": "8th Joint Civil Judge Senior Division, Aurangabad",
+      "label": "COURT",
+      "start_char": 5861,
+      "end_char": 5910
+    },
+    {
+      "text": "Section 2 (c), (i), (vi), (vii), (xi) and explanation (a)",
+      "label": "PROVISION",
+      "start_char": 5994,
+      "end_char": 6051
+    },
+    {
+      "text": "Commercial Court Act, 2015",
+      "label": "STATUTE",
+      "start_char": 6059,
+      "end_char": 6085
+    },
+    {
+      "text": "Order VII Rule 10 and 11",
+      "label": "PROVISION",
+      "start_char": 6122,
+      "end_char": 6146
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 6154,
+      "end_char": 6177
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 6288,
+      "end_char": 6297
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 6305,
+      "end_char": 6332
+    },
+    {
+      "text": "26.12.2009",
+      "label": "DATE",
+      "start_char": 6465,
+      "end_char": 6475
+    },
+    {
+      "text": "MIDC Chikalthana",
+      "label": "ORG",
+      "start_char": 6830,
+      "end_char": 6846
+    },
+    {
+      "text": "Aurangabad",
+      "label": "GPE",
+      "start_char": 6848,
+      "end_char": 6858
+    },
+    {
+      "text": "Aurangabad",
+      "label": "GPE",
+      "start_char": 6871,
+      "end_char": 6881
+    },
+    {
+      "text": "26.12.2009",
+      "label": "DATE",
+      "start_char": 7226,
+      "end_char": 7236
+    },
+    {
+      "text": "26.12.2009",
+      "label": "DATE",
+      "start_char": 7368,
+      "end_char": 7378
+    },
+    {
+      "text": "MIDC Chikalthana",
+      "label": "ORG",
+      "start_char": 7469,
+      "end_char": 7485
+    },
+    {
+      "text": "Aurangabad",
+      "label": "GPE",
+      "start_char": 7487,
+      "end_char": 7497
+    },
+    {
+      "text": "Aurangabad",
+      "label": "GPE",
+      "start_char": 7510,
+      "end_char": 7520
+    },
+    {
+      "text": "25.02.2023",
+      "label": "DATE",
+      "start_char": 8721,
+      "end_char": 8731
+    },
+    {
+      "text": "Aurangabad",
+      "label": "GPE",
+      "start_char": 8762,
+      "end_char": 8772
+    },
+    {
+      "text": "Aurangabad",
+      "label": "GPE",
+      "start_char": 8901,
+      "end_char": 8911
+    },
+    {
+      "text": "Aurangabad",
+      "label": "GPE",
+      "start_char": 9348,
+      "end_char": 9358
+    },
+    {
+      "text": "26.12.2009",
+      "label": "DATE",
+      "start_char": 9409,
+      "end_char": 9419
+    },
+    {
+      "text": "21.6.2021",
+      "label": "DATE",
+      "start_char": 9489,
+      "end_char": 9498
+    },
+    {
+      "text": "MIDC Chikalthana",
+      "label": "ORG",
+      "start_char": 9942,
+      "end_char": 9958
+    },
+    {
+      "text": "Aurangabad",
+      "label": "GPE",
+      "start_char": 9960,
+      "end_char": 9970
+    },
+    {
+      "text": "Order VII Rule 10 and 11",
+      "label": "PROVISION",
+      "start_char": 10477,
+      "end_char": 10501
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 10509,
+      "end_char": 10532
+    },
+    {
+      "text": "4 th May, 2023",
+      "label": "DATE",
+      "start_char": 10588,
+      "end_char": 10602
+    },
+    {
+      "text": "Aurangabad",
+      "label": "GPE",
+      "start_char": 10663,
+      "end_char": 10673
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 10805,
+      "end_char": 10814
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 10822,
+      "end_char": 10849
+    },
+    {
+      "text": "Section 2 (1) (c)",
+      "label": "PROVISION",
+      "start_char": 11023,
+      "end_char": 11040
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 11048,
+      "end_char": 11075
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 12719,
+      "end_char": 12737
+    },
+    {
+      "text": "Section 6",
+      "label": "PROVISION",
+      "start_char": 13176,
+      "end_char": 13185
+    },
+    {
+      "text": "Sections 16 to 20",
+      "label": "PROVISION",
+      "start_char": 13764,
+      "end_char": 13781
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 13789,
+      "end_char": 13830
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 13833,
+      "end_char": 13843
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 13847,
+      "end_char": 13874
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 14068,
+      "end_char": 14095
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 14189,
+      "end_char": 14202
+    },
+    {
+      "text": "Ambalal Sarabhai Enterprises Ltd.",
+      "label": "ORG",
+      "start_char": 14218,
+      "end_char": 14251
+    },
+    {
+      "text": "K.S. Infraspace LLP",
+      "label": "ORG",
+      "start_char": 14256,
+      "end_char": 14275
+    },
+    {
+      "text": "2020 (15) SCC 585",
+      "label": "PRECEDENT",
+      "start_char": 14300,
+      "end_char": 14317
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 14345,
+      "end_char": 14358
+    },
+    {
+      "text": "section 2 (1) (c) (vii)",
+      "label": "PROVISION",
+      "start_char": 14399,
+      "end_char": 14422
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 14426,
+      "end_char": 14447
+    },
+    {
+      "text": "Gujrath High Court",
+      "label": "COURT",
+      "start_char": 15397,
+      "end_char": 15415
+    },
+    {
+      "text": "Vasu Health Care Pvt",
+      "label": "ORG",
+      "start_char": 15431,
+      "end_char": 15451
+    },
+    {
+      "text": "Gujarat Akruti TCG Biotech Ltd.",
+      "label": "ORG",
+      "start_char": 15462,
+      "end_char": 15493
+    },
+    {
+      "text": "AIR 2017 SC 153",
+      "label": "PRECEDENT",
+      "start_char": 15506,
+      "end_char": 15521
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 15634,
+      "end_char": 15655
+    },
+    {
+      "text": "Gujarat High Court",
+      "label": "COURT",
+      "start_char": 15901,
+      "end_char": 15919
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 15948,
+      "end_char": 15961
+    },
+    {
+      "text": "Ambalal Sarabhai",
+      "label": "OTHER_PERSON",
+      "start_char": 15965,
+      "end_char": 15981
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 16032,
+      "end_char": 16045
+    },
+    {
+      "text": "Gujarat High Court",
+      "label": "COURT",
+      "start_char": 16076,
+      "end_char": 16094
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 16381,
+      "end_char": 16394
+    },
+    {
+      "text": "Dhulabhai Vs.",
+      "label": "PRECEDENT",
+      "start_char": 16410,
+      "end_char": 16423
+    },
+    {
+      "text": "State of M.P. reported in AIR 1969 SC 78",
+      "label": "PRECEDENT",
+      "start_char": 16424,
+      "end_char": 16464
+    },
+    {
+      "text": "SICOM",
+      "label": "ORG",
+      "start_char": 16690,
+      "end_char": 16695
+    },
+    {
+      "text": "MIDC",
+      "label": "ORG",
+      "start_char": 16761,
+      "end_char": 16765
+    },
+    {
+      "text": "SICOM",
+      "label": "ORG",
+      "start_char": 16865,
+      "end_char": 16870
+    },
+    {
+      "text": "MIDC",
+      "label": "ORG",
+      "start_char": 16902,
+      "end_char": 16906
+    },
+    {
+      "text": "clause xi of Section 2 (1) (c)",
+      "label": "PROVISION",
+      "start_char": 18310,
+      "end_char": 18340
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 18348,
+      "end_char": 18369
+    },
+    {
+      "text": "Section 2 (1) (c)",
+      "label": "PROVISION",
+      "start_char": 18407,
+      "end_char": 18424
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 18790,
+      "end_char": 18803
+    },
+    {
+      "text": "Ambalal Sarabahai",
+      "label": "PRECEDENT",
+      "start_char": 18821,
+      "end_char": 18838
+    },
+    {
+      "text": "clause (vii) of Section 2 (1) (c)",
+      "label": "PROVISION",
+      "start_char": 18875,
+      "end_char": 18908
+    },
+    {
+      "text": "Section 2 (1) (c)",
+      "label": "PROVISION",
+      "start_char": 18995,
+      "end_char": 19012
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 19020,
+      "end_char": 19041
+    },
+    {
+      "text": "SICOM",
+      "label": "ORG",
+      "start_char": 19156,
+      "end_char": 19161
+    },
+    {
+      "text": "MIDC",
+      "label": "ORG",
+      "start_char": 19166,
+      "end_char": 19170
+    },
+    {
+      "text": "section 6",
+      "label": "PROVISION",
+      "start_char": 19435,
+      "end_char": 19444
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 19452,
+      "end_char": 19473
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 20063,
+      "end_char": 20073
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 20081,
+      "end_char": 20102
+    },
+    {
+      "text": "Section 15 (5)",
+      "label": "PROVISION",
+      "start_char": 20286,
+      "end_char": 20300
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 20308,
+      "end_char": 20329
+    },
+    {
+      "text": "Section 6",
+      "label": "PROVISION",
+      "start_char": 20403,
+      "end_char": 20412
+    },
+    {
+      "text": "Kanchanganga Realtors Pvt",
+      "label": "ORG",
+      "start_char": 20582,
+      "end_char": 20607
+    },
+    {
+      "text": "Ltd. V/s Monarch Infrastructure reported in AIR 2019 Bom 102",
+      "label": "PRECEDENT",
+      "start_char": 20609,
+      "end_char": 20669
+    },
+    {
+      "text": "08.02.2019",
+      "label": "DATE",
+      "start_char": 20743,
+      "end_char": 20753
+    },
+    {
+      "text": "Vasu Healthcare",
+      "label": "PRECEDENT",
+      "start_char": 20807,
+      "end_char": 20822
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 20864,
+      "end_char": 20877
+    },
+    {
+      "text": "Ambalal Sarabhai",
+      "label": "OTHER_PERSON",
+      "start_char": 20930,
+      "end_char": 20946
+    },
+    {
+      "text": "04.10.2019",
+      "label": "DATE",
+      "start_char": 20958,
+      "end_char": 20968
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 20982,
+      "end_char": 20995
+    },
+    {
+      "text": "Gujarat High Court",
+      "label": "COURT",
+      "start_char": 21027,
+      "end_char": 21045
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 21118,
+      "end_char": 21139
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 21181,
+      "end_char": 21194
+    },
+    {
+      "text": "Kanchanganga",
+      "label": "OTHER_PERSON",
+      "start_char": 21239,
+      "end_char": 21251
+    },
+    {
+      "text": "Kanchanganga",
+      "label": "PRECEDENT",
+      "start_char": 21296,
+      "end_char": 21308
+    },
+    {
+      "text": "section 15",
+      "label": "PROVISION",
+      "start_char": 21353,
+      "end_char": 21363
+    },
+    {
+      "text": "section 6",
+      "label": "PROVISION",
+      "start_char": 21417,
+      "end_char": 21426
+    },
+    {
+      "text": "section 15",
+      "label": "PROVISION",
+      "start_char": 21478,
+      "end_char": 21488
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 21711,
+      "end_char": 21728
+    },
+    {
+      "text": "Vaijinath Kale Vs.",
+      "label": "PRECEDENT",
+      "start_char": 21873,
+      "end_char": 21891
+    },
+    {
+      "text": "Nerkar Property LLP",
+      "label": "ORG",
+      "start_char": 21892,
+      "end_char": 21911
+    },
+    {
+      "text": "2021 (3) Mh.L.J. 202",
+      "label": "PRECEDENT",
+      "start_char": 21924,
+      "end_char": 21944
+    },
+    {
+      "text": "MIDC",
+      "label": "ORG",
+      "start_char": 22335,
+      "end_char": 22339
+    },
+    {
+      "text": "SICOM Ltd.",
+      "label": "ORG",
+      "start_char": 22344,
+      "end_char": 22354
+    },
+    {
+      "text": "MIDC",
+      "label": "ORG",
+      "start_char": 22756,
+      "end_char": 22760
+    },
+    {
+      "text": "SICOM",
+      "label": "ORG",
+      "start_char": 22765,
+      "end_char": 22770
+    },
+    {
+      "text": "Section 2 (c)",
+      "label": "PROVISION",
+      "start_char": 23288,
+      "end_char": 23301
+    },
+    {
+      "text": "clause (c) of Section 2",
+      "label": "PROVISION",
+      "start_char": 24376,
+      "end_char": 24399
+    },
+    {
+      "text": "sub- clause (vi) of clause (c) of Section 1",
+      "label": "PROVISION",
+      "start_char": 24537,
+      "end_char": 24580
+    },
+    {
+      "text": "Ajanta and Goldendreams",
+      "label": "ORG",
+      "start_char": 24829,
+      "end_char": 24852
+    },
+    {
+      "text": "26.12.2009",
+      "label": "DATE",
+      "start_char": 24910,
+      "end_char": 24920
+    },
+    {
+      "text": "Ajanta",
+      "label": "OTHER_PERSON",
+      "start_char": 25598,
+      "end_char": 25604
+    },
+    {
+      "text": "Ajanta",
+      "label": "OTHER_PERSON",
+      "start_char": 25827,
+      "end_char": 25833
+    },
+    {
+      "text": "Ajanta",
+      "label": "OTHER_PERSON",
+      "start_char": 26960,
+      "end_char": 26966
+    },
+    {
+      "text": "26.12.2009",
+      "label": "DATE",
+      "start_char": 27262,
+      "end_char": 27272
+    },
+    {
+      "text": "MIDC Chikalthana",
+      "label": "ORG",
+      "start_char": 27406,
+      "end_char": 27422
+    },
+    {
+      "text": "Aurangabad",
+      "label": "GPE",
+      "start_char": 27424,
+      "end_char": 27434
+    },
+    {
+      "text": "Aurangabad",
+      "label": "GPE",
+      "start_char": 27447,
+      "end_char": 27457
+    },
+    {
+      "text": "Section 2 (c) (i), (vi), (vii), (xi) and Explanation (a)",
+      "label": "PROVISION",
+      "start_char": 27779,
+      "end_char": 27835
+    },
+    {
+      "text": "Commercial Court Act, 2015",
+      "label": "STATUTE",
+      "start_char": 27839,
+      "end_char": 27865
+    },
+    {
+      "text": "Order VII Rule 10 and 11",
+      "label": "PROVISION",
+      "start_char": 27876,
+      "end_char": 27900
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 27908,
+      "end_char": 27911
+    },
+    {
+      "text": "26.12.200",
+      "label": "DATE",
+      "start_char": 28532,
+      "end_char": 28541
+    },
+    {
+      "text": "Commercial Court Act, 2015",
+      "label": "STATUTE",
+      "start_char": 28909,
+      "end_char": 28935
+    },
+    {
+      "text": "sub-clause (vi) of clause (c) of the Section 1",
+      "label": "PROVISION",
+      "start_char": 29084,
+      "end_char": 29130
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 29259,
+      "end_char": 29286
+    },
+    {
+      "text": "26.12.2009",
+      "label": "DATE",
+      "start_char": 29335,
+      "end_char": 29345
+    },
+    {
+      "text": "sub-clause (vi) of Section 2 (1) (c)",
+      "label": "PROVISION",
+      "start_char": 29415,
+      "end_char": 29451
+    },
+    {
+      "text": "Clause (vi) of Section 2 (1) (c)",
+      "label": "PROVISION",
+      "start_char": 29531,
+      "end_char": 29563
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 29664,
+      "end_char": 29677
+    },
+    {
+      "text": "Sushil Kumar Agarwal Vs.",
+      "label": "PRECEDENT",
+      "start_char": 29693,
+      "end_char": 29717
+    },
+    {
+      "text": "Meenakshi Sadhu",
+      "label": "OTHER_PERSON",
+      "start_char": 29718,
+      "end_char": 29733
+    },
+    {
+      "text": "MANU/SC/1144/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 29753,
+      "end_char": 29770
+    },
+    {
+      "text": "[2019] 2 SCC 241",
+      "label": "CASE_NUMBER",
+      "start_char": 29785,
+      "end_char": 29801
+    },
+    {
+      "text": "B. Gangadhar v. BG Rajalingam MANU/SC/0212/1996 : (1995) 5 SCC 239",
+      "label": "PRECEDENT",
+      "start_char": 33508,
+      "end_char": 33574
+    },
+    {
+      "text": "Swadesh Ranjan Sinha v. Haradeb Banerjee MANU/SC/0305/1992 :\n(1991)",
+      "label": "PRECEDENT",
+      "start_char": 34064,
+      "end_char": 34131
+    },
+    {
+      "text": "SCC 572)",
+      "label": "CASE_NUMBER",
+      "start_char": 34134,
+      "end_char": 34142
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 35988,
+      "end_char": 36001
+    },
+    {
+      "text": "Sushil Kumar Agarwal",
+      "label": "OTHER_PERSON",
+      "start_char": 36023,
+      "end_char": 36043
+    },
+    {
+      "text": "26.12.2009",
+      "label": "DATE",
+      "start_char": 37170,
+      "end_char": 37180
+    },
+    {
+      "text": "26.12.2009",
+      "label": "DATE",
+      "start_char": 37802,
+      "end_char": 37812
+    },
+    {
+      "text": "26.12.2009",
+      "label": "DATE",
+      "start_char": 38144,
+      "end_char": 38154
+    },
+    {
+      "text": "26.12.2009",
+      "label": "DATE",
+      "start_char": 38400,
+      "end_char": 38410
+    },
+    {
+      "text": "Section 2 (1) (c) (vii)",
+      "label": "PROVISION",
+      "start_char": 38440,
+      "end_char": 38463
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 38471,
+      "end_char": 38492
+    },
+    {
+      "text": "Section 2 (1) (c) (vi)",
+      "label": "PROVISION",
+      "start_char": 38519,
+      "end_char": 38541
+    },
+    {
+      "text": "Clause (vii) of Section 2 (1) (c)",
+      "label": "PROVISION",
+      "start_char": 38655,
+      "end_char": 38688
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 38696,
+      "end_char": 38723
+    },
+    {
+      "text": "clause (vi) of Section 2 (1) (c)",
+      "label": "PROVISION",
+      "start_char": 38909,
+      "end_char": 38941
+    },
+    {
+      "text": "clause (vii) of Section 2 (1) (c)",
+      "label": "PROVISION",
+      "start_char": 39004,
+      "end_char": 39037
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 39045,
+      "end_char": 39072
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 39143,
+      "end_char": 39156
+    },
+    {
+      "text": "Ambalal Sarabhai Enterprises Ltd.",
+      "label": "ORG",
+      "start_char": 39172,
+      "end_char": 39205
+    },
+    {
+      "text": "V. K.S.Infraspace LLP",
+      "label": "OTHER_PERSON",
+      "start_char": 39206,
+      "end_char": 39227
+    },
+    {
+      "text": "2019 STPL 11111 SC [equivalent :\n[2020] 15 SCC 585",
+      "label": "CASE_NUMBER",
+      "start_char": 39252,
+      "end_char": 39302
+    },
+    {
+      "text": "sub-clause (vii) of Section 2 (1) (c)",
+      "label": "PROVISION",
+      "start_char": 39486,
+      "end_char": 39523
+    },
+    {
+      "text": "Clause (vii) of Section 2 (1) (c)",
+      "label": "PROVISION",
+      "start_char": 40223,
+      "end_char": 40256
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 40264,
+      "end_char": 40291
+    },
+    {
+      "text": "04.05.2023",
+      "label": "DATE",
+      "start_char": 40327,
+      "end_char": 40337
+    },
+    {
+      "text": "8th Joint Civil Judge Senior Division, Aurangabad",
+      "label": "COURT",
+      "start_char": 40352,
+      "end_char": 40401
+    },
+    {
+      "text": "Special Civil Suit No.162 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 40418,
+      "end_char": 40451
+    },
+    {
+      "text": "Order 7 Rule 10 and 11",
+      "label": "PROVISION",
+      "start_char": 40570,
+      "end_char": 40592
+    },
+    {
+      "text": "Civil Procedure Code",
+      "label": "STATUTE",
+      "start_char": 40600,
+      "end_char": 40620
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 40631,
+      "end_char": 40640
+    },
+    {
+      "text": "Commercial Act",
+      "label": "STATUTE",
+      "start_char": 40648,
+      "end_char": 40662
+    },
+    {
+      "text": "Section 6",
+      "label": "PROVISION",
+      "start_char": 40677,
+      "end_char": 40686
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 40694,
+      "end_char": 40721
+    },
+    {
+      "text": "clause (vii) of Section 2 (1)\n",
+      "label": "PROVISION",
+      "start_char": 40938,
+      "end_char": 40968
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 40979,
+      "end_char": 41006
+    },
+    {
+      "text": "Section 6",
+      "label": "PROVISION",
+      "start_char": 41144,
+      "end_char": 41153
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 41161,
+      "end_char": 41182
+    },
+    {
+      "text": "section 9",
+      "label": "PROVISION",
+      "start_char": 41377,
+      "end_char": 41386
+    },
+    {
+      "text": "Civil Procedure Code",
+      "label": "STATUTE",
+      "start_char": 41394,
+      "end_char": 41414
+    },
+    {
+      "text": "Dhulabai Vs.",
+      "label": "PRECEDENT",
+      "start_char": 41612,
+      "end_char": 41624
+    },
+    {
+      "text": "State of M.P., AIR 1969 SC 78]",
+      "label": "PRECEDENT",
+      "start_char": 41625,
+      "end_char": 41655
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 41881,
+      "end_char": 41891
+    },
+    {
+      "text": "Section 15 (5)",
+      "label": "PROVISION",
+      "start_char": 42032,
+      "end_char": 42046
+    },
+    {
+      "text": "Section 6",
+      "label": "PROVISION",
+      "start_char": 42266,
+      "end_char": 42275
+    },
+    {
+      "text": "04.05.2023",
+      "label": "DATE",
+      "start_char": 42499,
+      "end_char": 42509
+    },
+    {
+      "text": "Aurangabad",
+      "label": "GPE",
+      "start_char": 42563,
+      "end_char": 42573
+    },
+    {
+      "text": "Special Civil Suit No.162 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 42590,
+      "end_char": 42623
+    },
+    {
+      "text": "Order VII Rule 10 and 11 34.23AO",
+      "label": "PROVISION",
+      "start_char": 42774,
+      "end_char": 42806
+    },
+    {
+      "text": "Civil Procedure Code",
+      "label": "STATUTE",
+      "start_char": 42810,
+      "end_char": 42830
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 42841,
+      "end_char": 42850
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 42858,
+      "end_char": 42885
+    },
+    {
+      "text": "30.11.2023",
+      "label": "DATE",
+      "start_char": 42986,
+      "end_char": 42996
+    },
+    {
+      "text": "ARUN R. PEDNEKER",
+      "label": "JUDGE",
+      "start_char": 43213,
+      "end_char": 43229
+    }
+  ],
+  "precedent_clusters": {
+    "Swadesh Ranjan Sinha v. Haradeb Banerjee MANU/SC/0305/1992 :\n(1991)": [
+      "Dhulabhai Vs.",
+      "Vaijinath Kale Vs.",
+      "Sushil Kumar Agarwal Vs.",
+      "Swadesh Ranjan Sinha v. Haradeb Banerjee MANU/SC/0305/1992 :\n(1991)",
+      "Dhulabai Vs."
+    ],
+    "State of M.P. reported in AIR 1969 SC 78": [
+      "State of M.P. reported in AIR 1969 SC 78",
+      "State of M.P., AIR 1969 SC 78]"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 2 (c), (i), (vi), (vii), (xi) and explanation (a)",
+      "Commercial Court Act, 2015",
+      "Section 2 (c), (i), (vi), (vii), (xi) and explanation (a)",
+      "Commercial Court Act, 2015"
+    ],
+    [
+      "Order VII Rule 10 and 11",
+      "Code of Civil Procedure",
+      "Order VII Rule 10 and 11",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 3",
+      "Commercial Courts Act, 2015",
+      "Section 3",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Order VII Rule 10 and 11",
+      "Code of Civil Procedure",
+      "Order VII Rule 10 and 11",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 3",
+      "Commercial Courts Act, 2015",
+      "Section 3",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 2 (1) (c)",
+      "Commercial Courts Act, 2015",
+      "Section 2 (1) (c)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Sections 16 to 20",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "Sections 16 to 20",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "Section 15",
+      "Commercial Courts Act, 2015",
+      "Section 15",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "section 2 (1) (c) (vii)",
+      "Commercial Courts Act",
+      "section 2 (1) (c) (vii)",
+      "Commercial Courts Act"
+    ],
+    [
+      "clause xi of Section 2 (1) (c)",
+      "Commercial Courts Act",
+      "clause xi of Section 2 (1) (c)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 2 (1) (c)",
+      "Commercial Courts Act",
+      "Section 2 (1) (c)",
+      "Commercial Courts Act"
+    ],
+    [
+      "section 6",
+      "Commercial Courts Act",
+      "section 6",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 15",
+      "Commercial Courts Act",
+      "Section 15",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 15 (5)",
+      "Commercial Courts Act",
+      "Section 15 (5)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 2 (c) (i), (vi), (vii), (xi) and Explanation (a)",
+      "Commercial Court Act, 2015",
+      "Section 2 (c) (i), (vi), (vii), (xi) and Explanation (a)",
+      "Commercial Court Act, 2015"
+    ],
+    [
+      "Order VII Rule 10 and 11",
+      "CPC",
+      "Order VII Rule 10 and 11",
+      "CPC"
+    ],
+    [
+      "Section 2 (1) (c) (vii)",
+      "Commercial Courts Act",
+      "Section 2 (1) (c) (vii)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Clause (vii) of Section 2 (1) (c)",
+      "Commercial Courts Act, 2015",
+      "Clause (vii) of Section 2 (1) (c)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "clause (vii) of Section 2 (1) (c)",
+      "Commercial Courts Act, 2015",
+      "clause (vii) of Section 2 (1) (c)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Clause (vii) of Section 2 (1) (c)",
+      "Commercial Courts Act, 2015",
+      "Clause (vii) of Section 2 (1) (c)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Order 7 Rule 10 and 11",
+      "Civil Procedure Code",
+      "Order 7 Rule 10 and 11",
+      "Civil Procedure Code"
+    ],
+    [
+      "Section 3",
+      "Commercial Act",
+      "Section 3",
+      "Commercial Act"
+    ],
+    [
+      "Section 6",
+      "Commercial Courts Act, 2015",
+      "Section 6",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "clause (vii) of Section 2 (1)\n",
+      "Commercial Courts Act, 2015",
+      "clause (vii) of Section 2 (1)\n",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 6",
+      "Commercial Courts Act",
+      "Section 6",
+      "Commercial Courts Act"
+    ],
+    [
+      "section 9",
+      "Civil Procedure Code",
+      "section 9",
+      "Civil Procedure Code"
+    ],
+    [
+      "Order VII Rule 10 and 11 34.23AO",
+      "Civil Procedure Code",
+      "Order VII Rule 10 and 11 34.23AO",
+      "Civil Procedure Code"
+    ],
+    [
+      "Section 3",
+      "Commercial Courts Act, 2015",
+      "Section 3",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 6",
+      "Commercial Courts Act",
+      "Section 6",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 2 (1) (c)",
+      "Commercial Courts Act",
+      "Section 2 (1) (c)",
+      "Commercial Courts Act"
+    ],
+    [
+      "clause (vii) of Section 2 (1) (c)",
+      "Commercial Courts Act",
+      "clause (vii) of Section 2 (1) (c)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 6",
+      "Commercial Courts Act",
+      "Section 6",
+      "Commercial Courts Act"
+    ],
+    [
+      "section 15",
+      "Commercial Courts Act",
+      "section 15",
+      "Commercial Courts Act"
+    ],
+    [
+      "section 6",
+      "Commercial Courts Act",
+      "section 6",
+      "Commercial Courts Act"
+    ],
+    [
+      "section 15",
+      "Commercial Courts Act",
+      "section 15",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order VII Rule 10",
+      "Code of Civil Procedure",
+      "Order VII Rule 10",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 2 (c)",
+      "Commercial Courts Act",
+      "Section 2 (c)",
+      "Commercial Courts Act"
+    ],
+    [
+      "clause (c) of Section 2",
+      "Commercial Courts Act",
+      "clause (c) of Section 2",
+      "Commercial Courts Act"
+    ],
+    [
+      "sub-clause (vi) of clause (c) of the Section 1",
+      "Commercial Courts Act",
+      "sub-clause (vi) of clause (c) of the Section 1",
+      "Commercial Courts Act"
+    ],
+    [
+      "sub-clause (vi) of Section 2 (1) (c)",
+      "Commercial Courts Act, 2015",
+      "sub-clause (vi) of Section 2 (1) (c)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Clause (vi) of Section 2 (1) (c)",
+      "Commercial Courts Act, 2015",
+      "Clause (vi) of Section 2 (1) (c)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 2 (1) (c) (vi)",
+      "Commercial Courts Act",
+      "Section 2 (1) (c) (vi)",
+      "Commercial Courts Act"
+    ],
+    [
+      "clause (vi) of Section 2 (1) (c)",
+      "Commercial Courts Act, 2015",
+      "clause (vi) of Section 2 (1) (c)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "sub-clause (vii) of Section 2 (1) (c)",
+      "Commercial Courts Act, 2015",
+      "sub-clause (vii) of Section 2 (1) (c)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 15",
+      "Commercial Courts Act",
+      "Section 15",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 15 (5)",
+      "Commercial Courts Act",
+      "Section 15 (5)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 6",
+      "Commercial Courts Act, 2015",
+      "Section 6",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "sub- clause (vi) of clause (c) of Section 1",
+      "Commercial Courts Act",
+      "sub- clause (vi) of clause (c) of Section 1",
+      "Commercial Courts Act"
+    ]
+  ],
+  "precedent_counts": {
+    "Swadesh Ranjan Sinha v. Haradeb Banerjee MANU/SC/0305/1992 :\n(1991)": 5,
+    "State of M.P. reported in AIR 1969 SC 78": 2
+  },
+  "provision_counts": {
+    "Section 2 (c), (i), (vi), (vii), (xi) and explanation (a) of Commercial Court Act, 2015": 1,
+    "Order VII Rule 10 and 11 of Code of Civil Procedure": 2,
+    "Section 3 of Commercial Courts Act, 2015": 3,
+    "Section 2 (1) (c) of Commercial Courts Act, 2015": 1,
+    "Sections 16 to 20 of Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Section 15 of Commercial Courts Act, 2015": 1,
+    "section 2 (1) (c) (vii) of Commercial Courts Act": 1,
+    "clause xi of Section 2 (1) (c) of Commercial Courts Act": 1,
+    "Section 2 (1) (c) of Commercial Courts Act": 2,
+    "section 6 of Commercial Courts Act": 2,
+    "Section 15 of Commercial Courts Act": 2,
+    "Section 15 (5) of Commercial Courts Act": 2,
+    "Section 2 (c) (i), (vi), (vii), (xi) and Explanation (a) of Commercial Court Act, 2015": 1,
+    "Order VII Rule 10 and 11 of CPC": 1,
+    "Section 2 (1) (c) (vii) of Commercial Courts Act": 1,
+    "Clause (vii) of Section 2 (1) (c) of Commercial Courts Act, 2015": 2,
+    "clause (vii) of Section 2 (1) (c) of Commercial Courts Act, 2015": 1,
+    "Order 7 Rule 10 and 11 of Civil Procedure Code": 1,
+    "Section 3 of Commercial Act": 1,
+    "Section 6 of Commercial Courts Act, 2015": 2,
+    "clause (vii) of Section 2 (1)\n of Commercial Courts Act, 2015": 1,
+    "Section 6 of Commercial Courts Act": 3,
+    "section 9 of Civil Procedure Code": 1,
+    "Order VII Rule 10 and 11 34.23AO of Civil Procedure Code": 1,
+    "clause (vii) of Section 2 (1) (c) of Commercial Courts Act": 1,
+    "section 15 of Commercial Courts Act": 2,
+    "Order VII Rule 10 of Code of Civil Procedure": 1,
+    "Section 2 (c) of Commercial Courts Act": 1,
+    "clause (c) of Section 2 of Commercial Courts Act": 1,
+    "sub-clause (vi) of clause (c) of the Section 1 of Commercial Courts Act": 1,
+    "sub-clause (vi) of Section 2 (1) (c) of Commercial Courts Act, 2015": 1,
+    "Clause (vi) of Section 2 (1) (c) of Commercial Courts Act, 2015": 1,
+    "Section 2 (1) (c) (vi) of Commercial Courts Act": 1,
+    "clause (vi) of Section 2 (1) (c) of Commercial Courts Act, 2015": 1,
+    "sub-clause (vii) of Section 2 (1) (c) of Commercial Courts Act, 2015": 1,
+    "sub- clause (vi) of clause (c) of Section 1 of Commercial Courts Act": 1
+  },
+  "statute_counts": {
+    "Commercial Court Act, 2015": 2,
+    "Code of Civil Procedure": 3,
+    "Commercial Courts Act, 2015": 15,
+    "Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Commercial Courts Act": 22,
+    "CPC": 1,
+    "Civil Procedure Code": 3,
+    "Commercial Act": 1
+  }
+}

@@ -1,0 +1,846 @@
+{
+  "entities": [
+    {
+      "text": "Gujarat High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 18
+    },
+    {
+      "text": "Group Seb (India) Private Limited",
+      "label": "PRECEDENT",
+      "start_char": 19,
+      "end_char": 52
+    },
+    {
+      "text": "Symphony Limited",
+      "label": "RESPONDENT",
+      "start_char": 60,
+      "end_char": 76
+    },
+    {
+      "text": "M.R. Shah",
+      "label": "JUDGE",
+      "start_char": 101,
+      "end_char": 110
+    },
+    {
+      "text": "A.Y. Kogje",
+      "label": "JUDGE",
+      "start_char": 112,
+      "end_char": 122
+    },
+    {
+      "text": "HIGH COURT OF GUJARAT AT AHMEDABAD",
+      "label": "COURT",
+      "start_char": 227,
+      "end_char": 261
+    },
+    {
+      "text": "M.R. SHAH",
+      "label": "JUDGE",
+      "start_char": 468,
+      "end_char": 477
+    },
+    {
+      "text": "A.Y. KOGJE",
+      "label": "JUDGE",
+      "start_char": 555,
+      "end_char": 565
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 1092,
+      "end_char": 1113
+    },
+    {
+      "text": "SYMPHONY LIMITED",
+      "label": "ORG",
+      "start_char": 1351,
+      "end_char": 1367
+    },
+    {
+      "text": "SHALIN MEHTA",
+      "label": "LAWYER",
+      "start_char": 1452,
+      "end_char": 1464
+    },
+    {
+      "text": "TANVISH U BHATT",
+      "label": "LAWYER",
+      "start_char": 1491,
+      "end_char": 1506
+    },
+    {
+      "text": "JAY KANSARA",
+      "label": "LAWYER",
+      "start_char": 1511,
+      "end_char": 1522
+    },
+    {
+      "text": "GEETANJALI   VISHVANATHA",
+      "label": "LAWYER",
+      "start_char": 1535,
+      "end_char": 1559
+    },
+    {
+      "text": "KAMAL TRIVEDI",
+      "label": "LAWYER",
+      "start_char": 1639,
+      "end_char": 1652
+    },
+    {
+      "text": "SUDHIR NANAVATI",
+      "label": "LAWYER",
+      "start_char": 1678,
+      "end_char": 1693
+    },
+    {
+      "text": "PRACHITI SHAH",
+      "label": "LAWYER",
+      "start_char": 1716,
+      "end_char": 1729
+    },
+    {
+      "text": "ANUJA S NANAVATI(5229",
+      "label": "LAWYER",
+      "start_char": 1737,
+      "end_char": 1758
+    },
+    {
+      "text": "M.R. SHAH",
+      "label": "JUDGE",
+      "start_char": 1986,
+      "end_char": 1995
+    },
+    {
+      "text": "A.Y. KOGJE",
+      "label": "JUDGE",
+      "start_char": 2044,
+      "end_char": 2054
+    },
+    {
+      "text": "M.R. SHAH",
+      "label": "JUDGE",
+      "start_char": 2184,
+      "end_char": 2193
+    },
+    {
+      "text": "08.08.2017",
+      "label": "DATE",
+      "start_char": 2267,
+      "end_char": 2277
+    },
+    {
+      "text": "Commercial Court, City Civil  Court,   Ahmedabad",
+      "label": "COURT",
+      "start_char": 2307,
+      "end_char": 2355
+    },
+    {
+      "text": "Commercial   Trade   Mark   Suit  No.8/2017",
+      "label": "CASE_NUMBER",
+      "start_char": 2382,
+      "end_char": 2425
+    },
+    {
+      "text": "Commercial Trade Mark Suit No.8/2017",
+      "label": "CASE_NUMBER",
+      "start_char": 2953,
+      "end_char": 2989
+    },
+    {
+      "text": "Commercial Court, Ahmedabad",
+      "label": "COURT",
+      "start_char": 3048,
+      "end_char": 3075
+    },
+    {
+      "text": "Blizzard 20 and Blizzard 20 DLX",
+      "label": "PROVISION",
+      "start_char": 3704,
+      "end_char": 3735
+    },
+    {
+      "text": "Sanskrut  Comfort Systems Pvt. Ltd.",
+      "label": "ORG",
+      "start_char": 3906,
+      "end_char": 3941
+    },
+    {
+      "text": "Sanskrut Comfort Systems  Pvt",
+      "label": "ORG",
+      "start_char": 4102,
+      "end_char": 4131
+    },
+    {
+      "text": "Symphony Comfort Systems Ltd.",
+      "label": "ORG",
+      "start_char": 4141,
+      "end_char": 4170
+    },
+    {
+      "text": "Ministry   of   Commerce   and   Industry,   Government   of   India",
+      "label": "ORG",
+      "start_char": 5059,
+      "end_char": 5127
+    },
+    {
+      "text": "Achal   Bakeri",
+      "label": "OTHER_PERSON",
+      "start_char": 5886,
+      "end_char": 5900
+    },
+    {
+      "text": "05.02.2009",
+      "label": "DATE",
+      "start_char": 6389,
+      "end_char": 6399
+    },
+    {
+      "text": "29.01.2009",
+      "label": "DATE",
+      "start_char": 6527,
+      "end_char": 6537
+    },
+    {
+      "text": "Maharaja Whiteline Blizzard",
+      "label": "OTHER_PERSON",
+      "start_char": 10372,
+      "end_char": 10399
+    },
+    {
+      "text": "Blizzard",
+      "label": "ORG",
+      "start_char": 10407,
+      "end_char": 10415
+    },
+    {
+      "text": "Blizzard",
+      "label": "ORG",
+      "start_char": 10432,
+      "end_char": 10440
+    },
+    {
+      "text": "Blizzard",
+      "label": "ORG",
+      "start_char": 10448,
+      "end_char": 10456
+    },
+    {
+      "text": "Maharaja Whiteline Industries Pvt",
+      "label": "ORG",
+      "start_char": 11317,
+      "end_char": 11350
+    },
+    {
+      "text": "Group SEB, France",
+      "label": "ORG",
+      "start_char": 11398,
+      "end_char": 11415
+    },
+    {
+      "text": "SEB",
+      "label": "ORG",
+      "start_char": 11483,
+      "end_char": 11486
+    },
+    {
+      "text": "Designs Act,  2000",
+      "label": "STATUTE",
+      "start_char": 13628,
+      "end_char": 13646
+    },
+    {
+      "text": "Section 19",
+      "label": "PROVISION",
+      "start_char": 14154,
+      "end_char": 14164
+    },
+    {
+      "text": "Designs   Act,   2000",
+      "label": "STATUTE",
+      "start_char": 14177,
+      "end_char": 14198
+    },
+    {
+      "text": "Maharaja   Whiteline   Blizzard",
+      "label": "ORG",
+      "start_char": 17874,
+      "end_char": 17905
+    },
+    {
+      "text": "Maharaja Whiteline Blizzard",
+      "label": "ORG",
+      "start_char": 17924,
+      "end_char": 17951
+    },
+    {
+      "text": "28.03.2017",
+      "label": "DATE",
+      "start_char": 19715,
+      "end_char": 19725
+    },
+    {
+      "text": "Shalin   Mehta",
+      "label": "LAWYER",
+      "start_char": 20453,
+      "end_char": 20467
+    },
+    {
+      "text": "Kamal  Trivedi",
+      "label": "LAWYER",
+      "start_char": 20588,
+      "end_char": 20602
+    },
+    {
+      "text": "Mehta",
+      "label": "LAWYER",
+      "start_char": 20734,
+      "end_char": 20739
+    },
+    {
+      "text": "Mehta",
+      "label": "LAWYER",
+      "start_char": 21235,
+      "end_char": 21240
+    },
+    {
+      "text": "Maharaja Whiteline",
+      "label": "RESPONDENT",
+      "start_char": 21750,
+      "end_char": 21768
+    },
+    {
+      "text": "Blizzard 20 and",
+      "label": "DATE",
+      "start_char": 21810,
+      "end_char": 21825
+    },
+    {
+      "text": "Mehta",
+      "label": "LAWYER",
+      "start_char": 21893,
+      "end_char": 21898
+    },
+    {
+      "text": "Maharaja Whiteline Blizzard",
+      "label": "ORG",
+      "start_char": 22177,
+      "end_char": 22204
+    },
+    {
+      "text": "Maharaja Blizzard",
+      "label": "ORG",
+      "start_char": 22378,
+      "end_char": 22395
+    },
+    {
+      "text": "Mehta",
+      "label": "LAWYER",
+      "start_char": 23248,
+      "end_char": 23253
+    },
+    {
+      "text": "Mehta",
+      "label": "LAWYER",
+      "start_char": 23584,
+      "end_char": 23589
+    },
+    {
+      "text": "Mehta",
+      "label": "LAWYER",
+      "start_char": 23891,
+      "end_char": 23896
+    },
+    {
+      "text": "Mehta",
+      "label": "LAWYER",
+      "start_char": 24594,
+      "end_char": 24599
+    },
+    {
+      "text": "Mehta",
+      "label": "LAWYER",
+      "start_char": 25250,
+      "end_char": 25255
+    },
+    {
+      "text": "Mehta",
+      "label": "LAWYER",
+      "start_char": 25753,
+      "end_char": 25758
+    },
+    {
+      "text": "Mehta",
+      "label": "LAWYER",
+      "start_char": 26298,
+      "end_char": 26303
+    },
+    {
+      "text": "Mehta",
+      "label": "LAWYER",
+      "start_char": 26623,
+      "end_char": 26628
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 26871,
+      "end_char": 26876
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 27018,
+      "end_char": 27023
+    },
+    {
+      "text": "Mehta",
+      "label": "LAWYER",
+      "start_char": 27412,
+      "end_char": 27417
+    },
+    {
+      "text": "Mehta",
+      "label": "LAWYER",
+      "start_char": 28133,
+      "end_char": 28138
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 28457,
+      "end_char": 28462
+    },
+    {
+      "text": "Mehta",
+      "label": "LAWYER",
+      "start_char": 29262,
+      "end_char": 29267
+    },
+    {
+      "text": "Mehta",
+      "label": "LAWYER",
+      "start_char": 30239,
+      "end_char": 30244
+    },
+    {
+      "text": "Blizzard",
+      "label": "ORG",
+      "start_char": 30816,
+      "end_char": 30824
+    },
+    {
+      "text": "Mehta",
+      "label": "LAWYER",
+      "start_char": 31544,
+      "end_char": 31549
+    },
+    {
+      "text": "Maharaja Whiteline",
+      "label": "RESPONDENT",
+      "start_char": 31812,
+      "end_char": 31830
+    },
+    {
+      "text": "Maharaja Whiteline Blizzard",
+      "label": "RESPONDENT",
+      "start_char": 32499,
+      "end_char": 32526
+    },
+    {
+      "text": "Torrent Pharmaceuticals Ltd. vs. Wockhardt Ltd. 2017 SCC Online Bom 318",
+      "label": "PRECEDENT",
+      "start_char": 33214,
+      "end_char": 33285
+    },
+    {
+      "text": "Britannia Industries Ltd. V/s. ITC Limited 2017 SCC Online Del 7391 3",
+      "label": "PRECEDENT",
+      "start_char": 33290,
+      "end_char": 33359
+    },
+    {
+      "text": "Techno Plastic Industries vs. Dart Industries Inc. & Anr",
+      "label": "PRECEDENT",
+      "start_char": 33361,
+      "end_char": 33417
+    },
+    {
+      "text": "2017 SCC Online Madras 1447",
+      "label": "PRECEDENT",
+      "start_char": 33419,
+      "end_char": 33446
+    },
+    {
+      "text": "Smithkline Beecham",
+      "label": "OTHER_PERSON",
+      "start_char": 33455,
+      "end_char": 33473
+    },
+    {
+      "text": "Hindustan Lever  Limited",
+      "label": "RESPONDENT",
+      "start_char": 33497,
+      "end_char": 33521
+    },
+    {
+      "text": "2000 (52) DRJ",
+      "label": "PRECEDENT",
+      "start_char": 33532,
+      "end_char": 33545
+    },
+    {
+      "text": "Toyota Jidosha Kabushiki Kaisha vs. Prius Auto Industries Limited  and Ors",
+      "label": "PRECEDENT",
+      "start_char": 33550,
+      "end_char": 33624
+    },
+    {
+      "text": "(2018) 2 SCC 1 6",
+      "label": "PRECEDENT",
+      "start_char": 33627,
+      "end_char": 33643
+    },
+    {
+      "text": "BDA Pvt",
+      "label": "ORG",
+      "start_char": 33645,
+      "end_char": 33652
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 33706,
+      "end_char": 33722
+    },
+    {
+      "text": "Kamal   Trivedi",
+      "label": "LAWYER",
+      "start_char": 33789,
+      "end_char": 33804
+    },
+    {
+      "text": "Trivedi",
+      "label": "LAWYER",
+      "start_char": 33882,
+      "end_char": 33889
+    },
+    {
+      "text": "Trivedi",
+      "label": "LAWYER",
+      "start_char": 34626,
+      "end_char": 34633
+    },
+    {
+      "text": "Trivedi",
+      "label": "LAWYER",
+      "start_char": 35108,
+      "end_char": 35115
+    },
+    {
+      "text": "Trivedi",
+      "label": "LAWYER",
+      "start_char": 35609,
+      "end_char": 35616
+    },
+    {
+      "text": "Trivedi",
+      "label": "LAWYER",
+      "start_char": 36066,
+      "end_char": 36073
+    },
+    {
+      "text": "Trivedi",
+      "label": "LAWYER",
+      "start_char": 36596,
+      "end_char": 36603
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 36927,
+      "end_char": 36940
+    },
+    {
+      "text": "Trivedi",
+      "label": "LAWYER",
+      "start_char": 37782,
+      "end_char": 37789
+    },
+    {
+      "text": "Trivedi",
+      "label": "LAWYER",
+      "start_char": 39068,
+      "end_char": 39075
+    },
+    {
+      "text": "Trivedi",
+      "label": "LAWYER",
+      "start_char": 39378,
+      "end_char": 39385
+    },
+    {
+      "text": "Trivedi",
+      "label": "LAWYER",
+      "start_char": 39677,
+      "end_char": 39684
+    },
+    {
+      "text": "Trivedi",
+      "label": "LAWYER",
+      "start_char": 40419,
+      "end_char": 40426
+    },
+    {
+      "text": "Toyota Jidosha Kabushiki Kaisha vs. Prius Auto Industries Limited  and Ors",
+      "label": "PRECEDENT",
+      "start_char": 41060,
+      "end_char": 41134
+    },
+    {
+      "text": "SCC 1 (Para 37",
+      "label": "CASE_NUMBER",
+      "start_char": 41146,
+      "end_char": 41160
+    },
+    {
+      "text": "Gorbatschow Wodka KG vs. John Distilleries Ltd. 2011 (4) Mah",
+      "label": "PRECEDENT",
+      "start_char": 41165,
+      "end_char": 41225
+    },
+    {
+      "text": "Mohan   Lal",
+      "label": "OTHER_PERSON",
+      "start_char": 41239,
+      "end_char": 41250
+    },
+    {
+      "text": "Mourya   Industries  vs.   Sona  Paint  and  Hardware AIR 2013 Delhi 143 4",
+      "label": "PRECEDENT",
+      "start_char": 41270,
+      "end_char": 41344
+    },
+    {
+      "text": "Nirma Chemical Works Pvt",
+      "label": "ORG",
+      "start_char": 41346,
+      "end_char": 41370
+    },
+    {
+      "text": "Ltd. vs. Nirman High School  2010 (0) GLHEL HC 223620",
+      "label": "PRECEDENT",
+      "start_char": 41372,
+      "end_char": 41425
+    },
+    {
+      "text": "Selvel Industries",
+      "label": "ORG",
+      "start_char": 41429,
+      "end_char": 41446
+    },
+    {
+      "text": "Om Plast (India) Manu",
+      "label": "RESPONDENT",
+      "start_char": 41460,
+      "end_char": 41481
+    },
+    {
+      "text": "Troikaa Pharmaceuticals Ltd. vs. Pro Laboratories (P.) Ltd. 2008 (3) GLR 2635 (Para 29)",
+      "label": "PRECEDENT",
+      "start_char": 41498,
+      "end_char": 41585
+    },
+    {
+      "text": "City Civil Court, Ahmedabad",
+      "label": "COURT",
+      "start_char": 41758,
+      "end_char": 41785
+    },
+    {
+      "text": "Maharaja  Whiteline   Blizzard",
+      "label": "ORG",
+      "start_char": 42256,
+      "end_char": 42286
+    },
+    {
+      "text": "Maharaja   Whiteline   Blizzard",
+      "label": "ORG",
+      "start_char": 42295,
+      "end_char": 42326
+    },
+    {
+      "text": "Maharaja Whiteline Blizzard",
+      "label": "ORG",
+      "start_char": 42364,
+      "end_char": 42391
+    },
+    {
+      "text": "Maharaja   Whiteline   Blizzard   50",
+      "label": "ORG",
+      "start_char": 43028,
+      "end_char": 43064
+    },
+    {
+      "text": "Maharaja Whiteline Blizzard 20",
+      "label": "ORG",
+      "start_char": 43067,
+      "end_char": 43097
+    },
+    {
+      "text": "Maharaja Blizzard 50DLX",
+      "label": "ORG",
+      "start_char": 43099,
+      "end_char": 43122
+    },
+    {
+      "text": "Maharaja  Whiteline Blizzard 20 DLX",
+      "label": "ORG",
+      "start_char": 43127,
+      "end_char": 43162
+    },
+    {
+      "text": "section   2(z)",
+      "label": "PROVISION",
+      "start_char": 43877,
+      "end_char": 43891
+    },
+    {
+      "text": "Trade Marks Act",
+      "label": "STATUTE",
+      "start_char": 43904,
+      "end_char": 43919
+    },
+    {
+      "text": "Design Act, 2000",
+      "label": "STATUTE",
+      "start_char": 44239,
+      "end_char": 44255
+    },
+    {
+      "text": "Section  22",
+      "label": "PROVISION",
+      "start_char": 49210,
+      "end_char": 49221
+    },
+    {
+      "text": "Designs Act, 2000",
+      "label": "STATUTE",
+      "start_char": 49229,
+      "end_char": 49246
+    },
+    {
+      "text": "Lesko  Holdings",
+      "label": "ORG",
+      "start_char": 52460,
+      "end_char": 52475
+    },
+    {
+      "text": "USPTO",
+      "label": "ORG",
+      "start_char": 52483,
+      "end_char": 52488
+    },
+    {
+      "text": "Commercial Courts  Act",
+      "label": "STATUTE",
+      "start_char": 56290,
+      "end_char": 56312
+    },
+    {
+      "text": "CIVIL APPLICATION NO.1 OF 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 56981,
+      "end_char": 57011
+    },
+    {
+      "text": "M.R. SHAH",
+      "label": "JUDGE",
+      "start_char": 57146,
+      "end_char": 57155
+    },
+    {
+      "text": "A.Y. KOGJE",
+      "label": "JUDGE",
+      "start_char": 57177,
+      "end_char": 57187
+    },
+    {
+      "text": "20.08.2018",
+      "label": "DATE",
+      "start_char": 57492,
+      "end_char": 57502
+    },
+    {
+      "text": "M.R. SHAH",
+      "label": "JUDGE",
+      "start_char": 57520,
+      "end_char": 57529
+    },
+    {
+      "text": "A.Y. KOGJE",
+      "label": "JUDGE",
+      "start_char": 57551,
+      "end_char": 57561
+    }
+  ],
+  "precedent_clusters": {
+    "Toyota Jidosha Kabushiki Kaisha vs. Prius Auto Industries Limited  and Ors": [
+      "Group Seb (India) Private Limited",
+      "Techno Plastic Industries vs. Dart Industries Inc. & Anr",
+      "Toyota Jidosha Kabushiki Kaisha vs. Prius Auto Industries Limited  and Ors",
+      "Toyota Jidosha Kabushiki Kaisha vs. Prius Auto Industries Limited  and Ors"
+    ],
+    "Britannia Industries Ltd. V/s. ITC Limited 2017 SCC Online Del 7391 3": [
+      "Torrent Pharmaceuticals Ltd. vs. Wockhardt Ltd. 2017 SCC Online Bom 318",
+      "Britannia Industries Ltd. V/s. ITC Limited 2017 SCC Online Del 7391 3",
+      "2017 SCC Online Madras 1447"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 19",
+      "Designs   Act,   2000",
+      "Section 19",
+      "Designs   Act,   2000"
+    ],
+    [
+      "section   2(z)",
+      "Trade Marks Act",
+      "section   2(z)",
+      "Trade Marks Act"
+    ],
+    [
+      "Section  22",
+      "Designs Act, 2000",
+      "Section  22",
+      "Designs Act, 2000"
+    ],
+    [
+      "Blizzard 20 and Blizzard 20 DLX",
+      "Constitution of India",
+      "Blizzard 20 and Blizzard 20 DLX",
+      "Constitution of India"
+    ]
+  ],
+  "precedent_counts": {
+    "Toyota Jidosha Kabushiki Kaisha vs. Prius Auto Industries Limited  and Ors": 4,
+    "Britannia Industries Ltd. V/s. ITC Limited 2017 SCC Online Del 7391 3": 3
+  },
+  "provision_counts": {
+    "Section 19 of Designs   Act,   2000": 1,
+    "section   2(z) of Trade Marks Act": 1,
+    "Section  22 of Designs Act, 2000": 1,
+    "Blizzard 20 and Blizzard 20 DLX of Constitution of India": 1
+  },
+  "statute_counts": {
+    "Designs   Act,   2000": 1,
+    "Trade Marks Act": 1,
+    "Designs Act, 2000": 1,
+    "Constitution of India": 1
+  }
+}

@@ -1,0 +1,445 @@
+2025-08-03 05:33:19 | INFO | main | main.py:534 | ================================================================================
+2025-08-03 05:33:19 | INFO | main | main.py:535 | LEGAL RAG SYSTEM - MAIN EXECUTION
+2025-08-03 05:33:19 | INFO | main | main.py:536 | ================================================================================
+2025-08-03 05:33:19 | INFO | main | main.py:573 | Command: setup
+2025-08-03 05:33:19 | INFO | main | main.py:574 | Arguments:
+2025-08-03 05:33:19 | INFO | main | main.py:575 |   data-dir: merged_output
+2025-08-03 05:33:19 | INFO | main | main.py:576 |   force-rebuild: False
+2025-08-03 05:33:19 | INFO | main | main.py:577 |   host: 0.0.0.0
+2025-08-03 05:33:19 | INFO | main | main.py:578 |   port: 8000
+2025-08-03 05:33:19 | INFO | main | main.py:583 | Executing SETUP command
+2025-08-03 05:33:19 | INFO | main | main.py:31 | ================================================================================
+2025-08-03 05:33:19 | INFO | main | main.py:32 | LEGAL RAG SYSTEM - COMPLETE SETUP
+2025-08-03 05:33:19 | INFO | main | main.py:33 | ================================================================================
+2025-08-03 05:33:19 | INFO | main | main.py:38 | Setup parameters:
+2025-08-03 05:33:19 | INFO | main | main.py:39 |   - Data directory: merged_output
+2025-08-03 05:33:19 | INFO | main | main.py:40 |   - Force rebuild: False
+2025-08-03 05:33:19 | INFO | main | main.py:41 |   - Environment variables:
+2025-08-03 05:33:19 | INFO | main | main.py:42 |     - USE_PINECONE: true
+2025-08-03 05:33:19 | INFO | main | main.py:43 |     - ENABLE_GPU: true
+2025-08-03 05:33:19 | INFO | main | main.py:51 | Initializing Complete Legal RAG Pipeline...
+2025-08-03 05:33:19 | INFO | main | main.py:52 | Configuration: {'use_pinecone': True, 'enable_gpu': True}
+2025-08-03 05:34:27 | ERROR | main | main.py:141 | ============================================================
+2025-08-03 05:34:27 | ERROR | main | main.py:142 | SYSTEM SETUP FAILED
+2025-08-03 05:34:27 | ERROR | main | main.py:143 | Error after 68.04s: Due to a serious vulnerability issue in `torch.load`, even with `weights_only=True`, we now require users to upgrade torch to at least v2.6 in order to use the function. This version restriction does not apply when loading files with safetensors.
+See the vulnerability report here https://nvd.nist.gov/vuln/detail/CVE-2025-32434
+2025-08-03 05:34:27 | ERROR | main | main.py:144 | ============================================================
+2025-08-03 05:34:27 | ERROR | main | main.py:146 | Full traceback: Traceback (most recent call last):
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/src/embeddings.py", line 23, in __init__
+    self.model = SentenceTransformer(self.model_name, device=self.device)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/sentence_transformers/SentenceTransformer.py", line 339, in __init__
+    modules = self._load_auto_model(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/sentence_transformers/SentenceTransformer.py", line 2061, in _load_auto_model
+    transformer_model = Transformer(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/sentence_transformers/models/Transformer.py", line 88, in __init__
+    self._load_model(model_name_or_path, config, cache_dir, backend, is_peft_model, **model_args)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/sentence_transformers/models/Transformer.py", line 186, in _load_model
+    self.auto_model = AutoModel.from_pretrained(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/models/auto/auto_factory.py", line 600, in from_pretrained
+    return model_class.from_pretrained(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/modeling_utils.py", line 315, in _wrapper
+    return func(*args, **kwargs)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/modeling_utils.py", line 5001, in from_pretrained
+    ) = cls._load_pretrained_model(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/modeling_utils.py", line 5262, in _load_pretrained_model
+    load_state_dict(checkpoint_files[0], map_location="meta", weights_only=weights_only).keys()
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/modeling_utils.py", line 560, in load_state_dict
+    check_torch_load_is_safe()
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/utils/import_utils.py", line 1606, in check_torch_load_is_safe
+    raise ValueError(
+ValueError: Due to a serious vulnerability issue in `torch.load`, even with `weights_only=True`, we now require users to upgrade torch to at least v2.6 in order to use the function. This version restriction does not apply when loading files with safetensors.
+See the vulnerability report here https://nvd.nist.gov/vuln/detail/CVE-2025-32434
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/main.py", line 55, in setup_complete_system
+    pipeline = CompleteLegalRAGPipeline(config)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/src/complete_rag_pipeline.py", line 56, in __init__
+    self._initialize_components()
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/src/complete_rag_pipeline.py", line 82, in _initialize_components
+    self.embedding_model = LegalEmbeddingModel(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/src/embeddings.py", line 29, in __init__
+    self.model = AutoModel.from_pretrained(self.model_name)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/models/auto/auto_factory.py", line 600, in from_pretrained
+    return model_class.from_pretrained(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/modeling_utils.py", line 315, in _wrapper
+    return func(*args, **kwargs)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/modeling_utils.py", line 5001, in from_pretrained
+    ) = cls._load_pretrained_model(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/modeling_utils.py", line 5262, in _load_pretrained_model
+    load_state_dict(checkpoint_files[0], map_location="meta", weights_only=weights_only).keys()
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/modeling_utils.py", line 560, in load_state_dict
+    check_torch_load_is_safe()
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/utils/import_utils.py", line 1606, in check_torch_load_is_safe
+    raise ValueError(
+ValueError: Due to a serious vulnerability issue in `torch.load`, even with `weights_only=True`, we now require users to upgrade torch to at least v2.6 in order to use the function. This version restriction does not apply when loading files with safetensors.
+See the vulnerability report here https://nvd.nist.gov/vuln/detail/CVE-2025-32434
+
+2025-08-03 05:34:27 | ERROR | main | main.py:593 | System setup failed!
+2025-08-03 05:54:56 | INFO | main | main.py:534 | ================================================================================
+2025-08-03 05:54:56 | INFO | main | main.py:535 | LEGAL RAG SYSTEM - MAIN EXECUTION
+2025-08-03 05:54:56 | INFO | main | main.py:536 | ================================================================================
+2025-08-03 05:54:56 | INFO | main | main.py:573 | Command: setup
+2025-08-03 05:54:56 | INFO | main | main.py:574 | Arguments:
+2025-08-03 05:54:56 | INFO | main | main.py:575 |   data-dir: merged_output
+2025-08-03 05:54:56 | INFO | main | main.py:576 |   force-rebuild: False
+2025-08-03 05:54:56 | INFO | main | main.py:577 |   host: 0.0.0.0
+2025-08-03 05:54:56 | INFO | main | main.py:578 |   port: 8000
+2025-08-03 05:54:56 | INFO | main | main.py:583 | Executing SETUP command
+2025-08-03 05:54:56 | INFO | main | main.py:31 | ================================================================================
+2025-08-03 05:54:56 | INFO | main | main.py:32 | LEGAL RAG SYSTEM - COMPLETE SETUP
+2025-08-03 05:54:56 | INFO | main | main.py:33 | ================================================================================
+2025-08-03 05:54:56 | INFO | main | main.py:38 | Setup parameters:
+2025-08-03 05:54:56 | INFO | main | main.py:39 |   - Data directory: merged_output
+2025-08-03 05:54:56 | INFO | main | main.py:40 |   - Force rebuild: False
+2025-08-03 05:54:56 | INFO | main | main.py:41 |   - Environment variables:
+2025-08-03 05:54:56 | INFO | main | main.py:42 |     - USE_PINECONE: true
+2025-08-03 05:54:56 | INFO | main | main.py:43 |     - ENABLE_GPU: true
+2025-08-03 05:54:56 | INFO | main | main.py:51 | Initializing Complete Legal RAG Pipeline...
+2025-08-03 05:54:56 | INFO | main | main.py:52 | Configuration: {'use_pinecone': True, 'enable_gpu': True}
+2025-08-03 05:55:47 | ERROR | main | main.py:141 | ============================================================
+2025-08-03 05:55:47 | ERROR | main | main.py:142 | SYSTEM SETUP FAILED
+2025-08-03 05:55:47 | ERROR | main | main.py:143 | Error after 51.58s: Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+2025-08-03 05:55:47 | ERROR | main | main.py:144 | ============================================================
+2025-08-03 05:55:47 | ERROR | main | main.py:146 | Full traceback: Traceback (most recent call last):
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/src/embeddings.py", line 23, in __init__
+    self.model = SentenceTransformer(self.model_name, device=self.device)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/sentence_transformers/SentenceTransformer.py", line 367, in __init__
+    self.to(device)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1355, in to
+    return self._apply(convert)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 915, in _apply
+    module._apply(fn)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 915, in _apply
+    module._apply(fn)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 915, in _apply
+    module._apply(fn)
+  [Previous line repeated 1 more time]
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 942, in _apply
+    param_applied = fn(param)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1341, in convert
+    return t.to(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/cuda/__init__.py", line 372, in _lazy_init
+    torch._C._cuda_init()
+RuntimeError: Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/main.py", line 55, in setup_complete_system
+    pipeline = CompleteLegalRAGPipeline(config)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/src/complete_rag_pipeline.py", line 56, in __init__
+    self._initialize_components()
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/src/complete_rag_pipeline.py", line 82, in _initialize_components
+    self.embedding_model = LegalEmbeddingModel(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/src/embeddings.py", line 30, in __init__
+    self.model.to(self.device)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/modeling_utils.py", line 4276, in to
+    return super().to(*args, **kwargs)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1355, in to
+    return self._apply(convert)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 915, in _apply
+    module._apply(fn)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 915, in _apply
+    module._apply(fn)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 942, in _apply
+    param_applied = fn(param)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1341, in convert
+    return t.to(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/cuda/__init__.py", line 372, in _lazy_init
+    torch._C._cuda_init()
+RuntimeError: Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+
+2025-08-03 05:55:48 | ERROR | main | main.py:593 | System setup failed!
+2025-08-03 06:04:05 | INFO | main | main.py:534 | ================================================================================
+2025-08-03 06:04:05 | INFO | main | main.py:535 | LEGAL RAG SYSTEM - MAIN EXECUTION
+2025-08-03 06:04:05 | INFO | main | main.py:536 | ================================================================================
+2025-08-03 06:04:05 | INFO | main | main.py:573 | Command: setup
+2025-08-03 06:04:05 | INFO | main | main.py:574 | Arguments:
+2025-08-03 06:04:05 | INFO | main | main.py:575 |   data-dir: merged_output
+2025-08-03 06:04:05 | INFO | main | main.py:576 |   force-rebuild: False
+2025-08-03 06:04:05 | INFO | main | main.py:577 |   host: 0.0.0.0
+2025-08-03 06:04:05 | INFO | main | main.py:578 |   port: 8000
+2025-08-03 06:04:05 | INFO | main | main.py:583 | Executing SETUP command
+2025-08-03 06:04:05 | INFO | main | main.py:31 | ================================================================================
+2025-08-03 06:04:05 | INFO | main | main.py:32 | LEGAL RAG SYSTEM - COMPLETE SETUP
+2025-08-03 06:04:05 | INFO | main | main.py:33 | ================================================================================
+2025-08-03 06:04:05 | INFO | main | main.py:38 | Setup parameters:
+2025-08-03 06:04:05 | INFO | main | main.py:39 |   - Data directory: merged_output
+2025-08-03 06:04:05 | INFO | main | main.py:40 |   - Force rebuild: False
+2025-08-03 06:04:05 | INFO | main | main.py:41 |   - Environment variables:
+2025-08-03 06:04:05 | INFO | main | main.py:42 |     - USE_PINECONE: true
+2025-08-03 06:04:05 | INFO | main | main.py:43 |     - ENABLE_GPU: true
+2025-08-03 06:04:05 | INFO | main | main.py:51 | Initializing Complete Legal RAG Pipeline...
+2025-08-03 06:04:05 | INFO | main | main.py:52 | Configuration: {'use_pinecone': True, 'enable_gpu': True}
+2025-08-03 06:05:21 | ERROR | main | main.py:141 | ============================================================
+2025-08-03 06:05:21 | ERROR | main | main.py:142 | SYSTEM SETUP FAILED
+2025-08-03 06:05:21 | ERROR | main | main.py:143 | Error after 75.89s: Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+2025-08-03 06:05:21 | ERROR | main | main.py:144 | ============================================================
+2025-08-03 06:05:21 | ERROR | main | main.py:146 | Full traceback: Traceback (most recent call last):
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/src/embeddings.py", line 23, in __init__
+    self.model = SentenceTransformer(self.model_name, device=self.device)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/sentence_transformers/SentenceTransformer.py", line 367, in __init__
+    self.to(device)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1355, in to
+    return self._apply(convert)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 915, in _apply
+    module._apply(fn)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 915, in _apply
+    module._apply(fn)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 915, in _apply
+    module._apply(fn)
+  [Previous line repeated 1 more time]
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 942, in _apply
+    param_applied = fn(param)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1341, in convert
+    return t.to(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/cuda/__init__.py", line 372, in _lazy_init
+    torch._C._cuda_init()
+RuntimeError: Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/main.py", line 55, in setup_complete_system
+    pipeline = CompleteLegalRAGPipeline(config)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/src/complete_rag_pipeline.py", line 56, in __init__
+    self._initialize_components()
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/src/complete_rag_pipeline.py", line 82, in _initialize_components
+    self.embedding_model = LegalEmbeddingModel(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/src/embeddings.py", line 30, in __init__
+    self.model.to(self.device)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/transformers/modeling_utils.py", line 4276, in to
+    return super().to(*args, **kwargs)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1355, in to
+    return self._apply(convert)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 915, in _apply
+    module._apply(fn)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 915, in _apply
+    module._apply(fn)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 942, in _apply
+    param_applied = fn(param)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1341, in convert
+    return t.to(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/torch/cuda/__init__.py", line 372, in _lazy_init
+    torch._C._cuda_init()
+RuntimeError: Found no NVIDIA driver on your system. Please check that you have an NVIDIA GPU and installed a driver from http://www.nvidia.com/Download/index.aspx
+
+2025-08-03 06:05:21 | ERROR | main | main.py:593 | System setup failed!
+2025-08-03 06:11:45 | INFO | main | main.py:534 | ================================================================================
+2025-08-03 06:11:45 | INFO | main | main.py:535 | LEGAL RAG SYSTEM - MAIN EXECUTION
+2025-08-03 06:11:45 | INFO | main | main.py:536 | ================================================================================
+2025-08-03 06:11:45 | INFO | main | main.py:573 | Command: setup
+2025-08-03 06:11:45 | INFO | main | main.py:574 | Arguments:
+2025-08-03 06:11:45 | INFO | main | main.py:575 |   data-dir: merged_output
+2025-08-03 06:11:45 | INFO | main | main.py:576 |   force-rebuild: False
+2025-08-03 06:11:45 | INFO | main | main.py:577 |   host: 0.0.0.0
+2025-08-03 06:11:45 | INFO | main | main.py:578 |   port: 8000
+2025-08-03 06:11:45 | INFO | main | main.py:583 | Executing SETUP command
+2025-08-03 06:11:45 | INFO | main | main.py:31 | ================================================================================
+2025-08-03 06:11:45 | INFO | main | main.py:32 | LEGAL RAG SYSTEM - COMPLETE SETUP
+2025-08-03 06:11:45 | INFO | main | main.py:33 | ================================================================================
+2025-08-03 06:11:45 | INFO | main | main.py:38 | Setup parameters:
+2025-08-03 06:11:45 | INFO | main | main.py:39 |   - Data directory: merged_output
+2025-08-03 06:11:45 | INFO | main | main.py:40 |   - Force rebuild: False
+2025-08-03 06:11:45 | INFO | main | main.py:41 |   - Environment variables:
+2025-08-03 06:11:45 | INFO | main | main.py:42 |     - USE_PINECONE: true
+2025-08-03 06:11:45 | INFO | main | main.py:43 |     - ENABLE_GPU: false
+2025-08-03 06:11:45 | INFO | main | main.py:51 | Initializing Complete Legal RAG Pipeline...
+2025-08-03 06:11:45 | INFO | main | main.py:52 | Configuration: {'use_pinecone': True, 'enable_gpu': False}
+2025-08-03 06:12:54 | ERROR | main | main.py:141 | ============================================================
+2025-08-03 06:12:54 | ERROR | main | main.py:142 | SYSTEM SETUP FAILED
+2025-08-03 06:12:54 | ERROR | main | main.py:143 | Error after 68.71s: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+2025-08-03 06:12:54 | ERROR | main | main.py:144 | ============================================================
+2025-08-03 06:12:54 | ERROR | main | main.py:146 | Full traceback: Traceback (most recent call last):
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/main.py", line 55, in setup_complete_system
+    pipeline = CompleteLegalRAGPipeline(config)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/src/complete_rag_pipeline.py", line 56, in __init__
+    self._initialize_components()
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/src/complete_rag_pipeline.py", line 92, in _initialize_components
+    self.vector_store = EnhancedPineconeStore()
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/src/vector_store.py", line 21, in __init__
+    self.pc = Pinecone(api_key=settings.PINECONE_API_KEY)
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/pinecone/pinecone.py", line 216, in __init__
+    self._config = PineconeConfig.build(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/pinecone/config/pinecone_config.py", line 35, in build
+    return ConfigBuilder.build(
+  File "/mnt/c/Users/anshs/OneDrive - BENNETT UNIVERSITY/Desktop/DHARA-NEW/.venv/lib/python3.10/site-packages/pinecone/config/config.py", line 67, in build
+    raise PineconeConfigurationError(
+pinecone.exceptions.exceptions.PineconeConfigurationError: You haven't specified an API key. Please either set the PINECONE_API_KEY environment variable or pass the 'api_key' keyword argument to the Pinecone client constructor.
+
+2025-08-03 06:12:54 | ERROR | main | main.py:593 | System setup failed!
+2025-08-03 06:20:50 | INFO | main | main.py:534 | ================================================================================
+2025-08-03 06:20:50 | INFO | main | main.py:535 | LEGAL RAG SYSTEM - MAIN EXECUTION
+2025-08-03 06:20:50 | INFO | main | main.py:536 | ================================================================================
+2025-08-03 06:20:50 | INFO | main | main.py:573 | Command: setup
+2025-08-03 06:20:50 | INFO | main | main.py:574 | Arguments:
+2025-08-03 06:20:50 | INFO | main | main.py:575 |   data-dir: merged_output
+2025-08-03 06:20:50 | INFO | main | main.py:576 |   force-rebuild: False
+2025-08-03 06:20:50 | INFO | main | main.py:577 |   host: 0.0.0.0
+2025-08-03 06:20:50 | INFO | main | main.py:578 |   port: 8000
+2025-08-03 06:20:50 | INFO | main | main.py:583 | Executing SETUP command
+2025-08-03 06:20:50 | INFO | main | main.py:31 | ================================================================================
+2025-08-03 06:20:50 | INFO | main | main.py:32 | LEGAL RAG SYSTEM - COMPLETE SETUP
+2025-08-03 06:20:50 | INFO | main | main.py:33 | ================================================================================
+2025-08-03 06:20:50 | INFO | main | main.py:38 | Setup parameters:
+2025-08-03 06:20:50 | INFO | main | main.py:39 |   - Data directory: merged_output
+2025-08-03 06:20:50 | INFO | main | main.py:40 |   - Force rebuild: False
+2025-08-03 06:20:50 | INFO | main | main.py:41 |   - Environment variables:
+2025-08-03 06:20:50 | INFO | main | main.py:42 |     - USE_PINECONE: true
+2025-08-03 06:20:50 | INFO | main | main.py:43 |     - ENABLE_GPU: false
+2025-08-03 06:20:50 | INFO | main | main.py:51 | Initializing Complete Legal RAG Pipeline...
+2025-08-03 06:20:50 | INFO | main | main.py:52 | Configuration: {'use_pinecone': True, 'enable_gpu': False}
+2025-08-03 06:25:17 | INFO | main | main.py:57 | Pipeline initialized in 267.85s
+2025-08-03 06:25:18 | INFO | main | main.py:60 | Building comprehensive index with all components...
+2025-08-03 06:25:19 | ERROR | main | main.py:66 | Failed to build complete system
+2025-08-03 06:25:19 | ERROR | main | main.py:67 | Index building failed after 0.99s
+2025-08-03 06:25:20 | ERROR | main | main.py:593 | System setup failed!
+2025-08-03 06:40:42 | INFO | main | main.py:534 | ================================================================================
+2025-08-03 06:40:42 | INFO | main | main.py:535 | LEGAL RAG SYSTEM - MAIN EXECUTION
+2025-08-03 06:40:42 | INFO | main | main.py:536 | ================================================================================
+2025-08-03 06:40:42 | INFO | main | main.py:573 | Command: setup
+2025-08-03 06:40:42 | INFO | main | main.py:574 | Arguments:
+2025-08-03 06:40:42 | INFO | main | main.py:575 |   data-dir: merged_output
+2025-08-03 06:40:42 | INFO | main | main.py:576 |   force-rebuild: False
+2025-08-03 06:40:42 | INFO | main | main.py:577 |   host: 0.0.0.0
+2025-08-03 06:40:42 | INFO | main | main.py:578 |   port: 8000
+2025-08-03 06:40:42 | INFO | main | main.py:583 | Executing SETUP command
+2025-08-03 06:40:43 | INFO | main | main.py:31 | ================================================================================
+2025-08-03 06:40:43 | INFO | main | main.py:32 | LEGAL RAG SYSTEM - COMPLETE SETUP
+2025-08-03 06:40:43 | INFO | main | main.py:33 | ================================================================================
+2025-08-03 06:40:43 | INFO | main | main.py:38 | Setup parameters:
+2025-08-03 06:40:43 | INFO | main | main.py:39 |   - Data directory: merged_output
+2025-08-03 06:40:43 | INFO | main | main.py:40 |   - Force rebuild: False
+2025-08-03 06:40:43 | INFO | main | main.py:41 |   - Environment variables:
+2025-08-03 06:40:43 | INFO | main | main.py:42 |     - USE_PINECONE: true
+2025-08-03 06:40:43 | INFO | main | main.py:43 |     - ENABLE_GPU: false
+2025-08-03 06:40:43 | INFO | main | main.py:51 | Initializing Complete Legal RAG Pipeline...
+2025-08-03 06:40:43 | INFO | main | main.py:52 | Configuration: {'use_pinecone': True, 'enable_gpu': False}
+2025-08-03 06:42:34 | INFO | main | main.py:57 | Pipeline initialized in 111.23s
+2025-08-03 06:42:34 | INFO | main | main.py:60 | Building comprehensive index with all components...
+2025-08-03 06:42:34 | ERROR | main | main.py:66 | Failed to build complete system
+2025-08-03 06:42:34 | ERROR | main | main.py:67 | Index building failed after 0.07s
+2025-08-03 06:42:34 | ERROR | main | main.py:593 | System setup failed!
+2025-08-03 06:52:11 | INFO | main | main.py:534 | ================================================================================
+2025-08-03 06:52:11 | INFO | main | main.py:535 | LEGAL RAG SYSTEM - MAIN EXECUTION
+2025-08-03 06:52:11 | INFO | main | main.py:536 | ================================================================================
+2025-08-03 06:52:11 | INFO | main | main.py:573 | Command: setup
+2025-08-03 06:52:11 | INFO | main | main.py:574 | Arguments:
+2025-08-03 06:52:11 | INFO | main | main.py:575 |   data-dir: merged_output
+2025-08-03 06:52:11 | INFO | main | main.py:576 |   force-rebuild: False
+2025-08-03 06:52:11 | INFO | main | main.py:577 |   host: 0.0.0.0
+2025-08-03 06:52:11 | INFO | main | main.py:578 |   port: 8000
+2025-08-03 06:52:11 | INFO | main | main.py:583 | Executing SETUP command
+2025-08-03 06:52:11 | INFO | main | main.py:31 | ================================================================================
+2025-08-03 06:52:11 | INFO | main | main.py:32 | LEGAL RAG SYSTEM - COMPLETE SETUP
+2025-08-03 06:52:11 | INFO | main | main.py:33 | ================================================================================
+2025-08-03 06:52:11 | INFO | main | main.py:38 | Setup parameters:
+2025-08-03 06:52:11 | INFO | main | main.py:39 |   - Data directory: merged_output
+2025-08-03 06:52:11 | INFO | main | main.py:40 |   - Force rebuild: False
+2025-08-03 06:52:11 | INFO | main | main.py:41 |   - Environment variables:
+2025-08-03 06:52:11 | INFO | main | main.py:42 |     - USE_PINECONE: true
+2025-08-03 06:52:11 | INFO | main | main.py:43 |     - ENABLE_GPU: false
+2025-08-03 06:52:11 | INFO | main | main.py:51 | Initializing Complete Legal RAG Pipeline...
+2025-08-03 06:52:11 | INFO | main | main.py:52 | Configuration: {'use_pinecone': True, 'enable_gpu': False}
+2025-08-03 06:53:53 | INFO | main | main.py:57 | Pipeline initialized in 102.15s
+2025-08-03 06:53:53 | INFO | main | main.py:60 | Building comprehensive index with all components...
+2025-08-03 07:13:15 | INFO | main | main.py:534 | ================================================================================
+2025-08-03 07:13:15 | INFO | main | main.py:535 | LEGAL RAG SYSTEM - MAIN EXECUTION
+2025-08-03 07:13:15 | INFO | main | main.py:536 | ================================================================================
+2025-08-03 07:13:15 | INFO | main | main.py:573 | Command: setup
+2025-08-03 07:13:15 | INFO | main | main.py:574 | Arguments:
+2025-08-03 07:13:15 | INFO | main | main.py:575 |   data-dir: merged_output
+2025-08-03 07:13:15 | INFO | main | main.py:576 |   force-rebuild: False
+2025-08-03 07:13:15 | INFO | main | main.py:577 |   host: 0.0.0.0
+2025-08-03 07:13:15 | INFO | main | main.py:578 |   port: 8000
+2025-08-03 07:13:15 | INFO | main | main.py:583 | Executing SETUP command
+2025-08-03 07:13:15 | INFO | main | main.py:31 | ================================================================================
+2025-08-03 07:13:15 | INFO | main | main.py:32 | LEGAL RAG SYSTEM - COMPLETE SETUP
+2025-08-03 07:13:15 | INFO | main | main.py:33 | ================================================================================
+2025-08-03 07:13:15 | INFO | main | main.py:38 | Setup parameters:
+2025-08-03 07:13:15 | INFO | main | main.py:39 |   - Data directory: merged_output
+2025-08-03 07:13:15 | INFO | main | main.py:40 |   - Force rebuild: False
+2025-08-03 07:13:15 | INFO | main | main.py:41 |   - Environment variables:
+2025-08-03 07:13:15 | INFO | main | main.py:42 |     - USE_PINECONE: true
+2025-08-03 07:13:15 | INFO | main | main.py:43 |     - ENABLE_GPU: false
+2025-08-03 07:13:15 | INFO | main | main.py:51 | Initializing Complete Legal RAG Pipeline...
+2025-08-03 07:13:15 | INFO | main | main.py:52 | Configuration: {'use_pinecone': True, 'enable_gpu': False}
+2025-08-03 07:14:56 | INFO | main | main.py:57 | Pipeline initialized in 100.98s
+2025-08-03 07:14:56 | INFO | main | main.py:60 | Building comprehensive index with all components...
+2025-08-03 07:14:56 | ERROR | main | main.py:66 | Failed to build complete system
+2025-08-03 07:14:56 | ERROR | main | main.py:67 | Index building failed after 0.04s
+2025-08-03 07:14:57 | ERROR | main | main.py:593 | System setup failed!
+2025-08-03 07:21:29 | INFO | main | main.py:534 | ================================================================================
+2025-08-03 07:21:29 | INFO | main | main.py:535 | LEGAL RAG SYSTEM - MAIN EXECUTION
+2025-08-03 07:21:29 | INFO | main | main.py:536 | ================================================================================
+2025-08-03 07:21:29 | INFO | main | main.py:573 | Command: setup
+2025-08-03 07:21:29 | INFO | main | main.py:574 | Arguments:
+2025-08-03 07:21:29 | INFO | main | main.py:575 |   data-dir: merged_output
+2025-08-03 07:21:29 | INFO | main | main.py:576 |   force-rebuild: False
+2025-08-03 07:21:29 | INFO | main | main.py:577 |   host: 0.0.0.0
+2025-08-03 07:21:29 | INFO | main | main.py:578 |   port: 8000
+2025-08-03 07:21:29 | INFO | main | main.py:583 | Executing SETUP command
+2025-08-03 07:21:29 | INFO | main | main.py:31 | ================================================================================
+2025-08-03 07:21:29 | INFO | main | main.py:32 | LEGAL RAG SYSTEM - COMPLETE SETUP
+2025-08-03 07:21:29 | INFO | main | main.py:33 | ================================================================================
+2025-08-03 07:21:29 | INFO | main | main.py:38 | Setup parameters:
+2025-08-03 07:21:29 | INFO | main | main.py:39 |   - Data directory: merged_output
+2025-08-03 07:21:29 | INFO | main | main.py:40 |   - Force rebuild: False
+2025-08-03 07:21:29 | INFO | main | main.py:41 |   - Environment variables:
+2025-08-03 07:21:29 | INFO | main | main.py:42 |     - USE_PINECONE: true
+2025-08-03 07:21:29 | INFO | main | main.py:43 |     - ENABLE_GPU: false
+2025-08-03 07:21:29 | INFO | main | main.py:51 | Initializing Complete Legal RAG Pipeline...
+2025-08-03 07:21:29 | INFO | main | main.py:52 | Configuration: {'use_pinecone': True, 'enable_gpu': False}
+2025-08-03 07:22:47 | INFO | main | main.py:57 | Pipeline initialized in 78.24s
+2025-08-03 07:22:47 | INFO | main | main.py:60 | Building comprehensive index with all components...
+2025-08-03 07:22:47 | ERROR | main | main.py:66 | Failed to build complete system
+2025-08-03 07:22:47 | ERROR | main | main.py:67 | Index building failed after 0.20s
+2025-08-03 07:22:48 | ERROR | main | main.py:593 | System setup failed!
+2025-08-03 14:04:30 | INFO | main | main.py:534 | ================================================================================
+2025-08-03 14:04:30 | INFO | main | main.py:535 | LEGAL RAG SYSTEM - MAIN EXECUTION
+2025-08-03 14:04:30 | INFO | main | main.py:536 | ================================================================================
+2025-08-03 14:04:30 | INFO | main | main.py:573 | Command: setup
+2025-08-03 14:04:30 | INFO | main | main.py:574 | Arguments:
+2025-08-03 14:04:30 | INFO | main | main.py:575 |   data-dir: merged_output
+2025-08-03 14:04:30 | INFO | main | main.py:576 |   force-rebuild: False
+2025-08-03 14:04:30 | INFO | main | main.py:577 |   host: 0.0.0.0
+2025-08-03 14:04:30 | INFO | main | main.py:578 |   port: 8000
+2025-08-03 14:04:30 | INFO | main | main.py:583 | Executing SETUP command
+2025-08-03 14:04:30 | INFO | main | main.py:31 | ================================================================================
+2025-08-03 14:04:30 | INFO | main | main.py:32 | LEGAL RAG SYSTEM - COMPLETE SETUP
+2025-08-03 14:04:30 | INFO | main | main.py:33 | ================================================================================
+2025-08-03 14:04:30 | INFO | main | main.py:38 | Setup parameters:
+2025-08-03 14:04:30 | INFO | main | main.py:39 |   - Data directory: merged_output
+2025-08-03 14:04:30 | INFO | main | main.py:40 |   - Force rebuild: False
+2025-08-03 14:04:30 | INFO | main | main.py:41 |   - Environment variables:
+2025-08-03 14:04:30 | INFO | main | main.py:42 |     - USE_PINECONE: true
+2025-08-03 14:04:30 | INFO | main | main.py:43 |     - ENABLE_GPU: false
+2025-08-03 14:04:30 | INFO | main | main.py:51 | Initializing Complete Legal RAG Pipeline...
+2025-08-03 14:04:30 | INFO | main | main.py:52 | Configuration: {'use_pinecone': True, 'enable_gpu': False}
+2025-08-03 14:07:13 | INFO | main | main.py:57 | Pipeline initialized in 162.62s
+2025-08-03 14:07:13 | INFO | main | main.py:60 | Building comprehensive index with all components...
+2025-08-03 16:27:58 | INFO | main | main.py:534 | ================================================================================
+2025-08-03 16:27:58 | INFO | main | main.py:535 | LEGAL RAG SYSTEM - MAIN EXECUTION
+2025-08-03 16:27:58 | INFO | main | main.py:536 | ================================================================================
+2025-08-03 16:27:58 | INFO | main | main.py:573 | Command: demo
+2025-08-03 16:27:58 | INFO | main | main.py:574 | Arguments:
+2025-08-03 16:27:58 | INFO | main | main.py:575 |   data-dir: merged_output
+2025-08-03 16:27:58 | INFO | main | main.py:576 |   force-rebuild: False
+2025-08-03 16:27:58 | INFO | main | main.py:577 |   host: 0.0.0.0
+2025-08-03 16:27:58 | INFO | main | main.py:578 |   port: 8000
+2025-08-03 16:27:58 | INFO | main | main.py:598 | Executing DEMO command
+2025-08-03 16:27:58 | INFO | main | main.py:31 | ================================================================================
+2025-08-03 16:27:58 | INFO | main | main.py:32 | LEGAL RAG SYSTEM - COMPLETE SETUP
+2025-08-03 16:27:58 | INFO | main | main.py:33 | ================================================================================
+2025-08-03 16:27:58 | INFO | main | main.py:38 | Setup parameters:
+2025-08-03 16:27:58 | INFO | main | main.py:39 |   - Data directory: merged_output
+2025-08-03 16:27:58 | INFO | main | main.py:40 |   - Force rebuild: False
+2025-08-03 16:27:58 | INFO | main | main.py:41 |   - Environment variables:
+2025-08-03 16:27:58 | INFO | main | main.py:42 |     - USE_PINECONE: true
+2025-08-03 16:27:58 | INFO | main | main.py:43 |     - ENABLE_GPU: false
+2025-08-03 16:27:58 | INFO | main | main.py:51 | Initializing Complete Legal RAG Pipeline...
+2025-08-03 16:27:58 | INFO | main | main.py:52 | Configuration: {'use_pinecone': True, 'enable_gpu': False}
+2025-08-03 16:29:58 | INFO | main | main.py:57 | Pipeline initialized in 119.44s
+2025-08-03 16:29:58 | INFO | main | main.py:60 | Building comprehensive index with all components...

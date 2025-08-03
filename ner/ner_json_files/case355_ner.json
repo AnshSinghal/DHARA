@@ -1,0 +1,1347 @@
+{
+  "entities": [
+    {
+      "text": "Karnataka High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 20
+    },
+    {
+      "text": "Arunodaya Minerals",
+      "label": "PETITIONER",
+      "start_char": 25,
+      "end_char": 43
+    },
+    {
+      "text": "Gimpex Limited",
+      "label": "RESPONDENT",
+      "start_char": 51,
+      "end_char": 65
+    },
+    {
+      "text": "P.S.Dinesh Kumar",
+      "label": "JUDGE",
+      "start_char": 94,
+      "end_char": 110
+    },
+    {
+      "text": "P.S.Dinesh Kumar",
+      "label": "JUDGE",
+      "start_char": 118,
+      "end_char": 134
+    },
+    {
+      "text": "High Court Of Karnataka At Bengaluru",
+      "label": "COURT",
+      "start_char": 147,
+      "end_char": 183
+    },
+    {
+      "text": "P.S.Dinesh Kumar",
+      "label": "JUDGE",
+      "start_char": 299,
+      "end_char": 315
+    },
+    {
+      "text": "C.M.Poonacha",
+      "label": "JUDGE",
+      "start_char": 383,
+      "end_char": 395
+    },
+    {
+      "text": "Arunodaya Minerals",
+      "label": "PETITIONER",
+      "start_char": 458,
+      "end_char": 476
+    },
+    {
+      "text": "M Venu",
+      "label": "PETITIONER",
+      "start_char": 653,
+      "end_char": 659
+    },
+    {
+      "text": "Rukminidevi",
+      "label": "PETITIONER",
+      "start_char": 816,
+      "end_char": 827
+    },
+    {
+      "text": "Shashikiran Shetty",
+      "label": "LAWYER",
+      "start_char": 1105,
+      "end_char": 1123
+    },
+    {
+      "text": "Anuparna Bordoloi",
+      "label": "LAWYER",
+      "start_char": 1150,
+      "end_char": 1167
+    },
+    {
+      "text": "Gimpex Limited",
+      "label": "ORG",
+      "start_char": 1199,
+      "end_char": 1213
+    },
+    {
+      "text": "S",
+      "label": "OTHER_PERSON",
+      "start_char": 1276,
+      "end_char": 1277
+    },
+    {
+      "text": "Uma Shankar",
+      "label": "OTHER_PERSON",
+      "start_char": 1278,
+      "end_char": 1289
+    },
+    {
+      "text": "Chennai-600001",
+      "label": "GPE",
+      "start_char": 1368,
+      "end_char": 1382
+    },
+    {
+      "text": "Gimpex Limited",
+      "label": "ORG",
+      "start_char": 1394,
+      "end_char": 1408
+    },
+    {
+      "text": "A.S. Kulkarni",
+      "label": "LAWYER",
+      "start_char": 1572,
+      "end_char": 1585
+    },
+    {
+      "text": "Section 37(1) (b)",
+      "label": "PROVISION",
+      "start_char": 1632,
+      "end_char": 1649
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 1657,
+      "end_char": 1689
+    },
+    {
+      "text": "Rule 4",
+      "label": "PROVISION",
+      "start_char": 1700,
+      "end_char": 1706
+    },
+    {
+      "text": "High Court of Karnataka Arbitration (Proceedings Before the Courts) Rules, 2001",
+      "label": "COURT",
+      "start_char": 1714,
+      "end_char": 1793
+    },
+    {
+      "text": "Section 13(1)",
+      "label": "PROVISION",
+      "start_char": 1804,
+      "end_char": 1817
+    },
+    {
+      "text": "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 1825,
+      "end_char": 1922
+    },
+    {
+      "text": "A.S.No.36/2015",
+      "label": "CASE_NUMBER",
+      "start_char": 1972,
+      "end_char": 1986
+    },
+    {
+      "text": "26.03.2021",
+      "label": "DATE",
+      "start_char": 1993,
+      "end_char": 2003
+    },
+    {
+      "text": "Additional City Civil & Sessions Judge, Bengaluru",
+      "label": "COURT",
+      "start_char": 2036,
+      "end_char": 2085
+    },
+    {
+      "text": "21.07.2022",
+      "label": "DATE",
+      "start_char": 2154,
+      "end_char": 2164
+    },
+    {
+      "text": "POONACHA",
+      "label": "JUDGE",
+      "start_char": 2221,
+      "end_char": 2229
+    },
+    {
+      "text": "26.03.2021",
+      "label": "DATE",
+      "start_char": 2402,
+      "end_char": 2412
+    },
+    {
+      "text": "A.S.No.36/2015",
+      "label": "CASE_NUMBER",
+      "start_char": 2428,
+      "end_char": 2442
+    },
+    {
+      "text": "Mines and Minerals (Development and Regulation) Act, 1957",
+      "label": "STATUTE",
+      "start_char": 2684,
+      "end_char": 2741
+    },
+    {
+      "text": "MMDR Act",
+      "label": "STATUTE",
+      "start_char": 2758,
+      "end_char": 2766
+    },
+    {
+      "text": "Mineral Concession Rules, 1960",
+      "label": "STATUTE",
+      "start_char": 2783,
+      "end_char": 2813
+    },
+    {
+      "text": "Sandur Taluk",
+      "label": "GPE",
+      "start_char": 2907,
+      "end_char": 2919
+    },
+    {
+      "text": "Bellary District",
+      "label": "GPE",
+      "start_char": 2921,
+      "end_char": 2937
+    },
+    {
+      "text": "28.02.2004",
+      "label": "DATE",
+      "start_char": 3047,
+      "end_char": 3057
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 3085,
+      "end_char": 3103
+    },
+    {
+      "text": "Section 5(1)",
+      "label": "PROVISION",
+      "start_char": 3116,
+      "end_char": 3128
+    },
+    {
+      "text": "MMDR Act",
+      "label": "STATUTE",
+      "start_char": 3136,
+      "end_char": 3144
+    },
+    {
+      "text": "08.04.2004",
+      "label": "DATE",
+      "start_char": 3326,
+      "end_char": 3336
+    },
+    {
+      "text": "08.04.2004",
+      "label": "DATE",
+      "start_char": 3470,
+      "end_char": 3480
+    },
+    {
+      "text": "08.04.2004",
+      "label": "DATE",
+      "start_char": 3581,
+      "end_char": 3591
+    },
+    {
+      "text": "W.P.No.18066/2004",
+      "label": "CASE_NUMBER",
+      "start_char": 3948,
+      "end_char": 3965
+    },
+    {
+      "text": "26.02.2009",
+      "label": "DATE",
+      "start_char": 3995,
+      "end_char": 4005
+    },
+    {
+      "text": "Writ Appeal No.1908/2009",
+      "label": "CASE_NUMBER",
+      "start_char": 4133,
+      "end_char": 4157
+    },
+    {
+      "text": "22.05.2015",
+      "label": "DATE",
+      "start_char": 4278,
+      "end_char": 4288
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 4343,
+      "end_char": 4356
+    },
+    {
+      "text": "Samaj Parivartana Samudaya",
+      "label": "OTHER_PERSON",
+      "start_char": 4372,
+      "end_char": 4398
+    },
+    {
+      "text": "State of Karnataka",
+      "label": "ORG",
+      "start_char": 4410,
+      "end_char": 4428
+    },
+    {
+      "text": "Bellary District",
+      "label": "GPE",
+      "start_char": 4459,
+      "end_char": 4475
+    },
+    {
+      "text": "(2013) 8 SCC 209",
+      "label": "CASE_NUMBER",
+      "start_char": 4701,
+      "end_char": 4717
+    },
+    {
+      "text": "21.12.2014",
+      "label": "DATE",
+      "start_char": 5415,
+      "end_char": 5425
+    },
+    {
+      "text": "21.12.2014",
+      "label": "DATE",
+      "start_char": 5663,
+      "end_char": 5673
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 5710,
+      "end_char": 5720
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 5728,
+      "end_char": 5766
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 5800,
+      "end_char": 5815
+    },
+    {
+      "text": "A.S.No.36/2015",
+      "label": "CASE_NUMBER",
+      "start_char": 5854,
+      "end_char": 5868
+    },
+    {
+      "text": "26.03.2021",
+      "label": "DATE",
+      "start_char": 6012,
+      "end_char": 6022
+    },
+    {
+      "text": "26.03.2021",
+      "label": "DATE",
+      "start_char": 6114,
+      "end_char": 6124
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 6206,
+      "end_char": 6216
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 6224,
+      "end_char": 6239
+    },
+    {
+      "text": "Shashikiran Shetty",
+      "label": "LAWYER",
+      "start_char": 6273,
+      "end_char": 6291
+    },
+    {
+      "text": "Section 19",
+      "label": "PROVISION",
+      "start_char": 6365,
+      "end_char": 6375
+    },
+    {
+      "text": "MMDR Act, 1957",
+      "label": "STATUTE",
+      "start_char": 6383,
+      "end_char": 6397
+    },
+    {
+      "text": "Rule 37",
+      "label": "PROVISION",
+      "start_char": 6402,
+      "end_char": 6409
+    },
+    {
+      "text": "Section 65",
+      "label": "PROVISION",
+      "start_char": 6549,
+      "end_char": 6559
+    },
+    {
+      "text": "Contract Act",
+      "label": "STATUTE",
+      "start_char": 6567,
+      "end_char": 6579
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 6760,
+      "end_char": 6773
+    },
+    {
+      "text": "Loop Telecom and Trading Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 6789,
+      "end_char": 6825
+    },
+    {
+      "text": "Union of India",
+      "label": "RESPONDENT",
+      "start_char": 6826,
+      "end_char": 6840
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 7085,
+      "end_char": 7095
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 7103,
+      "end_char": 7118
+    },
+    {
+      "text": "SCC 762",
+      "label": "CASE_NUMBER",
+      "start_char": 7224,
+      "end_char": 7231
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 7508,
+      "end_char": 7518
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 7526,
+      "end_char": 7541
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 7716,
+      "end_char": 7734
+    },
+    {
+      "text": "Section 5(i)",
+      "label": "PROVISION",
+      "start_char": 7787,
+      "end_char": 7799
+    },
+    {
+      "text": "MMDR Act",
+      "label": "STATUTE",
+      "start_char": 7807,
+      "end_char": 7815
+    },
+    {
+      "text": "Writ Petition No.18066/2004",
+      "label": "CASE_NUMBER",
+      "start_char": 7920,
+      "end_char": 7947
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 8041,
+      "end_char": 8054
+    },
+    {
+      "text": "Samaja Parivartana",
+      "label": "PRECEDENT",
+      "start_char": 8058,
+      "end_char": 8076
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 8166,
+      "end_char": 8184
+    },
+    {
+      "text": "08.04.2004",
+      "label": "DATE",
+      "start_char": 8234,
+      "end_char": 8244
+    },
+    {
+      "text": "21.12.2014",
+      "label": "DATE",
+      "start_char": 8861,
+      "end_char": 8871
+    },
+    {
+      "text": "Rule 37",
+      "label": "PROVISION",
+      "start_char": 9246,
+      "end_char": 9253
+    },
+    {
+      "text": "Rule 37",
+      "label": "PROVISION",
+      "start_char": 9344,
+      "end_char": 9351
+    },
+    {
+      "text": "Rule 37",
+      "label": "PROVISION",
+      "start_char": 9378,
+      "end_char": 9385
+    },
+    {
+      "text": "Bellary District",
+      "label": "GPE",
+      "start_char": 9553,
+      "end_char": 9569
+    },
+    {
+      "text": "Section 65",
+      "label": "PROVISION",
+      "start_char": 9748,
+      "end_char": 9758
+    },
+    {
+      "text": "Contract Act",
+      "label": "STATUTE",
+      "start_char": 9766,
+      "end_char": 9778
+    },
+    {
+      "text": "Section 65",
+      "label": "PROVISION",
+      "start_char": 9913,
+      "end_char": 9923
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 10295,
+      "end_char": 10305
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 10313,
+      "end_char": 10328
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 10442,
+      "end_char": 10452
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 10460,
+      "end_char": 10475
+    },
+    {
+      "text": "26.03.2021",
+      "label": "DATE",
+      "start_char": 10579,
+      "end_char": 10589
+    },
+    {
+      "text": "26.03.2021",
+      "label": "DATE",
+      "start_char": 10669,
+      "end_char": 10679
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 10916,
+      "end_char": 10929
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 11309,
+      "end_char": 11314
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 11494,
+      "end_char": 11504
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 11512,
+      "end_char": 11527
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 11567,
+      "end_char": 11580
+    },
+    {
+      "text": "MCDERMOTT INTERNATIONAL INC",
+      "label": "ORG",
+      "start_char": 11596,
+      "end_char": 11623
+    },
+    {
+      "text": "BURN STANDARD CO. LTD",
+      "label": "ORG",
+      "start_char": 11629,
+      "end_char": 11650
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 12457,
+      "end_char": 12470
+    },
+    {
+      "text": "MMTC Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 12486,
+      "end_char": 12502
+    },
+    {
+      "text": "Vedanta Limited4",
+      "label": "ORG",
+      "start_char": 12503,
+      "end_char": 12519
+    },
+    {
+      "text": "(2006) 11 SCC 181 (2019) 4 SCC 163",
+      "label": "PRECEDENT",
+      "start_char": 12537,
+      "end_char": 12571
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 12625,
+      "end_char": 12635
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 12644,
+      "end_char": 12654
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 12721,
+      "end_char": 12731
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 12786,
+      "end_char": 12796
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 12965,
+      "end_char": 12975
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 13111,
+      "end_char": 13121
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 13158,
+      "end_char": 13168
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 13292,
+      "end_char": 13305
+    },
+    {
+      "text": "Patel Engineering Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 13321,
+      "end_char": 13350
+    },
+    {
+      "text": "North Eastern Electric Power Corporation Limited5",
+      "label": "ORG",
+      "start_char": 13351,
+      "end_char": 13400
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 13977,
+      "end_char": 13987
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 14824,
+      "end_char": 14834
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 14842,
+      "end_char": 14857
+    },
+    {
+      "text": "Rule 37",
+      "label": "PROVISION",
+      "start_char": 15175,
+      "end_char": 15182
+    },
+    {
+      "text": "Rule 37",
+      "label": "PROVISION",
+      "start_char": 15303,
+      "end_char": 15310
+    },
+    {
+      "text": "Rule 37",
+      "label": "PROVISION",
+      "start_char": 15594,
+      "end_char": 15601
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 15846,
+      "end_char": 15851
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 16175,
+      "end_char": 16185
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 16193,
+      "end_char": 16208
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 16359,
+      "end_char": 16364
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 16413,
+      "end_char": 16418
+    },
+    {
+      "text": "Loop Telecom",
+      "label": "PRECEDENT",
+      "start_char": 16468,
+      "end_char": 16480
+    },
+    {
+      "text": "DOT",
+      "label": "ORG",
+      "start_char": 16636,
+      "end_char": 16639
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 16969,
+      "end_char": 16982
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 17250,
+      "end_char": 17263
+    },
+    {
+      "text": "Loop Telecom",
+      "label": "PRECEDENT",
+      "start_char": 17279,
+      "end_char": 17291
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 17363,
+      "end_char": 17376
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 17827,
+      "end_char": 17840
+    },
+    {
+      "text": "Loop Telecom",
+      "label": "PRECEDENT",
+      "start_char": 17856,
+      "end_char": 17868
+    },
+    {
+      "text": "Section 65",
+      "label": "PROVISION",
+      "start_char": 18108,
+      "end_char": 18118
+    },
+    {
+      "text": "Contract Act",
+      "label": "STATUTE",
+      "start_char": 18126,
+      "end_char": 18138
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 18364,
+      "end_char": 18377
+    },
+    {
+      "text": "Immani Appa Rao and others v. Gollapalli Ramalingamurthi and others7",
+      "label": "PRECEDENT",
+      "start_char": 18393,
+      "end_char": 18461
+    },
+    {
+      "text": "P.Ramanatha",
+      "label": "OTHER_PERSON",
+      "start_char": 19126,
+      "end_char": 19137
+    },
+    {
+      "text": "Wright",
+      "label": "OTHER_PERSON",
+      "start_char": 19747,
+      "end_char": 19753
+    },
+    {
+      "text": "Wright",
+      "label": "OTHER_PERSON",
+      "start_char": 19902,
+      "end_char": 19908
+    },
+    {
+      "text": "AIR 1962 SC 370",
+      "label": "PRECEDENT",
+      "start_char": 20294,
+      "end_char": 20309
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 21239,
+      "end_char": 21252
+    },
+    {
+      "text": "Narayanamma and another v. Govindappa and others8",
+      "label": "PRECEDENT",
+      "start_char": 21273,
+      "end_char": 21322
+    },
+    {
+      "text": "Immani Appa Rao (AIR 1962 SC 370)",
+      "label": "PRECEDENT",
+      "start_char": 21405,
+      "end_char": 21438
+    },
+    {
+      "text": "Immani Appa Rao",
+      "label": "PRECEDENT",
+      "start_char": 21634,
+      "end_char": 21649
+    },
+    {
+      "text": "Gajendragadkar",
+      "label": "JUDGE",
+      "start_char": 22182,
+      "end_char": 22196
+    },
+    {
+      "text": "Immani Appa Rao",
+      "label": "PRECEDENT",
+      "start_char": 22204,
+      "end_char": 22219
+    },
+    {
+      "text": "AIR 2019 SC 4654",
+      "label": "PRECEDENT",
+      "start_char": 22246,
+      "end_char": 22262
+    },
+    {
+      "text": "Rule 37",
+      "label": "PROVISION",
+      "start_char": 22611,
+      "end_char": 22618
+    },
+    {
+      "text": "Part A and Part B of] the First Schedule",
+      "label": "PROVISION",
+      "start_char": 22846,
+      "end_char": 22886
+    },
+    {
+      "text": "Central Government]--",
+      "label": "ORG",
+      "start_char": 22936,
+      "end_char": 22957
+    },
+    {
+      "text": "Rule 37",
+      "label": "PROVISION",
+      "start_char": 23774,
+      "end_char": 23781
+    },
+    {
+      "text": "Loop Telecom",
+      "label": "PRECEDENT",
+      "start_char": 23856,
+      "end_char": 23868
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 23890,
+      "end_char": 23903
+    },
+    {
+      "text": "Kuju Collieries Ltd., v. Jharkhand Mines Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 23963,
+      "end_char": 24008
+    },
+    {
+      "text": "(1974) 2 SCC 533",
+      "label": "PRECEDENT",
+      "start_char": 24034,
+      "end_char": 24050
+    },
+    {
+      "text": "Hyderabad High Court",
+      "label": "COURT",
+      "start_char": 24084,
+      "end_char": 24104
+    },
+    {
+      "text": "Budhulal v. Deccan Banking Co., 1954 SCC Online Hyd 187)",
+      "label": "PRECEDENT",
+      "start_char": 24143,
+      "end_char": 24199
+    },
+    {
+      "text": "Hyderabad High Court",
+      "label": "COURT",
+      "start_char": 24207,
+      "end_char": 24227
+    },
+    {
+      "text": "Loop Telecom",
+      "label": "PRECEDENT",
+      "start_char": 24377,
+      "end_char": 24389
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 24411,
+      "end_char": 24424
+    },
+    {
+      "text": "Immani Appa Rao",
+      "label": "PRECEDENT",
+      "start_char": 24461,
+      "end_char": 24476
+    },
+    {
+      "text": "Narayanamma",
+      "label": "PRECEDENT",
+      "start_char": 24493,
+      "end_char": 24504
+    },
+    {
+      "text": "Section 65",
+      "label": "PROVISION",
+      "start_char": 24591,
+      "end_char": 24601
+    },
+    {
+      "text": "Contract Act",
+      "label": "STATUTE",
+      "start_char": 24609,
+      "end_char": 24621
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 25611,
+      "end_char": 25621
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 25629,
+      "end_char": 25644
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 25844,
+      "end_char": 25854
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 25862,
+      "end_char": 25877
+    }
+  ],
+  "precedent_clusters": {
+    "Immani Appa Rao and others v. Gollapalli Ramalingamurthi and others7": [
+      "Loop Telecom and Trading Limited Vs.",
+      "MMTC Limited Vs.",
+      "Patel Engineering Limited Vs.",
+      "Immani Appa Rao and others v. Gollapalli Ramalingamurthi and others7",
+      "Narayanamma and another v. Govindappa and others8",
+      "Kuju Collieries Ltd., v. Jharkhand Mines Ltd.",
+      "Loop Telecom",
+      "Loop Telecom",
+      "Loop Telecom",
+      "Loop Telecom",
+      "Loop Telecom",
+      "Narayanamma"
+    ],
+    "Immani Appa Rao (AIR 1962 SC 370)": [
+      "AIR 1962 SC 370",
+      "Immani Appa Rao (AIR 1962 SC 370)",
+      "Immani Appa Rao",
+      "Immani Appa Rao",
+      "Immani Appa Rao"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 37(1) (b)",
+      "Arbitration and Conciliation Act",
+      "Section 37(1) (b)",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 13(1)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 13(1)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 5(1)",
+      "MMDR Act",
+      "Section 5(1)",
+      "MMDR Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 19",
+      "MMDR Act, 1957",
+      "Section 19",
+      "MMDR Act, 1957"
+    ],
+    [
+      "Section 65",
+      "Contract Act",
+      "Section 65",
+      "Contract Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 5(i)",
+      "MMDR Act",
+      "Section 5(i)",
+      "MMDR Act"
+    ],
+    [
+      "Section 65",
+      "Contract Act",
+      "Section 65",
+      "Contract Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 65",
+      "Contract Act",
+      "Section 65",
+      "Contract Act"
+    ],
+    [
+      "Section 65",
+      "Contract Act",
+      "Section 65",
+      "Contract Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Rule 37",
+      "MMDR Act, 1957",
+      "Rule 37",
+      "MMDR Act, 1957"
+    ],
+    [
+      "Rule 37",
+      "MMDR Act, 1957",
+      "Rule 37",
+      "MMDR Act, 1957"
+    ],
+    [
+      "Rule 37",
+      "MMDR Act, 1957",
+      "Rule 37",
+      "MMDR Act, 1957"
+    ],
+    [
+      "Section 65",
+      "Contract Act",
+      "Section 65",
+      "Contract Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Rule 37",
+      "MMDR Act, 1957",
+      "Rule 37",
+      "MMDR Act, 1957"
+    ],
+    [
+      "Rule 37",
+      "MMDR Act, 1957",
+      "Rule 37",
+      "MMDR Act, 1957"
+    ],
+    [
+      "Rule 37",
+      "MMDR Act, 1957",
+      "Rule 37",
+      "MMDR Act, 1957"
+    ],
+    [
+      "Rule 37",
+      "MMDR Act, 1957",
+      "Rule 37",
+      "MMDR Act, 1957"
+    ],
+    [
+      "Rule 37",
+      "MMDR Act, 1957",
+      "Rule 37",
+      "MMDR Act, 1957"
+    ],
+    [
+      "Rule 4",
+      "Arbitration and Conciliation Act",
+      "Rule 4",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Rule 37",
+      "MMDR Act, 1957",
+      "Rule 37",
+      "MMDR Act, 1957"
+    ],
+    [
+      "Part A and Part B of] the First Schedule",
+      "Contract Act",
+      "Part A and Part B of] the First Schedule",
+      "Contract Act"
+    ]
+  ],
+  "precedent_counts": {
+    "Immani Appa Rao and others v. Gollapalli Ramalingamurthi and others7": 12,
+    "Immani Appa Rao (AIR 1962 SC 370)": 5
+  },
+  "provision_counts": {
+    "Section 37(1) (b) of Arbitration and Conciliation Act": 1,
+    "Section 13(1) of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 1,
+    "Section 5(1) of MMDR Act": 1,
+    "Section 34 of Arbitration and Conciliation Act, 1996": 1,
+    "Section 37 of Arbitration Act": 9,
+    "Section 19 of MMDR Act, 1957": 1,
+    "Section 65 of Contract Act": 5,
+    "Section 5(i) of MMDR Act": 1,
+    "Section 34 of Arbitration Act": 9,
+    "Rule 37 of MMDR Act, 1957": 9,
+    "Rule 4 of Arbitration and Conciliation Act": 1,
+    "Part A and Part B of] the First Schedule of Contract Act": 1
+  },
+  "statute_counts": {
+    "Arbitration and Conciliation Act": 2,
+    "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 1,
+    "MMDR Act": 2,
+    "Arbitration and Conciliation Act, 1996": 1,
+    "Arbitration Act": 18,
+    "MMDR Act, 1957": 10,
+    "Contract Act": 6
+  }
+}

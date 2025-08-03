@@ -1,0 +1,1216 @@
+{
+  "entities": [
+    {
+      "text": "Food Corporation Of India",
+      "label": "PETITIONER",
+      "start_char": 23,
+      "end_char": 48
+    },
+    {
+      "text": "Namita Paul",
+      "label": "RESPONDENT",
+      "start_char": 56,
+      "end_char": 67
+    },
+    {
+      "text": "S. Talapatra",
+      "label": "JUDGE",
+      "start_char": 151,
+      "end_char": 163
+    },
+    {
+      "text": "High Court Of Tripura\n                            Agartala",
+      "label": "COURT",
+      "start_char": 186,
+      "end_char": 244
+    },
+    {
+      "text": "Food Corporation Of India",
+      "label": "PETITIONER",
+      "start_char": 294,
+      "end_char": 319
+    },
+    {
+      "text": "Divisional Manager,\nFood Corporation Of India Divisional office, Agartala, Colonel\nChowmuhani, P.S. -West Agartala, West Tripura",
+      "label": "RESPONDENT",
+      "start_char": 523,
+      "end_char": 651
+    },
+    {
+      "text": "Namita Paul",
+      "label": "RESPONDENT",
+      "start_char": 774,
+      "end_char": 785
+    },
+    {
+      "text": "Food Corporation Of India",
+      "label": "RESPONDENT",
+      "start_char": 995,
+      "end_char": 1020
+    },
+    {
+      "text": "Divisional Manager, Food Corporation Of India Divisional office, Agartala, Colonel Chowmuhani, P.S. - West Agartala, West Tripura",
+      "label": "RESPONDENT",
+      "start_char": 1228,
+      "end_char": 1357
+    },
+    {
+      "text": "Namita Paul",
+      "label": "RESPONDENT",
+      "start_char": 1388,
+      "end_char": 1399
+    },
+    {
+      "text": "A. Bhowmik",
+      "label": "LAWYER",
+      "start_char": 1646,
+      "end_char": 1656
+    },
+    {
+      "text": "R. Datta",
+      "label": "LAWYER",
+      "start_char": 1712,
+      "end_char": 1720
+    },
+    {
+      "text": "S. Talapatra",
+      "label": "JUDGE",
+      "start_char": 1989,
+      "end_char": 2001
+    },
+    {
+      "text": "S. Talapatra",
+      "label": "JUDGE",
+      "start_char": 2052,
+      "end_char": 2064
+    },
+    {
+      "text": "Churaibari",
+      "label": "GPE",
+      "start_char": 2278,
+      "end_char": 2288
+    },
+    {
+      "text": "Chandrapur",
+      "label": "GPE",
+      "start_char": 2296,
+      "end_char": 2306
+    },
+    {
+      "text": "RFA 16 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 2404,
+      "end_char": 2418
+    },
+    {
+      "text": "Food Corporation of India",
+      "label": "ORG",
+      "start_char": 2424,
+      "end_char": 2449
+    },
+    {
+      "text": "Namita Paul",
+      "label": "RESPONDENT",
+      "start_char": 2467,
+      "end_char": 2478
+    },
+    {
+      "text": "RFA No.17 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 2561,
+      "end_char": 2578
+    },
+    {
+      "text": "Food Corporation of India",
+      "label": "ORG",
+      "start_char": 2584,
+      "end_char": 2609
+    },
+    {
+      "text": "Namita Paul",
+      "label": "RESPONDENT",
+      "start_char": 2627,
+      "end_char": 2638
+    },
+    {
+      "text": "RFA No.16 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 2664,
+      "end_char": 2681
+    },
+    {
+      "text": "Food Corporation of India",
+      "label": "ORG",
+      "start_char": 2683,
+      "end_char": 2708
+    },
+    {
+      "text": "FAX",
+      "label": "ORG",
+      "start_char": 2793,
+      "end_char": 2796
+    },
+    {
+      "text": "20.04.2009",
+      "label": "DATE",
+      "start_char": 2803,
+      "end_char": 2813
+    },
+    {
+      "text": "29.04.2009",
+      "label": "DATE",
+      "start_char": 2835,
+      "end_char": 2845
+    },
+    {
+      "text": "30.04.2009",
+      "label": "DATE",
+      "start_char": 3055,
+      "end_char": 3065
+    },
+    {
+      "text": "29.04.2009",
+      "label": "DATE",
+      "start_char": 3819,
+      "end_char": 3829
+    },
+    {
+      "text": "Churaibari",
+      "label": "GPE",
+      "start_char": 3884,
+      "end_char": 3894
+    },
+    {
+      "text": "FSD Chandrapur",
+      "label": "ORG",
+      "start_char": 3898,
+      "end_char": 3912
+    },
+    {
+      "text": "30.04.2009",
+      "label": "DATE",
+      "start_char": 3930,
+      "end_char": 3940
+    },
+    {
+      "text": "01.05.2009",
+      "label": "DATE",
+      "start_char": 4072,
+      "end_char": 4082
+    },
+    {
+      "text": "24.12.2010",
+      "label": "DATE",
+      "start_char": 4152,
+      "end_char": 4162
+    },
+    {
+      "text": "18.10.2010",
+      "label": "DATE",
+      "start_char": 4711,
+      "end_char": 4721
+    },
+    {
+      "text": "19.10.2010",
+      "label": "DATE",
+      "start_char": 4723,
+      "end_char": 4733
+    },
+    {
+      "text": "20.10.2010",
+      "label": "DATE",
+      "start_char": 4735,
+      "end_char": 4745
+    },
+    {
+      "text": "06.11.2010",
+      "label": "DATE",
+      "start_char": 4747,
+      "end_char": 4757
+    },
+    {
+      "text": "09.11.2010",
+      "label": "DATE",
+      "start_char": 4759,
+      "end_char": 4769
+    },
+    {
+      "text": "12.11.2010",
+      "label": "DATE",
+      "start_char": 4774,
+      "end_char": 4784
+    },
+    {
+      "text": "03.12.2010",
+      "label": "DATE",
+      "start_char": 5299,
+      "end_char": 5309
+    },
+    {
+      "text": "24.12.2020",
+      "label": "DATE",
+      "start_char": 5445,
+      "end_char": 5455
+    },
+    {
+      "text": "24.12.2020",
+      "label": "DATE",
+      "start_char": 5533,
+      "end_char": 5543
+    },
+    {
+      "text": "FSD, Churaibari",
+      "label": "ORG",
+      "start_char": 5910,
+      "end_char": 5925
+    },
+    {
+      "text": "FSD, Churaibari",
+      "label": "ORG",
+      "start_char": 6281,
+      "end_char": 6296
+    },
+    {
+      "text": "FSD, Chandrapur",
+      "label": "ORG",
+      "start_char": 6300,
+      "end_char": 6315
+    },
+    {
+      "text": "23.06.2011",
+      "label": "DATE",
+      "start_char": 6390,
+      "end_char": 6400
+    },
+    {
+      "text": "22.06.2011",
+      "label": "DATE",
+      "start_char": 6475,
+      "end_char": 6485
+    },
+    {
+      "text": "24.06.2011",
+      "label": "DATE",
+      "start_char": 6622,
+      "end_char": 6632
+    },
+    {
+      "text": "23.12.2011",
+      "label": "DATE",
+      "start_char": 6636,
+      "end_char": 6646
+    },
+    {
+      "text": "FSD Churaibari",
+      "label": "ORG",
+      "start_char": 6889,
+      "end_char": 6903
+    },
+    {
+      "text": "FSD Chandrapur",
+      "label": "ORG",
+      "start_char": 6907,
+      "end_char": 6921
+    },
+    {
+      "text": "24.12.2010",
+      "label": "DATE",
+      "start_char": 7338,
+      "end_char": 7348
+    },
+    {
+      "text": "23.06.2011",
+      "label": "DATE",
+      "start_char": 7352,
+      "end_char": 7362
+    },
+    {
+      "text": "24.06.2011",
+      "label": "DATE",
+      "start_char": 7795,
+      "end_char": 7805
+    },
+    {
+      "text": "30.07.2011",
+      "label": "DATE",
+      "start_char": 7809,
+      "end_char": 7819
+    },
+    {
+      "text": "19.03.2011",
+      "label": "DATE",
+      "start_char": 8303,
+      "end_char": 8313
+    },
+    {
+      "text": "24.11.2010",
+      "label": "DATE",
+      "start_char": 14600,
+      "end_char": 14610
+    },
+    {
+      "text": "apex court",
+      "label": "COURT",
+      "start_char": 16298,
+      "end_char": 16308
+    },
+    {
+      "text": "Food Corporation of India",
+      "label": "ORG",
+      "start_char": 16673,
+      "end_char": 16698
+    },
+    {
+      "text": "NEF Region",
+      "label": "ORG",
+      "start_char": 16718,
+      "end_char": 16728
+    },
+    {
+      "text": "Shillong-",
+      "label": "GPE",
+      "start_char": 16729,
+      "end_char": 16738
+    },
+    {
+      "text": "24.11.2010",
+      "label": "DATE",
+      "start_char": 16930,
+      "end_char": 16940
+    },
+    {
+      "text": "Money Suit 44/2011",
+      "label": "CASE_NUMBER",
+      "start_char": 17897,
+      "end_char": 17915
+    },
+    {
+      "text": "17.12.2011",
+      "label": "DATE",
+      "start_char": 17930,
+      "end_char": 17940
+    },
+    {
+      "text": "27.04.2012",
+      "label": "DATE",
+      "start_char": 18058,
+      "end_char": 18068
+    },
+    {
+      "text": "M.S. 28 of 2013",
+      "label": "CASE_NUMBER",
+      "start_char": 18184,
+      "end_char": 18199
+    },
+    {
+      "text": "section 10",
+      "label": "PROVISION",
+      "start_char": 18389,
+      "end_char": 18399
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 18407,
+      "end_char": 18410
+    },
+    {
+      "text": "24.11.2010",
+      "label": "DATE",
+      "start_char": 18988,
+      "end_char": 18998
+    },
+    {
+      "text": "Indranil Mandal",
+      "label": "WITNESS",
+      "start_char": 19189,
+      "end_char": 19204
+    },
+    {
+      "text": "District Commercial Court",
+      "label": "COURT",
+      "start_char": 19302,
+      "end_char": 19327
+    },
+    {
+      "text": "31.01.2019",
+      "label": "DATE",
+      "start_char": 20864,
+      "end_char": 20874
+    },
+    {
+      "text": "31.01.2019",
+      "label": "DATE",
+      "start_char": 20924,
+      "end_char": 20934
+    },
+    {
+      "text": "A. Bhaumik",
+      "label": "OTHER_PERSON",
+      "start_char": 20997,
+      "end_char": 21007
+    },
+    {
+      "text": "Bhaumik",
+      "label": "OTHER_PERSON",
+      "start_char": 21354,
+      "end_char": 21361
+    },
+    {
+      "text": "Bhaumik",
+      "label": "OTHER_PERSON",
+      "start_char": 21877,
+      "end_char": 21884
+    },
+    {
+      "text": "Bhaumik",
+      "label": "OTHER_PERSON",
+      "start_char": 22102,
+      "end_char": 22109
+    },
+    {
+      "text": "Bhaumik",
+      "label": "OTHER_PERSON",
+      "start_char": 22874,
+      "end_char": 22881
+    },
+    {
+      "text": "Bhaumik",
+      "label": "OTHER_PERSON",
+      "start_char": 23801,
+      "end_char": 23808
+    },
+    {
+      "text": "Namita Paul",
+      "label": "RESPONDENT",
+      "start_char": 24091,
+      "end_char": 24102
+    },
+    {
+      "text": "02.05.2017",
+      "label": "DATE",
+      "start_char": 24229,
+      "end_char": 24239
+    },
+    {
+      "text": "Bhaumik",
+      "label": "OTHER_PERSON",
+      "start_char": 24442,
+      "end_char": 24449
+    },
+    {
+      "text": "apex court",
+      "label": "COURT",
+      "start_char": 25147,
+      "end_char": 25157
+    },
+    {
+      "text": "Paramjit Bhasin and Others vs. Union of India and Others reported in (2005)12 SCC 642",
+      "label": "PRECEDENT",
+      "start_char": 25161,
+      "end_char": 25246
+    },
+    {
+      "text": "Section 113",
+      "label": "PROVISION",
+      "start_char": 25307,
+      "end_char": 25318
+    },
+    {
+      "text": "Motor Vehicles Act",
+      "label": "STATUTE",
+      "start_char": 25326,
+      "end_char": 25344
+    },
+    {
+      "text": "Section 114, Section 194",
+      "label": "PROVISION",
+      "start_char": 25355,
+      "end_char": 25379
+    },
+    {
+      "text": "Sections 113-115",
+      "label": "PROVISION",
+      "start_char": 25809,
+      "end_char": 25825
+    },
+    {
+      "text": "Motor Vehicles Act",
+      "label": "STATUTE",
+      "start_char": 25833,
+      "end_char": 25851
+    },
+    {
+      "text": "Bhaumik",
+      "label": "OTHER_PERSON",
+      "start_char": 26048,
+      "end_char": 26055
+    },
+    {
+      "text": "R. Datta",
+      "label": "LAWYER",
+      "start_char": 26387,
+      "end_char": 26395
+    },
+    {
+      "text": "Datta",
+      "label": "LAWYER",
+      "start_char": 26636,
+      "end_char": 26641
+    },
+    {
+      "text": "03.01.2009",
+      "label": "DATE",
+      "start_char": 26719,
+      "end_char": 26729
+    },
+    {
+      "text": "FSD Churaibari",
+      "label": "ORG",
+      "start_char": 26988,
+      "end_char": 27002
+    },
+    {
+      "text": "FSD Chandrapur",
+      "label": "ORG",
+      "start_char": 27006,
+      "end_char": 27020
+    },
+    {
+      "text": "Datta",
+      "label": "LAWYER",
+      "start_char": 27037,
+      "end_char": 27042
+    },
+    {
+      "text": "Datta",
+      "label": "LAWYER",
+      "start_char": 27313,
+      "end_char": 27318
+    },
+    {
+      "text": "Datta",
+      "label": "LAWYER",
+      "start_char": 28035,
+      "end_char": 28040
+    },
+    {
+      "text": "Fateh Chand vs. Balkishan Dass reported in AIR 1963 SC 1405",
+      "label": "PRECEDENT",
+      "start_char": 28598,
+      "end_char": 28657
+    },
+    {
+      "text": "Indian Contract Act",
+      "label": "STATUTE",
+      "start_char": 28666,
+      "end_char": 28685
+    },
+    {
+      "text": "Datta",
+      "label": "LAWYER",
+      "start_char": 28690,
+      "end_char": 28695
+    },
+    {
+      "text": "Section 74",
+      "label": "PROVISION",
+      "start_char": 28732,
+      "end_char": 28742
+    },
+    {
+      "text": "Section-74",
+      "label": "PROVISION",
+      "start_char": 28850,
+      "end_char": 28860
+    },
+    {
+      "text": "Indian Contract Act",
+      "label": "STATUTE",
+      "start_char": 28868,
+      "end_char": 28887
+    },
+    {
+      "text": "Section-74",
+      "label": "PROVISION",
+      "start_char": 29082,
+      "end_char": 29092
+    },
+    {
+      "text": "Datta",
+      "label": "LAWYER",
+      "start_char": 29243,
+      "end_char": 29248
+    },
+    {
+      "text": "Section 73",
+      "label": "PROVISION",
+      "start_char": 29360,
+      "end_char": 29370
+    },
+    {
+      "text": "Datta",
+      "label": "LAWYER",
+      "start_char": 29461,
+      "end_char": 29466
+    },
+    {
+      "text": "Section 74",
+      "label": "PROVISION",
+      "start_char": 29619,
+      "end_char": 29629
+    },
+    {
+      "text": "Fateh Chand",
+      "label": "PRECEDENT",
+      "start_char": 29638,
+      "end_char": 29649
+    },
+    {
+      "text": "Datta",
+      "label": "LAWYER",
+      "start_char": 29826,
+      "end_char": 29831
+    },
+    {
+      "text": "apex court",
+      "label": "COURT",
+      "start_char": 29894,
+      "end_char": 29904
+    },
+    {
+      "text": "Union of India vs. Rampur Distillery and Chemical Company Limited reported in (1973) 1 SCC 649",
+      "label": "PRECEDENT",
+      "start_char": 29908,
+      "end_char": 30002
+    },
+    {
+      "text": "apex court",
+      "label": "COURT",
+      "start_char": 30480,
+      "end_char": 30490
+    },
+    {
+      "text": "Maula Bux vs. Union of India reported in (1969) 2 SCC 554",
+      "label": "PRECEDENT",
+      "start_char": 30494,
+      "end_char": 30551
+    },
+    {
+      "text": "Datta",
+      "label": "LAWYER",
+      "start_char": 30694,
+      "end_char": 30699
+    },
+    {
+      "text": "apex court",
+      "label": "COURT",
+      "start_char": 30770,
+      "end_char": 30780
+    },
+    {
+      "text": "Chief Executive Officer and Vice Chairman Gujrat Maritime Board vs. Asiatic Steel Industries Limited and Others reported in 2020 SCC Online SC 949",
+      "label": "PRECEDENT",
+      "start_char": 30784,
+      "end_char": 30930
+    },
+    {
+      "text": "apex court",
+      "label": "COURT",
+      "start_char": 30936,
+      "end_char": 30946
+    },
+    {
+      "text": "Dilbagh Rai Jarry vs. Union of India reported in (1974) 3 SCC 554",
+      "label": "PRECEDENT",
+      "start_char": 31208,
+      "end_char": 31273
+    },
+    {
+      "text": "Dilbagh Rai Jarry",
+      "label": "PRECEDENT",
+      "start_char": 31278,
+      "end_char": 31295
+    },
+    {
+      "text": "apex court",
+      "label": "COURT",
+      "start_char": 31309,
+      "end_char": 31319
+    },
+    {
+      "text": "Kerala High Court",
+      "label": "COURT",
+      "start_char": 31360,
+      "end_char": 31377
+    },
+    {
+      "text": "Section 61 and 62",
+      "label": "PROVISION",
+      "start_char": 33283,
+      "end_char": 33300
+    },
+    {
+      "text": "Indian Evidence Act",
+      "label": "STATUTE",
+      "start_char": 33308,
+      "end_char": 33327
+    },
+    {
+      "text": "Section 61",
+      "label": "PROVISION",
+      "start_char": 33363,
+      "end_char": 33373
+    },
+    {
+      "text": "Indian Evidence Act",
+      "label": "STATUTE",
+      "start_char": 33381,
+      "end_char": 33400
+    },
+    {
+      "text": "Section 62",
+      "label": "PROVISION",
+      "start_char": 33514,
+      "end_char": 33524
+    },
+    {
+      "text": "Indian Evidence Act",
+      "label": "STATUTE",
+      "start_char": 33528,
+      "end_char": 33547
+    },
+    {
+      "text": "03.01.2009",
+      "label": "DATE",
+      "start_char": 33972,
+      "end_char": 33982
+    },
+    {
+      "text": "Datta",
+      "label": "LAWYER",
+      "start_char": 34551,
+      "end_char": 34556
+    },
+    {
+      "text": "Section-73",
+      "label": "PROVISION",
+      "start_char": 34695,
+      "end_char": 34705
+    },
+    {
+      "text": "Indian Contract Act",
+      "label": "STATUTE",
+      "start_char": 34713,
+      "end_char": 34732
+    },
+    {
+      "text": "District Commercial Court",
+      "label": "COURT",
+      "start_char": 35236,
+      "end_char": 35261
+    },
+    {
+      "text": "RFA 16 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 35300,
+      "end_char": 35314
+    },
+    {
+      "text": "31.01.2019",
+      "label": "DATE",
+      "start_char": 35352,
+      "end_char": 35362
+    },
+    {
+      "text": "RFA No.17 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 35388,
+      "end_char": 35405
+    },
+    {
+      "text": "Food Corporation of India",
+      "label": "ORG",
+      "start_char": 35411,
+      "end_char": 35436
+    },
+    {
+      "text": "Namita Paul",
+      "label": "RESPONDENT",
+      "start_char": 35452,
+      "end_char": 35463
+    },
+    {
+      "text": "31.01.2019",
+      "label": "DATE",
+      "start_char": 35485,
+      "end_char": 35495
+    },
+    {
+      "text": "Commercial Suit 07 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 35509,
+      "end_char": 35535
+    },
+    {
+      "text": "District Commercial Judge, Court No.2, West Tripura, Agartala",
+      "label": "COURT",
+      "start_char": 35543,
+      "end_char": 35604
+    },
+    {
+      "text": "03.01.2009",
+      "label": "DATE",
+      "start_char": 36100,
+      "end_char": 36110
+    },
+    {
+      "text": "Food Corporation of India",
+      "label": "ORG",
+      "start_char": 36260,
+      "end_char": 36285
+    },
+    {
+      "text": "29.04.2009",
+      "label": "DATE",
+      "start_char": 36330,
+      "end_char": 36340
+    },
+    {
+      "text": "Motor Vehicles Act",
+      "label": "STATUTE",
+      "start_char": 36567,
+      "end_char": 36585
+    },
+    {
+      "text": "RFA 17 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 36768,
+      "end_char": 36782
+    },
+    {
+      "text": "Paramjit Bhasin",
+      "label": "OTHER_PERSON",
+      "start_char": 36903,
+      "end_char": 36918
+    },
+    {
+      "text": "Union of India",
+      "label": "RESPONDENT",
+      "start_char": 36930,
+      "end_char": 36944
+    },
+    {
+      "text": "Area Manager, Food Corporation of India, Agartala",
+      "label": "RESPONDENT",
+      "start_char": 37394,
+      "end_char": 37443
+    },
+    {
+      "text": "19.03.2011",
+      "label": "DATE",
+      "start_char": 37486,
+      "end_char": 37496
+    },
+    {
+      "text": "02.04.2011",
+      "label": "DATE",
+      "start_char": 37498,
+      "end_char": 37508
+    },
+    {
+      "text": "18.06.2011",
+      "label": "DATE",
+      "start_char": 37510,
+      "end_char": 37520
+    },
+    {
+      "text": "21.07.2011",
+      "label": "DATE",
+      "start_char": 37522,
+      "end_char": 37532
+    },
+    {
+      "text": "26.08.2011",
+      "label": "DATE",
+      "start_char": 37537,
+      "end_char": 37547
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 38042,
+      "end_char": 38055
+    },
+    {
+      "text": "Sections 113-115",
+      "label": "PROVISION",
+      "start_char": 38096,
+      "end_char": 38112
+    },
+    {
+      "text": "Motor Vehicles Act",
+      "label": "STATUTE",
+      "start_char": 38120,
+      "end_char": 38138
+    },
+    {
+      "text": "30.04.2011",
+      "label": "DATE",
+      "start_char": 38331,
+      "end_char": 38341
+    },
+    {
+      "text": "19.10.2020",
+      "label": "DATE",
+      "start_char": 38348,
+      "end_char": 38358
+    },
+    {
+      "text": "24-11-2010",
+      "label": "DATE",
+      "start_char": 41240,
+      "end_char": 41250
+    },
+    {
+      "text": "24.12.2010",
+      "label": "DATE",
+      "start_char": 41363,
+      "end_char": 41373
+    },
+    {
+      "text": "24.03.2011",
+      "label": "DATE",
+      "start_char": 41466,
+      "end_char": 41476
+    },
+    {
+      "text": "22.06.2011",
+      "label": "DATE",
+      "start_char": 41582,
+      "end_char": 41592
+    },
+    {
+      "text": "19.03.2011",
+      "label": "DATE",
+      "start_char": 41657,
+      "end_char": 41667
+    },
+    {
+      "text": "02.04.2011",
+      "label": "DATE",
+      "start_char": 41669,
+      "end_char": 41679
+    },
+    {
+      "text": "18.06.2011",
+      "label": "DATE",
+      "start_char": 41681,
+      "end_char": 41691
+    },
+    {
+      "text": "21.07.2011",
+      "label": "DATE",
+      "start_char": 41693,
+      "end_char": 41703
+    },
+    {
+      "text": "26.08.2011",
+      "label": "DATE",
+      "start_char": 41708,
+      "end_char": 41718
+    },
+    {
+      "text": "Parimal Chandra Pal",
+      "label": "WITNESS",
+      "start_char": 42359,
+      "end_char": 42378
+    },
+    {
+      "text": "12.07.2010",
+      "label": "DATE",
+      "start_char": 42552,
+      "end_char": 42562
+    },
+    {
+      "text": "Indranil Mandal",
+      "label": "WITNESS",
+      "start_char": 42634,
+      "end_char": 42649
+    },
+    {
+      "text": "31.01.2019",
+      "label": "DATE",
+      "start_char": 42809,
+      "end_char": 42819
+    },
+    {
+      "text": "A. Bhaumik",
+      "label": "OTHER_PERSON",
+      "start_char": 44230,
+      "end_char": 44240
+    },
+    {
+      "text": "Bhaumik",
+      "label": "OTHER_PERSON",
+      "start_char": 44455,
+      "end_char": 44462
+    },
+    {
+      "text": "R. Datta",
+      "label": "LAWYER",
+      "start_char": 45112,
+      "end_char": 45120
+    },
+    {
+      "text": "RFA 16 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 45522,
+      "end_char": 45536
+    },
+    {
+      "text": "RFA 16 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 45603,
+      "end_char": 45617
+    },
+    {
+      "text": "District Commercial Court",
+      "label": "COURT",
+      "start_char": 46835,
+      "end_char": 46860
+    },
+    {
+      "text": "31.01.2019",
+      "label": "DATE",
+      "start_char": 47847,
+      "end_char": 47857
+    },
+    {
+      "text": "Moumita",
+      "label": "JUDGE",
+      "start_char": 48070,
+      "end_char": 48077
+    }
+  ],
+  "precedent_clusters": {
+    "Fateh Chand vs. Balkishan Dass reported in AIR 1963 SC 1405": [
+      "Fateh Chand vs. Balkishan Dass reported in AIR 1963 SC 1405",
+      "Fateh Chand"
+    ],
+    "Dilbagh Rai Jarry vs. Union of India reported in (1974) 3 SCC 554": [
+      "Dilbagh Rai Jarry vs. Union of India reported in (1974) 3 SCC 554",
+      "Dilbagh Rai Jarry"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "section 10",
+      "CPC",
+      "section 10",
+      "CPC"
+    ],
+    [
+      "Section 113",
+      "Motor Vehicles Act",
+      "Section 113",
+      "Motor Vehicles Act"
+    ],
+    [
+      "Sections 113-115",
+      "Motor Vehicles Act",
+      "Sections 113-115",
+      "Motor Vehicles Act"
+    ],
+    [
+      "Section-74",
+      "Indian Contract Act",
+      "Section-74",
+      "Indian Contract Act"
+    ],
+    [
+      "Section 61 and 62",
+      "Indian Evidence Act",
+      "Section 61 and 62",
+      "Indian Evidence Act"
+    ],
+    [
+      "Section 61",
+      "Indian Evidence Act",
+      "Section 61",
+      "Indian Evidence Act"
+    ],
+    [
+      "Section 62",
+      "Indian Evidence Act",
+      "Section 62",
+      "Indian Evidence Act"
+    ],
+    [
+      "Section-73",
+      "Indian Contract Act",
+      "Section-73",
+      "Indian Contract Act"
+    ],
+    [
+      "Sections 113-115",
+      "Motor Vehicles Act",
+      "Sections 113-115",
+      "Motor Vehicles Act"
+    ],
+    [
+      "Section-74",
+      "Indian Contract Act",
+      "Section-74",
+      "Indian Contract Act"
+    ],
+    [
+      "Section 74",
+      "Indian Contract Act",
+      "Section 74",
+      "Indian Contract Act"
+    ],
+    [
+      "Section 114, Section 194",
+      "Motor Vehicles Act",
+      "Section 114, Section 194",
+      "Motor Vehicles Act"
+    ],
+    [
+      "Section 74",
+      "Indian Contract Act",
+      "Section 74",
+      "Indian Contract Act"
+    ],
+    [
+      "Section 73",
+      "Indian Contract Act",
+      "Section 73",
+      "Indian Contract Act"
+    ]
+  ],
+  "precedent_counts": {
+    "Fateh Chand vs. Balkishan Dass reported in AIR 1963 SC 1405": 2,
+    "Dilbagh Rai Jarry vs. Union of India reported in (1974) 3 SCC 554": 2
+  },
+  "provision_counts": {
+    "section 10 of CPC": 1,
+    "Section 113 of Motor Vehicles Act": 1,
+    "Sections 113-115 of Motor Vehicles Act": 2,
+    "Section-74 of Indian Contract Act": 2,
+    "Section 61 and 62 of Indian Evidence Act": 1,
+    "Section 61 of Indian Evidence Act": 1,
+    "Section 62 of Indian Evidence Act": 1,
+    "Section-73 of Indian Contract Act": 1,
+    "Section 74 of Indian Contract Act": 2,
+    "Section 114, Section 194 of Motor Vehicles Act": 1,
+    "Section 73 of Indian Contract Act": 1
+  },
+  "statute_counts": {
+    "CPC": 1,
+    "Motor Vehicles Act": 4,
+    "Indian Contract Act": 6,
+    "Indian Evidence Act": 3
+  }
+}

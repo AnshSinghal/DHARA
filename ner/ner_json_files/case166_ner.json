@@ -1,0 +1,4636 @@
+{
+  "entities": [
+    {
+      "text": "Gujarat High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 18
+    },
+    {
+      "text": "Daxin Gujarat Vij Company Ltd",
+      "label": "PETITIONER",
+      "start_char": 19,
+      "end_char": 48
+    },
+    {
+      "text": "Essar Steel India Ltd",
+      "label": "RESPONDENT",
+      "start_char": 64,
+      "end_char": 85
+    },
+    {
+      "text": "24 February, 2023",
+      "label": "DATE",
+      "start_char": 89,
+      "end_char": 106
+    },
+    {
+      "text": "Sonia Gokani",
+      "label": "JUDGE",
+      "start_char": 115,
+      "end_char": 127
+    },
+    {
+      "text": "Sonia Gokani",
+      "label": "JUDGE",
+      "start_char": 135,
+      "end_char": 147
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 220,
+      "end_char": 230
+    },
+    {
+      "text": "HIGH COURT OF GUJARAT AT AHMEDABAD",
+      "label": "COURT",
+      "start_char": 252,
+      "end_char": 286
+    },
+    {
+      "text": "R/FIRST APPEAL NO. 3659 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 468,
+      "end_char": 499
+    },
+    {
+      "text": "R/FIRST APPEAL NO. 3659 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 626,
+      "end_char": 657
+    },
+    {
+      "text": "SONIA GOKANI",
+      "label": "JUDGE",
+      "start_char": 727,
+      "end_char": 739
+    },
+    {
+      "text": "HEMANT M. PRACHCHHAK",
+      "label": "JUDGE",
+      "start_char": 767,
+      "end_char": 787
+    },
+    {
+      "text": "Constitution       of India",
+      "label": "STATUTE",
+      "start_char": 1286,
+      "end_char": 1313
+    },
+    {
+      "text": "DAXIN GUJARAT VIJ COMPANY LTD",
+      "label": "PETITIONER",
+      "start_char": 1434,
+      "end_char": 1463
+    },
+    {
+      "text": "ESSAR STEEL INDIA LTD",
+      "label": "RESPONDENT",
+      "start_char": 1543,
+      "end_char": 1564
+    },
+    {
+      "text": "MR.ANSHIN DESAI",
+      "label": "OTHER_PERSON",
+      "start_char": 1675,
+      "end_char": 1690
+    },
+    {
+      "text": "LILU K BHAYA(1705",
+      "label": "OTHER_PERSON",
+      "start_char": 1706,
+      "end_char": 1723
+    },
+    {
+      "text": "SHRINEEL SHAH",
+      "label": "OTHER_PERSON",
+      "start_char": 1732,
+      "end_char": 1745
+    },
+    {
+      "text": "LD.SR.ADV",
+      "label": "CASE_NUMBER",
+      "start_char": 1773,
+      "end_char": 1782
+    },
+    {
+      "text": "A.M. SINGHVI",
+      "label": "OTHER_PERSON",
+      "start_char": 1787,
+      "end_char": 1799
+    },
+    {
+      "text": "NAVIN PAHWA",
+      "label": "OTHER_PERSON",
+      "start_char": 1820,
+      "end_char": 1831
+    },
+    {
+      "text": "RITIN RAI",
+      "label": "OTHER_PERSON",
+      "start_char": 1852,
+      "end_char": 1861
+    },
+    {
+      "text": "RUBY SINGH AHUJA",
+      "label": "OTHER_PERSON",
+      "start_char": 1877,
+      "end_char": 1893
+    },
+    {
+      "text": "KEYUR GANDHI",
+      "label": "OTHER_PERSON",
+      "start_char": 1899,
+      "end_char": 1911
+    },
+    {
+      "text": "VISHAL GEHRANA",
+      "label": "OTHER_PERSON",
+      "start_char": 1917,
+      "end_char": 1931
+    },
+    {
+      "text": "NISARG DESAI",
+      "label": "OTHER_PERSON",
+      "start_char": 1937,
+      "end_char": 1949
+    },
+    {
+      "text": "PRAVALIKHA",
+      "label": "LAWYER",
+      "start_char": 1954,
+      "end_char": 1964
+    },
+    {
+      "text": "RITIKA SINHA",
+      "label": "OTHER_PERSON",
+      "start_char": 1969,
+      "end_char": 1981
+    },
+    {
+      "text": "MR.AMIT BHANDARI",
+      "label": "OTHER_PERSON",
+      "start_char": 1983,
+      "end_char": 1999
+    },
+    {
+      "text": "GANDHI LAW ASSOCIATESGANDHI LAW ASSOCIATES(12275",
+      "label": "ORG",
+      "start_char": 2004,
+      "end_char": 2052
+    },
+    {
+      "text": "SONIA GOKANI",
+      "label": "JUDGE",
+      "start_char": 2269,
+      "end_char": 2281
+    },
+    {
+      "text": "HEMANT M.\n          PRACHCHHAK",
+      "label": "JUDGE",
+      "start_char": 2329,
+      "end_char": 2359
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 2398,
+      "end_char": 2408
+    },
+    {
+      "text": "JUSTICE SONIA GOKANI",
+      "label": "OTHER_PERSON",
+      "start_char": 2494,
+      "end_char": 2514
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 2516,
+      "end_char": 2543
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 2551,
+      "end_char": 2561
+    },
+    {
+      "text": "28.09.2021",
+      "label": "DATE",
+      "start_char": 2607,
+      "end_char": 2617
+    },
+    {
+      "text": "Additional Senior Civil Judge, Surat",
+      "label": "COURT",
+      "start_char": 2645,
+      "end_char": 2681
+    },
+    {
+      "text": "Commercial Civil Suit No.4 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 2721,
+      "end_char": 2755
+    },
+    {
+      "text": "Old Special Civil Suit No.373/2016",
+      "label": "CASE_NUMBER",
+      "start_char": 2757,
+      "end_char": 2791
+    },
+    {
+      "text": "Companies Act, 1956",
+      "label": "STATUTE",
+      "start_char": 3025,
+      "end_char": 3044
+    },
+    {
+      "text": "Gujarat",
+      "label": "GPE",
+      "start_char": 3150,
+      "end_char": 3157
+    },
+    {
+      "text": "Essar Steel India Limited",
+      "label": "ORG",
+      "start_char": 3168,
+      "end_char": 3193
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 3233,
+      "end_char": 3243
+    },
+    {
+      "text": "Arcelor Mittal Nippon Steel India Limited",
+      "label": "ORG",
+      "start_char": 3253,
+      "end_char": 3294
+    },
+    {
+      "text": "Arcelor Mittal",
+      "label": "ORG",
+      "start_char": 3301,
+      "end_char": 3315
+    },
+    {
+      "text": "Hazira",
+      "label": "GPE",
+      "start_char": 3390,
+      "end_char": 3396
+    },
+    {
+      "text": "Essar Steel India Limited",
+      "label": "ORG",
+      "start_char": 3440,
+      "end_char": 3465
+    },
+    {
+      "text": "Hazira",
+      "label": "GPE",
+      "start_char": 3586,
+      "end_char": 3592
+    },
+    {
+      "text": "Essar Power Limited",
+      "label": "ORG",
+      "start_char": 3672,
+      "end_char": 3691
+    },
+    {
+      "text": "Gujarat Electricity Board",
+      "label": "ORG",
+      "start_char": 3743,
+      "end_char": 3768
+    },
+    {
+      "text": "30.05.1996",
+      "label": "DATE",
+      "start_char": 3819,
+      "end_char": 3829
+    },
+    {
+      "text": "Essar Power Limited",
+      "label": "ORG",
+      "start_char": 3895,
+      "end_char": 3914
+    },
+    {
+      "text": "Essar Steel India",
+      "label": "ORG",
+      "start_char": 3964,
+      "end_char": 3981
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 4017,
+      "end_char": 4027
+    },
+    {
+      "text": "Essar Steel India Limited",
+      "label": "ORG",
+      "start_char": 4072,
+      "end_char": 4097
+    },
+    {
+      "text": "Bhander Power Limited",
+      "label": "ORG",
+      "start_char": 4104,
+      "end_char": 4125
+    },
+    {
+      "text": "Hazira",
+      "label": "GPE",
+      "start_char": 4230,
+      "end_char": 4236
+    },
+    {
+      "text": "Bhander Power Limited",
+      "label": "ORG",
+      "start_char": 4297,
+      "end_char": 4318
+    },
+    {
+      "text": "Essar Power Limited",
+      "label": "ORG",
+      "start_char": 4323,
+      "end_char": 4342
+    },
+    {
+      "text": "Essar Steel",
+      "label": "ORG",
+      "start_char": 4455,
+      "end_char": 4466
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 4684,
+      "end_char": 4711
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 4719,
+      "end_char": 4729
+    },
+    {
+      "text": "Gujarat Energy Transmission Corporation",
+      "label": "ORG",
+      "start_char": 4838,
+      "end_char": 4877
+    },
+    {
+      "text": "Bhander Power Limited",
+      "label": "ORG",
+      "start_char": 5018,
+      "end_char": 5039
+    },
+    {
+      "text": "Essar Steel India Limited",
+      "label": "ORG",
+      "start_char": 5043,
+      "end_char": 5068
+    },
+    {
+      "text": "Essar Steel India Limited",
+      "label": "ORG",
+      "start_char": 5104,
+      "end_char": 5129
+    },
+    {
+      "text": "Ichhapor-Sachin Electricity Line",
+      "label": "ORG",
+      "start_char": 5171,
+      "end_char": 5203
+    },
+    {
+      "text": "Essar Steel",
+      "label": "ORG",
+      "start_char": 5209,
+      "end_char": 5220
+    },
+    {
+      "text": "D.G.V.C.L.",
+      "label": "ORG",
+      "start_char": 5292,
+      "end_char": 5302
+    },
+    {
+      "text": "Essar Steel",
+      "label": "ORG",
+      "start_char": 5336,
+      "end_char": 5347
+    },
+    {
+      "text": "Essar Steel",
+      "label": "ORG",
+      "start_char": 5375,
+      "end_char": 5386
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 5443,
+      "end_char": 5470
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 5478,
+      "end_char": 5488
+    },
+    {
+      "text": "01.02.2010",
+      "label": "DATE",
+      "start_char": 5598,
+      "end_char": 5608
+    },
+    {
+      "text": "Gujarat Urja Vikas Nigam Limited",
+      "label": "ORG",
+      "start_char": 5638,
+      "end_char": 5670
+    },
+    {
+      "text": "GETCO",
+      "label": "ORG",
+      "start_char": 5717,
+      "end_char": 5722
+    },
+    {
+      "text": "Essar Steel",
+      "label": "ORG",
+      "start_char": 5774,
+      "end_char": 5785
+    },
+    {
+      "text": "Bhander Power Limited",
+      "label": "ORG",
+      "start_char": 5790,
+      "end_char": 5811
+    },
+    {
+      "text": "26.07.2011",
+      "label": "DATE",
+      "start_char": 6383,
+      "end_char": 6393
+    },
+    {
+      "text": "01.02.2010",
+      "label": "DATE",
+      "start_char": 6459,
+      "end_char": 6469
+    },
+    {
+      "text": "15.06.2011",
+      "label": "DATE",
+      "start_char": 6601,
+      "end_char": 6611
+    },
+    {
+      "text": "30.07.2011",
+      "label": "DATE",
+      "start_char": 6615,
+      "end_char": 6625
+    },
+    {
+      "text": "Government of Gujarat",
+      "label": "ORG",
+      "start_char": 6636,
+      "end_char": 6657
+    },
+    {
+      "text": "Section 126(6)",
+      "label": "PROVISION",
+      "start_char": 6768,
+      "end_char": 6782
+    },
+    {
+      "text": "Electricity Act",
+      "label": "STATUTE",
+      "start_char": 6790,
+      "end_char": 6805
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 6909,
+      "end_char": 6936
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 6944,
+      "end_char": 6954
+    },
+    {
+      "text": "Section 127",
+      "label": "PROVISION",
+      "start_char": 6975,
+      "end_char": 6986
+    },
+    {
+      "text": "Electricity Act",
+      "label": "STATUTE",
+      "start_char": 6994,
+      "end_char": 7009
+    },
+    {
+      "text": "01.11.2013",
+      "label": "DATE",
+      "start_char": 7278,
+      "end_char": 7288
+    },
+    {
+      "text": "Special Civil Application No.2859 of 2014",
+      "label": "CASE_NUMBER",
+      "start_char": 7468,
+      "end_char": 7509
+    },
+    {
+      "text": "Special Civil Application No.5494 of 2014",
+      "label": "CASE_NUMBER",
+      "start_char": 7545,
+      "end_char": 7586
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 7601,
+      "end_char": 7628
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 7636,
+      "end_char": 7646
+    },
+    {
+      "text": "22.01.2015",
+      "label": "DATE",
+      "start_char": 7685,
+      "end_char": 7695
+    },
+    {
+      "text": "Special Civil Application No.5494 of 2014",
+      "label": "CASE_NUMBER",
+      "start_char": 7716,
+      "end_char": 7757
+    },
+    {
+      "text": "Special Civil Application No.2859 of 2014",
+      "label": "CASE_NUMBER",
+      "start_char": 7907,
+      "end_char": 7948
+    },
+    {
+      "text": "Special Civil Application No.5494 of 2014",
+      "label": "CASE_NUMBER",
+      "start_char": 7953,
+      "end_char": 7994
+    },
+    {
+      "text": "Letters Patent Appeal Nos.465 and 466 of 2015",
+      "label": "CASE_NUMBER",
+      "start_char": 8005,
+      "end_char": 8050
+    },
+    {
+      "text": "01.11.2013",
+      "label": "DATE",
+      "start_char": 8219,
+      "end_char": 8229
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 8260,
+      "end_char": 8287
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 8295,
+      "end_char": 8305
+    },
+    {
+      "text": "1.12",
+      "label": "DATE",
+      "start_char": 8306,
+      "end_char": 8310
+    },
+    {
+      "text": "17.07.2015",
+      "label": "DATE",
+      "start_char": 8352,
+      "end_char": 8362
+    },
+    {
+      "text": "Section 127",
+      "label": "PROVISION",
+      "start_char": 8435,
+      "end_char": 8446
+    },
+    {
+      "text": "Electricity Act",
+      "label": "STATUTE",
+      "start_char": 8454,
+      "end_char": 8469
+    },
+    {
+      "text": "17.07.2015",
+      "label": "DATE",
+      "start_char": 8528,
+      "end_char": 8538
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 8607,
+      "end_char": 8617
+    },
+    {
+      "text": "Special Leave Petition (Civil) Nos.27920 and 27921 of 2015",
+      "label": "CASE_NUMBER",
+      "start_char": 8628,
+      "end_char": 8686
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 8770,
+      "end_char": 8780
+    },
+    {
+      "text": "Special Civil Suit No.373 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 8847,
+      "end_char": 8880
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 8945,
+      "end_char": 8972
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 8980,
+      "end_char": 8990
+    },
+    {
+      "text": "01.02.2010",
+      "label": "DATE",
+      "start_char": 9044,
+      "end_char": 9054
+    },
+    {
+      "text": "15.06.2011",
+      "label": "DATE",
+      "start_char": 9120,
+      "end_char": 9130
+    },
+    {
+      "text": "30.07.2011",
+      "label": "DATE",
+      "start_char": 9134,
+      "end_char": 9144
+    },
+    {
+      "text": "1.15",
+      "label": "DATE",
+      "start_char": 9146,
+      "end_char": 9150
+    },
+    {
+      "text": "Order VII Rule XI",
+      "label": "PROVISION",
+      "start_char": 9193,
+      "end_char": 9210
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 9218,
+      "end_char": 9241
+    },
+    {
+      "text": "Arcelor Mittal Nippon Steel India Limited",
+      "label": "ORG",
+      "start_char": 9430,
+      "end_char": 9471
+    },
+    {
+      "text": "Arcelor Mittal",
+      "label": "ORG",
+      "start_char": 9604,
+      "end_char": 9618
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 9690,
+      "end_char": 9717
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 9725,
+      "end_char": 9735
+    },
+    {
+      "text": "16.12.2019",
+      "label": "DATE",
+      "start_char": 9736,
+      "end_char": 9746
+    },
+    {
+      "text": "1.17",
+      "label": "DATE",
+      "start_char": 9749,
+      "end_char": 9753
+    },
+    {
+      "text": "Arcelor Mittal",
+      "label": "OTHER_PERSON",
+      "start_char": 9793,
+      "end_char": 9807
+    },
+    {
+      "text": "Special Civil Suit No.373 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 9811,
+      "end_char": 9844
+    },
+    {
+      "text": "Commercial Civil Suit No.4 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 9846,
+      "end_char": 9880
+    },
+    {
+      "text": "1.18",
+      "label": "DATE",
+      "start_char": 9970,
+      "end_char": 9974
+    },
+    {
+      "text": "28.09.2021",
+      "label": "DATE",
+      "start_char": 10087,
+      "end_char": 10097
+    },
+    {
+      "text": "Special Civil Suit No.373 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 10112,
+      "end_char": 10145
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 10353,
+      "end_char": 10380
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 10388,
+      "end_char": 10398
+    },
+    {
+      "text": "1.21",
+      "label": "DATE",
+      "start_char": 10517,
+      "end_char": 10521
+    },
+    {
+      "text": "Special Leave Petitions (Civil)No.27920 and 27921 of 2015",
+      "label": "CASE_NUMBER",
+      "start_char": 10568,
+      "end_char": 10625
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 10649,
+      "end_char": 10659
+    },
+    {
+      "text": "17.07.2015",
+      "label": "DATE",
+      "start_char": 10747,
+      "end_char": 10757
+    },
+    {
+      "text": "Letters Patent Appeal Nos.465 and 466 of 2015",
+      "label": "CASE_NUMBER",
+      "start_char": 10782,
+      "end_char": 10827
+    },
+    {
+      "text": "1.22",
+      "label": "DATE",
+      "start_char": 10995,
+      "end_char": 10999
+    },
+    {
+      "text": "Order VII Rule XI",
+      "label": "PROVISION",
+      "start_char": 11030,
+      "end_char": 11047
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 11055,
+      "end_char": 11078
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 11079,
+      "end_char": 11106
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 11114,
+      "end_char": 11124
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 11205,
+      "end_char": 11228
+    },
+    {
+      "text": "01.02.2010",
+      "label": "DATE",
+      "start_char": 11522,
+      "end_char": 11532
+    },
+    {
+      "text": "Letters Patent Appeal Nos.465 and 466 of 2015",
+      "label": "CASE_NUMBER",
+      "start_char": 11716,
+      "end_char": 11761
+    },
+    {
+      "text": "17.07.2015",
+      "label": "DATE",
+      "start_char": 11765,
+      "end_char": 11775
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 11849,
+      "end_char": 11876
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 11884,
+      "end_char": 11894
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 12058,
+      "end_char": 12068
+    },
+    {
+      "text": "Committee of Creditors of Essar Steel India Limited vs. Satish Kumar Gupta, reported in 2019 SCC Online 1478",
+      "label": "PRECEDENT",
+      "start_char": 12089,
+      "end_char": 12197
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 12565,
+      "end_char": 12575
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 12614,
+      "end_char": 12624
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 12629,
+      "end_char": 12656
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 12664,
+      "end_char": 12674
+    },
+    {
+      "text": "28.09.2021",
+      "label": "DATE",
+      "start_char": 13188,
+      "end_char": 13198
+    },
+    {
+      "text": "Commercial Civil Suit No.4/2020",
+      "label": "CASE_NUMBER",
+      "start_char": 13269,
+      "end_char": 13300
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 13537,
+      "end_char": 13564
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 13572,
+      "end_char": 13582
+    },
+    {
+      "text": "08.12.2021",
+      "label": "DATE",
+      "start_char": 13679,
+      "end_char": 13689
+    },
+    {
+      "text": "N.V.Anjaria",
+      "label": "JUDGE",
+      "start_char": 13705,
+      "end_char": 13716
+    },
+    {
+      "text": "Sandeep N. Bhatt",
+      "label": "JUDGE",
+      "start_char": 13729,
+      "end_char": 13745
+    },
+    {
+      "text": "Anshin Desai",
+      "label": "OTHER_PERSON",
+      "start_char": 13790,
+      "end_char": 13802
+    },
+    {
+      "text": "Lilu K. Bhaya",
+      "label": "OTHER_PERSON",
+      "start_char": 13840,
+      "end_char": 13853
+    },
+    {
+      "text": "Shrineel Shah",
+      "label": "OTHER_PERSON",
+      "start_char": 13861,
+      "end_char": 13874
+    },
+    {
+      "text": "Navin Pahwa",
+      "label": "OTHER_PERSON",
+      "start_char": 13905,
+      "end_char": 13916
+    },
+    {
+      "text": "Ritin Rai",
+      "label": "OTHER_PERSON",
+      "start_char": 13921,
+      "end_char": 13930
+    },
+    {
+      "text": "Ruby Singh Ahuja",
+      "label": "OTHER_PERSON",
+      "start_char": 13946,
+      "end_char": 13962
+    },
+    {
+      "text": "Keyur Gandhi",
+      "label": "OTHER_PERSON",
+      "start_char": 13967,
+      "end_char": 13979
+    },
+    {
+      "text": "Vishal Gehrana",
+      "label": "OTHER_PERSON",
+      "start_char": 13983,
+      "end_char": 13997
+    },
+    {
+      "text": "Nisarg Desai",
+      "label": "OTHER_PERSON",
+      "start_char": 14002,
+      "end_char": 14014
+    },
+    {
+      "text": "Pravalikha",
+      "label": "LAWYER",
+      "start_char": 14019,
+      "end_char": 14029
+    },
+    {
+      "text": "Ritika Sinha",
+      "label": "OTHER_PERSON",
+      "start_char": 14034,
+      "end_char": 14046
+    },
+    {
+      "text": "Amit Bhandari",
+      "label": "OTHER_PERSON",
+      "start_char": 14051,
+      "end_char": 14064
+    },
+    {
+      "text": "A.M.Singhvi",
+      "label": "LAWYER",
+      "start_char": 14072,
+      "end_char": 14083
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 14286,
+      "end_char": 14313
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 14321,
+      "end_char": 14331
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 14555,
+      "end_char": 14565
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 14597,
+      "end_char": 14607
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 14707,
+      "end_char": 14717
+    },
+    {
+      "text": "Committee of Creditors of Essar Steel India Limited",
+      "label": "PRECEDENT",
+      "start_char": 14789,
+      "end_char": 14840
+    },
+    {
+      "text": "Arcelor Mittal",
+      "label": "RESPONDENT",
+      "start_char": 14908,
+      "end_char": 14922
+    },
+    {
+      "text": "Arcelor Mittal",
+      "label": "ORG",
+      "start_char": 15042,
+      "end_char": 15056
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 15059,
+      "end_char": 15086
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 15094,
+      "end_char": 15104
+    },
+    {
+      "text": "National Company Law Tribunal",
+      "label": "COURT",
+      "start_char": 15174,
+      "end_char": 15203
+    },
+    {
+      "text": "National Company Law Appellate Tribunal",
+      "label": "ORG",
+      "start_char": 15228,
+      "end_char": 15267
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 15309,
+      "end_char": 15319
+    },
+    {
+      "text": "28.09.2021",
+      "label": "DATE",
+      "start_char": 15431,
+      "end_char": 15441
+    },
+    {
+      "text": "Senior Civil Judge, Surat",
+      "label": "COURT",
+      "start_char": 15528,
+      "end_char": 15553
+    },
+    {
+      "text": "Commercial Civil Suit No.4 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 15568,
+      "end_char": 15602
+    },
+    {
+      "text": "Special Civil Suit No.373/2016",
+      "label": "CASE_NUMBER",
+      "start_char": 15608,
+      "end_char": 15638
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 15711,
+      "end_char": 15732
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 15822,
+      "end_char": 15849
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 15897,
+      "end_char": 15907
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 15977,
+      "end_char": 15987
+    },
+    {
+      "text": "25.08.2020",
+      "label": "DATE",
+      "start_char": 15991,
+      "end_char": 16001
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 16226,
+      "end_char": 16236
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 16379,
+      "end_char": 16389
+    },
+    {
+      "text": "Arcelor Mittal",
+      "label": "RESPONDENT",
+      "start_char": 16469,
+      "end_char": 16483
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 16556,
+      "end_char": 16583
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 16591,
+      "end_char": 16601
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 16687,
+      "end_char": 16697
+    },
+    {
+      "text": "15.11.2019",
+      "label": "DATE",
+      "start_char": 16701,
+      "end_char": 16711
+    },
+    {
+      "text": "Committee of Creditors of Essar Steel India Limited",
+      "label": "PRECEDENT",
+      "start_char": 16729,
+      "end_char": 16780
+    },
+    {
+      "text": "Exhibit 44",
+      "label": "PROVISION",
+      "start_char": 16838,
+      "end_char": 16848
+    },
+    {
+      "text": "Section 31 (1)",
+      "label": "PROVISION",
+      "start_char": 17000,
+      "end_char": 17014
+    },
+    {
+      "text": "Insolvency and Bankruptcy Code, 2016",
+      "label": "STATUTE",
+      "start_char": 17022,
+      "end_char": 17058
+    },
+    {
+      "text": "I.B.Code",
+      "label": "STATUTE",
+      "start_char": 17065,
+      "end_char": 17073
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 17139,
+      "end_char": 17149
+    },
+    {
+      "text": "01.02.2010",
+      "label": "DATE",
+      "start_char": 17217,
+      "end_char": 17227
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 17266,
+      "end_char": 17293
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 17720,
+      "end_char": 17730
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 17799,
+      "end_char": 17809
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 17985,
+      "end_char": 18006
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 18012,
+      "end_char": 18022
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 18044,
+      "end_char": 18071
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 18079,
+      "end_char": 18089
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 18347,
+      "end_char": 18357
+    },
+    {
+      "text": "Essar Steel Limited vs State Of Gujarat, reported in 2020 (8) SCC 531",
+      "label": "PRECEDENT",
+      "start_char": 18370,
+      "end_char": 18439
+    },
+    {
+      "text": "Arcelor Mittal",
+      "label": "OTHER_PERSON",
+      "start_char": 18580,
+      "end_char": 18594
+    },
+    {
+      "text": "Order I Rule X",
+      "label": "PROVISION",
+      "start_char": 18768,
+      "end_char": 18782
+    },
+    {
+      "text": "Code of Civil C/FA/3659/2021 CAV JUDGMENT",
+      "label": "STATUTE",
+      "start_char": 18790,
+      "end_char": 18831
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 18839,
+      "end_char": 18849
+    },
+    {
+      "text": "Civil Procedure Code",
+      "label": "STATUTE",
+      "start_char": 18942,
+      "end_char": 18962
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 18969,
+      "end_char": 18990
+    },
+    {
+      "text": "17.07.2015",
+      "label": "DATE",
+      "start_char": 19156,
+      "end_char": 19166
+    },
+    {
+      "text": "Letters Patent Appeal Nos.465 and 466 of 2015",
+      "label": "CASE_NUMBER",
+      "start_char": 19170,
+      "end_char": 19215
+    },
+    {
+      "text": "29.04.2015",
+      "label": "DATE",
+      "start_char": 19505,
+      "end_char": 19515
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 19561,
+      "end_char": 19588
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 19596,
+      "end_char": 19606
+    },
+    {
+      "text": "Order VII Rule XI",
+      "label": "PROVISION",
+      "start_char": 19607,
+      "end_char": 19624
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 19632,
+      "end_char": 19655
+    },
+    {
+      "text": "Section 145",
+      "label": "PROVISION",
+      "start_char": 19749,
+      "end_char": 19760
+    },
+    {
+      "text": "Electricity Act",
+      "label": "STATUTE",
+      "start_char": 19768,
+      "end_char": 19783
+    },
+    {
+      "text": "18.05.2019",
+      "label": "DATE",
+      "start_char": 19820,
+      "end_char": 19830
+    },
+    {
+      "text": "Order VII Rule XI",
+      "label": "PROVISION",
+      "start_char": 19925,
+      "end_char": 19942
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 19950,
+      "end_char": 19973
+    },
+    {
+      "text": "Section 145",
+      "label": "PROVISION",
+      "start_char": 20096,
+      "end_char": 20107
+    },
+    {
+      "text": "Electricity Act",
+      "label": "STATUTE",
+      "start_char": 20115,
+      "end_char": 20130
+    },
+    {
+      "text": "Electricity Act, 2003",
+      "label": "STATUTE",
+      "start_char": 20246,
+      "end_char": 20267
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 20284,
+      "end_char": 20311
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 20319,
+      "end_char": 20329
+    },
+    {
+      "text": "Section 145",
+      "label": "PROVISION",
+      "start_char": 20375,
+      "end_char": 20386
+    },
+    {
+      "text": "Electricity Act, 2003",
+      "label": "STATUTE",
+      "start_char": 20394,
+      "end_char": 20415
+    },
+    {
+      "text": "Section 145",
+      "label": "PROVISION",
+      "start_char": 20542,
+      "end_char": 20553
+    },
+    {
+      "text": "Electricity Act",
+      "label": "STATUTE",
+      "start_char": 20561,
+      "end_char": 20576
+    },
+    {
+      "text": "Sections 126 and 127",
+      "label": "PROVISION",
+      "start_char": 20768,
+      "end_char": 20788
+    },
+    {
+      "text": "Electricity Act",
+      "label": "STATUTE",
+      "start_char": 20796,
+      "end_char": 20811
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 21053,
+      "end_char": 21080
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 21088,
+      "end_char": 21098
+    },
+    {
+      "text": "Section 145",
+      "label": "PROVISION",
+      "start_char": 21148,
+      "end_char": 21159
+    },
+    {
+      "text": "Electricity Act",
+      "label": "STATUTE",
+      "start_char": 21167,
+      "end_char": 21182
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 21215,
+      "end_char": 21225
+    },
+    {
+      "text": "North Delhi Power Limited vs. Devinder Singh",
+      "label": "PRECEDENT",
+      "start_char": 21237,
+      "end_char": 21281
+    },
+    {
+      "text": "Civil Appeal No.20842 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 21293,
+      "end_char": 21322
+    },
+    {
+      "text": "Section 145",
+      "label": "PROVISION",
+      "start_char": 21674,
+      "end_char": 21685
+    },
+    {
+      "text": "Electricity Act",
+      "label": "STATUTE",
+      "start_char": 21693,
+      "end_char": 21708
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 21789,
+      "end_char": 21798
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 21806,
+      "end_char": 21820
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 21885,
+      "end_char": 21895
+    },
+    {
+      "text": "26.09.2011",
+      "label": "DATE",
+      "start_char": 21997,
+      "end_char": 22007
+    },
+    {
+      "text": "03.08.2016",
+      "label": "DATE",
+      "start_char": 22058,
+      "end_char": 22068
+    },
+    {
+      "text": "17.07.2015",
+      "label": "DATE",
+      "start_char": 22194,
+      "end_char": 22204
+    },
+    {
+      "text": "17.07.2015",
+      "label": "DATE",
+      "start_char": 22243,
+      "end_char": 22253
+    },
+    {
+      "text": "03.08.2016",
+      "label": "DATE",
+      "start_char": 22301,
+      "end_char": 22311
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 22490,
+      "end_char": 22511
+    },
+    {
+      "text": "Order XIII A",
+      "label": "PROVISION",
+      "start_char": 22525,
+      "end_char": 22537
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 22597,
+      "end_char": 22624
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 22632,
+      "end_char": 22642
+    },
+    {
+      "text": "Rule IV",
+      "label": "PROVISION",
+      "start_char": 22790,
+      "end_char": 22797
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 23386,
+      "end_char": 23413
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 23421,
+      "end_char": 23431
+    },
+    {
+      "text": "Rule V",
+      "label": "PROVISION",
+      "start_char": 23774,
+      "end_char": 23780
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 24138,
+      "end_char": 24165
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 24173,
+      "end_char": 24183
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 24594,
+      "end_char": 24607
+    },
+    {
+      "text": "15.11.2019",
+      "label": "DATE",
+      "start_char": 24611,
+      "end_char": 24621
+    },
+    {
+      "text": "Committee of Creditors of Essar Steel India Limited vs. Satish Kumar Gupta",
+      "label": "PRECEDENT",
+      "start_char": 24639,
+      "end_char": 24713
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 24946,
+      "end_char": 24973
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 24981,
+      "end_char": 24991
+    },
+    {
+      "text": "Order XIII",
+      "label": "PROVISION",
+      "start_char": 25026,
+      "end_char": 25036
+    },
+    {
+      "text": "Order XIII A",
+      "label": "PROVISION",
+      "start_char": 25124,
+      "end_char": 25136
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 25246,
+      "end_char": 25256
+    },
+    {
+      "text": "Committee of Creditors of Essar Steel India Limited vs. Satish Kumar Gupta",
+      "label": "PRECEDENT",
+      "start_char": 25268,
+      "end_char": 25342
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 25392,
+      "end_char": 25402
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 25721,
+      "end_char": 25748
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 25756,
+      "end_char": 25766
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 25902,
+      "end_char": 25912
+    },
+    {
+      "text": "Order VII Rule XI",
+      "label": "PROVISION",
+      "start_char": 25991,
+      "end_char": 26008
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 26018,
+      "end_char": 26029
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 26037,
+      "end_char": 26060
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 26120,
+      "end_char": 26141
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 26474,
+      "end_char": 26501
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 26509,
+      "end_char": 26519
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 26613,
+      "end_char": 26636
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 27022,
+      "end_char": 27043
+    },
+    {
+      "text": "Order XIII A",
+      "label": "PROVISION",
+      "start_char": 27057,
+      "end_char": 27069
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 27235,
+      "end_char": 27262
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 27270,
+      "end_char": 27280
+    },
+    {
+      "text": "Order VII Rule XI",
+      "label": "PROVISION",
+      "start_char": 27703,
+      "end_char": 27720
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 27728,
+      "end_char": 27751
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 28141,
+      "end_char": 28151
+    },
+    {
+      "text": "Supreme Court of India",
+      "label": "COURT",
+      "start_char": 28187,
+      "end_char": 28209
+    },
+    {
+      "text": "Committee of Creditors of Essar Steel India Limited vs. Satish Kumar Gupta and others",
+      "label": "PRECEDENT",
+      "start_char": 28213,
+      "end_char": 28298
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 28414,
+      "end_char": 28424
+    },
+    {
+      "text": "Committee of Creditors of ESIL vs.Satish Kumar Gupta and others",
+      "label": "PRECEDENT",
+      "start_char": 28436,
+      "end_char": 28499
+    },
+    {
+      "text": "XIII A",
+      "label": "PROVISION",
+      "start_char": 28587,
+      "end_char": 28593
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 28601,
+      "end_char": 28624
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 28733,
+      "end_char": 28760
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 28768,
+      "end_char": 28778
+    },
+    {
+      "text": "Section 3 (6)",
+      "label": "PROVISION",
+      "start_char": 28855,
+      "end_char": 28868
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 28876,
+      "end_char": 28897
+    },
+    {
+      "text": "11.08.2017",
+      "label": "DATE",
+      "start_char": 29079,
+      "end_char": 29089
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 29448,
+      "end_char": 29475
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 29483,
+      "end_char": 29493
+    },
+    {
+      "text": "NCLT",
+      "label": "ORG",
+      "start_char": 29630,
+      "end_char": 29634
+    },
+    {
+      "text": "NCLAT",
+      "label": "ORG",
+      "start_char": 29646,
+      "end_char": 29651
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 29660,
+      "end_char": 29670
+    },
+    {
+      "text": "Essar Steel",
+      "label": "ORG",
+      "start_char": 29674,
+      "end_char": 29685
+    },
+    {
+      "text": "Essar Steel",
+      "label": "ORG",
+      "start_char": 29761,
+      "end_char": 29772
+    },
+    {
+      "text": "Essar Steel",
+      "label": "ORG",
+      "start_char": 29917,
+      "end_char": 29928
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 30223,
+      "end_char": 30250
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 30258,
+      "end_char": 30268
+    },
+    {
+      "text": "Ghanshyam Mishra vs. Edelweiss Asset Reconstruction Company, reported in (2021) 9 SCC 657",
+      "label": "PRECEDENT",
+      "start_char": 30276,
+      "end_char": 30365
+    },
+    {
+      "text": "Essar Steel Limited vs. State of Gujarat",
+      "label": "PRECEDENT",
+      "start_char": 30386,
+      "end_char": 30426
+    },
+    {
+      "text": "Ghanshyam Mishra",
+      "label": "PRECEDENT",
+      "start_char": 30444,
+      "end_char": 30460
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 30474,
+      "end_char": 30484
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 30550,
+      "end_char": 30568
+    },
+    {
+      "text": "sub−section (1) of Section 31",
+      "label": "PROVISION",
+      "start_char": 30697,
+      "end_char": 30726
+    },
+    {
+      "text": "Insolvency and Bankruptcy Code, 2016",
+      "label": "STATUTE",
+      "start_char": 30734,
+      "end_char": 30770
+    },
+    {
+      "text": "Section 31",
+      "label": "PROVISION",
+      "start_char": 30853,
+      "end_char": 30863
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 30867,
+      "end_char": 30876
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 31064,
+      "end_char": 31082
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 31308,
+      "end_char": 31335
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 31343,
+      "end_char": 31353
+    },
+    {
+      "text": "Section 31",
+      "label": "PROVISION",
+      "start_char": 31568,
+      "end_char": 31578
+    },
+    {
+      "text": "I&B Code",
+      "label": "STATUTE",
+      "start_char": 31582,
+      "end_char": 31590
+    },
+    {
+      "text": "sub−section (3) of Section 61",
+      "label": "PROVISION",
+      "start_char": 31662,
+      "end_char": 31691
+    },
+    {
+      "text": "I&B Code",
+      "label": "STATUTE",
+      "start_char": 31699,
+      "end_char": 31707
+    },
+    {
+      "text": "Section 29",
+      "label": "PROVISION",
+      "start_char": 31753,
+      "end_char": 31763
+    },
+    {
+      "text": "I&B Code",
+      "label": "STATUTE",
+      "start_char": 31771,
+      "end_char": 31779
+    },
+    {
+      "text": "Regulation 36",
+      "label": "PROVISION",
+      "start_char": 31790,
+      "end_char": 31803
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 32727,
+      "end_char": 32754
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 32762,
+      "end_char": 32772
+    },
+    {
+      "text": "sub−section (2) of Section 30",
+      "label": "PROVISION",
+      "start_char": 33322,
+      "end_char": 33351
+    },
+    {
+      "text": "Committee of Creditors of Essar Steel India Limited",
+      "label": "PRECEDENT",
+      "start_char": 33658,
+      "end_char": 33709
+    },
+    {
+      "text": "NCLAT",
+      "label": "COURT",
+      "start_char": 33789,
+      "end_char": 33794
+    },
+    {
+      "text": "Standard Chartered Bank v. Satish Kumar Gupta, 2019 SCC OnLine NCLAT 388",
+      "label": "PRECEDENT",
+      "start_char": 33805,
+      "end_char": 33877
+    },
+    {
+      "text": "Section 60(6)",
+      "label": "PROVISION",
+      "start_char": 34091,
+      "end_char": 34104
+    },
+    {
+      "text": "Section 31",
+      "label": "PROVISION",
+      "start_char": 34158,
+      "end_char": 34168
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 34206,
+      "end_char": 34233
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 34241,
+      "end_char": 34251
+    },
+    {
+      "text": "NCLAT",
+      "label": "COURT",
+      "start_char": 34944,
+      "end_char": 34949
+    },
+    {
+      "text": "NCLAT",
+      "label": "ORG",
+      "start_char": 35111,
+      "end_char": 35116
+    },
+    {
+      "text": "EARC",
+      "label": "ORG",
+      "start_char": 35140,
+      "end_char": 35144
+    },
+    {
+      "text": "EARC",
+      "label": "ORG",
+      "start_char": 35165,
+      "end_char": 35169
+    },
+    {
+      "text": "Commissioner of Income Tax vs. Monnet Ispat and Energy Ltd.10",
+      "label": "PRECEDENT",
+      "start_char": 35319,
+      "end_char": 35380
+    },
+    {
+      "text": "Section 238",
+      "label": "PROVISION",
+      "start_char": 35407,
+      "end_char": 35418
+    },
+    {
+      "text": "I&B Code",
+      "label": "STATUTE",
+      "start_char": 35422,
+      "end_char": 35430
+    },
+    {
+      "text": "No.6483/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 35619,
+      "end_char": 35631
+    },
+    {
+      "text": "10.8.2018",
+      "label": "DATE",
+      "start_char": 35645,
+      "end_char": 35654
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 35680,
+      "end_char": 35707
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 35715,
+      "end_char": 35725
+    },
+    {
+      "text": "NCLAT",
+      "label": "ORG",
+      "start_char": 35770,
+      "end_char": 35775
+    },
+    {
+      "text": "I&B Code",
+      "label": "STATUTE",
+      "start_char": 35872,
+      "end_char": 35880
+    },
+    {
+      "text": "Special Leave Petition (Civil) No.11232 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 35937,
+      "end_char": 35984
+    },
+    {
+      "text": "Writ Petition (Civil) No.1177 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 35986,
+      "end_char": 36023
+    },
+    {
+      "text": "Special Leave Petition (Civil) Nos",
+      "label": "CASE_NUMBER",
+      "start_char": 36057,
+      "end_char": 36091
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 36190,
+      "end_char": 36208
+    },
+    {
+      "text": "NCLT",
+      "label": "ORG",
+      "start_char": 36278,
+      "end_char": 36282
+    },
+    {
+      "text": "Essar Steel Limited vs. State of Gujarat",
+      "label": "PRECEDENT",
+      "start_char": 36340,
+      "end_char": 36380
+    },
+    {
+      "text": "ArcelorMittal Nippon Steel India Ltd.",
+      "label": "ORG",
+      "start_char": 36441,
+      "end_char": 36478
+    },
+    {
+      "text": "Essar Steel India Ltd.",
+      "label": "ORG",
+      "start_char": 36498,
+      "end_char": 36520
+    },
+    {
+      "text": "25.10.2018",
+      "label": "DATE",
+      "start_char": 36597,
+      "end_char": 36607
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 36640,
+      "end_char": 36653
+    },
+    {
+      "text": "15.11.2019",
+      "label": "DATE",
+      "start_char": 36657,
+      "end_char": 36667
+    },
+    {
+      "text": "Committee of Creditors of Essar Steel India Ltd., vs. Satish Kumar Gupta and others, reported in 2019 SCC OnLine 1478",
+      "label": "PRECEDENT",
+      "start_char": 36671,
+      "end_char": 36788
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 37041,
+      "end_char": 37068
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 37076,
+      "end_char": 37086
+    },
+    {
+      "text": "Section 31",
+      "label": "PROVISION",
+      "start_char": 37258,
+      "end_char": 37268
+    },
+    {
+      "text": "Section 31",
+      "label": "PROVISION",
+      "start_char": 37368,
+      "end_char": 37378
+    },
+    {
+      "text": "IBC, 2016",
+      "label": "STATUTE",
+      "start_char": 37386,
+      "end_char": 37395
+    },
+    {
+      "text": "sub-section (4) of Section 30",
+      "label": "PROVISION",
+      "start_char": 37566,
+      "end_char": 37595
+    },
+    {
+      "text": "sub-section (2) of Section 30",
+      "label": "PROVISION",
+      "start_char": 37637,
+      "end_char": 37666
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 37814,
+      "end_char": 37832
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 38370,
+      "end_char": 38397
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 38405,
+      "end_char": 38415
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 38431,
+      "end_char": 38444
+    },
+    {
+      "text": "Section 31",
+      "label": "PROVISION",
+      "start_char": 38518,
+      "end_char": 38528
+    },
+    {
+      "text": "ESIL",
+      "label": "ORG",
+      "start_char": 38591,
+      "end_char": 38595
+    },
+    {
+      "text": "ESIL",
+      "label": "ORG",
+      "start_char": 38823,
+      "end_char": 38827
+    },
+    {
+      "text": "15.11.2019",
+      "label": "DATE",
+      "start_char": 38867,
+      "end_char": 38877
+    },
+    {
+      "text": "committee of creditors of ESIL vs. Satishkumar Gupta",
+      "label": "PRECEDENT",
+      "start_char": 38881,
+      "end_char": 38933
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 38947,
+      "end_char": 38960
+    },
+    {
+      "text": "ArcelorMittal Nippon Steel India Ltd.",
+      "label": "ORG",
+      "start_char": 39035,
+      "end_char": 39072
+    },
+    {
+      "text": "2020 (8) SCC 531",
+      "label": "PRECEDENT",
+      "start_char": 39105,
+      "end_char": 39121
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 39135,
+      "end_char": 39148
+    },
+    {
+      "text": "Section 31(1)",
+      "label": "PROVISION",
+      "start_char": 39192,
+      "end_char": 39205
+    },
+    {
+      "text": "SBI v. V. Ramakrishnan [SBI v. V. Ramakrishnan,(2018)17 SCC 394 : (2019) 2 SCC (Civ) 458]",
+      "label": "PRECEDENT",
+      "start_char": 39541,
+      "end_char": 39630
+    },
+    {
+      "text": "Section 31",
+      "label": "PROVISION",
+      "start_char": 39656,
+      "end_char": 39666
+    },
+    {
+      "text": "Section 31",
+      "label": "PROVISION",
+      "start_char": 39716,
+      "end_char": 39726
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 39768,
+      "end_char": 39795
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 39803,
+      "end_char": 39813
+    },
+    {
+      "text": "Section 133",
+      "label": "PROVISION",
+      "start_char": 40059,
+      "end_char": 40070
+    },
+    {
+      "text": "Contract Act, 1872",
+      "label": "STATUTE",
+      "start_char": 40078,
+      "end_char": 40096
+    },
+    {
+      "text": "Section 31(1)",
+      "label": "PROVISION",
+      "start_char": 40228,
+      "end_char": 40241
+    },
+    {
+      "text": "Annexure VI(e) to Form 6",
+      "label": "PROVISION",
+      "start_char": 40462,
+      "end_char": 40486
+    },
+    {
+      "text": "Regulation 36(2)",
+      "label": "PROVISION",
+      "start_char": 40514,
+      "end_char": 40530
+    },
+    {
+      "text": "Section 31",
+      "label": "PROVISION",
+      "start_char": 40753,
+      "end_char": 40763
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 41129,
+      "end_char": 41156
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 41164,
+      "end_char": 41174
+    },
+    {
+      "text": "Section 60(6)",
+      "label": "PROVISION",
+      "start_char": 41205,
+      "end_char": 41218
+    },
+    {
+      "text": "Section 31",
+      "label": "PROVISION",
+      "start_char": 41272,
+      "end_char": 41282
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 42520,
+      "end_char": 42547
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 42555,
+      "end_char": 42565
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 42627,
+      "end_char": 42640
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 43759,
+      "end_char": 43786
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 43794,
+      "end_char": 43804
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 46308,
+      "end_char": 46318
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 47536,
+      "end_char": 47563
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 47571,
+      "end_char": 47581
+    },
+    {
+      "text": "ESIL",
+      "label": "ORG",
+      "start_char": 48020,
+      "end_char": 48024
+    },
+    {
+      "text": "6.12.2019",
+      "label": "DATE",
+      "start_char": 48106,
+      "end_char": 48115
+    },
+    {
+      "text": "17.12.2019",
+      "label": "DATE",
+      "start_char": 48168,
+      "end_char": 48178
+    },
+    {
+      "text": "6.12.2019",
+      "label": "DATE",
+      "start_char": 48233,
+      "end_char": 48242
+    },
+    {
+      "text": "December 16, 2019",
+      "label": "DATE",
+      "start_char": 48263,
+      "end_char": 48280
+    },
+    {
+      "text": "Kakarapar Right Bank Canal Division",
+      "label": "ORG",
+      "start_char": 48305,
+      "end_char": 48340
+    },
+    {
+      "text": "Athwalines",
+      "label": "GPE",
+      "start_char": 48376,
+      "end_char": 48386
+    },
+    {
+      "text": "Surat",
+      "label": "GPE",
+      "start_char": 48389,
+      "end_char": 48394
+    },
+    {
+      "text": "Essar Steel India Limited",
+      "label": "ORG",
+      "start_char": 48460,
+      "end_char": 48485
+    },
+    {
+      "text": "Supreme Court of India",
+      "label": "COURT",
+      "start_char": 48498,
+      "end_char": 48520
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 48534,
+      "end_char": 48561
+    },
+    {
+      "text": "November 15, 2019",
+      "label": "DATE",
+      "start_char": 48595,
+      "end_char": 48612
+    },
+    {
+      "text": "ArcelorMittal India Private Limited",
+      "label": "ORG",
+      "start_char": 48684,
+      "end_char": 48719
+    },
+    {
+      "text": "ESIL",
+      "label": "ORG",
+      "start_char": 48790,
+      "end_char": 48794
+    },
+    {
+      "text": "National Company Law Tribunal,Ahmedabad",
+      "label": "COURT",
+      "start_char": 48839,
+      "end_char": 48878
+    },
+    {
+      "text": "March 8, 2019",
+      "label": "DATE",
+      "start_char": 48891,
+      "end_char": 48904
+    },
+    {
+      "text": "National Company Law Appellate Tribunal",
+      "label": "COURT",
+      "start_char": 48934,
+      "end_char": 48973
+    },
+    {
+      "text": "July 4, 2019",
+      "label": "DATE",
+      "start_char": 48980,
+      "end_char": 48992
+    },
+    {
+      "text": "ESIL",
+      "label": "ORG",
+      "start_char": 49228,
+      "end_char": 49232
+    },
+    {
+      "text": "State Bank of India",
+      "label": "ORG",
+      "start_char": 49957,
+      "end_char": 49976
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 50301,
+      "end_char": 50328
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 50336,
+      "end_char": 50346
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 50407,
+      "end_char": 50420
+    },
+    {
+      "text": "ESIL",
+      "label": "ORG",
+      "start_char": 50587,
+      "end_char": 50591
+    },
+    {
+      "text": "ESIL",
+      "label": "ORG",
+      "start_char": 50657,
+      "end_char": 50661
+    },
+    {
+      "text": "AMIPL",
+      "label": "ORG",
+      "start_char": 50666,
+      "end_char": 50671
+    },
+    {
+      "text": "ESIL",
+      "label": "ORG",
+      "start_char": 50769,
+      "end_char": 50773
+    },
+    {
+      "text": "Mayank Kumar Desai",
+      "label": "OTHER_PERSON",
+      "start_char": 51022,
+      "end_char": 51040
+    },
+    {
+      "text": "GJ05-19940099755",
+      "label": "DATE",
+      "start_char": 51050,
+      "end_char": 51066
+    },
+    {
+      "text": "Essar Steel India Limited",
+      "label": "ORG",
+      "start_char": 51088,
+      "end_char": 51113
+    },
+    {
+      "text": "M. Balajee",
+      "label": "OTHER_PERSON",
+      "start_char": 51120,
+      "end_char": 51130
+    },
+    {
+      "text": "17.12.2019",
+      "label": "DATE",
+      "start_char": 51179,
+      "end_char": 51189
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 51385,
+      "end_char": 51412
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 51420,
+      "end_char": 51430
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 51495,
+      "end_char": 51508
+    },
+    {
+      "text": "2020 (8) SCC 531",
+      "label": "PRECEDENT",
+      "start_char": 51512,
+      "end_char": 51528
+    },
+    {
+      "text": "Insolvency and Bankruptcy Code 2016",
+      "label": "STATUTE",
+      "start_char": 51556,
+      "end_char": 51591
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 51664,
+      "end_char": 51677
+    },
+    {
+      "text": "2020 (8) SCC 531",
+      "label": "PRECEDENT",
+      "start_char": 51681,
+      "end_char": 51697
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 52054,
+      "end_char": 52067
+    },
+    {
+      "text": "Special Civil Application No.8741 of 2008",
+      "label": "CASE_NUMBER",
+      "start_char": 52131,
+      "end_char": 52172
+    },
+    {
+      "text": "ArcelorMittal Nippon Steel India Ltd.",
+      "label": "ORG",
+      "start_char": 52173,
+      "end_char": 52210
+    },
+    {
+      "text": "Essar Steel India Ltd.",
+      "label": "ORG",
+      "start_char": 52230,
+      "end_char": 52252
+    },
+    {
+      "text": "Special Civil Application No.8741 of 2008",
+      "label": "CASE_NUMBER",
+      "start_char": 52292,
+      "end_char": 52333
+    },
+    {
+      "text": "Essar Steel India Ltd.",
+      "label": "ORG",
+      "start_char": 52347,
+      "end_char": 52369
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 52575,
+      "end_char": 52602
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 52610,
+      "end_char": 52620
+    },
+    {
+      "text": "IA No.446 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 53174,
+      "end_char": 53191
+    },
+    {
+      "text": "DGVCL",
+      "label": "ORG",
+      "start_char": 53278,
+      "end_char": 53283
+    },
+    {
+      "text": "IA No.446 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 53331,
+      "end_char": 53348
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 53362,
+      "end_char": 53389
+    },
+    {
+      "text": "24/02/2023 November 2018",
+      "label": "DATE",
+      "start_char": 53397,
+      "end_char": 53421
+    },
+    {
+      "text": "NCLT",
+      "label": "ORG",
+      "start_char": 53474,
+      "end_char": 53478
+    },
+    {
+      "text": "NCLT",
+      "label": "ORG",
+      "start_char": 53941,
+      "end_char": 53945
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 54141,
+      "end_char": 54168
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 54176,
+      "end_char": 54186
+    },
+    {
+      "text": "Essar Steel CIRP",
+      "label": "ORG",
+      "start_char": 54478,
+      "end_char": 54494
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 54614,
+      "end_char": 54624
+    },
+    {
+      "text": "Essar Steel",
+      "label": "ORG",
+      "start_char": 54810,
+      "end_char": 54821
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 54891,
+      "end_char": 54918
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 54926,
+      "end_char": 54936
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 55179,
+      "end_char": 55189
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 55538,
+      "end_char": 55548
+    },
+    {
+      "text": "Essar Steel",
+      "label": "ORG",
+      "start_char": 55552,
+      "end_char": 55563
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 55605,
+      "end_char": 55632
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 55640,
+      "end_char": 55650
+    },
+    {
+      "text": "Essar Steel",
+      "label": "ORG",
+      "start_char": 55764,
+      "end_char": 55775
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 55916,
+      "end_char": 55926
+    },
+    {
+      "text": "Ghanshyam Mishra",
+      "label": "PRECEDENT",
+      "start_char": 55938,
+      "end_char": 55954
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 56269,
+      "end_char": 56296
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 56304,
+      "end_char": 56314
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 56768,
+      "end_char": 56778
+    },
+    {
+      "text": "State Tax Officer (1) vs. Rainbow Papers Limited, reported in (2022)",
+      "label": "PRECEDENT",
+      "start_char": 56790,
+      "end_char": 56858
+    },
+    {
+      "text": "SC Civil Appeal No.1661 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 56873,
+      "end_char": 56904
+    },
+    {
+      "text": "Civil Appeal No.2568 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 56910,
+      "end_char": 56938
+    },
+    {
+      "text": "06.09.2022",
+      "label": "DATE",
+      "start_char": 56958,
+      "end_char": 56968
+    },
+    {
+      "text": "Section 48",
+      "label": "PROVISION",
+      "start_char": 57036,
+      "end_char": 57046
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 57054,
+      "end_char": 57081
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 57089,
+      "end_char": 57099
+    },
+    {
+      "text": "Gujarat Value Added Tax Act",
+      "label": "STATUTE",
+      "start_char": 57100,
+      "end_char": 57127
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 57415,
+      "end_char": 57425
+    },
+    {
+      "text": "Section 48",
+      "label": "PROVISION",
+      "start_char": 57487,
+      "end_char": 57497
+    },
+    {
+      "text": "Value Added Tax Act",
+      "label": "STATUTE",
+      "start_char": 57505,
+      "end_char": 57524
+    },
+    {
+      "text": "Gujarat Value Added Tax Act",
+      "label": "STATUTE",
+      "start_char": 57564,
+      "end_char": 57591
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 57856,
+      "end_char": 57883
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 57891,
+      "end_char": 57901
+    },
+    {
+      "text": "CIRP",
+      "label": "COURT",
+      "start_char": 58392,
+      "end_char": 58396
+    },
+    {
+      "text": "NCLT",
+      "label": "ORG",
+      "start_char": 58562,
+      "end_char": 58566
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 58568,
+      "end_char": 58595
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 58603,
+      "end_char": 58613
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 58625,
+      "end_char": 58635
+    },
+    {
+      "text": "Committee of Creditors of Essar Steel India Limited vs. Satish Kumar Gupta",
+      "label": "PRECEDENT",
+      "start_char": 58796,
+      "end_char": 58870
+    },
+    {
+      "text": "Regulation 7",
+      "label": "PROVISION",
+      "start_char": 58978,
+      "end_char": 58990
+    },
+    {
+      "text": "Insolvency and Bankruptcy Board of India",
+      "label": "ORG",
+      "start_char": 58998,
+      "end_char": 59038
+    },
+    {
+      "text": "02.08.2017",
+      "label": "DATE",
+      "start_char": 59063,
+      "end_char": 59073
+    },
+    {
+      "text": "02.08.2017",
+      "label": "DATE",
+      "start_char": 59204,
+      "end_char": 59214
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 59462,
+      "end_char": 59489
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 59497,
+      "end_char": 59507
+    },
+    {
+      "text": "01.02.2010",
+      "label": "DATE",
+      "start_char": 59565,
+      "end_char": 59575
+    },
+    {
+      "text": "Government of Gujarat",
+      "label": "ORG",
+      "start_char": 59688,
+      "end_char": 59709
+    },
+    {
+      "text": "Bombay Electricity Duty Act",
+      "label": "STATUTE",
+      "start_char": 59720,
+      "end_char": 59747
+    },
+    {
+      "text": "Gujarat",
+      "label": "GPE",
+      "start_char": 59778,
+      "end_char": 59785
+    },
+    {
+      "text": "DGVCL",
+      "label": "ORG",
+      "start_char": 59787,
+      "end_char": 59792
+    },
+    {
+      "text": "Government of Gujarat",
+      "label": "ORG",
+      "start_char": 60226,
+      "end_char": 60247
+    },
+    {
+      "text": "Essar Steel India Limited",
+      "label": "ORG",
+      "start_char": 60469,
+      "end_char": 60494
+    },
+    {
+      "text": "Section 127",
+      "label": "PROVISION",
+      "start_char": 60523,
+      "end_char": 60534
+    },
+    {
+      "text": "Electricity Act",
+      "label": "STATUTE",
+      "start_char": 60542,
+      "end_char": 60557
+    },
+    {
+      "text": "Section 126",
+      "label": "PROVISION",
+      "start_char": 60594,
+      "end_char": 60605
+    },
+    {
+      "text": "DGVCL",
+      "label": "ORG",
+      "start_char": 60734,
+      "end_char": 60739
+    },
+    {
+      "text": "High Court of Gujarat",
+      "label": "COURT",
+      "start_char": 60751,
+      "end_char": 60772
+    },
+    {
+      "text": "17.07.2015",
+      "label": "DATE",
+      "start_char": 60808,
+      "end_char": 60818
+    },
+    {
+      "text": "Sections 126 and 127",
+      "label": "PROVISION",
+      "start_char": 60856,
+      "end_char": 60876
+    },
+    {
+      "text": "Electricity Act,2003 and",
+      "label": "STATUTE",
+      "start_char": 60884,
+      "end_char": 60908
+    },
+    {
+      "text": "Section 126",
+      "label": "PROVISION",
+      "start_char": 60954,
+      "end_char": 60965
+    },
+    {
+      "text": "Essar Steel India Limited",
+      "label": "ORG",
+      "start_char": 60994,
+      "end_char": 61019
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 61063,
+      "end_char": 61076
+    },
+    {
+      "text": "Special Leave Petition Nos.27920 and 27921 of 2015",
+      "label": "CASE_NUMBER",
+      "start_char": 61083,
+      "end_char": 61133
+    },
+    {
+      "text": "DGVCL",
+      "label": "ORG",
+      "start_char": 61162,
+      "end_char": 61167
+    },
+    {
+      "text": "Surat District Court",
+      "label": "COURT",
+      "start_char": 61201,
+      "end_char": 61221
+    },
+    {
+      "text": "Special Civil Suit No.373 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 61228,
+      "end_char": 61261
+    },
+    {
+      "text": "Essar",
+      "label": "ORG",
+      "start_char": 61418,
+      "end_char": 61423
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 61459,
+      "end_char": 61469
+    },
+    {
+      "text": "Steel India Limited",
+      "label": "ORG",
+      "start_char": 61470,
+      "end_char": 61489
+    },
+    {
+      "text": "25.10.2017",
+      "label": "DATE",
+      "start_char": 61731,
+      "end_char": 61741
+    },
+    {
+      "text": "I.P.Essar Steel",
+      "label": "ORG",
+      "start_char": 61747,
+      "end_char": 61762
+    },
+    {
+      "text": "Essar Steel",
+      "label": "ORG",
+      "start_char": 61835,
+      "end_char": 61846
+    },
+    {
+      "text": "Essar Steel India Limited",
+      "label": "ORG",
+      "start_char": 62172,
+      "end_char": 62197
+    },
+    {
+      "text": "Insolvency and Bankruptcy Code, 2016",
+      "label": "STATUTE",
+      "start_char": 63136,
+      "end_char": 63172
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 63221,
+      "end_char": 63248
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 63256,
+      "end_char": 63266
+    },
+    {
+      "text": "Essar Steel India Limited",
+      "label": "ORG",
+      "start_char": 63787,
+      "end_char": 63812
+    },
+    {
+      "text": "IBC, 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 64102,
+      "end_char": 64111
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 64286,
+      "end_char": 64313
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 64321,
+      "end_char": 64331
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 65031,
+      "end_char": 65058
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 65066,
+      "end_char": 65076
+    },
+    {
+      "text": "A.H.Khadawala",
+      "label": "RESPONDENT",
+      "start_char": 65601,
+      "end_char": 65614
+    },
+    {
+      "text": "Commissioner        of             42,230,647                        Customs,       Custom                        House,    Port   Area,\n                       Vishakhapatnam",
+      "label": "RESPONDENT",
+      "start_char": 65713,
+      "end_char": 65887
+    },
+    {
+      "text": "Dakshin  Gujarat",
+      "label": "RESPONDENT",
+      "start_char": 65911,
+      "end_char": 65927
+    },
+    {
+      "text": "Indian Oil Corporation",
+      "label": "RESPONDENT",
+      "start_char": 66170,
+      "end_char": 66192
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 66596,
+      "end_char": 66623
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 66631,
+      "end_char": 66641
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 66724,
+      "end_char": 66734
+    },
+    {
+      "text": "Ghanshyam Mishra",
+      "label": "PRECEDENT",
+      "start_char": 66746,
+      "end_char": 66762
+    },
+    {
+      "text": "sub- section (2) of Section 30",
+      "label": "PROVISION",
+      "start_char": 66966,
+      "end_char": 66996
+    },
+    {
+      "text": "Essar Steel",
+      "label": "ORG",
+      "start_char": 67246,
+      "end_char": 67257
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT DATED:",
+      "label": "CASE_NUMBER",
+      "start_char": 67365,
+      "end_char": 67399
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 67400,
+      "end_char": 67410
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 68052,
+      "end_char": 68062
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 68067,
+      "end_char": 68094
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 68102,
+      "end_char": 68112
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 68832,
+      "end_char": 68859
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 68867,
+      "end_char": 68877
+    },
+    {
+      "text": "Order XIII A",
+      "label": "PROVISION",
+      "start_char": 69286,
+      "end_char": 69298
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 69306,
+      "end_char": 69329
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 69601,
+      "end_char": 69628
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 69636,
+      "end_char": 69646
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 70070,
+      "end_char": 70080
+    },
+    {
+      "text": "State of Gujarat vs. Arcelor Mittal Nippon Steel India Limited, reported in (2022) 6",
+      "label": "PRECEDENT",
+      "start_char": 70092,
+      "end_char": 70176
+    },
+    {
+      "text": "SCC 459",
+      "label": "CASE_NUMBER",
+      "start_char": 70177,
+      "end_char": 70184
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 70359,
+      "end_char": 70386
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 70394,
+      "end_char": 70404
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 70471,
+      "end_char": 70481
+    },
+    {
+      "text": "Civil Appeal Nos.2444 and 2445 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 70493,
+      "end_char": 70531
+    },
+    {
+      "text": "17.07.2015",
+      "label": "DATE",
+      "start_char": 70599,
+      "end_char": 70609
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 71085,
+      "end_char": 71095
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 71141,
+      "end_char": 71168
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 71176,
+      "end_char": 71186
+    },
+    {
+      "text": "Gujarat High Court",
+      "label": "COURT",
+      "start_char": 71293,
+      "end_char": 71311
+    },
+    {
+      "text": "17.07.2015",
+      "label": "DATE",
+      "start_char": 71318,
+      "end_char": 71328
+    },
+    {
+      "text": "03.08.2016",
+      "label": "DATE",
+      "start_char": 71556,
+      "end_char": 71566
+    },
+    {
+      "text": "15.11.2019",
+      "label": "DATE",
+      "start_char": 71820,
+      "end_char": 71830
+    },
+    {
+      "text": "28.09.2021",
+      "label": "DATE",
+      "start_char": 72087,
+      "end_char": 72097
+    },
+    {
+      "text": "First Appeal No.3659/2021",
+      "label": "CASE_NUMBER",
+      "start_char": 72173,
+      "end_char": 72198
+    },
+    {
+      "text": "18.12.2021",
+      "label": "DATE",
+      "start_char": 72211,
+      "end_char": 72221
+    },
+    {
+      "text": "05.04.2022",
+      "label": "DATE",
+      "start_char": 72245,
+      "end_char": 72255
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 72367,
+      "end_char": 72394
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 72402,
+      "end_char": 72412
+    },
+    {
+      "text": "15.11.2019",
+      "label": "DATE",
+      "start_char": 72462,
+      "end_char": 72472
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 73571,
+      "end_char": 73598
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 73606,
+      "end_char": 73616
+    },
+    {
+      "text": "First Appeal No.3659/2021",
+      "label": "CASE_NUMBER",
+      "start_char": 73722,
+      "end_char": 73747
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 74459,
+      "end_char": 74469
+    },
+    {
+      "text": "Essar Steel",
+      "label": "ORG",
+      "start_char": 74473,
+      "end_char": 74484
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 74496,
+      "end_char": 74506
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 74612,
+      "end_char": 74639
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 74647,
+      "end_char": 74657
+    },
+    {
+      "text": "First Appeal No.3659 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 74708,
+      "end_char": 74736
+    },
+    {
+      "text": "Essar Steel SC",
+      "label": "ORG",
+      "start_char": 74773,
+      "end_char": 74787
+    },
+    {
+      "text": "Ghanshyam Mishra",
+      "label": "PRECEDENT",
+      "start_char": 74804,
+      "end_char": 74820
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 74954,
+      "end_char": 74964
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 75308,
+      "end_char": 75335
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 75343,
+      "end_char": 75353
+    },
+    {
+      "text": "ESIL",
+      "label": "ORG",
+      "start_char": 75440,
+      "end_char": 75444
+    },
+    {
+      "text": "16.12.2019",
+      "label": "DATE",
+      "start_char": 75478,
+      "end_char": 75488
+    },
+    {
+      "text": "DGVCL",
+      "label": "ORG",
+      "start_char": 75790,
+      "end_char": 75795
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 76092,
+      "end_char": 76119
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 76127,
+      "end_char": 76137
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 76511,
+      "end_char": 76521
+    },
+    {
+      "text": "ESIC SC judgment",
+      "label": "CASE_NUMBER",
+      "start_char": 76541,
+      "end_char": 76557
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 76881,
+      "end_char": 76908
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 76916,
+      "end_char": 76926
+    },
+    {
+      "text": "Tata Steel BSL Limited vs. Varsa, reported in 2019 6 MLR 682 (Bombay)",
+      "label": "PRECEDENT",
+      "start_char": 76999,
+      "end_char": 77068
+    },
+    {
+      "text": "CIRP",
+      "label": "STATUTE",
+      "start_char": 77089,
+      "end_char": 77093
+    },
+    {
+      "text": "Tata Steel",
+      "label": "ORG",
+      "start_char": 77267,
+      "end_char": 77277
+    },
+    {
+      "text": "28.03.2019",
+      "label": "DATE",
+      "start_char": 77285,
+      "end_char": 77295
+    },
+    {
+      "text": "ESIL SC",
+      "label": "COURT",
+      "start_char": 77314,
+      "end_char": 77321
+    },
+    {
+      "text": "15.11.2019",
+      "label": "DATE",
+      "start_char": 77332,
+      "end_char": 77342
+    },
+    {
+      "text": "Ghanshyam Mishra",
+      "label": "OTHER_PERSON",
+      "start_char": 77348,
+      "end_char": 77364
+    },
+    {
+      "text": "13.04.2021",
+      "label": "DATE",
+      "start_char": 77371,
+      "end_char": 77381
+    },
+    {
+      "text": "Special Leave Petition Diary No.36520/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 77383,
+      "end_char": 77425
+    },
+    {
+      "text": "Tata Steel BSL Limited",
+      "label": "ORG",
+      "start_char": 77465,
+      "end_char": 77487
+    },
+    {
+      "text": "20.01.2020",
+      "label": "DATE",
+      "start_char": 77529,
+      "end_char": 77539
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 77614,
+      "end_char": 77641
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 77649,
+      "end_char": 77659
+    },
+    {
+      "text": "Tata Steel BSL Limited",
+      "label": "ORG",
+      "start_char": 77694,
+      "end_char": 77716
+    },
+    {
+      "text": "NCLT",
+      "label": "COURT",
+      "start_char": 77870,
+      "end_char": 77874
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 78339,
+      "end_char": 78366
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 78374,
+      "end_char": 78384
+    },
+    {
+      "text": "Order XIII A",
+      "label": "PROVISION",
+      "start_char": 78713,
+      "end_char": 78725
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 78733,
+      "end_char": 78756
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 79077,
+      "end_char": 79104
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 79112,
+      "end_char": 79122
+    },
+    {
+      "text": "AMIPL",
+      "label": "ORG",
+      "start_char": 79152,
+      "end_char": 79157
+    },
+    {
+      "text": "ESIL",
+      "label": "ORG",
+      "start_char": 79183,
+      "end_char": 79187
+    },
+    {
+      "text": "Order XIII A",
+      "label": "PROVISION",
+      "start_char": 79450,
+      "end_char": 79462
+    },
+    {
+      "text": "Civil Procedure Code",
+      "label": "STATUTE",
+      "start_char": 79470,
+      "end_char": 79490
+    },
+    {
+      "text": "Order XIII A",
+      "label": "PROVISION",
+      "start_char": 79660,
+      "end_char": 79672
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 79680,
+      "end_char": 79703
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 79784,
+      "end_char": 79811
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 79819,
+      "end_char": 79829
+    },
+    {
+      "text": "Monsanto Technology Llc Thru The Authorised Representative Ms. Natalia Voruz & Others",
+      "label": "PRECEDENT",
+      "start_char": 79841,
+      "end_char": 79926
+    },
+    {
+      "text": "Nuziveedu Seeds Ltd.",
+      "label": "ORG",
+      "start_char": 79931,
+      "end_char": 79951
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 80019,
+      "end_char": 80029
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 80100,
+      "end_char": 80127
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 80253,
+      "end_char": 80263
+    },
+    {
+      "text": "Commercial Courts",
+      "label": "COURT",
+      "start_char": 80538,
+      "end_char": 80555
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 80556,
+      "end_char": 80583
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 80591,
+      "end_char": 80601
+    },
+    {
+      "text": "Order XIII A",
+      "label": "PROVISION",
+      "start_char": 80743,
+      "end_char": 80755
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 80763,
+      "end_char": 80786
+    },
+    {
+      "text": "02.12.2020",
+      "label": "DATE",
+      "start_char": 80998,
+      "end_char": 81008
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 81337,
+      "end_char": 81364
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 81372,
+      "end_char": 81382
+    },
+    {
+      "text": "Order XIII A",
+      "label": "PROVISION",
+      "start_char": 81479,
+      "end_char": 81491
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 81499,
+      "end_char": 81522
+    },
+    {
+      "text": "Ambalal Sarabhai Enterprise vs. K.S. Infrastructure, reported in 2020 15 SCC 585",
+      "label": "PRECEDENT",
+      "start_char": 81773,
+      "end_char": 81853
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 82057,
+      "end_char": 82084
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 82092,
+      "end_char": 82102
+    },
+    {
+      "text": "C/FA/3659/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 82834,
+      "end_char": 82861
+    },
+    {
+      "text": "24/02/2023",
+      "label": "DATE",
+      "start_char": 82869,
+      "end_char": 82879
+    },
+    {
+      "text": "28.09.2021",
+      "label": "DATE",
+      "start_char": 83064,
+      "end_char": 83074
+    },
+    {
+      "text": "2nd Additional Senior Civil Judge, Surat",
+      "label": "COURT",
+      "start_char": 83097,
+      "end_char": 83137
+    },
+    {
+      "text": "Commercial Civil Suit No.4 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 83141,
+      "end_char": 83175
+    },
+    {
+      "text": "Special Civil Suit No.373 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 83181,
+      "end_char": 83214
+    },
+    {
+      "text": "Commercial Civil Suit No.4 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 83492,
+      "end_char": 83526
+    },
+    {
+      "text": "SONIA GOKANI",
+      "label": "JUDGE",
+      "start_char": 83658,
+      "end_char": 83670
+    },
+    {
+      "text": "HEMANT M. PRACHCHHAK",
+      "label": "JUDGE",
+      "start_char": 83725,
+      "end_char": 83745
+    },
+    {
+      "text": "Pahwa",
+      "label": "LAWYER",
+      "start_char": 83949,
+      "end_char": 83954
+    },
+    {
+      "text": "SONIA GOKANI",
+      "label": "JUDGE",
+      "start_char": 84525,
+      "end_char": 84537
+    },
+    {
+      "text": "HEMANT M. PRACHCHHAK",
+      "label": "JUDGE",
+      "start_char": 84544,
+      "end_char": 84564
+    },
+    {
+      "text": "M.M.MIRZA",
+      "label": "JUDGE",
+      "start_char": 84568,
+      "end_char": 84577
+    }
+  ],
+  "precedent_clusters": {
+    "Committee of Creditors of Essar Steel India Ltd., vs. Satish Kumar Gupta and others, reported in 2019 SCC OnLine 1478": [
+      "Committee of Creditors of Essar Steel India Limited vs. Satish Kumar Gupta, reported in 2019 SCC Online 1478",
+      "Standard Chartered Bank v. Satish Kumar Gupta, 2019 SCC OnLine NCLAT 388",
+      "Committee of Creditors of Essar Steel India Ltd., vs. Satish Kumar Gupta and others, reported in 2019 SCC OnLine 1478",
+      "Committee of Creditors of Essar Steel India Limited",
+      "Committee of Creditors of Essar Steel India Limited"
+    ],
+    "Essar Steel Limited vs State Of Gujarat, reported in 2020 (8) SCC 531": [
+      "Essar Steel Limited vs State Of Gujarat, reported in 2020 (8) SCC 531",
+      "2020 (8) SCC 531",
+      "2020 (8) SCC 531",
+      "2020 (8) SCC 531"
+    ],
+    "State of Gujarat vs. Arcelor Mittal Nippon Steel India Limited, reported in (2022) 6": [
+      "North Delhi Power Limited vs. Devinder Singh",
+      "Committee of Creditors of Essar Steel India Limited vs. Satish Kumar Gupta",
+      "Committee of Creditors of Essar Steel India Limited vs. Satish Kumar Gupta",
+      "Committee of Creditors of Essar Steel India Limited vs. Satish Kumar Gupta and others",
+      "Committee of Creditors of ESIL vs.Satish Kumar Gupta and others",
+      "Essar Steel Limited vs. State of Gujarat",
+      "Committee of Creditors of Essar Steel India Limited",
+      "Commissioner of Income Tax vs. Monnet Ispat and Energy Ltd.10",
+      "Essar Steel Limited vs. State of Gujarat",
+      "committee of creditors of ESIL vs. Satishkumar Gupta",
+      "State Tax Officer (1) vs. Rainbow Papers Limited, reported in (2022)",
+      "Committee of Creditors of Essar Steel India Limited vs. Satish Kumar Gupta",
+      "State of Gujarat vs. Arcelor Mittal Nippon Steel India Limited, reported in (2022) 6",
+      "Monsanto Technology Llc Thru The Authorised Representative Ms. Natalia Voruz & Others"
+    ],
+    "Ghanshyam Mishra vs. Edelweiss Asset Reconstruction Company, reported in (2021) 9 SCC 657": [
+      "Ghanshyam Mishra vs. Edelweiss Asset Reconstruction Company, reported in (2021) 9 SCC 657",
+      "Ghanshyam Mishra",
+      "Ghanshyam Mishra",
+      "Ghanshyam Mishra",
+      "Ghanshyam Mishra"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 126(6)",
+      "Electricity Act",
+      "Section 126(6)",
+      "Electricity Act"
+    ],
+    [
+      "Section 127",
+      "Electricity Act",
+      "Section 127",
+      "Electricity Act"
+    ],
+    [
+      "Section 127",
+      "Electricity Act",
+      "Section 127",
+      "Electricity Act"
+    ],
+    [
+      "Order VII Rule XI",
+      "Code of Civil Procedure",
+      "Order VII Rule XI",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Order VII Rule XI",
+      "Code of Civil Procedure",
+      "Order VII Rule XI",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 31 (1)",
+      "Insolvency and Bankruptcy Code, 2016",
+      "Section 31 (1)",
+      "Insolvency and Bankruptcy Code, 2016"
+    ],
+    [
+      "Exhibit 44",
+      "I.B.Code",
+      "Exhibit 44",
+      "I.B.Code"
+    ],
+    [
+      "Order I Rule X",
+      "Code of Civil C/FA/3659/2021 CAV JUDGMENT",
+      "Order I Rule X",
+      "Code of Civil C/FA/3659/2021 CAV JUDGMENT"
+    ],
+    [
+      "Order VII Rule XI",
+      "Code of Civil Procedure",
+      "Order VII Rule XI",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 145",
+      "Electricity Act",
+      "Section 145",
+      "Electricity Act"
+    ],
+    [
+      "Order VII Rule XI",
+      "Code of Civil Procedure",
+      "Order VII Rule XI",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 145",
+      "Electricity Act",
+      "Section 145",
+      "Electricity Act"
+    ],
+    [
+      "Section 145",
+      "Electricity Act, 2003",
+      "Section 145",
+      "Electricity Act, 2003"
+    ],
+    [
+      "Section 145",
+      "Electricity Act",
+      "Section 145",
+      "Electricity Act"
+    ],
+    [
+      "Sections 126 and 127",
+      "Electricity Act",
+      "Sections 126 and 127",
+      "Electricity Act"
+    ],
+    [
+      "Section 145",
+      "Electricity Act",
+      "Section 145",
+      "Electricity Act"
+    ],
+    [
+      "Section 145",
+      "Electricity Act",
+      "Section 145",
+      "Electricity Act"
+    ],
+    [
+      "Section 9",
+      "Limitation Act",
+      "Section 9",
+      "Limitation Act"
+    ],
+    [
+      "Section 151",
+      "Code of Civil Procedure",
+      "Section 151",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Order VII Rule XI",
+      "Commercial Courts Act",
+      "Order VII Rule XI",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order VII Rule XI",
+      "Code of Civil Procedure",
+      "Order VII Rule XI",
+      "Code of Civil Procedure"
+    ],
+    [
+      "XIII A",
+      "Code of Civil Procedure",
+      "XIII A",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 3 (6)",
+      "Commercial Courts Act",
+      "Section 3 (6)",
+      "Commercial Courts Act"
+    ],
+    [
+      "sub−section (1) of Section 31",
+      "Insolvency and Bankruptcy Code, 2016",
+      "sub−section (1) of Section 31",
+      "Insolvency and Bankruptcy Code, 2016"
+    ],
+    [
+      "Section 31",
+      "I&B Code",
+      "Section 31",
+      "I&B Code"
+    ],
+    [
+      "sub−section (3) of Section 61",
+      "I&B Code",
+      "sub−section (3) of Section 61",
+      "I&B Code"
+    ],
+    [
+      "Section 29",
+      "I&B Code",
+      "Section 29",
+      "I&B Code"
+    ],
+    [
+      "Section 238",
+      "I&B Code",
+      "Section 238",
+      "I&B Code"
+    ],
+    [
+      "Section 31",
+      "IBC, 2016",
+      "Section 31",
+      "IBC, 2016"
+    ],
+    [
+      "Section 133",
+      "Contract Act, 1872",
+      "Section 133",
+      "Contract Act, 1872"
+    ],
+    [
+      "Section 48",
+      "Gujarat Value Added Tax Act",
+      "Section 48",
+      "Gujarat Value Added Tax Act"
+    ],
+    [
+      "Section 48",
+      "Value Added Tax Act",
+      "Section 48",
+      "Value Added Tax Act"
+    ],
+    [
+      "Section 127",
+      "Electricity Act",
+      "Section 127",
+      "Electricity Act"
+    ],
+    [
+      "Sections 126 and 127",
+      "Electricity Act,2003 and",
+      "Sections 126 and 127",
+      "Electricity Act,2003 and"
+    ],
+    [
+      "Order XIII A",
+      "Code of Civil Procedure",
+      "Order XIII A",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Order XIII A",
+      "Code of Civil Procedure",
+      "Order XIII A",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Order XIII A",
+      "Civil Procedure Code",
+      "Order XIII A",
+      "Civil Procedure Code"
+    ],
+    [
+      "Order XIII A",
+      "Code of Civil Procedure",
+      "Order XIII A",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Order XIII A",
+      "Code of Civil Procedure",
+      "Order XIII A",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Order XIII A",
+      "Code of Civil Procedure",
+      "Order XIII A",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Order XIII A",
+      "Code of Civil Procedure",
+      "Order XIII A",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Order XIII A",
+      "Code of Civil Procedure",
+      "Order XIII A",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Order XIII A",
+      "Code of Civil Procedure",
+      "Order XIII A",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 31",
+      "Insolvency and Bankruptcy Code, 2016",
+      "Section 31",
+      "Insolvency and Bankruptcy Code, 2016"
+    ],
+    [
+      "Section 31",
+      "I&B Code",
+      "Section 31",
+      "I&B Code"
+    ],
+    [
+      "Section 31",
+      "I&B Code",
+      "Section 31",
+      "I&B Code"
+    ],
+    [
+      "sub-section (4) of Section 30",
+      "I&B Code",
+      "sub-section (4) of Section 30",
+      "I&B Code"
+    ],
+    [
+      "sub-section (2) of Section 30",
+      "I&B Code",
+      "sub-section (2) of Section 30",
+      "I&B Code"
+    ],
+    [
+      "Section 31",
+      "I&B Code",
+      "Section 31",
+      "I&B Code"
+    ],
+    [
+      "Section 31(1)",
+      "I&B Code",
+      "Section 31(1)",
+      "I&B Code"
+    ],
+    [
+      "Section 31",
+      "I&B Code",
+      "Section 31",
+      "I&B Code"
+    ],
+    [
+      "Section 31",
+      "I&B Code",
+      "Section 31",
+      "I&B Code"
+    ],
+    [
+      "Section 31(1)",
+      "I&B Code",
+      "Section 31(1)",
+      "I&B Code"
+    ],
+    [
+      "Regulation 36(2)",
+      "I&B Code",
+      "Regulation 36(2)",
+      "I&B Code"
+    ],
+    [
+      "Section 31",
+      "I&B Code",
+      "Section 31",
+      "I&B Code"
+    ],
+    [
+      "Section 60(6)",
+      "I&B Code",
+      "Section 60(6)",
+      "I&B Code"
+    ],
+    [
+      "Section 31",
+      "I&B Code",
+      "Section 31",
+      "I&B Code"
+    ],
+    [
+      "Section 126",
+      "Electricity Act",
+      "Section 126",
+      "Electricity Act"
+    ],
+    [
+      "Section 126",
+      "Electricity Act",
+      "Section 126",
+      "Electricity Act"
+    ],
+    [
+      "sub- section (2) of Section 30",
+      "I&B Code",
+      "sub- section (2) of Section 30",
+      "I&B Code"
+    ],
+    [
+      "Rule IV",
+      "Commercial Courts Act",
+      "Rule IV",
+      "Commercial Courts Act"
+    ],
+    [
+      "Rule V",
+      "Commercial Courts Act",
+      "Rule V",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order XIII",
+      "Commercial Courts Act",
+      "Order XIII",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 7",
+      "Insolvency and Bankruptcy Code, 2016",
+      "Section 7",
+      "Insolvency and Bankruptcy Code, 2016"
+    ],
+    [
+      "Regulation 36",
+      "I&B Code",
+      "Regulation 36",
+      "I&B Code"
+    ],
+    [
+      "sub−section (2) of Section 30",
+      "I&B Code",
+      "sub−section (2) of Section 30",
+      "I&B Code"
+    ],
+    [
+      "Section 60(6)",
+      "I&B Code",
+      "Section 60(6)",
+      "I&B Code"
+    ],
+    [
+      "Annexure VI(e) to Form 6",
+      "Contract Act, 1872",
+      "Annexure VI(e) to Form 6",
+      "Contract Act, 1872"
+    ],
+    [
+      "Regulation 7",
+      "Gujarat Value Added Tax Act",
+      "Regulation 7",
+      "Gujarat Value Added Tax Act"
+    ]
+  ],
+  "precedent_counts": {
+    "Committee of Creditors of Essar Steel India Ltd., vs. Satish Kumar Gupta and others, reported in 2019 SCC OnLine 1478": 5,
+    "Essar Steel Limited vs State Of Gujarat, reported in 2020 (8) SCC 531": 4,
+    "State of Gujarat vs. Arcelor Mittal Nippon Steel India Limited, reported in (2022) 6": 14,
+    "Ghanshyam Mishra vs. Edelweiss Asset Reconstruction Company, reported in (2021) 9 SCC 657": 5
+  },
+  "provision_counts": {
+    "Section 126(6) of Electricity Act": 1,
+    "Section 127 of Electricity Act": 3,
+    "Order VII Rule XI of Code of Civil Procedure": 5,
+    "Section 31 (1) of Insolvency and Bankruptcy Code, 2016": 1,
+    "Exhibit 44 of I.B.Code": 1,
+    "Order I Rule X of Code of Civil C/FA/3659/2021 CAV JUDGMENT": 1,
+    "Section 145 of Electricity Act": 5,
+    "Section 145 of Electricity Act, 2003": 1,
+    "Sections 126 and 127 of Electricity Act": 1,
+    "Section 9 of Limitation Act": 1,
+    "Section 151 of Code of Civil Procedure": 1,
+    "Order VII Rule XI of Commercial Courts Act": 1,
+    "XIII A of Code of Civil Procedure": 1,
+    "Section 3 (6) of Commercial Courts Act": 1,
+    "sub−section (1) of Section 31 of Insolvency and Bankruptcy Code, 2016": 1,
+    "Section 31 of I&B Code": 8,
+    "sub−section (3) of Section 61 of I&B Code": 1,
+    "Section 29 of I&B Code": 1,
+    "Section 238 of I&B Code": 1,
+    "Section 31 of IBC, 2016": 1,
+    "Section 133 of Contract Act, 1872": 1,
+    "Section 48 of Gujarat Value Added Tax Act": 1,
+    "Section 48 of Value Added Tax Act": 1,
+    "Sections 126 and 127 of Electricity Act,2003 and": 1,
+    "Order XIII A of Code of Civil Procedure": 8,
+    "Order XIII A of Civil Procedure Code": 1,
+    "Section 31 of Insolvency and Bankruptcy Code, 2016": 1,
+    "sub-section (4) of Section 30 of I&B Code": 1,
+    "sub-section (2) of Section 30 of I&B Code": 1,
+    "Section 31(1) of I&B Code": 2,
+    "Regulation 36(2) of I&B Code": 1,
+    "Section 60(6) of I&B Code": 2,
+    "Section 126 of Electricity Act": 2,
+    "sub- section (2) of Section 30 of I&B Code": 1,
+    "Rule IV of Commercial Courts Act": 1,
+    "Rule V of Commercial Courts Act": 1,
+    "Order XIII of Commercial Courts Act": 1,
+    "Section 7 of Insolvency and Bankruptcy Code, 2016": 1,
+    "Regulation 36 of I&B Code": 1,
+    "sub−section (2) of Section 30 of I&B Code": 1,
+    "Annexure VI(e) to Form 6 of Contract Act, 1872": 1,
+    "Regulation 7 of Gujarat Value Added Tax Act": 1
+  },
+  "statute_counts": {
+    "Electricity Act": 12,
+    "Code of Civil Procedure": 15,
+    "Insolvency and Bankruptcy Code, 2016": 4,
+    "I.B.Code": 1,
+    "Code of Civil C/FA/3659/2021 CAV JUDGMENT": 1,
+    "Electricity Act, 2003": 1,
+    "Limitation Act": 1,
+    "Commercial Courts Act": 5,
+    "I&B Code": 21,
+    "IBC, 2016": 1,
+    "Contract Act, 1872": 2,
+    "Gujarat Value Added Tax Act": 2,
+    "Value Added Tax Act": 1,
+    "Electricity Act,2003 and": 1,
+    "Civil Procedure Code": 1
+  }
+}

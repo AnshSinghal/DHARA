@@ -1,0 +1,8193 @@
+{
+  "entities": [
+    {
+      "text": "Madras High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 17
+    },
+    {
+      "text": "Hindustan Unilever Limited",
+      "label": "PETITIONER",
+      "start_char": 18,
+      "end_char": 44
+    },
+    {
+      "text": "S.Shanthi",
+      "label": "RESPONDENT",
+      "start_char": 48,
+      "end_char": 57
+    },
+    {
+      "text": "Sanjib Banerjee",
+      "label": "JUDGE",
+      "start_char": 65,
+      "end_char": 80
+    },
+    {
+      "text": "P.D.Audikesavalu",
+      "label": "RESPONDENT",
+      "start_char": 82,
+      "end_char": 98
+    },
+    {
+      "text": "High Court Of Judicature At Madras",
+      "label": "COURT",
+      "start_char": 240,
+      "end_char": 274
+    },
+    {
+      "text": "Sanjib Banerjee",
+      "label": "JUDGE",
+      "start_char": 533,
+      "end_char": 548
+    },
+    {
+      "text": "P.D.Audikesavalu",
+      "label": "JUDGE",
+      "start_char": 683,
+      "end_char": 699
+    },
+    {
+      "text": "Hindustan Unilever Limited",
+      "label": "PETITIONER",
+      "start_char": 1157,
+      "end_char": 1183
+    },
+    {
+      "text": "S.Shanthi",
+      "label": "RESPONDENT",
+      "start_char": 1435,
+      "end_char": 1444
+    },
+    {
+      "text": "Pinkerton Corporate Risk Management",
+      "label": "RESPONDENT",
+      "start_char": 1676,
+      "end_char": 1711
+    },
+    {
+      "text": "24.7.2019",
+      "label": "DATE",
+      "start_char": 2445,
+      "end_char": 2454
+    },
+    {
+      "text": "A.No.2002",
+      "label": "DATE",
+      "start_char": 2465,
+      "end_char": 2474
+    },
+    {
+      "text": "C.S.No.243 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 2486,
+      "end_char": 2504
+    },
+    {
+      "text": "V.Sundaresan",
+      "label": "OTHER_PERSON",
+      "start_char": 2584,
+      "end_char": 2596
+    },
+    {
+      "text": "S.Tamilarasi",
+      "label": "OTHER_PERSON",
+      "start_char": 2621,
+      "end_char": 2633
+    },
+    {
+      "text": "S.Vimal Kumar",
+      "label": "OTHER_PERSON",
+      "start_char": 2658,
+      "end_char": 2671
+    },
+    {
+      "text": "K.Sindu",
+      "label": "OTHER_PERSON",
+      "start_char": 2696,
+      "end_char": 2703
+    },
+    {
+      "text": "Varalakshmi Company",
+      "label": "ORG",
+      "start_char": 2733,
+      "end_char": 2752
+    },
+    {
+      "text": "Namakkal District",
+      "label": "GPE",
+      "start_char": 2846,
+      "end_char": 2863
+    },
+    {
+      "text": "Varalakshmi Starch Industries Pvt",
+      "label": "ORG",
+      "start_char": 3315,
+      "end_char": 3348
+    },
+    {
+      "text": "Ltd",
+      "label": "ORG",
+      "start_char": 3350,
+      "end_char": 3353
+    },
+    {
+      "text": "Salem",
+      "label": "GPE",
+      "start_char": 3437,
+      "end_char": 3442
+    },
+    {
+      "text": "636",
+      "label": "GPE",
+      "start_char": 3445,
+      "end_char": 3448
+    },
+    {
+      "text": "V.Anbalagan",
+      "label": "PETITIONER",
+      "start_char": 3480,
+      "end_char": 3491
+    },
+    {
+      "text": "OSA (CAD) Nos.1 and 2 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 3658,
+      "end_char": 3687
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 3745,
+      "end_char": 3772
+    },
+    {
+      "text": "V.Anbalagan",
+      "label": "PETITIONER",
+      "start_char": 4364,
+      "end_char": 4375
+    },
+    {
+      "text": "V.Sundaresan",
+      "label": "OTHER_PERSON",
+      "start_char": 4597,
+      "end_char": 4609
+    },
+    {
+      "text": "S.Tamilarasi",
+      "label": "OTHER_PERSON",
+      "start_char": 4634,
+      "end_char": 4646
+    },
+    {
+      "text": "S.Vimal Kumar",
+      "label": "OTHER_PERSON",
+      "start_char": 4671,
+      "end_char": 4684
+    },
+    {
+      "text": "K.Sindhu",
+      "label": "OTHER_PERSON",
+      "start_char": 4709,
+      "end_char": 4717
+    },
+    {
+      "text": "Varalakshmi Company",
+      "label": "ORG",
+      "start_char": 4747,
+      "end_char": 4766
+    },
+    {
+      "text": "Namakkal District",
+      "label": "GPE",
+      "start_char": 4860,
+      "end_char": 4877
+    },
+    {
+      "text": "Varalakshmi Starch Industries Ltd",
+      "label": "ORG",
+      "start_char": 5145,
+      "end_char": 5178
+    },
+    {
+      "text": "Salem",
+      "label": "GPE",
+      "start_char": 5262,
+      "end_char": 5267
+    },
+    {
+      "text": "636",
+      "label": "GPE",
+      "start_char": 5270,
+      "end_char": 5273
+    },
+    {
+      "text": "OSA (CAD) Nos.3 and 4 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 5427,
+      "end_char": 5456
+    },
+    {
+      "text": "Section                      13(1)",
+      "label": "PROVISION",
+      "start_char": 5472,
+      "end_char": 5506
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 5514,
+      "end_char": 5541
+    },
+    {
+      "text": "Order XXXVI Rule 9",
+      "label": "PROVISION",
+      "start_char": 5546,
+      "end_char": 5564
+    },
+    {
+      "text": "27.4.2021",
+      "label": "DATE",
+      "start_char": 5700,
+      "end_char": 5709
+    },
+    {
+      "text": "C.S.No.91 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 5772,
+      "end_char": 5789
+    },
+    {
+      "text": "Varalakshmi Starch Industries Ltd",
+      "label": "ORG",
+      "start_char": 5862,
+      "end_char": 5895
+    },
+    {
+      "text": "V.Sundaresan",
+      "label": "OTHER_PERSON",
+      "start_char": 6308,
+      "end_char": 6320
+    },
+    {
+      "text": "S.Tamilarasi",
+      "label": "OTHER_PERSON",
+      "start_char": 6345,
+      "end_char": 6357
+    },
+    {
+      "text": "S.Vimal Kumar",
+      "label": "OTHER_PERSON",
+      "start_char": 6382,
+      "end_char": 6395
+    },
+    {
+      "text": "K.Sindu",
+      "label": "OTHER_PERSON",
+      "start_char": 6420,
+      "end_char": 6427
+    },
+    {
+      "text": "Varalakshmi Company",
+      "label": "ORG",
+      "start_char": 6457,
+      "end_char": 6476
+    },
+    {
+      "text": "Namakkal District",
+      "label": "GPE",
+      "start_char": 6570,
+      "end_char": 6587
+    },
+    {
+      "text": "V.Anbalagan",
+      "label": "PETITIONER",
+      "start_char": 6854,
+      "end_char": 6865
+    },
+    {
+      "text": "OSA (CAD) No.19 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 6950,
+      "end_char": 6973
+    },
+    {
+      "text": "Section 13(1)",
+      "label": "PROVISION",
+      "start_char": 6988,
+      "end_char": 7001
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 7030,
+      "end_char": 7057
+    },
+    {
+      "text": "Order XXXVI Rule 9",
+      "label": "PROVISION",
+      "start_char": 7062,
+      "end_char": 7080
+    },
+    {
+      "text": "29.3.2021",
+      "label": "DATE",
+      "start_char": 7216,
+      "end_char": 7225
+    },
+    {
+      "text": "C.S.No.91 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 7300,
+      "end_char": 7317
+    },
+    {
+      "text": "63 Moons Technologies Limited",
+      "label": "PETITIONER",
+      "start_char": 7389,
+      "end_char": 7418
+    },
+    {
+      "text": "Brickwork Ratings India Private Limited",
+      "label": "ORG",
+      "start_char": 7871,
+      "end_char": 7910
+    },
+    {
+      "text": "P.S.Sivasamy Salai",
+      "label": "OTHER_PERSON",
+      "start_char": 8002,
+      "end_char": 8020
+    },
+    {
+      "text": "Mylapore",
+      "label": "GPE",
+      "start_char": 8022,
+      "end_char": 8030
+    },
+    {
+      "text": "Chennai",
+      "label": "GPE",
+      "start_char": 8055,
+      "end_char": 8062
+    },
+    {
+      "text": "600",
+      "label": "GPE",
+      "start_char": 8065,
+      "end_char": 8068
+    },
+    {
+      "text": "Wadhwan Global Capital Limited",
+      "label": "ORG",
+      "start_char": 8302,
+      "end_char": 8332
+    },
+    {
+      "text": "Kapil Rajeshkumar Wadhawan",
+      "label": "OTHER_PERSON",
+      "start_char": 8636,
+      "end_char": 8662
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 8726,
+      "end_char": 8730
+    },
+    {
+      "text": "Dheeraj Rajeshkumar Wadhawan",
+      "label": "OTHER_PERSON",
+      "start_char": 9086,
+      "end_char": 9114
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 9156,
+      "end_char": 9160
+    },
+    {
+      "text": "Harshil Mehta",
+      "label": "OTHER_PERSON",
+      "start_char": 9514,
+      "end_char": 9527
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 9584,
+      "end_char": 9588
+    },
+    {
+      "text": "Santosh Sharma",
+      "label": "OTHER_PERSON",
+      "start_char": 9766,
+      "end_char": 9780
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 9837,
+      "end_char": 9841
+    },
+    {
+      "text": "Credit Analysis and Research Limited",
+      "label": "ORG",
+      "start_char": 10219,
+      "end_char": 10255
+    },
+    {
+      "text": "Anna Salai",
+      "label": "OTHER_PERSON",
+      "start_char": 10349,
+      "end_char": 10359
+    },
+    {
+      "text": "Chennai",
+      "label": "GPE",
+      "start_char": 10384,
+      "end_char": 10391
+    },
+    {
+      "text": "Chaturvedi",
+      "label": "OTHER_PERSON",
+      "start_char": 10429,
+      "end_char": 10439
+    },
+    {
+      "text": "Shah",
+      "label": "OTHER_PERSON",
+      "start_char": 10444,
+      "end_char": 10448
+    },
+    {
+      "text": "T.R.Chadha & Co. LLP",
+      "label": "ORG",
+      "start_char": 10837,
+      "end_char": 10857
+    },
+    {
+      "text": "Anna Salai",
+      "label": "OTHER_PERSON",
+      "start_char": 10941,
+      "end_char": 10951
+    },
+    {
+      "text": "Chennai",
+      "label": "GPE",
+      "start_char": 10976,
+      "end_char": 10983
+    },
+    {
+      "text": "Rajendra Neeti & Associates",
+      "label": "ORG",
+      "start_char": 11022,
+      "end_char": 11049
+    },
+    {
+      "text": "Indian Partnership Act, 1932",
+      "label": "STATUTE",
+      "start_char": 11183,
+      "end_char": 11211
+    },
+    {
+      "text": "Catalyst Trusteeship Limited",
+      "label": "ORG",
+      "start_char": 11371,
+      "end_char": 11399
+    },
+    {
+      "text": "GDA Trusteeship Limited",
+      "label": "ORG",
+      "start_char": 11435,
+      "end_char": 11458
+    },
+    {
+      "text": "Chennai",
+      "label": "GPE",
+      "start_char": 11550,
+      "end_char": 11557
+    },
+    {
+      "text": "OSA (CAD) No.24 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 11635,
+      "end_char": 11658
+    },
+    {
+      "text": "Section XIII",
+      "label": "PROVISION",
+      "start_char": 11673,
+      "end_char": 11685
+    },
+    {
+      "text": "29.4.2021",
+      "label": "DATE",
+      "start_char": 11901,
+      "end_char": 11910
+    },
+    {
+      "text": "A.No.3293 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 11914,
+      "end_char": 11931
+    },
+    {
+      "text": "C.S. (Comm.",
+      "label": "CASE_NUMBER",
+      "start_char": 11935,
+      "end_char": 11946
+    },
+    {
+      "text": "63 Moons Technologies Limited",
+      "label": "PETITIONER",
+      "start_char": 12261,
+      "end_char": 12290
+    },
+    {
+      "text": "Harshil Mehta",
+      "label": "OTHER_PERSON",
+      "start_char": 12742,
+      "end_char": 12755
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 12812,
+      "end_char": 12816
+    },
+    {
+      "text": "Wadhwan Global Capital Limited",
+      "label": "ORG",
+      "start_char": 12994,
+      "end_char": 13024
+    },
+    {
+      "text": "Kapil Rajeshkumar Wadhawan",
+      "label": "OTHER_PERSON",
+      "start_char": 13328,
+      "end_char": 13354
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 13418,
+      "end_char": 13422
+    },
+    {
+      "text": "Dheeraj Rajeshkumar Wadhawan",
+      "label": "OTHER_PERSON",
+      "start_char": 13776,
+      "end_char": 13804
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 13846,
+      "end_char": 13850
+    },
+    {
+      "text": "Santosh Sharma",
+      "label": "OTHER_PERSON",
+      "start_char": 14408,
+      "end_char": 14422
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 14479,
+      "end_char": 14483
+    },
+    {
+      "text": "CARE Ratings Ltd",
+      "label": "ORG",
+      "start_char": 14658,
+      "end_char": 14674
+    },
+    {
+      "text": "Anna Salai",
+      "label": "OTHER_PERSON",
+      "start_char": 14768,
+      "end_char": 14778
+    },
+    {
+      "text": "Chennai",
+      "label": "GPE",
+      "start_char": 14803,
+      "end_char": 14810
+    },
+    {
+      "text": "600",
+      "label": "GPE",
+      "start_char": 14813,
+      "end_char": 14816
+    },
+    {
+      "text": "Brickwork Ratings India Private Limited",
+      "label": "ORG",
+      "start_char": 14848,
+      "end_char": 14887
+    },
+    {
+      "text": "P.S.Sivasamy Salai",
+      "label": "OTHER_PERSON",
+      "start_char": 14979,
+      "end_char": 14997
+    },
+    {
+      "text": "Mylapore",
+      "label": "GPE",
+      "start_char": 14999,
+      "end_char": 15007
+    },
+    {
+      "text": "Chennai",
+      "label": "GPE",
+      "start_char": 15032,
+      "end_char": 15039
+    },
+    {
+      "text": "600",
+      "label": "GPE",
+      "start_char": 15042,
+      "end_char": 15045
+    },
+    {
+      "text": "Chaturvedi",
+      "label": "OTHER_PERSON",
+      "start_char": 15077,
+      "end_char": 15087
+    },
+    {
+      "text": "Shah",
+      "label": "OTHER_PERSON",
+      "start_char": 15092,
+      "end_char": 15096
+    },
+    {
+      "text": "T.R.Chadha & Co. LLP",
+      "label": "ORG",
+      "start_char": 15485,
+      "end_char": 15505
+    },
+    {
+      "text": "Anna Salai",
+      "label": "OTHER_PERSON",
+      "start_char": 15589,
+      "end_char": 15599
+    },
+    {
+      "text": "Chennai",
+      "label": "GPE",
+      "start_char": 15624,
+      "end_char": 15631
+    },
+    {
+      "text": "Rajendra Neeti & Associates",
+      "label": "ORG",
+      "start_char": 15670,
+      "end_char": 15697
+    },
+    {
+      "text": "Indian Partnership Act, 1932",
+      "label": "STATUTE",
+      "start_char": 15831,
+      "end_char": 15859
+    },
+    {
+      "text": "Catalyst Trusteeship Limited",
+      "label": "ORG",
+      "start_char": 16223,
+      "end_char": 16251
+    },
+    {
+      "text": "GDA Trusteeship Limited",
+      "label": "ORG",
+      "start_char": 16287,
+      "end_char": 16310
+    },
+    {
+      "text": "Chennai",
+      "label": "GPE",
+      "start_char": 16402,
+      "end_char": 16409
+    },
+    {
+      "text": "OSA (CAD) No.25 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 16486,
+      "end_char": 16509
+    },
+    {
+      "text": "Section XIII",
+      "label": "PROVISION",
+      "start_char": 16524,
+      "end_char": 16536
+    },
+    {
+      "text": "29.4.2021",
+      "label": "DATE",
+      "start_char": 16752,
+      "end_char": 16761
+    },
+    {
+      "text": "A.No.656 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 16765,
+      "end_char": 16781
+    },
+    {
+      "text": "C.S. (Comm.",
+      "label": "CASE_NUMBER",
+      "start_char": 16785,
+      "end_char": 16796
+    },
+    {
+      "text": "63 Moons Technologies Limited",
+      "label": "PETITIONER",
+      "start_char": 16908,
+      "end_char": 16937
+    },
+    {
+      "text": "Kapil Rajeshkumar Wadhawan",
+      "label": "OTHER_PERSON",
+      "start_char": 17390,
+      "end_char": 17416
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 17480,
+      "end_char": 17484
+    },
+    {
+      "text": "Wadhwan Global Capital Limited",
+      "label": "ORG",
+      "start_char": 17840,
+      "end_char": 17870
+    },
+    {
+      "text": "Dheeraj Rajeshkumar Wadhawan",
+      "label": "OTHER_PERSON",
+      "start_char": 18374,
+      "end_char": 18402
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 18444,
+      "end_char": 18448
+    },
+    {
+      "text": "Harshil Mehta",
+      "label": "OTHER_PERSON",
+      "start_char": 18802,
+      "end_char": 18815
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 18872,
+      "end_char": 18876
+    },
+    {
+      "text": "Santosh Sharma",
+      "label": "OTHER_PERSON",
+      "start_char": 19054,
+      "end_char": 19068
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 19125,
+      "end_char": 19129
+    },
+    {
+      "text": "Credit Analysis and Research Limited",
+      "label": "ORG",
+      "start_char": 19304,
+      "end_char": 19340
+    },
+    {
+      "text": "Anna Salai",
+      "label": "OTHER_PERSON",
+      "start_char": 19434,
+      "end_char": 19444
+    },
+    {
+      "text": "Chennai",
+      "label": "GPE",
+      "start_char": 19469,
+      "end_char": 19476
+    },
+    {
+      "text": "Brickwork Ratings India Private Limited",
+      "label": "ORG",
+      "start_char": 19514,
+      "end_char": 19553
+    },
+    {
+      "text": "P.S.Sivasamy Salai",
+      "label": "OTHER_PERSON",
+      "start_char": 19645,
+      "end_char": 19663
+    },
+    {
+      "text": "Mylapore",
+      "label": "GPE",
+      "start_char": 19665,
+      "end_char": 19673
+    },
+    {
+      "text": "Chennai",
+      "label": "GPE",
+      "start_char": 19698,
+      "end_char": 19705
+    },
+    {
+      "text": "600",
+      "label": "GPE",
+      "start_char": 19708,
+      "end_char": 19711
+    },
+    {
+      "text": "Chaturvedi",
+      "label": "OTHER_PERSON",
+      "start_char": 19743,
+      "end_char": 19753
+    },
+    {
+      "text": "Shah",
+      "label": "OTHER_PERSON",
+      "start_char": 19758,
+      "end_char": 19762
+    },
+    {
+      "text": "T.R.Chadha & Co.",
+      "label": "ORG",
+      "start_char": 20357,
+      "end_char": 20373
+    },
+    {
+      "text": "Rajendra Neeti & Associates",
+      "label": "ORG",
+      "start_char": 20542,
+      "end_char": 20569
+    },
+    {
+      "text": "Indian Partnership Act, 1932",
+      "label": "STATUTE",
+      "start_char": 20703,
+      "end_char": 20731
+    },
+    {
+      "text": "Catalyst Trusteeship Limited",
+      "label": "ORG",
+      "start_char": 20891,
+      "end_char": 20919
+    },
+    {
+      "text": "GDA Trusteeship Limited",
+      "label": "ORG",
+      "start_char": 20955,
+      "end_char": 20978
+    },
+    {
+      "text": "Chennai",
+      "label": "GPE",
+      "start_char": 21070,
+      "end_char": 21077
+    },
+    {
+      "text": "OSA (CAD) No.26 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 21155,
+      "end_char": 21178
+    },
+    {
+      "text": "Section XIII",
+      "label": "PROVISION",
+      "start_char": 21193,
+      "end_char": 21205
+    },
+    {
+      "text": "29.4.2021",
+      "label": "DATE",
+      "start_char": 21421,
+      "end_char": 21430
+    },
+    {
+      "text": "A.No.2678 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 21434,
+      "end_char": 21451
+    },
+    {
+      "text": "C.S. (Comm.",
+      "label": "CASE_NUMBER",
+      "start_char": 21455,
+      "end_char": 21466
+    },
+    {
+      "text": "63 Moons Technologies Limited",
+      "label": "PETITIONER",
+      "start_char": 21577,
+      "end_char": 21606
+    },
+    {
+      "text": "Chaturvedi",
+      "label": "OTHER_PERSON",
+      "start_char": 22060,
+      "end_char": 22070
+    },
+    {
+      "text": "Shah",
+      "label": "OTHER_PERSON",
+      "start_char": 22075,
+      "end_char": 22079
+    },
+    {
+      "text": "Wadhwan Global Capital Limited",
+      "label": "ORG",
+      "start_char": 22648,
+      "end_char": 22678
+    },
+    {
+      "text": "Kapil Rajeshkumar Wadhawan",
+      "label": "OTHER_PERSON",
+      "start_char": 22982,
+      "end_char": 23008
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 23072,
+      "end_char": 23076
+    },
+    {
+      "text": "Dheeraj Rajeshkumar Wadhawan",
+      "label": "OTHER_PERSON",
+      "start_char": 23432,
+      "end_char": 23460
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 23502,
+      "end_char": 23506
+    },
+    {
+      "text": "Harshil Mehta",
+      "label": "OTHER_PERSON",
+      "start_char": 23860,
+      "end_char": 23873
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 23930,
+      "end_char": 23934
+    },
+    {
+      "text": "Santosh Sharma",
+      "label": "OTHER_PERSON",
+      "start_char": 24112,
+      "end_char": 24126
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 24183,
+      "end_char": 24187
+    },
+    {
+      "text": "Credit Analysis and Research Limited",
+      "label": "ORG",
+      "start_char": 24566,
+      "end_char": 24602
+    },
+    {
+      "text": "Anna Salai",
+      "label": "OTHER_PERSON",
+      "start_char": 24696,
+      "end_char": 24706
+    },
+    {
+      "text": "Chennai",
+      "label": "GPE",
+      "start_char": 24731,
+      "end_char": 24738
+    },
+    {
+      "text": "Brickwork Ratings India Private Limited",
+      "label": "ORG",
+      "start_char": 24776,
+      "end_char": 24815
+    },
+    {
+      "text": "P.S.Sivasamy Salai",
+      "label": "OTHER_PERSON",
+      "start_char": 24907,
+      "end_char": 24925
+    },
+    {
+      "text": "Mylapore",
+      "label": "GPE",
+      "start_char": 24927,
+      "end_char": 24935
+    },
+    {
+      "text": "Chennai",
+      "label": "GPE",
+      "start_char": 24960,
+      "end_char": 24967
+    },
+    {
+      "text": "600",
+      "label": "GPE",
+      "start_char": 24970,
+      "end_char": 24973
+    },
+    {
+      "text": "T.R.Chadha & Co. LLP",
+      "label": "ORG",
+      "start_char": 25005,
+      "end_char": 25025
+    },
+    {
+      "text": "Anna Salai",
+      "label": "OTHER_PERSON",
+      "start_char": 25109,
+      "end_char": 25119
+    },
+    {
+      "text": "Chennai",
+      "label": "GPE",
+      "start_char": 25144,
+      "end_char": 25151
+    },
+    {
+      "text": "Rajendra Neeti & Associates",
+      "label": "ORG",
+      "start_char": 25190,
+      "end_char": 25217
+    },
+    {
+      "text": "Indian Partnership Act, 1932",
+      "label": "STATUTE",
+      "start_char": 25351,
+      "end_char": 25379
+    },
+    {
+      "text": "Catalyst Trusteeship Limited",
+      "label": "ORG",
+      "start_char": 25539,
+      "end_char": 25567
+    },
+    {
+      "text": "GDA Trusteeship Limited",
+      "label": "ORG",
+      "start_char": 25603,
+      "end_char": 25626
+    },
+    {
+      "text": "Chennai",
+      "label": "GPE",
+      "start_char": 25718,
+      "end_char": 25725
+    },
+    {
+      "text": "OSA (CAD) No.27 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 25803,
+      "end_char": 25826
+    },
+    {
+      "text": "Section XIII",
+      "label": "PROVISION",
+      "start_char": 25841,
+      "end_char": 25853
+    },
+    {
+      "text": "29.4.2021",
+      "label": "DATE",
+      "start_char": 26069,
+      "end_char": 26078
+    },
+    {
+      "text": "A.No.2785 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 26082,
+      "end_char": 26099
+    },
+    {
+      "text": "C.S. (Comm.",
+      "label": "CASE_NUMBER",
+      "start_char": 26103,
+      "end_char": 26114
+    },
+    {
+      "text": "OSA (CAD) Nos.29 and 30 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 26182,
+      "end_char": 26213
+    },
+    {
+      "text": "Pronk Multi Service India Pvt Ltd",
+      "label": "ORG",
+      "start_char": 26239,
+      "end_char": 26272
+    },
+    {
+      "text": "Chennai",
+      "label": "GPE",
+      "start_char": 26425,
+      "end_char": 26432
+    },
+    {
+      "text": "Pronk Multi Service India Pvt Ltd",
+      "label": "ORG",
+      "start_char": 26674,
+      "end_char": 26707
+    },
+    {
+      "text": "BenguruHobli",
+      "label": "GPE",
+      "start_char": 26914,
+      "end_char": 26926
+    },
+    {
+      "text": "Bengaluru",
+      "label": "GPE",
+      "start_char": 26963,
+      "end_char": 26972
+    },
+    {
+      "text": "Camfil Air Filtration India Pvt Ltd",
+      "label": "PETITIONER",
+      "start_char": 27145,
+      "end_char": 27180
+    },
+    {
+      "text": "Shailender Anand",
+      "label": "OTHER_PERSON",
+      "start_char": 27461,
+      "end_char": 27477
+    },
+    {
+      "text": "Pronk Multi Service India Pvt Ltd",
+      "label": "ORG",
+      "start_char": 27512,
+      "end_char": 27545
+    },
+    {
+      "text": "Bengaluru",
+      "label": "GPE",
+      "start_char": 27744,
+      "end_char": 27753
+    },
+    {
+      "text": "Marcel Pronk",
+      "label": "OTHER_PERSON",
+      "start_char": 27825,
+      "end_char": 27837
+    },
+    {
+      "text": "Pronk Multi Service India Pvt Ltd",
+      "label": "ORG",
+      "start_char": 27872,
+      "end_char": 27905
+    },
+    {
+      "text": "Bengaluru",
+      "label": "GPE",
+      "start_char": 28104,
+      "end_char": 28113
+    },
+    {
+      "text": "OSA (CAD) Nos.29 and 30 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 28233,
+      "end_char": 28264
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 28722,
+      "end_char": 28740
+    },
+    {
+      "text": "19.4.2021",
+      "label": "DATE",
+      "start_char": 28814,
+      "end_char": 28823
+    },
+    {
+      "text": "A.Nos.486 and 485 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 28853,
+      "end_char": 28878
+    },
+    {
+      "text": "C.S.No.445 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 28882,
+      "end_char": 28900
+    },
+    {
+      "text": "K.Bharat",
+      "label": "OTHER_PERSON",
+      "start_char": 28966,
+      "end_char": 28974
+    },
+    {
+      "text": "IL & FS Financial Services Limited",
+      "label": "ORG",
+      "start_char": 29111,
+      "end_char": 29145
+    },
+    {
+      "text": "Karumuttu Centre",
+      "label": "GPE",
+      "start_char": 29178,
+      "end_char": 29194
+    },
+    {
+      "text": "Chennai",
+      "label": "GPE",
+      "start_char": 29287,
+      "end_char": 29294
+    },
+    {
+      "text": "Ind Bharat Thermal Power Limited",
+      "label": "ORG",
+      "start_char": 29332,
+      "end_char": 29364
+    },
+    {
+      "text": "Chennai",
+      "label": "GPE",
+      "start_char": 29460,
+      "end_char": 29467
+    },
+    {
+      "text": "600",
+      "label": "GPE",
+      "start_char": 29470,
+      "end_char": 29473
+    },
+    {
+      "text": "Ind Bharat Power Infra Limited",
+      "label": "PETITIONER",
+      "start_char": 29507,
+      "end_char": 29537
+    },
+    {
+      "text": "Nandanam",
+      "label": "GPE",
+      "start_char": 29677,
+      "end_char": 29685
+    },
+    {
+      "text": "Chennai",
+      "label": "GPE",
+      "start_char": 29687,
+      "end_char": 29694
+    },
+    {
+      "text": "K.Raghu Rama Krishna Raju",
+      "label": "OTHER_PERSON",
+      "start_char": 29732,
+      "end_char": 29757
+    },
+    {
+      "text": "Sriba Seabase Private Limited",
+      "label": "ORG",
+      "start_char": 29782,
+      "end_char": 29811
+    },
+    {
+      "text": "Nandanam",
+      "label": "GPE",
+      "start_char": 29897,
+      "end_char": 29905
+    },
+    {
+      "text": "Chennai",
+      "label": "GPE",
+      "start_char": 29907,
+      "end_char": 29914
+    },
+    {
+      "text": "600",
+      "label": "GPE",
+      "start_char": 29917,
+      "end_char": 29920
+    },
+    {
+      "text": "Tamil Nadu Generation and Distribution",
+      "label": "ORG",
+      "start_char": 29952,
+      "end_char": 29990
+    },
+    {
+      "text": "Chennai",
+      "label": "GPE",
+      "start_char": 30130,
+      "end_char": 30137
+    },
+    {
+      "text": "OSA No.208 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 30210,
+      "end_char": 30228
+    },
+    {
+      "text": "Order XXXVI Rule IX",
+      "label": "PROVISION",
+      "start_char": 30243,
+      "end_char": 30262
+    },
+    {
+      "text": "23.9.2020",
+      "label": "DATE",
+      "start_char": 30398,
+      "end_char": 30407
+    },
+    {
+      "text": "A.No.8503 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 30418,
+      "end_char": 30435
+    },
+    {
+      "text": "C.S. No.950 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 30460,
+      "end_char": 30479
+    },
+    {
+      "text": "Madhan Babu",
+      "label": "LAWYER",
+      "start_char": 30750,
+      "end_char": 30761
+    },
+    {
+      "text": "R.Parthasarathy",
+      "label": "LAWYER",
+      "start_char": 30828,
+      "end_char": 30843
+    },
+    {
+      "text": "AR.L.Sundaresan",
+      "label": "LAWYER",
+      "start_char": 30901,
+      "end_char": 30916
+    },
+    {
+      "text": "Suhrith Parthasarathy",
+      "label": "LAWYER",
+      "start_char": 31049,
+      "end_char": 31070
+    },
+    {
+      "text": "Parthasarathy",
+      "label": "LAWYER",
+      "start_char": 31128,
+      "end_char": 31141
+    },
+    {
+      "text": "Suhrith Parthasarathy",
+      "label": "LAWYER",
+      "start_char": 31274,
+      "end_char": 31295
+    },
+    {
+      "text": "Arun C.Mohan",
+      "label": "LAWYER",
+      "start_char": 31352,
+      "end_char": 31364
+    },
+    {
+      "text": "Lakshmi Kumaran",
+      "label": "LAWYER",
+      "start_char": 31478,
+      "end_char": 31493
+    },
+    {
+      "text": "Nithyaesh Natraj",
+      "label": "LAWYER",
+      "start_char": 31596,
+      "end_char": 31612
+    },
+    {
+      "text": "Vijay Narayan",
+      "label": "LAWYER",
+      "start_char": 31723,
+      "end_char": 31736
+    },
+    {
+      "text": "P.Giridharan",
+      "label": "LAWYER",
+      "start_char": 31866,
+      "end_char": 31878
+    },
+    {
+      "text": "N.L.Rajah",
+      "label": "LAWYER",
+      "start_char": 31940,
+      "end_char": 31949
+    },
+    {
+      "text": "Aditya Reddy",
+      "label": "LAWYER",
+      "start_char": 32090,
+      "end_char": 32102
+    },
+    {
+      "text": "Lakshmi Kumaran",
+      "label": "LAWYER",
+      "start_char": 32160,
+      "end_char": 32175
+    },
+    {
+      "text": "Arun C.Mohan",
+      "label": "LAWYER",
+      "start_char": 32285,
+      "end_char": 32297
+    },
+    {
+      "text": "AR.L.Sundaresan",
+      "label": "LAWYER",
+      "start_char": 32411,
+      "end_char": 32426
+    },
+    {
+      "text": "Suhrith Parthasarathy",
+      "label": "LAWYER",
+      "start_char": 32772,
+      "end_char": 32793
+    },
+    {
+      "text": "AR.L.Sundaresan",
+      "label": "LAWYER",
+      "start_char": 32855,
+      "end_char": 32870
+    },
+    {
+      "text": "Arun Karthik Mohan",
+      "label": "LAWYER",
+      "start_char": 33011,
+      "end_char": 33029
+    },
+    {
+      "text": "AR.L.Sundaresan",
+      "label": "LAWYER",
+      "start_char": 33091,
+      "end_char": 33106
+    },
+    {
+      "text": "Suhrith Parthasarathy",
+      "label": "LAWYER",
+      "start_char": 33247,
+      "end_char": 33268
+    },
+    {
+      "text": "Rohan K.George",
+      "label": "LAWYER",
+      "start_char": 33326,
+      "end_char": 33340
+    },
+    {
+      "text": "OSA (CAD) No.26 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 33533,
+      "end_char": 33556
+    },
+    {
+      "text": "A.Abdul Hameed",
+      "label": "LAWYER",
+      "start_char": 33713,
+      "end_char": 33727
+    },
+    {
+      "text": "Arun C.Mohan",
+      "label": "LAWYER",
+      "start_char": 33963,
+      "end_char": 33975
+    },
+    {
+      "text": "Ravindhran",
+      "label": "LAWYER",
+      "start_char": 34338,
+      "end_char": 34348
+    },
+    {
+      "text": "R.Parthasarathy",
+      "label": "LAWYER",
+      "start_char": 34557,
+      "end_char": 34572
+    },
+    {
+      "text": "Harshavardhan Ganesan",
+      "label": "OTHER_PERSON",
+      "start_char": 34634,
+      "end_char": 34655
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 34883,
+      "end_char": 34901
+    },
+    {
+      "text": "Anirudh Krishnan",
+      "label": "LAWYER",
+      "start_char": 35014,
+      "end_char": 35030
+    },
+    {
+      "text": "Adarsh Subramanian",
+      "label": "OTHER_PERSON",
+      "start_char": 35149,
+      "end_char": 35167
+    },
+    {
+      "text": "Shiva Krishnamurthy",
+      "label": "LAWYER",
+      "start_char": 35228,
+      "end_char": 35247
+    },
+    {
+      "text": "Akhil Bhansali",
+      "label": "LAWYER",
+      "start_char": 35396,
+      "end_char": 35410
+    },
+    {
+      "text": "R.Sathish Kumar",
+      "label": "LAWYER",
+      "start_char": 35574,
+      "end_char": 35589
+    },
+    {
+      "text": "P.C.N.Raghupathy",
+      "label": "LAWYER",
+      "start_char": 35651,
+      "end_char": 35667
+    },
+    {
+      "text": "K.Jagannathan",
+      "label": "LAWYER",
+      "start_char": 36084,
+      "end_char": 36097
+    },
+    {
+      "text": "Rahul Balaji",
+      "label": "LAWYER",
+      "start_char": 36207,
+      "end_char": 36219
+    },
+    {
+      "text": "Madhu Preetha Elango",
+      "label": "LAWYER",
+      "start_char": 36272,
+      "end_char": 36292
+    },
+    {
+      "text": "Disha Jain",
+      "label": "LAWYER",
+      "start_char": 36354,
+      "end_char": 36364
+    },
+    {
+      "text": "Sricharan Rangarajan",
+      "label": "LAWYER",
+      "start_char": 36507,
+      "end_char": 36527
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 36834,
+      "end_char": 36861
+    },
+    {
+      "text": "Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 37225,
+      "end_char": 37239
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 37261,
+      "end_char": 37279
+    },
+    {
+      "text": "Order VII Rule 11",
+      "label": "PROVISION",
+      "start_char": 37379,
+      "end_char": 37396
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 37404,
+      "end_char": 37433
+    },
+    {
+      "text": "OSA (CAD) Nos.1, 2, 3, 4 and 19 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 37859,
+      "end_char": 37898
+    },
+    {
+      "text": "OSA (CAD) No.1 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 38140,
+      "end_char": 38162
+    },
+    {
+      "text": "April 27, 2021",
+      "label": "DATE",
+      "start_char": 38207,
+      "end_char": 38221
+    },
+    {
+      "text": "OSA (CAD) No.2 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 38273,
+      "end_char": 38295
+    },
+    {
+      "text": "March 29, 2021",
+      "label": "DATE",
+      "start_char": 38332,
+      "end_char": 38346
+    },
+    {
+      "text": "OSA (CAD) No. 3 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 38415,
+      "end_char": 38438
+    },
+    {
+      "text": "April 27, 2021",
+      "label": "DATE",
+      "start_char": 38474,
+      "end_char": 38488
+    },
+    {
+      "text": "Order VII Rule 11",
+      "label": "PROVISION",
+      "start_char": 38525,
+      "end_char": 38542
+    },
+    {
+      "text": "OSA (CAD) No.4 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 38556,
+      "end_char": 38578
+    },
+    {
+      "text": "April 27, 2021",
+      "label": "DATE",
+      "start_char": 38637,
+      "end_char": 38651
+    },
+    {
+      "text": "Order I Rule 10",
+      "label": "PROVISION",
+      "start_char": 38735,
+      "end_char": 38750
+    },
+    {
+      "text": "OSA (CAD) No.19 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 38764,
+      "end_char": 38787
+    },
+    {
+      "text": "March 29, 2021",
+      "label": "DATE",
+      "start_char": 38815,
+      "end_char": 38829
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 38950,
+      "end_char": 38968
+    },
+    {
+      "text": "OSA (CAD) Nos.24, 25, 26 and 27 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 39009,
+      "end_char": 39048
+    },
+    {
+      "text": "Section 35",
+      "label": "PROVISION",
+      "start_char": 39275,
+      "end_char": 39285
+    },
+    {
+      "text": "Companies Act, 2013",
+      "label": "STATUTE",
+      "start_char": 39293,
+      "end_char": 39312
+    },
+    {
+      "text": "OSA (CAD) Nos.24, 25, 26 and 27 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 39352,
+      "end_char": 39391
+    },
+    {
+      "text": "April 29, 2021",
+      "label": "DATE",
+      "start_char": 39433,
+      "end_char": 39447
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 39667,
+      "end_char": 39684
+    },
+    {
+      "text": "OSA (CAD) Nos.29 and 30 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 39690,
+      "end_char": 39721
+    },
+    {
+      "text": "April 19, 2021",
+      "label": "DATE",
+      "start_char": 39825,
+      "end_char": 39839
+    },
+    {
+      "text": "Order VII Rule 11",
+      "label": "PROVISION",
+      "start_char": 39982,
+      "end_char": 39999
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 40054,
+      "end_char": 40072
+    },
+    {
+      "text": "OSA No.208 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 40111,
+      "end_char": 40129
+    },
+    {
+      "text": "September 23, 2020",
+      "label": "DATE",
+      "start_char": 40165,
+      "end_char": 40183
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 40908,
+      "end_char": 40913
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 41101,
+      "end_char": 41119
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 41197,
+      "end_char": 41202
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 41340,
+      "end_char": 41345
+    },
+    {
+      "text": "Section 4(2)",
+      "label": "PROVISION",
+      "start_char": 41863,
+      "end_char": 41875
+    },
+    {
+      "text": "Section 3(3)",
+      "label": "PROVISION",
+      "start_char": 42098,
+      "end_char": 42110
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 42344,
+      "end_char": 42362
+    },
+    {
+      "text": "Law Commission of India",
+      "label": "ORG",
+      "start_char": 42424,
+      "end_char": 42447
+    },
+    {
+      "text": "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 42532,
+      "end_char": 42629
+    },
+    {
+      "text": "Section 2",
+      "label": "PROVISION",
+      "start_char": 42751,
+      "end_char": 42760
+    },
+    {
+      "text": "Section 2(1)(c)",
+      "label": "PROVISION",
+      "start_char": 42844,
+      "end_char": 42859
+    },
+    {
+      "text": "Section 2(1)(i)",
+      "label": "PROVISION",
+      "start_char": 42926,
+      "end_char": 42941
+    },
+    {
+      "text": "Chapter II",
+      "label": "PROVISION",
+      "start_char": 43324,
+      "end_char": 43334
+    },
+    {
+      "text": "Sections 3 to 11",
+      "label": "PROVISION",
+      "start_char": 43358,
+      "end_char": 43374
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 43571,
+      "end_char": 43580
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 43718,
+      "end_char": 43727
+    },
+    {
+      "text": "Section 12(1)(e)",
+      "label": "PROVISION",
+      "start_char": 44030,
+      "end_char": 44046
+    },
+    {
+      "text": "Section 10",
+      "label": "PROVISION",
+      "start_char": 44064,
+      "end_char": 44074
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 44186,
+      "end_char": 44196
+    },
+    {
+      "text": "Chapter III",
+      "label": "PROVISION",
+      "start_char": 44504,
+      "end_char": 44515
+    },
+    {
+      "text": "Chapter III-A",
+      "label": "PROVISION",
+      "start_char": 44587,
+      "end_char": 44600
+    },
+    {
+      "text": "Chapter IV",
+      "label": "PROVISION",
+      "start_char": 44680,
+      "end_char": 44690
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 44795,
+      "end_char": 44805
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 44912,
+      "end_char": 44922
+    },
+    {
+      "text": "Chapter V",
+      "label": "PROVISION",
+      "start_char": 45021,
+      "end_char": 45030
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 45067,
+      "end_char": 45077
+    },
+    {
+      "text": "Chapter VI",
+      "label": "PROVISION",
+      "start_char": 45119,
+      "end_char": 45129
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 45225,
+      "end_char": 45235
+    },
+    {
+      "text": "Chapter VII",
+      "label": "PROVISION",
+      "start_char": 45562,
+      "end_char": 45573
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 45731,
+      "end_char": 45741
+    },
+    {
+      "text": "Section 18",
+      "label": "PROVISION",
+      "start_char": 45797,
+      "end_char": 45807
+    },
+    {
+      "text": "Section 17 to Section 23",
+      "label": "PROVISION",
+      "start_char": 46290,
+      "end_char": 46314
+    },
+    {
+      "text": "Section 21",
+      "label": "PROVISION",
+      "start_char": 46324,
+      "end_char": 46334
+    },
+    {
+      "text": "Sections 26, 35 and 35-A",
+      "label": "PROVISION",
+      "start_char": 46823,
+      "end_char": 46847
+    },
+    {
+      "text": "Order XX",
+      "label": "PROVISION",
+      "start_char": 46897,
+      "end_char": 46905
+    },
+    {
+      "text": "Commercial Division of High Courts Bill, 2009",
+      "label": "STATUTE",
+      "start_char": 47064,
+      "end_char": 47109
+    },
+    {
+      "text": "October 23, 2015",
+      "label": "DATE",
+      "start_char": 47413,
+      "end_char": 47429
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "start_char": 47476,
+      "end_char": 47486
+    },
+    {
+      "text": "Sections 14 and 15",
+      "label": "PROVISION",
+      "start_char": 47652,
+      "end_char": 47670
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 47969,
+      "end_char": 47980
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 47988,
+      "end_char": 48017
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 48045,
+      "end_char": 48055
+    },
+    {
+      "text": "Arbitration and Conciliation, 1996",
+      "label": "STATUTE",
+      "start_char": 48063,
+      "end_char": 48097
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 48831,
+      "end_char": 48841
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 48919,
+      "end_char": 48937
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 49182,
+      "end_char": 49191
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 49331,
+      "end_char": 49341
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 49816,
+      "end_char": 49827
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 49835,
+      "end_char": 49876
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 49904,
+      "end_char": 49914
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 49922,
+      "end_char": 49973
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 50327,
+      "end_char": 50337
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 51115,
+      "end_char": 51126
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 51134,
+      "end_char": 51175
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 51203,
+      "end_char": 51213
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 51221,
+      "end_char": 51259
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 51618,
+      "end_char": 51627
+    },
+    {
+      "text": "section 13",
+      "label": "PROVISION",
+      "start_char": 52010,
+      "end_char": 52020
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "start_char": 52175,
+      "end_char": 52185
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 52410,
+      "end_char": 52428
+    },
+    {
+      "text": "sub-section (1) of Section 13",
+      "label": "PROVISION",
+      "start_char": 52900,
+      "end_char": 52929
+    },
+    {
+      "text": "Section 2(2)",
+      "label": "PROVISION",
+      "start_char": 53010,
+      "end_char": 53022
+    },
+    {
+      "text": "Indian Evidence Act, 1872",
+      "label": "STATUTE",
+      "start_char": 53183,
+      "end_char": 53208
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 53480,
+      "end_char": 53498
+    },
+    {
+      "text": "section 144",
+      "label": "PROVISION",
+      "start_char": 53826,
+      "end_char": 53837
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 54529,
+      "end_char": 54547
+    },
+    {
+      "text": "Letters Patent, 1865",
+      "label": "STATUTE",
+      "start_char": 54706,
+      "end_char": 54726
+    },
+    {
+      "text": "Justices of Peace for Calcutta",
+      "label": "ORG",
+      "start_char": 54877,
+      "end_char": 54907
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 55034,
+      "end_char": 55047
+    },
+    {
+      "text": "Shah Babulal Khimji",
+      "label": "OTHER_PERSON",
+      "start_char": 55112,
+      "end_char": 55131
+    },
+    {
+      "text": "(1981) 4 SCC 8]",
+      "label": "PRECEDENT",
+      "start_char": 55133,
+      "end_char": 55148
+    },
+    {
+      "text": "P.S.Sathappan [(2004) 11 SCC 672]",
+      "label": "PRECEDENT",
+      "start_char": 55169,
+      "end_char": 55202
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 55798,
+      "end_char": 55808
+    },
+    {
+      "text": "sub-section (1A) of Section 13",
+      "label": "PROVISION",
+      "start_char": 57894,
+      "end_char": 57924
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 57980,
+      "end_char": 57998
+    },
+    {
+      "text": "sub-sections (1) and (1A) of Section 13",
+      "label": "PROVISION",
+      "start_char": 58431,
+      "end_char": 58470
+    },
+    {
+      "text": "sub- sections (1) and (1A) of Section 13",
+      "label": "PROVISION",
+      "start_char": 58706,
+      "end_char": 58746
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 59114,
+      "end_char": 59132
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 59277,
+      "end_char": 59282
+    },
+    {
+      "text": "Article 136",
+      "label": "PROVISION",
+      "start_char": 59293,
+      "end_char": 59304
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 59312,
+      "end_char": 59324
+    },
+    {
+      "text": "OSA (CAD) No.29 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 59582,
+      "end_char": 59605
+    },
+    {
+      "text": "OSA (CAD) No.30 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 59610,
+      "end_char": 59633
+    },
+    {
+      "text": "Order VII Rule 11",
+      "label": "PROVISION",
+      "start_char": 60110,
+      "end_char": 60127
+    },
+    {
+      "text": "Section 104",
+      "label": "PROVISION",
+      "start_char": 60141,
+      "end_char": 60152
+    },
+    {
+      "text": "Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 60481,
+      "end_char": 60495
+    },
+    {
+      "text": "sub-sections (1) and (1A) of Section 13",
+      "label": "PROVISION",
+      "start_char": 60730,
+      "end_char": 60769
+    },
+    {
+      "text": "sub-sections (1) and (1A) of Section 13",
+      "label": "PROVISION",
+      "start_char": 61597,
+      "end_char": 61636
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 61856,
+      "end_char": 61866
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 62076,
+      "end_char": 62086
+    },
+    {
+      "text": "Section 96",
+      "label": "PROVISION",
+      "start_char": 62169,
+      "end_char": 62179
+    },
+    {
+      "text": "Section 13(2)",
+      "label": "PROVISION",
+      "start_char": 62633,
+      "end_char": 62646
+    },
+    {
+      "text": "2020 SCC OnLine Del 477 (D & H India Ltd v. Superon Schweisstechnik India Ltd)",
+      "label": "PRECEDENT",
+      "start_char": 62873,
+      "end_char": 62951
+    },
+    {
+      "text": "Order VI Rule 17",
+      "label": "PROVISION",
+      "start_char": 63022,
+      "end_char": 63038
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 63140,
+      "end_char": 63156
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 63274,
+      "end_char": 63290
+    },
+    {
+      "text": "proviso to Section 13 (1A)",
+      "label": "PROVISION",
+      "start_char": 63595,
+      "end_char": 63621
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 63700,
+      "end_char": 63721
+    },
+    {
+      "text": "sub-section (1A) of Section 13",
+      "label": "PROVISION",
+      "start_char": 63872,
+      "end_char": 63902
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 64099,
+      "end_char": 64110
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 64118,
+      "end_char": 64121
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 64323,
+      "end_char": 64334
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 64342,
+      "end_char": 64383
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 64411,
+      "end_char": 64421
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 64429,
+      "end_char": 64480
+    },
+    {
+      "text": "sub-section (1A) of Section 13",
+      "label": "PROVISION",
+      "start_char": 64615,
+      "end_char": 64645
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 64653,
+      "end_char": 64674
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 64946,
+      "end_char": 64957
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 64965,
+      "end_char": 64968
+    },
+    {
+      "text": "(2021) 2 MLJ 561",
+      "label": "PRECEDENT",
+      "start_char": 65208,
+      "end_char": 65224
+    },
+    {
+      "text": "District Collector v. N.Udayappan",
+      "label": "PRECEDENT",
+      "start_char": 65230,
+      "end_char": 65263
+    },
+    {
+      "text": "Section 115",
+      "label": "PROVISION",
+      "start_char": 65774,
+      "end_char": 65785
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 65838,
+      "end_char": 65849
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 65857,
+      "end_char": 65869
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 66256,
+      "end_char": 66269
+    },
+    {
+      "text": "OSA No.208 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 66911,
+      "end_char": 66929
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 67268,
+      "end_char": 67278
+    },
+    {
+      "text": "(2019) 2 MLJ 257",
+      "label": "PRECEDENT",
+      "start_char": 67754,
+      "end_char": 67770
+    },
+    {
+      "text": "Rubinetterie Bresciane Bonomi Spa v. Lehry Instrumentation & Valves Pvt",
+      "label": "PRECEDENT",
+      "start_char": 67772,
+      "end_char": 67843
+    },
+    {
+      "text": "Colonial Sugar Refining Co. Ltd (1905 AC 369)",
+      "label": "PRECEDENT",
+      "start_char": 68176,
+      "end_char": 68221
+    },
+    {
+      "text": "Hoosein Kasam Dada (India) Ltd (AIR 1953 SC 221)",
+      "label": "PRECEDENT",
+      "start_char": 68304,
+      "end_char": 68352
+    },
+    {
+      "text": "Garikapati Veeraya (AIR 1957 SC 540)",
+      "label": "PRECEDENT",
+      "start_char": 68357,
+      "end_char": 68393
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 68513,
+      "end_char": 68523
+    },
+    {
+      "text": "SCC OnLine Bom 9019",
+      "label": "CASE_NUMBER",
+      "start_char": 68732,
+      "end_char": 68751
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 68799,
+      "end_char": 68817
+    },
+    {
+      "text": "Hubtown Limited v. IDBI Trusteeship Service Limited",
+      "label": "PRECEDENT",
+      "start_char": 68824,
+      "end_char": 68875
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 68902,
+      "end_char": 68919
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 68931,
+      "end_char": 68941
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 69029,
+      "end_char": 69039
+    },
+    {
+      "text": "Section 13(1)",
+      "label": "PROVISION",
+      "start_char": 69467,
+      "end_char": 69480
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 69510,
+      "end_char": 69520
+    },
+    {
+      "text": "(2019) 5 MLJ 479 (Magic Frames v. Radiance Media P. Ltd)",
+      "label": "PRECEDENT",
+      "start_char": 69613,
+      "end_char": 69669
+    },
+    {
+      "text": "Section 13(2)",
+      "label": "PROVISION",
+      "start_char": 70024,
+      "end_char": 70037
+    },
+    {
+      "text": "February 5, 2020",
+      "label": "DATE",
+      "start_char": 70424,
+      "end_char": 70440
+    },
+    {
+      "text": "OSA Nos.13 to 15 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 70444,
+      "end_char": 70468
+    },
+    {
+      "text": "Kapoor Imaging Private Limited v. Kodak (India) Private Limited)",
+      "label": "PRECEDENT",
+      "start_char": 70470,
+      "end_char": 70534
+    },
+    {
+      "text": "Rubinetterie Bresciane Bonomi Spa",
+      "label": "ORG",
+      "start_char": 70617,
+      "end_char": 70650
+    },
+    {
+      "text": "(1986) 4 SCC 537 (Institute of Chartered Accountants of India v. L.K.Ratna)",
+      "label": "PRECEDENT",
+      "start_char": 70844,
+      "end_char": 70919
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 71213,
+      "end_char": 71230
+    },
+    {
+      "text": "Commercial Courts Ordinance",
+      "label": "STATUTE",
+      "start_char": 71520,
+      "end_char": 71547
+    },
+    {
+      "text": "OSA No.208 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 71711,
+      "end_char": 71729
+    },
+    {
+      "text": "OSA (CAD) Nos.29 and 30 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 73142,
+      "end_char": 73173
+    },
+    {
+      "text": "Division Bench of the Bombay High Court reported at 2017 SCC OnLine Bom 9191",
+      "label": "COURT",
+      "start_char": 73217,
+      "end_char": 73293
+    },
+    {
+      "text": "Sigmarq Technologies Pvt",
+      "label": "ORG",
+      "start_char": 73295,
+      "end_char": 73319
+    },
+    {
+      "text": "Ltd v. Manugrah India Limited)",
+      "label": "PRECEDENT",
+      "start_char": 73321,
+      "end_char": 73351
+    },
+    {
+      "text": "Hubtown Limited",
+      "label": "ORG",
+      "start_char": 73459,
+      "end_char": 73474
+    },
+    {
+      "text": "Hubtown Limited",
+      "label": "ORG",
+      "start_char": 73519,
+      "end_char": 73534
+    },
+    {
+      "text": "Section 9A",
+      "label": "PROVISION",
+      "start_char": 73689,
+      "end_char": 73699
+    },
+    {
+      "text": "Section 9A",
+      "label": "PROVISION",
+      "start_char": 73713,
+      "end_char": 73723
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 73743,
+      "end_char": 73760
+    },
+    {
+      "text": "Hubtown Limited",
+      "label": "ORG",
+      "start_char": 73915,
+      "end_char": 73930
+    },
+    {
+      "text": "Sigmarq Technologies Pvt",
+      "label": "ORG",
+      "start_char": 73959,
+      "end_char": 73983
+    },
+    {
+      "text": "Hubtown Limited",
+      "label": "ORG",
+      "start_char": 74313,
+      "end_char": 74328
+    },
+    {
+      "text": "2017 SCC OnLine Bom 360",
+      "label": "CASE_NUMBER",
+      "start_char": 74400,
+      "end_char": 74423
+    },
+    {
+      "text": "Sushila Singhania v. Bharat Hari Singhania)",
+      "label": "PRECEDENT",
+      "start_char": 74430,
+      "end_char": 74473
+    },
+    {
+      "text": "Hubtown",
+      "label": "GPE",
+      "start_char": 74783,
+      "end_char": 74790
+    },
+    {
+      "text": "Sushila Singhania",
+      "label": "OTHER_PERSON",
+      "start_char": 74800,
+      "end_char": 74817
+    },
+    {
+      "text": "section 13(2)",
+      "label": "PROVISION",
+      "start_char": 74842,
+      "end_char": 74855
+    },
+    {
+      "text": "Act 4 of 2016",
+      "label": "STATUTE",
+      "start_char": 75104,
+      "end_char": 75117
+    },
+    {
+      "text": "Act 4 of 2016",
+      "label": "STATUTE",
+      "start_char": 75120,
+      "end_char": 75133
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 75169,
+      "end_char": 75196
+    },
+    {
+      "text": "OSA (CAD) No.3 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 75230,
+      "end_char": 75252
+    },
+    {
+      "text": "OSA (CAD) No.4 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 75257,
+      "end_char": 75279
+    },
+    {
+      "text": "(2018) 14 SCC 715 (Kandla Export Corporation v. OCI Corporation)",
+      "label": "PRECEDENT",
+      "start_char": 75400,
+      "end_char": 75464
+    },
+    {
+      "text": "Order VII Rule 11",
+      "label": "PROVISION",
+      "start_char": 75554,
+      "end_char": 75571
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 75888,
+      "end_char": 75906
+    },
+    {
+      "text": "Kandla Export Corporation",
+      "label": "ORG",
+      "start_char": 75977,
+      "end_char": 76002
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 76008,
+      "end_char": 76021
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 76111,
+      "end_char": 76121
+    },
+    {
+      "text": "Section 50",
+      "label": "PROVISION",
+      "start_char": 76229,
+      "end_char": 76239
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 76247,
+      "end_char": 76285
+    },
+    {
+      "text": "Section 13(1)",
+      "label": "PROVISION",
+      "start_char": 76327,
+      "end_char": 76340
+    },
+    {
+      "text": "Section 48",
+      "label": "PROVISION",
+      "start_char": 76436,
+      "end_char": 76446
+    },
+    {
+      "text": "Gandhidham-Kutch",
+      "label": "GPE",
+      "start_char": 76484,
+      "end_char": 76500
+    },
+    {
+      "text": "High Court of Gujarat",
+      "label": "COURT",
+      "start_char": 76538,
+      "end_char": 76559
+    },
+    {
+      "text": "High Court of Gujarat",
+      "label": "COURT",
+      "start_char": 76795,
+      "end_char": 76816
+    },
+    {
+      "text": "Section 50",
+      "label": "PROVISION",
+      "start_char": 77157,
+      "end_char": 77167
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 77461,
+      "end_char": 77474
+    },
+    {
+      "text": "Order 43",
+      "label": "PROVISION",
+      "start_char": 77707,
+      "end_char": 77715
+    },
+    {
+      "text": "Code of Civil Procedure Code, 1908",
+      "label": "STATUTE",
+      "start_char": 77723,
+      "end_char": 77757
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 77763,
+      "end_char": 77773
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 77781,
+      "end_char": 77796
+    },
+    {
+      "text": "Order 43",
+      "label": "PROVISION",
+      "start_char": 77880,
+      "end_char": 77888
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 77889,
+      "end_char": 77892
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 77964,
+      "end_char": 77974
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 77982,
+      "end_char": 77997
+    },
+    {
+      "text": "(2019) 5 MLJ 479 (Magic Frames v. Radiance Media P. Ltd)",
+      "label": "PRECEDENT",
+      "start_char": 78161,
+      "end_char": 78217
+    },
+    {
+      "text": "Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 78740,
+      "end_char": 78754
+    },
+    {
+      "text": "Section 13(1)",
+      "label": "PROVISION",
+      "start_char": 78788,
+      "end_char": 78801
+    },
+    {
+      "text": "Rubinetterie Bresciane Bonomi Spa",
+      "label": "ORG",
+      "start_char": 78877,
+      "end_char": 78910
+    },
+    {
+      "text": "Kandla Export Corporation",
+      "label": "ORG",
+      "start_char": 78932,
+      "end_char": 78957
+    },
+    {
+      "text": "Sigmarq Technologies Pvt",
+      "label": "ORG",
+      "start_char": 78962,
+      "end_char": 78986
+    },
+    {
+      "text": "Section 13(2)",
+      "label": "PROVISION",
+      "start_char": 79181,
+      "end_char": 79194
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 79202,
+      "end_char": 79223
+    },
+    {
+      "text": "May 22, 2017",
+      "label": "DATE",
+      "start_char": 79366,
+      "end_char": 79378
+    },
+    {
+      "text": "Rubinetterie Bresciane Bonomi Spa",
+      "label": "ORG",
+      "start_char": 79681,
+      "end_char": 79714
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 79911,
+      "end_char": 79932
+    },
+    {
+      "text": "Rubinetterie Bresciane Bonomi Spa",
+      "label": "ORG",
+      "start_char": 80046,
+      "end_char": 80079
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 80262,
+      "end_char": 80283
+    },
+    {
+      "text": "Rubinetterie Bresciane Bonomi Spa",
+      "label": "ORG",
+      "start_char": 80303,
+      "end_char": 80336
+    },
+    {
+      "text": "OSA (CAD) No.1 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 80440,
+      "end_char": 80462
+    },
+    {
+      "text": "OSA (CAD) No.2 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 80505,
+      "end_char": 80527
+    },
+    {
+      "text": "OSA (CAD) No.19 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 80588,
+      "end_char": 80611
+    },
+    {
+      "text": "OSA (CAD) No.1 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 80836,
+      "end_char": 80858
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 80946,
+      "end_char": 80963
+    },
+    {
+      "text": "Order XLIX Rule 3",
+      "label": "PROVISION",
+      "start_char": 81028,
+      "end_char": 81045
+    },
+    {
+      "text": "Section 134",
+      "label": "PROVISION",
+      "start_char": 81108,
+      "end_char": 81119
+    },
+    {
+      "text": "Trade Marks Act, 1999",
+      "label": "STATUTE",
+      "start_char": 81127,
+      "end_char": 81148
+    },
+    {
+      "text": "April 27, 2021",
+      "label": "DATE",
+      "start_char": 81547,
+      "end_char": 81561
+    },
+    {
+      "text": "March 29, 2021",
+      "label": "DATE",
+      "start_char": 81913,
+      "end_char": 81927
+    },
+    {
+      "text": "OSA (CAD) No.19 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 82260,
+      "end_char": 82283
+    },
+    {
+      "text": "OSA (CAD) Nos.24 of 2021, 25 of 2021, 26 of 2021 and 27 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 82603,
+      "end_char": 82666
+    },
+    {
+      "text": "April 29, 2021",
+      "label": "DATE",
+      "start_char": 82902,
+      "end_char": 82916
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 83007,
+      "end_char": 83024
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 83192,
+      "end_char": 83210
+    },
+    {
+      "text": "Order VII Rule 11",
+      "label": "PROVISION",
+      "start_char": 83306,
+      "end_char": 83323
+    },
+    {
+      "text": "December 1, 2017",
+      "label": "DATE",
+      "start_char": 83368,
+      "end_char": 83384
+    },
+    {
+      "text": "November 29, 2017",
+      "label": "DATE",
+      "start_char": 83481,
+      "end_char": 83498
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 83948,
+      "end_char": 83958
+    },
+    {
+      "text": "OSA (CAD) No.1 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 83981,
+      "end_char": 84003
+    },
+    {
+      "text": "Order XLIII Rule 1(a)",
+      "label": "PROVISION",
+      "start_char": 84090,
+      "end_char": 84111
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 84209,
+      "end_char": 84227
+    },
+    {
+      "text": "OSA (CAD) No.2 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 84304,
+      "end_char": 84326
+    },
+    {
+      "text": "sub-rule (r) of Order XLIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 84453,
+      "end_char": 84487
+    },
+    {
+      "text": "OSA (CAD) No.2 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 84588,
+      "end_char": 84610
+    },
+    {
+      "text": "OSA (CAD) No.19 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 84635,
+      "end_char": 84658
+    },
+    {
+      "text": "OSA (CAD) Nos.24 of 2021, 25 of 2021, 26 of 2021 and 27 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 84678,
+      "end_char": 84741
+    },
+    {
+      "text": "Order XLIII Rule 1(a)",
+      "label": "PROVISION",
+      "start_char": 84759,
+      "end_char": 84780
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 84885,
+      "end_char": 84902
+    },
+    {
+      "text": "OSA Nos.230 of 2019 and 208 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 84961,
+      "end_char": 84996
+    },
+    {
+      "text": "OSA (CAD) Nos.3, 4, 29 and 30 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 85002,
+      "end_char": 85039
+    },
+    {
+      "text": "OSA No.208 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 85122,
+      "end_char": 85140
+    },
+    {
+      "text": "sub-sections (1) and (1A) of Section 13",
+      "label": "PROVISION",
+      "start_char": 85657,
+      "end_char": 85696
+    },
+    {
+      "text": "Sricharan Rangarajan",
+      "label": "LAWYER",
+      "start_char": 85867,
+      "end_char": 85887
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 86014,
+      "end_char": 86024
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 86448,
+      "end_char": 86466
+    },
+    {
+      "text": "sub-sections (1) and (1A) of Section 13",
+      "label": "PROVISION",
+      "start_char": 87105,
+      "end_char": 87144
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 87323,
+      "end_char": 87334
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 87664,
+      "end_char": 87682
+    },
+    {
+      "text": "Section 13(1)",
+      "label": "PROVISION",
+      "start_char": 87688,
+      "end_char": 87701
+    },
+    {
+      "text": "Section 13(2)",
+      "label": "PROVISION",
+      "start_char": 87788,
+      "end_char": 87801
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 88110,
+      "end_char": 88120
+    },
+    {
+      "text": "(2016) 9 SCC 524 (Arun Dev Upadhyaya v. Integrated Sales Service Limited)",
+      "label": "PRECEDENT",
+      "start_char": 88194,
+      "end_char": 88267
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 88344,
+      "end_char": 88357
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 88434,
+      "end_char": 88447
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 88566,
+      "end_char": 88583
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 88696,
+      "end_char": 88709
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 88893,
+      "end_char": 88911
+    },
+    {
+      "text": "Fuerst Day Lawson Ltd [(2011) 8 SCC 333]",
+      "label": "PRECEDENT",
+      "start_char": 89114,
+      "end_char": 89154
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 89254,
+      "end_char": 89264
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 89370,
+      "end_char": 89383
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 89437,
+      "end_char": 89454
+    },
+    {
+      "text": "Section 50(1)(b)",
+      "label": "PROVISION",
+      "start_char": 89583,
+      "end_char": 89599
+    },
+    {
+      "text": "Section 50",
+      "label": "PROVISION",
+      "start_char": 89700,
+      "end_char": 89710
+    },
+    {
+      "text": "Section 48",
+      "label": "PROVISION",
+      "start_char": 89826,
+      "end_char": 89836
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 89886,
+      "end_char": 89899
+    },
+    {
+      "text": "Bombay",
+      "label": "GPE",
+      "start_char": 89927,
+      "end_char": 89933
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 90051,
+      "end_char": 90064
+    },
+    {
+      "text": "Kandla Export Corporation",
+      "label": "PRECEDENT",
+      "start_char": 90383,
+      "end_char": 90408
+    },
+    {
+      "text": "Section 48",
+      "label": "PROVISION",
+      "start_char": 90570,
+      "end_char": 90580
+    },
+    {
+      "text": "Gandhidham-Kutch",
+      "label": "GPE",
+      "start_char": 90669,
+      "end_char": 90685
+    },
+    {
+      "text": "High Court of Gujarat",
+      "label": "COURT",
+      "start_char": 90744,
+      "end_char": 90765
+    },
+    {
+      "text": "Section 15(5)",
+      "label": "PROVISION",
+      "start_char": 90834,
+      "end_char": 90847
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 90855,
+      "end_char": 90876
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 91279,
+      "end_char": 91292
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 91458,
+      "end_char": 91471
+    },
+    {
+      "text": "Fuerst Day Lawson Ltd",
+      "label": "ORG",
+      "start_char": 91512,
+      "end_char": 91533
+    },
+    {
+      "text": "Section 13(1)",
+      "label": "PROVISION",
+      "start_char": 91600,
+      "end_char": 91613
+    },
+    {
+      "text": "Section 50",
+      "label": "PROVISION",
+      "start_char": 91800,
+      "end_char": 91810
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 91818,
+      "end_char": 91833
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 91904,
+      "end_char": 91923
+    },
+    {
+      "text": "2017 Cri LJ 4775 (Laxmi Narayan Udyog Limited v. Omendra Kumar Chowdhury)",
+      "label": "PRECEDENT",
+      "start_char": 91936,
+      "end_char": 92009
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 92609,
+      "end_char": 92627
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 92888,
+      "end_char": 92911
+    },
+    {
+      "text": "Constitution Bench",
+      "label": "COURT",
+      "start_char": 92967,
+      "end_char": 92985
+    },
+    {
+      "text": "P.S.Sathappan",
+      "label": "OTHER_PERSON",
+      "start_char": 92998,
+      "end_char": 93011
+    },
+    {
+      "text": "proviso to Sections 13(1) and (1A)",
+      "label": "PROVISION",
+      "start_char": 93248,
+      "end_char": 93282
+    },
+    {
+      "text": "Section 13(2)",
+      "label": "PROVISION",
+      "start_char": 93378,
+      "end_char": 93391
+    },
+    {
+      "text": "Kandla Export Corporation",
+      "label": "ORG",
+      "start_char": 93693,
+      "end_char": 93718
+    },
+    {
+      "text": "Section 3(3)",
+      "label": "PROVISION",
+      "start_char": 93816,
+      "end_char": 93828
+    },
+    {
+      "text": "Section 10(3)",
+      "label": "PROVISION",
+      "start_char": 93968,
+      "end_char": 93981
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 94326,
+      "end_char": 94341
+    },
+    {
+      "text": "Kandla Export Corporation",
+      "label": "ORG",
+      "start_char": 94590,
+      "end_char": 94615
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 94825,
+      "end_char": 94838
+    },
+    {
+      "text": "Fuerst Day Lawson Ltd.",
+      "label": "ORG",
+      "start_char": 94866,
+      "end_char": 94888
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 94984,
+      "end_char": 95002
+    },
+    {
+      "text": "Kandla Export Corporation",
+      "label": "ORG",
+      "start_char": 95018,
+      "end_char": 95043
+    },
+    {
+      "text": "AIR 1962 SC 256 (Union of India v. Mohindra Supply Co.)",
+      "label": "PRECEDENT",
+      "start_char": 95223,
+      "end_char": 95278
+    },
+    {
+      "text": "Mohindra Supply Co.",
+      "label": "ORG",
+      "start_char": 95403,
+      "end_char": 95422
+    },
+    {
+      "text": "Subordinate Judge, First Class, Delhi",
+      "label": "COURT",
+      "start_char": 95528,
+      "end_char": 95565
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 95625,
+      "end_char": 95630
+    },
+    {
+      "text": "Lahore High Court",
+      "label": "COURT",
+      "start_char": 95741,
+      "end_char": 95758
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 95803,
+      "end_char": 95808
+    },
+    {
+      "text": "Pakistan",
+      "label": "GPE",
+      "start_char": 95813,
+      "end_char": 95821
+    },
+    {
+      "text": "Circuit Bench of the East Punjab High Court at Delhi",
+      "label": "COURT",
+      "start_char": 95869,
+      "end_char": 95921
+    },
+    {
+      "text": "High Court of Lahore",
+      "label": "COURT",
+      "start_char": 96028,
+      "end_char": 96048
+    },
+    {
+      "text": "High Court (Punjab) Order, 1947",
+      "label": "COURT",
+      "start_char": 96064,
+      "end_char": 96095
+    },
+    {
+      "text": "East Punjab High Court",
+      "label": "COURT",
+      "start_char": 96112,
+      "end_char": 96134
+    },
+    {
+      "text": "Section 39(2)",
+      "label": "PROVISION",
+      "start_char": 96313,
+      "end_char": 96326
+    },
+    {
+      "text": "Arbitration Act, 1940",
+      "label": "STATUTE",
+      "start_char": 96334,
+      "end_char": 96355
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 96642,
+      "end_char": 96655
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 96666,
+      "end_char": 96679
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 96741,
+      "end_char": 96764
+    },
+    {
+      "text": "Code of 1877",
+      "label": "STATUTE",
+      "start_char": 96774,
+      "end_char": 96786
+    },
+    {
+      "text": "Code of 1882",
+      "label": "STATUTE",
+      "start_char": 96799,
+      "end_char": 96811
+    },
+    {
+      "text": "Code of 1908",
+      "label": "STATUTE",
+      "start_char": 96997,
+      "end_char": 97009
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 97172,
+      "end_char": 97185
+    },
+    {
+      "text": "Mohindra Supply Co.",
+      "label": "ORG",
+      "start_char": 97189,
+      "end_char": 97208
+    },
+    {
+      "text": "Code of 1908",
+      "label": "STATUTE",
+      "start_char": 97512,
+      "end_char": 97524
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 97780,
+      "end_char": 97795
+    },
+    {
+      "text": "Section 4",
+      "label": "PROVISION",
+      "start_char": 97820,
+      "end_char": 97829
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 97837,
+      "end_char": 97860
+    },
+    {
+      "text": "Section 39(1)",
+      "label": "PROVISION",
+      "start_char": 98051,
+      "end_char": 98064
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 98072,
+      "end_char": 98087
+    },
+    {
+      "text": "Section 39(1) and (2)",
+      "label": "PROVISION",
+      "start_char": 98390,
+      "end_char": 98411
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 98419,
+      "end_char": 98434
+    },
+    {
+      "text": "Code of 1908",
+      "label": "STATUTE",
+      "start_char": 98452,
+      "end_char": 98464
+    },
+    {
+      "text": "Section 4",
+      "label": "PROVISION",
+      "start_char": 98529,
+      "end_char": 98538
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 98594,
+      "end_char": 98612
+    },
+    {
+      "text": "Section 104(1)",
+      "label": "PROVISION",
+      "start_char": 98638,
+      "end_char": 98652
+    },
+    {
+      "text": "Arbitration Act of 1940",
+      "label": "STATUTE",
+      "start_char": 98665,
+      "end_char": 98688
+    },
+    {
+      "text": "Section 39",
+      "label": "PROVISION",
+      "start_char": 98883,
+      "end_char": 98893
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 100775,
+      "end_char": 100793
+    },
+    {
+      "text": "Order XX",
+      "label": "PROVISION",
+      "start_char": 101809,
+      "end_char": 101817
+    },
+    {
+      "text": "Order XX",
+      "label": "PROVISION",
+      "start_char": 101894,
+      "end_char": 101902
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 102086,
+      "end_char": 102104
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 102584,
+      "end_char": 102594
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 102952,
+      "end_char": 102961
+    },
+    {
+      "text": "Section 8 nor Section 13",
+      "label": "PROVISION",
+      "start_char": 103069,
+      "end_char": 103093
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "start_char": 103415,
+      "end_char": 103425
+    },
+    {
+      "text": "Section 13(2)",
+      "label": "PROVISION",
+      "start_char": 103697,
+      "end_char": 103710
+    },
+    {
+      "text": "sub-sections (1) and (1A) of Section 13",
+      "label": "PROVISION",
+      "start_char": 104228,
+      "end_char": 104267
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 104394,
+      "end_char": 104412
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 104847,
+      "end_char": 104857
+    },
+    {
+      "text": "proviso to sub-sections (1) and (1A) of Section 13",
+      "label": "PROVISION",
+      "start_char": 105186,
+      "end_char": 105236
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 105520,
+      "end_char": 105538
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 106813,
+      "end_char": 106831
+    },
+    {
+      "text": "Section 2(2)",
+      "label": "PROVISION",
+      "start_char": 107597,
+      "end_char": 107609
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 107922,
+      "end_char": 107932
+    },
+    {
+      "text": "sub-section (2) of Section 13",
+      "label": "PROVISION",
+      "start_char": 108699,
+      "end_char": 108728
+    },
+    {
+      "text": "sub-sections (1) and (1A) of Section 13",
+      "label": "PROVISION",
+      "start_char": 108895,
+      "end_char": 108934
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 109882,
+      "end_char": 109892
+    },
+    {
+      "text": "Chartered High Courts",
+      "label": "COURT",
+      "start_char": 109976,
+      "end_char": 109997
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 110270,
+      "end_char": 110288
+    },
+    {
+      "text": "sub-section (2) of Section 13",
+      "label": "PROVISION",
+      "start_char": 110402,
+      "end_char": 110431
+    },
+    {
+      "text": "Section 21",
+      "label": "PROVISION",
+      "start_char": 110481,
+      "end_char": 110491
+    },
+    {
+      "text": "P.S.Sathappan",
+      "label": "OTHER_PERSON",
+      "start_char": 110788,
+      "end_char": 110801
+    },
+    {
+      "text": "sub- sections (1) and (1A) of Section 13",
+      "label": "PROVISION",
+      "start_char": 110952,
+      "end_char": 110992
+    },
+    {
+      "text": "sub- section (2) of Section 13",
+      "label": "PROVISION",
+      "start_char": 111148,
+      "end_char": 111178
+    },
+    {
+      "text": "sub-sections (1) and (1A) of Section 13",
+      "label": "PROVISION",
+      "start_char": 111314,
+      "end_char": 111353
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 111469,
+      "end_char": 111487
+    },
+    {
+      "text": "sub-section (2) of Section 13",
+      "label": "PROVISION",
+      "start_char": 112474,
+      "end_char": 112503
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 112572,
+      "end_char": 112590
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 112754,
+      "end_char": 112764
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 112854,
+      "end_char": 112865
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 112904,
+      "end_char": 112914
+    },
+    {
+      "text": "sub-sections (1) and (1A) of Section 13",
+      "label": "PROVISION",
+      "start_char": 113228,
+      "end_char": 113267
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 113543,
+      "end_char": 113552
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 113803,
+      "end_char": 113812
+    },
+    {
+      "text": "(2020) 4 SCC 234 (BGS SGS Soma JV v. NHPC Limited)",
+      "label": "PRECEDENT",
+      "start_char": 114449,
+      "end_char": 114499
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 114505,
+      "end_char": 114518
+    },
+    {
+      "text": "Kandla Export Corporation",
+      "label": "ORG",
+      "start_char": 114586,
+      "end_char": 114611
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 114628,
+      "end_char": 114638
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 114765,
+      "end_char": 114775
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 114924,
+      "end_char": 114934
+    },
+    {
+      "text": "Gurugram",
+      "label": "OTHER_PERSON",
+      "start_char": 115069,
+      "end_char": 115077
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 115150,
+      "end_char": 115159
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 115187,
+      "end_char": 115200
+    },
+    {
+      "text": "High Court of Punjab and Haryana",
+      "label": "COURT",
+      "start_char": 115233,
+      "end_char": 115265
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 115316,
+      "end_char": 115329
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 115619,
+      "end_char": 115632
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 115800,
+      "end_char": 115810
+    },
+    {
+      "text": "Order XLIII Rule 1(a)",
+      "label": "PROVISION",
+      "start_char": 115957,
+      "end_char": 115978
+    },
+    {
+      "text": "Gurugram Court",
+      "label": "COURT",
+      "start_char": 116042,
+      "end_char": 116056
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 116103,
+      "end_char": 116120
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 116163,
+      "end_char": 116176
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 116402,
+      "end_char": 116412
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 116484,
+      "end_char": 116494
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 116541,
+      "end_char": 116557
+    },
+    {
+      "text": "2018 SCC OnLine Del 9338 (Antrix Corporation Ltd v. Devas Multimedia Pvt",
+      "label": "PRECEDENT",
+      "start_char": 116570,
+      "end_char": 116642
+    },
+    {
+      "text": "BGS SGS Soma JV",
+      "label": "ORG",
+      "start_char": 116668,
+      "end_char": 116683
+    },
+    {
+      "text": "Antrix Corporation Ltd",
+      "label": "ORG",
+      "start_char": 116725,
+      "end_char": 116747
+    },
+    {
+      "text": "OSA (CAD) Nos.29 and 30 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 116880,
+      "end_char": 116911
+    },
+    {
+      "text": "OnLine Del 3603 (Delhi Chemical and Pharmaceutical Works Pvt",
+      "label": "PRECEDENT",
+      "start_char": 116959,
+      "end_char": 117019
+    },
+    {
+      "text": "Ltd v. Himgiri Realtors",
+      "label": "PRECEDENT",
+      "start_char": 117021,
+      "end_char": 117044
+    },
+    {
+      "text": "D & H India Ltd",
+      "label": "PRECEDENT",
+      "start_char": 117326,
+      "end_char": 117341
+    },
+    {
+      "text": "OSA No.208 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 117373,
+      "end_char": 117391
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 117457,
+      "end_char": 117475
+    },
+    {
+      "text": "sub-sections (1) and (1A) of Section 13",
+      "label": "PROVISION",
+      "start_char": 118249,
+      "end_char": 118288
+    },
+    {
+      "text": "2020 (3) CTC 461",
+      "label": "PRECEDENT",
+      "start_char": 118488,
+      "end_char": 118504
+    },
+    {
+      "text": "Narasu's Coffee Company Pvt",
+      "label": "ORG",
+      "start_char": 118510,
+      "end_char": 118537
+    },
+    {
+      "text": "Ltd v. Narasu's Saarathy Enterprises Pvt. Ltd)",
+      "label": "PRECEDENT",
+      "start_char": 118539,
+      "end_char": 118585
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 118745,
+      "end_char": 118763
+    },
+    {
+      "text": "Salem",
+      "label": "GPE",
+      "start_char": 118965,
+      "end_char": 118970
+    },
+    {
+      "text": "Salem court",
+      "label": "COURT",
+      "start_char": 119019,
+      "end_char": 119030
+    },
+    {
+      "text": "Salem",
+      "label": "GPE",
+      "start_char": 119258,
+      "end_char": 119263
+    },
+    {
+      "text": "Salem",
+      "label": "GPE",
+      "start_char": 119287,
+      "end_char": 119292
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 119424,
+      "end_char": 119434
+    },
+    {
+      "text": "Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 119521,
+      "end_char": 119535
+    },
+    {
+      "text": "Section 13(1) and 13(1A)",
+      "label": "PROVISION",
+      "start_char": 119612,
+      "end_char": 119636
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 119862,
+      "end_char": 119873
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 120014,
+      "end_char": 120025
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 120543,
+      "end_char": 120553
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 120656,
+      "end_char": 120669
+    },
+    {
+      "text": "Kandla Export Corporation",
+      "label": "ORG",
+      "start_char": 120683,
+      "end_char": 120708
+    },
+    {
+      "text": "BGS SGS Soma JV",
+      "label": "ORG",
+      "start_char": 120713,
+      "end_char": 120728
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 120763,
+      "end_char": 120773
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 120925,
+      "end_char": 120935
+    },
+    {
+      "text": "Hubtown Limited",
+      "label": "ORG",
+      "start_char": 120976,
+      "end_char": 120991
+    },
+    {
+      "text": "D & H India Ltd",
+      "label": "ORG",
+      "start_char": 120996,
+      "end_char": 121011
+    },
+    {
+      "text": "Sigmarq Technologies Pvt. Ltd",
+      "label": "ORG",
+      "start_char": 121038,
+      "end_char": 121067
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 121073,
+      "end_char": 121090
+    },
+    {
+      "text": "Hubtown Limited",
+      "label": "ORG",
+      "start_char": 121120,
+      "end_char": 121135
+    },
+    {
+      "text": "Mohindra Supply",
+      "label": "ORG",
+      "start_char": 121185,
+      "end_char": 121200
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 121338,
+      "end_char": 121348
+    },
+    {
+      "text": "Mohindra Supply Co.",
+      "label": "ORG",
+      "start_char": 121641,
+      "end_char": 121660
+    },
+    {
+      "text": "Code of 1908",
+      "label": "STATUTE",
+      "start_char": 121730,
+      "end_char": 121742
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 122351,
+      "end_char": 122361
+    },
+    {
+      "text": "P.S.Sathappan",
+      "label": "ORG",
+      "start_char": 122553,
+      "end_char": 122566
+    },
+    {
+      "text": "Section 104(1)",
+      "label": "PROVISION",
+      "start_char": 122603,
+      "end_char": 122617
+    },
+    {
+      "text": "Section 104(2)",
+      "label": "PROVISION",
+      "start_char": 122700,
+      "end_char": 122714
+    },
+    {
+      "text": "Shah Babulal Khimji",
+      "label": "OTHER_PERSON",
+      "start_char": 122806,
+      "end_char": 122825
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 123021,
+      "end_char": 123034
+    },
+    {
+      "text": "Section 104",
+      "label": "PROVISION",
+      "start_char": 123222,
+      "end_char": 123233
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 123676,
+      "end_char": 123689
+    },
+    {
+      "text": "Section 104",
+      "label": "PROVISION",
+      "start_char": 123751,
+      "end_char": 123762
+    },
+    {
+      "text": "Section 13(2)",
+      "label": "PROVISION",
+      "start_char": 123932,
+      "end_char": 123945
+    },
+    {
+      "text": "OSA (CAD) No.3 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 124166,
+      "end_char": 124188
+    },
+    {
+      "text": "Order VII Rule 11",
+      "label": "PROVISION",
+      "start_char": 124296,
+      "end_char": 124313
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 124377,
+      "end_char": 124388
+    },
+    {
+      "text": "OSA (CAD) No.4 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 124423,
+      "end_char": 124445
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 124628,
+      "end_char": 124639
+    },
+    {
+      "text": "OSA (CAD) No.29 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 124653,
+      "end_char": 124676
+    },
+    {
+      "text": "Section 13(2)",
+      "label": "PROVISION",
+      "start_char": 125008,
+      "end_char": 125021
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 125091,
+      "end_char": 125102
+    },
+    {
+      "text": "OSA (CAD) No.30 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 125171,
+      "end_char": 125194
+    },
+    {
+      "text": "Order VII Rule 11",
+      "label": "PROVISION",
+      "start_char": 125311,
+      "end_char": 125328
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 125427,
+      "end_char": 125445
+    },
+    {
+      "text": "December 1, 2017",
+      "label": "DATE",
+      "start_char": 125615,
+      "end_char": 125631
+    },
+    {
+      "text": "November 29, 2017",
+      "label": "DATE",
+      "start_char": 125789,
+      "end_char": 125806
+    },
+    {
+      "text": "High Court of Judicature at Madras",
+      "label": "COURT",
+      "start_char": 125843,
+      "end_char": 125877
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 125976,
+      "end_char": 125994
+    },
+    {
+      "text": "OSA No.208 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 126168,
+      "end_char": 126186
+    },
+    {
+      "text": "November 10, 2017",
+      "label": "DATE",
+      "start_char": 126223,
+      "end_char": 126240
+    },
+    {
+      "text": "Magic Frames",
+      "label": "ORG",
+      "start_char": 126371,
+      "end_char": 126383
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 126416,
+      "end_char": 126426
+    },
+    {
+      "text": "OSA No.208 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 126583,
+      "end_char": 126601
+    },
+    {
+      "text": "October 23, 2015",
+      "label": "DATE",
+      "start_char": 126750,
+      "end_char": 126766
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 127064,
+      "end_char": 127082
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 127284,
+      "end_char": 127301
+    },
+    {
+      "text": "Order XLIX Rule 3",
+      "label": "PROVISION",
+      "start_char": 127366,
+      "end_char": 127383
+    },
+    {
+      "text": "AIR 1953 Mad 897 (R.P. O'Connor v. P.G.Sampath Kumar)",
+      "label": "PRECEDENT",
+      "start_char": 127553,
+      "end_char": 127606
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 127659,
+      "end_char": 127676
+    },
+    {
+      "text": "Order XLIX Rule 3",
+      "label": "PROVISION",
+      "start_char": 127741,
+      "end_char": 127758
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 127825,
+      "end_char": 127836
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 128093,
+      "end_char": 128112
+    },
+    {
+      "text": "(1994) 2 CHN 472 (Sambhu Prasad Agarwal v. ICDS Ltd)",
+      "label": "PRECEDENT",
+      "start_char": 128140,
+      "end_char": 128192
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 128198,
+      "end_char": 128217
+    },
+    {
+      "text": "O'Connor",
+      "label": "OTHER_PERSON",
+      "start_char": 128318,
+      "end_char": 128326
+    },
+    {
+      "text": "OSA (CAD) No.1 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 128756,
+      "end_char": 128778
+    },
+    {
+      "text": "April 27, 2021",
+      "label": "DATE",
+      "start_char": 128805,
+      "end_char": 128819
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 129492,
+      "end_char": 129510
+    },
+    {
+      "text": "Mallur",
+      "label": "GPE",
+      "start_char": 129786,
+      "end_char": 129792
+    },
+    {
+      "text": "Namakkal District",
+      "label": "GPE",
+      "start_char": 129796,
+      "end_char": 129813
+    },
+    {
+      "text": "Mallur",
+      "label": "GPE",
+      "start_char": 129872,
+      "end_char": 129878
+    },
+    {
+      "text": "Salem",
+      "label": "GPE",
+      "start_char": 129929,
+      "end_char": 129934
+    },
+    {
+      "text": "Salem",
+      "label": "GPE",
+      "start_char": 129976,
+      "end_char": 129981
+    },
+    {
+      "text": "Section 134",
+      "label": "PROVISION",
+      "start_char": 130469,
+      "end_char": 130480
+    },
+    {
+      "text": "Trade Marks Act, 1999",
+      "label": "STATUTE",
+      "start_char": 130488,
+      "end_char": 130509
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 131070,
+      "end_char": 131083
+    },
+    {
+      "text": "Section 134",
+      "label": "PROVISION",
+      "start_char": 131087,
+      "end_char": 131098
+    },
+    {
+      "text": "(2015) 10 SCC 161 (Indian Performing Rights Society Limited v. Sanjay Dalia)",
+      "label": "PRECEDENT",
+      "start_char": 131146,
+      "end_char": 131222
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 131228,
+      "end_char": 131241
+    },
+    {
+      "text": "Section 134(2)",
+      "label": "PROVISION",
+      "start_char": 131272,
+      "end_char": 131286
+    },
+    {
+      "text": "Section 134",
+      "label": "PROVISION",
+      "start_char": 131326,
+      "end_char": 131337
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 131526,
+      "end_char": 131539
+    },
+    {
+      "text": "Chennai",
+      "label": "GPE",
+      "start_char": 132178,
+      "end_char": 132185
+    },
+    {
+      "text": "(2012) 8 SCC 706 (Church of Christ Charitable Trust and Educational Charitable Society v. Ponniamman Educational Trust)",
+      "label": "PRECEDENT",
+      "start_char": 132530,
+      "end_char": 132649
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 132705,
+      "end_char": 132718
+    },
+    {
+      "text": "Chennai",
+      "label": "GPE",
+      "start_char": 133805,
+      "end_char": 133812
+    },
+    {
+      "text": "Namakkal",
+      "label": "GPE",
+      "start_char": 134617,
+      "end_char": 134625
+    },
+    {
+      "text": "Salem",
+      "label": "GPE",
+      "start_char": 134629,
+      "end_char": 134634
+    },
+    {
+      "text": "March 29, 2021",
+      "label": "DATE",
+      "start_char": 135240,
+      "end_char": 135254
+    },
+    {
+      "text": "March 12, 2021",
+      "label": "DATE",
+      "start_char": 135314,
+      "end_char": 135328
+    },
+    {
+      "text": "March 26, 2021",
+      "label": "DATE",
+      "start_char": 135354,
+      "end_char": 135368
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 135616,
+      "end_char": 135634
+    },
+    {
+      "text": "Shri Varalakshmi Company",
+      "label": "ORG",
+      "start_char": 135788,
+      "end_char": 135812
+    },
+    {
+      "text": "Varalakshmi Starch Industries Private Limited",
+      "label": "ORG",
+      "start_char": 135916,
+      "end_char": 135961
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 136854,
+      "end_char": 136872
+    },
+    {
+      "text": "March 29, 2021",
+      "label": "DATE",
+      "start_char": 139058,
+      "end_char": 139072
+    },
+    {
+      "text": "OSA (CAD) Nos.24 to 27 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 139702,
+      "end_char": 139732
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 139885,
+      "end_char": 139902
+    },
+    {
+      "text": "Order VII Rule 11",
+      "label": "PROVISION",
+      "start_char": 140111,
+      "end_char": 140128
+    },
+    {
+      "text": "April 29, 2021",
+      "label": "DATE",
+      "start_char": 140271,
+      "end_char": 140285
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 140395,
+      "end_char": 140412
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 140476,
+      "end_char": 140493
+    },
+    {
+      "text": "Chennai",
+      "label": "GPE",
+      "start_char": 140650,
+      "end_char": 140657
+    },
+    {
+      "text": "Chennai",
+      "label": "GPE",
+      "start_char": 140861,
+      "end_char": 140868
+    },
+    {
+      "text": "Section 35",
+      "label": "PROVISION",
+      "start_char": 140947,
+      "end_char": 140957
+    },
+    {
+      "text": "Companies Act, 2013",
+      "label": "STATUTE",
+      "start_char": 140965,
+      "end_char": 140984
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 141501,
+      "end_char": 141518
+    },
+    {
+      "text": "Dewan Housing Finance Limited",
+      "label": "ORG",
+      "start_char": 141527,
+      "end_char": 141556
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 141643,
+      "end_char": 141647
+    },
+    {
+      "text": "Bombay",
+      "label": "GPE",
+      "start_char": 141808,
+      "end_char": 141814
+    },
+    {
+      "text": "Section 14(1)(a)",
+      "label": "PROVISION",
+      "start_char": 141847,
+      "end_char": 141863
+    },
+    {
+      "text": "Insolvency and Bankruptcy Code, 2016",
+      "label": "STATUTE",
+      "start_char": 141871,
+      "end_char": 141907
+    },
+    {
+      "text": "December 3, 2019",
+      "label": "DATE",
+      "start_char": 141926,
+      "end_char": 141942
+    },
+    {
+      "text": "National Company Law Tribunal",
+      "label": "COURT",
+      "start_char": 141957,
+      "end_char": 141986
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 142146,
+      "end_char": 142163
+    },
+    {
+      "text": "Section 35",
+      "label": "PROVISION",
+      "start_char": 142195,
+      "end_char": 142205
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 142456,
+      "end_char": 142460
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 142620,
+      "end_char": 142638
+    },
+    {
+      "text": "Sub-section (1) of Section 35",
+      "label": "PROVISION",
+      "start_char": 142698,
+      "end_char": 142727
+    },
+    {
+      "text": "sub-section (5) of section 26",
+      "label": "PROVISION",
+      "start_char": 143498,
+      "end_char": 143527
+    },
+    {
+      "text": "section 36",
+      "label": "PROVISION",
+      "start_char": 143612,
+      "end_char": 143622
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 143815,
+      "end_char": 143825
+    },
+    {
+      "text": "Section 35",
+      "label": "PROVISION",
+      "start_char": 143949,
+      "end_char": 143959
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 144288,
+      "end_char": 144292
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 144490,
+      "end_char": 144507
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 144600,
+      "end_char": 144604
+    },
+    {
+      "text": "Order XXXVII",
+      "label": "PROVISION",
+      "start_char": 144752,
+      "end_char": 144764
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 144809,
+      "end_char": 144813
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 144898,
+      "end_char": 144902
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 145119,
+      "end_char": 145123
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 145238,
+      "end_char": 145242
+    },
+    {
+      "text": "National Company Law Tribunal",
+      "label": "COURT",
+      "start_char": 145303,
+      "end_char": 145332
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 145399,
+      "end_char": 145403
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 145674,
+      "end_char": 145678
+    },
+    {
+      "text": "NCLT",
+      "label": "ORG",
+      "start_char": 145704,
+      "end_char": 145708
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 145779,
+      "end_char": 145783
+    },
+    {
+      "text": "Reserve Bank of India",
+      "label": "ORG",
+      "start_char": 145846,
+      "end_char": 145867
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 145888,
+      "end_char": 145892
+    },
+    {
+      "text": "NCLT",
+      "label": "ORG",
+      "start_char": 145900,
+      "end_char": 145904
+    },
+    {
+      "text": "first week of December, 2019",
+      "label": "DATE",
+      "start_char": 145917,
+      "end_char": 145945
+    },
+    {
+      "text": "NCLT",
+      "label": "ORG",
+      "start_char": 145974,
+      "end_char": 145978
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 146045,
+      "end_char": 146055
+    },
+    {
+      "text": "Code of 2016",
+      "label": "STATUTE",
+      "start_char": 146063,
+      "end_char": 146075
+    },
+    {
+      "text": "Section 14(1)(a)",
+      "label": "PROVISION",
+      "start_char": 146093,
+      "end_char": 146109
+    },
+    {
+      "text": "Code of 2016",
+      "label": "STATUTE",
+      "start_char": 146117,
+      "end_char": 146129
+    },
+    {
+      "text": "Section 74(2)",
+      "label": "PROVISION",
+      "start_char": 146475,
+      "end_char": 146488
+    },
+    {
+      "text": "Code of 2016",
+      "label": "STATUTE",
+      "start_char": 146496,
+      "end_char": 146508
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 146595,
+      "end_char": 146605
+    },
+    {
+      "text": "Code of 2016",
+      "label": "STATUTE",
+      "start_char": 146613,
+      "end_char": 146625
+    },
+    {
+      "text": "Bombay",
+      "label": "GPE",
+      "start_char": 146888,
+      "end_char": 146894
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 146908,
+      "end_char": 146912
+    },
+    {
+      "text": "April 29, 2021",
+      "label": "DATE",
+      "start_char": 147459,
+      "end_char": 147473
+    },
+    {
+      "text": "Order VII Rule 11",
+      "label": "PROVISION",
+      "start_char": 147701,
+      "end_char": 147718
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 147877,
+      "end_char": 147894
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 148045,
+      "end_char": 148062
+    },
+    {
+      "text": "Section 35",
+      "label": "PROVISION",
+      "start_char": 148209,
+      "end_char": 148219
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 148324,
+      "end_char": 148328
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 148385,
+      "end_char": 148389
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 148494,
+      "end_char": 148498
+    },
+    {
+      "text": "Section 35",
+      "label": "PROVISION",
+      "start_char": 149033,
+      "end_char": 149043
+    },
+    {
+      "text": "Section 35",
+      "label": "PROVISION",
+      "start_char": 149103,
+      "end_char": 149113
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 149790,
+      "end_char": 149808
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 149823,
+      "end_char": 149827
+    },
+    {
+      "text": "Section 35(3)",
+      "label": "PROVISION",
+      "start_char": 149945,
+      "end_char": 149958
+    },
+    {
+      "text": "Section 19",
+      "label": "PROVISION",
+      "start_char": 150615,
+      "end_char": 150625
+    },
+    {
+      "text": "Section 120",
+      "label": "PROVISION",
+      "start_char": 150771,
+      "end_char": 150782
+    },
+    {
+      "text": "Section 19",
+      "label": "PROVISION",
+      "start_char": 150948,
+      "end_char": 150958
+    },
+    {
+      "text": "Mumbai",
+      "label": "GPE",
+      "start_char": 151310,
+      "end_char": 151316
+    },
+    {
+      "text": "Chennai",
+      "label": "GPE",
+      "start_char": 151401,
+      "end_char": 151408
+    },
+    {
+      "text": "Chennai",
+      "label": "GPE",
+      "start_char": 151484,
+      "end_char": 151491
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 151584,
+      "end_char": 151588
+    },
+    {
+      "text": "Mumbai",
+      "label": "GPE",
+      "start_char": 151805,
+      "end_char": 151811
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 151953,
+      "end_char": 151970
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 152277,
+      "end_char": 152295
+    },
+    {
+      "text": "AIR 1953 SC 23 (Keshardeo Chamria v. Radha Kissen Chamria)",
+      "label": "PRECEDENT",
+      "start_char": 152436,
+      "end_char": 152494
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 152532,
+      "end_char": 152549
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 152690,
+      "end_char": 152701
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 152757,
+      "end_char": 152770
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 152800,
+      "end_char": 152811
+    },
+    {
+      "text": "Section 104 and Order XLIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 152915,
+      "end_char": 152949
+    },
+    {
+      "text": "Section 105",
+      "label": "PROVISION",
+      "start_char": 153030,
+      "end_char": 153041
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 153042,
+      "end_char": 153045
+    },
+    {
+      "text": "AIR 2021 Mad 209 (Sambandh Finserve Pvt.",
+      "label": "PRECEDENT",
+      "start_char": 153092,
+      "end_char": 153132
+    },
+    {
+      "text": "Ltd v. Vivriti Capital Private Limited)",
+      "label": "PRECEDENT",
+      "start_char": 153133,
+      "end_char": 153172
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 153238,
+      "end_char": 153248
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 153353,
+      "end_char": 153371
+    },
+    {
+      "text": "Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 153668,
+      "end_char": 153682
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 153733,
+      "end_char": 153744
+    },
+    {
+      "text": "AIR 1951 Mad 93 (V.Ramamirtham v. Rama Film Service)",
+      "label": "PRECEDENT",
+      "start_char": 153803,
+      "end_char": 153855
+    },
+    {
+      "text": "2011-5-L.W. 838",
+      "label": "PRECEDENT",
+      "start_char": 154084,
+      "end_char": 154099
+    },
+    {
+      "text": "Uttar Pradesh Cricket Association v. The Board of Control of Cricket in India",
+      "label": "PRECEDENT",
+      "start_char": 154105,
+      "end_char": 154182
+    },
+    {
+      "text": "Duro Flex Pvt",
+      "label": "ORG",
+      "start_char": 154982,
+      "end_char": 154995
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 155354,
+      "end_char": 155367
+    },
+    {
+      "text": "(2019) 13",
+      "label": "PRECEDENT",
+      "start_char": 155389,
+      "end_char": 155398
+    },
+    {
+      "text": "SCC 259 (Ahmed Abdulla Ahmed Al Ghurair v. Star Health and Allied Insurance Company)",
+      "label": "PRECEDENT",
+      "start_char": 155399,
+      "end_char": 155483
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 155614,
+      "end_char": 155632
+    },
+    {
+      "text": "(2003) 6",
+      "label": "PRECEDENT",
+      "start_char": 156506,
+      "end_char": 156514
+    },
+    {
+      "text": "Shiv Shakti Coop",
+      "label": "OTHER_PERSON",
+      "start_char": 156524,
+      "end_char": 156540
+    },
+    {
+      "text": "Housing Society v. Swaraj Developers and others)",
+      "label": "PRECEDENT",
+      "start_char": 156542,
+      "end_char": 156590
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 156870,
+      "end_char": 156881
+    },
+    {
+      "text": "2002 (1) CTC 134 (Parameswari Veluchamy v. T.R.Jayaraman)",
+      "label": "PRECEDENT",
+      "start_char": 156996,
+      "end_char": 157053
+    },
+    {
+      "text": "(1997) 6 SCC 370 (Manju Bhatia v. New Delhi Municipal Council)",
+      "label": "PRECEDENT",
+      "start_char": 157408,
+      "end_char": 157470
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 157670,
+      "end_char": 157689
+    },
+    {
+      "text": "2009 1 Cal LJ 199 (Chainrup Sampatram v. Punjab",
+      "label": "PRECEDENT",
+      "start_char": 157702,
+      "end_char": 157749
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 157799,
+      "end_char": 157817
+    },
+    {
+      "text": "Sind Bank",
+      "label": "ORG",
+      "start_char": 157823,
+      "end_char": 157832
+    },
+    {
+      "text": "Chartered High Court",
+      "label": "COURT",
+      "start_char": 157935,
+      "end_char": 157955
+    },
+    {
+      "text": "Chartered High Court",
+      "label": "COURT",
+      "start_char": 159052,
+      "end_char": 159072
+    },
+    {
+      "text": "2006-4-L.W.343 (V.Selladurai v. N.Nethaji",
+      "label": "PRECEDENT",
+      "start_char": 159956,
+      "end_char": 159997
+    },
+    {
+      "text": "Section 19",
+      "label": "PROVISION",
+      "start_char": 160048,
+      "end_char": 160058
+    },
+    {
+      "text": "Section 19",
+      "label": "PROVISION",
+      "start_char": 160471,
+      "end_char": 160481
+    },
+    {
+      "text": "(2003) 4",
+      "label": "PRECEDENT",
+      "start_char": 160967,
+      "end_char": 160975
+    },
+    {
+      "text": "SCC 305 (Kailash Nath Agarwal v. Pradeshiya Industrial and Investment Corporation of U.P. Ltd)",
+      "label": "PRECEDENT",
+      "start_char": 160976,
+      "end_char": 161070
+    },
+    {
+      "text": "Section 22(1)",
+      "label": "PROVISION",
+      "start_char": 161144,
+      "end_char": 161157
+    },
+    {
+      "text": "Sick Industrial Companies (Special Provisions) Act, 1985",
+      "label": "STATUTE",
+      "start_char": 161175,
+      "end_char": 161231
+    },
+    {
+      "text": "Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 161412,
+      "end_char": 161426
+    },
+    {
+      "text": "Order XLIII Rule 1(a)",
+      "label": "PROVISION",
+      "start_char": 161566,
+      "end_char": 161587
+    },
+    {
+      "text": "(2007) 5 MLJ 303 (South Indian Bank Ltd v. M.M.T.C. Ltd)",
+      "label": "PRECEDENT",
+      "start_char": 161729,
+      "end_char": 161785
+    },
+    {
+      "text": "1932 LW (7) 279 (Sri Raja Sobhanadri Appa Rao Bahadur v. Sri Raja Parthasarathi Appa Rao Savai Aswa Rao Bahadur)",
+      "label": "PRECEDENT",
+      "start_char": 162229,
+      "end_char": 162341
+    },
+    {
+      "text": "(2013) 1 SCC 1 (Sahara India Real Estate Corporation Ltd v. Securities and Exchange Board of India)",
+      "label": "PRECEDENT",
+      "start_char": 162739,
+      "end_char": 162838
+    },
+    {
+      "text": "(2010) 169 DLT 197",
+      "label": "PRECEDENT",
+      "start_char": 162843,
+      "end_char": 162861
+    },
+    {
+      "text": "Kimsuk Krishna Sinha v. Securities & Exchange Board of India)",
+      "label": "PRECEDENT",
+      "start_char": 162863,
+      "end_char": 162924
+    },
+    {
+      "text": "Securities and Exchange Board of India Act, 1992",
+      "label": "STATUTE",
+      "start_char": 163002,
+      "end_char": 163050
+    },
+    {
+      "text": "SEBI",
+      "label": "ORG",
+      "start_char": 163055,
+      "end_char": 163059
+    },
+    {
+      "text": "SEBI",
+      "label": "ORG",
+      "start_char": 163196,
+      "end_char": 163200
+    },
+    {
+      "text": "Sections 15Y and 20A",
+      "label": "PROVISION",
+      "start_char": 163322,
+      "end_char": 163342
+    },
+    {
+      "text": "Act of 1992",
+      "label": "STATUTE",
+      "start_char": 163350,
+      "end_char": 163361
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 163366,
+      "end_char": 163376
+    },
+    {
+      "text": "SEBI",
+      "label": "ORG",
+      "start_char": 163478,
+      "end_char": 163482
+    },
+    {
+      "text": "Section 35",
+      "label": "PROVISION",
+      "start_char": 163588,
+      "end_char": 163598
+    },
+    {
+      "text": "SEBI",
+      "label": "ORG",
+      "start_char": 163648,
+      "end_char": 163652
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 163662,
+      "end_char": 163672
+    },
+    {
+      "text": "section 34 or section 35 or section 36",
+      "label": "PROVISION",
+      "start_char": 163808,
+      "end_char": 163846
+    },
+    {
+      "text": "SEBI",
+      "label": "ORG",
+      "start_char": 164071,
+      "end_char": 164075
+    },
+    {
+      "text": "113 CWN 379 (Secretary, Department of Atomic Energy, Government of India v The Controller General of Patents, Designs and Trademarks)",
+      "label": "PRECEDENT",
+      "start_char": 164244,
+      "end_char": 164377
+    },
+    {
+      "text": "Article 226",
+      "label": "PROVISION",
+      "start_char": 164485,
+      "end_char": 164496
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 164504,
+      "end_char": 164525
+    },
+    {
+      "text": "Mumbai",
+      "label": "GPE",
+      "start_char": 164865,
+      "end_char": 164871
+    },
+    {
+      "text": "Mumbai",
+      "label": "GPE",
+      "start_char": 164945,
+      "end_char": 164951
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 165099,
+      "end_char": 165117
+    },
+    {
+      "text": "2021 SCC OnLine SC 152 (P.Mohanraj v. Shah Brothers Ispat Pvt",
+      "label": "PRECEDENT",
+      "start_char": 165740,
+      "end_char": 165801
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 165938,
+      "end_char": 165948
+    },
+    {
+      "text": "Code of 2016",
+      "label": "STATUTE",
+      "start_char": 165956,
+      "end_char": 165968
+    },
+    {
+      "text": "Section 141(1) and (2)",
+      "label": "PROVISION",
+      "start_char": 165996,
+      "end_char": 166018
+    },
+    {
+      "text": "Negotiable Instruments Act, 1881",
+      "label": "STATUTE",
+      "start_char": 166026,
+      "end_char": 166058
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 166209,
+      "end_char": 166213
+    },
+    {
+      "text": "AIR 1961 Mys 188 (Gokaldas Melaram v. Baldevdas T. Chabria)",
+      "label": "PRECEDENT",
+      "start_char": 166316,
+      "end_char": 166375
+    },
+    {
+      "text": "Section 19",
+      "label": "PROVISION",
+      "start_char": 166414,
+      "end_char": 166424
+    },
+    {
+      "text": "Section 19",
+      "label": "PROVISION",
+      "start_char": 166498,
+      "end_char": 166508
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 166926,
+      "end_char": 166937
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 167339,
+      "end_char": 167357
+    },
+    {
+      "text": "Order XLIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 167591,
+      "end_char": 167609
+    },
+    {
+      "text": "sub- rules (a), (c) and (d) of Order XLIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 167839,
+      "end_char": 167888
+    },
+    {
+      "text": "sub-rules (f), (q), (r) and (s) of Order XLIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 167923,
+      "end_char": 167976
+    },
+    {
+      "text": "sub-rules (f), (q), (r) and (s) of Order XLIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 168089,
+      "end_char": 168142
+    },
+    {
+      "text": "sub-rules (a), (c) and (d) of Order XLIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 168218,
+      "end_char": 168266
+    },
+    {
+      "text": "Keshardeo Chamria",
+      "label": "OTHER_PERSON",
+      "start_char": 168455,
+      "end_char": 168472
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 168760,
+      "end_char": 168771
+    },
+    {
+      "text": "Shiv Shakti Coop",
+      "label": "ORG",
+      "start_char": 169160,
+      "end_char": 169176
+    },
+    {
+      "text": "Section 115",
+      "label": "PROVISION",
+      "start_char": 169234,
+      "end_char": 169245
+    },
+    {
+      "text": "Order XLIII Rule 1(a)",
+      "label": "PROVISION",
+      "start_char": 169652,
+      "end_char": 169673
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 169861,
+      "end_char": 169878
+    },
+    {
+      "text": "Section 35",
+      "label": "PROVISION",
+      "start_char": 169999,
+      "end_char": 170009
+    },
+    {
+      "text": "Section 35(1)",
+      "label": "PROVISION",
+      "start_char": 170404,
+      "end_char": 170417
+    },
+    {
+      "text": "sub-section (3) of Section 35",
+      "label": "PROVISION",
+      "start_char": 170554,
+      "end_char": 170583
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 170730,
+      "end_char": 170734
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 170941,
+      "end_char": 170945
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 170983,
+      "end_char": 170987
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 171042,
+      "end_char": 171052
+    },
+    {
+      "text": "Code of 2016",
+      "label": "STATUTE",
+      "start_char": 171060,
+      "end_char": 171072
+    },
+    {
+      "text": "Section 74(2)",
+      "label": "PROVISION",
+      "start_char": 171108,
+      "end_char": 171121
+    },
+    {
+      "text": "Bombay",
+      "label": "GPE",
+      "start_char": 171265,
+      "end_char": 171271
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 171362,
+      "end_char": 171366
+    },
+    {
+      "text": "NCLT",
+      "label": "ORG",
+      "start_char": 171389,
+      "end_char": 171393
+    },
+    {
+      "text": "Bombay",
+      "label": "GPE",
+      "start_char": 171571,
+      "end_char": 171577
+    },
+    {
+      "text": "Order XXXVII",
+      "label": "PROVISION",
+      "start_char": 171599,
+      "end_char": 171611
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 171694,
+      "end_char": 171698
+    },
+    {
+      "text": "Order XXXVII",
+      "label": "PROVISION",
+      "start_char": 171900,
+      "end_char": 171912
+    },
+    {
+      "text": "Mumbai",
+      "label": "GPE",
+      "start_char": 172219,
+      "end_char": 172225
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 172312,
+      "end_char": 172316
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 172371,
+      "end_char": 172375
+    },
+    {
+      "text": "Section 35",
+      "label": "PROVISION",
+      "start_char": 172406,
+      "end_char": 172416
+    },
+    {
+      "text": "Companies Act 2013",
+      "label": "STATUTE",
+      "start_char": 172424,
+      "end_char": 172442
+    },
+    {
+      "text": "Section 14(1)(a)",
+      "label": "PROVISION",
+      "start_char": 172545,
+      "end_char": 172561
+    },
+    {
+      "text": "Insolvency and Bankruptcy Code, 2016",
+      "label": "STATUTE",
+      "start_char": 172569,
+      "end_char": 172605
+    },
+    {
+      "text": "Section 14(1)(a)",
+      "label": "PROVISION",
+      "start_char": 172726,
+      "end_char": 172742
+    },
+    {
+      "text": "Insolvency and Bankruptcy Code, 2016",
+      "label": "STATUTE",
+      "start_char": 172750,
+      "end_char": 172786
+    },
+    {
+      "text": "Bombay",
+      "label": "GPE",
+      "start_char": 172887,
+      "end_char": 172893
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 172907,
+      "end_char": 172911
+    },
+    {
+      "text": "Section 35",
+      "label": "PROVISION",
+      "start_char": 172918,
+      "end_char": 172928
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 173092,
+      "end_char": 173096
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 173212,
+      "end_char": 173222
+    },
+    {
+      "text": "Section 35",
+      "label": "PROVISION",
+      "start_char": 173375,
+      "end_char": 173385
+    },
+    {
+      "text": "Section 35",
+      "label": "PROVISION",
+      "start_char": 173445,
+      "end_char": 173455
+    },
+    {
+      "text": "Section 35",
+      "label": "PROVISION",
+      "start_char": 173672,
+      "end_char": 173682
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 173762,
+      "end_char": 173772
+    },
+    {
+      "text": "Code of 2016",
+      "label": "STATUTE",
+      "start_char": 173780,
+      "end_char": 173792
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 173849,
+      "end_char": 173853
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 174141,
+      "end_char": 174145
+    },
+    {
+      "text": "Section 35",
+      "label": "PROVISION",
+      "start_char": 174267,
+      "end_char": 174277
+    },
+    {
+      "text": "Companies Act, 2013",
+      "label": "STATUTE",
+      "start_char": 174285,
+      "end_char": 174304
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 174417,
+      "end_char": 174421
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 174603,
+      "end_char": 174613
+    },
+    {
+      "text": "Code of 2016",
+      "label": "STATUTE",
+      "start_char": 174621,
+      "end_char": 174633
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 175988,
+      "end_char": 175992
+    },
+    {
+      "text": "Bombay",
+      "label": "GPE",
+      "start_char": 176031,
+      "end_char": 176037
+    },
+    {
+      "text": "Section 19",
+      "label": "PROVISION",
+      "start_char": 176341,
+      "end_char": 176351
+    },
+    {
+      "text": "Contract Act, 1872",
+      "label": "STATUTE",
+      "start_char": 176359,
+      "end_char": 176377
+    },
+    {
+      "text": "Bombay",
+      "label": "GPE",
+      "start_char": 176857,
+      "end_char": 176863
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 176932,
+      "end_char": 176936
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 177318,
+      "end_char": 177335
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 177907,
+      "end_char": 177924
+    },
+    {
+      "text": "Court at Mumbai",
+      "label": "COURT",
+      "start_char": 178067,
+      "end_char": 178082
+    },
+    {
+      "text": "Chennai",
+      "label": "GPE",
+      "start_char": 178151,
+      "end_char": 178158
+    },
+    {
+      "text": "Mumbai",
+      "label": "GPE",
+      "start_char": 178352,
+      "end_char": 178358
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 178540,
+      "end_char": 178544
+    },
+    {
+      "text": "Chennai",
+      "label": "GPE",
+      "start_char": 178664,
+      "end_char": 178671
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 178687,
+      "end_char": 178691
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 179754,
+      "end_char": 179772
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 180693,
+      "end_char": 180710
+    },
+    {
+      "text": "Section 19",
+      "label": "PROVISION",
+      "start_char": 180891,
+      "end_char": 180901
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 181622,
+      "end_char": 181626
+    },
+    {
+      "text": "Section 26(1)(c)",
+      "label": "PROVISION",
+      "start_char": 181733,
+      "end_char": 181749
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 182365,
+      "end_char": 182369
+    },
+    {
+      "text": "Mumbai",
+      "label": "GPE",
+      "start_char": 183112,
+      "end_char": 183118
+    },
+    {
+      "text": "Mumbai",
+      "label": "GPE",
+      "start_char": 183210,
+      "end_char": 183216
+    },
+    {
+      "text": "April 29, 2021",
+      "label": "DATE",
+      "start_char": 183326,
+      "end_char": 183340
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 183572,
+      "end_char": 183589
+    },
+    {
+      "text": "Bombay",
+      "label": "GPE",
+      "start_char": 183659,
+      "end_char": 183665
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 183910,
+      "end_char": 183927
+    },
+    {
+      "text": "OSA (CAD) No.3 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 184149,
+      "end_char": 184171
+    },
+    {
+      "text": "OSA (CAD) No.4 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 184173,
+      "end_char": 184195
+    },
+    {
+      "text": "OSA (CAD) No.29 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 184197,
+      "end_char": 184220
+    },
+    {
+      "text": "OSA (CAD) No.30 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 184222,
+      "end_char": 184245
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 184250,
+      "end_char": 184268
+    },
+    {
+      "text": "OSA No.208 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 184273,
+      "end_char": 184291
+    },
+    {
+      "text": "OSA (CAD) No.3 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 184387,
+      "end_char": 184409
+    },
+    {
+      "text": "OSA (CAD) No.4 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 184414,
+      "end_char": 184436
+    },
+    {
+      "text": "C.S.No.91 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 184514,
+      "end_char": 184531
+    },
+    {
+      "text": "OSA (CAD) No.1",
+      "label": "CASE_NUMBER",
+      "start_char": 184718,
+      "end_char": 184732
+    },
+    {
+      "text": "OSA (CAD) No.2",
+      "label": "CASE_NUMBER",
+      "start_char": 184747,
+      "end_char": 184761
+    },
+    {
+      "text": "OSA (CAD) No.19 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 184766,
+      "end_char": 184789
+    },
+    {
+      "text": "OSA (CAD) No.24 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 184944,
+      "end_char": 184967
+    },
+    {
+      "text": "OSA (CAD) No.25 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 184969,
+      "end_char": 184992
+    },
+    {
+      "text": "OSA (CAD) No.26 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 184994,
+      "end_char": 185017
+    },
+    {
+      "text": "OSA (CAD) No.27 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 185022,
+      "end_char": 185045
+    },
+    {
+      "text": "April 29, 2021",
+      "label": "DATE",
+      "start_char": 185100,
+      "end_char": 185114
+    },
+    {
+      "text": "CMP Nos.9290, 10325, 10326, 10339, 10327, 10340, 10333, 10334, 10330, 10331, 10332, 10336 and 10337, 10444 and 8495 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 185188,
+      "end_char": 185311
+    },
+    {
+      "text": "S.B.",
+      "label": "JUDGE",
+      "start_char": 185514,
+      "end_char": 185518
+    },
+    {
+      "text": "23.09.2021",
+      "label": "DATE",
+      "start_char": 185537,
+      "end_char": 185547
+    },
+    {
+      "text": "High Court of Madras",
+      "label": "COURT",
+      "start_char": 185610,
+      "end_char": 185630
+    },
+    {
+      "text": "P.D.AUDIKESAVALU",
+      "label": "JUDGE",
+      "start_char": 185734,
+      "end_char": 185750
+    },
+    {
+      "text": "OSA No.230 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 185761,
+      "end_char": 185779
+    },
+    {
+      "text": "23.9.2021",
+      "label": "DATE",
+      "start_char": 185791,
+      "end_char": 185800
+    }
+  ],
+  "precedent_clusters": {
+    "2020 SCC OnLine Del 477 (D & H India Ltd v. Superon Schweisstechnik India Ltd)": [
+      "2020 SCC OnLine Del 477 (D & H India Ltd v. Superon Schweisstechnik India Ltd)",
+      "D & H India Ltd"
+    ],
+    "SCC 259 (Ahmed Abdulla Ahmed Al Ghurair v. Star Health and Allied Insurance Company)": [
+      "District Collector v. N.Udayappan",
+      "Rubinetterie Bresciane Bonomi Spa v. Lehry Instrumentation & Valves Pvt",
+      "Hubtown Limited v. IDBI Trusteeship Service Limited",
+      "Kapoor Imaging Private Limited v. Kodak (India) Private Limited)",
+      "Ltd v. Manugrah India Limited)",
+      "Sushila Singhania v. Bharat Hari Singhania)",
+      "OnLine Del 3603 (Delhi Chemical and Pharmaceutical Works Pvt",
+      "Ltd v. Himgiri Realtors",
+      "Ltd v. Narasu's Saarathy Enterprises Pvt. Ltd)",
+      "Ltd v. Vivriti Capital Private Limited)",
+      "2011-5-L.W. 838",
+      "Uttar Pradesh Cricket Association v. The Board of Control of Cricket in India",
+      "(2019) 13",
+      "SCC 259 (Ahmed Abdulla Ahmed Al Ghurair v. Star Health and Allied Insurance Company)",
+      "(2003) 6",
+      "Housing Society v. Swaraj Developers and others)",
+      "2006-4-L.W.343 (V.Selladurai v. N.Nethaji",
+      "(2003) 4",
+      "SCC 305 (Kailash Nath Agarwal v. Pradeshiya Industrial and Investment Corporation of U.P. Ltd)",
+      "Kimsuk Krishna Sinha v. Securities & Exchange Board of India)"
+    ],
+    "(2019) 5 MLJ 479 (Magic Frames v. Radiance Media P. Ltd)": [
+      "(2019) 5 MLJ 479 (Magic Frames v. Radiance Media P. Ltd)",
+      "(2019) 5 MLJ 479 (Magic Frames v. Radiance Media P. Ltd)"
+    ],
+    "(2018) 14 SCC 715 (Kandla Export Corporation v. OCI Corporation)": [
+      "(2018) 14 SCC 715 (Kandla Export Corporation v. OCI Corporation)",
+      "Kandla Export Corporation"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section                      13(1)",
+      "Commercial Courts Act, 2015",
+      "Section                      13(1)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 13(1)",
+      "Commercial Courts Act, 2015",
+      "Section 13(1)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Order VII Rule 11",
+      "Code of Civil Procedure, 1908",
+      "Order VII Rule 11",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 35",
+      "Companies Act, 2013",
+      "Section 35",
+      "Companies Act, 2013"
+    ],
+    [
+      "Order XLIII",
+      "Code of Civil Procedure, 1908",
+      "Order XLIII",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation, 1996",
+      "Section 37",
+      "Arbitration and Conciliation, 1996"
+    ],
+    [
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "section 37",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "section 37",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)"
+    ],
+    [
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "section 37",
+      "Arbitration and Conciliation Act, 1996",
+      "section 37",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 2(2)",
+      "Indian Evidence Act, 1872",
+      "Section 2(2)",
+      "Indian Evidence Act, 1872"
+    ],
+    [
+      "Article 136",
+      "Constitution",
+      "Article 136",
+      "Constitution"
+    ],
+    [
+      "Order XLIII",
+      "CPC",
+      "Order XLIII",
+      "CPC"
+    ],
+    [
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "section 37",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "section 37",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)"
+    ],
+    [
+      "sub-section (1A) of Section 13",
+      "Commercial Courts Act",
+      "sub-section (1A) of Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order XLIII",
+      "CPC",
+      "Order XLIII",
+      "CPC"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "section 13(2)",
+      "Act 4 of 2016",
+      "section 13(2)",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 50",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 50",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Order 43",
+      "Code of Civil Procedure Code, 1908",
+      "Order 43",
+      "Code of Civil Procedure Code, 1908"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Order 43",
+      "CPC",
+      "Order 43",
+      "CPC"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 13(2)",
+      "Commercial Courts Act",
+      "Section 13(2)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 134",
+      "Trade Marks Act, 1999",
+      "Section 134",
+      "Trade Marks Act, 1999"
+    ],
+    [
+      "Section 15(5)",
+      "Commercial Courts Act",
+      "Section 15(5)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 50",
+      "Arbitration Act",
+      "Section 50",
+      "Arbitration Act"
+    ],
+    [
+      "Section 39(2)",
+      "Arbitration Act, 1940",
+      "Section 39(2)",
+      "Arbitration Act, 1940"
+    ],
+    [
+      "Section 4",
+      "Code of Civil Procedure",
+      "Section 4",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 39(1)",
+      "Arbitration Act",
+      "Section 39(1)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 39(1) and (2)",
+      "Arbitration Act",
+      "Section 39(1) and (2)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 104(1)",
+      "Arbitration Act of 1940",
+      "Section 104(1)",
+      "Arbitration Act of 1940"
+    ],
+    [
+      "Section 134",
+      "Trade Marks Act, 1999",
+      "Section 134",
+      "Trade Marks Act, 1999"
+    ],
+    [
+      "Section 35",
+      "Companies Act, 2013",
+      "Section 35",
+      "Companies Act, 2013"
+    ],
+    [
+      "Section 14(1)(a)",
+      "Insolvency and Bankruptcy Code, 2016",
+      "Section 14(1)(a)",
+      "Insolvency and Bankruptcy Code, 2016"
+    ],
+    [
+      "Section 14",
+      "Code of 2016",
+      "Section 14",
+      "Code of 2016"
+    ],
+    [
+      "Section 14(1)(a)",
+      "Code of 2016",
+      "Section 14(1)(a)",
+      "Code of 2016"
+    ],
+    [
+      "Section 74(2)",
+      "Code of 2016",
+      "Section 74(2)",
+      "Code of 2016"
+    ],
+    [
+      "Section 14",
+      "Code of 2016",
+      "Section 14",
+      "Code of 2016"
+    ],
+    [
+      "Section 105",
+      "CPC",
+      "Section 105",
+      "CPC"
+    ],
+    [
+      "Section 22(1)",
+      "Sick Industrial Companies (Special Provisions) Act, 1985",
+      "Section 22(1)",
+      "Sick Industrial Companies (Special Provisions) Act, 1985"
+    ],
+    [
+      "Sections 15Y and 20A",
+      "Act of 1992",
+      "Sections 15Y and 20A",
+      "Act of 1992"
+    ],
+    [
+      "Article 226",
+      "Constitution of India",
+      "Article 226",
+      "Constitution of India"
+    ],
+    [
+      "Section 14",
+      "Code of 2016",
+      "Section 14",
+      "Code of 2016"
+    ],
+    [
+      "Section 141(1) and (2)",
+      "Negotiable Instruments Act, 1881",
+      "Section 141(1) and (2)",
+      "Negotiable Instruments Act, 1881"
+    ],
+    [
+      "Section 14",
+      "Code of 2016",
+      "Section 14",
+      "Code of 2016"
+    ],
+    [
+      "Section 35",
+      "Companies Act 2013",
+      "Section 35",
+      "Companies Act 2013"
+    ],
+    [
+      "Section 14(1)(a)",
+      "Insolvency and Bankruptcy Code, 2016",
+      "Section 14(1)(a)",
+      "Insolvency and Bankruptcy Code, 2016"
+    ],
+    [
+      "Section 14(1)(a)",
+      "Insolvency and Bankruptcy Code, 2016",
+      "Section 14(1)(a)",
+      "Insolvency and Bankruptcy Code, 2016"
+    ],
+    [
+      "Section 14",
+      "Code of 2016",
+      "Section 14",
+      "Code of 2016"
+    ],
+    [
+      "Section 35",
+      "Companies Act, 2013",
+      "Section 35",
+      "Companies Act, 2013"
+    ],
+    [
+      "Section 14",
+      "Code of 2016",
+      "Section 14",
+      "Code of 2016"
+    ],
+    [
+      "Section 19",
+      "Contract Act, 1872",
+      "Section 19",
+      "Contract Act, 1872"
+    ],
+    [
+      "Order XXXVI Rule 9",
+      "Commercial Courts Act, 2015",
+      "Order XXXVI Rule 9",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section XIII",
+      "Indian Partnership Act, 1932",
+      "Section XIII",
+      "Indian Partnership Act, 1932"
+    ],
+    [
+      "Section XIII",
+      "Indian Partnership Act, 1932",
+      "Section XIII",
+      "Indian Partnership Act, 1932"
+    ],
+    [
+      "Section XIII",
+      "Indian Partnership Act, 1932",
+      "Section XIII",
+      "Indian Partnership Act, 1932"
+    ],
+    [
+      "Section 13(1A)",
+      "Commercial Courts Act, 2015",
+      "Section 13(1A)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Order VII Rule 11",
+      "Code of Civil Procedure, 1908",
+      "Order VII Rule 11",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order VII Rule 11",
+      "Code of Civil Procedure, 1908",
+      "Order VII Rule 11",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 4(2)",
+      "Code of Civil Procedure",
+      "Section 4(2)",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 2",
+      "Indian Evidence Act, 1872",
+      "Section 2",
+      "Indian Evidence Act, 1872"
+    ],
+    [
+      "Section 2(1)(c)",
+      "Indian Evidence Act, 1872",
+      "Section 2(1)(c)",
+      "Indian Evidence Act, 1872"
+    ],
+    [
+      "Section 2(1)(i)",
+      "Indian Evidence Act, 1872",
+      "Section 2(1)(i)",
+      "Indian Evidence Act, 1872"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act, 2015",
+      "Section 13",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 14",
+      "Insolvency and Bankruptcy Code, 2016",
+      "Section 14",
+      "Insolvency and Bankruptcy Code, 2016"
+    ],
+    [
+      "Section 15",
+      "Commercial Courts Act",
+      "Section 15",
+      "Commercial Courts Act"
+    ],
+    [
+      "Sections 26, 35 and 35-A",
+      "Companies Act, 2013",
+      "Sections 26, 35 and 35-A",
+      "Companies Act, 2013"
+    ],
+    [
+      "Sections 14 and 15",
+      "Commercial Courts Act",
+      "Sections 14 and 15",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act, 2015",
+      "Section 13",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 8",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 8",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act, 2015",
+      "Section 13",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act, 2015",
+      "Section 13",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 8",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 8",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "section 13",
+      "Commercial Courts Act, 2015",
+      "section 13",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "sub-section (1) of Section 13",
+      "Commercial Courts Act, 2015",
+      "sub-section (1) of Section 13",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act, 2015",
+      "Section 13",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "sub-section (1A) of Section 13",
+      "Commercial Courts Act, 2015",
+      "sub-section (1A) of Section 13",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "sub-sections (1) and (1A) of Section 13",
+      "Commercial Courts Act, 2015",
+      "sub-sections (1) and (1A) of Section 13",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "sub- sections (1) and (1A) of Section 13",
+      "Commercial Courts Act, 2015",
+      "sub- sections (1) and (1A) of Section 13",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Order VII Rule 11",
+      "Code of Civil Procedure, 1908",
+      "Order VII Rule 11",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 104",
+      "Arbitration Act of 1940",
+      "Section 104",
+      "Arbitration Act of 1940"
+    ],
+    [
+      "Section 13(1A)",
+      "Commercial Courts Act, 2015",
+      "Section 13(1A)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "sub-sections (1) and (1A) of Section 13",
+      "Commercial Courts Act, 2015",
+      "sub-sections (1) and (1A) of Section 13",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "sub-sections (1) and (1A) of Section 13",
+      "Commercial Courts Act, 2015",
+      "sub-sections (1) and (1A) of Section 13",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act, 2015",
+      "Section 13",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 16",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 16",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 13(2)",
+      "Commercial Courts Act, 2015",
+      "Section 13(2)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "proviso to Section 13 (1A)",
+      "Commercial Courts Act, 2015",
+      "proviso to Section 13 (1A)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "sub-section (1A) of Section 13",
+      "Commercial Courts Act, 2015",
+      "sub-section (1A) of Section 13",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13(1)",
+      "Commercial Courts Act",
+      "Section 13(1)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13(2)",
+      "Commercial Courts Act",
+      "Section 13(2)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 9A",
+      "Commercial Courts Ordinance",
+      "Section 9A",
+      "Commercial Courts Ordinance"
+    ],
+    [
+      "Order VII Rule 11",
+      "Code of Civil Procedure, 1908",
+      "Order VII Rule 11",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 13",
+      "Act 4 of 2016",
+      "Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 13(1)",
+      "Act 4 of 2016",
+      "Section 13(1)",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 50",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 50",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 13(1A)",
+      "Act 4 of 2016",
+      "Section 13(1A)",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 13(1)",
+      "Act 4 of 2016",
+      "Section 13(1)",
+      "Act 4 of 2016"
+    ],
+    [
+      "Order VII Rule 11",
+      "Code of Civil Procedure, 1908",
+      "Order VII Rule 11",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 13",
+      "Act 4 of 2016",
+      "Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "sub-rule (r) of Order XLIII Rule 1",
+      "Trade Marks Act, 1999",
+      "sub-rule (r) of Order XLIII Rule 1",
+      "Trade Marks Act, 1999"
+    ],
+    [
+      "Order XLIII Rule 1(a)",
+      "Trade Marks Act, 1999",
+      "Order XLIII Rule 1(a)",
+      "Trade Marks Act, 1999"
+    ],
+    [
+      "sub-sections (1) and (1A) of Section 13",
+      "Act 4 of 2016",
+      "sub-sections (1) and (1A) of Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 13",
+      "Act 4 of 2016",
+      "Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "sub-sections (1) and (1A) of Section 13",
+      "Act 4 of 2016",
+      "sub-sections (1) and (1A) of Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "Section 13(1)",
+      "Act 4 of 2016",
+      "Section 13(1)",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 13(2)",
+      "Act 4 of 2016",
+      "Section 13(2)",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 13",
+      "Act 4 of 2016",
+      "Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 50(1)(b)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 50(1)(b)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 50",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 50",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 48",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 48",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 48",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 48",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 13(1)",
+      "Act 4 of 2016",
+      "Section 13(1)",
+      "Act 4 of 2016"
+    ],
+    [
+      "proviso to Sections 13(1) and (1A)",
+      "Act 4 of 2016",
+      "proviso to Sections 13(1) and (1A)",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 13(2)",
+      "Act 4 of 2016",
+      "Section 13(2)",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 3(3)",
+      "Companies Act, 2013",
+      "Section 3(3)",
+      "Companies Act, 2013"
+    ],
+    [
+      "Section 10(3)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 10(3)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Indian Evidence Act, 1872",
+      "Section 2(1)(e)",
+      "Indian Evidence Act, 1872"
+    ],
+    [
+      "Section 4",
+      "Code of Civil Procedure",
+      "Section 4",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 39",
+      "Arbitration Act",
+      "Section 39",
+      "Arbitration Act"
+    ],
+    [
+      "Order XX",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Order XX",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Order XX",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Order XX",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 16",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 16",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 8",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 8",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 8 nor Section 13",
+      "Act 4 of 2016",
+      "Section 8 nor Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 13(2)",
+      "Act 4 of 2016",
+      "Section 13(2)",
+      "Act 4 of 2016"
+    ],
+    [
+      "sub-sections (1) and (1A) of Section 13",
+      "Act 4 of 2016",
+      "sub-sections (1) and (1A) of Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 13",
+      "Act 4 of 2016",
+      "Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "proviso to sub-sections (1) and (1A) of Section 13",
+      "Act 4 of 2016",
+      "proviso to sub-sections (1) and (1A) of Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 2(2)",
+      "Indian Evidence Act, 1872",
+      "Section 2(2)",
+      "Indian Evidence Act, 1872"
+    ],
+    [
+      "Section 13",
+      "Act 4 of 2016",
+      "Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "sub-section (2) of Section 13",
+      "Act 4 of 2016",
+      "sub-section (2) of Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "sub-sections (1) and (1A) of Section 13",
+      "Act 4 of 2016",
+      "sub-sections (1) and (1A) of Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 13",
+      "Act 4 of 2016",
+      "Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "sub-section (2) of Section 13",
+      "Act 4 of 2016",
+      "sub-section (2) of Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 21",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 21",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "sub- sections (1) and (1A) of Section 13",
+      "Act 4 of 2016",
+      "sub- sections (1) and (1A) of Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "sub- section (2) of Section 13",
+      "Act 4 of 2016",
+      "sub- section (2) of Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "sub-sections (1) and (1A) of Section 13",
+      "Act 4 of 2016",
+      "sub-sections (1) and (1A) of Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "sub-section (2) of Section 13",
+      "Act 4 of 2016",
+      "sub-section (2) of Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 13",
+      "Act 4 of 2016",
+      "Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "sub-sections (1) and (1A) of Section 13",
+      "Act 4 of 2016",
+      "sub-sections (1) and (1A) of Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 8",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 8",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 8",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 8",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 13",
+      "Act 4 of 2016",
+      "Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 13",
+      "Act 4 of 2016",
+      "Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Order XLIII Rule 1(a)",
+      "Trade Marks Act, 1999",
+      "Order XLIII Rule 1(a)",
+      "Trade Marks Act, 1999"
+    ],
+    [
+      "Order VII Rule 10",
+      "Commercial Courts Act",
+      "Order VII Rule 10",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13",
+      "Act 4 of 2016",
+      "Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "sub-sections (1) and (1A) of Section 13",
+      "Act 4 of 2016",
+      "sub-sections (1) and (1A) of Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 13",
+      "Act 4 of 2016",
+      "Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 13(1A)",
+      "Act 4 of 2016",
+      "Section 13(1A)",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 13(1) and 13(1A)",
+      "Act 4 of 2016",
+      "Section 13(1) and 13(1A)",
+      "Act 4 of 2016"
+    ],
+    [
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "Section 13",
+      "Act 4 of 2016",
+      "Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 13",
+      "Act 4 of 2016",
+      "Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 13",
+      "Act 4 of 2016",
+      "Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 13",
+      "Act 4 of 2016",
+      "Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 13",
+      "Act 4 of 2016",
+      "Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 104(1)",
+      "Arbitration Act of 1940",
+      "Section 104(1)",
+      "Arbitration Act of 1940"
+    ],
+    [
+      "Section 104(2)",
+      "Arbitration Act of 1940",
+      "Section 104(2)",
+      "Arbitration Act of 1940"
+    ],
+    [
+      "Section 104",
+      "Arbitration Act of 1940",
+      "Section 104",
+      "Arbitration Act of 1940"
+    ],
+    [
+      "Section 104",
+      "Arbitration Act of 1940",
+      "Section 104",
+      "Arbitration Act of 1940"
+    ],
+    [
+      "Section 13(2)",
+      "Act 4 of 2016",
+      "Section 13(2)",
+      "Act 4 of 2016"
+    ],
+    [
+      "Order VII Rule 11",
+      "Code of Civil Procedure, 1908",
+      "Order VII Rule 11",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "Section 13(2)",
+      "Act 4 of 2016",
+      "Section 13(2)",
+      "Act 4 of 2016"
+    ],
+    [
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "Order VII Rule 11",
+      "Code of Civil Procedure, 1908",
+      "Order VII Rule 11",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 13",
+      "Act 4 of 2016",
+      "Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "Order VII Rule 10",
+      "Commercial Courts Act",
+      "Order VII Rule 10",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order XLIX Rule 3",
+      "Commercial Courts Act",
+      "Order XLIX Rule 3",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order VII Rule 10",
+      "Commercial Courts Act",
+      "Order VII Rule 10",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order XLIX Rule 3",
+      "Commercial Courts Act",
+      "Order XLIX Rule 3",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 134",
+      "Trade Marks Act, 1999",
+      "Section 134",
+      "Trade Marks Act, 1999"
+    ],
+    [
+      "Section 134(2)",
+      "Trade Marks Act, 1999",
+      "Section 134(2)",
+      "Trade Marks Act, 1999"
+    ],
+    [
+      "Section 134",
+      "Trade Marks Act, 1999",
+      "Section 134",
+      "Trade Marks Act, 1999"
+    ],
+    [
+      "Order VII Rule 11",
+      "Code of Civil Procedure, 1908",
+      "Order VII Rule 11",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 35",
+      "Companies Act, 2013",
+      "Section 35",
+      "Companies Act, 2013"
+    ],
+    [
+      "Sub-section (1) of Section 35",
+      "Companies Act, 2013",
+      "Sub-section (1) of Section 35",
+      "Companies Act, 2013"
+    ],
+    [
+      "sub-section (5) of section 26",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "sub-section (5) of section 26",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 35",
+      "Companies Act, 2013",
+      "Section 35",
+      "Companies Act, 2013"
+    ],
+    [
+      "Order VII Rule 11",
+      "Code of Civil Procedure, 1908",
+      "Order VII Rule 11",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 35",
+      "Companies Act, 2013",
+      "Section 35",
+      "Companies Act, 2013"
+    ],
+    [
+      "Section 35",
+      "Companies Act, 2013",
+      "Section 35",
+      "Companies Act, 2013"
+    ],
+    [
+      "Section 35",
+      "Companies Act, 2013",
+      "Section 35",
+      "Companies Act, 2013"
+    ],
+    [
+      "Section 35(3)",
+      "Companies Act, 2013",
+      "Section 35(3)",
+      "Companies Act, 2013"
+    ],
+    [
+      "Section 19",
+      "Contract Act, 1872",
+      "Section 19",
+      "Contract Act, 1872"
+    ],
+    [
+      "Section 19",
+      "Contract Act, 1872",
+      "Section 19",
+      "Contract Act, 1872"
+    ],
+    [
+      "Order VII Rule 10",
+      "Commercial Courts Act",
+      "Order VII Rule 10",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 151",
+      "Code of 1908",
+      "Section 151",
+      "Code of 1908"
+    ],
+    [
+      "Section 151",
+      "Code of 1908",
+      "Section 151",
+      "Code of 1908"
+    ],
+    [
+      "Section 104 and Order XLIII Rule 1",
+      "Trade Marks Act, 1999",
+      "Section 104 and Order XLIII Rule 1",
+      "Trade Marks Act, 1999"
+    ],
+    [
+      "Section 13",
+      "Act 4 of 2016",
+      "Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 13(1A)",
+      "Act 4 of 2016",
+      "Section 13(1A)",
+      "Act 4 of 2016"
+    ],
+    [
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "Section 151",
+      "Code of 1908",
+      "Section 151",
+      "Code of 1908"
+    ],
+    [
+      "Section 19",
+      "Contract Act, 1872",
+      "Section 19",
+      "Contract Act, 1872"
+    ],
+    [
+      "Section 19",
+      "Contract Act, 1872",
+      "Section 19",
+      "Contract Act, 1872"
+    ],
+    [
+      "Section 13(1A)",
+      "Act 4 of 2016",
+      "Section 13(1A)",
+      "Act 4 of 2016"
+    ],
+    [
+      "Order XLIII Rule 1(a)",
+      "Trade Marks Act, 1999",
+      "Order XLIII Rule 1(a)",
+      "Trade Marks Act, 1999"
+    ],
+    [
+      "Section 35",
+      "Companies Act, 2013",
+      "Section 35",
+      "Companies Act, 2013"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "section 34 or section 35 or section 36",
+      "Insolvency and Bankruptcy Code, 2016",
+      "section 34 or section 35 or section 36",
+      "Insolvency and Bankruptcy Code, 2016"
+    ],
+    [
+      "Section 19",
+      "Contract Act, 1872",
+      "Section 19",
+      "Contract Act, 1872"
+    ],
+    [
+      "Section 19",
+      "Contract Act, 1872",
+      "Section 19",
+      "Contract Act, 1872"
+    ],
+    [
+      "Section 151",
+      "Code of 1908",
+      "Section 151",
+      "Code of 1908"
+    ],
+    [
+      "Order XLIII Rule 1",
+      "Trade Marks Act, 1999",
+      "Order XLIII Rule 1",
+      "Trade Marks Act, 1999"
+    ],
+    [
+      "sub- rules (a), (c) and (d) of Order XLIII Rule 1",
+      "Trade Marks Act, 1999",
+      "sub- rules (a), (c) and (d) of Order XLIII Rule 1",
+      "Trade Marks Act, 1999"
+    ],
+    [
+      "sub-rules (f), (q), (r) and (s) of Order XLIII Rule 1",
+      "Trade Marks Act, 1999",
+      "sub-rules (f), (q), (r) and (s) of Order XLIII Rule 1",
+      "Trade Marks Act, 1999"
+    ],
+    [
+      "sub-rules (f), (q), (r) and (s) of Order XLIII Rule 1",
+      "Trade Marks Act, 1999",
+      "sub-rules (f), (q), (r) and (s) of Order XLIII Rule 1",
+      "Trade Marks Act, 1999"
+    ],
+    [
+      "sub-rules (a), (c) and (d) of Order XLIII Rule 1",
+      "Trade Marks Act, 1999",
+      "sub-rules (a), (c) and (d) of Order XLIII Rule 1",
+      "Trade Marks Act, 1999"
+    ],
+    [
+      "Section 151",
+      "Code of 1908",
+      "Section 151",
+      "Code of 1908"
+    ],
+    [
+      "Section 115",
+      "CPC",
+      "Section 115",
+      "CPC"
+    ],
+    [
+      "Order XLIII Rule 1(a)",
+      "Trade Marks Act, 1999",
+      "Order XLIII Rule 1(a)",
+      "Trade Marks Act, 1999"
+    ],
+    [
+      "Section 35",
+      "Companies Act, 2013",
+      "Section 35",
+      "Companies Act, 2013"
+    ],
+    [
+      "Section 35(1)",
+      "Companies Act, 2013",
+      "Section 35(1)",
+      "Companies Act, 2013"
+    ],
+    [
+      "sub-section (3) of Section 35",
+      "Companies Act, 2013",
+      "sub-section (3) of Section 35",
+      "Companies Act, 2013"
+    ],
+    [
+      "Section 74(2)",
+      "Code of 2016",
+      "Section 74(2)",
+      "Code of 2016"
+    ],
+    [
+      "Order XXXVII",
+      "Insolvency and Bankruptcy Code, 2016",
+      "Order XXXVII",
+      "Insolvency and Bankruptcy Code, 2016"
+    ],
+    [
+      "Order XXXVII",
+      "Insolvency and Bankruptcy Code, 2016",
+      "Order XXXVII",
+      "Insolvency and Bankruptcy Code, 2016"
+    ],
+    [
+      "Section 35",
+      "Companies Act 2013",
+      "Section 35",
+      "Companies Act 2013"
+    ],
+    [
+      "Section 14",
+      "Insolvency and Bankruptcy Code, 2016",
+      "Section 14",
+      "Insolvency and Bankruptcy Code, 2016"
+    ],
+    [
+      "Section 35",
+      "Companies Act 2013",
+      "Section 35",
+      "Companies Act 2013"
+    ],
+    [
+      "Section 35",
+      "Companies Act 2013",
+      "Section 35",
+      "Companies Act 2013"
+    ],
+    [
+      "Section 35",
+      "Companies Act 2013",
+      "Section 35",
+      "Companies Act 2013"
+    ],
+    [
+      "Section 19",
+      "Contract Act, 1872",
+      "Section 19",
+      "Contract Act, 1872"
+    ],
+    [
+      "Section 26(1)(c)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 26(1)(c)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Order XXXVI Rule 9",
+      "Commercial Courts Act, 2015",
+      "Order XXXVI Rule 9",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section XIII",
+      "Indian Partnership Act, 1932",
+      "Section XIII",
+      "Indian Partnership Act, 1932"
+    ],
+    [
+      "Order XXXVI Rule IX",
+      "Indian Partnership Act, 1932",
+      "Order XXXVI Rule IX",
+      "Indian Partnership Act, 1932"
+    ],
+    [
+      "Order I Rule 10",
+      "Code of Civil Procedure, 1908",
+      "Order I Rule 10",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 3(3)",
+      "Companies Act, 2013",
+      "Section 3(3)",
+      "Companies Act, 2013"
+    ],
+    [
+      "Chapter II",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Chapter II",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Sections 3 to 11",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Sections 3 to 11",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 8",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 8",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 9",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 9",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 12(1)(e)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 12(1)(e)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 10",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 10",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 11",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 11",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Chapter III",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Chapter III",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Chapter III-A",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Chapter III-A",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Chapter IV",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Chapter IV",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Chapter V",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Chapter V",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Chapter VI",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Chapter VI",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 16",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 16",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Chapter VII",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Chapter VII",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 17",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 17",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 18",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 18",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 17 to Section 23",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 17 to Section 23",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 21",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 21",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Order XX",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Order XX",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "section 144",
+      "Indian Evidence Act, 1872",
+      "section 144",
+      "Indian Evidence Act, 1872"
+    ],
+    [
+      "Section 96",
+      "Letters Patent, 1865",
+      "Section 96",
+      "Letters Patent, 1865"
+    ],
+    [
+      "Order VI Rule 17",
+      "Letters Patent, 1865",
+      "Order VI Rule 17",
+      "Letters Patent, 1865"
+    ],
+    [
+      "Section 115",
+      "CPC",
+      "Section 115",
+      "CPC"
+    ],
+    [
+      "Section 9A",
+      "Commercial Courts Ordinance",
+      "Section 9A",
+      "Commercial Courts Ordinance"
+    ],
+    [
+      "Section 48",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 48",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Order VII Rule 10",
+      "Commercial Courts Act",
+      "Order VII Rule 10",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order XLIX Rule 3",
+      "Commercial Courts Act",
+      "Order XLIX Rule 3",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order XLIII Rule 1(a)",
+      "Trade Marks Act, 1999",
+      "Order XLIII Rule 1(a)",
+      "Trade Marks Act, 1999"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act of 1940",
+      "Section 34",
+      "Arbitration Act of 1940"
+    ],
+    [
+      "Section 151",
+      "Code of 1908",
+      "Section 151",
+      "Code of 1908"
+    ],
+    [
+      "section 36",
+      "Insolvency and Bankruptcy Code, 2016",
+      "section 36",
+      "Insolvency and Bankruptcy Code, 2016"
+    ],
+    [
+      "Order XXXVII",
+      "Insolvency and Bankruptcy Code, 2016",
+      "Order XXXVII",
+      "Insolvency and Bankruptcy Code, 2016"
+    ],
+    [
+      "Section 120",
+      "Code of 2016",
+      "Section 120",
+      "Code of 2016"
+    ],
+    [
+      "Section 24",
+      "Act of 1992",
+      "Section 24",
+      "Act of 1992"
+    ]
+  ],
+  "precedent_counts": {
+    "2020 SCC OnLine Del 477 (D & H India Ltd v. Superon Schweisstechnik India Ltd)": 2,
+    "SCC 259 (Ahmed Abdulla Ahmed Al Ghurair v. Star Health and Allied Insurance Company)": 20,
+    "(2019) 5 MLJ 479 (Magic Frames v. Radiance Media P. Ltd)": 2,
+    "(2018) 14 SCC 715 (Kandla Export Corporation v. OCI Corporation)": 2
+  },
+  "provision_counts": {
+    "Section                      13(1) of Commercial Courts Act, 2015": 1,
+    "Section 13(1) of Commercial Courts Act, 2015": 1,
+    "Order VII Rule 11 of Code of Civil Procedure, 1908": 10,
+    "Section 35 of Companies Act, 2013": 10,
+    "Order XLIII of Code of Civil Procedure, 1908": 1,
+    "Section 37 of Arbitration and Conciliation, 1996": 1,
+    "Order XLIII of Code of Civil Procedure, 1908 (5 of 1908)": 11,
+    "section 37 of Arbitration and Conciliation Act, 1996 (26 of 1996)": 2,
+    "section 37 of Arbitration and Conciliation Act, 1996": 1,
+    "Section 2(2) of Indian Evidence Act, 1872": 2,
+    "Article 136 of Constitution": 1,
+    "Order XLIII of CPC": 2,
+    "sub-section (1A) of Section 13 of Commercial Courts Act": 1,
+    "Article 227 of Constitution": 1,
+    "section 13(2) of Act 4 of 2016": 1,
+    "Section 50 of Arbitration and Conciliation Act, 1996": 3,
+    "Order 43 of Code of Civil Procedure Code, 1908": 1,
+    "Section 37 of Arbitration Act": 8,
+    "Order 43 of CPC": 1,
+    "Section 13(2) of Commercial Courts Act": 2,
+    "Section 134 of Trade Marks Act, 1999": 4,
+    "Section 15(5) of Commercial Courts Act": 1,
+    "Section 50 of Arbitration Act": 1,
+    "Section 39(2) of Arbitration Act, 1940": 1,
+    "Section 4 of Code of Civil Procedure": 2,
+    "Section 39(1) of Arbitration Act": 1,
+    "Section 39(1) and (2) of Arbitration Act": 1,
+    "Section 104(1) of Arbitration Act of 1940": 2,
+    "Section 14(1)(a) of Insolvency and Bankruptcy Code, 2016": 3,
+    "Section 14 of Code of 2016": 6,
+    "Section 14(1)(a) of Code of 2016": 1,
+    "Section 74(2) of Code of 2016": 2,
+    "Section 105 of CPC": 1,
+    "Section 22(1) of Sick Industrial Companies (Special Provisions) Act, 1985": 1,
+    "Sections 15Y and 20A of Act of 1992": 1,
+    "Article 226 of Constitution of India": 1,
+    "Section 141(1) and (2) of Negotiable Instruments Act, 1881": 1,
+    "Section 35 of Companies Act 2013": 5,
+    "Section 19 of Contract Act, 1872": 8,
+    "Order XXXVI Rule 9 of Commercial Courts Act, 2015": 2,
+    "Section XIII of Indian Partnership Act, 1932": 4,
+    "Section 13(1A) of Commercial Courts Act, 2015": 2,
+    "Section 4(2) of Code of Civil Procedure": 1,
+    "Section 2 of Indian Evidence Act, 1872": 1,
+    "Section 2(1)(c) of Indian Evidence Act, 1872": 1,
+    "Section 2(1)(i) of Indian Evidence Act, 1872": 1,
+    "Section 13 of Commercial Courts Act, 2015": 6,
+    "Section 14 of Insolvency and Bankruptcy Code, 2016": 2,
+    "Section 15 of Commercial Courts Act": 1,
+    "Sections 26, 35 and 35-A of Companies Act, 2013": 1,
+    "Sections 14 and 15 of Commercial Courts Act": 1,
+    "Section 8 of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 6,
+    "section 13 of Commercial Courts Act, 2015": 1,
+    "sub-section (1) of Section 13 of Commercial Courts Act, 2015": 1,
+    "sub-section (1A) of Section 13 of Commercial Courts Act, 2015": 2,
+    "sub-sections (1) and (1A) of Section 13 of Commercial Courts Act, 2015": 3,
+    "sub- sections (1) and (1A) of Section 13 of Commercial Courts Act, 2015": 1,
+    "Section 104 of Arbitration Act of 1940": 3,
+    "Section 16 of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 3,
+    "Section 13(2) of Commercial Courts Act, 2015": 1,
+    "proviso to Section 13 (1A) of Commercial Courts Act, 2015": 1,
+    "Section 13 of Commercial Courts Act": 5,
+    "Section 13(1) of Commercial Courts Act": 1,
+    "Section 9A of Commercial Courts Ordinance": 2,
+    "Section 13 of Act 4 of 2016": 19,
+    "Section 13(1) of Act 4 of 2016": 4,
+    "Section 13(1A) of Act 4 of 2016": 4,
+    "sub-rule (r) of Order XLIII Rule 1 of Trade Marks Act, 1999": 1,
+    "Order XLIII Rule 1(a) of Trade Marks Act, 1999": 5,
+    "sub-sections (1) and (1A) of Section 13 of Act 4 of 2016": 7,
+    "Section 13(2) of Act 4 of 2016": 5,
+    "Section 50(1)(b) of Arbitration and Conciliation Act, 1996": 1,
+    "Section 48 of Arbitration and Conciliation Act, 1996": 3,
+    "proviso to Sections 13(1) and (1A) of Act 4 of 2016": 1,
+    "Section 3(3) of Companies Act, 2013": 2,
+    "Section 10(3) of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 1,
+    "Section 2(1)(e) of Indian Evidence Act, 1872": 1,
+    "Section 39 of Arbitration Act": 1,
+    "Order XX of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 3,
+    "Section 8 nor Section 13 of Act 4 of 2016": 1,
+    "proviso to sub-sections (1) and (1A) of Section 13 of Act 4 of 2016": 1,
+    "sub-section (2) of Section 13 of Act 4 of 2016": 3,
+    "Section 21 of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 2,
+    "sub- sections (1) and (1A) of Section 13 of Act 4 of 2016": 1,
+    "sub- section (2) of Section 13 of Act 4 of 2016": 1,
+    "Order VII Rule 10 of Commercial Courts Act": 5,
+    "Section 13(1) and 13(1A) of Act 4 of 2016": 1,
+    "Section 104(2) of Arbitration Act of 1940": 1,
+    "Order XLIX Rule 3 of Commercial Courts Act": 3,
+    "Section 134(2) of Trade Marks Act, 1999": 1,
+    "Sub-section (1) of Section 35 of Companies Act, 2013": 1,
+    "sub-section (5) of section 26 of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 1,
+    "Section 35(3) of Companies Act, 2013": 1,
+    "Section 151 of Code of 1908": 6,
+    "Section 104 and Order XLIII Rule 1 of Trade Marks Act, 1999": 1,
+    "section 34 or section 35 or section 36 of Insolvency and Bankruptcy Code, 2016": 1,
+    "Order XLIII Rule 1 of Trade Marks Act, 1999": 1,
+    "sub- rules (a), (c) and (d) of Order XLIII Rule 1 of Trade Marks Act, 1999": 1,
+    "sub-rules (f), (q), (r) and (s) of Order XLIII Rule 1 of Trade Marks Act, 1999": 2,
+    "sub-rules (a), (c) and (d) of Order XLIII Rule 1 of Trade Marks Act, 1999": 1,
+    "Section 115 of CPC": 2,
+    "Section 35(1) of Companies Act, 2013": 1,
+    "sub-section (3) of Section 35 of Companies Act, 2013": 1,
+    "Order XXXVII of Insolvency and Bankruptcy Code, 2016": 3,
+    "Section 26(1)(c) of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 1,
+    "Order XXXVI Rule IX of Indian Partnership Act, 1932": 1,
+    "Order I Rule 10 of Code of Civil Procedure, 1908": 1,
+    "Chapter II of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 1,
+    "Sections 3 to 11 of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 1,
+    "Section 9 of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 1,
+    "Section 12(1)(e) of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 1,
+    "Section 10 of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 1,
+    "Section 11 of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 1,
+    "Chapter III of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 1,
+    "Chapter III-A of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 1,
+    "Chapter IV of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 1,
+    "Chapter V of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 1,
+    "Chapter VI of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 1,
+    "Chapter VII of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 1,
+    "Section 17 of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 1,
+    "Section 18 of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 1,
+    "Section 17 to Section 23 of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 1,
+    "section 144 of Indian Evidence Act, 1872": 1,
+    "Section 96 of Letters Patent, 1865": 1,
+    "Order VI Rule 17 of Letters Patent, 1865": 1,
+    "Section 34 of Arbitration Act of 1940": 1,
+    "section 36 of Insolvency and Bankruptcy Code, 2016": 1,
+    "Section 120 of Code of 2016": 1,
+    "Section 24 of Act of 1992": 1
+  },
+  "statute_counts": {
+    "Commercial Courts Act, 2015": 22,
+    "Code of Civil Procedure, 1908": 12,
+    "Companies Act, 2013": 17,
+    "Arbitration and Conciliation, 1996": 1,
+    "Code of Civil Procedure, 1908 (5 of 1908)": 11,
+    "Arbitration and Conciliation Act, 1996 (26 of 1996)": 2,
+    "Arbitration and Conciliation Act, 1996": 8,
+    "Indian Evidence Act, 1872": 7,
+    "Constitution": 2,
+    "CPC": 6,
+    "Commercial Courts Act": 20,
+    "Act 4 of 2016": 49,
+    "Code of Civil Procedure Code, 1908": 1,
+    "Arbitration Act": 12,
+    "Trade Marks Act, 1999": 17,
+    "Arbitration Act, 1940": 1,
+    "Code of Civil Procedure": 3,
+    "Arbitration Act of 1940": 7,
+    "Insolvency and Bankruptcy Code, 2016": 10,
+    "Code of 2016": 10,
+    "Sick Industrial Companies (Special Provisions) Act, 1985": 1,
+    "Act of 1992": 2,
+    "Constitution of India": 1,
+    "Negotiable Instruments Act, 1881": 1,
+    "Companies Act 2013": 5,
+    "Contract Act, 1872": 8,
+    "Indian Partnership Act, 1932": 5,
+    "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 32,
+    "Commercial Courts Ordinance": 2,
+    "Code of 1908": 6,
+    "Letters Patent, 1865": 2
+  }
+}

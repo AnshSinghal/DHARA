@@ -1,0 +1,4140 @@
+{
+  "entities": [
+    {
+      "text": "Supreme Court of India",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 22
+    },
+    {
+      "text": "Prakash Corporates",
+      "label": "PETITIONER",
+      "start_char": 23,
+      "end_char": 41
+    },
+    {
+      "text": "Dee Vee Projects Limited",
+      "label": "RESPONDENT",
+      "start_char": 45,
+      "end_char": 69
+    },
+    {
+      "text": "Dinesh Maheshwari",
+      "label": "LAWYER",
+      "start_char": 99,
+      "end_char": 116
+    },
+    {
+      "text": "Vikram Nath",
+      "label": "JUDGE",
+      "start_char": 124,
+      "end_char": 135
+    },
+    {
+      "text": "Dinesh Maheshwari",
+      "label": "JUDGE",
+      "start_char": 137,
+      "end_char": 154
+    },
+    {
+      "text": "Supreme Court Of India",
+      "label": "COURT",
+      "start_char": 339,
+      "end_char": 361
+    },
+    {
+      "text": "Prakash Corporates",
+      "label": "PETITIONER",
+      "start_char": 616,
+      "end_char": 634
+    },
+    {
+      "text": "22.06.2021",
+      "label": "DATE",
+      "start_char": 1279,
+      "end_char": 1289
+    },
+    {
+      "text": "09.07.2021",
+      "label": "DATE",
+      "start_char": 1381,
+      "end_char": 1391
+    },
+    {
+      "text": "SMWP No.3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 1881,
+      "end_char": 1898
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 2252,
+      "end_char": 2270
+    },
+    {
+      "text": "09.07.2021",
+      "label": "DATE",
+      "start_char": 2778,
+      "end_char": 2788
+    },
+    {
+      "text": "High Court of Chhattisgarh at Bilaspur",
+      "label": "COURT",
+      "start_char": 2807,
+      "end_char": 2845
+    },
+    {
+      "text": "WP No. 312 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 2849,
+      "end_char": 2867
+    },
+    {
+      "text": "22.06.2021",
+      "label": "DATE",
+      "start_char": 2919,
+      "end_char": 2929
+    },
+    {
+      "text": "Commercial Court (District Level), Nava Raipur, Chhattisgarh",
+      "label": "COURT",
+      "start_char": 2948,
+      "end_char": 3008
+    },
+    {
+      "text": "No. 01-B of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 3023,
+      "end_char": 3039
+    },
+    {
+      "text": "Order VIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 3252,
+      "end_char": 3269
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 1",
+      "label": "STATUTE",
+      "start_char": 3277,
+      "end_char": 3308
+    },
+    {
+      "text": "Commercial Courts Act, 20152",
+      "label": "STATUTE",
+      "start_char": 3332,
+      "end_char": 3360
+    },
+    {
+      "text": "Suo Motu Writ Petition (Civil) No. 3 of 20203",
+      "label": "PRECEDENT",
+      "start_char": 3695,
+      "end_char": 3740
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 3983,
+      "end_char": 4001
+    },
+    {
+      "text": "Chhattisgarh Road Development Corporation Limited",
+      "label": "ORG",
+      "start_char": 4735,
+      "end_char": 4784
+    },
+    {
+      "text": "Chhattisgarh",
+      "label": "GPE",
+      "start_char": 4898,
+      "end_char": 4910
+    },
+    {
+      "text": "Government of Chhattisgarh",
+      "label": "ORG",
+      "start_char": 4988,
+      "end_char": 5014
+    },
+    {
+      "text": "Chhattisgarh",
+      "label": "GPE",
+      "start_char": 5077,
+      "end_char": 5089
+    },
+    {
+      "text": "01.04.2017",
+      "label": "DATE",
+      "start_char": 5266,
+      "end_char": 5276
+    },
+    {
+      "text": "01.07.2017",
+      "label": "DATE",
+      "start_char": 5296,
+      "end_char": 5306
+    },
+    {
+      "text": "01.07.2020",
+      "label": "DATE",
+      "start_char": 5958,
+      "end_char": 5968
+    },
+    {
+      "text": "Insolvency and Bankruptcy Code, 20164",
+      "label": "STATUTE",
+      "start_char": 6039,
+      "end_char": 6076
+    },
+    {
+      "text": "13.07.2020",
+      "label": "DATE",
+      "start_char": 6207,
+      "end_char": 6217
+    },
+    {
+      "text": "11.09.2020",
+      "label": "DATE",
+      "start_char": 6451,
+      "end_char": 6461
+    },
+    {
+      "text": "National Company Law Tribunal, Cuttack Bench5",
+      "label": "COURT",
+      "start_char": 6492,
+      "end_char": 6537
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 6629,
+      "end_char": 6638
+    },
+    {
+      "text": "21.12.2020",
+      "label": "DATE",
+      "start_char": 6792,
+      "end_char": 6802
+    },
+    {
+      "text": "NCLT",
+      "label": "ORG",
+      "start_char": 7009,
+      "end_char": 7013
+    },
+    {
+      "text": "Order XXXVIII Rule 5 read with Section 151",
+      "label": "PROVISION",
+      "start_char": 7181,
+      "end_char": 7223
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 7224,
+      "end_char": 7227
+    },
+    {
+      "text": "21.12.2020",
+      "label": "DATE",
+      "start_char": 7548,
+      "end_char": 7558
+    },
+    {
+      "text": "Section 149",
+      "label": "PROVISION",
+      "start_char": 7621,
+      "end_char": 7632
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 7633,
+      "end_char": 7636
+    },
+    {
+      "text": "01.01.2021",
+      "label": "DATE",
+      "start_char": 7725,
+      "end_char": 7735
+    },
+    {
+      "text": "Order XXXVIII Rule 5 read with Section 151",
+      "label": "PROVISION",
+      "start_char": 7980,
+      "end_char": 8022
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 8023,
+      "end_char": 8026
+    },
+    {
+      "text": "Section 12-A",
+      "label": "PROVISION",
+      "start_char": 8208,
+      "end_char": 8220
+    },
+    {
+      "text": "06.01.2021",
+      "label": "DATE",
+      "start_char": 8450,
+      "end_char": 8460
+    },
+    {
+      "text": "18.01.2021",
+      "label": "DATE",
+      "start_char": 8573,
+      "end_char": 8583
+    },
+    {
+      "text": "Section 10 read with Section 151",
+      "label": "PROVISION",
+      "start_char": 8615,
+      "end_char": 8647
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 8648,
+      "end_char": 8651
+    },
+    {
+      "text": "NCLT",
+      "label": "COURT",
+      "start_char": 8760,
+      "end_char": 8764
+    },
+    {
+      "text": "02.02.2021",
+      "label": "DATE",
+      "start_char": 8963,
+      "end_char": 8973
+    },
+    {
+      "text": "02.02.2021",
+      "label": "DATE",
+      "start_char": 8984,
+      "end_char": 8994
+    },
+    {
+      "text": "24.02.2021",
+      "label": "DATE",
+      "start_char": 9322,
+      "end_char": 9332
+    },
+    {
+      "text": "24.02.2021",
+      "label": "DATE",
+      "start_char": 9515,
+      "end_char": 9525
+    },
+    {
+      "text": "15.03.2021",
+      "label": "DATE",
+      "start_char": 10022,
+      "end_char": 10032
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 10233,
+      "end_char": 10238
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 10315,
+      "end_char": 10320
+    },
+    {
+      "text": "15.04.2021",
+      "label": "DATE",
+      "start_char": 10546,
+      "end_char": 10556
+    },
+    {
+      "text": "15.04.2021",
+      "label": "DATE",
+      "start_char": 10835,
+      "end_char": 10845
+    },
+    {
+      "text": "05.04.2021",
+      "label": "DATE",
+      "start_char": 10892,
+      "end_char": 10902
+    },
+    {
+      "text": "07.04.2021",
+      "label": "DATE",
+      "start_char": 11033,
+      "end_char": 11043
+    },
+    {
+      "text": "22.06.2021",
+      "label": "DATE",
+      "start_char": 11085,
+      "end_char": 11095
+    },
+    {
+      "text": "Rule 1(1) of Order V",
+      "label": "PROVISION",
+      "start_char": 11535,
+      "end_char": 11555
+    },
+    {
+      "text": "Rule 1 of Order VIII",
+      "label": "PROVISION",
+      "start_char": 11575,
+      "end_char": 11595
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 11596,
+      "end_char": 11599
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 11623,
+      "end_char": 11650
+    },
+    {
+      "text": "06.01.2021",
+      "label": "DATE",
+      "start_char": 11787,
+      "end_char": 11797
+    },
+    {
+      "text": "06.05.2021",
+      "label": "DATE",
+      "start_char": 12351,
+      "end_char": 12361
+    },
+    {
+      "text": "22.06.2021",
+      "label": "DATE",
+      "start_char": 12399,
+      "end_char": 12409
+    },
+    {
+      "text": "22.06.2021",
+      "label": "DATE",
+      "start_char": 12451,
+      "end_char": 12461
+    },
+    {
+      "text": "Suo Motu Writ Petition (Civil) No. 3 of 2020",
+      "label": "PRECEDENT",
+      "start_char": 12693,
+      "end_char": 12737
+    },
+    {
+      "text": "Order VIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 12967,
+      "end_char": 12984
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 12985,
+      "end_char": 12988
+    },
+    {
+      "text": "09.07.2021",
+      "label": "DATE",
+      "start_char": 13126,
+      "end_char": 13136
+    },
+    {
+      "text": "22.06.2021",
+      "label": "DATE",
+      "start_char": 13230,
+      "end_char": 13240
+    },
+    {
+      "text": "22.06.2021",
+      "label": "DATE",
+      "start_char": 13341,
+      "end_char": 13351
+    },
+    {
+      "text": "Rishabh Garg",
+      "label": "OTHER_PERSON",
+      "start_char": 13366,
+      "end_char": 13378
+    },
+    {
+      "text": "Neeraj Zaveri",
+      "label": "OTHER_PERSON",
+      "start_char": 13413,
+      "end_char": 13426
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 13580,
+      "end_char": 13590
+    },
+    {
+      "text": "Suo Moto",
+      "label": "ORG",
+      "start_char": 13594,
+      "end_char": 13602
+    },
+    {
+      "text": "06.01.2021",
+      "label": "DATE",
+      "start_char": 13902,
+      "end_char": 13912
+    },
+    {
+      "text": "18.01.2021",
+      "label": "DATE",
+      "start_char": 13970,
+      "end_char": 13980
+    },
+    {
+      "text": "Section 10",
+      "label": "PROVISION",
+      "start_char": 14029,
+      "end_char": 14039
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 14043,
+      "end_char": 14046
+    },
+    {
+      "text": "18.01.2021",
+      "label": "DATE",
+      "start_char": 14050,
+      "end_char": 14060
+    },
+    {
+      "text": "Order 38 Rule 5",
+      "label": "PROVISION",
+      "start_char": 14102,
+      "end_char": 14117
+    },
+    {
+      "text": "15.03.2021",
+      "label": "DATE",
+      "start_char": 14121,
+      "end_char": 14131
+    },
+    {
+      "text": "Order 8 Rule 1",
+      "label": "PROVISION",
+      "start_char": 14149,
+      "end_char": 14163
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 14167,
+      "end_char": 14170
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 14190,
+      "end_char": 14211
+    },
+    {
+      "text": "06.01.2021",
+      "label": "DATE",
+      "start_char": 14557,
+      "end_char": 14567
+    },
+    {
+      "text": "09.07.2021",
+      "label": "DATE",
+      "start_char": 14721,
+      "end_char": 14731
+    },
+    {
+      "text": "Order 38 Rule 5",
+      "label": "PROVISION",
+      "start_char": 14771,
+      "end_char": 14786
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 14787,
+      "end_char": 14790
+    },
+    {
+      "text": "Section 10",
+      "label": "PROVISION",
+      "start_char": 14816,
+      "end_char": 14826
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 14827,
+      "end_char": 14830
+    },
+    {
+      "text": "09.07.2021",
+      "label": "DATE",
+      "start_char": 14854,
+      "end_char": 14864
+    },
+    {
+      "text": "22.06.2021",
+      "label": "DATE",
+      "start_char": 14952,
+      "end_char": 14962
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 15020,
+      "end_char": 15031
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 15039,
+      "end_char": 15060
+    },
+    {
+      "text": "06.05.2021",
+      "label": "DATE",
+      "start_char": 15154,
+      "end_char": 15164
+    },
+    {
+      "text": "22.06.2021",
+      "label": "DATE",
+      "start_char": 15254,
+      "end_char": 15264
+    },
+    {
+      "text": "Suo Motu Writ Petition (Civil) No. 3 of 2020",
+      "label": "PRECEDENT",
+      "start_char": 15486,
+      "end_char": 15530
+    },
+    {
+      "text": "15.03.2020",
+      "label": "DATE",
+      "start_char": 15653,
+      "end_char": 15663
+    },
+    {
+      "text": "14.03.2021",
+      "label": "DATE",
+      "start_char": 15667,
+      "end_char": 15677
+    },
+    {
+      "text": "27.04.2021",
+      "label": "DATE",
+      "start_char": 15707,
+      "end_char": 15717
+    },
+    {
+      "text": "SCG Contracts (India) Private Limited v. K.S. Chamankar Infrastructure Private Limited and Ors.: (2019)",
+      "label": "PRECEDENT",
+      "start_char": 16000,
+      "end_char": 16103
+    },
+    {
+      "text": "Ltd. v. Aaditiya J. Garg and Anr",
+      "label": "PRECEDENT",
+      "start_char": 16133,
+      "end_char": 16165
+    },
+    {
+      "text": "2020 SCC OnLine SC 1050",
+      "label": "PRECEDENT",
+      "start_char": 16168,
+      "end_char": 16191
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 16454,
+      "end_char": 16465
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 16473,
+      "end_char": 16494
+    },
+    {
+      "text": "Sagufa Ahmed",
+      "label": "OTHER_PERSON",
+      "start_char": 16714,
+      "end_char": 16726
+    },
+    {
+      "text": "Assam Polywood Products Private Limited",
+      "label": "RESPONDENT",
+      "start_char": 16745,
+      "end_char": 16784
+    },
+    {
+      "text": "(2021) 2 SCC 317",
+      "label": "CASE_NUMBER",
+      "start_char": 16795,
+      "end_char": 16811
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 16869,
+      "end_char": 16887
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 17155,
+      "end_char": 17173
+    },
+    {
+      "text": "Order VIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 17306,
+      "end_char": 17323
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 17356,
+      "end_char": 17367
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 17368,
+      "end_char": 17371
+    },
+    {
+      "text": "Sagufa Ahmed",
+      "label": "OTHER_PERSON",
+      "start_char": 17563,
+      "end_char": 17575
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 17990,
+      "end_char": 18003
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 18042,
+      "end_char": 18055
+    },
+    {
+      "text": "Writ (Civil) No. 03 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 18069,
+      "end_char": 18096
+    },
+    {
+      "text": "22.06.2021",
+      "label": "DATE",
+      "start_char": 18364,
+      "end_char": 18374
+    },
+    {
+      "text": "09.07.2021",
+      "label": "DATE",
+      "start_char": 19445,
+      "end_char": 19455
+    },
+    {
+      "text": "22.06.2021",
+      "label": "DATE",
+      "start_char": 19504,
+      "end_char": 19514
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 19691,
+      "end_char": 19709
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 20085,
+      "end_char": 20103
+    },
+    {
+      "text": "23.03.2020",
+      "label": "DATE",
+      "start_char": 20234,
+      "end_char": 20244
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 20269,
+      "end_char": 20287
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 20420,
+      "end_char": 20438
+    },
+    {
+      "text": "15.03.2020",
+      "label": "DATE",
+      "start_char": 20492,
+      "end_char": 20502
+    },
+    {
+      "text": "02.10.2021",
+      "label": "DATE",
+      "start_char": 20509,
+      "end_char": 20519
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 20764,
+      "end_char": 20782
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 21192,
+      "end_char": 21210
+    },
+    {
+      "text": "Raipur",
+      "label": "GPE",
+      "start_char": 21417,
+      "end_char": 21423
+    },
+    {
+      "text": "05.04.2021",
+      "label": "DATE",
+      "start_char": 22263,
+      "end_char": 22273
+    },
+    {
+      "text": "High Court of Chhattisgarh",
+      "label": "COURT",
+      "start_char": 22279,
+      "end_char": 22305
+    },
+    {
+      "text": "Section 10",
+      "label": "PROVISION",
+      "start_char": 22995,
+      "end_char": 23005
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 23006,
+      "end_char": 23009
+    },
+    {
+      "text": "NCLT",
+      "label": "COURT",
+      "start_char": 23137,
+      "end_char": 23141
+    },
+    {
+      "text": "07.07.2021",
+      "label": "DATE",
+      "start_char": 23252,
+      "end_char": 23262
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 23595,
+      "end_char": 23613
+    },
+    {
+      "text": "18.01.2021",
+      "label": "DATE",
+      "start_char": 23889,
+      "end_char": 23899
+    },
+    {
+      "text": "24.02.2021",
+      "label": "DATE",
+      "start_char": 24162,
+      "end_char": 24172
+    },
+    {
+      "text": "15.03.2021",
+      "label": "DATE",
+      "start_char": 24177,
+      "end_char": 24187
+    },
+    {
+      "text": "06.05.2021",
+      "label": "DATE",
+      "start_char": 24355,
+      "end_char": 24365
+    },
+    {
+      "text": "07.07.2021",
+      "label": "DATE",
+      "start_char": 24495,
+      "end_char": 24505
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 24769,
+      "end_char": 24787
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 25034,
+      "end_char": 25052
+    },
+    {
+      "text": "23.03.2020",
+      "label": "DATE",
+      "start_char": 25108,
+      "end_char": 25118
+    },
+    {
+      "text": "02.10.2021",
+      "label": "DATE",
+      "start_char": 25122,
+      "end_char": 25132
+    },
+    {
+      "text": "Section 12-A",
+      "label": "PROVISION",
+      "start_char": 25193,
+      "end_char": 25205
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 25653,
+      "end_char": 25671
+    },
+    {
+      "text": "S. Kasi v. State: Criminal Appeal No. 452 of 2020",
+      "label": "PRECEDENT",
+      "start_char": 25740,
+      "end_char": 25789
+    },
+    {
+      "text": "19.06.2020",
+      "label": "DATE",
+      "start_char": 25801,
+      "end_char": 25811
+    },
+    {
+      "text": "SCC OnLine SC 529]",
+      "label": "CASE_NUMBER",
+      "start_char": 25820,
+      "end_char": 25838
+    },
+    {
+      "text": "23.03.2020",
+      "label": "DATE",
+      "start_char": 25971,
+      "end_char": 25981
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 25985,
+      "end_char": 26003
+    },
+    {
+      "text": "Section167(2)",
+      "label": "PROVISION",
+      "start_char": 26156,
+      "end_char": 26169
+    },
+    {
+      "text": "Code of Criminal Procedure, 1973",
+      "label": "STATUTE",
+      "start_char": 26177,
+      "end_char": 26209
+    },
+    {
+      "text": "Sagufa Ahmed",
+      "label": "PRECEDENT",
+      "start_char": 26268,
+      "end_char": 26280
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 26335,
+      "end_char": 26353
+    },
+    {
+      "text": "S. Kasi",
+      "label": "OTHER_PERSON",
+      "start_char": 26838,
+      "end_char": 26845
+    },
+    {
+      "text": "Article 21",
+      "label": "PROVISION",
+      "start_char": 26919,
+      "end_char": 26929
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 26937,
+      "end_char": 26958
+    },
+    {
+      "text": "Section 167(2)",
+      "label": "PROVISION",
+      "start_char": 26969,
+      "end_char": 26983
+    },
+    {
+      "text": "CrPC",
+      "label": "STATUTE",
+      "start_char": 26984,
+      "end_char": 26988
+    },
+    {
+      "text": "CrPC",
+      "label": "STATUTE",
+      "start_char": 27137,
+      "end_char": 27141
+    },
+    {
+      "text": "Sagufa Ahmed",
+      "label": "PRECEDENT",
+      "start_char": 27329,
+      "end_char": 27341
+    },
+    {
+      "text": "23.03.2020",
+      "label": "DATE",
+      "start_char": 27540,
+      "end_char": 27550
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 27575,
+      "end_char": 27593
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 28472,
+      "end_char": 28475
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 28520,
+      "end_char": 28547
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 28558,
+      "end_char": 28568
+    },
+    {
+      "text": "Section 12-A",
+      "label": "PROVISION",
+      "start_char": 28578,
+      "end_char": 28590
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 28656,
+      "end_char": 28674
+    },
+    {
+      "text": "Section 12-A and Section 16",
+      "label": "PROVISION",
+      "start_char": 28708,
+      "end_char": 28735
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 29072,
+      "end_char": 29090
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 29101,
+      "end_char": 29119
+    },
+    {
+      "text": "Legal Services Authorities Act, 1987 (39 of 1987)",
+      "label": "STATUTE",
+      "start_char": 29190,
+      "end_char": 29239
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 29312,
+      "end_char": 29341
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 29413,
+      "end_char": 29454
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 29694,
+      "end_char": 29735
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 29935,
+      "end_char": 29964
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 30032,
+      "end_char": 30073
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 30121,
+      "end_char": 30144
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 30268,
+      "end_char": 30295
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 30328,
+      "end_char": 30331
+    },
+    {
+      "text": "Order V Rule 1(1), Order VIII Rule 1 and Order VIII Rule 10",
+      "label": "PROVISION",
+      "start_char": 30335,
+      "end_char": 30394
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 30639,
+      "end_char": 30642
+    },
+    {
+      "text": "Rule 1",
+      "label": "PROVISION",
+      "start_char": 30849,
+      "end_char": 30855
+    },
+    {
+      "text": "sub-rule (1)",
+      "label": "PROVISION",
+      "start_char": 31943,
+      "end_char": 31955
+    },
+    {
+      "text": "Order VIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 32300,
+      "end_char": 32317
+    },
+    {
+      "text": "Order VIII Rule 10 “10",
+      "label": "PROVISION",
+      "start_char": 33089,
+      "end_char": 33111
+    },
+    {
+      "text": "rule 1 or rule 9",
+      "label": "PROVISION",
+      "start_char": 33255,
+      "end_char": 33271
+    },
+    {
+      "text": "rule 1",
+      "label": "PROVISION",
+      "start_char": 33623,
+      "end_char": 33629
+    },
+    {
+      "text": "SMWP No.3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 33719,
+      "end_char": 33736
+    },
+    {
+      "text": "Suo Motu Writ Petition (Civil) No. 3 of 2020",
+      "label": "PRECEDENT",
+      "start_char": 33844,
+      "end_char": 33888
+    },
+    {
+      "text": "Article 142",
+      "label": "PROVISION",
+      "start_char": 35261,
+      "end_char": 35272
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 35280,
+      "end_char": 35301
+    },
+    {
+      "text": "23.03.2020",
+      "label": "DATE",
+      "start_char": 35325,
+      "end_char": 35335
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 35348,
+      "end_char": 35366
+    },
+    {
+      "text": "15th March 2020",
+      "label": "DATE",
+      "start_char": 36213,
+      "end_char": 36228
+    },
+    {
+      "text": "Article 142",
+      "label": "PROVISION",
+      "start_char": 36337,
+      "end_char": 36348
+    },
+    {
+      "text": "Article 141",
+      "label": "PROVISION",
+      "start_char": 36359,
+      "end_char": 36370
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 36378,
+      "end_char": 36399
+    },
+    {
+      "text": "Article 141",
+      "label": "PROVISION",
+      "start_char": 36469,
+      "end_char": 36480
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 36896,
+      "end_char": 36914
+    },
+    {
+      "text": "06.05.2020",
+      "label": "DATE",
+      "start_char": 36979,
+      "end_char": 36989
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 19968",
+      "label": "STATUTE",
+      "start_char": 37096,
+      "end_char": 37135
+    },
+    {
+      "text": "Section 138",
+      "label": "PROVISION",
+      "start_char": 37146,
+      "end_char": 37157
+    },
+    {
+      "text": "Negotiable Instruments Act, 1881",
+      "label": "STATUTE",
+      "start_char": 37165,
+      "end_char": 37197
+    },
+    {
+      "text": "15.03.2020",
+      "label": "DATE",
+      "start_char": 37236,
+      "end_char": 37246
+    },
+    {
+      "text": "15.03.2020",
+      "label": "DATE",
+      "start_char": 37332,
+      "end_char": 37342
+    },
+    {
+      "text": "15.03.2020",
+      "label": "DATE",
+      "start_char": 37363,
+      "end_char": 37373
+    },
+    {
+      "text": "10.07.2020",
+      "label": "DATE",
+      "start_char": 37507,
+      "end_char": 37517
+    },
+    {
+      "text": "Section 29-A",
+      "label": "PROVISION",
+      "start_char": 37635,
+      "end_char": 37647
+    },
+    {
+      "text": "23.03.2020",
+      "label": "DATE",
+      "start_char": 37822,
+      "end_char": 37832
+    },
+    {
+      "text": "06.05.2020",
+      "label": "DATE",
+      "start_char": 37837,
+      "end_char": 37847
+    },
+    {
+      "text": "Section 23(4)",
+      "label": "PROVISION",
+      "start_char": 37974,
+      "end_char": 37987
+    },
+    {
+      "text": "Section 23(4)",
+      "label": "PROVISION",
+      "start_char": 38225,
+      "end_char": 38238
+    },
+    {
+      "text": "Section 12-A",
+      "label": "PROVISION",
+      "start_char": 38354,
+      "end_char": 38366
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 38374,
+      "end_char": 38401
+    },
+    {
+      "text": "10.07.2020",
+      "label": "DATE",
+      "start_char": 38665,
+      "end_char": 38675
+    },
+    {
+      "text": "I.A. No. 49221/2020",
+      "label": "CASE_NUMBER",
+      "start_char": 38721,
+      "end_char": 38740
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 38761,
+      "end_char": 38799
+    },
+    {
+      "text": "Suo Moto Writ Petition (C) No. 3/2020",
+      "label": "PRECEDENT",
+      "start_char": 38820,
+      "end_char": 38857
+    },
+    {
+      "text": "23.03.2020",
+      "label": "DATE",
+      "start_char": 38878,
+      "end_char": 38888
+    },
+    {
+      "text": "06.05.2020",
+      "label": "DATE",
+      "start_char": 38893,
+      "end_char": 38903
+    },
+    {
+      "text": "Arbiration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 38968,
+      "end_char": 39005
+    },
+    {
+      "text": "15.03.2020",
+      "label": "DATE",
+      "start_char": 39031,
+      "end_char": 39041
+    },
+    {
+      "text": "Section 29A",
+      "label": "PROVISION",
+      "start_char": 39147,
+      "end_char": 39158
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 39166,
+      "end_char": 39204
+    },
+    {
+      "text": "Section 29A",
+      "label": "PROVISION",
+      "start_char": 39468,
+      "end_char": 39479
+    },
+    {
+      "text": "Section 23(4)",
+      "label": "PROVISION",
+      "start_char": 39508,
+      "end_char": 39521
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 39529,
+      "end_char": 39567
+    },
+    {
+      "text": "Section 23(4)",
+      "label": "PROVISION",
+      "start_char": 39781,
+      "end_char": 39794
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 39905,
+      "end_char": 39916
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 39924,
+      "end_char": 39951
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 39960,
+      "end_char": 39971
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 39979,
+      "end_char": 40006
+    },
+    {
+      "text": "08.03.2021",
+      "label": "DATE",
+      "start_char": 40717,
+      "end_char": 40727
+    },
+    {
+      "text": "15.03.2020",
+      "label": "DATE",
+      "start_char": 40893,
+      "end_char": 40903
+    },
+    {
+      "text": "14.03.2021",
+      "label": "DATE",
+      "start_char": 40907,
+      "end_char": 40917
+    },
+    {
+      "text": "08.03.2021",
+      "label": "DATE",
+      "start_char": 40936,
+      "end_char": 40946
+    },
+    {
+      "text": "23.03.2020",
+      "label": "DATE",
+      "start_char": 41360,
+      "end_char": 41370
+    },
+    {
+      "text": "15.03.2020",
+      "label": "DATE",
+      "start_char": 41510,
+      "end_char": 41520
+    },
+    {
+      "text": "23.03.2020",
+      "label": "DATE",
+      "start_char": 41558,
+      "end_char": 41568
+    },
+    {
+      "text": "23.03.2020",
+      "label": "DATE",
+      "start_char": 41891,
+      "end_char": 41901
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 42114,
+      "end_char": 42119
+    },
+    {
+      "text": "15.03.2020",
+      "label": "DATE",
+      "start_char": 42325,
+      "end_char": 42335
+    },
+    {
+      "text": "14.03.2021",
+      "label": "DATE",
+      "start_char": 42341,
+      "end_char": 42351
+    },
+    {
+      "text": "15.03.2020",
+      "label": "DATE",
+      "start_char": 42438,
+      "end_char": 42448
+    },
+    {
+      "text": "15.03.2021",
+      "label": "DATE",
+      "start_char": 42498,
+      "end_char": 42508
+    },
+    {
+      "text": "15.03.2020",
+      "label": "DATE",
+      "start_char": 42589,
+      "end_char": 42599
+    },
+    {
+      "text": "14.03.2021",
+      "label": "DATE",
+      "start_char": 42605,
+      "end_char": 42615
+    },
+    {
+      "text": "15.03.2021",
+      "label": "DATE",
+      "start_char": 42743,
+      "end_char": 42753
+    },
+    {
+      "text": "15.03.2021",
+      "label": "DATE",
+      "start_char": 42836,
+      "end_char": 42846
+    },
+    {
+      "text": "15.03.2020",
+      "label": "DATE",
+      "start_char": 42925,
+      "end_char": 42935
+    },
+    {
+      "text": "14.03.2021",
+      "label": "DATE",
+      "start_char": 42941,
+      "end_char": 42951
+    },
+    {
+      "text": "Sections 23 (4) and 29A",
+      "label": "PROVISION",
+      "start_char": 43020,
+      "end_char": 43043
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 43051,
+      "end_char": 43089
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 43091,
+      "end_char": 43102
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 43110,
+      "end_char": 43137
+    },
+    {
+      "text": "provisos (b) and (c) of Section 138",
+      "label": "PROVISION",
+      "start_char": 43142,
+      "end_char": 43177
+    },
+    {
+      "text": "Negotiable Instruments Act, 1881",
+      "label": "STATUTE",
+      "start_char": 43185,
+      "end_char": 43217
+    },
+    {
+      "text": "Government of India",
+      "label": "ORG",
+      "start_char": 43415,
+      "end_char": 43434
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 44178,
+      "end_char": 44191
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 44248,
+      "end_char": 44266
+    },
+    {
+      "text": "23.03.2020",
+      "label": "DATE",
+      "start_char": 44307,
+      "end_char": 44317
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 44368,
+      "end_char": 44373
+    },
+    {
+      "text": "Miscellaneous Application No. 665 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 44497,
+      "end_char": 44538
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 44542,
+      "end_char": 44560
+    },
+    {
+      "text": "27.04.2021",
+      "label": "DATE",
+      "start_char": 44597,
+      "end_char": 44607
+    },
+    {
+      "text": "23.03.2020",
+      "label": "DATE",
+      "start_char": 44843,
+      "end_char": 44853
+    },
+    {
+      "text": "08.03.2021",
+      "label": "DATE",
+      "start_char": 44906,
+      "end_char": 44916
+    },
+    {
+      "text": "14.03.2021",
+      "label": "DATE",
+      "start_char": 45213,
+      "end_char": 45223
+    },
+    {
+      "text": "27.04.2021",
+      "label": "DATE",
+      "start_char": 45310,
+      "end_char": 45320
+    },
+    {
+      "text": "Supreme Court Advocate on Record Association (SCAORA)",
+      "label": "COURT",
+      "start_char": 45437,
+      "end_char": 45490
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 45584,
+      "end_char": 45589
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 45690,
+      "end_char": 45703
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 45724,
+      "end_char": 45729
+    },
+    {
+      "text": "23 rd March, 2020",
+      "label": "DATE",
+      "start_char": 45776,
+      "end_char": 45793
+    },
+    {
+      "text": "Shivaji M. Jadhav",
+      "label": "OTHER_PERSON",
+      "start_char": 45834,
+      "end_char": 45851
+    },
+    {
+      "text": "SCAORA",
+      "label": "ORG",
+      "start_char": 45863,
+      "end_char": 45869
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 46124,
+      "end_char": 46129
+    },
+    {
+      "text": "23 rd March, 2020",
+      "label": "DATE",
+      "start_char": 46403,
+      "end_char": 46420
+    },
+    {
+      "text": "8 th March, 2021",
+      "label": "DATE",
+      "start_char": 46460,
+      "end_char": 46476
+    },
+    {
+      "text": "14 th March, 2021",
+      "label": "DATE",
+      "start_char": 46738,
+      "end_char": 46755
+    },
+    {
+      "text": "Sections 23 (4) and 29A",
+      "label": "PROVISION",
+      "start_char": 46844,
+      "end_char": 46867
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 46875,
+      "end_char": 46913
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 46915,
+      "end_char": 46926
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 46934,
+      "end_char": 46961
+    },
+    {
+      "text": "provisos (b) and (c) of Section 138",
+      "label": "PROVISION",
+      "start_char": 46966,
+      "end_char": 47001
+    },
+    {
+      "text": "Negotiable Instruments Act, 1881",
+      "label": "STATUTE",
+      "start_char": 47009,
+      "end_char": 47041
+    },
+    {
+      "text": "Article 142",
+      "label": "PROVISION",
+      "start_char": 47289,
+      "end_char": 47300
+    },
+    {
+      "text": "Article 141",
+      "label": "PROVISION",
+      "start_char": 47311,
+      "end_char": 47322
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 47330,
+      "end_char": 47351
+    },
+    {
+      "text": "Article 141",
+      "label": "PROVISION",
+      "start_char": 47409,
+      "end_char": 47420
+    },
+    {
+      "text": "19th July, 2021",
+      "label": "DATE",
+      "start_char": 47745,
+      "end_char": 47760
+    },
+    {
+      "text": "27.04.2021",
+      "label": "DATE",
+      "start_char": 47795,
+      "end_char": 47805
+    },
+    {
+      "text": "08.03.2021",
+      "label": "DATE",
+      "start_char": 48020,
+      "end_char": 48030
+    },
+    {
+      "text": "23.09.2021",
+      "label": "DATE",
+      "start_char": 48079,
+      "end_char": 48089
+    },
+    {
+      "text": "MA No.665 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 48105,
+      "end_char": 48122
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 48283,
+      "end_char": 48288
+    },
+    {
+      "text": "23.09.2021",
+      "label": "DATE",
+      "start_char": 48382,
+      "end_char": 48392
+    },
+    {
+      "text": "M.A. No.665 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 48474,
+      "end_char": 48493
+    },
+    {
+      "text": "15.03.2020",
+      "label": "DATE",
+      "start_char": 48633,
+      "end_char": 48643
+    },
+    {
+      "text": "02.10.2021",
+      "label": "DATE",
+      "start_char": 48649,
+      "end_char": 48659
+    },
+    {
+      "text": "15.03.2020",
+      "label": "DATE",
+      "start_char": 48745,
+      "end_char": 48755
+    },
+    {
+      "text": "03.10.2021",
+      "label": "DATE",
+      "start_char": 48805,
+      "end_char": 48815
+    },
+    {
+      "text": "15.03.2020",
+      "label": "DATE",
+      "start_char": 48897,
+      "end_char": 48907
+    },
+    {
+      "text": "02.10.2021",
+      "label": "DATE",
+      "start_char": 48913,
+      "end_char": 48923
+    },
+    {
+      "text": "03.10.2021",
+      "label": "DATE",
+      "start_char": 49051,
+      "end_char": 49061
+    },
+    {
+      "text": "03.10.2021",
+      "label": "DATE",
+      "start_char": 49144,
+      "end_char": 49154
+    },
+    {
+      "text": "15.03.2020",
+      "label": "DATE",
+      "start_char": 49234,
+      "end_char": 49244
+    },
+    {
+      "text": "02.10.2021",
+      "label": "DATE",
+      "start_char": 49250,
+      "end_char": 49260
+    },
+    {
+      "text": "Sections 23 (4) and 29A",
+      "label": "PROVISION",
+      "start_char": 49329,
+      "end_char": 49352
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 49360,
+      "end_char": 49398
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 49400,
+      "end_char": 49411
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 49419,
+      "end_char": 49446
+    },
+    {
+      "text": "provisos (b) and (c) of Section 138",
+      "label": "PROVISION",
+      "start_char": 49451,
+      "end_char": 49486
+    },
+    {
+      "text": "Negotiable Instruments Act, 1881",
+      "label": "STATUTE",
+      "start_char": 49494,
+      "end_char": 49526
+    },
+    {
+      "text": "Government of India",
+      "label": "ORG",
+      "start_char": 49725,
+      "end_char": 49744
+    },
+    {
+      "text": "05.04.2021",
+      "label": "DATE",
+      "start_char": 50206,
+      "end_char": 50216
+    },
+    {
+      "text": "High Court of Chhattisgarh",
+      "label": "COURT",
+      "start_char": 50231,
+      "end_char": 50257
+    },
+    {
+      "text": "Chhattisgarh",
+      "label": "GPE",
+      "start_char": 50394,
+      "end_char": 50406
+    },
+    {
+      "text": "05.04.2021",
+      "label": "DATE",
+      "start_char": 50601,
+      "end_char": 50611
+    },
+    {
+      "text": "HIGH COURT OF CHHATTISGARH, BILASPUR",
+      "label": "COURT",
+      "start_char": 50649,
+      "end_char": 50685
+    },
+    {
+      "text": "11-14-1/2021",
+      "label": "DATE",
+      "start_char": 50708,
+      "end_char": 50720
+    },
+    {
+      "text": "05th April, 2021",
+      "label": "DATE",
+      "start_char": 50737,
+      "end_char": 50753
+    },
+    {
+      "text": "High Court of Chhattisgarh",
+      "label": "COURT",
+      "start_char": 50762,
+      "end_char": 50788
+    },
+    {
+      "text": "Chhattisgarh",
+      "label": "GPE",
+      "start_char": 51015,
+      "end_char": 51027
+    },
+    {
+      "text": "06.04.2021:-",
+      "label": "DATE",
+      "start_char": 51292,
+      "end_char": 51304
+    },
+    {
+      "text": "Durg",
+      "label": "GPE",
+      "start_char": 51353,
+      "end_char": 51357
+    },
+    {
+      "text": "Raipur",
+      "label": "GPE",
+      "start_char": 51359,
+      "end_char": 51365
+    },
+    {
+      "text": "Bilaspur",
+      "label": "GPE",
+      "start_char": 51368,
+      "end_char": 51376
+    },
+    {
+      "text": "Courts of Higher Judicial Service (HJS) Level and",
+      "label": "COURT",
+      "start_char": 51387,
+      "end_char": 51436
+    },
+    {
+      "text": "Courts of Lower Judicial Service (LJS) Level",
+      "label": "COURT",
+      "start_char": 51447,
+      "end_char": 51491
+    },
+    {
+      "text": "Section 125",
+      "label": "PROVISION",
+      "start_char": 52455,
+      "end_char": 52466
+    },
+    {
+      "text": "Cr",
+      "label": "STATUTE",
+      "start_char": 52474,
+      "end_char": 52476
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 52548,
+      "end_char": 52561
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 54106,
+      "end_char": 54119
+    },
+    {
+      "text": "Central Govt",
+      "label": "ORG",
+      "start_char": 54133,
+      "end_char": 54145
+    },
+    {
+      "text": "05.04.21",
+      "label": "DATE",
+      "start_char": 54753,
+      "end_char": 54761
+    },
+    {
+      "text": "Sanjay Kumar Jaiswal",
+      "label": "OTHER_PERSON",
+      "start_char": 54763,
+      "end_char": 54783
+    },
+    {
+      "text": "Bilaspur",
+      "label": "OTHER_PERSON",
+      "start_char": 54808,
+      "end_char": 54816
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 55089,
+      "end_char": 55116
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 55143,
+      "end_char": 55153
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 55215,
+      "end_char": 55218
+    },
+    {
+      "text": "Order V Rule 1, Order VIII Rule 1 and Order VIII Rule 10",
+      "label": "PROVISION",
+      "start_char": 55358,
+      "end_char": 55414
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 55415,
+      "end_char": 55418
+    },
+    {
+      "text": "SCG Contracts",
+      "label": "PRECEDENT",
+      "start_char": 56561,
+      "end_char": 56574
+    },
+    {
+      "text": "Order VII Rule 11",
+      "label": "PROVISION",
+      "start_char": 56715,
+      "end_char": 56732
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 56733,
+      "end_char": 56736
+    },
+    {
+      "text": "Order V Rule 1(1), Order VIII Rule 1 and Order VIII Rule 10",
+      "label": "PROVISION",
+      "start_char": 57199,
+      "end_char": 57258
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 57259,
+      "end_char": 57262
+    },
+    {
+      "text": "Order VIII Rule 10",
+      "label": "PROVISION",
+      "start_char": 57968,
+      "end_char": 57986
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 58214,
+      "end_char": 58225
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 58226,
+      "end_char": 58229
+    },
+    {
+      "text": "Order V",
+      "label": "PROVISION",
+      "start_char": 58320,
+      "end_char": 58327
+    },
+    {
+      "text": "Order VIII Rule 1 and Rule 10",
+      "label": "PROVISION",
+      "start_char": 58338,
+      "end_char": 58367
+    },
+    {
+      "text": "section 151",
+      "label": "PROVISION",
+      "start_char": 58431,
+      "end_char": 58442
+    },
+    {
+      "text": "06.05.2021",
+      "label": "DATE",
+      "start_char": 58687,
+      "end_char": 58697
+    },
+    {
+      "text": "06.05.2021",
+      "label": "DATE",
+      "start_char": 58860,
+      "end_char": 58870
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 59147,
+      "end_char": 59150
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 59893,
+      "end_char": 59911
+    },
+    {
+      "text": "23.03.2020",
+      "label": "DATE",
+      "start_char": 61642,
+      "end_char": 61652
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 61656,
+      "end_char": 61674
+    },
+    {
+      "text": "23.03.2020",
+      "label": "DATE",
+      "start_char": 61720,
+      "end_char": 61730
+    },
+    {
+      "text": "15.03.2020",
+      "label": "DATE",
+      "start_char": 62107,
+      "end_char": 62117
+    },
+    {
+      "text": "Article 142",
+      "label": "PROVISION",
+      "start_char": 62212,
+      "end_char": 62223
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 62231,
+      "end_char": 62252
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 62379,
+      "end_char": 62382
+    },
+    {
+      "text": "23.03.2020",
+      "label": "DATE",
+      "start_char": 62461,
+      "end_char": 62471
+    },
+    {
+      "text": "15.03.2020",
+      "label": "DATE",
+      "start_char": 62620,
+      "end_char": 62630
+    },
+    {
+      "text": "06.05.2020",
+      "label": "DATE",
+      "start_char": 62672,
+      "end_char": 62682
+    },
+    {
+      "text": "15.03.2020",
+      "label": "DATE",
+      "start_char": 62882,
+      "end_char": 62892
+    },
+    {
+      "text": "15.03.2020",
+      "label": "DATE",
+      "start_char": 63043,
+      "end_char": 63053
+    },
+    {
+      "text": "15.03.2020",
+      "label": "DATE",
+      "start_char": 63074,
+      "end_char": 63084
+    },
+    {
+      "text": "10.07.2020",
+      "label": "DATE",
+      "start_char": 63224,
+      "end_char": 63234
+    },
+    {
+      "text": "Section 29-A and Section 23(4)",
+      "label": "PROVISION",
+      "start_char": 63321,
+      "end_char": 63351
+    },
+    {
+      "text": "Section 23(4)",
+      "label": "PROVISION",
+      "start_char": 63387,
+      "end_char": 63400
+    },
+    {
+      "text": "Section 12-A",
+      "label": "PROVISION",
+      "start_char": 63644,
+      "end_char": 63656
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 63664,
+      "end_char": 63691
+    },
+    {
+      "text": "08.03.2021",
+      "label": "DATE",
+      "start_char": 63762,
+      "end_char": 63772
+    },
+    {
+      "text": "15.03.2020",
+      "label": "DATE",
+      "start_char": 64096,
+      "end_char": 64106
+    },
+    {
+      "text": "14.03.2021",
+      "label": "DATE",
+      "start_char": 64110,
+      "end_char": 64120
+    },
+    {
+      "text": "08.03.2021",
+      "label": "DATE",
+      "start_char": 64171,
+      "end_char": 64181
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 64533,
+      "end_char": 64551
+    },
+    {
+      "text": "MA No. 665 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 64555,
+      "end_char": 64573
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 64591,
+      "end_char": 64604
+    },
+    {
+      "text": "27.04.2021",
+      "label": "DATE",
+      "start_char": 64670,
+      "end_char": 64680
+    },
+    {
+      "text": "27.04.2021",
+      "label": "DATE",
+      "start_char": 64821,
+      "end_char": 64831
+    },
+    {
+      "text": "High Court of Chhattisgarh",
+      "label": "COURT",
+      "start_char": 64936,
+      "end_char": 64962
+    },
+    {
+      "text": "05.04.2021",
+      "label": "DATE",
+      "start_char": 65038,
+      "end_char": 65048
+    },
+    {
+      "text": "27.04.2021",
+      "label": "DATE",
+      "start_char": 65315,
+      "end_char": 65325
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 65343,
+      "end_char": 65361
+    },
+    {
+      "text": "27.04.2021",
+      "label": "DATE",
+      "start_char": 65566,
+      "end_char": 65576
+    },
+    {
+      "text": "23.03.2020",
+      "label": "DATE",
+      "start_char": 65614,
+      "end_char": 65624
+    },
+    {
+      "text": "08.03.2021",
+      "label": "DATE",
+      "start_char": 65681,
+      "end_char": 65691
+    },
+    {
+      "text": "MA No. 665 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 65900,
+      "end_char": 65918
+    },
+    {
+      "text": "23.09.2021",
+      "label": "DATE",
+      "start_char": 65938,
+      "end_char": 65948
+    },
+    {
+      "text": "08.03.2021",
+      "label": "DATE",
+      "start_char": 66030,
+      "end_char": 66040
+    },
+    {
+      "text": "15.03.2020",
+      "label": "DATE",
+      "start_char": 66169,
+      "end_char": 66179
+    },
+    {
+      "text": "02.10.2021",
+      "label": "DATE",
+      "start_char": 66185,
+      "end_char": 66195
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 66550,
+      "end_char": 66568
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 66803,
+      "end_char": 66821
+    },
+    {
+      "text": "23.03.2020",
+      "label": "DATE",
+      "start_char": 66884,
+      "end_char": 66894
+    },
+    {
+      "text": "15.03.2020",
+      "label": "DATE",
+      "start_char": 67088,
+      "end_char": 67098
+    },
+    {
+      "text": "23.09.2021",
+      "label": "DATE",
+      "start_char": 67135,
+      "end_char": 67145
+    },
+    {
+      "text": "15.03.2020",
+      "label": "DATE",
+      "start_char": 67213,
+      "end_char": 67223
+    },
+    {
+      "text": "02.10.2021",
+      "label": "DATE",
+      "start_char": 67229,
+      "end_char": 67239
+    },
+    {
+      "text": "Limitation Act, 1963",
+      "label": "STATUTE",
+      "start_char": 67269,
+      "end_char": 67289
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 67587,
+      "end_char": 67605
+    },
+    {
+      "text": "10.01.2022",
+      "label": "DATE",
+      "start_char": 67671,
+      "end_char": 67681
+    },
+    {
+      "text": "23.03.2020",
+      "label": "DATE",
+      "start_char": 67735,
+      "end_char": 67745
+    },
+    {
+      "text": "15.03.2020",
+      "label": "DATE",
+      "start_char": 67832,
+      "end_char": 67842
+    },
+    {
+      "text": "28.02.2022",
+      "label": "DATE",
+      "start_char": 67848,
+      "end_char": 67858
+    },
+    {
+      "text": "SMWP No.3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 68062,
+      "end_char": 68079
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 68250,
+      "end_char": 68259
+    },
+    {
+      "text": "Sections 12 to 15",
+      "label": "PROVISION",
+      "start_char": 68324,
+      "end_char": 68341
+    },
+    {
+      "text": "Article 142",
+      "label": "PROVISION",
+      "start_char": 68953,
+      "end_char": 68964
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 68972,
+      "end_char": 68993
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 69043,
+      "end_char": 69061
+    },
+    {
+      "text": "23.09.2021",
+      "label": "DATE",
+      "start_char": 69143,
+      "end_char": 69153
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 69367,
+      "end_char": 69385
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 69546,
+      "end_char": 69556
+    },
+    {
+      "text": "Limitation Act, 1963",
+      "label": "STATUTE",
+      "start_char": 69564,
+      "end_char": 69584
+    },
+    {
+      "text": "23.03.2020",
+      "label": "DATE",
+      "start_char": 69644,
+      "end_char": 69654
+    },
+    {
+      "text": "06.05.2020",
+      "label": "DATE",
+      "start_char": 69656,
+      "end_char": 69666
+    },
+    {
+      "text": "10.07.2020",
+      "label": "DATE",
+      "start_char": 69668,
+      "end_char": 69678
+    },
+    {
+      "text": "27.04.2021",
+      "label": "DATE",
+      "start_char": 69680,
+      "end_char": 69690
+    },
+    {
+      "text": "23.09.2021",
+      "label": "DATE",
+      "start_char": 69695,
+      "end_char": 69705
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 69709,
+      "end_char": 69727
+    },
+    {
+      "text": "15.03.2020",
+      "label": "DATE",
+      "start_char": 70246,
+      "end_char": 70256
+    },
+    {
+      "text": "02.10.2021",
+      "label": "DATE",
+      "start_char": 70260,
+      "end_char": 70270
+    },
+    {
+      "text": "03.10.2021",
+      "label": "DATE",
+      "start_char": 70313,
+      "end_char": 70323
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 70502,
+      "end_char": 70520
+    },
+    {
+      "text": "06.05.2021",
+      "label": "DATE",
+      "start_char": 70671,
+      "end_char": 70681
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 70761,
+      "end_char": 70779
+    },
+    {
+      "text": "08.03.2021",
+      "label": "DATE",
+      "start_char": 70844,
+      "end_char": 70854
+    },
+    {
+      "text": "23.09.2021",
+      "label": "DATE",
+      "start_char": 70859,
+      "end_char": 70869
+    },
+    {
+      "text": "SS Group Pvt",
+      "label": "ORG",
+      "start_char": 70925,
+      "end_char": 70937
+    },
+    {
+      "text": "17.12.2020",
+      "label": "DATE",
+      "start_char": 70964,
+      "end_char": 70974
+    },
+    {
+      "text": "Section 38(2)(a)",
+      "label": "PROVISION",
+      "start_char": 71002,
+      "end_char": 71018
+    },
+    {
+      "text": "Consumer Protection Act, 2019",
+      "label": "STATUTE",
+      "start_char": 71026,
+      "end_char": 71055
+    },
+    {
+      "text": "12.08.2020",
+      "label": "DATE",
+      "start_char": 71124,
+      "end_char": 71134
+    },
+    {
+      "text": "27.08.2020",
+      "label": "DATE",
+      "start_char": 71188,
+      "end_char": 71198
+    },
+    {
+      "text": "31.08.2020",
+      "label": "DATE",
+      "start_char": 71247,
+      "end_char": 71257
+    },
+    {
+      "text": "Constitution Bench",
+      "label": "COURT",
+      "start_char": 71315,
+      "end_char": 71333
+    },
+    {
+      "text": "New India Assurance Co. Ltd. v. Hill Multipurpose Cold Storage (P) Ltd.: (2020) 5 SCC 757",
+      "label": "PRECEDENT",
+      "start_char": 71372,
+      "end_char": 71461
+    },
+    {
+      "text": "Constitution Bench",
+      "label": "COURT",
+      "start_char": 71648,
+      "end_char": 71666
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 71723,
+      "end_char": 71741
+    },
+    {
+      "text": "12.08.2020",
+      "label": "DATE",
+      "start_char": 72032,
+      "end_char": 72042
+    },
+    {
+      "text": "27.08.2020",
+      "label": "DATE",
+      "start_char": 72089,
+      "end_char": 72099
+    },
+    {
+      "text": "23.03.2020",
+      "label": "DATE",
+      "start_char": 72142,
+      "end_char": 72152
+    },
+    {
+      "text": "SMW(C) No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 72177,
+      "end_char": 72197
+    },
+    {
+      "text": "23.03.2020",
+      "label": "DATE",
+      "start_char": 72441,
+      "end_char": 72451
+    },
+    {
+      "text": "S. Kasi",
+      "label": "PRECEDENT",
+      "start_char": 73082,
+      "end_char": 73089
+    },
+    {
+      "text": "Section 167(2)",
+      "label": "PROVISION",
+      "start_char": 73237,
+      "end_char": 73251
+    },
+    {
+      "text": "CrPC",
+      "label": "STATUTE",
+      "start_char": 73252,
+      "end_char": 73256
+    },
+    {
+      "text": "23.03.2020",
+      "label": "DATE",
+      "start_char": 73313,
+      "end_char": 73323
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 73327,
+      "end_char": 73345
+    },
+    {
+      "text": "Section 167(2)",
+      "label": "PROVISION",
+      "start_char": 73449,
+      "end_char": 73463
+    },
+    {
+      "text": "CrPC",
+      "label": "STATUTE",
+      "start_char": 73464,
+      "end_char": 73468
+    },
+    {
+      "text": "23.03.2020",
+      "label": "DATE",
+      "start_char": 74794,
+      "end_char": 74804
+    },
+    {
+      "text": "Section 167(2)",
+      "label": "PROVISION",
+      "start_char": 74926,
+      "end_char": 74940
+    },
+    {
+      "text": "Code of Criminal Procedure",
+      "label": "STATUTE",
+      "start_char": 74948,
+      "end_char": 74974
+    },
+    {
+      "text": "22.1.1",
+      "label": "DATE",
+      "start_char": 75393,
+      "end_char": 75399
+    },
+    {
+      "text": "23.03.2020",
+      "label": "DATE",
+      "start_char": 75543,
+      "end_char": 75553
+    },
+    {
+      "text": "Section 167",
+      "label": "PROVISION",
+      "start_char": 75591,
+      "end_char": 75602
+    },
+    {
+      "text": "CrPC",
+      "label": "STATUTE",
+      "start_char": 75603,
+      "end_char": 75607
+    },
+    {
+      "text": "Article 21",
+      "label": "PROVISION",
+      "start_char": 75913,
+      "end_char": 75923
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 75931,
+      "end_char": 75952
+    },
+    {
+      "text": "Sagufa Ahmed",
+      "label": "PRECEDENT",
+      "start_char": 76207,
+      "end_char": 76219
+    },
+    {
+      "text": "Guwahati",
+      "label": "GPE",
+      "start_char": 76373,
+      "end_char": 76381
+    },
+    {
+      "text": "National Company Law Tribunal",
+      "label": "COURT",
+      "start_char": 76395,
+      "end_char": 76424
+    },
+    {
+      "text": "25.10.2019",
+      "label": "DATE",
+      "start_char": 76497,
+      "end_char": 76507
+    },
+    {
+      "text": "25.10.2019",
+      "label": "DATE",
+      "start_char": 76572,
+      "end_char": 76582
+    },
+    {
+      "text": "21 or 22.11.2019 and",
+      "label": "DATE",
+      "start_char": 76591,
+      "end_char": 76611
+    },
+    {
+      "text": "19.12.2019",
+      "label": "DATE",
+      "start_char": 76678,
+      "end_char": 76688
+    },
+    {
+      "text": "National Company Law Appellate Tribunal",
+      "label": "COURT",
+      "start_char": 76752,
+      "end_char": 76791
+    },
+    {
+      "text": "20.07.2020",
+      "label": "DATE",
+      "start_char": 76800,
+      "end_char": 76810
+    },
+    {
+      "text": "19.12.2019",
+      "label": "DATE",
+      "start_char": 77124,
+      "end_char": 77134
+    },
+    {
+      "text": "02.02.2020",
+      "label": "DATE",
+      "start_char": 77169,
+      "end_char": 77179
+    },
+    {
+      "text": "18.03.2020",
+      "label": "DATE",
+      "start_char": 77291,
+      "end_char": 77301
+    },
+    {
+      "text": "23.03.2020",
+      "label": "DATE",
+      "start_char": 77385,
+      "end_char": 77395
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 77495,
+      "end_char": 77513
+    },
+    {
+      "text": "22.2.1",
+      "label": "DATE",
+      "start_char": 78416,
+      "end_char": 78422
+    },
+    {
+      "text": "Sagufa Ahmed",
+      "label": "OTHER_PERSON",
+      "start_char": 78496,
+      "end_char": 78508
+    },
+    {
+      "text": "08.03.2021",
+      "label": "DATE",
+      "start_char": 78605,
+      "end_char": 78615
+    },
+    {
+      "text": "27.09.2021",
+      "label": "DATE",
+      "start_char": 78620,
+      "end_char": 78630
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 78634,
+      "end_char": 78652
+    },
+    {
+      "text": "15.03.2020",
+      "label": "DATE",
+      "start_char": 78918,
+      "end_char": 78928
+    },
+    {
+      "text": "02.10.2021",
+      "label": "DATE",
+      "start_char": 78932,
+      "end_char": 78942
+    },
+    {
+      "text": "Sagufa Ahmed",
+      "label": "PRECEDENT",
+      "start_char": 79073,
+      "end_char": 79085
+    },
+    {
+      "text": "18.09.2020",
+      "label": "DATE",
+      "start_char": 79135,
+      "end_char": 79145
+    },
+    {
+      "text": "22.2.2",
+      "label": "DATE",
+      "start_char": 79148,
+      "end_char": 79154
+    },
+    {
+      "text": "Sagufa Ahmed",
+      "label": "PRECEDENT",
+      "start_char": 79203,
+      "end_char": 79215
+    },
+    {
+      "text": "18.03.2020",
+      "label": "DATE",
+      "start_char": 79234,
+      "end_char": 79244
+    },
+    {
+      "text": "24.03.2020",
+      "label": "DATE",
+      "start_char": 79301,
+      "end_char": 79311
+    },
+    {
+      "text": "18.03.2020",
+      "label": "DATE",
+      "start_char": 79374,
+      "end_char": 79384
+    },
+    {
+      "text": "06.05.2021",
+      "label": "DATE",
+      "start_char": 79496,
+      "end_char": 79506
+    },
+    {
+      "text": "22.2.3",
+      "label": "DATE",
+      "start_char": 79780,
+      "end_char": 79786
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 79874,
+      "end_char": 79892
+    },
+    {
+      "text": "MA No. 665 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 79898,
+      "end_char": 79916
+    },
+    {
+      "text": "Sagufa Ahmed",
+      "label": "OTHER_PERSON",
+      "start_char": 80038,
+      "end_char": 80050
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 80310,
+      "end_char": 80328
+    },
+    {
+      "text": "27.04.2021",
+      "label": "DATE",
+      "start_char": 80690,
+      "end_char": 80700
+    },
+    {
+      "text": "23.03.2020",
+      "label": "DATE",
+      "start_char": 80755,
+      "end_char": 80765
+    },
+    {
+      "text": "SMWP No. 3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 80769,
+      "end_char": 80787
+    },
+    {
+      "text": "15.04.2021",
+      "label": "DATE",
+      "start_char": 81401,
+      "end_char": 81411
+    },
+    {
+      "text": "Section 10",
+      "label": "PROVISION",
+      "start_char": 81586,
+      "end_char": 81596
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 81597,
+      "end_char": 81600
+    },
+    {
+      "text": "Order XXXVIII Rule 5",
+      "label": "PROVISION",
+      "start_char": 81728,
+      "end_char": 81748
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 81749,
+      "end_char": 81752
+    },
+    {
+      "text": "15.04.2021",
+      "label": "DATE",
+      "start_char": 81766,
+      "end_char": 81776
+    },
+    {
+      "text": "22.06.2021",
+      "label": "DATE",
+      "start_char": 81878,
+      "end_char": 81888
+    },
+    {
+      "text": "07.04.2021",
+      "label": "DATE",
+      "start_char": 81942,
+      "end_char": 81952
+    },
+    {
+      "text": "05.04.2021",
+      "label": "DATE",
+      "start_char": 82005,
+      "end_char": 82015
+    },
+    {
+      "text": "15.04.2021",
+      "label": "DATE",
+      "start_char": 82542,
+      "end_char": 82552
+    },
+    {
+      "text": "05.04.2021",
+      "label": "DATE",
+      "start_char": 82697,
+      "end_char": 82707
+    },
+    {
+      "text": "High Court of Chhattisgarh",
+      "label": "COURT",
+      "start_char": 82765,
+      "end_char": 82791
+    },
+    {
+      "text": "05.04.2021",
+      "label": "DATE",
+      "start_char": 83013,
+      "end_char": 83023
+    },
+    {
+      "text": "P. Ramanatha Aiyar",
+      "label": "OTHER_PERSON",
+      "start_char": 83225,
+      "end_char": 83243
+    },
+    {
+      "text": "Havens v. Stiles, 56 LRA 736",
+      "label": "PRECEDENT",
+      "start_char": 84089,
+      "end_char": 84117
+    },
+    {
+      "text": "State v. Ricketts, 74 N.C. 187, 193)” 11 5th Ed., Vol. 2, p. 1505",
+      "label": "PRECEDENT",
+      "start_char": 84522,
+      "end_char": 84587
+    },
+    {
+      "text": "Section 4",
+      "label": "PROVISION",
+      "start_char": 84729,
+      "end_char": 84738
+    },
+    {
+      "text": "Limitation Act, 1963",
+      "label": "STATUTE",
+      "start_char": 84746,
+      "end_char": 84766
+    },
+    {
+      "text": "25.2.1",
+      "label": "DATE",
+      "start_char": 85254,
+      "end_char": 85260
+    },
+    {
+      "text": "Section 4",
+      "label": "PROVISION",
+      "start_char": 85495,
+      "end_char": 85504
+    },
+    {
+      "text": "Limitation Act, 1963",
+      "label": "STATUTE",
+      "start_char": 85512,
+      "end_char": 85532
+    },
+    {
+      "text": "05.04.2021",
+      "label": "DATE",
+      "start_char": 85833,
+      "end_char": 85843
+    },
+    {
+      "text": "Raipur",
+      "label": "GPE",
+      "start_char": 85968,
+      "end_char": 85974
+    },
+    {
+      "text": "06.04.2021",
+      "label": "DATE",
+      "start_char": 86335,
+      "end_char": 86345
+    },
+    {
+      "text": "05.04.2021",
+      "label": "DATE",
+      "start_char": 86490,
+      "end_char": 86500
+    },
+    {
+      "text": "06.05.2021",
+      "label": "DATE",
+      "start_char": 86684,
+      "end_char": 86694
+    },
+    {
+      "text": "05.04.2021",
+      "label": "DATE",
+      "start_char": 86717,
+      "end_char": 86727
+    },
+    {
+      "text": "22.06.2021",
+      "label": "DATE",
+      "start_char": 86987,
+      "end_char": 86997
+    },
+    {
+      "text": "18.01.2021",
+      "label": "DATE",
+      "start_char": 87582,
+      "end_char": 87592
+    },
+    {
+      "text": "Section 10 read with Section 151",
+      "label": "PROVISION",
+      "start_char": 87635,
+      "end_char": 87667
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 87668,
+      "end_char": 87671
+    },
+    {
+      "text": "NCLT",
+      "label": "COURT",
+      "start_char": 87823,
+      "end_char": 87827
+    },
+    {
+      "text": "Order XXXVIII",
+      "label": "PROVISION",
+      "start_char": 87938,
+      "end_char": 87951
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 87952,
+      "end_char": 87955
+    },
+    {
+      "text": "15.03.2021",
+      "label": "DATE",
+      "start_char": 88056,
+      "end_char": 88066
+    },
+    {
+      "text": "15.04.2021",
+      "label": "DATE",
+      "start_char": 88108,
+      "end_char": 88118
+    },
+    {
+      "text": "15.04.2021",
+      "label": "DATE",
+      "start_char": 88164,
+      "end_char": 88174
+    },
+    {
+      "text": "22.06.2021",
+      "label": "DATE",
+      "start_char": 88240,
+      "end_char": 88250
+    },
+    {
+      "text": "22.06.2021",
+      "label": "DATE",
+      "start_char": 88332,
+      "end_char": 88342
+    },
+    {
+      "text": "09.07.2021",
+      "label": "DATE",
+      "start_char": 88545,
+      "end_char": 88555
+    },
+    {
+      "text": "Section 10",
+      "label": "PROVISION",
+      "start_char": 88637,
+      "end_char": 88647
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 88648,
+      "end_char": 88651
+    },
+    {
+      "text": "Section 10",
+      "label": "PROVISION",
+      "start_char": 88882,
+      "end_char": 88892
+    },
+    {
+      "text": "22.06.2021",
+      "label": "DATE",
+      "start_char": 89191,
+      "end_char": 89201
+    },
+    {
+      "text": "Section 10",
+      "label": "PROVISION",
+      "start_char": 89549,
+      "end_char": 89559
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 89560,
+      "end_char": 89563
+    },
+    {
+      "text": "Rule 1(1) of Order V, Rule 1 of Order VIII",
+      "label": "PROVISION",
+      "start_char": 89868,
+      "end_char": 89910
+    },
+    {
+      "text": "Rule 10 of Order VIII",
+      "label": "PROVISION",
+      "start_char": 89919,
+      "end_char": 89940
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 90460,
+      "end_char": 90463
+    },
+    {
+      "text": "Section 10",
+      "label": "PROVISION",
+      "start_char": 90478,
+      "end_char": 90488
+    },
+    {
+      "text": "22.06.2021",
+      "label": "DATE",
+      "start_char": 90786,
+      "end_char": 90796
+    },
+    {
+      "text": "09.07.2021",
+      "label": "DATE",
+      "start_char": 90846,
+      "end_char": 90856
+    },
+    {
+      "text": "22.06.2021",
+      "label": "DATE",
+      "start_char": 91267,
+      "end_char": 91277
+    },
+    {
+      "text": "Commercial Court (District Level), Nava Raipur, Chhattisgarh",
+      "label": "COURT",
+      "start_char": 91295,
+      "end_char": 91355
+    },
+    {
+      "text": "No. 01-B of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 91370,
+      "end_char": 91386
+    },
+    {
+      "text": "09.07.2021",
+      "label": "DATE",
+      "start_char": 91411,
+      "end_char": 91421
+    },
+    {
+      "text": "High Court of Chhattisgarh",
+      "label": "COURT",
+      "start_char": 91439,
+      "end_char": 91465
+    },
+    {
+      "text": "WP No. 312 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 91469,
+      "end_char": 91487
+    },
+    {
+      "text": "07.07.2021",
+      "label": "DATE",
+      "start_char": 91566,
+      "end_char": 91576
+    },
+    {
+      "text": "DINESH MAHESHWARI",
+      "label": "JUDGE",
+      "start_char": 91847,
+      "end_char": 91864
+    },
+    {
+      "text": "VIKRAM NATH",
+      "label": "JUDGE",
+      "start_char": 91882,
+      "end_char": 91893
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 91895,
+      "end_char": 91904
+    },
+    {
+      "text": "14th February, 2022",
+      "label": "DATE",
+      "start_char": 91913,
+      "end_char": 91932
+    }
+  ],
+  "precedent_clusters": {
+    "SCG Contracts (India) Private Limited v. K.S. Chamankar Infrastructure Private Limited and Ors.: (2019)": [
+      "Suo Motu Writ Petition (Civil) No. 3 of 20203",
+      "Suo Motu Writ Petition (Civil) No. 3 of 2020",
+      "Suo Motu Writ Petition (Civil) No. 3 of 2020",
+      "SCG Contracts (India) Private Limited v. K.S. Chamankar Infrastructure Private Limited and Ors.: (2019)",
+      "Ltd. v. Aaditiya J. Garg and Anr",
+      "S. Kasi v. State: Criminal Appeal No. 452 of 2020",
+      "Suo Motu Writ Petition (Civil) No. 3 of 2020",
+      "Suo Moto Writ Petition (C) No. 3/2020",
+      "SCG Contracts",
+      "S. Kasi"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Order VIII Rule 1",
+      "Code of Civil Procedure, 1908 1",
+      "Order VIII Rule 1",
+      "Code of Civil Procedure, 1908 1"
+    ],
+    [
+      "Order XXXVIII Rule 5 read with Section 151",
+      "CPC",
+      "Order XXXVIII Rule 5 read with Section 151",
+      "CPC"
+    ],
+    [
+      "Section 149",
+      "CPC",
+      "Section 149",
+      "CPC"
+    ],
+    [
+      "Order XXXVIII Rule 5 read with Section 151",
+      "CPC",
+      "Order XXXVIII Rule 5 read with Section 151",
+      "CPC"
+    ],
+    [
+      "Section 10 read with Section 151",
+      "CPC",
+      "Section 10 read with Section 151",
+      "CPC"
+    ],
+    [
+      "Rule 1 of Order VIII",
+      "CPC",
+      "Rule 1 of Order VIII",
+      "CPC"
+    ],
+    [
+      "Rule 1(1) of Order V",
+      "Commercial Courts Act, 2015",
+      "Rule 1(1) of Order V",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Order VIII Rule 1",
+      "CPC",
+      "Order VIII Rule 1",
+      "CPC"
+    ],
+    [
+      "Section 10",
+      "CPC",
+      "Section 10",
+      "CPC"
+    ],
+    [
+      "Order 8 Rule 1",
+      "CPC",
+      "Order 8 Rule 1",
+      "CPC"
+    ],
+    [
+      "Order 38 Rule 5",
+      "CPC",
+      "Order 38 Rule 5",
+      "CPC"
+    ],
+    [
+      "Section 10",
+      "CPC",
+      "Section 10",
+      "CPC"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Order XLIII",
+      "CPC",
+      "Order XLIII",
+      "CPC"
+    ],
+    [
+      "Section 10",
+      "CPC",
+      "Section 10",
+      "CPC"
+    ],
+    [
+      "Section167(2)",
+      "Code of Criminal Procedure, 1973",
+      "Section167(2)",
+      "Code of Criminal Procedure, 1973"
+    ],
+    [
+      "Article 21",
+      "Constitution of India",
+      "Article 21",
+      "Constitution of India"
+    ],
+    [
+      "Article 142",
+      "Constitution of India",
+      "Article 142",
+      "Constitution of India"
+    ],
+    [
+      "Article 141",
+      "Constitution of India",
+      "Article 141",
+      "Constitution of India"
+    ],
+    [
+      "Section 138",
+      "Negotiable Instruments Act, 1881",
+      "Section 138",
+      "Negotiable Instruments Act, 1881"
+    ],
+    [
+      "Section 12-A",
+      "Commercial Courts Act, 2015",
+      "Section 12-A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 29A",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 29A",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 23(4)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 23(4)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 12A",
+      "Commercial Courts Act, 2015",
+      "Section 12A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 12A",
+      "Commercial Courts Act, 2015",
+      "Section 12A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Sections 23 (4) and 29A",
+      "Arbitration and Conciliation Act, 1996",
+      "Sections 23 (4) and 29A",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 12A",
+      "Commercial Courts Act, 2015",
+      "Section 12A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "provisos (b) and (c) of Section 138",
+      "Negotiable Instruments Act, 1881",
+      "provisos (b) and (c) of Section 138",
+      "Negotiable Instruments Act, 1881"
+    ],
+    [
+      "Sections 23 (4) and 29A",
+      "Arbitration and Conciliation Act, 1996",
+      "Sections 23 (4) and 29A",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 12A",
+      "Commercial Courts Act, 2015",
+      "Section 12A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "provisos (b) and (c) of Section 138",
+      "Negotiable Instruments Act, 1881",
+      "provisos (b) and (c) of Section 138",
+      "Negotiable Instruments Act, 1881"
+    ],
+    [
+      "Article 141",
+      "Constitution of India",
+      "Article 141",
+      "Constitution of India"
+    ],
+    [
+      "Sections 23 (4) and 29A",
+      "Arbitration and Conciliation Act, 1996",
+      "Sections 23 (4) and 29A",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 12A",
+      "Commercial Courts Act, 2015",
+      "Section 12A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "provisos (b) and (c) of Section 138",
+      "Negotiable Instruments Act, 1881",
+      "provisos (b) and (c) of Section 138",
+      "Negotiable Instruments Act, 1881"
+    ],
+    [
+      "Section 125",
+      "Cr",
+      "Section 125",
+      "Cr"
+    ],
+    [
+      "Section 16",
+      "CPC",
+      "Section 16",
+      "CPC"
+    ],
+    [
+      "Order V Rule 1, Order VIII Rule 1 and Order VIII Rule 10",
+      "CPC",
+      "Order V Rule 1, Order VIII Rule 1 and Order VIII Rule 10",
+      "CPC"
+    ],
+    [
+      "Order VII Rule 11",
+      "CPC",
+      "Order VII Rule 11",
+      "CPC"
+    ],
+    [
+      "Order V Rule 1(1), Order VIII Rule 1 and Order VIII Rule 10",
+      "CPC",
+      "Order V Rule 1(1), Order VIII Rule 1 and Order VIII Rule 10",
+      "CPC"
+    ],
+    [
+      "Section 151",
+      "CPC",
+      "Section 151",
+      "CPC"
+    ],
+    [
+      "Article 142",
+      "Constitution of India",
+      "Article 142",
+      "Constitution of India"
+    ],
+    [
+      "Section 12-A",
+      "Commercial Courts Act, 2015",
+      "Section 12-A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Article 142",
+      "Constitution of India",
+      "Article 142",
+      "Constitution of India"
+    ],
+    [
+      "Section 15",
+      "Limitation Act, 1963",
+      "Section 15",
+      "Limitation Act, 1963"
+    ],
+    [
+      "Section 38(2)(a)",
+      "Consumer Protection Act, 2019",
+      "Section 38(2)(a)",
+      "Consumer Protection Act, 2019"
+    ],
+    [
+      "Section 167(2)",
+      "CrPC",
+      "Section 167(2)",
+      "CrPC"
+    ],
+    [
+      "Section 167(2)",
+      "CrPC",
+      "Section 167(2)",
+      "CrPC"
+    ],
+    [
+      "Section 167(2)",
+      "Code of Criminal Procedure",
+      "Section 167(2)",
+      "Code of Criminal Procedure"
+    ],
+    [
+      "Section 167",
+      "CrPC",
+      "Section 167",
+      "CrPC"
+    ],
+    [
+      "Article 21",
+      "Constitution of India",
+      "Article 21",
+      "Constitution of India"
+    ],
+    [
+      "Section 10",
+      "CPC",
+      "Section 10",
+      "CPC"
+    ],
+    [
+      "Order XXXVIII Rule 5",
+      "CPC",
+      "Order XXXVIII Rule 5",
+      "CPC"
+    ],
+    [
+      "Section 4",
+      "Limitation Act, 1963",
+      "Section 4",
+      "Limitation Act, 1963"
+    ],
+    [
+      "Section 4",
+      "Limitation Act, 1963",
+      "Section 4",
+      "Limitation Act, 1963"
+    ],
+    [
+      "Section 10 read with Section 151",
+      "CPC",
+      "Section 10 read with Section 151",
+      "CPC"
+    ],
+    [
+      "Order XXXVIII",
+      "CPC",
+      "Order XXXVIII",
+      "CPC"
+    ],
+    [
+      "Section 10",
+      "CPC",
+      "Section 10",
+      "CPC"
+    ],
+    [
+      "Section 10",
+      "CPC",
+      "Section 10",
+      "CPC"
+    ],
+    [
+      "Section 12-A",
+      "Commercial Courts Act, 2015",
+      "Section 12-A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Order 38 Rule 5",
+      "CPC",
+      "Order 38 Rule 5",
+      "CPC"
+    ],
+    [
+      "Order VIII Rule 1",
+      "CPC",
+      "Order VIII Rule 1",
+      "CPC"
+    ],
+    [
+      "Section 12-A",
+      "Commercial Courts Act, 2015",
+      "Section 12-A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 167(2)",
+      "Code of Criminal Procedure, 1973",
+      "Section 167(2)",
+      "Code of Criminal Procedure, 1973"
+    ],
+    [
+      "Section 16",
+      "CPC",
+      "Section 16",
+      "CPC"
+    ],
+    [
+      "Section 12-A",
+      "Commercial Courts Act, 2015",
+      "Section 12-A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 12-A and Section 16",
+      "CPC",
+      "Section 12-A and Section 16",
+      "CPC"
+    ],
+    [
+      "Order V Rule 1(1), Order VIII Rule 1 and Order VIII Rule 10",
+      "CPC",
+      "Order V Rule 1(1), Order VIII Rule 1 and Order VIII Rule 10",
+      "CPC"
+    ],
+    [
+      "Order VIII Rule 1",
+      "CPC",
+      "Order VIII Rule 1",
+      "CPC"
+    ],
+    [
+      "rule 1",
+      "CPC",
+      "rule 1",
+      "CPC"
+    ],
+    [
+      "Article 142",
+      "Constitution of India",
+      "Article 142",
+      "Constitution of India"
+    ],
+    [
+      "Article 141",
+      "Constitution of India",
+      "Article 141",
+      "Constitution of India"
+    ],
+    [
+      "Section 23(4)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 23(4)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 23(4)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 23(4)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 29A",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 29A",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 23(4)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 23(4)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Article 142",
+      "Constitution of India",
+      "Article 142",
+      "Constitution of India"
+    ],
+    [
+      "Article 141",
+      "Constitution of India",
+      "Article 141",
+      "Constitution of India"
+    ],
+    [
+      "Order VIII Rule 10",
+      "CPC",
+      "Order VIII Rule 10",
+      "CPC"
+    ],
+    [
+      "Order V",
+      "Commercial Courts Act, 2015",
+      "Order V",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Order VIII Rule 1 and Rule 10",
+      "CPC",
+      "Order VIII Rule 1 and Rule 10",
+      "CPC"
+    ],
+    [
+      "section 151",
+      "CPC",
+      "section 151",
+      "CPC"
+    ],
+    [
+      "Section 29-A and Section 23(4)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 29-A and Section 23(4)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 23(4)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 23(4)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 10",
+      "CPC",
+      "Section 10",
+      "CPC"
+    ],
+    [
+      "Rule 1(1) of Order V, Rule 1 of Order VIII",
+      "CPC",
+      "Rule 1(1) of Order V, Rule 1 of Order VIII",
+      "CPC"
+    ],
+    [
+      "Rule 10 of Order VIII",
+      "CPC",
+      "Rule 10 of Order VIII",
+      "CPC"
+    ],
+    [
+      "Section 10",
+      "CPC",
+      "Section 10",
+      "CPC"
+    ],
+    [
+      "Section 9",
+      "Insolvency and Bankruptcy Code, 20164",
+      "Section 9",
+      "Insolvency and Bankruptcy Code, 20164"
+    ],
+    [
+      "Rule 1",
+      "CPC",
+      "Rule 1",
+      "CPC"
+    ],
+    [
+      "sub-rule (1)",
+      "CPC",
+      "sub-rule (1)",
+      "CPC"
+    ],
+    [
+      "Order VIII Rule 10 “10",
+      "CPC",
+      "Order VIII Rule 10 “10",
+      "CPC"
+    ],
+    [
+      "rule 1 or rule 9",
+      "CPC",
+      "rule 1 or rule 9",
+      "CPC"
+    ],
+    [
+      "Section 29-A",
+      "Negotiable Instruments Act, 1881",
+      "Section 29-A",
+      "Negotiable Instruments Act, 1881"
+    ],
+    [
+      "Section 5",
+      "Limitation Act, 1963",
+      "Section 5",
+      "Limitation Act, 1963"
+    ],
+    [
+      "Sections 12 to 15",
+      "Limitation Act, 1963",
+      "Sections 12 to 15",
+      "Limitation Act, 1963"
+    ]
+  ],
+  "precedent_counts": {
+    "SCG Contracts (India) Private Limited v. K.S. Chamankar Infrastructure Private Limited and Ors.: (2019)": 10
+  },
+  "provision_counts": {
+    "Order VIII Rule 1 of Code of Civil Procedure, 1908 1": 1,
+    "Order XXXVIII Rule 5 read with Section 151 of CPC": 2,
+    "Section 149 of CPC": 1,
+    "Section 10 read with Section 151 of CPC": 2,
+    "Rule 1 of Order VIII of CPC": 1,
+    "Rule 1(1) of Order V of Commercial Courts Act, 2015": 1,
+    "Order VIII Rule 1 of CPC": 3,
+    "Section 10 of CPC": 8,
+    "Order 8 Rule 1 of CPC": 1,
+    "Order 38 Rule 5 of CPC": 2,
+    "Article 227 of Constitution of India": 2,
+    "Order XLIII of CPC": 1,
+    "Section167(2) of Code of Criminal Procedure, 1973": 1,
+    "Article 21 of Constitution of India": 2,
+    "Article 142 of Constitution of India": 5,
+    "Article 141 of Constitution of India": 4,
+    "Section 138 of Negotiable Instruments Act, 1881": 1,
+    "Section 12-A of Commercial Courts Act, 2015": 5,
+    "Section 29A of Arbitration and Conciliation Act, 1996": 2,
+    "Section 23(4) of Arbitration and Conciliation Act, 1996": 5,
+    "Section 12A of Commercial Courts Act, 2015": 5,
+    "Sections 23 (4) and 29A of Arbitration and Conciliation Act, 1996": 3,
+    "provisos (b) and (c) of Section 138 of Negotiable Instruments Act, 1881": 3,
+    "Section 125 of Cr": 1,
+    "Section 16 of CPC": 2,
+    "Order V Rule 1, Order VIII Rule 1 and Order VIII Rule 10 of CPC": 1,
+    "Order VII Rule 11 of CPC": 1,
+    "Order V Rule 1(1), Order VIII Rule 1 and Order VIII Rule 10 of CPC": 2,
+    "Section 151 of CPC": 1,
+    "Section 15 of Limitation Act, 1963": 1,
+    "Section 38(2)(a) of Consumer Protection Act, 2019": 1,
+    "Section 167(2) of CrPC": 2,
+    "Section 167(2) of Code of Criminal Procedure": 1,
+    "Section 167 of CrPC": 1,
+    "Order XXXVIII Rule 5 of CPC": 1,
+    "Section 4 of Limitation Act, 1963": 2,
+    "Order XXXVIII of CPC": 1,
+    "Section 167(2) of Code of Criminal Procedure, 1973": 1,
+    "Section 12-A and Section 16 of CPC": 1,
+    "rule 1 of CPC": 1,
+    "Order VIII Rule 10 of CPC": 1,
+    "Order V of Commercial Courts Act, 2015": 1,
+    "Order VIII Rule 1 and Rule 10 of CPC": 1,
+    "section 151 of CPC": 1,
+    "Section 29-A and Section 23(4) of Arbitration and Conciliation Act, 1996": 1,
+    "Rule 1(1) of Order V, Rule 1 of Order VIII of CPC": 1,
+    "Rule 10 of Order VIII of CPC": 1,
+    "Section 9 of Insolvency and Bankruptcy Code, 20164": 1,
+    "Rule 1 of CPC": 1,
+    "sub-rule (1) of CPC": 1,
+    "Order VIII Rule 10 “10 of CPC": 1,
+    "rule 1 or rule 9 of CPC": 1,
+    "Section 29-A of Negotiable Instruments Act, 1881": 1,
+    "Section 5 of Limitation Act, 1963": 1,
+    "Sections 12 to 15 of Limitation Act, 1963": 1
+  },
+  "statute_counts": {
+    "Code of Civil Procedure, 1908 1": 1,
+    "CPC": 41,
+    "Commercial Courts Act, 2015": 12,
+    "Constitution of India": 13,
+    "Code of Criminal Procedure, 1973": 2,
+    "Negotiable Instruments Act, 1881": 5,
+    "Arbitration and Conciliation Act, 1996": 11,
+    "Cr": 1,
+    "Limitation Act, 1963": 5,
+    "Consumer Protection Act, 2019": 1,
+    "CrPC": 3,
+    "Code of Criminal Procedure": 1,
+    "Insolvency and Bankruptcy Code, 20164": 1
+  }
+}

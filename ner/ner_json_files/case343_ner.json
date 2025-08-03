@@ -1,0 +1,1694 @@
+{
+  "entities": [
+    {
+      "text": "Ane Industries Private Limited",
+      "label": "PETITIONER",
+      "start_char": 20,
+      "end_char": 50
+    },
+    {
+      "text": "J.K. Engineering Private Limited",
+      "label": "RESPONDENT",
+      "start_char": 54,
+      "end_char": 86
+    },
+    {
+      "text": "High Court At Calcutta",
+      "label": "COURT",
+      "start_char": 132,
+      "end_char": 154
+    },
+    {
+      "text": "Krishna Rao",
+      "label": "JUDGE",
+      "start_char": 286,
+      "end_char": 297
+    },
+    {
+      "text": "Ane Industries Private Limited",
+      "label": "PETITIONER",
+      "start_char": 629,
+      "end_char": 659
+    },
+    {
+      "text": "J.K. Engineering Private Limited",
+      "label": "RESPONDENT",
+      "start_char": 720,
+      "end_char": 752
+    },
+    {
+      "text": "J.K. Engineering Private Limited",
+      "label": "PETITIONER",
+      "start_char": 1005,
+      "end_char": 1037
+    },
+    {
+      "text": "Ane Industries Private Limited",
+      "label": "RESPONDENT",
+      "start_char": 1100,
+      "end_char": 1130
+    },
+    {
+      "text": "Jayanta Kumar Mitra",
+      "label": "LAWYER",
+      "start_char": 1149,
+      "end_char": 1168
+    },
+    {
+      "text": "Sabyasachi Choudhury",
+      "label": "LAWYER",
+      "start_char": 1194,
+      "end_char": 1214
+    },
+    {
+      "text": "Partha Sarathi Bhattacharya",
+      "label": "LAWYER",
+      "start_char": 1230,
+      "end_char": 1257
+    },
+    {
+      "text": "Soujya Roy",
+      "label": "LAWYER",
+      "start_char": 1273,
+      "end_char": 1283
+    },
+    {
+      "text": "Ishaan Saha",
+      "label": "LAWYER",
+      "start_char": 1419,
+      "end_char": 1430
+    },
+    {
+      "text": "Tanuj Kakrania",
+      "label": "LAWYER",
+      "start_char": 1447,
+      "end_char": 1461
+    },
+    {
+      "text": "Shiv Ratan Kakrania",
+      "label": "LAWYER",
+      "start_char": 1478,
+      "end_char": 1497
+    },
+    {
+      "text": "Karanjeet Sharma",
+      "label": "LAWYER",
+      "start_char": 1514,
+      "end_char": 1530
+    },
+    {
+      "text": "N. Das",
+      "label": "LAWYER",
+      "start_char": 1547,
+      "end_char": 1553
+    },
+    {
+      "text": "2nd March, 2023",
+      "label": "DATE",
+      "start_char": 1819,
+      "end_char": 1834
+    },
+    {
+      "text": "GA 4 of 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 1922,
+      "end_char": 1934
+    },
+    {
+      "text": "CS No. 213 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 1938,
+      "end_char": 1956
+    },
+    {
+      "text": "2nd March, 2023",
+      "label": "DATE",
+      "start_char": 1963,
+      "end_char": 1978
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 1993,
+      "end_char": 2020
+    },
+    {
+      "text": "31st December, 2015",
+      "label": "DATE",
+      "start_char": 2054,
+      "end_char": 2073
+    },
+    {
+      "text": "Calcutta",
+      "label": "GPE",
+      "start_char": 2119,
+      "end_char": 2127
+    },
+    {
+      "text": "20th March, 2020",
+      "label": "DATE",
+      "start_char": 2131,
+      "end_char": 2147
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 2169,
+      "end_char": 2179
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 2187,
+      "end_char": 2214
+    },
+    {
+      "text": "Jayanta Kumar Mitra",
+      "label": "LAWYER",
+      "start_char": 2314,
+      "end_char": 2333
+    },
+    {
+      "text": "Section 1 (3)",
+      "label": "PROVISION",
+      "start_char": 2408,
+      "end_char": 2421
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 2429,
+      "end_char": 2456
+    },
+    {
+      "text": "23rd October, 2015",
+      "label": "DATE",
+      "start_char": 2499,
+      "end_char": 2517
+    },
+    {
+      "text": "18th August, 2016",
+      "label": "DATE",
+      "start_char": 2559,
+      "end_char": 2576
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 2658,
+      "end_char": 2685
+    },
+    {
+      "text": "Mitra",
+      "label": "LAWYER",
+      "start_char": 2711,
+      "end_char": 2716
+    },
+    {
+      "text": "16th July, 2016",
+      "label": "DATE",
+      "start_char": 2781,
+      "end_char": 2796
+    },
+    {
+      "text": "18th August, 2016",
+      "label": "DATE",
+      "start_char": 2878,
+      "end_char": 2895
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 3070,
+      "end_char": 3097
+    },
+    {
+      "text": "Mitra",
+      "label": "LAWYER",
+      "start_char": 3123,
+      "end_char": 3128
+    },
+    {
+      "text": "20th March, 2020",
+      "label": "DATE",
+      "start_char": 3192,
+      "end_char": 3208
+    },
+    {
+      "text": "Section 3 (1A)",
+      "label": "PROVISION",
+      "start_char": 3310,
+      "end_char": 3324
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 3332,
+      "end_char": 3359
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 3401,
+      "end_char": 3420
+    },
+    {
+      "text": "Section 4",
+      "label": "PROVISION",
+      "start_char": 3457,
+      "end_char": 3466
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 3474,
+      "end_char": 3501
+    },
+    {
+      "text": "20th March, 2020",
+      "label": "DATE",
+      "start_char": 3542,
+      "end_char": 3558
+    },
+    {
+      "text": "Section 3 (1A)",
+      "label": "PROVISION",
+      "start_char": 3596,
+      "end_char": 3610
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 3618,
+      "end_char": 3645
+    },
+    {
+      "text": "23rd October, 2015",
+      "label": "DATE",
+      "start_char": 3755,
+      "end_char": 3773
+    },
+    {
+      "text": "Mitra",
+      "label": "LAWYER",
+      "start_char": 3783,
+      "end_char": 3788
+    },
+    {
+      "text": "20th March, 2020",
+      "label": "DATE",
+      "start_char": 3855,
+      "end_char": 3871
+    },
+    {
+      "text": "Commercial Division of Calcutta High Court",
+      "label": "COURT",
+      "start_char": 3935,
+      "end_char": 3977
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 4068,
+      "end_char": 4087
+    },
+    {
+      "text": "Mitra",
+      "label": "LAWYER",
+      "start_char": 4097,
+      "end_char": 4102
+    },
+    {
+      "text": "2nd March, 2023",
+      "label": "DATE",
+      "start_char": 4184,
+      "end_char": 4199
+    },
+    {
+      "text": "Mitra",
+      "label": "LAWYER",
+      "start_char": 4373,
+      "end_char": 4378
+    },
+    {
+      "text": "GA 4 of 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 4397,
+      "end_char": 4409
+    },
+    {
+      "text": "2nd March, 2023",
+      "label": "DATE",
+      "start_char": 4555,
+      "end_char": 4570
+    },
+    {
+      "text": "Mitra",
+      "label": "LAWYER",
+      "start_char": 4635,
+      "end_char": 4640
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 4834,
+      "end_char": 4861
+    },
+    {
+      "text": "Ishaan Saha",
+      "label": "LAWYER",
+      "start_char": 4883,
+      "end_char": 4894
+    },
+    {
+      "text": "Section 2 (1) (i)",
+      "label": "PROVISION",
+      "start_char": 4955,
+      "end_char": 4972
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 4980,
+      "end_char": 5007
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 5145,
+      "end_char": 5163
+    },
+    {
+      "text": "Section 3 (1A)",
+      "label": "PROVISION",
+      "start_char": 5193,
+      "end_char": 5207
+    },
+    {
+      "text": "Saha",
+      "label": "LAWYER",
+      "start_char": 5423,
+      "end_char": 5427
+    },
+    {
+      "text": "Section 3 (1A)",
+      "label": "PROVISION",
+      "start_char": 5555,
+      "end_char": 5569
+    },
+    {
+      "text": "Saha",
+      "label": "LAWYER",
+      "start_char": 5750,
+      "end_char": 5754
+    },
+    {
+      "text": "Section 2 (1) (i) and Section 3 (1A)",
+      "label": "PROVISION",
+      "start_char": 5792,
+      "end_char": 5828
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 5836,
+      "end_char": 5863
+    },
+    {
+      "text": "20th March, 2020",
+      "label": "DATE",
+      "start_char": 6088,
+      "end_char": 6104
+    },
+    {
+      "text": "15th November, 2018",
+      "label": "DATE",
+      "start_char": 6158,
+      "end_char": 6177
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 6209,
+      "end_char": 6236
+    },
+    {
+      "text": "State of West Bengal",
+      "label": "ORG",
+      "start_char": 6429,
+      "end_char": 6449
+    },
+    {
+      "text": "15th November, 2018",
+      "label": "DATE",
+      "start_char": 6459,
+      "end_char": 6478
+    },
+    {
+      "text": "18th August, 2016",
+      "label": "DATE",
+      "start_char": 6520,
+      "end_char": 6537
+    },
+    {
+      "text": "State of West Bengal",
+      "label": "ORG",
+      "start_char": 6596,
+      "end_char": 6616
+    },
+    {
+      "text": "20th March, 2020",
+      "label": "DATE",
+      "start_char": 6687,
+      "end_char": 6703
+    },
+    {
+      "text": "Saha",
+      "label": "LAWYER",
+      "start_char": 6714,
+      "end_char": 6718
+    },
+    {
+      "text": "AIR 2021 Cal 190 (Laxmi Polyfab Private Limited -vs- Eden Realty Ventures Private Limited)",
+      "label": "PRECEDENT",
+      "start_char": 6801,
+      "end_char": 6891
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 6911,
+      "end_char": 6921
+    },
+    {
+      "text": "Saha",
+      "label": "LAWYER",
+      "start_char": 7607,
+      "end_char": 7611
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 7709,
+      "end_char": 7736
+    },
+    {
+      "text": "23rd October, 2015",
+      "label": "DATE",
+      "start_char": 7776,
+      "end_char": 7794
+    },
+    {
+      "text": "20th March, 2020",
+      "label": "DATE",
+      "start_char": 7999,
+      "end_char": 8015
+    },
+    {
+      "text": "18th August, 2016",
+      "label": "DATE",
+      "start_char": 8042,
+      "end_char": 8059
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 8227,
+      "end_char": 8237
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 8245,
+      "end_char": 8272
+    },
+    {
+      "text": "18th August, 2016",
+      "label": "DATE",
+      "start_char": 8520,
+      "end_char": 8537
+    },
+    {
+      "text": "GA 5 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 8781,
+      "end_char": 8793
+    },
+    {
+      "text": "CS No. 213 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 8810,
+      "end_char": 8828
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 8862,
+      "end_char": 8872
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 8880,
+      "end_char": 8907
+    },
+    {
+      "text": "2nd March, 2023",
+      "label": "DATE",
+      "start_char": 8987,
+      "end_char": 9002
+    },
+    {
+      "text": "August 18, 2016",
+      "label": "DATE",
+      "start_char": 9228,
+      "end_char": 9243
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 9249,
+      "end_char": 9276
+    },
+    {
+      "text": "31st December, 2015",
+      "label": "DATE",
+      "start_char": 9310,
+      "end_char": 9329
+    },
+    {
+      "text": "Calcutta",
+      "label": "GPE",
+      "start_char": 9376,
+      "end_char": 9384
+    },
+    {
+      "text": "20th March, 2020",
+      "label": "DATE",
+      "start_char": 9393,
+      "end_char": 9409
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 9428,
+      "end_char": 9438
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 9446,
+      "end_char": 9473
+    },
+    {
+      "text": "2nd March, 2023",
+      "label": "DATE",
+      "start_char": 9678,
+      "end_char": 9693
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 9755,
+      "end_char": 9782
+    },
+    {
+      "text": "31st December, 2015",
+      "label": "DATE",
+      "start_char": 9816,
+      "end_char": 9835
+    },
+    {
+      "text": "Calcutta",
+      "label": "GPE",
+      "start_char": 9880,
+      "end_char": 9888
+    },
+    {
+      "text": "20th March, 2020",
+      "label": "DATE",
+      "start_char": 9897,
+      "end_char": 9913
+    },
+    {
+      "text": "Calcutta",
+      "label": "GPE",
+      "start_char": 10039,
+      "end_char": 10047
+    },
+    {
+      "text": "18th August, 2016",
+      "label": "DATE",
+      "start_char": 10087,
+      "end_char": 10104
+    },
+    {
+      "text": "16th July, 2016",
+      "label": "DATE",
+      "start_char": 10135,
+      "end_char": 10150
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 10188,
+      "end_char": 10197
+    },
+    {
+      "text": "Commercial Appellate Division of Calcutta High Court",
+      "label": "COURT",
+      "start_char": 10349,
+      "end_char": 10401
+    },
+    {
+      "text": "Section 4",
+      "label": "PROVISION",
+      "start_char": 10614,
+      "end_char": 10623
+    },
+    {
+      "text": "16th July, 2016",
+      "label": "DATE",
+      "start_char": 10986,
+      "end_char": 11001
+    },
+    {
+      "text": "18th September, 2017",
+      "label": "DATE",
+      "start_char": 11060,
+      "end_char": 11080
+    },
+    {
+      "text": "12th March, 2018",
+      "label": "DATE",
+      "start_char": 11138,
+      "end_char": 11154
+    },
+    {
+      "text": "20th March, 2020",
+      "label": "DATE",
+      "start_char": 11159,
+      "end_char": 11175
+    },
+    {
+      "text": "Government of West Bengal",
+      "label": "ORG",
+      "start_char": 11181,
+      "end_char": 11206
+    },
+    {
+      "text": "sub Section (1) of Section 3",
+      "label": "PROVISION",
+      "start_char": 11272,
+      "end_char": 11300
+    },
+    {
+      "text": "sub Section (1A) of Section 3",
+      "label": "PROVISION",
+      "start_char": 11308,
+      "end_char": 11337
+    },
+    {
+      "text": "sub Section (2) of Section 3",
+      "label": "PROVISION",
+      "start_char": 11348,
+      "end_char": 11376
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 11384,
+      "end_char": 11411
+    },
+    {
+      "text": "Sub Section (1A) of Section 3",
+      "label": "PROVISION",
+      "start_char": 11439,
+      "end_char": 11468
+    },
+    {
+      "text": "Section 2 (i)",
+      "label": "PROVISION",
+      "start_char": 11603,
+      "end_char": 11616
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 11845,
+      "end_char": 11855
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 11960,
+      "end_char": 11978
+    },
+    {
+      "text": "3rd May, 2018",
+      "label": "DATE",
+      "start_char": 12010,
+      "end_char": 12023
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 12172,
+      "end_char": 12182
+    },
+    {
+      "text": "Sub-section (1), (2) and (3) of Section 15",
+      "label": "PROVISION",
+      "start_char": 12329,
+      "end_char": 12371
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 12710,
+      "end_char": 12720
+    },
+    {
+      "text": "Sections 6 and 7",
+      "label": "PROVISION",
+      "start_char": 12766,
+      "end_char": 12782
+    },
+    {
+      "text": "Sections 6 and 7",
+      "label": "PROVISION",
+      "start_char": 12808,
+      "end_char": 12824
+    },
+    {
+      "text": "sections 16 to 20",
+      "label": "PROVISION",
+      "start_char": 13445,
+      "end_char": 13462
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 13470,
+      "end_char": 13511
+    },
+    {
+      "text": "sub-section (4) of section 22",
+      "label": "PROVISION",
+      "start_char": 14175,
+      "end_char": 14204
+    },
+    {
+      "text": "Designs Act, 2000 (16 of 2000)",
+      "label": "STATUTE",
+      "start_char": 14212,
+      "end_char": 14242
+    },
+    {
+      "text": "section 104",
+      "label": "PROVISION",
+      "start_char": 14246,
+      "end_char": 14257
+    },
+    {
+      "text": "Patents Act, 1970 (39 of 1970)",
+      "label": "STATUTE",
+      "start_char": 14265,
+      "end_char": 14295
+    },
+    {
+      "text": "Sections 6 and 7",
+      "label": "PROVISION",
+      "start_char": 14469,
+      "end_char": 14485
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 14693,
+      "end_char": 14702
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 14966,
+      "end_char": 14975
+    },
+    {
+      "text": "Laxmi Polypab Pvt. Ltd.",
+      "label": "ORG",
+      "start_char": 15056,
+      "end_char": 15079
+    },
+    {
+      "text": "Section 15(1)",
+      "label": "PROVISION",
+      "start_char": 15361,
+      "end_char": 15374
+    },
+    {
+      "text": "Section 15(1)",
+      "label": "PROVISION",
+      "start_char": 15602,
+      "end_char": 15615
+    },
+    {
+      "text": "Section 15(1)",
+      "label": "PROVISION",
+      "start_char": 15683,
+      "end_char": 15696
+    },
+    {
+      "text": "Section 15(1)",
+      "label": "PROVISION",
+      "start_char": 15788,
+      "end_char": 15801
+    },
+    {
+      "text": "Section 15(5)",
+      "label": "PROVISION",
+      "start_char": 15874,
+      "end_char": 15887
+    },
+    {
+      "text": "Section 15(1)",
+      "label": "PROVISION",
+      "start_char": 16023,
+      "end_char": 16036
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 16388,
+      "end_char": 16405
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 16413,
+      "end_char": 16442
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 16478,
+      "end_char": 16495
+    },
+    {
+      "text": "Code of Civil Procedure 1908",
+      "label": "STATUTE",
+      "start_char": 16503,
+      "end_char": 16531
+    },
+    {
+      "text": "Section 15(1)",
+      "label": "PROVISION",
+      "start_char": 16552,
+      "end_char": 16565
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 16813,
+      "end_char": 16830
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 16838,
+      "end_char": 16867
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 16921,
+      "end_char": 16938
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 16946,
+      "end_char": 16975
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 17436,
+      "end_char": 17453
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 17461,
+      "end_char": 17490
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 17706,
+      "end_char": 17717
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 17797,
+      "end_char": 17807
+    },
+    {
+      "text": "Order VII Rule 11",
+      "label": "PROVISION",
+      "start_char": 18231,
+      "end_char": 18248
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 18256,
+      "end_char": 18285
+    },
+    {
+      "text": "Modern Construction and company",
+      "label": "PRECEDENT",
+      "start_char": 18435,
+      "end_char": 18466
+    },
+    {
+      "text": "section 7",
+      "label": "PROVISION",
+      "start_char": 18815,
+      "end_char": 18824
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 18974,
+      "end_char": 18991
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (C)",
+      "label": "STATUTE",
+      "start_char": 18999,
+      "end_char": 19032
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 19051,
+      "end_char": 19068
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 19076,
+      "end_char": 19105
+    },
+    {
+      "text": "Section 12 A",
+      "label": "PROVISION",
+      "start_char": 19227,
+      "end_char": 19239
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 19297,
+      "end_char": 19314
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 19322,
+      "end_char": 19351
+    },
+    {
+      "text": "18th August, 2016",
+      "label": "DATE",
+      "start_char": 19487,
+      "end_char": 19504
+    },
+    {
+      "text": "16th July, 2016",
+      "label": "DATE",
+      "start_char": 19618,
+      "end_char": 19633
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 19666,
+      "end_char": 19685
+    },
+    {
+      "text": "20th March, 2020",
+      "label": "DATE",
+      "start_char": 19889,
+      "end_char": 19905
+    },
+    {
+      "text": "Government of West Bengal",
+      "label": "ORG",
+      "start_char": 19911,
+      "end_char": 19936
+    },
+    {
+      "text": "Calcutta",
+      "label": "GPE",
+      "start_char": 20077,
+      "end_char": 20085
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 20258,
+      "end_char": 20285
+    },
+    {
+      "text": "23rd October, 2015",
+      "label": "DATE",
+      "start_char": 20305,
+      "end_char": 20323
+    },
+    {
+      "text": "16th July 2016",
+      "label": "DATE",
+      "start_char": 20422,
+      "end_char": 20436
+    },
+    {
+      "text": "18.08.2016",
+      "label": "DATE",
+      "start_char": 20535,
+      "end_char": 20545
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 20579,
+      "end_char": 20606
+    },
+    {
+      "text": "December 21, 2018",
+      "label": "DATE",
+      "start_char": 20916,
+      "end_char": 20933
+    },
+    {
+      "text": "7th February 2019",
+      "label": "DATE",
+      "start_char": 21281,
+      "end_char": 21298
+    },
+    {
+      "text": "GA No. 2522 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 21344,
+      "end_char": 21363
+    },
+    {
+      "text": "7th February, 2019",
+      "label": "DATE",
+      "start_char": 21402,
+      "end_char": 21420
+    },
+    {
+      "text": "7th February, 2019",
+      "label": "DATE",
+      "start_char": 21506,
+      "end_char": 21524
+    },
+    {
+      "text": "7th February, 2019",
+      "label": "DATE",
+      "start_char": 21707,
+      "end_char": 21725
+    },
+    {
+      "text": "19th November, 2019",
+      "label": "DATE",
+      "start_char": 21880,
+      "end_char": 21899
+    },
+    {
+      "text": "7th February, 2019",
+      "label": "DATE",
+      "start_char": 21953,
+      "end_char": 21971
+    },
+    {
+      "text": "14th January, 2020",
+      "label": "DATE",
+      "start_char": 22052,
+      "end_char": 22070
+    },
+    {
+      "text": "G.A No. 4 of 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 22107,
+      "end_char": 22124
+    },
+    {
+      "text": "G.A No. 5 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 22129,
+      "end_char": 22146
+    },
+    {
+      "text": "2nd March, 2023",
+      "label": "DATE",
+      "start_char": 22165,
+      "end_char": 22180
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 22213,
+      "end_char": 22240
+    },
+    {
+      "text": "31st December, 2015",
+      "label": "DATE",
+      "start_char": 22263,
+      "end_char": 22282
+    },
+    {
+      "text": "23rd October, 2015",
+      "label": "DATE",
+      "start_char": 22294,
+      "end_char": 22312
+    },
+    {
+      "text": "Calcutta",
+      "label": "GPE",
+      "start_char": 22399,
+      "end_char": 22407
+    },
+    {
+      "text": "20th March, 2020",
+      "label": "DATE",
+      "start_char": 22411,
+      "end_char": 22427
+    },
+    {
+      "text": "16th July, 2016",
+      "label": "DATE",
+      "start_char": 22439,
+      "end_char": 22454
+    },
+    {
+      "text": "2nd March, 2023",
+      "label": "DATE",
+      "start_char": 22903,
+      "end_char": 22918
+    },
+    {
+      "text": "G.A No. 4 of 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 23068,
+      "end_char": 23085
+    },
+    {
+      "text": "G.A No. 5 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 23090,
+      "end_char": 23107
+    },
+    {
+      "text": "2nd March, 2023",
+      "label": "DATE",
+      "start_char": 23113,
+      "end_char": 23128
+    },
+    {
+      "text": "CS 213 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 23132,
+      "end_char": 23146
+    },
+    {
+      "text": "16th July, 2016",
+      "label": "DATE",
+      "start_char": 23301,
+      "end_char": 23316
+    },
+    {
+      "text": "18th August, 2016",
+      "label": "DATE",
+      "start_char": 23356,
+      "end_char": 23373
+    },
+    {
+      "text": "commercial Court at Calcutta",
+      "label": "COURT",
+      "start_char": 23413,
+      "end_char": 23441
+    },
+    {
+      "text": "20th March, 2020",
+      "label": "DATE",
+      "start_char": 23476,
+      "end_char": 23492
+    },
+    {
+      "text": "Section 3(1A)",
+      "label": "PROVISION",
+      "start_char": 23593,
+      "end_char": 23606
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 23614,
+      "end_char": 23641
+    },
+    {
+      "text": "Section 2(i)",
+      "label": "PROVISION",
+      "start_char": 23650,
+      "end_char": 23662
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 23670,
+      "end_char": 23697
+    },
+    {
+      "text": "20th March, 2020",
+      "label": "DATE",
+      "start_char": 23846,
+      "end_char": 23862
+    },
+    {
+      "text": "7th February, 2019",
+      "label": "DATE",
+      "start_char": 24627,
+      "end_char": 24645
+    },
+    {
+      "text": "7th February, 2019",
+      "label": "DATE",
+      "start_char": 25009,
+      "end_char": 25027
+    },
+    {
+      "text": "G.A No. 4 of 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 25095,
+      "end_char": 25112
+    },
+    {
+      "text": "CS 213 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 25116,
+      "end_char": 25130
+    },
+    {
+      "text": "G.A No. 5 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 25146,
+      "end_char": 25163
+    },
+    {
+      "text": "CS 213 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 25167,
+      "end_char": 25181
+    },
+    {
+      "text": "Krishna Rao",
+      "label": "JUDGE",
+      "start_char": 25203,
+      "end_char": 25214
+    }
+  ],
+  "precedent_clusters": {},
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 15",
+      "Commercial Courts Act, 2015",
+      "Section 15",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 1 (3)",
+      "Commercial Courts Act, 2015",
+      "Section 1 (3)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 3 (1A)",
+      "Commercial Courts Act, 2015",
+      "Section 3 (1A)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 4",
+      "Commercial Courts Act, 2015",
+      "Section 4",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 3 (1A)",
+      "Commercial Courts Act, 2015",
+      "Section 3 (1A)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 2 (1) (i)",
+      "Commercial Courts Act, 2015",
+      "Section 2 (1) (i)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 2 (1) (i) and Section 3 (1A)",
+      "Commercial Courts Act, 2015",
+      "Section 2 (1) (i) and Section 3 (1A)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 15",
+      "Commercial Courts Act, 2015",
+      "Section 15",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 15",
+      "Commercial Courts Act, 2015",
+      "Section 15",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 15",
+      "Commercial Courts Act, 2015",
+      "Section 15",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "sub Section (2) of Section 3",
+      "Commercial Courts Act, 2015",
+      "sub Section (2) of Section 3",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "sections 16 to 20",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "sections 16 to 20",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "sub-section (4) of section 22",
+      "Designs Act, 2000 (16 of 2000)",
+      "sub-section (4) of section 22",
+      "Designs Act, 2000 (16 of 2000)"
+    ],
+    [
+      "section 104",
+      "Patents Act, 1970 (39 of 1970)",
+      "section 104",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908",
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order VII Rule 10",
+      "Code of Civil Procedure 1908",
+      "Order VII Rule 10",
+      "Code of Civil Procedure 1908"
+    ],
+    [
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908",
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908",
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908",
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order VII Rule 11",
+      "Code of Civil Procedure, 1908",
+      "Order VII Rule 11",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908 (C)",
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908 (C)"
+    ],
+    [
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908",
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908",
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 3(1A)",
+      "Commercial Courts Act, 2015",
+      "Section 3(1A)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 2(i)",
+      "Commercial Courts Act, 2015",
+      "Section 2(i)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 3 (1A)",
+      "Commercial Courts Act, 2015",
+      "Section 3 (1A)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 3 (1A)",
+      "Commercial Courts Act, 2015",
+      "Section 3 (1A)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 15",
+      "Commercial Courts Act, 2015",
+      "Section 15",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 4",
+      "Commercial Courts Act, 2015",
+      "Section 4",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "sub Section (1) of Section 3",
+      "Commercial Courts Act, 2015",
+      "sub Section (1) of Section 3",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "sub Section (1A) of Section 3",
+      "Commercial Courts Act, 2015",
+      "sub Section (1A) of Section 3",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Sub Section (1A) of Section 3",
+      "Commercial Courts Act, 2015",
+      "Sub Section (1A) of Section 3",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 2 (i)",
+      "Commercial Courts Act, 2015",
+      "Section 2 (i)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 15",
+      "Commercial Courts Act, 2015",
+      "Section 15",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Sub-section (1), (2) and (3) of Section 15",
+      "Commercial Courts Act, 2015",
+      "Sub-section (1), (2) and (3) of Section 15",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 15",
+      "Commercial Courts Act, 2015",
+      "Section 15",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Sections 6 and 7",
+      "Commercial Courts Act, 2015",
+      "Sections 6 and 7",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Sections 6 and 7",
+      "Commercial Courts Act, 2015",
+      "Sections 6 and 7",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 7",
+      "Patents Act, 1970 (39 of 1970)",
+      "Section 7",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "Section 15(1)",
+      "Commercial Courts Act, 2015",
+      "Section 15(1)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 15(1)",
+      "Commercial Courts Act, 2015",
+      "Section 15(1)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 15(1)",
+      "Commercial Courts Act, 2015",
+      "Section 15(1)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 15(1)",
+      "Commercial Courts Act, 2015",
+      "Section 15(1)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 15(5)",
+      "Commercial Courts Act, 2015",
+      "Section 15(5)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 15(1)",
+      "Commercial Courts Act, 2015",
+      "Section 15(1)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 15(1)",
+      "Commercial Courts Act, 2015",
+      "Section 15(1)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 15",
+      "Commercial Courts Act, 2015",
+      "Section 15",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "section 7",
+      "Patents Act, 1970 (39 of 1970)",
+      "section 7",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "Section 5",
+      "Commercial Courts Act, 2015",
+      "Section 5",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 12",
+      "Commercial Courts Act, 2015",
+      "Section 12",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Sections 6 and 7",
+      "Commercial Courts Act, 2015",
+      "Sections 6 and 7",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 7",
+      "Patents Act, 1970 (39 of 1970)",
+      "Section 7",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "Section 12A",
+      "Code of Civil Procedure, 1908",
+      "Section 12A",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 12 A",
+      "Code of Civil Procedure, 1908",
+      "Section 12 A",
+      "Code of Civil Procedure, 1908"
+    ]
+  ],
+  "precedent_counts": {},
+  "provision_counts": {
+    "Section 15 of Commercial Courts Act, 2015": 8,
+    "Section 1 (3) of Commercial Courts Act, 2015": 1,
+    "Section 3 (1A) of Commercial Courts Act, 2015": 4,
+    "Section 4 of Commercial Courts Act, 2015": 2,
+    "Section 2 (1) (i) of Commercial Courts Act, 2015": 1,
+    "Section 2 (1) (i) and Section 3 (1A) of Commercial Courts Act, 2015": 1,
+    "sub Section (2) of Section 3 of Commercial Courts Act, 2015": 1,
+    "sections 16 to 20 of Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "sub-section (4) of section 22 of Designs Act, 2000 (16 of 2000)": 1,
+    "section 104 of Patents Act, 1970 (39 of 1970)": 1,
+    "Order VII Rule 10 of Code of Civil Procedure, 1908": 6,
+    "Order VII Rule 10 of Code of Civil Procedure 1908": 1,
+    "Order VII Rule 11 of Code of Civil Procedure, 1908": 1,
+    "Order VII Rule 10 of Code of Civil Procedure, 1908 (C)": 1,
+    "Section 3(1A) of Commercial Courts Act, 2015": 1,
+    "Section 2(i) of Commercial Courts Act, 2015": 1,
+    "sub Section (1) of Section 3 of Commercial Courts Act, 2015": 1,
+    "sub Section (1A) of Section 3 of Commercial Courts Act, 2015": 1,
+    "Sub Section (1A) of Section 3 of Commercial Courts Act, 2015": 1,
+    "Section 2 (i) of Commercial Courts Act, 2015": 1,
+    "Sub-section (1), (2) and (3) of Section 15 of Commercial Courts Act, 2015": 1,
+    "Sections 6 and 7 of Commercial Courts Act, 2015": 3,
+    "Section 7 of Patents Act, 1970 (39 of 1970)": 2,
+    "Section 15(1) of Commercial Courts Act, 2015": 6,
+    "Section 15(5) of Commercial Courts Act, 2015": 1,
+    "section 7 of Patents Act, 1970 (39 of 1970)": 1,
+    "Section 5 of Commercial Courts Act, 2015": 1,
+    "Section 12 of Commercial Courts Act, 2015": 1,
+    "Section 12A of Code of Civil Procedure, 1908": 1,
+    "Section 12 A of Code of Civil Procedure, 1908": 1
+  },
+  "statute_counts": {
+    "Commercial Courts Act, 2015": 37,
+    "Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Designs Act, 2000 (16 of 2000)": 1,
+    "Patents Act, 1970 (39 of 1970)": 4,
+    "Code of Civil Procedure, 1908": 9,
+    "Code of Civil Procedure 1908": 1,
+    "Code of Civil Procedure, 1908 (C)": 1
+  }
+}

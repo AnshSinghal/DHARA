@@ -1,0 +1,90 @@
+[project]
+name = "dhara-new"
+version = "0.1.0"
+description = "Legal RAG System with Rhetorical Role Labeling and NER"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    # Core utilities
+    "python-dotenv>=1.1.1",
+    "click>=8.1.7",
+    "tqdm>=4.66.5",
+    
+    # Web scraping and parsing
+    "beautifulsoup4>=4.13.4",
+    "selenium>=4.27.1",
+    
+    # Vector databases and search
+    "pinecone>=7.3.0",  # Updated to latest client
+    "chromadb>=0.5.23",        # Updated for better compatibility
+    
+    # PyTorch ecosystem (compatible versions)
+    "torch>=2.7.0",           # Latest stable
+    "torchvision>=0.22.0",   # Compatible with torch 2.7.x
+    "torchaudio>=2.7.0",      # Compatible with torch 2.7.x
+
+    # AI/ML libraries
+    "transformers>=4.46.0,<5.0.0",   # Latest stable
+    "sentence-transformers>=3.3.1",   # Updated for better performance
+    "datasets>=3.1.0",               # Updated for better features
+    "accelerate>=1.1.1",             # For GPU optimization
+    
+    # Vector similarity search (choose one based on deployment)
+    "faiss-cpu>=1.9.0",              # For CPU deployment
+    # "faiss-gpu>=1.8.0",            # Uncomment for GPU deployment (conflicts with faiss-cpu)
+    
+    # Search and ranking
+    "rank-bm25>=0.2.2",
+    
+    # Data processing and ML
+    "scikit-learn>=1.6.0",
+    "numpy>=1.26.0,<2.2.0",          # Compatible with all dependencies
+    "pandas>=2.2.3",                 # Latest stable
+    
+    # Data validation
+    "pydantic>=2.10.2",              # Latest stable
+    
+    # Web framework
+    "fastapi>=0.115.6",              # Latest stable
+    "uvicorn[standard]>=0.32.1",     # Latest with standard extras
+    
+    # Visualization
+    "matplotlib>=3.9.3",             # Latest stable
+    "seaborn>=0.13.2",               # Latest stable
+    
+    # Jupyter ecosystem
+    "jupyter>=1.1.1",                # Latest meta-package
+    "ipywidgets>=8.1.5",             # Latest stable
+    
+    # NLP processing
+    "nltk>=3.9.1",                   # Latest stable
+]
+
+
+[dependency-groups]
+
+# Development dependencies
+dev = [
+    "pytest>=8.3.4",                 # Latest stable testing framework
+    "pytest-asyncio>=0.24.0",        # For async test support
+    "pytest-cov>=6.0.0",             # Coverage reporting
+    "black>=24.10.0",                # Latest code formatter
+    "isort>=5.13.2",                 # Import sorting
+    "flake8>=7.1.1",                 # Linting
+    "mypy>=1.13.0",                  # Type checking
+    "pre-commit>=4.0.1",             # Git hooks
+    "ruff>=0.8.0",                   # Fast Python linter (alternative to flake8)
+]
+
+# Optional GPU dependencies
+gpu = [
+    "accelerate>=0.24.0",      # For GPU model optimization
+]
+
+[tool.uv]
+# UV specific configurations
+dev-dependencies = ["pytest", "black", "isort"]
+
+
+
+

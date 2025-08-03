@@ -1,0 +1,1500 @@
+{
+  "entities": [
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 19
+    },
+    {
+      "text": "Praxair India",
+      "label": "ORG",
+      "start_char": 20,
+      "end_char": 33
+    },
+    {
+      "text": "Steel Authority Of India Ltd",
+      "label": "RESPONDENT",
+      "start_char": 47,
+      "end_char": 75
+    },
+    {
+      "text": "22 February, 2024",
+      "label": "DATE",
+      "start_char": 79,
+      "end_char": 96
+    },
+    {
+      "text": "Moushumi Bhattacharya",
+      "label": "LAWYER",
+      "start_char": 105,
+      "end_char": 126
+    },
+    {
+      "text": "Moushumi Bhattacharya",
+      "label": "LAWYER",
+      "start_char": 134,
+      "end_char": 155
+    },
+    {
+      "text": "HIGH COURT AT CALCUTTA",
+      "label": "COURT",
+      "start_char": 184,
+      "end_char": 206
+    },
+    {
+      "text": "Moushumi Bhattacharya",
+      "label": "JUDGE",
+      "start_char": 384,
+      "end_char": 405
+    },
+    {
+      "text": "Praxair India Pvt",
+      "label": "PETITIONER",
+      "start_char": 486,
+      "end_char": 503
+    },
+    {
+      "text": "Steel Authority of India Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 579,
+      "end_char": 608
+    },
+    {
+      "text": "S.N. Mookherjee",
+      "label": "LAWYER",
+      "start_char": 645,
+      "end_char": 660
+    },
+    {
+      "text": "Ratnanko Banerjee",
+      "label": "OTHER_PERSON",
+      "start_char": 706,
+      "end_char": 723
+    },
+    {
+      "text": "Shatanshu Panda",
+      "label": "LAWYER",
+      "start_char": 769,
+      "end_char": 784
+    },
+    {
+      "text": "Dipendra Nath Chunder",
+      "label": "OTHER_PERSON",
+      "start_char": 826,
+      "end_char": 847
+    },
+    {
+      "text": "Urmila Chakraborty",
+      "label": "OTHER_PERSON",
+      "start_char": 889,
+      "end_char": 907
+    },
+    {
+      "text": "Shubrojyoti Mookherjee",
+      "label": "LAWYER",
+      "start_char": 949,
+      "end_char": 971
+    },
+    {
+      "text": "L.K. Gupta",
+      "label": "OTHER_PERSON",
+      "start_char": 1014,
+      "end_char": 1024
+    },
+    {
+      "text": "T.K. Banerjee",
+      "label": "OTHER_PERSON",
+      "start_char": 1070,
+      "end_char": 1083
+    },
+    {
+      "text": "Sauvik Nandy",
+      "label": "OTHER_PERSON",
+      "start_char": 1125,
+      "end_char": 1137
+    },
+    {
+      "text": "19.01.2024",
+      "label": "DATE",
+      "start_char": 1173,
+      "end_char": 1183
+    },
+    {
+      "text": "22.02.2024",
+      "label": "DATE",
+      "start_char": 1215,
+      "end_char": 1225
+    },
+    {
+      "text": "Moushumi Bhattacharya",
+      "label": "JUDGE",
+      "start_char": 1229,
+      "end_char": 1250
+    },
+    {
+      "text": "section 29A (4) and (5)",
+      "label": "PROVISION",
+      "start_char": 1350,
+      "end_char": 1373
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 1381,
+      "end_char": 1419
+    },
+    {
+      "text": "14.07.2023",
+      "label": "DATE",
+      "start_char": 1462,
+      "end_char": 1472
+    },
+    {
+      "text": "10.01.2024",
+      "label": "DATE",
+      "start_char": 1476,
+      "end_char": 1486
+    },
+    {
+      "text": "section 29A(3)",
+      "label": "PROVISION",
+      "start_char": 1861,
+      "end_char": 1875
+    },
+    {
+      "text": "14.07.2023",
+      "label": "DATE",
+      "start_char": 1896,
+      "end_char": 1906
+    },
+    {
+      "text": "section 29A(3)",
+      "label": "PROVISION",
+      "start_char": 1970,
+      "end_char": 1984
+    },
+    {
+      "text": "16.01.2023",
+      "label": "DATE",
+      "start_char": 2050,
+      "end_char": 2060
+    },
+    {
+      "text": "section 29A(3)",
+      "label": "PROVISION",
+      "start_char": 2128,
+      "end_char": 2142
+    },
+    {
+      "text": "1.05.2023",
+      "label": "DATE",
+      "start_char": 2201,
+      "end_char": 2210
+    },
+    {
+      "text": "District Judge, Asansol",
+      "label": "COURT",
+      "start_char": 2402,
+      "end_char": 2425
+    },
+    {
+      "text": "14.07.2023",
+      "label": "DATE",
+      "start_char": 2458,
+      "end_char": 2468
+    },
+    {
+      "text": "01.05.2023",
+      "label": "DATE",
+      "start_char": 2501,
+      "end_char": 2511
+    },
+    {
+      "text": "District Judge, Asansol",
+      "label": "COURT",
+      "start_char": 2521,
+      "end_char": 2544
+    },
+    {
+      "text": "18.11.2023",
+      "label": "DATE",
+      "start_char": 2622,
+      "end_char": 2632
+    },
+    {
+      "text": "Commercial Court at Asansol",
+      "label": "COURT",
+      "start_char": 2690,
+      "end_char": 2717
+    },
+    {
+      "text": "14.12.2023",
+      "label": "DATE",
+      "start_char": 2736,
+      "end_char": 2746
+    },
+    {
+      "text": "15.12.2023",
+      "label": "DATE",
+      "start_char": 2796,
+      "end_char": 2806
+    },
+    {
+      "text": "09.01.2024",
+      "label": "DATE",
+      "start_char": 2882,
+      "end_char": 2892
+    },
+    {
+      "text": "09.01.2024",
+      "label": "DATE",
+      "start_char": 2914,
+      "end_char": 2924
+    },
+    {
+      "text": "10.01.2024",
+      "label": "DATE",
+      "start_char": 2964,
+      "end_char": 2974
+    },
+    {
+      "text": "11.01.2024",
+      "label": "DATE",
+      "start_char": 3033,
+      "end_char": 3043
+    },
+    {
+      "text": "11.01.2024",
+      "label": "DATE",
+      "start_char": 3100,
+      "end_char": 3110
+    },
+    {
+      "text": "15.01.2024",
+      "label": "DATE",
+      "start_char": 3195,
+      "end_char": 3205
+    },
+    {
+      "text": "15.01.2024",
+      "label": "DATE",
+      "start_char": 3244,
+      "end_char": 3254
+    },
+    {
+      "text": "section 14",
+      "label": "PROVISION",
+      "start_char": 3315,
+      "end_char": 3325
+    },
+    {
+      "text": "Limitation Act, 1963",
+      "label": "STATUTE",
+      "start_char": 3333,
+      "end_char": 3353
+    },
+    {
+      "text": "section 5",
+      "label": "PROVISION",
+      "start_char": 3428,
+      "end_char": 3437
+    },
+    {
+      "text": "14.07.2023",
+      "label": "DATE",
+      "start_char": 3501,
+      "end_char": 3511
+    },
+    {
+      "text": "10.01.2024",
+      "label": "DATE",
+      "start_char": 3515,
+      "end_char": 3525
+    },
+    {
+      "text": "sections 5 and 14",
+      "label": "PROVISION",
+      "start_char": 3575,
+      "end_char": 3592
+    },
+    {
+      "text": "Limitation Act, 1963",
+      "label": "STATUTE",
+      "start_char": 3600,
+      "end_char": 3620
+    },
+    {
+      "text": "14.07.2023",
+      "label": "DATE",
+      "start_char": 3715,
+      "end_char": 3725
+    },
+    {
+      "text": "9.01.2024",
+      "label": "DATE",
+      "start_char": 3744,
+      "end_char": 3753
+    },
+    {
+      "text": "section 29A(3)",
+      "label": "PROVISION",
+      "start_char": 3790,
+      "end_char": 3804
+    },
+    {
+      "text": "Asansol Commercial Court",
+      "label": "COURT",
+      "start_char": 3849,
+      "end_char": 3873
+    },
+    {
+      "text": "09.01.2024",
+      "label": "DATE",
+      "start_char": 4020,
+      "end_char": 4030
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 4081,
+      "end_char": 4100
+    },
+    {
+      "text": "section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 4214,
+      "end_char": 4229
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 4269,
+      "end_char": 4288
+    },
+    {
+      "text": "section 29A(1)",
+      "label": "PROVISION",
+      "start_char": 4433,
+      "end_char": 4447
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 4455,
+      "end_char": 4493
+    },
+    {
+      "text": "section 29A(3)",
+      "label": "PROVISION",
+      "start_char": 4681,
+      "end_char": 4695
+    },
+    {
+      "text": "section 29A(1)",
+      "label": "PROVISION",
+      "start_char": 4855,
+      "end_char": 4869
+    },
+    {
+      "text": "Sections 29A(4) and (5)",
+      "label": "PROVISION",
+      "start_char": 4871,
+      "end_char": 4894
+    },
+    {
+      "text": "section 29A(4)",
+      "label": "PROVISION",
+      "start_char": 5120,
+      "end_char": 5134
+    },
+    {
+      "text": "section 29A(5)",
+      "label": "PROVISION",
+      "start_char": 5233,
+      "end_char": 5247
+    },
+    {
+      "text": "section 29A",
+      "label": "PROVISION",
+      "start_char": 5391,
+      "end_char": 5402
+    },
+    {
+      "text": "section 29A(3)",
+      "label": "PROVISION",
+      "start_char": 5509,
+      "end_char": 5523
+    },
+    {
+      "text": "section 29A(1), (3), (4)/(5)",
+      "label": "PROVISION",
+      "start_char": 5673,
+      "end_char": 5701
+    },
+    {
+      "text": "section 29A(4)/(5)",
+      "label": "PROVISION",
+      "start_char": 5892,
+      "end_char": 5910
+    },
+    {
+      "text": "section 29A(1)",
+      "label": "PROVISION",
+      "start_char": 6054,
+      "end_char": 6068
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 6120,
+      "end_char": 6158
+    },
+    {
+      "text": "Section 29A",
+      "label": "PROVISION",
+      "start_char": 6160,
+      "end_char": 6171
+    },
+    {
+      "text": "23.10.2015",
+      "label": "DATE",
+      "start_char": 6210,
+      "end_char": 6220
+    },
+    {
+      "text": "30.8.2019",
+      "label": "DATE",
+      "start_char": 6294,
+      "end_char": 6303
+    },
+    {
+      "text": "30.8.2019",
+      "label": "DATE",
+      "start_char": 6427,
+      "end_char": 6436
+    },
+    {
+      "text": "Section 29A(1)",
+      "label": "PROVISION",
+      "start_char": 6443,
+      "end_char": 6457
+    },
+    {
+      "text": "section 29A(1)",
+      "label": "PROVISION",
+      "start_char": 6797,
+      "end_char": 6811
+    },
+    {
+      "text": "14.7.2023",
+      "label": "DATE",
+      "start_char": 7275,
+      "end_char": 7284
+    },
+    {
+      "text": "section 29A(3)",
+      "label": "PROVISION",
+      "start_char": 7327,
+      "end_char": 7341
+    },
+    {
+      "text": "14.7.2023",
+      "label": "DATE",
+      "start_char": 7368,
+      "end_char": 7377
+    },
+    {
+      "text": "Commercial Court at Asansol",
+      "label": "COURT",
+      "start_char": 7506,
+      "end_char": 7533
+    },
+    {
+      "text": "14.12.2023",
+      "label": "DATE",
+      "start_char": 7537,
+      "end_char": 7547
+    },
+    {
+      "text": "15.12.2023",
+      "label": "DATE",
+      "start_char": 7593,
+      "end_char": 7603
+    },
+    {
+      "text": "9.1.2024",
+      "label": "DATE",
+      "start_char": 7658,
+      "end_char": 7666
+    },
+    {
+      "text": "10.01.2024",
+      "label": "DATE",
+      "start_char": 7761,
+      "end_char": 7771
+    },
+    {
+      "text": "11.01.2024",
+      "label": "DATE",
+      "start_char": 7817,
+      "end_char": 7827
+    },
+    {
+      "text": "14.7.2023",
+      "label": "DATE",
+      "start_char": 7931,
+      "end_char": 7940
+    },
+    {
+      "text": "11.01.2024",
+      "label": "DATE",
+      "start_char": 7946,
+      "end_char": 7956
+    },
+    {
+      "text": "section 14",
+      "label": "PROVISION",
+      "start_char": 7963,
+      "end_char": 7973
+    },
+    {
+      "text": "Limitation Act, 1963",
+      "label": "STATUTE",
+      "start_char": 7981,
+      "end_char": 8001
+    },
+    {
+      "text": "section 14",
+      "label": "PROVISION",
+      "start_char": 8087,
+      "end_char": 8097
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 8105,
+      "end_char": 8119
+    },
+    {
+      "text": "section 14",
+      "label": "PROVISION",
+      "start_char": 8194,
+      "end_char": 8204
+    },
+    {
+      "text": "Asansol District Court",
+      "label": "COURT",
+      "start_char": 8269,
+      "end_char": 8291
+    },
+    {
+      "text": "Asansol Commercial Court",
+      "label": "COURT",
+      "start_char": 8314,
+      "end_char": 8338
+    },
+    {
+      "text": "11.01.2024",
+      "label": "DATE",
+      "start_char": 8344,
+      "end_char": 8354
+    },
+    {
+      "text": "Section 14(2)",
+      "label": "PROVISION",
+      "start_char": 8356,
+      "end_char": 8369
+    },
+    {
+      "text": "section 14",
+      "label": "PROVISION",
+      "start_char": 8684,
+      "end_char": 8694
+    },
+    {
+      "text": "14.7.2023",
+      "label": "DATE",
+      "start_char": 8902,
+      "end_char": 8911
+    },
+    {
+      "text": "10.1.2024",
+      "label": "DATE",
+      "start_char": 8923,
+      "end_char": 8932
+    },
+    {
+      "text": "section 14(2)",
+      "label": "PROVISION",
+      "start_char": 9011,
+      "end_char": 9024
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 9032,
+      "end_char": 9046
+    },
+    {
+      "text": "section 14",
+      "label": "PROVISION",
+      "start_char": 9076,
+      "end_char": 9086
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 9094,
+      "end_char": 9108
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 9136,
+      "end_char": 9174
+    },
+    {
+      "text": "M/s. Consolidated Engineering Enterprises v. The Principal Secretary (Irrigation Department)",
+      "label": "PRECEDENT",
+      "start_char": 9183,
+      "end_char": 9275
+    },
+    {
+      "text": "11.01.2024",
+      "label": "DATE",
+      "start_char": 9786,
+      "end_char": 9796
+    },
+    {
+      "text": "Asansol Commercial Court",
+      "label": "COURT",
+      "start_char": 9855,
+      "end_char": 9879
+    },
+    {
+      "text": "15.01.2024",
+      "label": "DATE",
+      "start_char": 10120,
+      "end_char": 10130
+    },
+    {
+      "text": "11.01.2024",
+      "label": "DATE",
+      "start_char": 10194,
+      "end_char": 10204
+    },
+    {
+      "text": "15.01.2024",
+      "label": "DATE",
+      "start_char": 10214,
+      "end_char": 10224
+    },
+    {
+      "text": "11.01.2024",
+      "label": "DATE",
+      "start_char": 10369,
+      "end_char": 10379
+    },
+    {
+      "text": "15.01.2024",
+      "label": "DATE",
+      "start_char": 10383,
+      "end_char": 10393
+    },
+    {
+      "text": "12.01.2024",
+      "label": "DATE",
+      "start_char": 10426,
+      "end_char": 10436
+    },
+    {
+      "text": "14.01.2024",
+      "label": "DATE",
+      "start_char": 10439,
+      "end_char": 10449
+    },
+    {
+      "text": "12.01.2024",
+      "label": "DATE",
+      "start_char": 10471,
+      "end_char": 10481
+    },
+    {
+      "text": "West Bengal",
+      "label": "GPE",
+      "start_char": 10521,
+      "end_char": 10532
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 10550,
+      "end_char": 10569
+    },
+    {
+      "text": "13.01.2024",
+      "label": "DATE",
+      "start_char": 10571,
+      "end_char": 10581
+    },
+    {
+      "text": "14.01.2024",
+      "label": "DATE",
+      "start_char": 10586,
+      "end_char": 10596
+    },
+    {
+      "text": "section 5",
+      "label": "PROVISION",
+      "start_char": 10695,
+      "end_char": 10704
+    },
+    {
+      "text": "Limitation Act, 1963",
+      "label": "STATUTE",
+      "start_char": 10712,
+      "end_char": 10732
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 10853,
+      "end_char": 10862
+    },
+    {
+      "text": "Asansol",
+      "label": "OTHER_PERSON",
+      "start_char": 10978,
+      "end_char": 10985
+    },
+    {
+      "text": "Bangalore",
+      "label": "GPE",
+      "start_char": 11008,
+      "end_char": 11017
+    },
+    {
+      "text": "section 5 read with section 14",
+      "label": "PROVISION",
+      "start_char": 11134,
+      "end_char": 11164
+    },
+    {
+      "text": "Limitation Act, 1963",
+      "label": "STATUTE",
+      "start_char": 11172,
+      "end_char": 11192
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 11198,
+      "end_char": 11211
+    },
+    {
+      "text": "J. Kumaradasan Nair v. IRIC Sohan; (2009) 12 SCC 175",
+      "label": "PRECEDENT",
+      "start_char": 11215,
+      "end_char": 11267
+    },
+    {
+      "text": "sections 5 and 14",
+      "label": "PROVISION",
+      "start_char": 11278,
+      "end_char": 11295
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 11303,
+      "end_char": 11317
+    },
+    {
+      "text": "14.7.2023",
+      "label": "DATE",
+      "start_char": 11543,
+      "end_char": 11552
+    },
+    {
+      "text": "11.01.2024",
+      "label": "DATE",
+      "start_char": 11556,
+      "end_char": 11566
+    },
+    {
+      "text": "15.01.2024",
+      "label": "DATE",
+      "start_char": 11576,
+      "end_char": 11586
+    },
+    {
+      "text": "Section 29A",
+      "label": "PROVISION",
+      "start_char": 11758,
+      "end_char": 11769
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 11777,
+      "end_char": 11815
+    },
+    {
+      "text": "Section 29A",
+      "label": "PROVISION",
+      "start_char": 11975,
+      "end_char": 11986
+    },
+    {
+      "text": "15.12.2023",
+      "label": "DATE",
+      "start_char": 12399,
+      "end_char": 12409
+    },
+    {
+      "text": "21.12.2023",
+      "label": "DATE",
+      "start_char": 12447,
+      "end_char": 12457
+    },
+    {
+      "text": "19.12.2023",
+      "label": "DATE",
+      "start_char": 12514,
+      "end_char": 12524
+    },
+    {
+      "text": "21.12.2023",
+      "label": "DATE",
+      "start_char": 12584,
+      "end_char": 12594
+    },
+    {
+      "text": "11.01.2023/15.01.2023",
+      "label": "DATE",
+      "start_char": 12703,
+      "end_char": 12724
+    },
+    {
+      "text": "9.01.2024",
+      "label": "DATE",
+      "start_char": 12858,
+      "end_char": 12867
+    },
+    {
+      "text": "section 29A",
+      "label": "PROVISION",
+      "start_char": 12939,
+      "end_char": 12950
+    },
+    {
+      "text": "Section 29A",
+      "label": "PROVISION",
+      "start_char": 13093,
+      "end_char": 13104
+    },
+    {
+      "text": "Commercial Court at Asansol",
+      "label": "COURT",
+      "start_char": 13425,
+      "end_char": 13452
+    },
+    {
+      "text": "section 11(6)",
+      "label": "PROVISION",
+      "start_char": 13472,
+      "end_char": 13485
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 13493,
+      "end_char": 13531
+    },
+    {
+      "text": "section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 13582,
+      "end_char": 13597
+    },
+    {
+      "text": "section 29A(6)",
+      "label": "PROVISION",
+      "start_char": 13638,
+      "end_char": 13652
+    },
+    {
+      "text": "09.01.2024",
+      "label": "DATE",
+      "start_char": 13900,
+      "end_char": 13910
+    },
+    {
+      "text": "Commercial Court at Asansol",
+      "label": "COURT",
+      "start_char": 13919,
+      "end_char": 13946
+    },
+    {
+      "text": "section 29A",
+      "label": "PROVISION",
+      "start_char": 14027,
+      "end_char": 14038
+    },
+    {
+      "text": "section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 14110,
+      "end_char": 14125
+    },
+    {
+      "text": "sections 11 and 29A",
+      "label": "PROVISION",
+      "start_char": 14165,
+      "end_char": 14184
+    },
+    {
+      "text": "Amit Kumar Gupta v. Dipak Prasad; 2021 SCC OnLine Cal 2174",
+      "label": "PRECEDENT",
+      "start_char": 14254,
+      "end_char": 14312
+    },
+    {
+      "text": "section 29A",
+      "label": "PROVISION",
+      "start_char": 14375,
+      "end_char": 14386
+    },
+    {
+      "text": "section 11",
+      "label": "PROVISION",
+      "start_char": 14458,
+      "end_char": 14468
+    },
+    {
+      "text": "section 11",
+      "label": "PROVISION",
+      "start_char": 14567,
+      "end_char": 14577
+    },
+    {
+      "text": "section 11",
+      "label": "PROVISION",
+      "start_char": 14697,
+      "end_char": 14707
+    },
+    {
+      "text": "22.7.2019",
+      "label": "DATE",
+      "start_char": 14737,
+      "end_char": 14746
+    },
+    {
+      "text": "Nimet Resources Inc. vs Essar Steels Ltd",
+      "label": "PRECEDENT",
+      "start_char": 14877,
+      "end_char": 14917
+    },
+    {
+      "text": "2009 17 SCC 313",
+      "label": "PRECEDENT",
+      "start_char": 14919,
+      "end_char": 14934
+    },
+    {
+      "text": "State of West Bengal vs. Associated Contractors; 2015 1 SCC 32",
+      "label": "PRECEDENT",
+      "start_char": 14939,
+      "end_char": 15001
+    },
+    {
+      "text": "section 29A",
+      "label": "PROVISION",
+      "start_char": 15055,
+      "end_char": 15066
+    },
+    {
+      "text": "1996 Act",
+      "label": "STATUTE",
+      "start_char": 15074,
+      "end_char": 15082
+    },
+    {
+      "text": "Nimet Resources",
+      "label": "ORG",
+      "start_char": 15084,
+      "end_char": 15099
+    },
+    {
+      "text": "section 14(2)",
+      "label": "PROVISION",
+      "start_char": 15145,
+      "end_char": 15158
+    },
+    {
+      "text": "State of Jharkhand v. Hindustan Construction Company Limited; (2018) 2 SCC 602",
+      "label": "PRECEDENT",
+      "start_char": 15285,
+      "end_char": 15363
+    },
+    {
+      "text": "sections 2, 14 and 31",
+      "label": "PROVISION",
+      "start_char": 15411,
+      "end_char": 15432
+    },
+    {
+      "text": "Arbitration Act, 1940",
+      "label": "STATUTE",
+      "start_char": 15440,
+      "end_char": 15461
+    },
+    {
+      "text": "Multiplex Equipments & Services Pvt. Ltd. v. Bagzone Lifestyles Pvt",
+      "label": "PRECEDENT",
+      "start_char": 15520,
+      "end_char": 15587
+    },
+    {
+      "text": "AP - COM 11 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 15594,
+      "end_char": 15613
+    },
+    {
+      "text": "22.01.2022",
+      "label": "DATE",
+      "start_char": 15838,
+      "end_char": 15848
+    },
+    {
+      "text": "Rohan Builders (India) Pvt. Ltd. v. Berger Paints India Limited; 2023 SCC OnLine Cal 2645",
+      "label": "PRECEDENT",
+      "start_char": 15880,
+      "end_char": 15969
+    },
+    {
+      "text": "section 29A(4) and (5)",
+      "label": "PROVISION",
+      "start_char": 16016,
+      "end_char": 16038
+    },
+    {
+      "text": "section 29A(3)",
+      "label": "PROVISION",
+      "start_char": 16172,
+      "end_char": 16186
+    },
+    {
+      "text": "Rohan Builders",
+      "label": "ORG",
+      "start_char": 16199,
+      "end_char": 16213
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 16259,
+      "end_char": 16272
+    },
+    {
+      "text": "Rohan Builders",
+      "label": "ORG",
+      "start_char": 16285,
+      "end_char": 16299
+    },
+    {
+      "text": "AP COM 41 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 16977,
+      "end_char": 16994
+    },
+    {
+      "text": "21.12.2023",
+      "label": "DATE",
+      "start_char": 17248,
+      "end_char": 17258
+    },
+    {
+      "text": "Moushumi Bhattacharya",
+      "label": "JUDGE",
+      "start_char": 17448,
+      "end_char": 17469
+    }
+  ],
+  "precedent_clusters": {
+    "M/s. Consolidated Engineering Enterprises v. The Principal Secretary (Irrigation Department)": [
+      "M/s. Consolidated Engineering Enterprises v. The Principal Secretary (Irrigation Department)",
+      "Nimet Resources Inc. vs Essar Steels Ltd",
+      "Multiplex Equipments & Services Pvt. Ltd. v. Bagzone Lifestyles Pvt"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "section 29A (4) and (5)",
+      "Arbitration and Conciliation Act, 1996",
+      "section 29A (4) and (5)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 14",
+      "Limitation Act, 1963",
+      "section 14",
+      "Limitation Act, 1963"
+    ],
+    [
+      "sections 5 and 14",
+      "Limitation Act, 1963",
+      "sections 5 and 14",
+      "Limitation Act, 1963"
+    ],
+    [
+      "section 29A(1)",
+      "Arbitration and Conciliation Act, 1996",
+      "section 29A(1)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 29A(1)",
+      "Arbitration and Conciliation Act, 1996",
+      "section 29A(1)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 14",
+      "Limitation Act, 1963",
+      "section 14",
+      "Limitation Act, 1963"
+    ],
+    [
+      "section 14",
+      "Limitation Act",
+      "section 14",
+      "Limitation Act"
+    ],
+    [
+      "section 14(2)",
+      "Limitation Act",
+      "section 14(2)",
+      "Limitation Act"
+    ],
+    [
+      "section 14",
+      "Limitation Act",
+      "section 14",
+      "Limitation Act"
+    ],
+    [
+      "section 5",
+      "Limitation Act, 1963",
+      "section 5",
+      "Limitation Act, 1963"
+    ],
+    [
+      "section 5 read with section 14",
+      "Limitation Act, 1963",
+      "section 5 read with section 14",
+      "Limitation Act, 1963"
+    ],
+    [
+      "sections 5 and 14",
+      "Limitation Act",
+      "sections 5 and 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 29A",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 29A",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 11(6)",
+      "Arbitration and Conciliation Act, 1996",
+      "section 11(6)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 29A",
+      "1996 Act",
+      "section 29A",
+      "1996 Act"
+    ],
+    [
+      "sections 2, 14 and 31",
+      "Arbitration Act, 1940",
+      "sections 2, 14 and 31",
+      "Arbitration Act, 1940"
+    ],
+    [
+      "section 29A(3)",
+      "Arbitration and Conciliation Act, 1996",
+      "section 29A(3)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 29A(3)",
+      "Arbitration and Conciliation Act, 1996",
+      "section 29A(3)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 29A(3)",
+      "Arbitration and Conciliation Act, 1996",
+      "section 29A(3)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 5",
+      "Limitation Act, 1963",
+      "section 5",
+      "Limitation Act, 1963"
+    ],
+    [
+      "section 29A(3)",
+      "Arbitration and Conciliation Act, 1996",
+      "section 29A(3)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 2(1)(e)",
+      "Arbitration Act, 1940",
+      "section 2(1)(e)",
+      "Arbitration Act, 1940"
+    ],
+    [
+      "section 29A(3)",
+      "Arbitration and Conciliation Act, 1996",
+      "section 29A(3)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 29A(1)",
+      "Arbitration and Conciliation Act, 1996",
+      "section 29A(1)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Sections 29A(4) and (5)",
+      "Arbitration and Conciliation Act, 1996",
+      "Sections 29A(4) and (5)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 29A(4)",
+      "Arbitration and Conciliation Act, 1996",
+      "section 29A(4)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 29A(5)",
+      "Arbitration and Conciliation Act, 1996",
+      "section 29A(5)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 29A",
+      "Arbitration and Conciliation Act, 1996",
+      "section 29A",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 29A(3)",
+      "Arbitration and Conciliation Act, 1996",
+      "section 29A(3)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 29A(1), (3), (4)/(5)",
+      "Arbitration and Conciliation Act, 1996",
+      "section 29A(1), (3), (4)/(5)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 29A(4)/(5)",
+      "Arbitration and Conciliation Act, 1996",
+      "section 29A(4)/(5)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 29A",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 29A",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 29A(1)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 29A(1)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 29A(1)",
+      "Arbitration and Conciliation Act, 1996",
+      "section 29A(1)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 29A(3)",
+      "Arbitration and Conciliation Act, 1996",
+      "section 29A(3)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 14",
+      "Limitation Act",
+      "section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 14(2)",
+      "Limitation Act",
+      "Section 14(2)",
+      "Limitation Act"
+    ],
+    [
+      "section 14",
+      "Limitation Act",
+      "section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 5",
+      "Limitation Act, 1963",
+      "Section 5",
+      "Limitation Act, 1963"
+    ],
+    [
+      "Section 29A",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 29A",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 29A",
+      "Arbitration and Conciliation Act, 1996",
+      "section 29A",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 29A",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 29A",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 2(1)(e)",
+      "Arbitration Act, 1940",
+      "section 2(1)(e)",
+      "Arbitration Act, 1940"
+    ],
+    [
+      "section 29A(6)",
+      "Arbitration and Conciliation Act, 1996",
+      "section 29A(6)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 29A",
+      "Arbitration and Conciliation Act, 1996",
+      "section 29A",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 2(1)(e)",
+      "Arbitration Act, 1940",
+      "section 2(1)(e)",
+      "Arbitration Act, 1940"
+    ],
+    [
+      "sections 11 and 29A",
+      "Arbitration and Conciliation Act, 1996",
+      "sections 11 and 29A",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 29A",
+      "Arbitration and Conciliation Act, 1996",
+      "section 29A",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 11",
+      "Arbitration and Conciliation Act, 1996",
+      "section 11",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 11",
+      "Arbitration and Conciliation Act, 1996",
+      "section 11",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 11",
+      "Arbitration and Conciliation Act, 1996",
+      "section 11",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 14(2)",
+      "Limitation Act",
+      "section 14(2)",
+      "Limitation Act"
+    ],
+    [
+      "section 29A(4) and (5)",
+      "Arbitration and Conciliation Act, 1996",
+      "section 29A(4) and (5)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 29A(3)",
+      "Arbitration and Conciliation Act, 1996",
+      "section 29A(3)",
+      "Arbitration and Conciliation Act, 1996"
+    ]
+  ],
+  "precedent_counts": {
+    "M/s. Consolidated Engineering Enterprises v. The Principal Secretary (Irrigation Department)": 3
+  },
+  "provision_counts": {
+    "section 29A (4) and (5) of Arbitration and Conciliation Act, 1996": 1,
+    "section 14 of Limitation Act, 1963": 2,
+    "sections 5 and 14 of Limitation Act, 1963": 1,
+    "section 29A(1) of Arbitration and Conciliation Act, 1996": 4,
+    "section 14 of Limitation Act": 4,
+    "section 14(2) of Limitation Act": 2,
+    "section 5 of Limitation Act, 1963": 2,
+    "section 5 read with section 14 of Limitation Act, 1963": 1,
+    "sections 5 and 14 of Limitation Act": 1,
+    "Section 29A of Arbitration and Conciliation Act, 1996": 4,
+    "section 11(6) of Arbitration and Conciliation Act, 1996": 1,
+    "section 29A of 1996 Act": 1,
+    "sections 2, 14 and 31 of Arbitration Act, 1940": 1,
+    "section 29A(3) of Arbitration and Conciliation Act, 1996": 8,
+    "section 2(1)(e) of Arbitration Act, 1940": 3,
+    "Sections 29A(4) and (5) of Arbitration and Conciliation Act, 1996": 1,
+    "section 29A(4) of Arbitration and Conciliation Act, 1996": 1,
+    "section 29A(5) of Arbitration and Conciliation Act, 1996": 1,
+    "section 29A of Arbitration and Conciliation Act, 1996": 4,
+    "section 29A(1), (3), (4)/(5) of Arbitration and Conciliation Act, 1996": 1,
+    "section 29A(4)/(5) of Arbitration and Conciliation Act, 1996": 1,
+    "Section 29A(1) of Arbitration and Conciliation Act, 1996": 1,
+    "Section 14(2) of Limitation Act": 1,
+    "Section 5 of Limitation Act, 1963": 1,
+    "section 29A(6) of Arbitration and Conciliation Act, 1996": 1,
+    "sections 11 and 29A of Arbitration and Conciliation Act, 1996": 1,
+    "section 11 of Arbitration and Conciliation Act, 1996": 3,
+    "section 29A(4) and (5) of Arbitration and Conciliation Act, 1996": 1
+  },
+  "statute_counts": {
+    "Arbitration and Conciliation Act, 1996": 34,
+    "Limitation Act, 1963": 7,
+    "Limitation Act": 8,
+    "1996 Act": 1,
+    "Arbitration Act, 1940": 4
+  }
+}

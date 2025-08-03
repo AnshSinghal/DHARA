@@ -1,0 +1,2308 @@
+{
+  "entities": [
+    {
+      "text": "High Court of Meghalaya",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 23
+    },
+    {
+      "text": "Hindustan Construction Co. Ltd.",
+      "label": "PETITIONER",
+      "start_char": 28,
+      "end_char": 59
+    },
+    {
+      "text": "North Eastern Electric Power",
+      "label": "RESPONDENT",
+      "start_char": 65,
+      "end_char": 93
+    },
+    {
+      "text": "W. Diengdoh",
+      "label": "LAWYER",
+      "start_char": 118,
+      "end_char": 129
+    },
+    {
+      "text": "High Court Of Meghalaya",
+      "label": "COURT",
+      "start_char": 212,
+      "end_char": 235
+    },
+    {
+      "text": "Hindustan Construction Co. Ltd.",
+      "label": "PETITIONER",
+      "start_char": 382,
+      "end_char": 413
+    },
+    {
+      "text": "North Eastern Electric Power",
+      "label": "RESPONDENT",
+      "start_char": 429,
+      "end_char": 457
+    },
+    {
+      "text": "W. Diengdoh",
+      "label": "JUDGE",
+      "start_char": 576,
+      "end_char": 587
+    },
+    {
+      "text": "T.T. Diengdoh",
+      "label": "LAWYER",
+      "start_char": 651,
+      "end_char": 664
+    },
+    {
+      "text": "J. Shylla",
+      "label": "LAWYER",
+      "start_char": 723,
+      "end_char": 732
+    },
+    {
+      "text": "C.C.T. Sangma",
+      "label": "LAWYER",
+      "start_char": 782,
+      "end_char": 795
+    },
+    {
+      "text": "S. Jindal",
+      "label": "LAWYER",
+      "start_char": 845,
+      "end_char": 854
+    },
+    {
+      "text": "26.05.2023",
+      "label": "DATE",
+      "start_char": 1126,
+      "end_char": 1136
+    },
+    {
+      "text": "Commercial Court, East Khasi Hills, Shillong",
+      "label": "COURT",
+      "start_char": 1159,
+      "end_char": 1203
+    },
+    {
+      "text": "Commercial Arbitration Execution Case No. 4 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 1207,
+      "end_char": 1258
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 1350,
+      "end_char": 1361
+    },
+    {
+      "text": "T.T. Diengdoh",
+      "label": "LAWYER",
+      "start_char": 1402,
+      "end_char": 1415
+    },
+    {
+      "text": "25.03.2009",
+      "label": "DATE",
+      "start_char": 1602,
+      "end_char": 1612
+    },
+    {
+      "text": "NEEPCO",
+      "label": "RESPONDENT",
+      "start_char": 1629,
+      "end_char": 1635
+    },
+    {
+      "text": "Pare Hydro-electric Project",
+      "label": "ORG",
+      "start_char": 1661,
+      "end_char": 1688
+    },
+    {
+      "text": "Papumpare District",
+      "label": "GPE",
+      "start_char": 1700,
+      "end_char": 1718
+    },
+    {
+      "text": "Arunachal Pradesh",
+      "label": "GPE",
+      "start_char": 1735,
+      "end_char": 1752
+    },
+    {
+      "text": "NEEPCO Ltd.",
+      "label": "ORG",
+      "start_char": 1855,
+      "end_char": 1866
+    },
+    {
+      "text": "N.N. Singhal",
+      "label": "OTHER_PERSON",
+      "start_char": 2271,
+      "end_char": 2283
+    },
+    {
+      "text": "15.09.2015",
+      "label": "DATE",
+      "start_char": 2367,
+      "end_char": 2377
+    },
+    {
+      "text": "NEEPCO",
+      "label": "RESPONDENT",
+      "start_char": 2589,
+      "end_char": 2595
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 2694,
+      "end_char": 2704
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 2712,
+      "end_char": 2750
+    },
+    {
+      "text": "Commercial Arbitration Case No. 4 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 2788,
+      "end_char": 2829
+    },
+    {
+      "text": "Order XXI Rule 11",
+      "label": "PROVISION",
+      "start_char": 2959,
+      "end_char": 2976
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 2984,
+      "end_char": 3007
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 3018,
+      "end_char": 3028
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 3036,
+      "end_char": 3074
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 3108,
+      "end_char": 3118
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 3131,
+      "end_char": 3146
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 3246,
+      "end_char": 3256
+    },
+    {
+      "text": "NEEPCO",
+      "label": "RESPONDENT",
+      "start_char": 3291,
+      "end_char": 3297
+    },
+    {
+      "text": "Arbitration Appeal No. 1 of 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 3329,
+      "end_char": 3361
+    },
+    {
+      "text": "26.04.2023",
+      "label": "DATE",
+      "start_char": 3429,
+      "end_char": 3439
+    },
+    {
+      "text": "NEEPCO",
+      "label": "RESPONDENT",
+      "start_char": 3478,
+      "end_char": 3484
+    },
+    {
+      "text": "26.04.2023",
+      "label": "DATE",
+      "start_char": 3781,
+      "end_char": 3791
+    },
+    {
+      "text": "NEEPCO",
+      "label": "RESPONDENT",
+      "start_char": 3814,
+      "end_char": 3820
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 3862,
+      "end_char": 3873
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 3874,
+      "end_char": 3877
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 3934,
+      "end_char": 3947
+    },
+    {
+      "text": "26.04.2023",
+      "label": "DATE",
+      "start_char": 4020,
+      "end_char": 4030
+    },
+    {
+      "text": "25.07.2023",
+      "label": "DATE",
+      "start_char": 4234,
+      "end_char": 4244
+    },
+    {
+      "text": "NEEPCO",
+      "label": "ORG",
+      "start_char": 4358,
+      "end_char": 4364
+    },
+    {
+      "text": "Article 12",
+      "label": "PROVISION",
+      "start_char": 4401,
+      "end_char": 4411
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 4419,
+      "end_char": 4440
+    },
+    {
+      "text": "Section 82",
+      "label": "PROVISION",
+      "start_char": 4485,
+      "end_char": 4495
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 4503,
+      "end_char": 4526
+    },
+    {
+      "text": "Section 82",
+      "label": "PROVISION",
+      "start_char": 4695,
+      "end_char": 4705
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 4713,
+      "end_char": 4736
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 4906,
+      "end_char": 4920
+    },
+    {
+      "text": "Central and State Government",
+      "label": "ORG",
+      "start_char": 5071,
+      "end_char": 5099
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 5178,
+      "end_char": 5201
+    },
+    {
+      "text": "Section 3(8)",
+      "label": "PROVISION",
+      "start_char": 5260,
+      "end_char": 5272
+    },
+    {
+      "text": "General Clauses Act",
+      "label": "STATUTE",
+      "start_char": 5280,
+      "end_char": 5299
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 5315,
+      "end_char": 5333
+    },
+    {
+      "text": "Section 3(8)",
+      "label": "PROVISION",
+      "start_char": 5335,
+      "end_char": 5347
+    },
+    {
+      "text": "Central Government‟",
+      "label": "ORG",
+      "start_char": 5357,
+      "end_char": 5376
+    },
+    {
+      "text": "clause (1) of Article 258",
+      "label": "PROVISION",
+      "start_char": 5489,
+      "end_char": 5514
+    },
+    {
+      "text": "Section 82",
+      "label": "PROVISION",
+      "start_char": 5697,
+      "end_char": 5707
+    },
+    {
+      "text": "NEEPCO",
+      "label": "ORG",
+      "start_char": 5744,
+      "end_char": 5750
+    },
+    {
+      "text": "Article 12",
+      "label": "PROVISION",
+      "start_char": 5787,
+      "end_char": 5797
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 5805,
+      "end_char": 5817
+    },
+    {
+      "text": "Section 82",
+      "label": "PROVISION",
+      "start_char": 5990,
+      "end_char": 6000
+    },
+    {
+      "text": "National Textile Corporation Limited v. Nareshkumar Badrikumar Jagad & Ors: (2011) 12 SCC 695",
+      "label": "PRECEDENT",
+      "start_char": 6126,
+      "end_char": 6219
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 6336,
+      "end_char": 6349
+    },
+    {
+      "text": "K. Lakshminarayanan v. Union of India & Anr.: (2020) 14 SCC 664",
+      "label": "PRECEDENT",
+      "start_char": 6411,
+      "end_char": 6474
+    },
+    {
+      "text": "Central Government‟",
+      "label": "ORG",
+      "start_char": 6553,
+      "end_char": 6572
+    },
+    {
+      "text": "Section 3(8)",
+      "label": "PROVISION",
+      "start_char": 6576,
+      "end_char": 6588
+    },
+    {
+      "text": "General Clauses Act",
+      "label": "STATUTE",
+      "start_char": 6596,
+      "end_char": 6615
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 6924,
+      "end_char": 6935
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 6936,
+      "end_char": 6939
+    },
+    {
+      "text": "NEEPCO",
+      "label": "RESPONDENT",
+      "start_char": 7055,
+      "end_char": 7061
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 7086,
+      "end_char": 7099
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 7186,
+      "end_char": 7199
+    },
+    {
+      "text": "Pam Developments Pvt",
+      "label": "ORG",
+      "start_char": 7215,
+      "end_char": 7235
+    },
+    {
+      "text": "Ltd v. State of West Bengal: (2019) 8",
+      "label": "PRECEDENT",
+      "start_char": 7237,
+      "end_char": 7274
+    },
+    {
+      "text": "SCC 112",
+      "label": "CASE_NUMBER",
+      "start_char": 7275,
+      "end_char": 7282
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 7413,
+      "end_char": 7423
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 7440,
+      "end_char": 7450
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 7458,
+      "end_char": 7496
+    },
+    {
+      "text": "Hindustan Construction Co. Ltd.",
+      "label": "ORG",
+      "start_char": 7563,
+      "end_char": 7594
+    },
+    {
+      "text": "Union of India",
+      "label": "RESPONDENT",
+      "start_char": 7605,
+      "end_char": 7619
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 7834,
+      "end_char": 7845
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 7853,
+      "end_char": 7865
+    },
+    {
+      "text": "S. Jindal",
+      "label": "LAWYER",
+      "start_char": 7972,
+      "end_char": 7981
+    },
+    {
+      "text": "NEEPCO",
+      "label": "RESPONDENT",
+      "start_char": 8018,
+      "end_char": 8024
+    },
+    {
+      "text": "Section 82",
+      "label": "PROVISION",
+      "start_char": 8127,
+      "end_char": 8137
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 8138,
+      "end_char": 8141
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 8429,
+      "end_char": 8440
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 8448,
+      "end_char": 8460
+    },
+    {
+      "text": "Essen Deinki v. Rajiv Kumar: (2002) 8 SCC 400",
+      "label": "PRECEDENT",
+      "start_char": 8576,
+      "end_char": 8621
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 8693,
+      "end_char": 8706
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 8781,
+      "end_char": 8792
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 8800,
+      "end_char": 8812
+    },
+    {
+      "text": "NEEPCO",
+      "label": "RESPONDENT",
+      "start_char": 9521,
+      "end_char": 9527
+    },
+    {
+      "text": "Section 82",
+      "label": "PROVISION",
+      "start_char": 9602,
+      "end_char": 9612
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 9613,
+      "end_char": 9616
+    },
+    {
+      "text": "Section 3(8)",
+      "label": "PROVISION",
+      "start_char": 9627,
+      "end_char": 9639
+    },
+    {
+      "text": "General Clauses Act",
+      "label": "STATUTE",
+      "start_char": 9647,
+      "end_char": 9666
+    },
+    {
+      "text": "Central Government‟",
+      "label": "ORG",
+      "start_char": 9714,
+      "end_char": 9733
+    },
+    {
+      "text": "Poresh Kumar Nath v. North Eastern Electric Power Corporation Limited (Government of India Enterprise) & Ors",
+      "label": "PRECEDENT",
+      "start_char": 9802,
+      "end_char": 9910
+    },
+    {
+      "text": "2022 SCC Online Megh 177",
+      "label": "PRECEDENT",
+      "start_char": 9914,
+      "end_char": 9938
+    },
+    {
+      "text": "Association of NEEPCO",
+      "label": "ORG",
+      "start_char": 10049,
+      "end_char": 10070
+    },
+    {
+      "text": "Government of India",
+      "label": "ORG",
+      "start_char": 10135,
+      "end_char": 10154
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 10204,
+      "end_char": 10209
+    },
+    {
+      "text": "NEEPCO",
+      "label": "ORG",
+      "start_char": 10284,
+      "end_char": 10290
+    },
+    {
+      "text": "Government of India",
+      "label": "ORG",
+      "start_char": 10320,
+      "end_char": 10339
+    },
+    {
+      "text": "NEEPCO",
+      "label": "RESPONDENT",
+      "start_char": 10356,
+      "end_char": 10362
+    },
+    {
+      "text": "Central Government‟",
+      "label": "ORG",
+      "start_char": 10421,
+      "end_char": 10440
+    },
+    {
+      "text": "Section 3(8)",
+      "label": "PROVISION",
+      "start_char": 10469,
+      "end_char": 10481
+    },
+    {
+      "text": "General Clauses Act",
+      "label": "STATUTE",
+      "start_char": 10489,
+      "end_char": 10508
+    },
+    {
+      "text": "Section 82",
+      "label": "PROVISION",
+      "start_char": 10597,
+      "end_char": 10607
+    },
+    {
+      "text": "Section 3(8)",
+      "label": "PROVISION",
+      "start_char": 10896,
+      "end_char": 10908
+    },
+    {
+      "text": "General Clauses Act",
+      "label": "STATUTE",
+      "start_char": 10916,
+      "end_char": 10935
+    },
+    {
+      "text": "Article 12",
+      "label": "PROVISION",
+      "start_char": 11067,
+      "end_char": 11077
+    },
+    {
+      "text": "Parliament of India",
+      "label": "ORG",
+      "start_char": 11133,
+      "end_char": 11152
+    },
+    {
+      "text": "Government of India",
+      "label": "ORG",
+      "start_char": 11293,
+      "end_char": 11312
+    },
+    {
+      "text": "NEEPCO",
+      "label": "STATUTE",
+      "start_char": 11384,
+      "end_char": 11390
+    },
+    {
+      "text": "Article 12",
+      "label": "PROVISION",
+      "start_char": 11438,
+      "end_char": 11448
+    },
+    {
+      "text": "Section 82",
+      "label": "PROVISION",
+      "start_char": 11545,
+      "end_char": 11555
+    },
+    {
+      "text": "Article 12",
+      "label": "PROVISION",
+      "start_char": 11639,
+      "end_char": 11649
+    },
+    {
+      "text": "Section 82",
+      "label": "PROVISION",
+      "start_char": 11998,
+      "end_char": 12008
+    },
+    {
+      "text": "NEEPCO",
+      "label": "RESPONDENT",
+      "start_char": 12064,
+      "end_char": 12070
+    },
+    {
+      "text": "Order XXI Rule 26",
+      "label": "PROVISION",
+      "start_char": 12104,
+      "end_char": 12121
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 12129,
+      "end_char": 12152
+    },
+    {
+      "text": "Order XXI Rule 26",
+      "label": "PROVISION",
+      "start_char": 12201,
+      "end_char": 12218
+    },
+    {
+      "text": "NEEPCO",
+      "label": "RESPONDENT",
+      "start_char": 12476,
+      "end_char": 12482
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 12524,
+      "end_char": 12537
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 12904,
+      "end_char": 12915
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 12916,
+      "end_char": 12919
+    },
+    {
+      "text": "J. Kumaradasan Nair",
+      "label": "OTHER_PERSON",
+      "start_char": 12984,
+      "end_char": 13003
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 13081,
+      "end_char": 13094
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 13379,
+      "end_char": 13402
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 13460,
+      "end_char": 13498
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 13610,
+      "end_char": 13623
+    },
+    {
+      "text": "ITI Ltd. v. Siemens Public Communications Network Ltd.: (2002) 5 SCC 510",
+      "label": "PRECEDENT",
+      "start_char": 13639,
+      "end_char": 13711
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 13743,
+      "end_char": 13753
+    },
+    {
+      "text": "National Textile Corporation(supra), the Hon‟ble Supreme Court",
+      "label": "ORG",
+      "start_char": 14083,
+      "end_char": 14145
+    },
+    {
+      "text": "Section 82",
+      "label": "PROVISION",
+      "start_char": 14345,
+      "end_char": 14355
+    },
+    {
+      "text": "K. Laxshiminarayanan(supra",
+      "label": "OTHER_PERSON",
+      "start_char": 14384,
+      "end_char": 14410
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 14432,
+      "end_char": 14445
+    },
+    {
+      "text": "Central Government‟",
+      "label": "ORG",
+      "start_char": 14497,
+      "end_char": 14516
+    },
+    {
+      "text": "General Clauses Act",
+      "label": "STATUTE",
+      "start_char": 14567,
+      "end_char": 14586
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 14594,
+      "end_char": 14617
+    },
+    {
+      "text": "Section 3(3)",
+      "label": "PROVISION",
+      "start_char": 14655,
+      "end_char": 14667
+    },
+    {
+      "text": "Government of Union Territories Act, 1963",
+      "label": "STATUTE",
+      "start_char": 14675,
+      "end_char": 14716
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 14738,
+      "end_char": 14751
+    },
+    {
+      "text": "General Clauses Act",
+      "label": "STATUTE",
+      "start_char": 14784,
+      "end_char": 14803
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 14809,
+      "end_char": 14827
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 15078,
+      "end_char": 15110
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 15142,
+      "end_char": 15152
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 15309,
+      "end_char": 15319
+    },
+    {
+      "text": "Section 36(2)",
+      "label": "PROVISION",
+      "start_char": 15423,
+      "end_char": 15436
+    },
+    {
+      "text": "Pam Developments",
+      "label": "PRECEDENT",
+      "start_char": 15481,
+      "end_char": 15497
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 15817,
+      "end_char": 15827
+    },
+    {
+      "text": "Hindustan Construction Company(supra",
+      "label": "ORG",
+      "start_char": 15873,
+      "end_char": 15909
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 15947,
+      "end_char": 15957
+    },
+    {
+      "text": "A & C Act",
+      "label": "STATUTE",
+      "start_char": 15965,
+      "end_char": 15974
+    },
+    {
+      "text": "Pam Developments",
+      "label": "ORG",
+      "start_char": 16014,
+      "end_char": 16030
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 16237,
+      "end_char": 16248
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 16256,
+      "end_char": 16277
+    },
+    {
+      "text": "NEEPCO",
+      "label": "RESPONDENT",
+      "start_char": 16507,
+      "end_char": 16513
+    },
+    {
+      "text": "26.04.2023",
+      "label": "DATE",
+      "start_char": 16779,
+      "end_char": 16789
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 16817,
+      "end_char": 16828
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 16829,
+      "end_char": 16832
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 16970,
+      "end_char": 16983
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 17103,
+      "end_char": 17126
+    },
+    {
+      "text": "Order XXI Rule 26",
+      "label": "PROVISION",
+      "start_char": 17154,
+      "end_char": 17171
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 17172,
+      "end_char": 17175
+    },
+    {
+      "text": "Order XXI Rule 26",
+      "label": "PROVISION",
+      "start_char": 17319,
+      "end_char": 17336
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 17337,
+      "end_char": 17340
+    },
+    {
+      "text": "26.05.2023",
+      "label": "DATE",
+      "start_char": 17419,
+      "end_char": 17429
+    },
+    {
+      "text": "NEEPCO",
+      "label": "ORG",
+      "start_char": 17616,
+      "end_char": 17622
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 17814,
+      "end_char": 17827
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 17987,
+      "end_char": 18000
+    },
+    {
+      "text": "26.04.2023",
+      "label": "DATE",
+      "start_char": 18092,
+      "end_char": 18102
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 18135,
+      "end_char": 18145
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 18153,
+      "end_char": 18185
+    },
+    {
+      "text": "Section 82",
+      "label": "PROVISION",
+      "start_char": 18262,
+      "end_char": 18272
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 18273,
+      "end_char": 18276
+    },
+    {
+      "text": "NEEPCO",
+      "label": "ORG",
+      "start_char": 18311,
+      "end_char": 18317
+    },
+    {
+      "text": "Section 82",
+      "label": "PROVISION",
+      "start_char": 18353,
+      "end_char": 18363
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 18364,
+      "end_char": 18367
+    },
+    {
+      "text": "Section 82",
+      "label": "PROVISION",
+      "start_char": 18575,
+      "end_char": 18585
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 18586,
+      "end_char": 18589
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 18654,
+      "end_char": 18668
+    },
+    {
+      "text": "Code Of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 18905,
+      "end_char": 18928
+    },
+    {
+      "text": "Section 3(8)",
+      "label": "PROVISION",
+      "start_char": 19013,
+      "end_char": 19025
+    },
+    {
+      "text": "General Clauses Act, 1897",
+      "label": "STATUTE",
+      "start_char": 19033,
+      "end_char": 19058
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 19310,
+      "end_char": 19328
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 19420,
+      "end_char": 19432
+    },
+    {
+      "text": "clause (1) of article 258",
+      "label": "PROVISION",
+      "start_char": 19519,
+      "end_char": 19544
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 19552,
+      "end_char": 19564
+    },
+    {
+      "text": "Constitution (Seventh Amendment) Act, 1956",
+      "label": "STATUTE",
+      "start_char": 19778,
+      "end_char": 19820
+    },
+    {
+      "text": "article 239 or article 243",
+      "label": "PROVISION",
+      "start_char": 20000,
+      "end_char": 20026
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 20034,
+      "end_char": 20046
+    },
+    {
+      "text": "article 239",
+      "label": "PROVISION",
+      "start_char": 20216,
+      "end_char": 20227
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 20235,
+      "end_char": 20247
+    },
+    {
+      "text": "NEEPCO",
+      "label": "ORG",
+      "start_char": 20318,
+      "end_char": 20324
+    },
+    {
+      "text": "Article 12",
+      "label": "PROVISION",
+      "start_char": 20360,
+      "end_char": 20370
+    },
+    {
+      "text": "Government of India‟",
+      "label": "ORG",
+      "start_char": 20691,
+      "end_char": 20711
+    },
+    {
+      "text": "Government of Meghalaya‟.",
+      "label": "ORG",
+      "start_char": 20744,
+      "end_char": 20769
+    },
+    {
+      "text": "National Textile Corporation Limited",
+      "label": "PRECEDENT",
+      "start_char": 20803,
+      "end_char": 20839
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 21190,
+      "end_char": 21208
+    },
+    {
+      "text": "Vide State of Rajasthan v. Sripal Jain: AIR 1963 SC 1323",
+      "label": "PRECEDENT",
+      "start_char": 22600,
+      "end_char": 22656
+    },
+    {
+      "text": "Pashupati Nath Sukul v. Nem Chandra Jain: (1984) 2 SCC 404",
+      "label": "PRECEDENT",
+      "start_char": 22658,
+      "end_char": 22716
+    },
+    {
+      "text": "R.S. Nayak v. A.R. Antulay: (1984) 2 SCC 183",
+      "label": "PRECEDENT",
+      "start_char": 22718,
+      "end_char": 22762
+    },
+    {
+      "text": "V.S. Mallimath v. Union of India: (2001) 4 SCC 31",
+      "label": "PRECEDENT",
+      "start_char": 22767,
+      "end_char": 22816
+    },
+    {
+      "text": "Vide Sukhdev Singh v. Bhagatram Sardar Singh Raghuvanshi:\n(1975) 1 SCC 421",
+      "label": "PRECEDENT",
+      "start_char": 23269,
+      "end_char": 23343
+    },
+    {
+      "text": "Ramana Dayaram Shetty v. International Airport Authority of India: (1979) 3 SCC 489",
+      "label": "PRECEDENT",
+      "start_char": 23348,
+      "end_char": 23431
+    },
+    {
+      "text": "NEEPCO",
+      "label": "RESPONDENT",
+      "start_char": 23453,
+      "end_char": 23459
+    },
+    {
+      "text": "Section 82",
+      "label": "PROVISION",
+      "start_char": 23515,
+      "end_char": 23525
+    },
+    {
+      "text": "Article 12",
+      "label": "PROVISION",
+      "start_char": 23587,
+      "end_char": 23597
+    },
+    {
+      "text": "NEEPCO",
+      "label": "ORG",
+      "start_char": 23650,
+      "end_char": 23656
+    },
+    {
+      "text": "Section 82",
+      "label": "PROVISION",
+      "start_char": 23720,
+      "end_char": 23730
+    },
+    {
+      "text": "National Textile Corporation Limited",
+      "label": "ORG",
+      "start_char": 23816,
+      "end_char": 23852
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 23934,
+      "end_char": 23947
+    },
+    {
+      "text": "Section 82",
+      "label": "PROVISION",
+      "start_char": 24012,
+      "end_char": 24022
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 24034,
+      "end_char": 24047
+    },
+    {
+      "text": "Section 82",
+      "label": "PROVISION",
+      "start_char": 24266,
+      "end_char": 24276
+    },
+    {
+      "text": "Article 12",
+      "label": "PROVISION",
+      "start_char": 24431,
+      "end_char": 24441
+    },
+    {
+      "text": "Section 82",
+      "label": "PROVISION",
+      "start_char": 24499,
+      "end_char": 24509
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 24517,
+      "end_char": 24540
+    },
+    {
+      "text": "Part IV",
+      "label": "PROVISION",
+      "start_char": 24553,
+      "end_char": 24560
+    },
+    {
+      "text": "Section 79",
+      "label": "PROVISION",
+      "start_char": 24579,
+      "end_char": 24589
+    },
+    {
+      "text": "Section 88",
+      "label": "PROVISION",
+      "start_char": 24602,
+      "end_char": 24612
+    },
+    {
+      "text": "Section 79",
+      "label": "PROVISION",
+      "start_char": 24617,
+      "end_char": 24627
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 24739,
+      "end_char": 24757
+    },
+    {
+      "text": "Section 82",
+      "label": "PROVISION",
+      "start_char": 24809,
+      "end_char": 24819
+    },
+    {
+      "text": "Union of India‟",
+      "label": "RESPONDENT",
+      "start_char": 25016,
+      "end_char": 25031
+    },
+    {
+      "text": "Section 82",
+      "label": "PROVISION",
+      "start_char": 25293,
+      "end_char": 25303
+    },
+    {
+      "text": "Section 79",
+      "label": "PROVISION",
+      "start_char": 25341,
+      "end_char": 25351
+    },
+    {
+      "text": "Section 82",
+      "label": "PROVISION",
+      "start_char": 25418,
+      "end_char": 25428
+    },
+    {
+      "text": "Article 12",
+      "label": "PROVISION",
+      "start_char": 25535,
+      "end_char": 25545
+    },
+    {
+      "text": "NEEPCO",
+      "label": "ORG",
+      "start_char": 25578,
+      "end_char": 25584
+    },
+    {
+      "text": "NEEPCO",
+      "label": "ORG",
+      "start_char": 25653,
+      "end_char": 25659
+    },
+    {
+      "text": "Section 82",
+      "label": "PROVISION",
+      "start_char": 25715,
+      "end_char": 25725
+    },
+    {
+      "text": "Section 82",
+      "label": "PROVISION",
+      "start_char": 25889,
+      "end_char": 25899
+    },
+    {
+      "text": "NEEPCO",
+      "label": "RESPONDENT",
+      "start_char": 25918,
+      "end_char": 25924
+    },
+    {
+      "text": "NEEPCO",
+      "label": "ORG",
+      "start_char": 26059,
+      "end_char": 26065
+    },
+    {
+      "text": "Article 12",
+      "label": "PROVISION",
+      "start_char": 26102,
+      "end_char": 26112
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 26120,
+      "end_char": 26132
+    },
+    {
+      "text": "Section 82",
+      "label": "PROVISION",
+      "start_char": 26163,
+      "end_char": 26173
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 26174,
+      "end_char": 26177
+    },
+    {
+      "text": "Pam Developments Pvt. Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 26230,
+      "end_char": 26256
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 26277,
+      "end_char": 26290
+    },
+    {
+      "text": "Section 36(2)",
+      "label": "PROVISION",
+      "start_char": 26394,
+      "end_char": 26407
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 26415,
+      "end_char": 26453
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 26514,
+      "end_char": 26524
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 26641,
+      "end_char": 26654
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 26707,
+      "end_char": 26717
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 26730,
+      "end_char": 26745
+    },
+    {
+      "text": "Order XXVII Rule 8A",
+      "label": "PROVISION",
+      "start_char": 26773,
+      "end_char": 26792
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 26793,
+      "end_char": 26796
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 26876,
+      "end_char": 26886
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 26953,
+      "end_char": 26963
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 26971,
+      "end_char": 26986
+    },
+    {
+      "text": "Pam Developments Pvt",
+      "label": "ORG",
+      "start_char": 27192,
+      "end_char": 27212
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 27266,
+      "end_char": 27276
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 27284,
+      "end_char": 27299
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 27474,
+      "end_char": 27484
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 27500,
+      "end_char": 27510
+    },
+    {
+      "text": "Pam Developments(supra",
+      "label": "ORG",
+      "start_char": 27804,
+      "end_char": 27826
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 27985,
+      "end_char": 27996
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 27997,
+      "end_char": 28000
+    },
+    {
+      "text": "Order XXI Rule 26",
+      "label": "PROVISION",
+      "start_char": 28011,
+      "end_char": 28028
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 28029,
+      "end_char": 28032
+    },
+    {
+      "text": "Order XXI Rule 26",
+      "label": "PROVISION",
+      "start_char": 28220,
+      "end_char": 28237
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 28238,
+      "end_char": 28241
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 28377,
+      "end_char": 28400
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 28411,
+      "end_char": 28443
+    },
+    {
+      "text": "Siemens Public Communications Network Ltd.",
+      "label": "ORG",
+      "start_char": 28468,
+      "end_char": 28510
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 29186,
+      "end_char": 29201
+    },
+    {
+      "text": "Order XXI Rule 26",
+      "label": "PROVISION",
+      "start_char": 29379,
+      "end_char": 29396
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 29397,
+      "end_char": 29400
+    },
+    {
+      "text": "Section 82",
+      "label": "PROVISION",
+      "start_char": 29662,
+      "end_char": 29672
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 29673,
+      "end_char": 29676
+    },
+    {
+      "text": "Meghalaya",
+      "label": "JUDGE",
+      "start_char": 29741,
+      "end_char": 29750
+    },
+    {
+      "text": "05.07.2023",
+      "label": "DATE",
+      "start_char": 29751,
+      "end_char": 29761
+    }
+  ],
+  "precedent_clusters": {
+    "National Textile Corporation Limited v. Nareshkumar Badrikumar Jagad & Ors: (2011) 12 SCC 695": [
+      "National Textile Corporation Limited v. Nareshkumar Badrikumar Jagad & Ors: (2011) 12 SCC 695",
+      "National Textile Corporation Limited"
+    ],
+    "Poresh Kumar Nath v. North Eastern Electric Power Corporation Limited (Government of India Enterprise) & Ors": [
+      "Ltd v. State of West Bengal: (2019) 8",
+      "Poresh Kumar Nath v. North Eastern Electric Power Corporation Limited (Government of India Enterprise) & Ors"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Order XXI Rule 11",
+      "Code of Civil Procedure",
+      "Order XXI Rule 11",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 36",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 36",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 151",
+      "CPC",
+      "Section 151",
+      "CPC"
+    ],
+    [
+      "Article 12",
+      "Constitution of India",
+      "Article 12",
+      "Constitution of India"
+    ],
+    [
+      "Section 82",
+      "Code of Civil Procedure",
+      "Section 82",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 82",
+      "Code of Civil Procedure",
+      "Section 82",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 3(8)",
+      "General Clauses Act",
+      "Section 3(8)",
+      "General Clauses Act"
+    ],
+    [
+      "Article 12",
+      "Constitution",
+      "Article 12",
+      "Constitution"
+    ],
+    [
+      "Section 3(8)",
+      "General Clauses Act",
+      "Section 3(8)",
+      "General Clauses Act"
+    ],
+    [
+      "Section 151",
+      "CPC",
+      "Section 151",
+      "CPC"
+    ],
+    [
+      "Section 36",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 36",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "Section 82",
+      "CPC",
+      "Section 82",
+      "CPC"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "Section 82",
+      "CPC",
+      "Section 82",
+      "CPC"
+    ],
+    [
+      "Section 3(8)",
+      "General Clauses Act",
+      "Section 3(8)",
+      "General Clauses Act"
+    ],
+    [
+      "Section 3(8)",
+      "General Clauses Act",
+      "Section 3(8)",
+      "General Clauses Act"
+    ],
+    [
+      "Section 3(8)",
+      "General Clauses Act",
+      "Section 3(8)",
+      "General Clauses Act"
+    ],
+    [
+      "Order XXI Rule 26",
+      "Code of Civil Procedure",
+      "Order XXI Rule 26",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 151",
+      "CPC",
+      "Section 151",
+      "CPC"
+    ],
+    [
+      "Section 3(3)",
+      "Government of Union Territories Act, 1963",
+      "Section 3(3)",
+      "Government of Union Territories Act, 1963"
+    ],
+    [
+      "Section 36",
+      "A & C Act",
+      "Section 36",
+      "A & C Act"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Section 151",
+      "CPC",
+      "Section 151",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 26",
+      "CPC",
+      "Order XXI Rule 26",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 26",
+      "CPC",
+      "Order XXI Rule 26",
+      "CPC"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act",
+      "Section 37",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 82",
+      "CPC",
+      "Section 82",
+      "CPC"
+    ],
+    [
+      "Section 82",
+      "CPC",
+      "Section 82",
+      "CPC"
+    ],
+    [
+      "Section 82",
+      "CPC",
+      "Section 82",
+      "CPC"
+    ],
+    [
+      "Section 3(8)",
+      "General Clauses Act, 1897",
+      "Section 3(8)",
+      "General Clauses Act, 1897"
+    ],
+    [
+      "clause (1) of article 258",
+      "Constitution",
+      "clause (1) of article 258",
+      "Constitution"
+    ],
+    [
+      "article 239 or article 243",
+      "Constitution",
+      "article 239 or article 243",
+      "Constitution"
+    ],
+    [
+      "article 239",
+      "Constitution",
+      "article 239",
+      "Constitution"
+    ],
+    [
+      "Section 82",
+      "Code of Civil Procedure",
+      "Section 82",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Article 12",
+      "Constitution",
+      "Article 12",
+      "Constitution"
+    ],
+    [
+      "Section 82",
+      "CPC",
+      "Section 82",
+      "CPC"
+    ],
+    [
+      "Section 36(2)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 36(2)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act",
+      "Section 36",
+      "Arbitration Act"
+    ],
+    [
+      "Order XXVII Rule 8A",
+      "CPC",
+      "Order XXVII Rule 8A",
+      "CPC"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act",
+      "Section 36",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 151",
+      "CPC",
+      "Section 151",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 26",
+      "CPC",
+      "Order XXI Rule 26",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 26",
+      "CPC",
+      "Order XXI Rule 26",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 26",
+      "CPC",
+      "Order XXI Rule 26",
+      "CPC"
+    ],
+    [
+      "Section 82",
+      "CPC",
+      "Section 82",
+      "CPC"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act",
+      "Section 37",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 3(8)",
+      "General Clauses Act",
+      "Section 3(8)",
+      "General Clauses Act"
+    ],
+    [
+      "clause (1) of Article 258",
+      "Constitution",
+      "clause (1) of Article 258",
+      "Constitution"
+    ],
+    [
+      "Section 82",
+      "Code of Civil Procedure",
+      "Section 82",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 82",
+      "Code of Civil Procedure",
+      "Section 82",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 82",
+      "CPC",
+      "Section 82",
+      "CPC"
+    ],
+    [
+      "Article 12",
+      "Constitution",
+      "Article 12",
+      "Constitution"
+    ],
+    [
+      "Article 12",
+      "Constitution",
+      "Article 12",
+      "Constitution"
+    ],
+    [
+      "Section 82",
+      "CPC",
+      "Section 82",
+      "CPC"
+    ],
+    [
+      "Article 12",
+      "Constitution",
+      "Article 12",
+      "Constitution"
+    ],
+    [
+      "Section 82",
+      "CPC",
+      "Section 82",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 26",
+      "Code of Civil Procedure",
+      "Order XXI Rule 26",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 82",
+      "CPC",
+      "Section 82",
+      "CPC"
+    ],
+    [
+      "Section 36",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 36",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 36(2)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 36(2)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 36",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 36",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Article 12",
+      "Constitution",
+      "Article 12",
+      "Constitution"
+    ],
+    [
+      "Section 82",
+      "CPC",
+      "Section 82",
+      "CPC"
+    ],
+    [
+      "Article 12",
+      "Constitution",
+      "Article 12",
+      "Constitution"
+    ],
+    [
+      "Section 82",
+      "CPC",
+      "Section 82",
+      "CPC"
+    ],
+    [
+      "Section 82",
+      "CPC",
+      "Section 82",
+      "CPC"
+    ],
+    [
+      "Section 82",
+      "CPC",
+      "Section 82",
+      "CPC"
+    ],
+    [
+      "Article 12",
+      "Constitution",
+      "Article 12",
+      "Constitution"
+    ],
+    [
+      "Section 79",
+      "Code of Civil Procedure",
+      "Section 79",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 82",
+      "Code of Civil Procedure",
+      "Section 82",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 82",
+      "Code of Civil Procedure",
+      "Section 82",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 79",
+      "Code of Civil Procedure",
+      "Section 79",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 82",
+      "Code of Civil Procedure",
+      "Section 82",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Article 12",
+      "Constitution",
+      "Article 12",
+      "Constitution"
+    ],
+    [
+      "Section 82",
+      "Code of Civil Procedure",
+      "Section 82",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 82",
+      "Code of Civil Procedure",
+      "Section 82",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act",
+      "Section 36",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act",
+      "Section 37",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Part IV",
+      "Code of Civil Procedure",
+      "Part IV",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 79",
+      "Code of Civil Procedure",
+      "Section 79",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 88",
+      "Code of Civil Procedure",
+      "Section 88",
+      "Code of Civil Procedure"
+    ]
+  ],
+  "precedent_counts": {
+    "National Textile Corporation Limited v. Nareshkumar Badrikumar Jagad & Ors: (2011) 12 SCC 695": 2,
+    "Poresh Kumar Nath v. North Eastern Electric Power Corporation Limited (Government of India Enterprise) & Ors": 2
+  },
+  "provision_counts": {
+    "Section 34 of Arbitration and Conciliation Act, 1996": 1,
+    "Order XXI Rule 11 of Code of Civil Procedure": 1,
+    "Section 36 of Arbitration and Conciliation Act, 1996": 4,
+    "Section 34 of Arbitration Act": 5,
+    "Section 151 of CPC": 5,
+    "Article 12 of Constitution of India": 1,
+    "Section 82 of Code of Civil Procedure": 10,
+    "Section 3(8) of General Clauses Act": 6,
+    "Article 12 of Constitution": 9,
+    "Article 227 of Constitution": 4,
+    "Section 82 of CPC": 15,
+    "Order XXI Rule 26 of Code of Civil Procedure": 2,
+    "Section 3(3) of Government of Union Territories Act, 1963": 1,
+    "Section 36 of A & C Act": 1,
+    "Article 227 of Constitution of India": 1,
+    "Order XXI Rule 26 of CPC": 5,
+    "Section 37 of Arbitration and Conciliation Act": 3,
+    "Section 3(8) of General Clauses Act, 1897": 1,
+    "clause (1) of article 258 of Constitution": 1,
+    "article 239 or article 243 of Constitution": 1,
+    "article 239 of Constitution": 1,
+    "Section 36(2) of Arbitration and Conciliation Act, 1996": 2,
+    "Section 36 of Arbitration Act": 3,
+    "Order XXVII Rule 8A of CPC": 1,
+    "clause (1) of Article 258 of Constitution": 1,
+    "Section 79 of Code of Civil Procedure": 3,
+    "Part IV of Code of Civil Procedure": 1,
+    "Section 88 of Code of Civil Procedure": 1
+  },
+  "statute_counts": {
+    "Arbitration and Conciliation Act, 1996": 7,
+    "Code of Civil Procedure": 18,
+    "Arbitration Act": 8,
+    "CPC": 26,
+    "Constitution of India": 2,
+    "General Clauses Act": 6,
+    "Constitution": 17,
+    "Government of Union Territories Act, 1963": 1,
+    "A & C Act": 1,
+    "Arbitration and Conciliation Act": 3,
+    "General Clauses Act, 1897": 1
+  }
+}

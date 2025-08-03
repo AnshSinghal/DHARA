@@ -1,0 +1,2902 @@
+{
+  "entities": [
+    {
+      "text": "Karnataka High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 20
+    },
+    {
+      "text": "Sarasamma",
+      "label": "PETITIONER",
+      "start_char": 25,
+      "end_char": 34
+    },
+    {
+      "text": "Karnataka State Finance Corporation",
+      "label": "RESPONDENT",
+      "start_char": 41,
+      "end_char": 76
+    },
+    {
+      "text": "S.R.Krishna Kumar",
+      "label": "LAWYER",
+      "start_char": 102,
+      "end_char": 119
+    },
+    {
+      "text": "S.R.Krishna Kumar",
+      "label": "JUDGE",
+      "start_char": 127,
+      "end_char": 144
+    },
+    {
+      "text": "High Court Of Karnataka At Bengaluru",
+      "label": "COURT",
+      "start_char": 373,
+      "end_char": 409
+    },
+    {
+      "text": "S.R.Krishna Kumar",
+      "label": "JUDGE",
+      "start_char": 595,
+      "end_char": 612
+    },
+    {
+      "text": "Sarasamma",
+      "label": "PETITIONER",
+      "start_char": 714,
+      "end_char": 723
+    },
+    {
+      "text": "M.N. Sheshadri",
+      "label": "LAWYER",
+      "start_char": 1000,
+      "end_char": 1014
+    },
+    {
+      "text": "Varun Gowda",
+      "label": "LAWYER",
+      "start_char": 1056,
+      "end_char": 1067
+    },
+    {
+      "text": "Karnataka State Finance Corporation",
+      "label": "RESPONDENT",
+      "start_char": 1117,
+      "end_char": 1152
+    },
+    {
+      "text": "Ethnic Informatics Pvt Ltd",
+      "label": "RESPONDENT",
+      "start_char": 1394,
+      "end_char": 1420
+    },
+    {
+      "text": "Badrinarayan S",
+      "label": "RESPONDENT",
+      "start_char": 1699,
+      "end_char": 1713
+    },
+    {
+      "text": "Roopa Jagannath",
+      "label": "PETITIONER",
+      "start_char": 2095,
+      "end_char": 2110
+    },
+    {
+      "text": "O.N.Ravishankar",
+      "label": "RESPONDENT",
+      "start_char": 2223,
+      "end_char": 2238
+    },
+    {
+      "text": "O.N.Ramesh Babu",
+      "label": "RESPONDENT",
+      "start_char": 2355,
+      "end_char": 2370
+    },
+    {
+      "text": "Bipin Hegde",
+      "label": "LAWYER",
+      "start_char": 2573,
+      "end_char": 2584
+    },
+    {
+      "text": "21.01.2023",
+      "label": "DATE",
+      "start_char": 3142,
+      "end_char": 3152
+    },
+    {
+      "text": "I.A.No.2",
+      "label": "DATE",
+      "start_char": 3163,
+      "end_char": 3171
+    },
+    {
+      "text": "Commercial Execution No.2673/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 3175,
+      "end_char": 3208
+    },
+    {
+      "text": "NC: 2024:KHC:28312 commercial court",
+      "label": "CASE_NUMBER",
+      "start_char": 3327,
+      "end_char": 3362
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 3445,
+      "end_char": 3456
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 3457,
+      "end_char": 3460
+    },
+    {
+      "text": "O.S.No.6229/2017",
+      "label": "CASE_NUMBER",
+      "start_char": 3517,
+      "end_char": 3533
+    },
+    {
+      "text": "City Civil Court, Bangalore",
+      "label": "COURT",
+      "start_char": 3545,
+      "end_char": 3572
+    },
+    {
+      "text": "M.N. Sheshadri",
+      "label": "LAWYER",
+      "start_char": 3626,
+      "end_char": 3640
+    },
+    {
+      "text": "KSFC",
+      "label": "RESPONDENT",
+      "start_char": 3742,
+      "end_char": 3746
+    },
+    {
+      "text": "Karnataka State Financial Corporation",
+      "label": "RESPONDENT",
+      "start_char": 3974,
+      "end_char": 4011
+    },
+    {
+      "text": "25.11.2015",
+      "label": "DATE",
+      "start_char": 4157,
+      "end_char": 4167
+    },
+    {
+      "text": "No.521/2004",
+      "label": "CASE_NUMBER",
+      "start_char": 4184,
+      "end_char": 4195
+    },
+    {
+      "text": "KSFC",
+      "label": "RESPONDENT",
+      "start_char": 4463,
+      "end_char": 4467
+    },
+    {
+      "text": "XXXVII NC: 2024:KHC:28312",
+      "label": "CASE_NUMBER",
+      "start_char": 4479,
+      "end_char": 4504
+    },
+    {
+      "text": "City Civil and Sessions Judge, Bangalore (CCH-38)",
+      "label": "COURT",
+      "start_char": 4511,
+      "end_char": 4560
+    },
+    {
+      "text": "No.2673/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 4569,
+      "end_char": 4581
+    },
+    {
+      "text": "Bangalore city",
+      "label": "GPE",
+      "start_char": 4670,
+      "end_char": 4684
+    },
+    {
+      "text": "City Civil Court , Bangalore",
+      "label": "COURT",
+      "start_char": 4690,
+      "end_char": 4718
+    },
+    {
+      "text": "17.08.2020",
+      "label": "DATE",
+      "start_char": 4748,
+      "end_char": 4758
+    },
+    {
+      "text": "Section 5(2)",
+      "label": "PROVISION",
+      "start_char": 4768,
+      "end_char": 4780
+    },
+    {
+      "text": "Bangalore City Civil Court Act, 1979",
+      "label": "STATUTE",
+      "start_char": 4788,
+      "end_char": 4824
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 4830,
+      "end_char": 4840
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 4841,
+      "end_char": 4844
+    },
+    {
+      "text": "No.2673/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 4933,
+      "end_char": 4945
+    },
+    {
+      "text": "City Civil and Sessions Judge, Bangalore (CCH-84)",
+      "label": "COURT",
+      "start_char": 5024,
+      "end_char": 5073
+    },
+    {
+      "text": "No.2673/2018",
+      "label": "DATE",
+      "start_char": 5101,
+      "end_char": 5113
+    },
+    {
+      "text": "City Civil Court, Bangalore",
+      "label": "COURT",
+      "start_char": 5138,
+      "end_char": 5165
+    },
+    {
+      "text": "Section 5(2)",
+      "label": "PROVISION",
+      "start_char": 5205,
+      "end_char": 5217
+    },
+    {
+      "text": "Bangalore City Civil Court Act, 1979",
+      "label": "STATUTE",
+      "start_char": 5225,
+      "end_char": 5261
+    },
+    {
+      "text": "No.2683/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 5330,
+      "end_char": 5342
+    },
+    {
+      "text": "City Civil and Sessions Judge, Bangalore (CCH-84)",
+      "label": "COURT",
+      "start_char": 5379,
+      "end_char": 5428
+    },
+    {
+      "text": "Bengaluru",
+      "label": "GPE",
+      "start_char": 5522,
+      "end_char": 5531
+    },
+    {
+      "text": "O.S.No.6229/2017",
+      "label": "CASE_NUMBER",
+      "start_char": 5646,
+      "end_char": 5662
+    },
+    {
+      "text": "City Civil Judge, Bangalore",
+      "label": "COURT",
+      "start_char": 5682,
+      "end_char": 5709
+    },
+    {
+      "text": "NC: 2024:KHC:28312",
+      "label": "CASE_NUMBER",
+      "start_char": 5778,
+      "end_char": 5796
+    },
+    {
+      "text": "KSFC",
+      "label": "RESPONDENT",
+      "start_char": 5990,
+      "end_char": 5994
+    },
+    {
+      "text": "30.06.2021",
+      "label": "DATE",
+      "start_char": 6126,
+      "end_char": 6136
+    },
+    {
+      "text": "W.P.No.13079/2021",
+      "label": "CASE_NUMBER",
+      "start_char": 6631,
+      "end_char": 6648
+    },
+    {
+      "text": "06.01.2023",
+      "label": "DATE",
+      "start_char": 6730,
+      "end_char": 6740
+    },
+    {
+      "text": "I.A.Nos",
+      "label": "DATE",
+      "start_char": 6792,
+      "end_char": 6799
+    },
+    {
+      "text": "Misc.521/2004",
+      "label": "CASE_NUMBER",
+      "start_char": 7550,
+      "end_char": 7563
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 7634,
+      "end_char": 7661
+    },
+    {
+      "text": "Section 2(c)",
+      "label": "PROVISION",
+      "start_char": 7928,
+      "end_char": 7940
+    },
+    {
+      "text": "Section 6",
+      "label": "PROVISION",
+      "start_char": 8014,
+      "end_char": 8023
+    },
+    {
+      "text": "No.521/2004",
+      "label": "CASE_NUMBER",
+      "start_char": 8278,
+      "end_char": 8289
+    },
+    {
+      "text": "NC: 2024:KHC:28312",
+      "label": "CASE_NUMBER",
+      "start_char": 8385,
+      "end_char": 8403
+    },
+    {
+      "text": "Section 2(c)",
+      "label": "PROVISION",
+      "start_char": 8404,
+      "end_char": 8416
+    },
+    {
+      "text": "08.06.2002",
+      "label": "DATE",
+      "start_char": 8684,
+      "end_char": 8694
+    },
+    {
+      "text": "No.521/2004",
+      "label": "CASE_NUMBER",
+      "start_char": 8738,
+      "end_char": 8749
+    },
+    {
+      "text": "08.06.2002",
+      "label": "DATE",
+      "start_char": 8847,
+      "end_char": 8857
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 9069,
+      "end_char": 9079
+    },
+    {
+      "text": "Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002",
+      "label": "STATUTE",
+      "start_char": 9087,
+      "end_char": 9187
+    },
+    {
+      "text": "SARFAESI Act",
+      "label": "STATUTE",
+      "start_char": 9204,
+      "end_char": 9216
+    },
+    {
+      "text": "Section 13(2)",
+      "label": "PROVISION",
+      "start_char": 9340,
+      "end_char": 9353
+    },
+    {
+      "text": "SARFAESI Act",
+      "label": "STATUTE",
+      "start_char": 9361,
+      "end_char": 9373
+    },
+    {
+      "text": "20.02.2018",
+      "label": "DATE",
+      "start_char": 9441,
+      "end_char": 9451
+    },
+    {
+      "text": "KSFC",
+      "label": "RESPONDENT",
+      "start_char": 9490,
+      "end_char": 9494
+    },
+    {
+      "text": "11.07.2018",
+      "label": "DATE",
+      "start_char": 9549,
+      "end_char": 9559
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 9628,
+      "end_char": 9638
+    },
+    {
+      "text": "SARFAESI Act",
+      "label": "STATUTE",
+      "start_char": 9646,
+      "end_char": 9658
+    },
+    {
+      "text": "NC: 2024:KHC:28312 I.A.No.2",
+      "label": "CASE_NUMBER",
+      "start_char": 9677,
+      "end_char": 9704
+    },
+    {
+      "text": "Balawant N.Vishwamitra vs. Yadav Sadashiv Mule - (2004) 8",
+      "label": "PRECEDENT",
+      "start_char": 9852,
+      "end_char": 9909
+    },
+    {
+      "text": "Associated Power Co. Ltd., vs. Ram Taran Roy - AIR 1970 CAL 75",
+      "label": "PRECEDENT",
+      "start_char": 9924,
+      "end_char": 9986
+    },
+    {
+      "text": "Transcore vs. Union of India and Another - (2008) 1 SCC 125",
+      "label": "PRECEDENT",
+      "start_char": 9994,
+      "end_char": 10053
+    },
+    {
+      "text": "Sundaram Pillai vs. Pattabhiraman - (1985) 1",
+      "label": "PRECEDENT",
+      "start_char": 10060,
+      "end_char": 10104
+    },
+    {
+      "text": "Dattatreya Govinda Mahajan vs. State of Maharastra - (1977) 2 SCC 548",
+      "label": "PRECEDENT",
+      "start_char": 10118,
+      "end_char": 10187
+    },
+    {
+      "text": "Premiere Automobiles Ltd., vs.Kamlekar Shantaram Vadke - (1976) 1 SCC 496",
+      "label": "PRECEDENT",
+      "start_char": 10194,
+      "end_char": 10267
+    },
+    {
+      "text": "Santosh Kumar vs. Central Warehousing Corporation - (1986) 2 SCC 343",
+      "label": "PRECEDENT",
+      "start_char": 10275,
+      "end_char": 10343
+    },
+    {
+      "text": "Babu Varghese vs. Bar Council of Kerala - (1999) 3 SCC 422",
+      "label": "PRECEDENT",
+      "start_char": 10352,
+      "end_char": 10410
+    },
+    {
+      "text": "M.D. Frozen Foods Exports Pvt. Ltd. & Others vs. Hero Fincorp Ltd. - Civil Appeal No. 15147 of 2017",
+      "label": "PRECEDENT",
+      "start_char": 10671,
+      "end_char": 10770
+    },
+    {
+      "text": "21.09.2017",
+      "label": "DATE",
+      "start_char": 10777,
+      "end_char": 10787
+    },
+    {
+      "text": "Transcore vs. Union of India & Another - (2008) 1 SCC 125",
+      "label": "PRECEDENT",
+      "start_char": 10794,
+      "end_char": 10851
+    },
+    {
+      "text": "Susi Mills Pvt",
+      "label": "ORG",
+      "start_char": 10864,
+      "end_char": 10878
+    },
+    {
+      "text": "Ltd., vs. The Tamil Nadu industrial Investment Corporation Ltd., W.P. (MD) No.6464 of 2010",
+      "label": "PRECEDENT",
+      "start_char": 10880,
+      "end_char": 10970
+    },
+    {
+      "text": "Madras High Court at Madhurai",
+      "label": "COURT",
+      "start_char": 10985,
+      "end_char": 11014
+    },
+    {
+      "text": "16.02.2012",
+      "label": "DATE",
+      "start_char": 11021,
+      "end_char": 11031
+    },
+    {
+      "text": "Swaraj Infrastructure Pvt",
+      "label": "ORG",
+      "start_char": 11038,
+      "end_char": 11063
+    },
+    {
+      "text": "Ltd., vs. Kotak Mahindra Bank Ltd., - Civil Appeal No. 1291 of 2019",
+      "label": "PRECEDENT",
+      "start_char": 11065,
+      "end_char": 11132
+    },
+    {
+      "text": "29.01.2019",
+      "label": "DATE",
+      "start_char": 11139,
+      "end_char": 11149
+    },
+    {
+      "text": "Manganlal vs. M/s Jaiswal Industries, Neemach and others - (1989) 4",
+      "label": "PRECEDENT",
+      "start_char": 11155,
+      "end_char": 11222
+    },
+    {
+      "text": "M/s. Hotel Nataraja vs. Karnataka State Financial Corporation - ILR 1988 KAR 2236",
+      "label": "PRECEDENT",
+      "start_char": 11237,
+      "end_char": 11318
+    },
+    {
+      "text": "Karnataka State Industrial Investment & Development Ltd., vs. S.K.K. Kukarni & others - Civil Appeal No.7288 of 2008",
+      "label": "PRECEDENT",
+      "start_char": 11326,
+      "end_char": 11442
+    },
+    {
+      "text": "11.12.2008",
+      "label": "DATE",
+      "start_char": 11449,
+      "end_char": 11459
+    },
+    {
+      "text": "Maharashtra State Financial Corporation vs. Jaycee Drugs and Pharmaceuticals Pvt. Ltd and Others - (1991) 2",
+      "label": "PRECEDENT",
+      "start_char": 11468,
+      "end_char": 11575
+    },
+    {
+      "text": "SCC 637",
+      "label": "CASE_NUMBER",
+      "start_char": 11576,
+      "end_char": 11583
+    },
+    {
+      "text": "17/08/2020",
+      "label": "DATE",
+      "start_char": 11626,
+      "end_char": 11636
+    },
+    {
+      "text": "Execution Petition No. 2673/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 11640,
+      "end_char": 11672
+    },
+    {
+      "text": "17.08.2020",
+      "label": "DATE",
+      "start_char": 11704,
+      "end_char": 11714
+    },
+    {
+      "text": "28.03.2023",
+      "label": "DATE",
+      "start_char": 11759,
+      "end_char": 11769
+    },
+    {
+      "text": "WP No.17947/2021",
+      "label": "CASE_NUMBER",
+      "start_char": 11773,
+      "end_char": 11789
+    },
+    {
+      "text": "Kandla Export Corporation and another vs. OCI Corporation and another - (2018)",
+      "label": "PRECEDENT",
+      "start_char": 11796,
+      "end_char": 11874
+    },
+    {
+      "text": "Jaycee Housing Pvt. Ltd., vs. Registrar (General), Orissa high Court, Cuttack",
+      "label": "PRECEDENT",
+      "start_char": 11893,
+      "end_char": 11970
+    },
+    {
+      "text": "Civil Appeal No. 6876/2022",
+      "label": "CASE_NUMBER",
+      "start_char": 11980,
+      "end_char": 12006
+    },
+    {
+      "text": "19.10.2022",
+      "label": "DATE",
+      "start_char": 12013,
+      "end_char": 12023
+    },
+    {
+      "text": "Bhagyoday Co-operative Bank Ltd., vs. Ravindra Balakrishna Patel Deceased",
+      "label": "PRECEDENT",
+      "start_char": 12032,
+      "end_char": 12105
+    },
+    {
+      "text": "Civil Appeal No 8531-8532/2022",
+      "label": "CASE_NUMBER",
+      "start_char": 12132,
+      "end_char": 12162
+    },
+    {
+      "text": "Ambalal Sarabhai Enterprises Limited vs. K.S.Infraspace LLP and Another - (2020)",
+      "label": "PRECEDENT",
+      "start_char": 12170,
+      "end_char": 12250
+    },
+    {
+      "text": "25.11.2015",
+      "label": "DATE",
+      "start_char": 12614,
+      "end_char": 12624
+    },
+    {
+      "text": "No.521/2004",
+      "label": "CASE_NUMBER",
+      "start_char": 12641,
+      "end_char": 12652
+    },
+    {
+      "text": "O.S.No.6229/2017",
+      "label": "CASE_NUMBER",
+      "start_char": 12832,
+      "end_char": 12848
+    },
+    {
+      "text": "22.09.2020",
+      "label": "DATE",
+      "start_char": 13022,
+      "end_char": 13032
+    },
+    {
+      "text": "O.S.No.6229/2017",
+      "label": "CASE_NUMBER",
+      "start_char": 13233,
+      "end_char": 13249
+    },
+    {
+      "text": "City Civil Court, Bangalore",
+      "label": "COURT",
+      "start_char": 13700,
+      "end_char": 13727
+    },
+    {
+      "text": "City Civil Judge, (CCH-38), Bangalore",
+      "label": "COURT",
+      "start_char": 13779,
+      "end_char": 13816
+    },
+    {
+      "text": "LXXXIII City Civil Judge, Bangalore, (CCH-84)",
+      "label": "COURT",
+      "start_char": 13879,
+      "end_char": 13924
+    },
+    {
+      "text": "City Civil and Sessions Judge, Bangalore (CCH-88)",
+      "label": "COURT",
+      "start_char": 14073,
+      "end_char": 14122
+    },
+    {
+      "text": "NC: 2024:KHC:28312 9",
+      "label": "CASE_NUMBER",
+      "start_char": 14169,
+      "end_char": 14189
+    },
+    {
+      "text": "Section 2(c)(i)",
+      "label": "PROVISION",
+      "start_char": 14416,
+      "end_char": 14431
+    },
+    {
+      "text": "ADMN-I-A/812/2020",
+      "label": "CASE_NUMBER",
+      "start_char": 14678,
+      "end_char": 14695
+    },
+    {
+      "text": "22.12.2020",
+      "label": "DATE",
+      "start_char": 14702,
+      "end_char": 14712
+    },
+    {
+      "text": "29.12.2020",
+      "label": "DATE",
+      "start_char": 14787,
+      "end_char": 14797
+    },
+    {
+      "text": "section2 (c) (f)",
+      "label": "PROVISION",
+      "start_char": 14948,
+      "end_char": 14964
+    },
+    {
+      "text": "Commercial Court 2015",
+      "label": "COURT",
+      "start_char": 14972,
+      "end_char": 14993
+    },
+    {
+      "text": "Sec.",
+      "label": "PROVISION",
+      "start_char": 15055,
+      "end_char": 15059
+    },
+    {
+      "text": "Sec.2(c)",
+      "label": "PROVISION",
+      "start_char": 15416,
+      "end_char": 15424
+    },
+    {
+      "text": "Commercial Court Act",
+      "label": "STATUTE",
+      "start_char": 15432,
+      "end_char": 15452
+    },
+    {
+      "text": "Section 38",
+      "label": "PROVISION",
+      "start_char": 15657,
+      "end_char": 15667
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 15671,
+      "end_char": 15674
+    },
+    {
+      "text": "KSFC",
+      "label": "PETITIONER",
+      "start_char": 15758,
+      "end_char": 15762
+    },
+    {
+      "text": "JDR",
+      "label": "RESPONDENT",
+      "start_char": 15963,
+      "end_char": 15966
+    },
+    {
+      "text": "521/2004",
+      "label": "DATE",
+      "start_char": 16185,
+      "end_char": 16193
+    },
+    {
+      "text": "25.11.2015.So",
+      "label": "DATE",
+      "start_char": 16197,
+      "end_char": 16210
+    },
+    {
+      "text": "Sec. 2(c)",
+      "label": "PROVISION",
+      "start_char": 16456,
+      "end_char": 16465
+    },
+    {
+      "text": "Commercial Court Act",
+      "label": "STATUTE",
+      "start_char": 16469,
+      "end_char": 16489
+    },
+    {
+      "text": "Sec.",
+      "label": "PROVISION",
+      "start_char": 16494,
+      "end_char": 16498
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 16505,
+      "end_char": 16508
+    },
+    {
+      "text": "Sec.",
+      "label": "PROVISION",
+      "start_char": 16513,
+      "end_char": 16517
+    },
+    {
+      "text": "State Financial Corporation Act, 1951",
+      "label": "STATUTE",
+      "start_char": 16528,
+      "end_char": 16565
+    },
+    {
+      "text": "31 r/w 32",
+      "label": "PROVISION",
+      "start_char": 16799,
+      "end_char": 16808
+    },
+    {
+      "text": "State Financial Corporation Act, 1951",
+      "label": "STATUTE",
+      "start_char": 16812,
+      "end_char": 16849
+    },
+    {
+      "text": "Section 2(c)(i)",
+      "label": "PROVISION",
+      "start_char": 16919,
+      "end_char": 16934
+    },
+    {
+      "text": "Section 6",
+      "label": "PROVISION",
+      "start_char": 17268,
+      "end_char": 17277
+    },
+    {
+      "text": "sections 16 to 20",
+      "label": "PROVISION",
+      "start_char": 17904,
+      "end_char": 17921
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 17929,
+      "end_char": 17970
+    },
+    {
+      "text": "Section 2(c)",
+      "label": "PROVISION",
+      "start_char": 18190,
+      "end_char": 18202
+    },
+    {
+      "text": "Misc.521/2004l",
+      "label": "CASE_NUMBER",
+      "start_char": 18512,
+      "end_char": 18526
+    },
+    {
+      "text": "Section 2(c)(i)",
+      "label": "PROVISION",
+      "start_char": 18573,
+      "end_char": 18588
+    },
+    {
+      "text": "Section 2(c)(i)",
+      "label": "PROVISION",
+      "start_char": 19222,
+      "end_char": 19237
+    },
+    {
+      "text": "25.01.2015",
+      "label": "DATE",
+      "start_char": 19513,
+      "end_char": 19523
+    },
+    {
+      "text": "Section 31(1) and 32",
+      "label": "PROVISION",
+      "start_char": 19590,
+      "end_char": 19610
+    },
+    {
+      "text": "State Financial Corporations Act",
+      "label": "STATUTE",
+      "start_char": 19618,
+      "end_char": 19650
+    },
+    {
+      "text": "- 16 - NC: 2024",
+      "label": "DATE",
+      "start_char": 19687,
+      "end_char": 19702
+    },
+    {
+      "text": "Misc.521/2004",
+      "label": "CASE_NUMBER",
+      "start_char": 20385,
+      "end_char": 20398
+    },
+    {
+      "text": "Section 6",
+      "label": "PROVISION",
+      "start_char": 20642,
+      "end_char": 20651
+    },
+    {
+      "text": "25.11.2015",
+      "label": "DATE",
+      "start_char": 20956,
+      "end_char": 20966
+    },
+    {
+      "text": "Misc.521/2004",
+      "label": "CASE_NUMBER",
+      "start_char": 20977,
+      "end_char": 20990
+    },
+    {
+      "text": "Misc.521/2004",
+      "label": "CASE_NUMBER",
+      "start_char": 21714,
+      "end_char": 21727
+    },
+    {
+      "text": "Misc.521/2004",
+      "label": "CASE_NUMBER",
+      "start_char": 23183,
+      "end_char": 23196
+    },
+    {
+      "text": "Order 21",
+      "label": "PROVISION",
+      "start_char": 23796,
+      "end_char": 23804
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 23805,
+      "end_char": 23808
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 23857,
+      "end_char": 23867
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 24014,
+      "end_char": 24065
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 24310,
+      "end_char": 24361
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 24887,
+      "end_char": 24938
+    },
+    {
+      "text": "Order XV-A]",
+      "label": "PROVISION",
+      "start_char": 25570,
+      "end_char": 25581
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908):",
+      "label": "STATUTE",
+      "start_char": 25589,
+      "end_char": 25631
+    },
+    {
+      "text": "proviso to sub-rule (1) of Rule 1 of Order V",
+      "label": "PROVISION",
+      "start_char": 25650,
+      "end_char": 25694
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 25702,
+      "end_char": 25743
+    },
+    {
+      "text": "21 - NC:",
+      "label": "DATE",
+      "start_char": 26470,
+      "end_char": 26478
+    },
+    {
+      "text": "Section 15(2)",
+      "label": "PROVISION",
+      "start_char": 26534,
+      "end_char": 26547
+    },
+    {
+      "text": "Kerala High Court",
+      "label": "COURT",
+      "start_char": 26627,
+      "end_char": 26644
+    },
+    {
+      "text": "Shaji Augustine vs. Chitra Woods Manners Welfare Association - (2021) SCC Online KER 9840",
+      "label": "PRECEDENT",
+      "start_char": 26660,
+      "end_char": 26749
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 27006,
+      "end_char": 27027
+    },
+    {
+      "text": "Section 2(e)",
+      "label": "PROVISION",
+      "start_char": 27030,
+      "end_char": 27042
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 27050,
+      "end_char": 27065
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 27272,
+      "end_char": 27285
+    },
+    {
+      "text": "Atlanta Limited",
+      "label": "PRECEDENT",
+      "start_char": 27289,
+      "end_char": 27304
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 27369,
+      "end_char": 27384
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 27831,
+      "end_char": 27846
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 27854,
+      "end_char": 27869
+    },
+    {
+      "text": "NC: 2024:KHC:28312 23",
+      "label": "CASE_NUMBER",
+      "start_char": 28462,
+      "end_char": 28483
+    },
+    {
+      "text": "High Court of Kerala",
+      "label": "COURT",
+      "start_char": 28501,
+      "end_char": 28521
+    },
+    {
+      "text": "Section 10(3)",
+      "label": "PROVISION",
+      "start_char": 28682,
+      "end_char": 28695
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 28703,
+      "end_char": 28724
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 28807,
+      "end_char": 28839
+    },
+    {
+      "text": "Section 15(2)",
+      "label": "PROVISION",
+      "start_char": 29061,
+      "end_char": 29074
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 29152,
+      "end_char": 29184
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 29418,
+      "end_char": 29428
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 29547,
+      "end_char": 29598
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 29843,
+      "end_char": 29894
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 - 23 - NC: 2024:KHC:28312 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 30420,
+      "end_char": 30497
+    },
+    {
+      "text": "Order XV-A]",
+      "label": "PROVISION",
+      "start_char": 31102,
+      "end_char": 31113
+    },
+    {
+      "text": "Civil Procedure Code, 1908 (5 of 1908):",
+      "label": "STATUTE",
+      "start_char": 31121,
+      "end_char": 31160
+    },
+    {
+      "text": "proviso to sub-rule (1) of Rule 1 of Order V",
+      "label": "PROVISION",
+      "start_char": 31179,
+      "end_char": 31223
+    },
+    {
+      "text": "Civil Procedure Code, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 31231,
+      "end_char": 31269
+    },
+    {
+      "text": "proviso to Section 15(2)",
+      "label": "PROVISION",
+      "start_char": 32002,
+      "end_char": 32026
+    },
+    {
+      "text": "sub-section (3) of Section 15",
+      "label": "PROVISION",
+      "start_char": 32210,
+      "end_char": 32239
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 32330,
+      "end_char": 32351
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 32478,
+      "end_char": 32488
+    },
+    {
+      "text": "Civil Procedure Code, 1908",
+      "label": "STATUTE",
+      "start_char": 32572,
+      "end_char": 32598
+    },
+    {
+      "text": "Civil Procedure Code, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 32669,
+      "end_char": 32707
+    },
+    {
+      "text": "Civil Procedure Code, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 32948,
+      "end_char": 32986
+    },
+    {
+      "text": "Civil Procedure Code, 1908",
+      "label": "STATUTE",
+      "start_char": 33186,
+      "end_char": 33212
+    },
+    {
+      "text": "Civil Procedure Code, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 33280,
+      "end_char": 33318
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 33366,
+      "end_char": 33389
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 33461,
+      "end_char": 33484
+    },
+    {
+      "text": "Order XXI",
+      "label": "PROVISION",
+      "start_char": 33700,
+      "end_char": 33709
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 33710,
+      "end_char": 33713
+    },
+    {
+      "text": "Order XXI",
+      "label": "PROVISION",
+      "start_char": 33877,
+      "end_char": 33886
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 33887,
+      "end_char": 33890
+    },
+    {
+      "text": "Josekutty Joseph",
+      "label": "PRECEDENT",
+      "start_char": 33900,
+      "end_char": 33916
+    },
+    {
+      "text": "Sections 8 and 18",
+      "label": "PROVISION",
+      "start_char": 33988,
+      "end_char": 34005
+    },
+    {
+      "text": "Family Courts Act",
+      "label": "STATUTE",
+      "start_char": 34013,
+      "end_char": 34030
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 34032,
+      "end_char": 34041
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 34178,
+      "end_char": 34187
+    },
+    {
+      "text": "Section 18",
+      "label": "PROVISION",
+      "start_char": 34193,
+      "end_char": 34203
+    },
+    {
+      "text": "25 - NC: 2024",
+      "label": "DATE",
+      "start_char": 34294,
+      "end_char": 34307
+    },
+    {
+      "text": "Sec. 7(1)(a)",
+      "label": "PROVISION",
+      "start_char": 34492,
+      "end_char": 34504
+    },
+    {
+      "text": "Sec. 8",
+      "label": "PROVISION",
+      "start_char": 35129,
+      "end_char": 35135
+    },
+    {
+      "text": "Section 7(1)",
+      "label": "PROVISION",
+      "start_char": 35210,
+      "end_char": 35222
+    },
+    {
+      "text": "Section 8(c)(i)",
+      "label": "PROVISION",
+      "start_char": 35472,
+      "end_char": 35487
+    },
+    {
+      "text": "Section 7(1)(a)",
+      "label": "PROVISION",
+      "start_char": 35761,
+      "end_char": 35776
+    },
+    {
+      "text": "Sec.",
+      "label": "PROVISION",
+      "start_char": 35854,
+      "end_char": 35858
+    },
+    {
+      "text": "Section 18",
+      "label": "PROVISION",
+      "start_char": 36081,
+      "end_char": 36091
+    },
+    {
+      "text": "Section 7(1)(b)",
+      "label": "PROVISION",
+      "start_char": 36625,
+      "end_char": 36640
+    },
+    {
+      "text": "KHC:28312",
+      "label": "CASE_NUMBER",
+      "start_char": 36825,
+      "end_char": 36834
+    },
+    {
+      "text": "Section 18",
+      "label": "PROVISION",
+      "start_char": 37246,
+      "end_char": 37256
+    },
+    {
+      "text": "Order 21, Rule 10",
+      "label": "PROVISION",
+      "start_char": 37480,
+      "end_char": 37497
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 37499,
+      "end_char": 37505
+    },
+    {
+      "text": "Pala",
+      "label": "GPE",
+      "start_char": 38056,
+      "end_char": 38060
+    },
+    {
+      "text": "E.P. 19/1997",
+      "label": "CASE_NUMBER",
+      "start_char": 38091,
+      "end_char": 38103
+    },
+    {
+      "text": "E.P. 19/1997",
+      "label": "CASE_NUMBER",
+      "start_char": 38180,
+      "end_char": 38192
+    },
+    {
+      "text": "Sec. 8(c)",
+      "label": "PROVISION",
+      "start_char": 38272,
+      "end_char": 38281
+    },
+    {
+      "text": "Sub Court, Pala",
+      "label": "COURT",
+      "start_char": 38311,
+      "end_char": 38326
+    },
+    {
+      "text": "E.P. 19/1997",
+      "label": "CASE_NUMBER",
+      "start_char": 38371,
+      "end_char": 38383
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 38578,
+      "end_char": 38599
+    },
+    {
+      "text": "Order XXI",
+      "label": "PROVISION",
+      "start_char": 38928,
+      "end_char": 38937
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 38938,
+      "end_char": 38941
+    },
+    {
+      "text": "Section 15(1)",
+      "label": "PROVISION",
+      "start_char": 39044,
+      "end_char": 39057
+    },
+    {
+      "text": "Section 15(3)",
+      "label": "PROVISION",
+      "start_char": 39194,
+      "end_char": 39207
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 39215,
+      "end_char": 39236
+    },
+    {
+      "text": "Gujarat High Court",
+      "label": "COURT",
+      "start_char": 39394,
+      "end_char": 39412
+    },
+    {
+      "text": "Jagmohan Bel",
+      "label": "PRECEDENT",
+      "start_char": 39416,
+      "end_char": 39428
+    },
+    {
+      "text": "sub-section (1) of Section 3",
+      "label": "PROVISION",
+      "start_char": 39524,
+      "end_char": 39552
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 39560,
+      "end_char": 39581
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 39644,
+      "end_char": 39654
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 39662,
+      "end_char": 39677
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 39724,
+      "end_char": 39734
+    },
+    {
+      "text": "SLP No.17433/2021",
+      "label": "CASE_NUMBER",
+      "start_char": 39738,
+      "end_char": 39755
+    },
+    {
+      "text": "01.12.2023",
+      "label": "DATE",
+      "start_char": 39762,
+      "end_char": 39772
+    },
+    {
+      "text": "High Court of Chattisgarh",
+      "label": "COURT",
+      "start_char": 39794,
+      "end_char": 39819
+    },
+    {
+      "text": "South Eastern Coal Fields Ltd., vs. M/s.Tirupathi Constructions - 2018 SCC Online Chh 63",
+      "label": "PRECEDENT",
+      "start_char": 39835,
+      "end_char": 39923
+    },
+    {
+      "text": "Section 15(5)",
+      "label": "PROVISION",
+      "start_char": 40066,
+      "end_char": 40079
+    },
+    {
+      "text": "Commercial Appellate Division of High Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 40130,
+      "end_char": 40184
+    },
+    {
+      "text": "Section 15(2)",
+      "label": "PROVISION",
+      "start_char": 40236,
+      "end_char": 40249
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 40354,
+      "end_char": 40392
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 40680,
+      "end_char": 40690
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 40698,
+      "end_char": 40736
+    },
+    {
+      "text": "Section 2(1)(c)",
+      "label": "PROVISION",
+      "start_char": 40937,
+      "end_char": 40952
+    },
+    {
+      "text": "sub-section (2) of Section 15",
+      "label": "PROVISION",
+      "start_char": 41101,
+      "end_char": 41130
+    },
+    {
+      "text": "Constitution of Commercial Division",
+      "label": "STATUTE",
+      "start_char": 41223,
+      "end_char": 41258
+    },
+    {
+      "text": "26.09.2003",
+      "label": "DATE",
+      "start_char": 41402,
+      "end_char": 41412
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 41633,
+      "end_char": 41643
+    },
+    {
+      "text": "sub-section (2) of Section 15",
+      "label": "PROVISION",
+      "start_char": 41707,
+      "end_char": 41736
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 42132,
+      "end_char": 42145
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 42317,
+      "end_char": 42327
+    },
+    {
+      "text": "subsection (2) of Section 15",
+      "label": "PROVISION",
+      "start_char": 42575,
+      "end_char": 42603
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 42917,
+      "end_char": 42927
+    },
+    {
+      "text": "SLP No.3388/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 42931,
+      "end_char": 42947
+    },
+    {
+      "text": "04.02.2019",
+      "label": "DATE",
+      "start_char": 42954,
+      "end_char": 42964
+    },
+    {
+      "text": "Sections 6 and 15",
+      "label": "PROVISION",
+      "start_char": 43051,
+      "end_char": 43068
+    },
+    {
+      "text": "Order 21",
+      "label": "PROVISION",
+      "start_char": 43247,
+      "end_char": 43255
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 43256,
+      "end_char": 43259
+    },
+    {
+      "text": "proviso to Section 15(2)",
+      "label": "PROVISION",
+      "start_char": 43748,
+      "end_char": 43772
+    },
+    {
+      "text": "Sections 15(3) and 15(4)",
+      "label": "PROVISION",
+      "start_char": 44025,
+      "end_char": 44049
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 44597,
+      "end_char": 44607
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 44691,
+      "end_char": 44720
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 44783,
+      "end_char": 44786
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 44799,
+      "end_char": 44809
+    },
+    {
+      "text": "- 31 - NC: 2024",
+      "label": "DATE",
+      "start_char": 44883,
+      "end_char": 44898
+    },
+    {
+      "text": "Section 26",
+      "label": "PROVISION",
+      "start_char": 44923,
+      "end_char": 44933
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 44934,
+      "end_char": 44937
+    },
+    {
+      "text": "Order 20",
+      "label": "PROVISION",
+      "start_char": 44950,
+      "end_char": 44958
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 44959,
+      "end_char": 44962
+    },
+    {
+      "text": "Sections 38 to 54 nor Order 21",
+      "label": "PROVISION",
+      "start_char": 45038,
+      "end_char": 45068
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 45069,
+      "end_char": 45072
+    },
+    {
+      "text": "Sections 6 and 15",
+      "label": "PROVISION",
+      "start_char": 45497,
+      "end_char": 45514
+    },
+    {
+      "text": "Sections 6 and 15",
+      "label": "PROVISION",
+      "start_char": 46861,
+      "end_char": 46878
+    },
+    {
+      "text": "KSFC",
+      "label": "ORG",
+      "start_char": 46975,
+      "end_char": 46979
+    },
+    {
+      "text": "city civil court, Bangalore (CCH-38)",
+      "label": "COURT",
+      "start_char": 47290,
+      "end_char": 47326
+    },
+    {
+      "text": "17.08.2020",
+      "label": "DATE",
+      "start_char": 47395,
+      "end_char": 47405
+    },
+    {
+      "text": "22.12.2020",
+      "label": "DATE",
+      "start_char": 47560,
+      "end_char": 47570
+    },
+    {
+      "text": "17.08.2020",
+      "label": "DATE",
+      "start_char": 48071,
+      "end_char": 48081
+    },
+    {
+      "text": "22.12.2020",
+      "label": "DATE",
+      "start_char": 48086,
+      "end_char": 48096
+    },
+    {
+      "text": "Section 15(2)",
+      "label": "PROVISION",
+      "start_char": 48155,
+      "end_char": 48168
+    },
+    {
+      "text": "Section 5(2)",
+      "label": "PROVISION",
+      "start_char": 48243,
+      "end_char": 48255
+    },
+    {
+      "text": "Bangalore City Civil Courts Act, 1979",
+      "label": "STATUTE",
+      "start_char": 48263,
+      "end_char": 48300
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 48305,
+      "end_char": 48315
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 48316,
+      "end_char": 48319
+    },
+    {
+      "text": "Section 15(2)",
+      "label": "PROVISION",
+      "start_char": 48467,
+      "end_char": 48480
+    },
+    {
+      "text": "Section 6",
+      "label": "PROVISION",
+      "start_char": 49059,
+      "end_char": 49068
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 49242,
+      "end_char": 49252
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 49354,
+      "end_char": 49364
+    },
+    {
+      "text": "section 115",
+      "label": "PROVISION",
+      "start_char": 51210,
+      "end_char": 51221
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 51229,
+      "end_char": 51270
+    },
+    {
+      "text": "NC: 2024:KHC:28312 24",
+      "label": "CASE_NUMBER",
+      "start_char": 51447,
+      "end_char": 51468
+    },
+    {
+      "text": "Section 12(1)(a)",
+      "label": "PROVISION",
+      "start_char": 51489,
+      "end_char": 51505
+    },
+    {
+      "text": "Section 6",
+      "label": "PROVISION",
+      "start_char": 52571,
+      "end_char": 52580
+    },
+    {
+      "text": "NC: 2024:KHC:28312 25",
+      "label": "CASE_NUMBER",
+      "start_char": 52714,
+      "end_char": 52735
+    },
+    {
+      "text": "25.11.2015",
+      "label": "DATE",
+      "start_char": 52876,
+      "end_char": 52886
+    },
+    {
+      "text": "Misc.521/2004",
+      "label": "DATE",
+      "start_char": 52897,
+      "end_char": 52910
+    },
+    {
+      "text": "Sections 31 and 32",
+      "label": "PROVISION",
+      "start_char": 52917,
+      "end_char": 52935
+    },
+    {
+      "text": "State Financial Corporations Act, 1951",
+      "label": "STATUTE",
+      "start_char": 52943,
+      "end_char": 52981
+    },
+    {
+      "text": "SFC Act",
+      "label": "STATUTE",
+      "start_char": 52998,
+      "end_char": 53005
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 53124,
+      "end_char": 53135
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 53136,
+      "end_char": 53139
+    },
+    {
+      "text": "Order 21 Rule 52",
+      "label": "PROVISION",
+      "start_char": 53304,
+      "end_char": 53320
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 53321,
+      "end_char": 53324
+    },
+    {
+      "text": "Order 21 Rule 52",
+      "label": "PROVISION",
+      "start_char": 53464,
+      "end_char": 53480
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 53481,
+      "end_char": 53484
+    },
+    {
+      "text": "O.S.No.6229/2017",
+      "label": "CASE_NUMBER",
+      "start_char": 53554,
+      "end_char": 53570
+    },
+    {
+      "text": "Order 21",
+      "label": "PROVISION",
+      "start_char": 53865,
+      "end_char": 53873
+    },
+    {
+      "text": "25.11.2015",
+      "label": "DATE",
+      "start_char": 53956,
+      "end_char": 53966
+    },
+    {
+      "text": "Sections 31 and 32",
+      "label": "PROVISION",
+      "start_char": 54023,
+      "end_char": 54041
+    },
+    {
+      "text": "SFC Act",
+      "label": "STATUTE",
+      "start_char": 54049,
+      "end_char": 54056
+    },
+    {
+      "text": "Order 21 Rule 52",
+      "label": "PROVISION",
+      "start_char": 54136,
+      "end_char": 54152
+    },
+    {
+      "text": "Order 21 Rule 52",
+      "label": "PROVISION",
+      "start_char": 54407,
+      "end_char": 54423
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 54424,
+      "end_char": 54427
+    },
+    {
+      "text": "Sections 36 to 54",
+      "label": "PROVISION",
+      "start_char": 54610,
+      "end_char": 54627
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 54628,
+      "end_char": 54631
+    },
+    {
+      "text": "Section 38",
+      "label": "PROVISION",
+      "start_char": 54648,
+      "end_char": 54658
+    },
+    {
+      "text": "25.11.2015",
+      "label": "DATE",
+      "start_char": 54754,
+      "end_char": 54764
+    },
+    {
+      "text": "Misc.521/2004",
+      "label": "CASE_NUMBER",
+      "start_char": 54768,
+      "end_char": 54781
+    },
+    {
+      "text": "Section 38",
+      "label": "PROVISION",
+      "start_char": 54954,
+      "end_char": 54964
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 54965,
+      "end_char": 54968
+    },
+    {
+      "text": "Section 36 to 54",
+      "label": "PROVISION",
+      "start_char": 55409,
+      "end_char": 55425
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 55426,
+      "end_char": 55429
+    },
+    {
+      "text": "Section 5(2)",
+      "label": "PROVISION",
+      "start_char": 55508,
+      "end_char": 55520
+    },
+    {
+      "text": "Bangalore City Civil Courts Act",
+      "label": "STATUTE",
+      "start_char": 55528,
+      "end_char": 55559
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 55564,
+      "end_char": 55574
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 55575,
+      "end_char": 55578
+    },
+    {
+      "text": "No.2673/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 56220,
+      "end_char": 56232
+    },
+    {
+      "text": "21.01.2023",
+      "label": "DATE",
+      "start_char": 56849,
+      "end_char": 56859
+    },
+    {
+      "text": "Commercial Execution No.2673/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 56882,
+      "end_char": 56915
+    },
+    {
+      "text": "City Civil Judge, (Exclusive Dedicated Commercial Court), Bengaluru",
+      "label": "COURT",
+      "start_char": 56937,
+      "end_char": 57004
+    },
+    {
+      "text": "S.R.KRISHNA KUMAR",
+      "label": "JUDGE",
+      "start_char": 57106,
+      "end_char": 57123
+    }
+  ],
+  "precedent_clusters": {
+    "M.D. Frozen Foods Exports Pvt. Ltd. & Others vs. Hero Fincorp Ltd. - Civil Appeal No. 15147 of 2017": [
+      "Balawant N.Vishwamitra vs. Yadav Sadashiv Mule - (2004) 8",
+      "Sundaram Pillai vs. Pattabhiraman - (1985) 1",
+      "M.D. Frozen Foods Exports Pvt. Ltd. & Others vs. Hero Fincorp Ltd. - Civil Appeal No. 15147 of 2017",
+      "Ltd., vs. The Tamil Nadu industrial Investment Corporation Ltd., W.P. (MD) No.6464 of 2010",
+      "Ltd., vs. Kotak Mahindra Bank Ltd., - Civil Appeal No. 1291 of 2019",
+      "Manganlal vs. M/s Jaiswal Industries, Neemach and others - (1989) 4",
+      "Karnataka State Industrial Investment & Development Ltd., vs. S.K.K. Kukarni & others - Civil Appeal No.7288 of 2008",
+      "Maharashtra State Financial Corporation vs. Jaycee Drugs and Pharmaceuticals Pvt. Ltd and Others - (1991) 2",
+      "Kandla Export Corporation and another vs. OCI Corporation and another - (2018)",
+      "Jaycee Housing Pvt. Ltd., vs. Registrar (General), Orissa high Court, Cuttack",
+      "Bhagyoday Co-operative Bank Ltd., vs. Ravindra Balakrishna Patel Deceased",
+      "Ambalal Sarabhai Enterprises Limited vs. K.S.Infraspace LLP and Another - (2020)"
+    ],
+    "Transcore vs. Union of India and Another - (2008) 1 SCC 125": [
+      "Transcore vs. Union of India and Another - (2008) 1 SCC 125",
+      "Transcore vs. Union of India & Another - (2008) 1 SCC 125"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 151",
+      "CPC",
+      "Section 151",
+      "CPC"
+    ],
+    [
+      "Section 5(2)",
+      "Bangalore City Civil Court Act, 1979",
+      "Section 5(2)",
+      "Bangalore City Civil Court Act, 1979"
+    ],
+    [
+      "Section 24",
+      "CPC",
+      "Section 24",
+      "CPC"
+    ],
+    [
+      "Section 5(2)",
+      "Bangalore City Civil Court Act, 1979",
+      "Section 5(2)",
+      "Bangalore City Civil Court Act, 1979"
+    ],
+    [
+      "Section 34",
+      "Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002",
+      "Section 34",
+      "Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002"
+    ],
+    [
+      "Section 13(2)",
+      "SARFAESI Act",
+      "Section 13(2)",
+      "SARFAESI Act"
+    ],
+    [
+      "Section 34",
+      "SARFAESI Act",
+      "Section 34",
+      "SARFAESI Act"
+    ],
+    [
+      "Sec.2(c)",
+      "Commercial Court Act",
+      "Sec.2(c)",
+      "Commercial Court Act"
+    ],
+    [
+      "Section 38",
+      "CPC",
+      "Section 38",
+      "CPC"
+    ],
+    [
+      "Sec. 2(c)",
+      "Commercial Court Act",
+      "Sec. 2(c)",
+      "Commercial Court Act"
+    ],
+    [
+      "31 r/w 32",
+      "State Financial Corporation Act, 1951",
+      "31 r/w 32",
+      "State Financial Corporation Act, 1951"
+    ],
+    [
+      "sections 16 to 20",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "sections 16 to 20",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "Section 31(1) and 32",
+      "State Financial Corporations Act",
+      "Section 31(1) and 32",
+      "State Financial Corporations Act"
+    ],
+    [
+      "Order 21",
+      "CPC",
+      "Order 21",
+      "CPC"
+    ],
+    [
+      "Order XV-A]",
+      "Code of Civil Procedure, 1908 (5 of 1908):",
+      "Order XV-A]",
+      "Code of Civil Procedure, 1908 (5 of 1908):"
+    ],
+    [
+      "proviso to sub-rule (1) of Rule 1 of Order V",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "proviso to sub-rule (1) of Rule 1 of Order V",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "Section 2(e)",
+      "Arbitration Act",
+      "Section 2(e)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Arbitration Act",
+      "Section 2(1)(e)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 10(3)",
+      "Commercial Courts Act",
+      "Section 10(3)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 15(2)",
+      "Arbitration and Conciliation Act",
+      "Section 15(2)",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Order XV-A]",
+      "Civil Procedure Code, 1908 (5 of 1908):",
+      "Order XV-A]",
+      "Civil Procedure Code, 1908 (5 of 1908):"
+    ],
+    [
+      "proviso to sub-rule (1) of Rule 1 of Order V",
+      "Civil Procedure Code, 1908 (5 of 1908)",
+      "proviso to sub-rule (1) of Rule 1 of Order V",
+      "Civil Procedure Code, 1908 (5 of 1908)"
+    ],
+    [
+      "sub-section (3) of Section 15",
+      "Commercial Courts Act",
+      "sub-section (3) of Section 15",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order XXI",
+      "CPC",
+      "Order XXI",
+      "CPC"
+    ],
+    [
+      "Order XXI",
+      "CPC",
+      "Order XXI",
+      "CPC"
+    ],
+    [
+      "Sections 8 and 18",
+      "Family Courts Act",
+      "Sections 8 and 18",
+      "Family Courts Act"
+    ],
+    [
+      "Order 21, Rule 10",
+      "C.P.C.",
+      "Order 21, Rule 10",
+      "C.P.C."
+    ],
+    [
+      "Order XXI",
+      "CPC",
+      "Order XXI",
+      "CPC"
+    ],
+    [
+      "Section 15(3)",
+      "Commercial Courts Act",
+      "Section 15(3)",
+      "Commercial Courts Act"
+    ],
+    [
+      "sub-section (1) of Section 3",
+      "Commercial Courts Act",
+      "sub-section (1) of Section 3",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 15(5)",
+      "Commercial Appellate Division of High Courts Act, 2015",
+      "Section 15(5)",
+      "Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 15(2)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 15(2)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 36",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 36",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "sub-section (2) of Section 15",
+      "Constitution of Commercial Division",
+      "sub-section (2) of Section 15",
+      "Constitution of Commercial Division"
+    ],
+    [
+      "Order 21",
+      "CPC",
+      "Order 21",
+      "CPC"
+    ],
+    [
+      "Section 16",
+      "Code of Civil Procedure, 1908",
+      "Section 16",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 26",
+      "CPC",
+      "Section 26",
+      "CPC"
+    ],
+    [
+      "Order 20",
+      "CPC",
+      "Order 20",
+      "CPC"
+    ],
+    [
+      "Sections 38 to 54 nor Order 21",
+      "CPC",
+      "Sections 38 to 54 nor Order 21",
+      "CPC"
+    ],
+    [
+      "Section 5(2)",
+      "Bangalore City Civil Courts Act, 1979",
+      "Section 5(2)",
+      "Bangalore City Civil Courts Act, 1979"
+    ],
+    [
+      "Section 24",
+      "CPC",
+      "Section 24",
+      "CPC"
+    ],
+    [
+      "section 115",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "section 115",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "Sections 31 and 32",
+      "State Financial Corporations Act, 1951",
+      "Sections 31 and 32",
+      "State Financial Corporations Act, 1951"
+    ],
+    [
+      "Section 151",
+      "CPC",
+      "Section 151",
+      "CPC"
+    ],
+    [
+      "Order 21 Rule 52",
+      "CPC",
+      "Order 21 Rule 52",
+      "CPC"
+    ],
+    [
+      "Order 21 Rule 52",
+      "CPC",
+      "Order 21 Rule 52",
+      "CPC"
+    ],
+    [
+      "Sections 31 and 32",
+      "SFC Act",
+      "Sections 31 and 32",
+      "SFC Act"
+    ],
+    [
+      "Order 21 Rule 52",
+      "CPC",
+      "Order 21 Rule 52",
+      "CPC"
+    ],
+    [
+      "Sections 36 to 54",
+      "CPC",
+      "Sections 36 to 54",
+      "CPC"
+    ],
+    [
+      "Section 38",
+      "CPC",
+      "Section 38",
+      "CPC"
+    ],
+    [
+      "Section 36 to 54",
+      "CPC",
+      "Section 36 to 54",
+      "CPC"
+    ],
+    [
+      "Section 5(2)",
+      "Bangalore City Civil Courts Act",
+      "Section 5(2)",
+      "Bangalore City Civil Courts Act"
+    ],
+    [
+      "Section 24",
+      "CPC",
+      "Section 24",
+      "CPC"
+    ],
+    [
+      "Section 2(c)",
+      "Arbitration Act",
+      "Section 2(c)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 2(c)",
+      "Arbitration Act",
+      "Section 2(c)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 2(c)(i)",
+      "Arbitration Act",
+      "Section 2(c)(i)",
+      "Arbitration Act"
+    ],
+    [
+      "section2 (c) (f)",
+      "Arbitration Act",
+      "section2 (c) (f)",
+      "Arbitration Act"
+    ],
+    [
+      "Sec.",
+      "SARFAESI Act",
+      "Sec.",
+      "SARFAESI Act"
+    ],
+    [
+      "Sec.",
+      "SARFAESI Act",
+      "Sec.",
+      "SARFAESI Act"
+    ],
+    [
+      "Section 2(c)(i)",
+      "Arbitration Act",
+      "Section 2(c)(i)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 6",
+      "Commercial Courts Act, 2015",
+      "Section 6",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 2(c)",
+      "Arbitration Act",
+      "Section 2(c)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 2(c)(i)",
+      "Arbitration Act",
+      "Section 2(c)(i)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 2(c)(i)",
+      "Arbitration Act",
+      "Section 2(c)(i)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 6",
+      "Commercial Courts Act, 2015",
+      "Section 6",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 15",
+      "Arbitration and Conciliation Act",
+      "Section 15",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 15(2)",
+      "Arbitration and Conciliation Act",
+      "Section 15(2)",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 15",
+      "Arbitration and Conciliation Act",
+      "Section 15",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "proviso to Section 15(2)",
+      "Arbitration and Conciliation Act",
+      "proviso to Section 15(2)",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 16",
+      "Code of Civil Procedure, 1908",
+      "Section 16",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 8",
+      "Family Courts Act",
+      "Section 8",
+      "Family Courts Act"
+    ],
+    [
+      "Section 18",
+      "Family Courts Act",
+      "Section 18",
+      "Family Courts Act"
+    ],
+    [
+      "Section 7(1)",
+      "Family Courts Act",
+      "Section 7(1)",
+      "Family Courts Act"
+    ],
+    [
+      "Section 8(c)(i)",
+      "Family Courts Act",
+      "Section 8(c)(i)",
+      "Family Courts Act"
+    ],
+    [
+      "Section 7(1)(a)",
+      "Family Courts Act",
+      "Section 7(1)(a)",
+      "Family Courts Act"
+    ],
+    [
+      "Sec.",
+      "SARFAESI Act",
+      "Sec.",
+      "SARFAESI Act"
+    ],
+    [
+      "Section 18",
+      "Family Courts Act",
+      "Section 18",
+      "Family Courts Act"
+    ],
+    [
+      "Section 7(1)(b)",
+      "Family Courts Act",
+      "Section 7(1)(b)",
+      "Family Courts Act"
+    ],
+    [
+      "Section 18",
+      "Family Courts Act",
+      "Section 18",
+      "Family Courts Act"
+    ],
+    [
+      "Sec. 8(c)",
+      "Family Courts Act",
+      "Sec. 8(c)",
+      "Family Courts Act"
+    ],
+    [
+      "Section 15(1)",
+      "Commercial Courts Act",
+      "Section 15(1)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 2(1)(c)",
+      "Arbitration Act",
+      "Section 2(1)(c)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 36",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 36",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "sub-section (2) of Section 15",
+      "Arbitration and Conciliation Act, 1996",
+      "sub-section (2) of Section 15",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 36",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 36",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "subsection (2) of Section 15",
+      "Arbitration and Conciliation Act, 1996",
+      "subsection (2) of Section 15",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Sections 6 and 15",
+      "Arbitration and Conciliation Act, 1996",
+      "Sections 6 and 15",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "proviso to Section 15(2)",
+      "Arbitration and Conciliation Act, 1996",
+      "proviso to Section 15(2)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Sections 15(3) and 15(4)",
+      "Arbitration and Conciliation Act, 1996",
+      "Sections 15(3) and 15(4)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 16",
+      "Code of Civil Procedure, 1908",
+      "Section 16",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Sections 6 and 15",
+      "Arbitration and Conciliation Act, 1996",
+      "Sections 6 and 15",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Sections 6 and 15",
+      "Arbitration and Conciliation Act, 1996",
+      "Sections 6 and 15",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 15(2)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 15(2)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 15(2)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 15(2)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 6",
+      "Commercial Courts Act, 2015",
+      "Section 6",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 12",
+      "CPC",
+      "Section 12",
+      "CPC"
+    ],
+    [
+      "Section 12(1)(a)",
+      "CPC",
+      "Section 12(1)(a)",
+      "CPC"
+    ],
+    [
+      "Section 6",
+      "Commercial Courts Act, 2015",
+      "Section 6",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Order 21",
+      "CPC",
+      "Order 21",
+      "CPC"
+    ],
+    [
+      "Order 21 Rule 52",
+      "CPC",
+      "Order 21 Rule 52",
+      "CPC"
+    ],
+    [
+      "Section 38",
+      "CPC",
+      "Section 38",
+      "CPC"
+    ],
+    [
+      "Section 6",
+      "Commercial Courts Act, 2015",
+      "Section 6",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Sec.",
+      "SARFAESI Act",
+      "Sec.",
+      "SARFAESI Act"
+    ],
+    [
+      "Section 7",
+      "Family Courts Act",
+      "Section 7",
+      "Family Courts Act"
+    ],
+    [
+      "Sec. 7(1)(a)",
+      "Family Courts Act",
+      "Sec. 7(1)(a)",
+      "Family Courts Act"
+    ],
+    [
+      "Sec. 8",
+      "Family Courts Act",
+      "Sec. 8",
+      "Family Courts Act"
+    ],
+    [
+      "Section 12",
+      "CPC",
+      "Section 12",
+      "CPC"
+    ]
+  ],
+  "precedent_counts": {
+    "M.D. Frozen Foods Exports Pvt. Ltd. & Others vs. Hero Fincorp Ltd. - Civil Appeal No. 15147 of 2017": 12,
+    "Transcore vs. Union of India and Another - (2008) 1 SCC 125": 2
+  },
+  "provision_counts": {
+    "Section 151 of CPC": 2,
+    "Section 5(2) of Bangalore City Civil Court Act, 1979": 2,
+    "Section 24 of CPC": 3,
+    "Section 34 of Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002": 1,
+    "Section 13(2) of SARFAESI Act": 1,
+    "Section 34 of SARFAESI Act": 1,
+    "Sec.2(c) of Commercial Court Act": 1,
+    "Section 38 of CPC": 3,
+    "Sec. 2(c) of Commercial Court Act": 1,
+    "31 r/w 32 of State Financial Corporation Act, 1951": 1,
+    "sections 16 to 20 of Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Section 31(1) and 32 of State Financial Corporations Act": 1,
+    "Order 21 of CPC": 3,
+    "Order XV-A] of Code of Civil Procedure, 1908 (5 of 1908):": 1,
+    "proviso to sub-rule (1) of Rule 1 of Order V of Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Section 2(e) of Arbitration Act": 1,
+    "Section 2(1)(e) of Arbitration Act": 1,
+    "Section 10(3) of Commercial Courts Act": 1,
+    "Section 15(2) of Arbitration and Conciliation Act": 2,
+    "Order XV-A] of Civil Procedure Code, 1908 (5 of 1908):": 1,
+    "proviso to sub-rule (1) of Rule 1 of Order V of Civil Procedure Code, 1908 (5 of 1908)": 1,
+    "sub-section (3) of Section 15 of Commercial Courts Act": 1,
+    "Order XXI of CPC": 3,
+    "Sections 8 and 18 of Family Courts Act": 1,
+    "Order 21, Rule 10 of C.P.C.": 1,
+    "Section 15(3) of Commercial Courts Act": 1,
+    "sub-section (1) of Section 3 of Commercial Courts Act": 1,
+    "Section 34 of Arbitration Act": 1,
+    "Section 15(5) of Commercial Appellate Division of High Courts Act, 2015": 1,
+    "Section 15(2) of Arbitration and Conciliation Act, 1996": 3,
+    "Section 36 of Arbitration and Conciliation Act, 1996": 3,
+    "sub-section (2) of Section 15 of Constitution of Commercial Division": 1,
+    "Section 16 of Code of Civil Procedure, 1908": 3,
+    "Section 26 of CPC": 1,
+    "Order 20 of CPC": 1,
+    "Sections 38 to 54 nor Order 21 of CPC": 1,
+    "Section 5(2) of Bangalore City Civil Courts Act, 1979": 1,
+    "section 115 of Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Sections 31 and 32 of State Financial Corporations Act, 1951": 1,
+    "Order 21 Rule 52 of CPC": 4,
+    "Sections 31 and 32 of SFC Act": 1,
+    "Sections 36 to 54 of CPC": 1,
+    "Section 36 to 54 of CPC": 1,
+    "Section 5(2) of Bangalore City Civil Courts Act": 1,
+    "Section 2(c) of Arbitration Act": 3,
+    "Section 2(c)(i) of Arbitration Act": 4,
+    "section2 (c) (f) of Arbitration Act": 1,
+    "Sec. of SARFAESI Act": 4,
+    "Section 6 of Commercial Courts Act, 2015": 5,
+    "Section 15 of Arbitration and Conciliation Act": 2,
+    "proviso to Section 15(2) of Arbitration and Conciliation Act": 1,
+    "Section 8 of Family Courts Act": 1,
+    "Section 18 of Family Courts Act": 3,
+    "Section 7(1) of Family Courts Act": 1,
+    "Section 8(c)(i) of Family Courts Act": 1,
+    "Section 7(1)(a) of Family Courts Act": 1,
+    "Section 7(1)(b) of Family Courts Act": 1,
+    "Sec. 8(c) of Family Courts Act": 1,
+    "Section 15(1) of Commercial Courts Act": 1,
+    "Section 2(1)(c) of Arbitration Act": 1,
+    "sub-section (2) of Section 15 of Arbitration and Conciliation Act, 1996": 1,
+    "subsection (2) of Section 15 of Arbitration and Conciliation Act, 1996": 1,
+    "Sections 6 and 15 of Arbitration and Conciliation Act, 1996": 3,
+    "proviso to Section 15(2) of Arbitration and Conciliation Act, 1996": 1,
+    "Sections 15(3) and 15(4) of Arbitration and Conciliation Act, 1996": 1,
+    "Section 12 of CPC": 2,
+    "Section 12(1)(a) of CPC": 1,
+    "Section 7 of Family Courts Act": 1,
+    "Sec. 7(1)(a) of Family Courts Act": 1,
+    "Sec. 8 of Family Courts Act": 1
+  },
+  "statute_counts": {
+    "CPC": 26,
+    "Bangalore City Civil Court Act, 1979": 2,
+    "Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002": 1,
+    "SARFAESI Act": 6,
+    "Commercial Court Act": 2,
+    "State Financial Corporation Act, 1951": 1,
+    "Code of Civil Procedure, 1908 (5 of 1908)": 3,
+    "State Financial Corporations Act": 1,
+    "Code of Civil Procedure, 1908 (5 of 1908):": 1,
+    "Arbitration Act": 12,
+    "Commercial Courts Act": 5,
+    "Arbitration and Conciliation Act": 5,
+    "Civil Procedure Code, 1908 (5 of 1908):": 1,
+    "Civil Procedure Code, 1908 (5 of 1908)": 1,
+    "Family Courts Act": 13,
+    "C.P.C.": 1,
+    "Commercial Appellate Division of High Courts Act, 2015": 1,
+    "Arbitration and Conciliation Act, 1996": 13,
+    "Constitution of Commercial Division": 1,
+    "Code of Civil Procedure, 1908": 3,
+    "Bangalore City Civil Courts Act, 1979": 1,
+    "State Financial Corporations Act, 1951": 1,
+    "SFC Act": 1,
+    "Bangalore City Civil Courts Act": 1,
+    "Commercial Courts Act, 2015": 5
+  }
+}

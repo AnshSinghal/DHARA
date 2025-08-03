@@ -1,0 +1,2978 @@
+{
+  "entities": [
+    {
+      "text": "Karnataka High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 20
+    },
+    {
+      "text": "Anheuser Busch Inbev India Limited",
+      "label": "PETITIONER",
+      "start_char": 21,
+      "end_char": 55
+    },
+    {
+      "text": "Scarpe Marketing Pvt Ltd",
+      "label": "RESPONDENT",
+      "start_char": 59,
+      "end_char": 83
+    },
+    {
+      "text": "Alok Aradhe",
+      "label": "LAWYER",
+      "start_char": 113,
+      "end_char": 124
+    },
+    {
+      "text": "Alok Aradhe",
+      "label": "LAWYER",
+      "start_char": 132,
+      "end_char": 143
+    },
+    {
+      "text": "High Court Of Karnataka At Bengaluru",
+      "label": "COURT",
+      "start_char": 183,
+      "end_char": 219
+    },
+    {
+      "text": "Alok Aradhe",
+      "label": "JUDGE",
+      "start_char": 340,
+      "end_char": 351
+    },
+    {
+      "text": "Anant Ramanath Hegde",
+      "label": "JUDGE",
+      "start_char": 406,
+      "end_char": 426
+    },
+    {
+      "text": "Anheuser Busch Inbev India Limited",
+      "label": "PETITIONER",
+      "start_char": 474,
+      "end_char": 508
+    },
+    {
+      "text": "Adity Sondhi",
+      "label": "LAWYER",
+      "start_char": 883,
+      "end_char": 895
+    },
+    {
+      "text": "Prasanth V.G.",
+      "label": "LAWYER",
+      "start_char": 921,
+      "end_char": 934
+    },
+    {
+      "text": "Scarpe Marketing Pvt Ltd",
+      "label": "RESPONDENT",
+      "start_char": 949,
+      "end_char": 973
+    },
+    {
+      "text": "Salman Kurshid",
+      "label": "LAWYER",
+      "start_char": 1181,
+      "end_char": 1195
+    },
+    {
+      "text": "Irfana Nazeer",
+      "label": "LAWYER",
+      "start_char": 1222,
+      "end_char": 1235
+    },
+    {
+      "text": "Duvva Pavankumar",
+      "label": "LAWYER",
+      "start_char": 1255,
+      "end_char": 1271
+    },
+    {
+      "text": "Zafar Khurshid",
+      "label": "LAWYER",
+      "start_char": 1287,
+      "end_char": 1301
+    },
+    {
+      "text": "Lubna Naaz",
+      "label": "LAWYER",
+      "start_char": 1317,
+      "end_char": 1327
+    },
+    {
+      "text": "Mohd. Wasay Khan",
+      "label": "LAWYER",
+      "start_char": 1343,
+      "end_char": 1359
+    },
+    {
+      "text": "Sakshi Kotiyal",
+      "label": "LAWYER",
+      "start_char": 1375,
+      "end_char": 1389
+    },
+    {
+      "text": "Shraddha Gupta",
+      "label": "LAWYER",
+      "start_char": 1404,
+      "end_char": 1418
+    },
+    {
+      "text": "Alok Aradhe",
+      "label": "JUDGE",
+      "start_char": 2087,
+      "end_char": 2098
+    },
+    {
+      "text": "Section 13(1-A)",
+      "label": "PROVISION",
+      "start_char": 2179,
+      "end_char": 2194
+    },
+    {
+      "text": "Commercial Court Act, 2015",
+      "label": "STATUTE",
+      "start_char": 2202,
+      "end_char": 2228
+    },
+    {
+      "text": "Section 37(1)(b)",
+      "label": "PROVISION",
+      "start_char": 2239,
+      "end_char": 2255
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 2263,
+      "end_char": 2301
+    },
+    {
+      "text": "24.06.2021",
+      "label": "DATE",
+      "start_char": 2379,
+      "end_char": 2389
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 2474,
+      "end_char": 2484
+    },
+    {
+      "text": "Companies Act, 1956",
+      "label": "STATUTE",
+      "start_char": 2737,
+      "end_char": 2756
+    },
+    {
+      "text": "Companies Act, 1956",
+      "label": "STATUTE",
+      "start_char": 2901,
+      "end_char": 2920
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 3069,
+      "end_char": 3074
+    },
+    {
+      "text": "21.03.2012",
+      "label": "DATE",
+      "start_char": 3170,
+      "end_char": 3180
+    },
+    {
+      "text": "Skol Breweries Limited",
+      "label": "ORG",
+      "start_char": 3189,
+      "end_char": 3211
+    },
+    {
+      "text": "Elios Business Solutions Private Limited",
+      "label": "ORG",
+      "start_char": 3223,
+      "end_char": 3263
+    },
+    {
+      "text": "ELIOS",
+      "label": "ORG",
+      "start_char": 3304,
+      "end_char": 3309
+    },
+    {
+      "text": "SKOL",
+      "label": "ORG",
+      "start_char": 3325,
+      "end_char": 3329
+    },
+    {
+      "text": "Andhra Pradesh",
+      "label": "GPE",
+      "start_char": 3394,
+      "end_char": 3408
+    },
+    {
+      "text": "03.06.2014",
+      "label": "DATE",
+      "start_char": 3490,
+      "end_char": 3500
+    },
+    {
+      "text": "SKOL",
+      "label": "ORG",
+      "start_char": 3557,
+      "end_char": 3561
+    },
+    {
+      "text": "SABMiller",
+      "label": "ORG",
+      "start_char": 3565,
+      "end_char": 3574
+    },
+    {
+      "text": "Telangana",
+      "label": "GPE",
+      "start_char": 3635,
+      "end_char": 3644
+    },
+    {
+      "text": "Andhra Pradesh",
+      "label": "GPE",
+      "start_char": 3649,
+      "end_char": 3663
+    },
+    {
+      "text": "02.06.2014",
+      "label": "DATE",
+      "start_char": 3709,
+      "end_char": 3719
+    },
+    {
+      "text": "09.09.2015",
+      "label": "DATE",
+      "start_char": 3724,
+      "end_char": 3734
+    },
+    {
+      "text": "SABMiller",
+      "label": "ORG",
+      "start_char": 3736,
+      "end_char": 3745
+    },
+    {
+      "text": "ELIOS",
+      "label": "ORG",
+      "start_char": 3799,
+      "end_char": 3804
+    },
+    {
+      "text": "01.10.2015",
+      "label": "DATE",
+      "start_char": 3846,
+      "end_char": 3856
+    },
+    {
+      "text": "31.08.2020",
+      "label": "DATE",
+      "start_char": 3862,
+      "end_char": 3872
+    },
+    {
+      "text": "CISP",
+      "label": "ORG",
+      "start_char": 3950,
+      "end_char": 3954
+    },
+    {
+      "text": "ELIOS",
+      "label": "ORG",
+      "start_char": 4022,
+      "end_char": 4027
+    },
+    {
+      "text": "CISP",
+      "label": "ORG",
+      "start_char": 4038,
+      "end_char": 4042
+    },
+    {
+      "text": "SABMiller",
+      "label": "ORG",
+      "start_char": 4087,
+      "end_char": 4096
+    },
+    {
+      "text": "CISP Agreement",
+      "label": "STATUTE",
+      "start_char": 4159,
+      "end_char": 4173
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 4703,
+      "end_char": 4708
+    },
+    {
+      "text": "FIR No.RC224 2017 80001",
+      "label": "CASE_NUMBER",
+      "start_char": 5411,
+      "end_char": 5434
+    },
+    {
+      "text": "06.02.2017",
+      "label": "DATE",
+      "start_char": 5441,
+      "end_char": 5451
+    },
+    {
+      "text": "Qureshi",
+      "label": "OTHER_PERSON",
+      "start_char": 5484,
+      "end_char": 5491
+    },
+    {
+      "text": "Sana",
+      "label": "OTHER_PERSON",
+      "start_char": 5624,
+      "end_char": 5628
+    },
+    {
+      "text": "Qureshi",
+      "label": "OTHER_PERSON",
+      "start_char": 5640,
+      "end_char": 5647
+    },
+    {
+      "text": "15.10.2018",
+      "label": "DATE",
+      "start_char": 5664,
+      "end_char": 5674
+    },
+    {
+      "text": "Sana",
+      "label": "OTHER_PERSON",
+      "start_char": 5703,
+      "end_char": 5707
+    },
+    {
+      "text": "CBI",
+      "label": "ORG",
+      "start_char": 5897,
+      "end_char": 5900
+    },
+    {
+      "text": "anti corruption laws",
+      "label": "STATUTE",
+      "start_char": 5981,
+      "end_char": 6001
+    },
+    {
+      "text": "CISP agreement",
+      "label": "STATUTE",
+      "start_char": 6252,
+      "end_char": 6266
+    },
+    {
+      "text": "05.03.2018",
+      "label": "DATE",
+      "start_char": 6326,
+      "end_char": 6336
+    },
+    {
+      "text": "CISP",
+      "label": "ORG",
+      "start_char": 6353,
+      "end_char": 6357
+    },
+    {
+      "text": "05.03.2018",
+      "label": "DATE",
+      "start_char": 6417,
+      "end_char": 6427
+    },
+    {
+      "text": "08.03.2018",
+      "label": "DATE",
+      "start_char": 6466,
+      "end_char": 6476
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 6560,
+      "end_char": 6569
+    },
+    {
+      "text": "14.03.2018",
+      "label": "DATE",
+      "start_char": 6623,
+      "end_char": 6633
+    },
+    {
+      "text": "05.03.2019",
+      "label": "DATE",
+      "start_char": 6719,
+      "end_char": 6729
+    },
+    {
+      "text": "24.08.2018",
+      "label": "DATE",
+      "start_char": 6963,
+      "end_char": 6973
+    },
+    {
+      "text": "29.10.2018",
+      "label": "DATE",
+      "start_char": 7218,
+      "end_char": 7228
+    },
+    {
+      "text": "24.02.2019",
+      "label": "DATE",
+      "start_char": 7260,
+      "end_char": 7270
+    },
+    {
+      "text": "Section 23(3)",
+      "label": "PROVISION",
+      "start_char": 7298,
+      "end_char": 7311
+    },
+    {
+      "text": "11.04.2019",
+      "label": "DATE",
+      "start_char": 7432,
+      "end_char": 7442
+    },
+    {
+      "text": "06.05.2019",
+      "label": "DATE",
+      "start_char": 7513,
+      "end_char": 7523
+    },
+    {
+      "text": "06.05.2019",
+      "label": "DATE",
+      "start_char": 7537,
+      "end_char": 7547
+    },
+    {
+      "text": "28.05.2019",
+      "label": "DATE",
+      "start_char": 7731,
+      "end_char": 7741
+    },
+    {
+      "text": "13.06.2019",
+      "label": "DATE",
+      "start_char": 7830,
+      "end_char": 7840
+    },
+    {
+      "text": "12.07.2019",
+      "label": "DATE",
+      "start_char": 8210,
+      "end_char": 8220
+    },
+    {
+      "text": "27.07.2019",
+      "label": "DATE",
+      "start_char": 8269,
+      "end_char": 8279
+    },
+    {
+      "text": "18.10.2019",
+      "label": "DATE",
+      "start_char": 8288,
+      "end_char": 8298
+    },
+    {
+      "text": "06 and 07.12.2019.",
+      "label": "DATE",
+      "start_char": 8579,
+      "end_char": 8597
+    },
+    {
+      "text": "08.12.2019",
+      "label": "DATE",
+      "start_char": 8628,
+      "end_char": 8638
+    },
+    {
+      "text": "09.12.2019",
+      "label": "DATE",
+      "start_char": 8643,
+      "end_char": 8653
+    },
+    {
+      "text": "09.12.2019",
+      "label": "DATE",
+      "start_char": 8678,
+      "end_char": 8688
+    },
+    {
+      "text": "02.11.2020",
+      "label": "DATE",
+      "start_char": 8858,
+      "end_char": 8868
+    },
+    {
+      "text": "05.03.2018",
+      "label": "DATE",
+      "start_char": 8961,
+      "end_char": 8971
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 9691,
+      "end_char": 9701
+    },
+    {
+      "text": "24.06.2021",
+      "label": "DATE",
+      "start_char": 9804,
+      "end_char": 9814
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 9907,
+      "end_char": 9917
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 10110,
+      "end_char": 10120
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 10250,
+      "end_char": 10260
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 10733,
+      "end_char": 10742
+    },
+    {
+      "text": "24.02.2019",
+      "label": "DATE",
+      "start_char": 11015,
+      "end_char": 11025
+    },
+    {
+      "text": "08.03.2018",
+      "label": "DATE",
+      "start_char": 11242,
+      "end_char": 11252
+    },
+    {
+      "text": "ICA",
+      "label": "STATUTE",
+      "start_char": 11365,
+      "end_char": 11368
+    },
+    {
+      "text": "Indian Council of Arbitration)",
+      "label": "ORG",
+      "start_char": 11370,
+      "end_char": 11400
+    },
+    {
+      "text": "Rule 15(i) and (ii)(b)",
+      "label": "PROVISION",
+      "start_char": 11417,
+      "end_char": 11439
+    },
+    {
+      "text": "Order 2 Rule 2",
+      "label": "PROVISION",
+      "start_char": 12422,
+      "end_char": 12436
+    },
+    {
+      "text": "Code of Civil Procedure 1908",
+      "label": "STATUTE",
+      "start_char": 12440,
+      "end_char": 12468
+    },
+    {
+      "text": "Clauses 10.4 and 20",
+      "label": "PROVISION",
+      "start_char": 12807,
+      "end_char": 12826
+    },
+    {
+      "text": "Section 34(2)(iv), 34(2)(b)(ii)",
+      "label": "PROVISION",
+      "start_char": 13798,
+      "end_char": 13829
+    },
+    {
+      "text": "Section 34(2A)",
+      "label": "PROVISION",
+      "start_char": 13834,
+      "end_char": 13848
+    },
+    {
+      "text": "Section 74",
+      "label": "PROVISION",
+      "start_char": 14319,
+      "end_char": 14329
+    },
+    {
+      "text": "Indian Contract Act",
+      "label": "STATUTE",
+      "start_char": 14337,
+      "end_char": 14356
+    },
+    {
+      "text": "TAYLOR V OAKES, RONCORONI AND CO', (1922) ALL ER REP EXT 866",
+      "label": "PRECEDENT",
+      "start_char": 14437,
+      "end_char": 14497
+    },
+    {
+      "text": "NUNE SIVAYYA VS.",
+      "label": "PRECEDENT",
+      "start_char": 14500,
+      "end_char": 14516
+    },
+    {
+      "text": "MADDU RANGANAYAKULU', AIR 1935 PC 67",
+      "label": "PRECEDENT",
+      "start_char": 14517,
+      "end_char": 14553
+    },
+    {
+      "text": "JUGGILAL KAMLAPAT VS.",
+      "label": "PRECEDENT",
+      "start_char": 14556,
+      "end_char": 14577
+    },
+    {
+      "text": "PRATAPMAL RAMESHWAR', (1978) 1 SCC 69",
+      "label": "PRECEDENT",
+      "start_char": 14578,
+      "end_char": 14615
+    },
+    {
+      "text": "M.LACHIA SETTY AND SONS LTD",
+      "label": "ORG",
+      "start_char": 14618,
+      "end_char": 14645
+    },
+    {
+      "text": "SCC 636",
+      "label": "PROVISION",
+      "start_char": 14675,
+      "end_char": 14682
+    },
+    {
+      "text": "ASSOCIATES BUILDERS VS.",
+      "label": "PRECEDENT",
+      "start_char": 14685,
+      "end_char": 14708
+    },
+    {
+      "text": "DELHI DEVELOPMENT AUTHORITY', (2015) 3 SCC",
+      "label": "PRECEDENT",
+      "start_char": 14709,
+      "end_char": 14751
+    },
+    {
+      "text": "KAILASH NATH ASSOCIATES",
+      "label": "OTHER_PERSON",
+      "start_char": 14754,
+      "end_char": 14777
+    },
+    {
+      "text": "KANCHAN UDYOG LIMITED VS.",
+      "label": "PRECEDENT",
+      "start_char": 14821,
+      "end_char": 14846
+    },
+    {
+      "text": "UNITED SPIRITS LIMITED', (2017) 8 SCC 237",
+      "label": "PRECEDENT",
+      "start_char": 14847,
+      "end_char": 14888
+    },
+    {
+      "text": "SSANYONG ENGINEERING AND CONSTRUCTION COMPANY LIMITED VS.",
+      "label": "PRECEDENT",
+      "start_char": 14891,
+      "end_char": 14948
+    },
+    {
+      "text": "NATIONAL HIGHWAY AUTHORITY OF INDIA', (2019) 15 SCC 131",
+      "label": "PRECEDENT",
+      "start_char": 14949,
+      "end_char": 15004
+    },
+    {
+      "text": "DYNA TECHNOLOGIES",
+      "label": "ORG",
+      "start_char": 15007,
+      "end_char": 15024
+    },
+    {
+      "text": "CROMPTON GREAVES LTD.', (2019) 20 SCC 1",
+      "label": "PRECEDENT",
+      "start_char": 15039,
+      "end_char": 15078
+    },
+    {
+      "text": "(1900) A.C.113",
+      "label": "CASE_NUMBER",
+      "start_char": 15175,
+      "end_char": 15189
+    },
+    {
+      "text": "DEBASHISH PATNAIK",
+      "label": "OTHER_PERSON",
+      "start_char": 15233,
+      "end_char": 15250
+    },
+    {
+      "text": "MAPPOURAS VS.",
+      "label": "PRECEDENT",
+      "start_char": 15273,
+      "end_char": 15286
+    },
+    {
+      "text": "WALDRONS SOLICITORS', (2002) EWCA CIV 842)",
+      "label": "PRECEDENT",
+      "start_char": 15287,
+      "end_char": 15329
+    },
+    {
+      "text": "LAW OF DAMAGES (COMMON LAW SERIES), 'EXTRACT FROM HALSBURY'S LAWS OF ENGLAND DAMAGES, VOL.29 (2019)",
+      "label": "STATUTE",
+      "start_char": 15423,
+      "end_char": 15522
+    },
+    {
+      "text": "Sections 34 and 37",
+      "label": "PROVISION",
+      "start_char": 15662,
+      "end_char": 15680
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 15784,
+      "end_char": 15794
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 15837,
+      "end_char": 15847
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 15900,
+      "end_char": 15910
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 15975,
+      "end_char": 15985
+    },
+    {
+      "text": "Section 100",
+      "label": "PROVISION",
+      "start_char": 16039,
+      "end_char": 16050
+    },
+    {
+      "text": "Section 21",
+      "label": "PROVISION",
+      "start_char": 16517,
+      "end_char": 16527
+    },
+    {
+      "text": "Specific Relief Act",
+      "label": "STATUTE",
+      "start_char": 16535,
+      "end_char": 16554
+    },
+    {
+      "text": "PUNJAB STATE CIVIL SUPPLIES CORPN LTD",
+      "label": "ORG",
+      "start_char": 19111,
+      "end_char": 19148
+    },
+    {
+      "text": "RAMESH KUMAR",
+      "label": "RESPONDENT",
+      "start_char": 19161,
+      "end_char": 19173
+    },
+    {
+      "text": "L.G.ELECTRONICS INDIA Vs. DINESH KALRA' (2018)",
+      "label": "PRECEDENT",
+      "start_char": 19226,
+      "end_char": 19272
+    },
+    {
+      "text": "SCC ONLINE DELHI 8367",
+      "label": "PRECEDENT",
+      "start_char": 19273,
+      "end_char": 19294
+    },
+    {
+      "text": "MMTC LIMITED Vs.",
+      "label": "PRECEDENT",
+      "start_char": 19297,
+      "end_char": 19313
+    },
+    {
+      "text": "VEDANTA LIMITED",
+      "label": "ORG",
+      "start_char": 19314,
+      "end_char": 19329
+    },
+    {
+      "text": "SCC 163",
+      "label": "PROVISION",
+      "start_char": 19340,
+      "end_char": 19347
+    },
+    {
+      "text": "JJ ENGINEERS",
+      "label": "OTHER_PERSON",
+      "start_char": 19350,
+      "end_char": 19362
+    },
+    {
+      "text": "UNION OF INDIA",
+      "label": "RESPONDENT",
+      "start_char": 19377,
+      "end_char": 19391
+    },
+    {
+      "text": "(2011) 5",
+      "label": "CASE_NUMBER",
+      "start_char": 19393,
+      "end_char": 19401
+    },
+    {
+      "text": "SCC 758",
+      "label": "PROVISION",
+      "start_char": 19402,
+      "end_char": 19409
+    },
+    {
+      "text": "MCDERMAT INTERNATIONAL INK Vs.",
+      "label": "PRECEDENT",
+      "start_char": 19412,
+      "end_char": 19442
+    },
+    {
+      "text": "SCC 181, 'SAIL Vs.",
+      "label": "PRECEDENT",
+      "start_char": 19476,
+      "end_char": 19494
+    },
+    {
+      "text": "GUPTA BROTHERS STEEL TUBES' (2009) 10 SCC 63",
+      "label": "PRECEDENT",
+      "start_char": 19495,
+      "end_char": 19539
+    },
+    {
+      "text": "NTPC Vs.",
+      "label": "PRECEDENT",
+      "start_char": 19542,
+      "end_char": 19550
+    },
+    {
+      "text": "C.A.6483/2014",
+      "label": "CASE_NUMBER",
+      "start_char": 19577,
+      "end_char": 19590
+    },
+    {
+      "text": "NAYANA TECHNOLOGIES PVT",
+      "label": "ORG",
+      "start_char": 19593,
+      "end_char": 19616
+    },
+    {
+      "text": "CROMPTON GREAVES' (2019) 20 SCC 1",
+      "label": "PRECEDENT",
+      "start_char": 19627,
+      "end_char": 19660
+    },
+    {
+      "text": "NHAI Vs.",
+      "label": "PRECEDENT",
+      "start_char": 19663,
+      "end_char": 19671
+    },
+    {
+      "text": "(2015) 14 SCC 21",
+      "label": "PRECEDENT",
+      "start_char": 19689,
+      "end_char": 19705
+    },
+    {
+      "text": "MODULAR BUX Vs. UNION OF INDIA' (1969) 2",
+      "label": "PRECEDENT",
+      "start_char": 19708,
+      "end_char": 19748
+    },
+    {
+      "text": "SCC 554, 'ONGC Vs.",
+      "label": "PRECEDENT",
+      "start_char": 19749,
+      "end_char": 19767
+    },
+    {
+      "text": "SAW PIPES",
+      "label": "OTHER_PERSON",
+      "start_char": 19768,
+      "end_char": 19777
+    },
+    {
+      "text": "SCC 705",
+      "label": "PROVISION",
+      "start_char": 19788,
+      "end_char": 19795
+    },
+    {
+      "text": "JUGINAL KAMALPAT Vs.",
+      "label": "PRECEDENT",
+      "start_char": 19798,
+      "end_char": 19818
+    },
+    {
+      "text": "PRATAM PAL RAMESHWAR' (1978) 1 SCC 69",
+      "label": "PRECEDENT",
+      "start_char": 19819,
+      "end_char": 19856
+    },
+    {
+      "text": "UNNI SIVAIAH",
+      "label": "OTHER_PERSON",
+      "start_char": 19859,
+      "end_char": 19871
+    },
+    {
+      "text": "MUDDU RANGANAYAKALU",
+      "label": "OTHER_PERSON",
+      "start_char": 19876,
+      "end_char": 19895
+    },
+    {
+      "text": "STATE OF GOA Vs.",
+      "label": "PRECEDENT",
+      "start_char": 19899,
+      "end_char": 19915
+    },
+    {
+      "text": "PRAVEEN ENTERPRISES",
+      "label": "OTHER_PERSON",
+      "start_char": 19916,
+      "end_char": 19935
+    },
+    {
+      "text": "SCC 581",
+      "label": "PROVISION",
+      "start_char": 19947,
+      "end_char": 19954
+    },
+    {
+      "text": "V.H.PATEL COMPANY",
+      "label": "ORG",
+      "start_char": 19960,
+      "end_char": 19977
+    },
+    {
+      "text": "DHIRUBHAI PATEL & ORS' (2000) 4 SCC 368",
+      "label": "PRECEDENT",
+      "start_char": 19982,
+      "end_char": 20021
+    },
+    {
+      "text": "Section 21",
+      "label": "PROVISION",
+      "start_char": 20163,
+      "end_char": 20173
+    },
+    {
+      "text": "Specific Relief Act, 1963",
+      "label": "STATUTE",
+      "start_char": 20181,
+      "end_char": 20206
+    },
+    {
+      "text": "Section 73",
+      "label": "PROVISION",
+      "start_char": 20278,
+      "end_char": 20288
+    },
+    {
+      "text": "Indian Contract Act, 1872",
+      "label": "STATUTE",
+      "start_char": 20296,
+      "end_char": 20321
+    },
+    {
+      "text": "Section 21",
+      "label": "PROVISION",
+      "start_char": 20481,
+      "end_char": 20491
+    },
+    {
+      "text": "Specific Relief Act, 1963",
+      "label": "STATUTE",
+      "start_char": 20499,
+      "end_char": 20524
+    },
+    {
+      "text": "Section 21",
+      "label": "PROVISION",
+      "start_char": 20816,
+      "end_char": 20826
+    },
+    {
+      "text": "Specific Relief Act, 1963",
+      "label": "STATUTE",
+      "start_char": 20834,
+      "end_char": 20859
+    },
+    {
+      "text": "Section 73",
+      "label": "PROVISION",
+      "start_char": 20958,
+      "end_char": 20968
+    },
+    {
+      "text": "Indian Contract Act",
+      "label": "STATUTE",
+      "start_char": 20976,
+      "end_char": 20995
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 21594,
+      "end_char": 21604
+    },
+    {
+      "text": "Section 34(2A)",
+      "label": "PROVISION",
+      "start_char": 21634,
+      "end_char": 21648
+    },
+    {
+      "text": "Section 34(2A)",
+      "label": "PROVISION",
+      "start_char": 21830,
+      "end_char": 21844
+    },
+    {
+      "text": "Section 28(3)",
+      "label": "PROVISION",
+      "start_char": 21936,
+      "end_char": 21949
+    },
+    {
+      "text": "Section 21",
+      "label": "PROVISION",
+      "start_char": 22434,
+      "end_char": 22444
+    },
+    {
+      "text": "Specific Relief Act, 1963",
+      "label": "STATUTE",
+      "start_char": 22452,
+      "end_char": 22477
+    },
+    {
+      "text": "Section 73",
+      "label": "PROVISION",
+      "start_char": 22541,
+      "end_char": 22551
+    },
+    {
+      "text": "Indian Contract Act",
+      "label": "STATUTE",
+      "start_char": 22559,
+      "end_char": 22578
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 22864,
+      "end_char": 22881
+    },
+    {
+      "text": "BOARD OF CONTROL FOR CRICKET IN INDIA",
+      "label": "PRECEDENT",
+      "start_char": 22886,
+      "end_char": 22923
+    },
+    {
+      "text": "DECCAN CHRONICLE HOLDINGS LTD",
+      "label": "ORG",
+      "start_char": 22928,
+      "end_char": 22957
+    },
+    {
+      "text": "Commercial Arbitration Petition (L) No.4466/2020",
+      "label": "CASE_NUMBER",
+      "start_char": 22963,
+      "end_char": 23011
+    },
+    {
+      "text": "16.06.2021",
+      "label": "DATE",
+      "start_char": 23018,
+      "end_char": 23028
+    },
+    {
+      "text": "LARSEN AND TOUBRO LIMITED",
+      "label": "ORG",
+      "start_char": 23188,
+      "end_char": 23213
+    },
+    {
+      "text": "GEODESIC TECHNIQUES PRIVATE LIMITED",
+      "label": "ORG",
+      "start_char": 23242,
+      "end_char": 23277
+    },
+    {
+      "text": "21.10.2021",
+      "label": "DATE",
+      "start_char": 23290,
+      "end_char": 23300
+    },
+    {
+      "text": "COMAP No.31/2021",
+      "label": "CASE_NUMBER",
+      "start_char": 23304,
+      "end_char": 23320
+    },
+    {
+      "text": "Specific Relief Act, 1963",
+      "label": "STATUTE",
+      "start_char": 23455,
+      "end_char": 23480
+    },
+    {
+      "text": "Indian Contract Act, 1872",
+      "label": "STATUTE",
+      "start_char": 23489,
+      "end_char": 23514
+    },
+    {
+      "text": "Section 23, 28, 34 and Section 37",
+      "label": "PROVISION",
+      "start_char": 23540,
+      "end_char": 23573
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 24441,
+      "end_char": 24446
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 27388,
+      "end_char": 27393
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 27576,
+      "end_char": 27581
+    },
+    {
+      "text": "section 75 or section 81",
+      "label": "PROVISION",
+      "start_char": 27679,
+      "end_char": 27703
+    },
+    {
+      "text": "section 9",
+      "label": "PROVISION",
+      "start_char": 28347,
+      "end_char": 28356
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 28425,
+      "end_char": 28435
+    },
+    {
+      "text": "sub-section (2) or sub-section (3) of section 16",
+      "label": "PROVISION",
+      "start_char": 28564,
+      "end_char": 28612
+    },
+    {
+      "text": "section 17",
+      "label": "PROVISION",
+      "start_char": 28676,
+      "end_char": 28686
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 28852,
+      "end_char": 28865
+    },
+    {
+      "text": "SPECIFIC RELIEF ACT, 1963",
+      "label": "STATUTE",
+      "start_char": 28872,
+      "end_char": 28897
+    },
+    {
+      "text": "Section 21",
+      "label": "PROVISION",
+      "start_char": 28903,
+      "end_char": 28913
+    },
+    {
+      "text": "01.10.2018",
+      "label": "DATE",
+      "start_char": 28979,
+      "end_char": 28989
+    },
+    {
+      "text": "Section 73",
+      "label": "PROVISION",
+      "start_char": 29983,
+      "end_char": 29993
+    },
+    {
+      "text": "Indian Contract Act, 1872 (9 of 1872)",
+      "label": "STATUTE",
+      "start_char": 30001,
+      "end_char": 30038
+    },
+    {
+      "text": "Section 21(1)",
+      "label": "PROVISION",
+      "start_char": 30601,
+      "end_char": 30614
+    },
+    {
+      "text": "sub-Sections (2) to (5) of Section 21",
+      "label": "PROVISION",
+      "start_char": 30841,
+      "end_char": 30878
+    },
+    {
+      "text": "Act No.18/2018 in",
+      "label": "STATUTE",
+      "start_char": 30908,
+      "end_char": 30925
+    },
+    {
+      "text": "sub-Section (1) of Section 21",
+      "label": "PROVISION",
+      "start_char": 30926,
+      "end_char": 30955
+    },
+    {
+      "text": "INDIAN CONTRACT ACT, 1872",
+      "label": "STATUTE",
+      "start_char": 31062,
+      "end_char": 31087
+    },
+    {
+      "text": "Section 73",
+      "label": "PROVISION",
+      "start_char": 31117,
+      "end_char": 31127
+    },
+    {
+      "text": "SECTION 34",
+      "label": "PROVISION",
+      "start_char": 32313,
+      "end_char": 32323
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 32352,
+      "end_char": 32362
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 32419,
+      "end_char": 32432
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 32438,
+      "end_char": 32451
+    },
+    {
+      "text": "SSANGYONG ENGINEERING AND CONSTRUCTION COMPANY LIMITED",
+      "label": "ORG",
+      "start_char": 32455,
+      "end_char": 32509
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 32583,
+      "end_char": 32593
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 32651,
+      "end_char": 32661
+    },
+    {
+      "text": "Amendment Act 2015",
+      "label": "STATUTE",
+      "start_char": 32676,
+      "end_char": 32694
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 32740,
+      "end_char": 32753
+    },
+    {
+      "text": "ONGC VS.",
+      "label": "PRECEDENT",
+      "start_char": 32757,
+      "end_char": 32765
+    },
+    {
+      "text": "WESTERN GECO INTERNATIONAL LIMITED', (2014) 9 SCC 263",
+      "label": "PRECEDENT",
+      "start_char": 32766,
+      "end_char": 32819
+    },
+    {
+      "text": "DDA, (2015) 3 SCC 49",
+      "label": "PRECEDENT",
+      "start_char": 32844,
+      "end_char": 32864
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 32884,
+      "end_char": 32894
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 33211,
+      "end_char": 33221
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 33305,
+      "end_char": 33310
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 33667,
+      "end_char": 33672
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 34091,
+      "end_char": 34096
+    },
+    {
+      "text": "Section 28(3)",
+      "label": "PROVISION",
+      "start_char": 34197,
+      "end_char": 34210
+    },
+    {
+      "text": "Section34(2-A)",
+      "label": "PROVISION",
+      "start_char": 34671,
+      "end_char": 34685
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 34827,
+      "end_char": 34832
+    },
+    {
+      "text": "SSANGYONG ENGINEERING AND CONSTRUCTION COMPANY LIMITED",
+      "label": "ORG",
+      "start_char": 35172,
+      "end_char": 35226
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 35251,
+      "end_char": 35264
+    },
+    {
+      "text": "DELHI AIRPORT METRO EXPRESS PVT",
+      "label": "ORG",
+      "start_char": 35268,
+      "end_char": 35299
+    },
+    {
+      "text": "METRO RAIL CORPORATION LTD",
+      "label": "ORG",
+      "start_char": 35310,
+      "end_char": 35336
+    },
+    {
+      "text": "(2021) SCC ONLINE SC 695",
+      "label": "PRECEDENT",
+      "start_char": 35338,
+      "end_char": 35362
+    },
+    {
+      "text": "Explanation (1)",
+      "label": "PROVISION",
+      "start_char": 37065,
+      "end_char": 37080
+    },
+    {
+      "text": "Amendment Act",
+      "label": "STATUTE",
+      "start_char": 37097,
+      "end_char": 37110
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 37154,
+      "end_char": 37159
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 37300,
+      "end_char": 37305
+    },
+    {
+      "text": "Section 75 or Section 81",
+      "label": "PROVISION",
+      "start_char": 37387,
+      "end_char": 37411
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 37787,
+      "end_char": 37800
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 37866,
+      "end_char": 37879
+    },
+    {
+      "text": "STATE OF CHHATTISGARH AND ANOTHER VS SAL UDYOG PRIVATE LIMITED (2021 SCC Online 1027)",
+      "label": "PRECEDENT",
+      "start_char": 37883,
+      "end_char": 37968
+    },
+    {
+      "text": "SECTION 37",
+      "label": "PROVISION",
+      "start_char": 37986,
+      "end_char": 37996
+    },
+    {
+      "text": "LACHMESHWAR PRASAD SHUKVI AND OTHERS V. KESHAWAR LAL CHANDHARI'S ORS', AIR 1941 FC 5",
+      "label": "PRECEDENT",
+      "start_char": 38061,
+      "end_char": 38145
+    },
+    {
+      "text": "JUTE CORPN",
+      "label": "ORG",
+      "start_char": 38342,
+      "end_char": 38352
+    },
+    {
+      "text": "V. CIT', 1991 SUPP (2) SCC 744]",
+      "label": "PRECEDENT",
+      "start_char": 38368,
+      "end_char": 38399
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 38449,
+      "end_char": 38459
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 38511,
+      "end_char": 38521
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 38582,
+      "end_char": 38592
+    },
+    {
+      "text": "STATE OF CHATTISGARH SUPRA",
+      "label": "ORG",
+      "start_char": 38655,
+      "end_char": 38681
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 38705,
+      "end_char": 38715
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 38880,
+      "end_char": 38890
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 38958,
+      "end_char": 38968
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 39027,
+      "end_char": 39037
+    },
+    {
+      "text": "Section 100",
+      "label": "PROVISION",
+      "start_char": 39091,
+      "end_char": 39102
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 39110,
+      "end_char": 39139
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 39188,
+      "end_char": 39198
+    },
+    {
+      "text": "Section 100",
+      "label": "PROVISION",
+      "start_char": 39233,
+      "end_char": 39244
+    },
+    {
+      "text": "Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 39252,
+      "end_char": 39267
+    },
+    {
+      "text": "Indian Council of Arbitration Rules",
+      "label": "STATUTE",
+      "start_char": 39936,
+      "end_char": 39971
+    },
+    {
+      "text": "Indian Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 39998,
+      "end_char": 40043
+    },
+    {
+      "text": "Bangalore",
+      "label": "GPE",
+      "start_char": 40165,
+      "end_char": 40174
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 40251,
+      "end_char": 40264
+    },
+    {
+      "text": "STATE OF GOA VS.",
+      "label": "PRECEDENT",
+      "start_char": 40268,
+      "end_char": 40284
+    },
+    {
+      "text": "19 March 2012,",
+      "label": "DATE",
+      "start_char": 41987,
+      "end_char": 42001
+    },
+    {
+      "text": "5 March, 2018",
+      "label": "DATE",
+      "start_char": 42093,
+      "end_char": 42106
+    },
+    {
+      "text": "CISP",
+      "label": "STATUTE",
+      "start_char": 42251,
+      "end_char": 42255
+    },
+    {
+      "text": "19 March 2012",
+      "label": "DATE",
+      "start_char": 42466,
+      "end_char": 42479
+    },
+    {
+      "text": "29 May 2014",
+      "label": "DATE",
+      "start_char": 42481,
+      "end_char": 42492
+    },
+    {
+      "text": "9 September 2015",
+      "label": "DATE",
+      "start_char": 42497,
+      "end_char": 42513
+    },
+    {
+      "text": "CISP Twenty Eight",
+      "label": "PROVISION",
+      "start_char": 43481,
+      "end_char": 43498
+    },
+    {
+      "text": "CISP agreement",
+      "label": "STATUTE",
+      "start_char": 43629,
+      "end_char": 43643
+    },
+    {
+      "text": "5TH March 2018",
+      "label": "DATE",
+      "start_char": 43650,
+      "end_char": 43664
+    },
+    {
+      "text": "30TH August 2020",
+      "label": "DATE",
+      "start_char": 43668,
+      "end_char": 43684
+    },
+    {
+      "text": "CISP Agreement",
+      "label": "STATUTE",
+      "start_char": 43881,
+      "end_char": 43895
+    },
+    {
+      "text": "Section 23(3)",
+      "label": "PROVISION",
+      "start_char": 45851,
+      "end_char": 45864
+    },
+    {
+      "text": "Rule 41",
+      "label": "PROVISION",
+      "start_char": 46073,
+      "end_char": 46080
+    },
+    {
+      "text": "Indian Council of Arbitration",
+      "label": "ORG",
+      "start_char": 46135,
+      "end_char": 46164
+    },
+    {
+      "text": "24.08.2018",
+      "label": "DATE",
+      "start_char": 46322,
+      "end_char": 46332
+    },
+    {
+      "text": "29.10.2018",
+      "label": "DATE",
+      "start_char": 46569,
+      "end_char": 46579
+    },
+    {
+      "text": "Section 23(3)",
+      "label": "PROVISION",
+      "start_char": 46628,
+      "end_char": 46641
+    },
+    {
+      "text": "24.02.2019",
+      "label": "DATE",
+      "start_char": 46656,
+      "end_char": 46666
+    },
+    {
+      "text": "06.05.2019",
+      "label": "DATE",
+      "start_char": 46731,
+      "end_char": 46741
+    },
+    {
+      "text": "28.05.2019",
+      "label": "DATE",
+      "start_char": 46939,
+      "end_char": 46949
+    },
+    {
+      "text": "CISP agreement",
+      "label": "STATUTE",
+      "start_char": 47917,
+      "end_char": 47931
+    },
+    {
+      "text": "09.09.2005",
+      "label": "DATE",
+      "start_char": 48072,
+      "end_char": 48082
+    },
+    {
+      "text": "SKOL",
+      "label": "ORG",
+      "start_char": 48321,
+      "end_char": 48325
+    },
+    {
+      "text": "IBSPL",
+      "label": "ORG",
+      "start_char": 48375,
+      "end_char": 48380
+    },
+    {
+      "text": "IBSPL",
+      "label": "ORG",
+      "start_char": 48384,
+      "end_char": 48389
+    },
+    {
+      "text": "IBSPL",
+      "label": "ORG",
+      "start_char": 48530,
+      "end_char": 48535
+    },
+    {
+      "text": "IBSPL",
+      "label": "ORG",
+      "start_char": 48756,
+      "end_char": 48761
+    },
+    {
+      "text": "IBSPL",
+      "label": "ORG",
+      "start_char": 49035,
+      "end_char": 49040
+    },
+    {
+      "text": "SABMiller India",
+      "label": "ORG",
+      "start_char": 49044,
+      "end_char": 49059
+    },
+    {
+      "text": "corrupt Act",
+      "label": "STATUTE",
+      "start_char": 49513,
+      "end_char": 49524
+    },
+    {
+      "text": "IBSPL",
+      "label": "ORG",
+      "start_char": 49528,
+      "end_char": 49533
+    },
+    {
+      "text": "IBSPL",
+      "label": "ORG",
+      "start_char": 49733,
+      "end_char": 49738
+    },
+    {
+      "text": "SABMiller India",
+      "label": "ORG",
+      "start_char": 49742,
+      "end_char": 49757
+    },
+    {
+      "text": "IBSPL",
+      "label": "ORG",
+      "start_char": 50580,
+      "end_char": 50585
+    },
+    {
+      "text": "SABMiller India",
+      "label": "ORG",
+      "start_char": 50635,
+      "end_char": 50650
+    },
+    {
+      "text": "IBSPL",
+      "label": "ORG",
+      "start_char": 50660,
+      "end_char": 50665
+    },
+    {
+      "text": "IBSPL",
+      "label": "ORG",
+      "start_char": 51187,
+      "end_char": 51192
+    },
+    {
+      "text": "SABMiller India",
+      "label": "ORG",
+      "start_char": 51196,
+      "end_char": 51211
+    },
+    {
+      "text": "IBSPL",
+      "label": "ORG",
+      "start_char": 51217,
+      "end_char": 51222
+    },
+    {
+      "text": "SABMiller India",
+      "label": "ORG",
+      "start_char": 51366,
+      "end_char": 51381
+    },
+    {
+      "text": "IBSPL",
+      "label": "ORG",
+      "start_char": 51413,
+      "end_char": 51418
+    },
+    {
+      "text": "SABMiller India",
+      "label": "ORG",
+      "start_char": 51458,
+      "end_char": 51473
+    },
+    {
+      "text": "SABMiller India",
+      "label": "ORG",
+      "start_char": 51544,
+      "end_char": 51559
+    },
+    {
+      "text": "SABMiller India",
+      "label": "ORG",
+      "start_char": 51612,
+      "end_char": 51627
+    },
+    {
+      "text": "SABMiller India",
+      "label": "ORG",
+      "start_char": 51728,
+      "end_char": 51743
+    },
+    {
+      "text": "IBSPL",
+      "label": "ORG",
+      "start_char": 51808,
+      "end_char": 51813
+    },
+    {
+      "text": "IBSPL",
+      "label": "ORG",
+      "start_char": 52116,
+      "end_char": 52121
+    },
+    {
+      "text": "SABMiller India",
+      "label": "ORG",
+      "start_char": 52184,
+      "end_char": 52199
+    },
+    {
+      "text": "IBSPL",
+      "label": "ORG",
+      "start_char": 52215,
+      "end_char": 52220
+    },
+    {
+      "text": "SABMiller India",
+      "label": "ORG",
+      "start_char": 52334,
+      "end_char": 52349
+    },
+    {
+      "text": "IBSPL",
+      "label": "ORG",
+      "start_char": 52387,
+      "end_char": 52392
+    },
+    {
+      "text": "IBSPL",
+      "label": "ORG",
+      "start_char": 52566,
+      "end_char": 52571
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 52597,
+      "end_char": 52602
+    },
+    {
+      "text": "IBSPL",
+      "label": "ORG",
+      "start_char": 52636,
+      "end_char": 52641
+    },
+    {
+      "text": "IBSPL",
+      "label": "ORG",
+      "start_char": 52771,
+      "end_char": 52776
+    },
+    {
+      "text": "IBSPL",
+      "label": "ORG",
+      "start_char": 52920,
+      "end_char": 52925
+    },
+    {
+      "text": "SABMiller India",
+      "label": "ORG",
+      "start_char": 53043,
+      "end_char": 53058
+    },
+    {
+      "text": "06.03.2018",
+      "label": "DATE",
+      "start_char": 53124,
+      "end_char": 53134
+    },
+    {
+      "text": "September 9, 2015",
+      "label": "DATE",
+      "start_char": 53277,
+      "end_char": 53294
+    },
+    {
+      "text": "02.11.2020",
+      "label": "DATE",
+      "start_char": 53778,
+      "end_char": 53788
+    },
+    {
+      "text": "4.2.11",
+      "label": "DATE",
+      "start_char": 53798,
+      "end_char": 53804
+    },
+    {
+      "text": "4.2.12",
+      "label": "DATE",
+      "start_char": 53814,
+      "end_char": 53820
+    },
+    {
+      "text": "CISP Agreement",
+      "label": "STATUTE",
+      "start_char": 53889,
+      "end_char": 53903
+    },
+    {
+      "text": "CISP Agreement",
+      "label": "STATUTE",
+      "start_char": 54487,
+      "end_char": 54501
+    },
+    {
+      "text": "16.02.2017",
+      "label": "DATE",
+      "start_char": 54583,
+      "end_char": 54593
+    },
+    {
+      "text": "05.03.2018",
+      "label": "DATE",
+      "start_char": 54826,
+      "end_char": 54836
+    },
+    {
+      "text": "Sana",
+      "label": "OTHER_PERSON",
+      "start_char": 54962,
+      "end_char": 54966
+    },
+    {
+      "text": "NUNE SIVAYYA V. MADDU RANGANAYA KULU', AIR 1935 PC 67",
+      "label": "PRECEDENT",
+      "start_char": 55198,
+      "end_char": 55251
+    },
+    {
+      "text": "JUGGILAL KAMPKPAT V. PRATAPMAL RAMESHWAR', (1978) 1 SCC 69",
+      "label": "PRECEDENT",
+      "start_char": 55256,
+      "end_char": 55314
+    },
+    {
+      "text": "15.10.2018",
+      "label": "DATE",
+      "start_char": 55618,
+      "end_char": 55628
+    },
+    {
+      "text": "05.03.2018",
+      "label": "DATE",
+      "start_char": 55701,
+      "end_char": 55711
+    },
+    {
+      "text": "16.02.2017",
+      "label": "DATE",
+      "start_char": 55936,
+      "end_char": 55946
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 56933,
+      "end_char": 56946
+    },
+    {
+      "text": "KAILASH NATH ASSOCIATES V. DELHI DEVELOPMENT AUTHORITY', (2015) 4",
+      "label": "PRECEDENT",
+      "start_char": 56951,
+      "end_char": 57016
+    },
+    {
+      "text": "SCC 136",
+      "label": "PROVISION",
+      "start_char": 57017,
+      "end_char": 57024
+    },
+    {
+      "text": "Section 74",
+      "label": "PROVISION",
+      "start_char": 57179,
+      "end_char": 57189
+    },
+    {
+      "text": "Section 73",
+      "label": "PROVISION",
+      "start_char": 58113,
+      "end_char": 58123
+    },
+    {
+      "text": "contract Act",
+      "label": "STATUTE",
+      "start_char": 58131,
+      "end_char": 58143
+    },
+    {
+      "text": "section 74",
+      "label": "PROVISION",
+      "start_char": 58158,
+      "end_char": 58168
+    },
+    {
+      "text": "43.7.Section 74",
+      "label": "PROVISION",
+      "start_char": 58866,
+      "end_char": 58881
+    },
+    {
+      "text": "Section 74",
+      "label": "PROVISION",
+      "start_char": 59070,
+      "end_char": 59080
+    },
+    {
+      "text": "SUDHA GUPTA VS.",
+      "label": "PRECEDENT",
+      "start_char": 59169,
+      "end_char": 59184
+    },
+    {
+      "text": "DELHI LAND FINANCE LIMITED",
+      "label": "ORG",
+      "start_char": 59185,
+      "end_char": 59211
+    },
+    {
+      "text": "(2019) 14 SCC 266",
+      "label": "CASE_NUMBER",
+      "start_char": 59213,
+      "end_char": 59230
+    },
+    {
+      "text": "MAULA BUX VS.",
+      "label": "PRECEDENT",
+      "start_char": 59556,
+      "end_char": 59569
+    },
+    {
+      "text": "UNION OF INDIA 1969 (2) SCC 554]",
+      "label": "PRECEDENT",
+      "start_char": 59570,
+      "end_char": 59602
+    },
+    {
+      "text": "06.12.2019",
+      "label": "DATE",
+      "start_char": 60402,
+      "end_char": 60412
+    },
+    {
+      "text": "06.12.2019",
+      "label": "DATE",
+      "start_char": 62297,
+      "end_char": 62307
+    },
+    {
+      "text": "4.3.2",
+      "label": "DATE",
+      "start_char": 62336,
+      "end_char": 62341
+    },
+    {
+      "text": "06.12.2019",
+      "label": "DATE",
+      "start_char": 62800,
+      "end_char": 62810
+    },
+    {
+      "text": "Kerala",
+      "label": "GPE",
+      "start_char": 63035,
+      "end_char": 63041
+    },
+    {
+      "text": "Section 34(2-A)",
+      "label": "PROVISION",
+      "start_char": 63904,
+      "end_char": 63919
+    },
+    {
+      "text": "4.2.21",
+      "label": "DATE",
+      "start_char": 67435,
+      "end_char": 67441
+    },
+    {
+      "text": "4.4.23",
+      "label": "DATE",
+      "start_char": 67943,
+      "end_char": 67949
+    },
+    {
+      "text": "4.4.24",
+      "label": "DATE",
+      "start_char": 68287,
+      "end_char": 68293
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 68387,
+      "end_char": 68397
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 68569,
+      "end_char": 68574
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 68847,
+      "end_char": 68860
+    },
+    {
+      "text": "KANCHAN UDYOG LIMITED VS.",
+      "label": "PRECEDENT",
+      "start_char": 68865,
+      "end_char": 68890
+    },
+    {
+      "text": "UNITED SPIRITS LIMITED",
+      "label": "ORG",
+      "start_char": 68891,
+      "end_char": 68913
+    },
+    {
+      "text": "SCC 237",
+      "label": "PROVISION",
+      "start_char": 68925,
+      "end_char": 68932
+    },
+    {
+      "text": "Section 34(2-A)",
+      "label": "PROVISION",
+      "start_char": 69782,
+      "end_char": 69797
+    },
+    {
+      "text": "ARBITRAL TRIBUNAL 53",
+      "label": "STATUTE",
+      "start_char": 69862,
+      "end_char": 69882
+    },
+    {
+      "text": "Section 34(2-A)",
+      "label": "PROVISION",
+      "start_char": 70641,
+      "end_char": 70656
+    },
+    {
+      "text": "CISP agreement",
+      "label": "STATUTE",
+      "start_char": 70935,
+      "end_char": 70949
+    },
+    {
+      "text": "Section34(2-A)",
+      "label": "PROVISION",
+      "start_char": 71452,
+      "end_char": 71466
+    },
+    {
+      "text": "5th March 2018",
+      "label": "DATE",
+      "start_char": 71615,
+      "end_char": 71629
+    },
+    {
+      "text": "30th August 2020",
+      "label": "DATE",
+      "start_char": 71647,
+      "end_char": 71663
+    },
+    {
+      "text": "Section 34(2-A)",
+      "label": "PROVISION",
+      "start_char": 71761,
+      "end_char": 71776
+    },
+    {
+      "text": "Section34(2-A)",
+      "label": "PROVISION",
+      "start_char": 72010,
+      "end_char": 72024
+    },
+    {
+      "text": "24.06.2021",
+      "label": "DATE",
+      "start_char": 72077,
+      "end_char": 72087
+    },
+    {
+      "text": "02.11.2020",
+      "label": "DATE",
+      "start_char": 72146,
+      "end_char": 72156
+    },
+    {
+      "text": "5th March 2018",
+      "label": "DATE",
+      "start_char": 72306,
+      "end_char": 72320
+    },
+    {
+      "text": "30th August 2020",
+      "label": "DATE",
+      "start_char": 72324,
+      "end_char": 72340
+    }
+  ],
+  "precedent_clusters": {
+    "KAILASH NATH ASSOCIATES V. DELHI DEVELOPMENT AUTHORITY', (2015) 4": [
+      "NUNE SIVAYYA VS.",
+      "JUGGILAL KAMLAPAT VS.",
+      "ASSOCIATES BUILDERS VS.",
+      "KANCHAN UDYOG LIMITED VS.",
+      "SSANYONG ENGINEERING AND CONSTRUCTION COMPANY LIMITED VS.",
+      "MAPPOURAS VS.",
+      "L.G.ELECTRONICS INDIA Vs. DINESH KALRA' (2018)",
+      "SCC ONLINE DELHI 8367",
+      "MMTC LIMITED Vs.",
+      "MCDERMAT INTERNATIONAL INK Vs.",
+      "SCC 181, 'SAIL Vs.",
+      "NTPC Vs.",
+      "NHAI Vs.",
+      "MODULAR BUX Vs. UNION OF INDIA' (1969) 2",
+      "SCC 554, 'ONGC Vs.",
+      "JUGINAL KAMALPAT Vs.",
+      "STATE OF GOA Vs.",
+      "BOARD OF CONTROL FOR CRICKET IN INDIA",
+      "ONGC VS.",
+      "STATE OF GOA VS.",
+      "KAILASH NATH ASSOCIATES V. DELHI DEVELOPMENT AUTHORITY', (2015) 4",
+      "SUDHA GUPTA VS.",
+      "MAULA BUX VS.",
+      "KANCHAN UDYOG LIMITED VS."
+    ],
+    "NUNE SIVAYYA V. MADDU RANGANAYA KULU', AIR 1935 PC 67": [
+      "MADDU RANGANAYAKULU', AIR 1935 PC 67",
+      "NUNE SIVAYYA V. MADDU RANGANAYA KULU', AIR 1935 PC 67"
+    ],
+    "JUGGILAL KAMPKPAT V. PRATAPMAL RAMESHWAR', (1978) 1 SCC 69": [
+      "PRATAPMAL RAMESHWAR', (1978) 1 SCC 69",
+      "PRATAM PAL RAMESHWAR' (1978) 1 SCC 69",
+      "JUGGILAL KAMPKPAT V. PRATAPMAL RAMESHWAR', (1978) 1 SCC 69"
+    ],
+    "CROMPTON GREAVES LTD.', (2019) 20 SCC 1": [
+      "CROMPTON GREAVES LTD.', (2019) 20 SCC 1",
+      "CROMPTON GREAVES' (2019) 20 SCC 1"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 13(1-A)",
+      "Commercial Court Act, 2015",
+      "Section 13(1-A)",
+      "Commercial Court Act, 2015"
+    ],
+    [
+      "Section 37(1)(b)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 37(1)(b)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Order 2 Rule 2",
+      "Code of Civil Procedure 1908",
+      "Order 2 Rule 2",
+      "Code of Civil Procedure 1908"
+    ],
+    [
+      "Section 74",
+      "Indian Contract Act",
+      "Section 74",
+      "Indian Contract Act"
+    ],
+    [
+      "Section 21",
+      "Specific Relief Act",
+      "Section 21",
+      "Specific Relief Act"
+    ],
+    [
+      "Section 21",
+      "Specific Relief Act, 1963",
+      "Section 21",
+      "Specific Relief Act, 1963"
+    ],
+    [
+      "Section 73",
+      "Indian Contract Act, 1872",
+      "Section 73",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "Section 21",
+      "Specific Relief Act, 1963",
+      "Section 21",
+      "Specific Relief Act, 1963"
+    ],
+    [
+      "Section 21",
+      "Specific Relief Act, 1963",
+      "Section 21",
+      "Specific Relief Act, 1963"
+    ],
+    [
+      "Section 73",
+      "Indian Contract Act",
+      "Section 73",
+      "Indian Contract Act"
+    ],
+    [
+      "Section 21",
+      "Specific Relief Act, 1963",
+      "Section 21",
+      "Specific Relief Act, 1963"
+    ],
+    [
+      "Section 73",
+      "Indian Contract Act",
+      "Section 73",
+      "Indian Contract Act"
+    ],
+    [
+      "Section 73",
+      "Indian Contract Act, 1872 (9 of 1872)",
+      "Section 73",
+      "Indian Contract Act, 1872 (9 of 1872)"
+    ],
+    [
+      "Section 34",
+      "Amendment Act 2015",
+      "Section 34",
+      "Amendment Act 2015"
+    ],
+    [
+      "Explanation (1)",
+      "Amendment Act",
+      "Explanation (1)",
+      "Amendment Act"
+    ],
+    [
+      "Section 100",
+      "Code of Civil Procedure, 1908",
+      "Section 100",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 100",
+      "Civil Procedure",
+      "Section 100",
+      "Civil Procedure"
+    ],
+    [
+      "CISP Twenty Eight",
+      "CISP agreement",
+      "CISP Twenty Eight",
+      "CISP agreement"
+    ],
+    [
+      "Section 73",
+      "contract Act",
+      "Section 73",
+      "contract Act"
+    ],
+    [
+      "Section 34",
+      "Amendment Act 2015",
+      "Section 34",
+      "Amendment Act 2015"
+    ],
+    [
+      "Section 34",
+      "Amendment Act 2015",
+      "Section 34",
+      "Amendment Act 2015"
+    ],
+    [
+      "Section 34",
+      "Amendment Act 2015",
+      "Section 34",
+      "Amendment Act 2015"
+    ],
+    [
+      "Section 34",
+      "Amendment Act 2015",
+      "Section 34",
+      "Amendment Act 2015"
+    ],
+    [
+      "Section 34",
+      "Amendment Act 2015",
+      "Section 34",
+      "Amendment Act 2015"
+    ],
+    [
+      "Section 9",
+      "CISP agreement",
+      "Section 9",
+      "CISP agreement"
+    ],
+    [
+      "Section 34(2)(iv), 34(2)(b)(ii)",
+      "Amendment Act 2015",
+      "Section 34(2)(iv), 34(2)(b)(ii)",
+      "Amendment Act 2015"
+    ],
+    [
+      "Section 34(2A)",
+      "Amendment Act 2015",
+      "Section 34(2A)",
+      "Amendment Act 2015"
+    ],
+    [
+      "Sections 34 and 37",
+      "Arbitration and Conciliation Act, 1996",
+      "Sections 34 and 37",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Amendment Act 2015",
+      "Section 34",
+      "Amendment Act 2015"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Amendment Act 2015",
+      "Section 34",
+      "Amendment Act 2015"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 100",
+      "Code of Civil Procedure, 1908",
+      "Section 100",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 34",
+      "Amendment Act 2015",
+      "Section 34",
+      "Amendment Act 2015"
+    ],
+    [
+      "Section 34(2A)",
+      "Amendment Act 2015",
+      "Section 34(2A)",
+      "Amendment Act 2015"
+    ],
+    [
+      "Section 34(2A)",
+      "Amendment Act 2015",
+      "Section 34(2A)",
+      "Amendment Act 2015"
+    ],
+    [
+      "Section 23, 28, 34 and Section 37",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 23, 28, 34 and Section 37",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 9",
+      "CISP agreement",
+      "section 9",
+      "CISP agreement"
+    ],
+    [
+      "section 34",
+      "Amendment Act 2015",
+      "section 34",
+      "Amendment Act 2015"
+    ],
+    [
+      "Section 21",
+      "Specific Relief Act, 1963",
+      "Section 21",
+      "Specific Relief Act, 1963"
+    ],
+    [
+      "Section 21(1)",
+      "Specific Relief Act, 1963",
+      "Section 21(1)",
+      "Specific Relief Act, 1963"
+    ],
+    [
+      "sub-Sections (2) to (5) of Section 21",
+      "Specific Relief Act, 1963",
+      "sub-Sections (2) to (5) of Section 21",
+      "Specific Relief Act, 1963"
+    ],
+    [
+      "sub-Section (1) of Section 21",
+      "Specific Relief Act, 1963",
+      "sub-Section (1) of Section 21",
+      "Specific Relief Act, 1963"
+    ],
+    [
+      "Section 73",
+      "Indian Contract Act, 1872 (9 of 1872)",
+      "Section 73",
+      "Indian Contract Act, 1872 (9 of 1872)"
+    ],
+    [
+      "SECTION 34",
+      "Amendment Act 2015",
+      "SECTION 34",
+      "Amendment Act 2015"
+    ],
+    [
+      "Section 34",
+      "Amendment Act 2015",
+      "Section 34",
+      "Amendment Act 2015"
+    ],
+    [
+      "Section 34",
+      "Amendment Act 2015",
+      "Section 34",
+      "Amendment Act 2015"
+    ],
+    [
+      "Section 34",
+      "Amendment Act 2015",
+      "Section 34",
+      "Amendment Act 2015"
+    ],
+    [
+      "Section 34",
+      "Amendment Act 2015",
+      "Section 34",
+      "Amendment Act 2015"
+    ],
+    [
+      "Section 28(3)",
+      "Indian Contract Act",
+      "Section 28(3)",
+      "Indian Contract Act"
+    ],
+    [
+      "Section34(2-A)",
+      "Amendment Act 2015",
+      "Section34(2-A)",
+      "Amendment Act 2015"
+    ],
+    [
+      "Section 75 or Section 81",
+      "Indian Contract Act, 1872",
+      "Section 75 or Section 81",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "SECTION 37",
+      "Arbitration and Conciliation Act, 1996",
+      "SECTION 37",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 34",
+      "Amendment Act 2015",
+      "section 34",
+      "Amendment Act 2015"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Amendment Act 2015",
+      "Section 34",
+      "Amendment Act 2015"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 23(3)",
+      "CISP agreement",
+      "Section 23(3)",
+      "CISP agreement"
+    ],
+    [
+      "Section 23(3)",
+      "CISP agreement",
+      "Section 23(3)",
+      "CISP agreement"
+    ],
+    [
+      "Section 74",
+      "Indian Contract Act",
+      "Section 74",
+      "Indian Contract Act"
+    ],
+    [
+      "section 74",
+      "Indian Contract Act",
+      "section 74",
+      "Indian Contract Act"
+    ],
+    [
+      "43.7.Section 74",
+      "Indian Contract Act",
+      "43.7.Section 74",
+      "Indian Contract Act"
+    ],
+    [
+      "Section 74",
+      "Indian Contract Act",
+      "Section 74",
+      "Indian Contract Act"
+    ],
+    [
+      "Section 34(2-A)",
+      "Amendment Act 2015",
+      "Section 34(2-A)",
+      "Amendment Act 2015"
+    ],
+    [
+      "Section 34(2-A)",
+      "Amendment Act 2015",
+      "Section 34(2-A)",
+      "Amendment Act 2015"
+    ],
+    [
+      "Section 34(2-A)",
+      "Amendment Act 2015",
+      "Section 34(2-A)",
+      "Amendment Act 2015"
+    ],
+    [
+      "Section34(2-A)",
+      "Amendment Act 2015",
+      "Section34(2-A)",
+      "Amendment Act 2015"
+    ],
+    [
+      "Section 34(2-A)",
+      "Amendment Act 2015",
+      "Section 34(2-A)",
+      "Amendment Act 2015"
+    ],
+    [
+      "Section34(2-A)",
+      "Amendment Act 2015",
+      "Section34(2-A)",
+      "Amendment Act 2015"
+    ],
+    [
+      "Section 9",
+      "CISP agreement",
+      "Section 9",
+      "CISP agreement"
+    ],
+    [
+      "Section 23(3)",
+      "CISP agreement",
+      "Section 23(3)",
+      "CISP agreement"
+    ],
+    [
+      "Rule 15(i) and (ii)(b)",
+      "ICA",
+      "Rule 15(i) and (ii)(b)",
+      "ICA"
+    ],
+    [
+      "Clauses 10.4 and 20",
+      "Code of Civil Procedure 1908",
+      "Clauses 10.4 and 20",
+      "Code of Civil Procedure 1908"
+    ],
+    [
+      "SCC 636",
+      "Indian Contract Act",
+      "SCC 636",
+      "Indian Contract Act"
+    ],
+    [
+      "SCC 163",
+      "Specific Relief Act",
+      "SCC 163",
+      "Specific Relief Act"
+    ],
+    [
+      "SCC 758",
+      "Specific Relief Act",
+      "SCC 758",
+      "Specific Relief Act"
+    ],
+    [
+      "SCC 705",
+      "Specific Relief Act",
+      "SCC 705",
+      "Specific Relief Act"
+    ],
+    [
+      "SCC 581",
+      "Specific Relief Act",
+      "SCC 581",
+      "Specific Relief Act"
+    ],
+    [
+      "Section 28(3)",
+      "Indian Contract Act",
+      "Section 28(3)",
+      "Indian Contract Act"
+    ],
+    [
+      "section 75 or section 81",
+      "Indian Contract Act, 1872",
+      "section 75 or section 81",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "sub-section (2) or sub-section (3) of section 16",
+      "Indian Contract Act, 1872",
+      "sub-section (2) or sub-section (3) of section 16",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "section 17",
+      "Indian Contract Act, 1872",
+      "section 17",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "Rule 41",
+      "CISP Agreement",
+      "Rule 41",
+      "CISP Agreement"
+    ],
+    [
+      "SCC 136",
+      "CISP Agreement",
+      "SCC 136",
+      "CISP Agreement"
+    ],
+    [
+      "SCC 237",
+      "contract Act",
+      "SCC 237",
+      "contract Act"
+    ]
+  ],
+  "precedent_counts": {
+    "KAILASH NATH ASSOCIATES V. DELHI DEVELOPMENT AUTHORITY', (2015) 4": 24,
+    "NUNE SIVAYYA V. MADDU RANGANAYA KULU', AIR 1935 PC 67": 2,
+    "JUGGILAL KAMPKPAT V. PRATAPMAL RAMESHWAR', (1978) 1 SCC 69": 3,
+    "CROMPTON GREAVES LTD.', (2019) 20 SCC 1": 2
+  },
+  "provision_counts": {
+    "Section 13(1-A) of Commercial Court Act, 2015": 1,
+    "Section 37(1)(b) of Arbitration and Conciliation Act, 1996": 1,
+    "Order 2 Rule 2 of Code of Civil Procedure 1908": 1,
+    "Section 74 of Indian Contract Act": 3,
+    "Section 21 of Specific Relief Act": 1,
+    "Section 21 of Specific Relief Act, 1963": 5,
+    "Section 73 of Indian Contract Act, 1872": 1,
+    "Section 73 of Indian Contract Act": 2,
+    "Section 73 of Indian Contract Act, 1872 (9 of 1872)": 2,
+    "Section 34 of Amendment Act 2015": 14,
+    "Explanation (1) of Amendment Act": 1,
+    "Section 100 of Code of Civil Procedure, 1908": 2,
+    "Section 100 of Civil Procedure": 1,
+    "CISP Twenty Eight of CISP agreement": 1,
+    "Section 73 of contract Act": 1,
+    "Section 9 of CISP agreement": 2,
+    "Section 34(2)(iv), 34(2)(b)(ii) of Amendment Act 2015": 1,
+    "Section 34(2A) of Amendment Act 2015": 3,
+    "Sections 34 and 37 of Arbitration and Conciliation Act, 1996": 1,
+    "Section 37 of Arbitration and Conciliation Act, 1996": 8,
+    "Section 23, 28, 34 and Section 37 of Arbitration and Conciliation Act, 1996": 1,
+    "section 9 of CISP agreement": 1,
+    "section 34 of Amendment Act 2015": 2,
+    "Section 21(1) of Specific Relief Act, 1963": 1,
+    "sub-Sections (2) to (5) of Section 21 of Specific Relief Act, 1963": 1,
+    "sub-Section (1) of Section 21 of Specific Relief Act, 1963": 1,
+    "SECTION 34 of Amendment Act 2015": 1,
+    "Section 28(3) of Indian Contract Act": 2,
+    "Section34(2-A) of Amendment Act 2015": 3,
+    "Section 75 or Section 81 of Indian Contract Act, 1872": 1,
+    "SECTION 37 of Arbitration and Conciliation Act, 1996": 1,
+    "Section 23(3) of CISP agreement": 3,
+    "section 74 of Indian Contract Act": 1,
+    "43.7.Section 74 of Indian Contract Act": 1,
+    "Section 34(2-A) of Amendment Act 2015": 4,
+    "Rule 15(i) and (ii)(b) of ICA": 1,
+    "Clauses 10.4 and 20 of Code of Civil Procedure 1908": 1,
+    "SCC 636 of Indian Contract Act": 1,
+    "SCC 163 of Specific Relief Act": 1,
+    "SCC 758 of Specific Relief Act": 1,
+    "SCC 705 of Specific Relief Act": 1,
+    "SCC 581 of Specific Relief Act": 1,
+    "section 75 or section 81 of Indian Contract Act, 1872": 1,
+    "sub-section (2) or sub-section (3) of section 16 of Indian Contract Act, 1872": 1,
+    "section 17 of Indian Contract Act, 1872": 1,
+    "Rule 41 of CISP Agreement": 1,
+    "SCC 136 of CISP Agreement": 1,
+    "SCC 237 of contract Act": 1
+  },
+  "statute_counts": {
+    "Commercial Court Act, 2015": 1,
+    "Arbitration and Conciliation Act, 1996": 12,
+    "Code of Civil Procedure 1908": 2,
+    "Indian Contract Act": 10,
+    "Specific Relief Act": 5,
+    "Specific Relief Act, 1963": 8,
+    "Indian Contract Act, 1872": 5,
+    "Indian Contract Act, 1872 (9 of 1872)": 2,
+    "Amendment Act 2015": 28,
+    "Amendment Act": 1,
+    "Code of Civil Procedure, 1908": 2,
+    "Civil Procedure": 1,
+    "CISP agreement": 7,
+    "contract Act": 2,
+    "ICA": 1,
+    "CISP Agreement": 2
+  }
+}
