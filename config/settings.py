@@ -6,7 +6,9 @@ from dotenv import load_dotenv
 load_dotenv()
 
 class Settings:
-# Model configurations
+    """Legal RAG System Configuration Settings"""
+    
+    # Model configurations
     LEGAL_EMBEDDING_MODEL = "law-ai/InLegalBERT"
     CROSS_ENCODER_MODEL = "cross-encoder/ms-marco-MiniLM-L-6-v2"
     GENERATION_MODEL = "microsoft/DialoGPT-medium"
@@ -32,13 +34,11 @@ class Settings:
     CHUNK_OVERLAP = 50
 
     # File paths
-    PROCESSED_DATA_DIR = "processed"
+    DATA_DIR = "data"
+    MERGED_DATA_DIR = "data/processed/merged"  # Updated to match your usage
+    PROCESSED_DATA_DIR = "data/processed"
     BM25_INDEX_FILE = "legal_bm25_index.pkl"
     CHUNKS_METADATA_FILE = "chunks_metadata.json"
-
-    DATA_DIR = "data"
-    MERGED_DATA_DIR = f"{DATA_DIR}/merged"
-    PROCESSED_DATA_DIR = f"{DATA_DIR}/processed"
 
     # UPDATED: Correct rhetorical roles mapping based on your specification
     RHETORICAL_ROLES = {
@@ -90,5 +90,5 @@ class Settings:
     # High-priority entity types for legal analysis
     PRIORITY_ENTITY_TYPES = ['COURT', 'JUDGE', 'STATUTE', 'PROVISION', 'PRECEDENT', 'CASE_NUMBER']
 
-
+# Create settings instance
 settings = Settings()

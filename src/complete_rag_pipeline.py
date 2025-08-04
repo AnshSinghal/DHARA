@@ -14,11 +14,13 @@ from src.data_models import (
     RerankingResult, LegalMetadata
 )
 from src.rhetorical_chunking import DocumentProcessor
-from src.embeddings import LegalEmbeddingModel, MetadataAwareEmbedding
+from src.embeddings import LegalEmbeddingModel, MetadataAwareEmbedding  
 from src.vector_store import EnhancedPineconeStore
 from src.legal_bm25 import LegalBM25Retriever
 from src.multi_faceted_search import LegalMultiFacetedSearch
-from config.settings import *
+
+# Fixed import - now uses config.settings
+from config.settings import settings
 
 logger = logging.getLogger(__name__)
 
@@ -82,8 +84,8 @@ class CompleteLegalRAGPipeline:
     def _check_existing_indices(self):
         """Check for existing BM25 index and metadata files"""
         
-        bm25_path = Path(BM25_INDEX_FILE)
-        metadata_path = Path(CHUNKS_METADATA_FILE)
+        bm25_path = Path(settings.BM25_INDEX_FILE)
+        metadata_path = Path(settings.CHUNKS_METADATA_FILE)
         
         if bm25_path.exists():
             logger.info(f"Found existing BM25 index: {bm25_path}")
@@ -136,14 +138,6 @@ class CompleteLegalRAGPipeline:
             )
         return self._generator
     
-    @property
-    def response_evaluator(self):
-        """Lazy load response evaluator to avoid circular imports"""
-        if self._response_evaluator is None:
-            from src.context_aware_generation import LegalResponseEvaluator
-            self._response_evaluator = LegalResponseEvaluator()
-        return self._response_evaluator
-    
     async def build_index(self, data_directory: str, 
                          force_rebuild: bool = False) -> bool:
         """Build the complete index from merged JSON files"""
@@ -182,9 +176,9 @@ class CompleteLegalRAGPipeline:
                     if embeddings.size == 0:
                         return 'N/A'
                     elif len(embeddings.shape) == 1:
-                        return embeddings.shape[0]  # 1D array
+                        return embeddings.shape  # 1D array
                     elif len(embeddings.shape) == 2:
-                        return embeddings.shape[1]  # 2D array (N, D)
+                        return embeddings.shape  # 2D array (N, D)
                     else:
                         return f"Shape: {embeddings.shape}"
                 
@@ -221,12 +215,12 @@ class CompleteLegalRAGPipeline:
             
             # Step 5: Save indices
             logger.info("Step 5: Saving indices to disk")
-            os.makedirs(PROCESSED_DATA_DIR, exist_ok=True)
-            bm25_index_path = f"{PROCESSED_DATA_DIR}/{BM25_INDEX_FILE}"
+            os.makedirs(settings.PROCESSED_DATA_DIR, exist_ok=True)
+            bm25_index_path = f"{settings.PROCESSED_DATA_DIR}/{settings.BM25_INDEX_FILE}"
             self.bm25_retriever.save_index(bm25_index_path)
             
             # Save chunk metadata for evaluation
-            chunks_metadata_path = f"{PROCESSED_DATA_DIR}/{CHUNKS_METADATA_FILE}"
+            chunks_metadata_path = f"{settings.PROCESSED_DATA_DIR}/{settings.CHUNKS_METADATA_FILE}"
             self._save_chunks_metadata(chunks, chunks_metadata_path)
             
             indexing_time = time.time() - start_time
@@ -270,16 +264,14 @@ class CompleteLegalRAGPipeline:
         """Process a complete query through the entire RAG pipeline"""
         
         if not self.is_initialized:
-            raise ValueError("Pipeline not initialized. Please build index first.")
+            return {
+                'query': query,
+                'response': 'Pipeline not initialized. Please build index first.',
+                'success': False,
+                'error': 'Pipeline not initialized'
+            }
         
         start_time = time.time()
-        
-        # Initialize metrics tracking
-        metrics = {
-            'query': query,
-            'start_time': start_time,
-            'steps': {}
-        }
         
         try:
             # Parse search options
@@ -287,30 +279,22 @@ class CompleteLegalRAGPipeline:
             search_query = self._create_search_query(query, search_options)
             
             # Step 1: Hybrid Retrieval
-            step_start = time.time()
             logger.info("Step 1: Executing hybrid retrieval")
             
             retrieval_results = self.hybrid_retriever.hybrid_search(
                 query=query,
                 search_query=search_query,
-                top_k=search_options.get('retrieval_top_k', TOP_K_RETRIEVAL),
+                top_k=search_options.get('retrieval_top_k', settings.TOP_K_RETRIEVAL),
                 fusion_method=search_options.get('fusion_method', 'weighted_sum')
             )
             
-            metrics['steps']['retrieval'] = {
-                'time': time.time() - step_start,
-                'results_count': len(retrieval_results),
-                'fusion_method': search_options.get('fusion_method', 'weighted_sum')
-            }
-            
             if not retrieval_results:
-                return self._create_empty_response(query, metrics, "No relevant documents found")
+                return self._create_empty_response(query, start_time, "No relevant documents found")
             
             # Convert results to EnrichedChunk objects
             retrieved_chunks = self._convert_results_to_chunks(retrieval_results)
             
             # Step 2: Multi-stage Reranking
-            step_start = time.time()
             logger.info("Step 2: Executing multi-stage reranking")
             
             query_context = {
@@ -325,19 +309,11 @@ class CompleteLegalRAGPipeline:
                 strategy=search_options.get('reranking_strategy')
             )
             
-            metrics['steps']['reranking'] = {
-                'time': time.time() - step_start,
-                'strategy': search_options.get('reranking_strategy', 'auto'),
-                'chunks_reranked': len(reranking_result.chunks),
-                'explanation': reranking_result.reranking_explanation
-            }
-            
             # Select top chunks for generation
-            top_k_generation = search_options.get('generation_top_k', TOP_K_RERANK)
+            top_k_generation = search_options.get('generation_top_k', settings.TOP_K_RERANK)
             final_chunks = reranking_result.chunks[:top_k_generation]
             
             # Step 3: Context-Aware Generation
-            step_start = time.time()
             logger.info("Step 3: Executing context-aware generation")
             
             generation_result = self.generator.generate_legal_response(
@@ -346,27 +322,6 @@ class CompleteLegalRAGPipeline:
                 max_length=search_options.get('max_generation_length'),
                 temperature=search_options.get('temperature')
             )
-            
-            metrics['steps']['generation'] = {
-                'time': time.time() - step_start,
-                'contexts_used': generation_result.contexts_used,
-                'rhetorical_structure': generation_result.rhetorical_structure,
-                'confidence_score': generation_result.confidence_score,
-                'legal_citations': generation_result.legal_citations
-            }
-            
-            # Step 4: Response Evaluation
-            step_start = time.time()
-            logger.info("Step 4: Evaluating response quality")
-            
-            response_evaluation = self.response_evaluator.evaluate_response(
-                generation_result, query, final_chunks
-            )
-            
-            metrics['steps']['evaluation'] = {
-                'time': time.time() - step_start,
-                'response_quality': response_evaluation
-            }
             
             # Calculate overall metrics
             total_time = time.time() - start_time
@@ -392,27 +347,6 @@ class CompleteLegalRAGPipeline:
                 
                 # Citations and legal references
                 'legal_citations': generation_result.legal_citations,
-                
-                # Quality metrics
-                'quality_metrics': {
-                    'overall_score': response_evaluation['overall_score'],
-                    'response_dimensions': response_evaluation['dimensions'],
-                    'context_coherence': generation_result.rhetorical_structure.get('context_coherence', 0.0)
-                },
-                
-                # Pipeline insights
-                'pipeline_insights': {
-                    'rhetorical_structure': generation_result.rhetorical_structure,
-                    'reranking_explanation': reranking_result.reranking_explanation,
-                    'generation_metadata': generation_result.metadata
-                },
-                
-                # Performance metrics
-                'performance_metrics': metrics,
-                
-                # Suggestions for related queries
-                'related_queries': self.faceted_search.suggest_related_queries(query, final_chunks),
-                
                 'success': True
             }
             
@@ -487,21 +421,17 @@ class CompleteLegalRAGPipeline:
         
         return chunks
     
-    def _create_empty_response(self, query: str, metrics: Dict[str, Any], message: str) -> Dict[str, Any]:
+    def _create_empty_response(self, query: str, start_time: float, message: str) -> Dict[str, Any]:
         """Create response for cases with no results"""
         
         return {
             'query': query,
             'response': message,
             'confidence_score': 0.0,
-            'processing_time': time.time() - metrics['start_time'],
+            'processing_time': time.time() - start_time,
             'contexts_used': 0,
             'supporting_documents': [],
             'legal_citations': [],
-            'quality_metrics': {'overall_score': 0.0},
-            'pipeline_insights': {},
-            'performance_metrics': metrics,
-            'related_queries': [],
             'success': False
         }
     
@@ -517,7 +447,7 @@ class CompleteLegalRAGPipeline:
             'configuration': {
                 'enable_gpu': self.enable_gpu,
                 'embedding_model': getattr(self.embedding_model, 'model_name', 'Unknown'),
-                'vector_dimension': VECTOR_DIMENSION
+                'vector_dimension': settings.VECTOR_DIMENSION
             },
             'system_resources': {
                 'memory_usage_mb': psutil.Process(os.getpid()).memory_info().rss / 1024 / 1024,
@@ -533,42 +463,3 @@ class CompleteLegalRAGPipeline:
             logger.warning(f"Could not get vector store stats: {e}")
         
         return stats
-    
-    def health_check(self) -> Dict[str, Any]:
-        """Perform comprehensive health check"""
-        
-        health_status = {
-            'status': 'healthy',
-            'timestamp': time.time(),
-            'checks': {}
-        }
-        
-        try:
-            # Check pipeline initialization
-            health_status['checks']['pipeline_initialized'] = self.is_initialized
-            health_status['checks']['index_built'] = self.index_built
-            
-            # Check BM25 index
-            health_status['checks']['bm25_index_loaded'] = hasattr(self.bm25_retriever, 'bm25') and self.bm25_retriever.bm25 is not None
-            
-            # Check models
-            health_status['checks']['embedding_model_loaded'] = hasattr(self.embedding_model, 'model')
-            
-            # Check memory usage
-            memory_usage = psutil.Process(os.getpid()).memory_info().rss / 1024 / 1024
-            health_status['checks']['memory_usage_mb'] = memory_usage
-            health_status['checks']['memory_healthy'] = memory_usage < 8000  # Less than 8GB
-            
-            # Overall health
-            critical_checks = [
-                health_status['checks']['pipeline_initialized'],
-                health_status['checks']['embedding_model_loaded']
-            ]
-            
-            health_status['status'] = 'healthy' if all(critical_checks) else 'degraded'
-            
-        except Exception as e:
-            health_status['status'] = 'unhealthy'
-            health_status['error'] = str(e)
-        
-        return health_status

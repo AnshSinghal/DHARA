@@ -6,7 +6,8 @@ import time
 from tqdm import tqdm
 
 from src.data_models import EnrichedChunk, SearchQuery
-from config.settings import *
+# Fixed import - now uses config.settings
+from config.settings import settings
 
 logger = logging.getLogger(__name__)
 
@@ -14,11 +15,11 @@ class EnhancedPineconeStore:
     """Pinecone store with rich metadata support - CHROMADB REMOVED"""
     
     def __init__(self, index_name: str = None):
-        self.index_name = index_name or PINECONE_INDEX_NAME
-        self.dimension = VECTOR_DIMENSION  # FIXED: Use 768, not 818
+        self.index_name = index_name or settings.PINECONE_INDEX_NAME
+        self.dimension = settings.VECTOR_DIMENSION  # FIXED: Use 768, not 818
         
         # Initialize Pinecone with new API
-        self.pc = Pinecone(api_key=PINECONE_API_KEY)
+        self.pc = Pinecone(api_key=settings.PINECONE_API_KEY)
         
         self._setup_index()
     

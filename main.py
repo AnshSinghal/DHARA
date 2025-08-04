@@ -14,8 +14,17 @@ import argparse
 from pathlib import Path
 from typing import Dict, Any, Optional
 
-# Import settings class (as you mentioned you created a settings class)
-from config import settings
+# Fixed import - now properly imports settings
+try:
+    from config import settings
+except ImportError:
+    print("❌ Error: Could not import settings from config module")
+    print("Please ensure you have:")
+    print("1. config/settings.py file")
+    print("2. config/__init__.py file")
+    print("3. Proper directory structure")
+    sys.exit(1)
+
 from src.complete_rag_pipeline import CompleteLegalRAGPipeline
 from src.data_models import QueryRequest, QueryResponse, HealthStatus
 import psutil
@@ -93,27 +102,6 @@ class LegalRAGSystemManager:
             logger.error(f"Full traceback: {traceback.format_exc()}")
             logger.error("=" * 60)
             raise
-    
-    def get_system_stats(self) -> Dict[str, Any]:
-        """Get comprehensive system statistics"""
-        
-        stats = {
-            'system_initialized': self._initialized,
-            'pipeline_ready': self.pipeline is not None and self.pipeline.is_initialized,
-            'memory_usage_mb': psutil.Process().memory_info().rss / 1024 / 1024,
-            'cpu_percent': psutil.cpu_percent(),
-            'available_memory_gb': psutil.virtual_memory().available / 1024 / 1024 / 1024,
-            'timestamp': time.time()
-        }
-        
-        if self.pipeline:
-            try:
-                pipeline_stats = self.pipeline.get_pipeline_statistics()
-                stats.update({'pipeline_stats': pipeline_stats})
-            except Exception as e:
-                logger.warning(f"Could not get pipeline stats: {e}")
-        
-        return stats
 
 # Global system manager
 system_manager = LegalRAGSystemManager()
@@ -158,7 +146,7 @@ async def run_demo_command(args):
         print("🎯 LEGAL RAG INTERACTIVE DEMO")
         print("=" * 60)
         print("Ask legal questions about Indian court judgments!")
-        print("Type 'quit' to exit, 'help' for sample queries, 'stats' for system info")
+        print("Type 'quit' to exit, 'help' for sample queries")
         
         # Sample queries for user guidance
         sample_queries = [
@@ -181,13 +169,6 @@ async def run_demo_command(args):
                     for i, sample in enumerate(sample_queries, 1):
                         print(f"{i}. {sample}")
                     continue
-                elif query.lower() == 'stats':
-                    stats = system_manager.get_system_stats()
-                    print(f"\n📊 System Statistics:")
-                    print(f"Memory Usage: {stats['memory_usage_mb']:.1f} MB")
-                    print(f"CPU Usage: {stats['cpu_percent']:.1f}%")
-                    print(f"Available Memory: {stats['available_memory_gb']:.1f} GB")
-                    continue
                 elif not query:
                     continue
                 
@@ -207,14 +188,6 @@ async def run_demo_command(args):
                 if result.get('success', False):
                     print(f"\n✨ Confidence: {result.get('confidence_score', 0):.3f}")
                     print(f"📚 Contexts Used: {result.get('contexts_used', 0)}")
-                    
-                    # Show legal citations if available
-                    citations = result.get('legal_citations', [])
-                    if citations:
-                        print(f"\n📖 Legal Citations:")
-                        for citation in citations[:3]:
-                            print(f"  • {citation}")
-                
                 else:
                     print(f"❌ Error: {result.get('error', 'Unknown error')}")
                 
@@ -230,85 +203,6 @@ async def run_demo_command(args):
         print(f"❌ Failed to start demo: {e}")
         sys.exit(1)
 
-async def run_api_command(args):
-    """Handle API server command"""
-    logger.info(f"🌐 Starting API server on port {args.port}")
-    
-    config = {
-        'data_dir': args.data_dir,
-        'enable_gpu': args.enable_gpu,
-        'use_pinecone': True
-    }
-    
-    try:
-        # Setup system if not already done
-        await system_manager.setup_complete_system(config)
-        
-        # Import and start API server
-        from src.api_server import create_app
-        import uvicorn
-        
-        app = create_app(system_manager.pipeline)
-        
-        print(f"🚀 Starting Legal RAG API Server")
-        print(f"📍 Server URL: http://localhost:{args.port}")
-        print(f"📖 API Documentation: http://localhost:{args.port}/docs")
-        print(f"🏥 Health Check: http://localhost:{args.port}/health")
-        
-        # Run server
-        uvicorn.run(
-            app,
-            host="0.0.0.0",
-            port=args.port,
-            log_level="info",
-            reload=False
-        )
-        
-    except Exception as e:
-        logger.error(f"Failed to start API server: {e}")
-        print(f"❌ Failed to start API server: {e}")
-        sys.exit(1)
-
-async def run_evaluate_command(args):
-    """Handle evaluation command"""
-    logger.info("📈 Running system evaluation")
-    
-    config = {
-        'data_dir': args.data_dir,
-        'enable_gpu': args.enable_gpu,
-        'use_pinecone': True
-    }
-    
-    try:
-        pipeline = await system_manager.setup_complete_system(config)
-        
-        # Import evaluation module
-        from src.evaluation import LegalRAGEvaluator
-        
-        evaluator = LegalRAGEvaluator(pipeline)
-        
-        print("📊 Running comprehensive evaluation...")
-        evaluation_results = await evaluator.run_comprehensive_evaluation()
-        
-        print("\n" + "=" * 60)
-        print("📈 EVALUATION RESULTS")
-        print("=" * 60)
-        
-        for metric, value in evaluation_results.items():
-            print(f"{metric}: {value}")
-        
-        # Save results
-        import json
-        with open(f"evaluation_results_{int(time.time())}.json", 'w') as f:
-            json.dump(evaluation_results, f, indent=2)
-        
-        print(f"\n💾 Results saved to evaluation_results_{int(time.time())}.json")
-        
-    except Exception as e:
-        logger.error(f"Evaluation failed: {e}")
-        print(f"❌ Evaluation failed: {e}")
-        sys.exit(1)
-
 def create_parser():
     """Create command line argument parser"""
     parser = argparse.ArgumentParser(
@@ -319,7 +213,6 @@ Examples:
   python main.py setup --data-dir merged_output --force-rebuild
   python main.py demo --data-dir merged_output
   python main.py api --port 8000
-  python main.py evaluate --data-dir merged_output
         """
     )
     
@@ -341,22 +234,6 @@ Examples:
     demo_parser.add_argument('--enable-gpu', action='store_true',
                             help='Enable GPU acceleration')
     
-    # API command
-    api_parser = subparsers.add_parser('api', help='Start API server')
-    api_parser.add_argument('--port', type=int, default=8000,
-                           help='Port to run API server on')
-    api_parser.add_argument('--data-dir', default='merged_output',
-                           help='Directory containing merged JSON files')
-    api_parser.add_argument('--enable-gpu', action='store_true',
-                           help='Enable GPU acceleration')
-    
-    # Evaluate command
-    evaluate_parser = subparsers.add_parser('evaluate', help='Run system evaluation')
-    evaluate_parser.add_argument('--data-dir', default='merged_output',
-                                help='Directory containing merged JSON files')
-    evaluate_parser.add_argument('--enable-gpu', action='store_true',
-                                help='Enable GPU acceleration')
-    
     return parser
 
 async def main():
@@ -368,10 +245,6 @@ async def main():
         parser.print_help()
         return
     
-    # Set log level based on environment
-    if os.getenv('DEBUG'):
-        logging.getLogger().setLevel(logging.DEBUG)
-    
     logger.info(f"Starting Legal RAG System - Command: {args.command}")
     start_time = time.time()
     
@@ -381,10 +254,6 @@ async def main():
             await run_setup_command(args)
         elif args.command == 'demo':
             await run_demo_command(args)
-        elif args.command == 'api':
-            await run_api_command(args)
-        elif args.command == 'evaluate':
-            await run_evaluate_command(args)
         else:
             parser.print_help()
             return
@@ -411,12 +280,15 @@ if __name__ == '__main__':
         print("❌ Python 3.8+ required")
         sys.exit(1)
     
-    # Validate settings
+    # Validate settings - FIXED validation
     try:
-        if not hasattr(settings, 'PINECONE_INDEX_NAME'):
-            raise AttributeError("PINECONE_INDEX_NAME not found in settings")
+        # Test if we can access the settings attributes
+        pinecone_index = getattr(settings, 'PINECONE_INDEX_NAME', None)
+        if not pinecone_index:
+            raise AttributeError("PINECONE_INDEX_NAME not found or empty in settings")
         
-        logger.info(f"Using Pinecone index: {settings.PINECONE_INDEX_NAME}")
+        logger.info(f"✅ Using Pinecone index: {pinecone_index}")
+        logger.info(f"✅ Vector dimension: {settings.VECTOR_DIMENSION}")
         
     except Exception as e:
         logger.error(f"Settings validation failed: {e}")
