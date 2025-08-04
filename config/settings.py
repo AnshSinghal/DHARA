@@ -36,6 +36,10 @@ class Settings:
     BM25_INDEX_FILE = "legal_bm25_index.pkl"
     CHUNKS_METADATA_FILE = "chunks_metadata.json"
 
+    DATA_DIR = "data"
+    MERGED_DATA_DIR = f"{DATA_DIR}/merged"
+    PROCESSED_DATA_DIR = f"{DATA_DIR}/processed"
+
     # UPDATED: Correct rhetorical roles mapping based on your specification
     RHETORICAL_ROLES = {
         'PREAMBLE': 'Preamble',
