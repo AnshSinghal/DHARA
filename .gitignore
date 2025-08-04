@@ -14,4 +14,5 @@ inlegalbert-rrl/
 
 .env
 
-data/
+data/processed/chunks_metadata.json
+data/processed/legal_bm25_index.pkl
