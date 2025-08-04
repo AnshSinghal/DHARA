@@ -7,7 +7,7 @@ import time
 from dataclasses import dataclass
 
 from src.data_models import EnrichedChunk, SearchQuery, RerankingResult
-from config.settings import *
+from config.settings import settings
 
 logger = logging.getLogger(__name__)
 
@@ -15,7 +15,7 @@ class LegalAwareCrossEncoder:
     """Cross-encoder with legal domain awareness and metadata integration"""
     
     def __init__(self, model_name: str = None, device: str = None):
-        self.model_name = model_name or CROSS_ENCODER_MODEL
+        self.model_name = model_name or settings.CROSS_ENCODER_MODEL
         self.device = device or ('cuda' if torch.cuda.is_available() else 'cpu')
         
         logger.info(f"Loading legal-aware cross-encoder: {self.model_name}")
