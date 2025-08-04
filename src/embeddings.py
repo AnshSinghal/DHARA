@@ -1,9 +1,10 @@
 import torch
 import numpy as np
-from typing import List, Union, Dict, Any
+from typing import List, Union, Dict, Any, Optional, Protocol
 from sentence_transformers import SentenceTransformer
 from transformers import AutoTokenizer, AutoModel
 import logging
+from abc import ABC, abstractmethod
 
 from src.data_models import EnrichedChunk, LegalMetadata
 from config.settings import settings
@@ -128,8 +129,9 @@ class LegalEmbeddingModel:
         return embeddings.cpu().numpy()
     
     def encode_query(self, query: str, query_context: Dict[str, Any] = None) -> np.ndarray:
-        """Encode query with optional context enrichment"""
+        """Encode query with 818-dimensional vector (768 + 50 metadata features)"""
         
+        # Step 1: Get base text embedding (768 dimensions)
         enriched_query = query
         
         if query_context:
@@ -143,10 +145,44 @@ class LegalEmbeddingModel:
                 entity_context = f"[{','.join(query_context['entity_types'])}]"
                 enriched_query = f"{entity_context} {enriched_query}"
         
+        # Get base text embedding
         if hasattr(self.model, 'encode'):
-            return self.model.encode([enriched_query], normalize_embeddings=True)[0]
+            base_embedding = self.model.encode([enriched_query], normalize_embeddings=True)[0]
         else:
-            return self._encode_with_transformers([enriched_query])[0]
+            base_embedding = self._encode_with_transformers([enriched_query])[0]
+        
+        # Step 2: Create 50-dimensional metadata features vector
+        metadata_features = np.zeros(settings.METADATA_FEATURES, dtype=np.float32)
+        
+        if query_context:
+            # Rhetorical role features (one-hot encoding)
+            role_mapping = {role: i for i, role in enumerate(settings.RHETORICAL_ROLES.keys())}
+            if 'rhetorical_roles' in query_context and query_context['rhetorical_roles']:
+                for role in query_context['rhetorical_roles'][:5]:  # Top 5 roles
+                    if role in role_mapping and role_mapping[role] < 10:
+                        metadata_features[role_mapping[role]] = 1.0
+            
+            # Entity type features
+            entity_mapping = {etype: i+10 for i, etype in enumerate(settings.LEGAL_ENTITY_TYPES.keys())}
+            if 'entity_types' in query_context and query_context['entity_types']:
+                for etype in query_context['entity_types'][:5]:  # Top 5 entity types
+                    if etype in entity_mapping and entity_mapping[etype] < 25:
+                        metadata_features[entity_mapping[etype]] = 1.0
+            
+            # Query intent indicators
+            if 'min_precedent_count' in query_context and query_context['min_precedent_count']:
+                metadata_features[25] = min(query_context['min_precedent_count'] / 10.0, 1.0)
+            
+            if 'min_statute_count' in query_context and query_context['min_statute_count']:
+                metadata_features[26] = min(query_context['min_statute_count'] / 10.0, 1.0)
+        
+        # Step 3: Combine text embedding (768) + metadata features (50) = 818 dimensions
+        full_embedding = np.concatenate([base_embedding, metadata_features])
+        
+        logger.debug(f"Query embedding shape: {full_embedding.shape} (expected: 818)")
+        
+        return full_embedding
+
 
 class MetadataAwareEmbedding:
     """Embedding that combines text embeddings with metadata features"""
@@ -154,6 +190,10 @@ class MetadataAwareEmbedding:
     def __init__(self, text_embedding_model: LegalEmbeddingModel):
         self.text_model = text_embedding_model
         self.metadata_dim = 50  # Dimension for metadata features
+
+    def encode_query(self, query: str, query_context: Dict[str, Any] = None) -> np.ndarray:
+        """Encode query with metadata features to match index dimension"""
+        return self.text_model.encode_query(query, query_context)
     
     def create_metadata_features(self, metadata: LegalMetadata) -> np.ndarray:
         """Create numerical features from metadata"""

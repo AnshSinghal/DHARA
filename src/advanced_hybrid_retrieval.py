@@ -5,7 +5,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import time
 
 from src.embeddings import LegalEmbeddingModel, MetadataAwareEmbedding
-from src.vector_store import EnhancedPineconeStore 
+from src.vector_store import EnhancedPineconeStore
 from src.legal_bm25 import LegalBM25Retriever
 from src.multi_faceted_search import LegalMultiFacetedSearch, AdvancedQueryProcessor
 from src.data_models import SearchQuery, EnrichedChunk
@@ -16,20 +16,19 @@ logger = logging.getLogger(__name__)
 class AdvancedHybridRetriever:
     """Advanced hybrid retrieval combining dense, sparse, and metadata-aware search"""
     
-    def __init__(self, vector_store: EnhancedPineconeStore, 
+    def __init__(self, vector_store: EnhancedPineconeStore,
                  bm25_retriever: LegalBM25Retriever,
-                 embedding_model: LegalEmbeddingModel):
+                 embedding_model: LegalEmbeddingModel,
+                 metadata_embedding: MetadataAwareEmbedding):  # FIXED: Accept both separately
         
         self.vector_store = vector_store
         self.bm25_retriever = bm25_retriever
         self.embedding_model = embedding_model
+        self.metadata_embedding = metadata_embedding  # FIXED: Store metadata embedding separately
         
         # Initialize search components
         self.faceted_search = LegalMultiFacetedSearch(vector_store, embedding_model)
         self.query_processor = AdvancedQueryProcessor()
-        
-        # Metadata-aware embedding for enhanced dense retrieval
-        self.metadata_embedding = MetadataAwareEmbedding(embedding_model)
         
         # Retrieval weights (can be dynamically adjusted)
         self.default_weights = {
@@ -37,39 +36,7 @@ class AdvancedHybridRetriever:
             'sparse': 0.3,
             'metadata': 0.2
         }
-    
-    def adaptive_weight_calculation(self, query: str, 
-                                  search_context: Dict[str, Any] = None) -> Dict[str, float]:
-        """Dynamically calculate retrieval weights based on query and context"""
-        
-        weights = self.default_weights.copy()
-        query_lower = query.lower()
-        
-        # Boost sparse retrieval for exact term queries
-        if any(pattern in query_lower for pattern in ['section ', 'article ', 'case number']):
-            weights['sparse'] += 0.2
-            weights['dense'] -= 0.1
-            weights['metadata'] -= 0.1
-        
-        # Boost dense retrieval for conceptual queries
-        elif any(pattern in query_lower for pattern in ['similar to', 'like', 'concept of']):
-            weights['dense'] += 0.2
-            weights['sparse'] -= 0.1
-            weights['metadata'] -= 0.1
-        
-        # Boost metadata retrieval for filtered queries
-        if search_context and (search_context.get('rhetorical_roles') or 
-                              search_context.get('entity_types')):
-            weights['metadata'] += 0.15
-            weights['dense'] -= 0.075
-            weights['sparse'] -= 0.075
-        
-        # Ensure weights sum to 1.0
-        total_weight = sum(weights.values())
-        weights = {k: v/total_weight for k, v in weights.items()}
-        
-        return weights
-    
+
     def execute_dense_retrieval(self, query: str, search_query: SearchQuery,
                                top_k: int = 20) -> List[Dict[str, Any]]:
         """Execute dense vector retrieval with metadata enrichment"""
@@ -80,8 +47,8 @@ class AdvancedHybridRetriever:
             'entity_types': search_query.entity_types
         }
         
-        # Encode query with context
-        query_vector = self.embedding_model.encode_query(query, query_context)
+        # FIXED: Use metadata_embedding for query encoding to get 818-dimensional vector
+        query_vector = self.metadata_embedding.encode_query(query, query_context)
         
         # Execute vector search with filters
         results = self.vector_store.search_with_filters(query_vector, search_query)
@@ -306,6 +273,84 @@ class AdvancedHybridRetriever:
             doc_data['combined_score'] = doc_data['rrf_score']
         
         return rrf_scores
+
+    def adaptive_weight_calculation(self, query: str,
+                            search_context: Dict[str, Any] = None) -> Dict[str, float]:
+        """Dynamically calculate retrieval weights based on query and context"""
+        weights = self.default_weights.copy()
+        query_lower = query.lower()
+        
+        # Boost sparse retrieval for exact term queries
+        if any(pattern in query_lower for pattern in ['section ', 'article ', 'case number']):
+            weights['sparse'] += 0.2
+            weights['dense'] -= 0.1
+            weights['metadata'] -= 0.1
+        
+        # Boost dense retrieval for conceptual queries
+        elif any(pattern in query_lower for pattern in ['similar to', 'like', 'concept of']):
+            weights['dense'] += 0.2
+            weights['sparse'] -= 0.1
+            weights['metadata'] -= 0.1
+        
+        # Boost metadata retrieval for filtered queries
+        if search_context and (search_context.get('rhetorical_roles') or
+                            search_context.get('entity_types')):
+            weights['metadata'] += 0.15
+            weights['dense'] -= 0.075
+            weights['sparse'] -= 0.075
+        
+        # Ensure weights sum to 1.0
+        total_weight = sum(weights.values())
+        weights = {k: v/total_weight for k, v in weights.items()}
+        
+        return weights
+    
+    def execute_sparse_retrieval(self, query: str, search_query: SearchQuery,
+                                top_k: int = 20) -> List[Dict[str, Any]]:
+        """Execute BM25 sparse retrieval with legal optimization"""
+        
+        # Create query context for BM25
+        query_context = {
+            'rhetorical_roles': search_query.rhetorical_roles,
+            'entity_types': search_query.entity_types
+        }
+        
+        # Execute BM25 search
+        results = self.bm25_retriever.search(query, top_k, query_context)
+        
+        # Add search type identifier
+        for result in results:
+            result['search_type'] = 'sparse'
+            result['sparse_score'] = result['score']
+        
+        return results
+    
+    def execute_metadata_retrieval(self, query: str, search_query: SearchQuery,
+                                  top_k: int = 20) -> List[Dict[str, Any]]:
+        """Execute metadata-aware retrieval using faceted search"""
+        
+        # Use faceted search for metadata-aware retrieval
+        faceted_result = self.faceted_search.execute_faceted_search(search_query)
+        
+        results = []
+        for chunk in faceted_result.chunks[:top_k]:
+            result = {
+                'id': chunk.id,
+                'score': 1.0,  # Placeholder score
+                'text': chunk.text,
+                'search_type': 'metadata',
+                'metadata_score': 1.0,
+                'metadata': {
+                    'document_id': chunk.metadata.document_id,
+                    'primary_role': chunk.metadata.primary_role,
+                    'entity_types': chunk.metadata.entity_types,
+                    'precedent_count': chunk.metadata.precedent_count,
+                    'statute_count': chunk.metadata.statute_count
+                }
+            }
+            results.append(result)
+        
+        return results
     
     def hybrid_search(self, query: str, search_query: SearchQuery,
                      top_k: int = 10, fusion_method: str = "weighted_sum") -> List[Dict[str, Any]]:

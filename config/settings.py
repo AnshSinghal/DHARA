@@ -11,11 +11,11 @@ class Settings:
     # Model configurations
     LEGAL_EMBEDDING_MODEL = "law-ai/InLegalBERT"
     CROSS_ENCODER_MODEL = "cross-encoder/ms-marco-MiniLM-L-6-v2"
-    GENERATION_MODEL = "microsoft/DialoGPT-medium"
+    GENERATION_MODEL = "mistralai/Mistral-7B-Instruct-v0.1"
 
     # Vector dimensions - FIXED to match your Pinecone index
     VECTOR_DIMENSION = 768  # Base embedding dimension (not 818)
-    METADATA_FEATURES = 50   # Remove metadata expansion to fix dimension mismatch
+    METADATA_FEATURES = 50   
 
     # Pinecone configuration - USE YOUR PROVIDED INDEX
     PINECONE_API_KEY = os.getenv("PINECONE_API_KEY", "your-api-key-here")

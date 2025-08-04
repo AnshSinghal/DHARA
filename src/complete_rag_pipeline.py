@@ -157,17 +157,22 @@ class CompleteLegalRAGPipeline:
         
         logger.info(f"🏁 Index check complete - Initialized: {self.is_initialized}, Built: {self.index_built}")
     
+    # In the hybrid_retriever property or wherever query encoding happens
     @property
     def hybrid_retriever(self):
-        """Lazy load hybrid retriever with logging"""
+        """Lazy load hybrid retriever with proper embedding models"""
         if self._hybrid_retriever is None:
-            logger.debug("Loading AdvancedHybridRetriever...")
             from src.advanced_hybrid_retrieval import AdvancedHybridRetriever
+            # FIXED: Pass both embedding_model and metadata_embedding separately
             self._hybrid_retriever = AdvancedHybridRetriever(
-                self.vector_store, self.bm25_retriever, self.embedding_model
+                self.vector_store, 
+                self.bm25_retriever, 
+                self.embedding_model,        # LegalEmbeddingModel instance
+                self.metadata_embedding      # MetadataAwareEmbedding instance
             )
-            logger.debug("✅ AdvancedHybridRetriever loaded")
+            logger.debug("✅ AdvancedHybridRetriever loaded with separate embedding models")
         return self._hybrid_retriever
+
     
     @property
     def reranker(self):
