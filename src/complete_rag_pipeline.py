@@ -6,7 +6,6 @@ import os
 import traceback
 from typing import List, Dict, Any, Optional
 from pathlib import Path
-from concurrent.futures import ThreadPoolExecutor, as_completed
 import psutil
 
 from src.data_models import (
@@ -17,7 +16,6 @@ from src.rhetorical_chunking import DocumentProcessor
 from src.embeddings import LegalEmbeddingModel, MetadataAwareEmbedding  
 from src.vector_store import EnhancedPineconeStore
 from src.legal_bm25 import LegalBM25Retriever
-from src.multi_faceted_search import LegalMultiFacetedSearch
 
 # Fixed import - now uses config.settings
 from config.settings import settings
@@ -25,13 +23,18 @@ from config.settings import settings
 logger = logging.getLogger(__name__)
 
 class CompleteLegalRAGPipeline:
-    """Complete production-ready legal RAG pipeline with smart index loading"""
+    """Complete production-ready legal RAG pipeline with comprehensive logging"""
     
     def __init__(self, config: Dict[str, Any] = None):
-        """Initialize the complete RAG pipeline"""
+        """Initialize the complete RAG pipeline with detailed logging"""
+        
+        logger.info("🏗️ Initializing CompleteLegalRAGPipeline")
         
         self.config = config or {}
         self.enable_gpu = self.config.get('enable_gpu', False)
+        
+        logger.info(f"Configuration: {self.config}")
+        logger.info(f"GPU enabled: {self.enable_gpu}")
         
         # Initialize core components
         self._initialize_components()
@@ -40,34 +43,51 @@ class CompleteLegalRAGPipeline:
         self.is_initialized = False
         self.index_built = False
         
+        # Performance metrics
+        self.metrics = {
+            'queries_processed': 0,
+            'total_processing_time': 0.0,
+            'average_processing_time': 0.0,
+            'last_query_time': None,
+            'errors_count': 0
+        }
+        
         # Check for existing indices on startup
         self._check_existing_indices()
         
-        logger.info("Complete Legal RAG Pipeline initialized")
+        logger.info("✅ CompleteLegalRAGPipeline initialized successfully")
     
     def _initialize_components(self):
-        """Initialize all pipeline components"""
+        """Initialize all pipeline components with detailed logging"""
+        
+        logger.info("🔧 Initializing pipeline components...")
         
         try:
             # Document processing
+            logger.debug("Initializing DocumentProcessor...")
             self.document_processor = DocumentProcessor()
+            logger.debug("✅ DocumentProcessor initialized")
             
             # Embeddings - FIXED dimension
+            logger.debug(f"Initializing LegalEmbeddingModel (device: {'cuda' if self.enable_gpu else 'cpu'})...")
             self.embedding_model = LegalEmbeddingModel(
                 device='cuda' if self.enable_gpu else 'cpu'
             )
+            logger.debug("✅ LegalEmbeddingModel initialized")
+            
+            logger.debug("Initializing MetadataAwareEmbedding...")
             self.metadata_embedding = MetadataAwareEmbedding(self.embedding_model)
+            logger.debug("✅ MetadataAwareEmbedding initialized")
             
             # Vector store - ONLY PINECONE
+            logger.debug("Initializing EnhancedPineconeStore...")
             self.vector_store = EnhancedPineconeStore()
+            logger.debug("✅ EnhancedPineconeStore initialized")
             
             # Sparse retrieval
+            logger.debug("Initializing LegalBM25Retriever...")
             self.bm25_retriever = LegalBM25Retriever()
-            
-            # Multi-faceted search
-            self.faceted_search = LegalMultiFacetedSearch(
-                self.vector_store, self.embedding_model
-            )
+            logger.debug("✅ LegalBM25Retriever initialized")
             
             # Lazy-loaded components to avoid circular imports
             self._hybrid_retriever = None
@@ -75,157 +95,237 @@ class CompleteLegalRAGPipeline:
             self._generator = None
             self._response_evaluator = None
             
-            logger.info("Core pipeline components initialized successfully")
+            logger.info("✅ All core pipeline components initialized successfully")
             
         except Exception as e:
-            logger.error(f"Error initializing pipeline components: {e}")
+            logger.error(f"❌ Error initializing pipeline components: {e}")
+            logger.error(traceback.format_exc())
             raise
     
     def _check_existing_indices(self):
-        """Check for existing BM25 index and metadata files"""
+        """Check for existing BM25 index and metadata files with logging"""
+        
+        logger.info("🔍 Checking for existing indices...")
         
         bm25_path = Path(settings.BM25_INDEX_FILE)
         metadata_path = Path(settings.CHUNKS_METADATA_FILE)
         
+        logger.debug(f"BM25 index path: {bm25_path}")
+        logger.debug(f"Metadata path: {metadata_path}")
+        
+        # Check BM25 index
         if bm25_path.exists():
-            logger.info(f"Found existing BM25 index: {bm25_path}")
+            logger.info(f"📁 Found existing BM25 index: {bm25_path}")
             try:
                 self.bm25_retriever.load_index(str(bm25_path))
                 logger.info("✅ BM25 index loaded successfully")
                 self.index_built = True
             except Exception as e:
-                logger.warning(f"Failed to load BM25 index: {e}")
+                logger.warning(f"⚠️ Failed to load BM25 index: {e}")
+        else:
+            logger.info(f"📁 BM25 index not found at: {bm25_path}")
         
+        # Check metadata
         if metadata_path.exists():
-            logger.info(f"Found existing chunks metadata: {metadata_path}")
-            self.is_initialized = True
+            logger.info(f"📄 Found existing chunks metadata: {metadata_path}")
+            try:
+                with open(metadata_path, 'r') as f:
+                    metadata = json.load(f)
+                logger.info(f"✅ Chunks metadata loaded ({len(metadata)} chunks)")
+                self.is_initialized = True
+            except Exception as e:
+                logger.warning(f"⚠️ Could not load chunks metadata: {e}")
+        else:
+            logger.info(f"📄 Chunks metadata not found at: {metadata_path}")
         
         # Check Pinecone index
         try:
+            logger.debug("Checking Pinecone index status...")
             stats = self.vector_store.get_index_stats()
-            if stats.get('total_vector_count', 0) > 0:
-                logger.info(f"✅ Pinecone index has {stats['total_vector_count']} vectors")
+            vector_count = stats.get('total_vector_count', 0)
+            
+            if vector_count > 0:
+                logger.info(f"✅ Pinecone index active with {vector_count} vectors")
+                logger.info(f"   Dimension: {stats.get('dimension', 'Unknown')}")
+                logger.info(f"   Index fullness: {stats.get('index_fullness', 'Unknown')}")
                 self.index_built = True
                 self.is_initialized = True
+            else:
+                logger.info("📊 Pinecone index is empty")
         except Exception as e:
-            logger.warning(f"Could not check Pinecone index: {e}")
+            logger.warning(f"⚠️ Could not check Pinecone index: {e}")
+        
+        logger.info(f"🏁 Index check complete - Initialized: {self.is_initialized}, Built: {self.index_built}")
     
     @property
     def hybrid_retriever(self):
-        """Lazy load hybrid retriever to avoid circular imports"""
+        """Lazy load hybrid retriever with logging"""
         if self._hybrid_retriever is None:
+            logger.debug("Loading AdvancedHybridRetriever...")
             from src.advanced_hybrid_retrieval import AdvancedHybridRetriever
             self._hybrid_retriever = AdvancedHybridRetriever(
                 self.vector_store, self.bm25_retriever, self.embedding_model
             )
+            logger.debug("✅ AdvancedHybridRetriever loaded")
         return self._hybrid_retriever
     
     @property
     def reranker(self):
-        """Lazy load reranker to avoid circular imports"""
+        """Lazy load reranker with logging"""
         if self._reranker is None:
+            logger.debug("Loading MultiStageReranker...")
             from src.legal_reranking import MultiStageReranker
             self._reranker = MultiStageReranker()
+            logger.debug("✅ MultiStageReranker loaded")
         return self._reranker
     
     @property 
     def generator(self):
-        """Lazy load generator to avoid circular imports"""
+        """Lazy load generator with logging"""
         if self._generator is None:
+            logger.debug("Loading RhetoricallyAwareGenerator...")
             from src.context_aware_generation import RhetoricallyAwareGenerator
             self._generator = RhetoricallyAwareGenerator(
                 device='cuda' if self.enable_gpu else 'cpu'
             )
+            logger.debug("✅ RhetoricallyAwareGenerator loaded")
         return self._generator
     
     async def build_index(self, data_directory: str, 
                          force_rebuild: bool = False) -> bool:
-        """Build the complete index from merged JSON files"""
+        """Build the complete index with comprehensive logging"""
+        
+        logger.info("🏗️ STARTING INDEX BUILD PROCESS")
+        logger.info("=" * 50)
+        logger.info(f"Data directory: {data_directory}")
+        logger.info(f"Force rebuild: {force_rebuild}")
         
         if self.index_built and not force_rebuild:
-            logger.info("Index already built, skipping...")
+            logger.info("✅ Index already built and force_rebuild=False, skipping...")
             return True
         
         start_time = time.time()
         
         try:
-            logger.info("Starting index building process...")
-            
-            # Step 1: Process documents into chunks
-            logger.info("Step 1: Processing documents into rhetorical chunks")
-            chunks = self.document_processor.process_all_documents(data_directory)
-            
-            if not chunks:
-                logger.error("No chunks created from documents")
+            # Validate data directory
+            if not os.path.exists(data_directory):
+                logger.error(f"❌ Data directory does not exist: {data_directory}")
                 return False
             
-            logger.info(f"Created {len(chunks)} rhetorical chunks")
+            json_files = [f for f in os.listdir(data_directory) if f.endswith('.json')]
+            logger.info(f"📁 Found {len(json_files)} JSON files in data directory")
+            
+            if len(json_files) == 0:
+                logger.error("❌ No JSON files found in data directory")
+                return False
+            
+            # Step 1: Process documents into chunks
+            logger.info("📝 Step 1: Processing documents into rhetorical chunks")
+            step_start = time.time()
+            
+            chunks = self.document_processor.process_all_documents(data_directory)
+            
+            step_time = time.time() - step_start
+            logger.info(f"✅ Document processing completed in {step_time:.2f}s")
+            
+            if not chunks:
+                logger.error("❌ No chunks created from documents")
+                return False
+            
+            logger.info(f"📊 Created {len(chunks)} rhetorical chunks")
+            logger.info(f"   Average chunk size: {sum(len(c.text) for c in chunks) / len(chunks):.0f} characters")
+            
+            # Log chunk distribution by rhetorical role
+            role_distribution = {}
+            for chunk in chunks:
+                role = chunk.metadata.primary_role
+                role_distribution[role] = role_distribution.get(role, 0) + 1
+            
+            logger.info("📈 Chunk distribution by rhetorical role:")
+            for role, count in sorted(role_distribution.items(), key=lambda x: x, reverse=True):
+                percentage = (count / len(chunks)) * 100
+                logger.info(f"   {role}: {count} ({percentage:.1f}%)")
             
             # Step 2: Generate embeddings
-            logger.info("Step 2: Generating embeddings with metadata enrichment")
+            logger.info("🔢 Step 2: Generating embeddings with metadata enrichment")
+            step_start = time.time()
+            
             embeddings = self.metadata_embedding.encode_chunks_with_metadata(chunks)
             
-            # FIXED: Safe embedding dimension check
-            def get_embedding_dimension(embeddings):
-                """Safely get embedding dimension from various formats"""
-                if embeddings is None:
-                    return 'N/A'
-                
-                # Handle NumPy arrays
-                if hasattr(embeddings, 'shape'):
-                    if embeddings.size == 0:
-                        return 'N/A'
-                    elif len(embeddings.shape) == 1:
-                        return embeddings.shape  # 1D array
-                    elif len(embeddings.shape) == 2:
-                        return embeddings.shape  # 2D array (N, D)
-                    else:
-                        return f"Shape: {embeddings.shape}"
-                
-                # Handle lists
-                elif isinstance(embeddings, (list, tuple)):
-                    if len(embeddings) == 0:
-                        return 'N/A'
-                    elif hasattr(embeddings[0], '__len__'):
-                        return len(embeddings[0])
-                    else:
-                        return 'Unknown'
-                else:
-                    return 'Unknown'
+            step_time = time.time() - step_start
+            logger.info(f"✅ Embedding generation completed in {step_time:.2f}s")
             
-            embedding_dim = get_embedding_dimension(embeddings)
-            logger.info(f"Embedding dimension: {embedding_dim}")
+            # Log embedding statistics
+            def get_embedding_stats(embeddings):
+                if embeddings is None:
+                    return "None"
+                if hasattr(embeddings, 'shape'):
+                    if len(embeddings.shape) == 2:
+                        return f"Shape: {embeddings.shape}, Dtype: {embeddings.dtype}"
+                elif isinstance(embeddings, (list, tuple)) and len(embeddings) > 0:
+                    return f"List of {len(embeddings)} embeddings, dimension: {len(embeddings[0]) if hasattr(embeddings[0], '__len__') else 'Unknown'}"
+                return f"Type: {type(embeddings)}"
+            
+            embedding_stats = get_embedding_stats(embeddings)
+            logger.info(f"📊 Embedding statistics: {embedding_stats}")
             
             # Validate embeddings
             if embeddings is None or (hasattr(embeddings, 'size') and embeddings.size == 0):
-                logger.error("No embeddings generated")
+                logger.error("❌ No embeddings generated")
                 return False
             
             # Step 3: Index in vector store
-            logger.info("Step 3: Indexing in vector store")
+            logger.info("🗃️ Step 3: Indexing in vector store")
+            step_start = time.time()
+            
             vector_success = self.vector_store.upsert_enriched_chunks(chunks, embeddings)
             
+            step_time = time.time() - step_start
+            logger.info(f"✅ Vector store indexing completed in {step_time:.2f}s")
+            
             if not vector_success:
-                logger.error("Failed to index chunks in vector store")
+                logger.error("❌ Failed to index chunks in vector store")
                 return False
             
             # Step 4: Build BM25 index
-            logger.info("Step 4: Building BM25 sparse index")
+            logger.info("🔍 Step 4: Building BM25 sparse index")
+            step_start = time.time()
+            
             self.bm25_retriever.build_index(chunks)
             
+            step_time = time.time() - step_start
+            logger.info(f"✅ BM25 index building completed in {step_time:.2f}s")
+            
             # Step 5: Save indices
-            logger.info("Step 5: Saving indices to disk")
+            logger.info("💾 Step 5: Saving indices to disk")
+            step_start = time.time()
+            
             os.makedirs(settings.PROCESSED_DATA_DIR, exist_ok=True)
+            
+            # Save BM25 index
             bm25_index_path = f"{settings.PROCESSED_DATA_DIR}/{settings.BM25_INDEX_FILE}"
             self.bm25_retriever.save_index(bm25_index_path)
+            logger.info(f"💾 BM25 index saved to: {bm25_index_path}")
             
-            # Save chunk metadata for evaluation
+            # Save chunk metadata
             chunks_metadata_path = f"{settings.PROCESSED_DATA_DIR}/{settings.CHUNKS_METADATA_FILE}"
             self._save_chunks_metadata(chunks, chunks_metadata_path)
+            logger.info(f"💾 Chunks metadata saved to: {chunks_metadata_path}")
             
-            indexing_time = time.time() - start_time
+            step_time = time.time() - step_start
+            logger.info(f"✅ Index saving completed in {step_time:.2f}s")
             
-            logger.info(f"Index building completed successfully in {indexing_time:.2f}s")
+            # Final statistics
+            total_time = time.time() - start_time
+            
+            logger.info("🎉 INDEX BUILD COMPLETED SUCCESSFULLY")
+            logger.info("=" * 50)
+            logger.info(f"⏱️ Total time: {total_time:.2f}s")
+            logger.info(f"📊 Documents processed: {len(json_files)}")
+            logger.info(f"📊 Chunks created: {len(chunks)}")
+            logger.info(f"📊 Embeddings generated: {len(embeddings) if hasattr(embeddings, '__len__') else 'N/A'}")
+            logger.info(f"📊 Processing rate: {len(chunks) / total_time:.1f} chunks/second")
+            logger.info("=" * 50)
             
             self.index_built = True
             self.is_initialized = True
@@ -233,53 +333,85 @@ class CompleteLegalRAGPipeline:
             return True
             
         except Exception as e:
-            logger.error(f"Error building index: {e}")
-            logger.error(traceback.format_exc())
+            total_time = time.time() - start_time
+            logger.error("❌ INDEX BUILD FAILED")
+            logger.error("=" * 50)
+            logger.error(f"⏱️ Failed after: {total_time:.2f}s")
+            logger.error(f"❌ Error: {str(e)}")
+            logger.error(f"❌ Error type: {type(e).__name__}")
+            logger.error(f"❌ Full traceback:\n{traceback.format_exc()}")
+            logger.error("=" * 50)
             return False
     
     def _save_chunks_metadata(self, chunks: List[EnrichedChunk], file_path: str):
-        """Save chunks metadata for evaluation and monitoring"""
+        """Save chunks metadata with detailed logging"""
         
-        chunks_data = []
-        for chunk in chunks:
-            chunk_data = {
-                'id': chunk.id,
-                'document_id': chunk.metadata.document_id,
-                'rhetorical_roles': chunk.metadata.rhetorical_roles,
-                'entity_types': chunk.metadata.entity_types,
-                'precedent_count': chunk.metadata.precedent_count,
-                'statute_count': chunk.metadata.statute_count,
-                'legal_concepts': chunk.legal_concepts,
-                'keywords': chunk.keywords,
-                'text_length': len(chunk.text)
-            }
-            chunks_data.append(chunk_data)
-        
-        with open(file_path, 'w', encoding='utf-8') as f:
-            json.dump(chunks_data, f, ensure_ascii=False, indent=2)
-        
-        logger.info(f"Saved chunks metadata to {file_path}")
-    
-    async def process_query(self, query: str, search_options: Dict[str, Any] = None) -> Dict[str, Any]:
-        """Process a complete query through the entire RAG pipeline"""
-        
-        if not self.is_initialized:
-            return {
-                'query': query,
-                'response': 'Pipeline not initialized. Please build index first.',
-                'success': False,
-                'error': 'Pipeline not initialized'
-            }
-        
-        start_time = time.time()
+        logger.debug(f"Saving chunks metadata to: {file_path}")
         
         try:
+            chunks_data = []
+            for chunk in chunks:
+                chunk_data = {
+                    'id': chunk.id,
+                    'document_id': chunk.metadata.document_id,
+                    'rhetorical_roles': chunk.metadata.rhetorical_roles,
+                    'primary_role': chunk.metadata.primary_role,
+                    'entity_types': chunk.metadata.entity_types,
+                    'entity_count': chunk.metadata.entity_count,
+                    'precedent_count': chunk.metadata.precedent_count,
+                    'statute_count': chunk.metadata.statute_count,
+                    'provision_count': chunk.metadata.provision_count,
+                    'legal_concepts': chunk.legal_concepts,
+                    'keywords': chunk.keywords,
+                    'text_length': len(chunk.text),
+                    'source_file': chunk.metadata.source_file
+                }
+                chunks_data.append(chunk_data)
+            
+            with open(file_path, 'w', encoding='utf-8') as f:
+                json.dump(chunks_data, f, ensure_ascii=False, indent=2)
+            
+            file_size = os.path.getsize(file_path) / (1024 * 1024)  # MB
+            logger.info(f"✅ Chunks metadata saved ({file_size:.1f} MB)")
+            
+        except Exception as e:
+            logger.error(f"❌ Error saving chunks metadata: {e}")
+            raise
+    
+    async def process_query(self, query: str, search_options: Dict[str, Any] = None) -> Dict[str, Any]:
+        """Process a query with comprehensive logging and metrics"""
+        
+        query_start_time = time.time()
+        query_id = self.metrics['queries_processed'] + 1
+        
+        logger.info(f"🔍 PROCESSING QUERY #{query_id}")
+        logger.info(f"Query: {query[:100]}{'...' if len(query) > 100 else ''}")
+        logger.info(f"Options: {search_options}")
+        
+        if not self.is_initialized:
+            error_msg = 'Pipeline not initialized. Please build index first.'
+            logger.error(f"❌ {error_msg}")
+            return {
+                'query': query,
+                'response': error_msg,
+                'success': False,
+                'error': error_msg,
+                'processing_time': time.time() - query_start_time
+            }
+        
+        try:
+            # Update metrics
+            self.metrics['queries_processed'] += 1
+            
             # Parse search options
             search_options = search_options or {}
             search_query = self._create_search_query(query, search_options)
             
+            logger.debug(f"Search query object: {search_query}")
+            
             # Step 1: Hybrid Retrieval
-            logger.info("Step 1: Executing hybrid retrieval")
+            logger.info("📚 Step 1: Executing hybrid retrieval")
+            step1_start = time.time()
             
             retrieval_results = self.hybrid_retriever.hybrid_search(
                 query=query,
@@ -288,14 +420,19 @@ class CompleteLegalRAGPipeline:
                 fusion_method=search_options.get('fusion_method', 'weighted_sum')
             )
             
+            step1_time = time.time() - step1_start
+            logger.info(f"✅ Retrieval completed in {step1_time:.2f}s ({len(retrieval_results)} results)")
+            
             if not retrieval_results:
-                return self._create_empty_response(query, start_time, "No relevant documents found")
+                return self._create_empty_response(query, query_start_time, "No relevant documents found")
             
             # Convert results to EnrichedChunk objects
             retrieved_chunks = self._convert_results_to_chunks(retrieval_results)
+            logger.debug(f"Converted to {len(retrieved_chunks)} enriched chunks")
             
             # Step 2: Multi-stage Reranking
-            logger.info("Step 2: Executing multi-stage reranking")
+            logger.info("🔄 Step 2: Executing multi-stage reranking")
+            step2_start = time.time()
             
             query_context = {
                 'rhetorical_roles': search_query.rhetorical_roles,
@@ -309,12 +446,19 @@ class CompleteLegalRAGPipeline:
                 strategy=search_options.get('reranking_strategy')
             )
             
+            step2_time = time.time() - step2_start
+            logger.info(f"✅ Reranking completed in {step2_time:.2f}s")
+            logger.debug(f"Reranking explanation: {reranking_result.reranking_explanation}")
+            
             # Select top chunks for generation
             top_k_generation = search_options.get('generation_top_k', settings.TOP_K_RERANK)
             final_chunks = reranking_result.chunks[:top_k_generation]
             
+            logger.info(f"📝 Using top {len(final_chunks)} chunks for generation")
+            
             # Step 3: Context-Aware Generation
-            logger.info("Step 3: Executing context-aware generation")
+            logger.info("✍️ Step 3: Executing context-aware generation")
+            step3_start = time.time()
             
             generation_result = self.generator.generate_legal_response(
                 query=query,
@@ -323,8 +467,14 @@ class CompleteLegalRAGPipeline:
                 temperature=search_options.get('temperature')
             )
             
-            # Calculate overall metrics
-            total_time = time.time() - start_time
+            step3_time = time.time() - step3_start
+            logger.info(f"✅ Generation completed in {step3_time:.2f}s")
+            
+            # Calculate metrics
+            total_time = time.time() - query_start_time
+            self.metrics['total_processing_time'] += total_time
+            self.metrics['average_processing_time'] = self.metrics['total_processing_time'] / self.metrics['queries_processed']
+            self.metrics['last_query_time'] = total_time
             
             # Create comprehensive response
             response = {
@@ -347,17 +497,34 @@ class CompleteLegalRAGPipeline:
                 
                 # Citations and legal references
                 'legal_citations': generation_result.legal_citations,
+                
+                # Performance breakdown
+                'performance_breakdown': {
+                    'retrieval_time': step1_time,
+                    'reranking_time': step2_time,
+                    'generation_time': step3_time,
+                    'total_time': total_time
+                },
+                
                 'success': True
             }
             
-            logger.info(f"Query processed successfully in {total_time:.2f}s")
+            logger.info(f"✅ QUERY #{query_id} PROCESSED SUCCESSFULLY")
+            logger.info(f"⏱️ Total time: {total_time:.2f}s")
+            logger.info(f"📊 Performance: Retrieval({step1_time:.2f}s) + Reranking({step2_time:.2f}s) + Generation({step3_time:.2f}s)")
+            logger.info(f"✨ Confidence: {generation_result.confidence_score:.3f}")
             
             return response
             
         except Exception as e:
-            error_time = time.time() - start_time
-            logger.error(f"Error processing query: {e}")
-            logger.error(traceback.format_exc())
+            error_time = time.time() - query_start_time
+            self.metrics['errors_count'] += 1
+            
+            logger.error(f"❌ QUERY #{query_id} PROCESSING FAILED")
+            logger.error(f"⏱️ Failed after: {error_time:.2f}s")
+            logger.error(f"❌ Error: {str(e)}")
+            logger.error(f"❌ Error type: {type(e).__name__}")
+            logger.error(f"❌ Full traceback:\n{traceback.format_exc()}")
             
             return {
                 'query': query,
@@ -368,9 +535,9 @@ class CompleteLegalRAGPipeline:
             }
     
     def _create_search_query(self, query: str, options: Dict[str, Any]) -> SearchQuery:
-        """Create SearchQuery object from query and options"""
+        """Create SearchQuery object with logging"""
         
-        return SearchQuery(
+        search_query = SearchQuery(
             query=query,
             rhetorical_roles=options.get('rhetorical_roles'),
             entity_types=options.get('entity_types'),
@@ -383,46 +550,58 @@ class CompleteLegalRAGPipeline:
             search_method=options.get('search_method', 'hybrid'),
             enable_reranking=options.get('enable_reranking', True)
         )
+        
+        logger.debug(f"Created search query: {search_query}")
+        return search_query
     
     def _convert_results_to_chunks(self, results: List[Dict[str, Any]]) -> List[EnrichedChunk]:
-        """Convert search results to EnrichedChunk objects"""
+        """Convert search results to EnrichedChunk objects with logging"""
+        
+        logger.debug(f"Converting {len(results)} results to enriched chunks")
         
         chunks = []
-        for result in results:
-            metadata = LegalMetadata(
-                document_id=result.get('metadata', {}).get('document_id', ''),
-                chunk_id=result['id'],
-                chunk_index=result.get('metadata', {}).get('chunk_index', 0),
-                rhetorical_roles=result.get('metadata', {}).get('rhetorical_roles', []),
-                primary_role=result.get('metadata', {}).get('primary_role', ''),
-                entities=[],
-                entity_types=result.get('metadata', {}).get('entity_types', []),
-                entity_count=result.get('metadata', {}).get('entity_count', 0),
-                precedent_count=result.get('metadata', {}).get('precedent_count', 0),
-                statute_count=result.get('metadata', {}).get('statute_count', 0),
-                provision_count=result.get('metadata', {}).get('provision_count', 0),
-                source_file=result.get('metadata', {}).get('source_file', ''),
-                original_start=0,
-                original_end=0,
-                # FIXED: Set retrieval score properly
-                retrieval_score=result.get('score', 0.0)
-            )
-            
-            chunk = EnrichedChunk(
-                id=result['id'],
-                text=result['text'],
-                cleaned_text=result['text'],
-                metadata=metadata,
-                keywords=result.get('metadata', {}).get('keywords', []),
-                legal_concepts=result.get('metadata', {}).get('legal_concepts', [])
-            )
-            
-            chunks.append(chunk)
+        for i, result in enumerate(results):
+            try:
+                metadata = LegalMetadata(
+                    document_id=result.get('metadata', {}).get('document_id', ''),
+                    chunk_id=result['id'],
+                    chunk_index=result.get('metadata', {}).get('chunk_index', 0),
+                    rhetorical_roles=result.get('metadata', {}).get('rhetorical_roles', []),
+                    primary_role=result.get('metadata', {}).get('primary_role', ''),
+                    entities=[],
+                    entity_types=result.get('metadata', {}).get('entity_types', []),
+                    entity_count=result.get('metadata', {}).get('entity_count', 0),
+                    precedent_count=result.get('metadata', {}).get('precedent_count', 0),
+                    statute_count=result.get('metadata', {}).get('statute_count', 0),
+                    provision_count=result.get('metadata', {}).get('provision_count', 0),
+                    source_file=result.get('metadata', {}).get('source_file', ''),
+                    original_start=0,
+                    original_end=0,
+                    retrieval_score=result.get('score', 0.0)
+                )
+                
+                chunk = EnrichedChunk(
+                    id=result['id'],
+                    text=result['text'],
+                    cleaned_text=result['text'],
+                    metadata=metadata,
+                    keywords=result.get('metadata', {}).get('keywords', []),
+                    legal_concepts=result.get('metadata', {}).get('legal_concepts', [])
+                )
+                
+                chunks.append(chunk)
+                
+            except Exception as e:
+                logger.warning(f"⚠️ Error converting result {i} to chunk: {e}")
+                continue
         
+        logger.debug(f"Successfully converted {len(chunks)} chunks")
         return chunks
     
     def _create_empty_response(self, query: str, start_time: float, message: str) -> Dict[str, Any]:
         """Create response for cases with no results"""
+        
+        logger.warning(f"Creating empty response: {message}")
         
         return {
             'query': query,
@@ -436,30 +615,42 @@ class CompleteLegalRAGPipeline:
         }
     
     def get_pipeline_statistics(self) -> Dict[str, Any]:
-        """Get comprehensive pipeline statistics"""
+        """Get comprehensive pipeline statistics with logging"""
         
-        stats = {
-            'pipeline_status': {
-                'initialized': self.is_initialized,
-                'index_built': self.index_built,
-                'components_loaded': True
-            },
-            'configuration': {
-                'enable_gpu': self.enable_gpu,
-                'embedding_model': getattr(self.embedding_model, 'model_name', 'Unknown'),
-                'vector_dimension': settings.VECTOR_DIMENSION
-            },
-            'system_resources': {
-                'memory_usage_mb': psutil.Process(os.getpid()).memory_info().rss / 1024 / 1024,
-                'cpu_count': psutil.cpu_count(),
-                'available_memory_gb': psutil.virtual_memory().available / 1024 / 1024 / 1024
-            }
-        }
+        logger.debug("Gathering pipeline statistics...")
         
-        # Add vector store stats
         try:
-            stats['vector_store'] = self.vector_store.get_index_stats()
+            stats = {
+                'pipeline_status': {
+                    'initialized': self.is_initialized,
+                    'index_built': self.index_built,
+                    'components_loaded': True
+                },
+                'configuration': {
+                    'enable_gpu': self.enable_gpu,
+                    'embedding_model': getattr(self.embedding_model, 'model_name', 'Unknown'),
+                    'vector_dimension': settings.VECTOR_DIMENSION
+                },
+                'performance_metrics': self.metrics,
+                'system_resources': {
+                    'memory_usage_mb': psutil.Process(os.getpid()).memory_info().rss / 1024 / 1024,
+                    'cpu_count': psutil.cpu_count(),
+                    'available_memory_gb': psutil.virtual_memory().available / 1024 / 1024 / 1024
+                }
+            }
+            
+            # Add vector store stats
+            try:
+                vector_stats = self.vector_store.get_index_stats()
+                stats['vector_store'] = vector_stats
+                logger.debug(f"Vector store stats: {vector_stats}")
+            except Exception as e:
+                logger.warning(f"Could not get vector store stats: {e}")
+                stats['vector_store'] = {'error': str(e)}
+            
+            logger.debug("Pipeline statistics gathered successfully")
+            return stats
+            
         except Exception as e:
-            logger.warning(f"Could not get vector store stats: {e}")
-        
-        return stats
+            logger.error(f"Error gathering pipeline statistics: {e}")
+            return {'error': str(e)}
