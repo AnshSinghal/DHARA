@@ -15,7 +15,7 @@ class Settings:
 
     # Vector dimensions - FIXED to match your Pinecone index
     VECTOR_DIMENSION = 768  # Base embedding dimension (not 818)
-    METADATA_FEATURES = 0   # Remove metadata expansion to fix dimension mismatch
+    METADATA_FEATURES = 50   # Remove metadata expansion to fix dimension mismatch
 
     # Pinecone configuration - USE YOUR PROVIDED INDEX
     PINECONE_API_KEY = os.getenv("PINECONE_API_KEY", "your-api-key-here")
