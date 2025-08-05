@@ -78,9 +78,9 @@ class RhetoricallyAwareGenerator:
     def _load_model(self):
         """Load the generation model"""
         try:
-            self.tokenizer = AutoTokenizer.from_pretrained(self.model_name)
-            self.model = AutoModelForCausalLM.from_pretrained(self.model_name)
-            
+            self.tokenizer = AutoTokenizer.from_pretrained(self.model_name, use_auth_token=True)
+            self.model = AutoModelForCausalLM.from_pretrained(self.model_name, use_auth_token=True)
+
             # Add padding token if not present
             if self.tokenizer.pad_token is None:
                 self.tokenizer.pad_token = self.tokenizer.eos_token
