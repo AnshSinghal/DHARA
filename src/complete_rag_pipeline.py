@@ -89,13 +89,33 @@ class CompleteLegalRAGPipeline:
             self.bm25_retriever = LegalBM25Retriever()
             logger.debug("✅ LegalBM25Retriever initialized")
             
-            # Lazy-loaded components to avoid circular imports
-            self._hybrid_retriever = None
-            self._reranker = None
-            self._generator = None
+            # FIXED: Preload all models during initialization instead of lazy loading
+            logger.debug("Preloading AdvancedHybridRetriever...")
+            from src.advanced_hybrid_retrieval import AdvancedHybridRetriever
+            self.hybrid_retriever = AdvancedHybridRetriever(
+                self.vector_store,
+                self.bm25_retriever,
+                self.embedding_model,        # LegalEmbeddingModel instance
+                self.metadata_embedding      # MetadataAwareEmbedding instance
+            )
+            logger.debug("✅ AdvancedHybridRetriever preloaded")
+            
+            logger.debug("Preloading MultiStageReranker...")
+            from src.legal_reranking import MultiStageReranker
+            self.reranker = MultiStageReranker()
+            logger.debug("✅ MultiStageReranker preloaded")
+            
+            logger.debug("Preloading RhetoricallyAwareGenerator...")
+            from src.context_aware_generation import RhetoricallyAwareGenerator
+            self.generator = RhetoricallyAwareGenerator(
+                device='cuda' if self.enable_gpu else 'cpu'
+            )
+            logger.debug("✅ RhetoricallyAwareGenerator preloaded")
+            
+            # Optional response evaluator
             self._response_evaluator = None
             
-            logger.info("✅ All core pipeline components initialized successfully")
+            logger.info("✅ All pipeline components initialized and preloaded successfully")
             
         except Exception as e:
             logger.error(f"❌ Error initializing pipeline components: {e}")
@@ -157,45 +177,6 @@ class CompleteLegalRAGPipeline:
         
         logger.info(f"🏁 Index check complete - Initialized: {self.is_initialized}, Built: {self.index_built}")
     
-    # In the hybrid_retriever property or wherever query encoding happens
-    @property
-    def hybrid_retriever(self):
-        """Lazy load hybrid retriever with proper embedding models"""
-        if self._hybrid_retriever is None:
-            from src.advanced_hybrid_retrieval import AdvancedHybridRetriever
-            # FIXED: Pass both embedding_model and metadata_embedding separately
-            self._hybrid_retriever = AdvancedHybridRetriever(
-                self.vector_store, 
-                self.bm25_retriever, 
-                self.embedding_model,        # LegalEmbeddingModel instance
-                self.metadata_embedding      # MetadataAwareEmbedding instance
-            )
-            logger.debug("✅ AdvancedHybridRetriever loaded with separate embedding models")
-        return self._hybrid_retriever
-
-    
-    @property
-    def reranker(self):
-        """Lazy load reranker with logging"""
-        if self._reranker is None:
-            logger.debug("Loading MultiStageReranker...")
-            from src.legal_reranking import MultiStageReranker
-            self._reranker = MultiStageReranker()
-            logger.debug("✅ MultiStageReranker loaded")
-        return self._reranker
-    
-    @property 
-    def generator(self):
-        """Lazy load generator with logging"""
-        if self._generator is None:
-            logger.debug("Loading RhetoricallyAwareGenerator...")
-            from src.context_aware_generation import RhetoricallyAwareGenerator
-            self._generator = RhetoricallyAwareGenerator(
-                device='cuda' if self.enable_gpu else 'cpu'
-            )
-            logger.debug("✅ RhetoricallyAwareGenerator loaded")
-        return self._generator
-    
     async def build_index(self, data_directory: str, 
                          force_rebuild: bool = False) -> bool:
         """Build the complete index with comprehensive logging"""
@@ -247,7 +228,7 @@ class CompleteLegalRAGPipeline:
                 role_distribution[role] = role_distribution.get(role, 0) + 1
             
             logger.info("📈 Chunk distribution by rhetorical role:")
-            for role, count in sorted(role_distribution.items(), key=lambda x: x, reverse=True):
+            for role, count in sorted(role_distribution.items(), key=lambda x: x[1], reverse=True):
                 percentage = (count / len(chunks)) * 100
                 logger.info(f"   {role}: {count} ({percentage:.1f}%)")
             
@@ -502,9 +483,18 @@ class CompleteLegalRAGPipeline:
                 
                 # Citations and legal references
                 'legal_citations': generation_result.legal_citations,
+                'precedent_references': [],  # Could be extracted from chunks
+                'statute_references': [],    # Could be extracted from chunks
+                'quality_metrics': {},       # Could be added later
+                'pipeline_insights': {
+                    'retrieval_method': 'hybrid',
+                    'reranking_strategy': search_options.get('reranking_strategy', 'auto'),
+                    'generation_template': generation_result.rhetorical_structure.get('template_used', 'general')
+                },
+                'related_queries': [],       # Could be generated
                 
                 # Performance breakdown
-                'performance_breakdown': {
+                'performance_metrics': {
                     'retrieval_time': step1_time,
                     'reranking_time': step2_time,
                     'generation_time': step3_time,
@@ -616,8 +606,103 @@ class CompleteLegalRAGPipeline:
             'contexts_used': 0,
             'supporting_documents': [],
             'legal_citations': [],
+            'precedent_references': [],
+            'statute_references': [],
+            'quality_metrics': {},
+            'pipeline_insights': {},
+            'performance_metrics': {},
+            'related_queries': [],
             'success': False
         }
+    
+    # FIXED: Add missing health_check method
+    def health_check(self) -> Dict[str, Any]:
+        """Comprehensive health check of all pipeline components"""
+        
+        logger.debug("Performing health check...")
+        
+        health_data = {
+            'status': 'healthy',
+            'timestamp': time.time(),
+            'checks': {}
+        }
+        
+        try:
+            # Check pipeline initialization
+            health_data['checks']['pipeline_initialized'] = self.is_initialized
+            health_data['checks']['index_built'] = self.index_built
+            
+            # Check vector store
+            try:
+                vector_stats = self.vector_store.get_index_stats()
+                health_data['checks']['vector_store'] = {
+                    'status': 'healthy',
+                    'vector_count': vector_stats.get('total_vector_count', 0)
+                }
+            except Exception as e:
+                health_data['checks']['vector_store'] = {
+                    'status': 'unhealthy',
+                    'error': str(e)
+                }
+                health_data['status'] = 'degraded'
+            
+            # Check BM25 retriever
+            health_data['checks']['bm25_retriever'] = {
+                'status': 'healthy' if self.bm25_retriever.bm25 is not None else 'not_initialized'
+            }
+            
+            # Check embedding model
+            health_data['checks']['embedding_model'] = {
+                'status': 'healthy',
+                'model_name': self.embedding_model.model_name,
+                'device': self.embedding_model.device
+            }
+            
+            # Performance metrics
+            health_data['checks']['performance'] = self.metrics
+            
+            # System resources
+            health_data['checks']['system'] = {
+                'memory_usage_mb': psutil.Process(os.getpid()).memory_info().rss / 1024 / 1024,
+                'cpu_count': psutil.cpu_count(),
+                'available_memory_gb': psutil.virtual_memory().available / 1024 / 1024 / 1024
+            }
+            
+        except Exception as e:
+            logger.error(f"Error during health check: {e}")
+            health_data['status'] = 'unhealthy'
+            health_data['checks']['error'] = str(e)
+        
+        return health_data
+    
+    # FIXED: Add missing batch_process_queries method
+    async def batch_process_queries(self, queries: List[str], options: Dict[str, Any] = None) -> List[Dict[str, Any]]:
+        """Process multiple queries in batch"""
+        
+        logger.info(f"Processing batch of {len(queries)} queries")
+        batch_start_time = time.time()
+        
+        results = []
+        for i, query in enumerate(queries):
+            logger.info(f"Processing batch query {i+1}/{len(queries)}: {query[:50]}...")
+            
+            try:
+                result = await self.process_query(query, options)
+                results.append(result)
+            except Exception as e:
+                logger.error(f"Error processing batch query {i+1}: {e}")
+                results.append({
+                    'query': query,
+                    'response': f"Error processing query: {str(e)}",
+                    'success': False,
+                    'error': str(e),
+                    'processing_time': 0.0
+                })
+        
+        batch_time = time.time() - batch_start_time
+        logger.info(f"Batch processing completed in {batch_time:.2f}s")
+        
+        return results
     
     def get_pipeline_statistics(self) -> Dict[str, Any]:
         """Get comprehensive pipeline statistics with logging"""

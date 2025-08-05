@@ -11,6 +11,12 @@ from config.settings import settings
 
 logger = logging.getLogger(__name__)
 
+# Define role groupings for different reranking strategies
+PRECEDENT_ROLES = ['PRE_RELIED', 'PRE_NOT_RELIED', 'Precedent']
+FACTUAL_ROLES = ['FAC', 'PREAMBLE', 'ISSUE']  
+REASONING_ROLES = ['ANALYSIS', 'Ratio', 'RLC', 'RPC']
+ARGUMENT_ROLES = ['ARG_PETITIONER', 'ARG_RESPONDENT']
+
 class LegalAwareCrossEncoder:
     """Cross-encoder with legal domain awareness and metadata integration"""
     
@@ -182,14 +188,14 @@ class LegalAwareCrossEncoder:
                 if entity_overlap:
                     boost += self.scoring_weights['entity_overlap'] * len(entity_overlap)
             
-            # UPDATED: Precedent density boost using correct role names
+            # FIXED: Precedent density boost using correct role names
             if any(term in query_lower for term in ['precedent', 'case law', 'decided', 'held']):
                 if any(role in chunk.metadata.rhetorical_roles for role in PRECEDENT_ROLES):
                     boost += self.scoring_weights['precedent_density'] * 1.5
                 elif chunk.metadata.precedent_count > 3:
                     boost += self.scoring_weights['precedent_density'] * min(chunk.metadata.precedent_count / 10, 1.0)
             
-            # UPDATED: Statute density boost using correct entity and role names
+            # FIXED: Statute density boost using correct entity and role names
             if any(term in query_lower for term in ['section', 'act', 'statute', 'provision']):
                 if 'STA' in chunk.metadata.rhetorical_roles or 'STATUTE' in chunk.metadata.entity_types:
                     boost += self.scoring_weights['statute_density'] * 1.5
@@ -249,8 +255,8 @@ class MultiStageReranker:
             'precedent_focused': self._precedent_focused_reranking,
             'statutory_focused': self._statutory_focused_reranking,
             'factual_focused': self._factual_focused_reranking,
-            'reasoning_focused': self._reasoning_focused_reranking,  # NEW
-            'argument_focused': self._argument_focused_reranking     # NEW
+            'reasoning_focused': self._reasoning_focused_reranking,
+            'argument_focused': self._argument_focused_reranking
         }
     
     def rerank_with_strategy(self, query: str, chunks: List[EnrichedChunk],
@@ -307,7 +313,7 @@ class MultiStageReranker:
                                    query_context: Dict[str, Any] = None) -> RerankingResult:
         """Precedent-focused reranking strategy"""
         
-        # UPDATED: Boost precedent-heavy chunks using correct role names
+        # FIXED: Boost precedent-heavy chunks using correct role names
         for chunk in chunks:
             precedent_boost = False
             
@@ -333,7 +339,7 @@ class MultiStageReranker:
                                    query_context: Dict[str, Any] = None) -> RerankingResult:
         """Statutory-focused reranking strategy"""
         
-        # UPDATED: Boost statute-heavy chunks using correct role and entity names
+        # FIXED: Boost statute-heavy chunks using correct role and entity names
         for chunk in chunks:
             statute_boost = False
             
@@ -360,7 +366,7 @@ class MultiStageReranker:
                                  query_context: Dict[str, Any] = None) -> RerankingResult:
         """Factual-focused reranking strategy"""
         
-        # UPDATED: Boost chunks with factual roles using correct role names
+        # FIXED: Boost chunks with factual roles using correct role names
         for chunk in chunks:
             if any(role in chunk.metadata.rhetorical_roles for role in FACTUAL_ROLES):
                 original_score = getattr(chunk.metadata, 'retrieval_score', 0.5)
@@ -375,7 +381,7 @@ class MultiStageReranker:
     
     def _reasoning_focused_reranking(self, query: str, chunks: List[EnrichedChunk],
                                    query_context: Dict[str, Any] = None) -> RerankingResult:
-        """Reasoning-focused reranking strategy (NEW)"""
+        """Reasoning-focused reranking strategy (FIXED)"""
         
         # Boost chunks with reasoning roles
         for chunk in chunks:
@@ -392,7 +398,7 @@ class MultiStageReranker:
     
     def _argument_focused_reranking(self, query: str, chunks: List[EnrichedChunk],
                                   query_context: Dict[str, Any] = None) -> RerankingResult:
-        """Argument-focused reranking strategy (NEW)"""
+        """Argument-focused reranking strategy (FIXED)"""
         
         # Boost chunks with argument roles
         for chunk in chunks:

@@ -6,6 +6,7 @@ import time
 from tqdm import tqdm
 
 from src.data_models import EnrichedChunk, SearchQuery
+
 # Fixed import - now uses config.settings
 from config.settings import settings
 
@@ -16,11 +17,11 @@ class EnhancedPineconeStore:
     
     def __init__(self, index_name: str = None):
         self.index_name = index_name or settings.PINECONE_INDEX_NAME
-        self.dimension = settings.VECTOR_DIMENSION  # FIXED: Use 768, not 818
+        # FIXED: Use 818 dimensions for metadata-aware embeddings (768 text + 50 metadata)
+        self.dimension = 818  # Text embeddings (768) + metadata features (50)
         
         # Initialize Pinecone with new API
         self.pc = Pinecone(api_key=settings.PINECONE_API_KEY)
-        
         self._setup_index()
     
     def _setup_index(self):
@@ -32,7 +33,7 @@ class EnhancedPineconeStore:
             if self.index_name not in existing_indexes:
                 logger.info(f"Creating enhanced Pinecone index: {self.index_name}")
                 
-                # Create serverless index
+                # Create serverless index with 818 dimensions
                 self.pc.create_index(
                     name=self.index_name,
                     dimension=self.dimension,
@@ -48,7 +49,7 @@ class EnhancedPineconeStore:
                     time.sleep(1)
             
             self.index = self.pc.Index(self.index_name)
-            logger.info(f"Connected to enhanced Pinecone index: {self.index_name}")
+            logger.info(f"Connected to enhanced Pinecone index: {self.index_name} (dimension: {self.dimension})")
             
         except Exception as e:
             logger.error(f"Error setting up Pinecone index: {e}")
@@ -62,7 +63,6 @@ class EnhancedPineconeStore:
             
             vectors = []
             for i, (chunk, embedding) in enumerate(zip(chunks, embeddings)):
-                
                 # Create comprehensive metadata for Pinecone
                 metadata = {
                     # Basic info
@@ -96,6 +96,7 @@ class EnhancedPineconeStore:
                     'values': embedding.tolist(),
                     'metadata': metadata
                 }
+                
                 vectors.append(vector)
             
             # Upsert in batches
