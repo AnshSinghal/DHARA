@@ -3,7 +3,7 @@ from typing import List, Dict, Any, Optional, Tuple
 from transformers import (
     AutoTokenizer, AutoModelForCausalLM, 
     T5Tokenizer, T5ForConditionalGeneration,
-    GenerationConfig, StoppingCriteria, StoppingCriteriaList
+    GenerationConfig, StoppingCriteria, StoppingCriteriaList, BitsAndBytesConfig
 )
 import numpy as np
 import logging
@@ -78,8 +78,17 @@ class RhetoricallyAwareGenerator:
     def _load_model(self):
         """Load the generation model"""
         try:
-            self.tokenizer = AutoTokenizer.from_pretrained(self.model_name, use_auth_token=True)
-            self.model = AutoModelForCausalLM.from_pretrained(self.model_name, use_auth_token=True)
+
+            bnb_config = BitsAndBytesConfig(
+                load_in_4bit=True,
+                bnb_4bit_quant_type="nf4",
+                bnb_4bit_compute_dtype=torch.bfloat16
+            )
+
+            self.tokenizer = AutoTokenizer.from_pretrained(self.model_name, use_auth_token=True, quantization_config=bnb_config,
+                device_map="auto")
+            self.model = AutoModelForCausalLM.from_pretrained(self.model_name, use_auth_token=True, quantization_config=bnb_config,
+                device_map="auto")
 
             # Add padding token if not present
             if self.tokenizer.pad_token is None:
