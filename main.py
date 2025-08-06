@@ -176,6 +176,7 @@ class LegalRAGSystemManager:
             self.logger.info("=" * 60)
             
             self._initialized = True
+            self.pipeline.debug_and_fix_embeddings()
             return self.pipeline
             
         except Exception as e:

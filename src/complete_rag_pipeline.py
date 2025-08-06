@@ -744,3 +744,50 @@ class CompleteLegalRAGPipeline:
         except Exception as e:
             logger.error(f"Error gathering pipeline statistics: {e}")
             return {'error': str(e)}
+
+    def debug_and_fix_embeddings(self):
+        """Debug and fix embedding dimension issues"""
+        logger.info("🔍 Debugging embedding dimensions...")
+        
+        # Test embeddings
+        test_chunk = EnrichedChunk(
+            id="test",
+            text="This is a test legal document about arbitration.",
+            cleaned_text="This is a test legal document about arbitration.",
+            metadata=LegalMetadata(
+                document_id="test",
+                chunk_id="test_0",
+                chunk_index=0,
+                rhetorical_roles=["FAC"],
+                primary_role="FAC",
+                entities=[],
+                entity_types=["STATUTE"],
+                entity_count=1,
+                precedent_count=0,
+                statute_count=1,
+                provision_count=0,
+                source_file="test.json",
+                original_start=0,
+                original_end=100
+            ),
+            keywords=["arbitration"],
+            legal_concepts=["arbitration agreement"]
+        )
+        
+        # Test text embedding
+        text_emb = self.embedding_model.encode_chunks([test_chunk], use_enrichment=False)
+        logger.info(f"Text embedding shape: {text_emb.shape}")
+        
+        # Test metadata-aware embedding
+        meta_emb = self.metadata_embedding.encode_chunks_with_metadata([test_chunk])
+        logger.info(f"Metadata embedding shape: {meta_emb.shape}")
+        
+        # Check Pinecone
+        try:
+            stats = self.vector_store.get_index_stats()
+            logger.info(f"Pinecone dimension: {stats.get('dimension', 'Unknown')}")
+            logger.info(f"Vector count: {stats.get('total_vector_count', 0)}")
+        except Exception as e:
+            logger.error(f"Pinecone stats error: {e}")
+        
+        return meta_emb.shape[1] if len(meta_emb.shape) > 1 else 0
