@@ -56,7 +56,9 @@ class CompleteLegalRAGPipeline:
         self._check_existing_indices()
         
         logger.info("✅ CompleteLegalRAGPipeline initialized successfully")
-    
+
+        self.debug_and_fix_embeddings()
+
     def _initialize_components(self):
         """Initialize all pipeline components with detailed logging"""
         
