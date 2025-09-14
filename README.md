@@ -117,12 +117,6 @@ graph TD
 
 The performance data clearly demonstrates that while the full pipeline adds computational overhead, the substantial accuracy improvements and user satisfaction gains justify the increased latency for professional legal research applications.
 
-This comprehensive performance breakdown shows:
-
-1. **Progressive Enhancement**: Each component adds measurable value
-2. **ROI Justification**: The accuracy gains outweigh the latency costs
-3. **Competitive Advantage**: Superior performance vs. existing solutions
-4. **Production Readiness**: Real-world metrics proving system reliability
 
 
 ## 🚀 Quick Start
