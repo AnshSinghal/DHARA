@@ -1,0 +1,38 @@
+[{"stream_name":"stderr","time":6.491034962,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":6.491108344,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":6.491116366,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":6.491121153,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":7.271348608,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":7.271391257,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":7.271396828,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":7.271400706,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":12.465240963,"data":"\u001b[34m\u001b[1mwandb\u001b[0m: \u001b[33mWARNING\u001b[0m If you're specifying your api key in code, ensure this code is not shared publicly.\n"}
+,{"stream_name":"stderr","time":12.4652839,"data":"\u001b[34m\u001b[1mwandb\u001b[0m: \u001b[33mWARNING\u001b[0m Consider setting the WANDB_API_KEY environment variable, or running `wandb login` from the command line.\n"}
+,{"stream_name":"stderr","time":12.46613345,"data":"\u001b[34m\u001b[1mwandb\u001b[0m: No netrc file found, creating one.\n"}
+,{"stream_name":"stderr","time":12.466998288,"data":"\u001b[34m\u001b[1mwandb\u001b[0m: Appending key for api.wandb.ai to your netrc file: /root/.netrc\n"}
+,{"stream_name":"stderr","time":12.593495346,"data":"\u001b[34m\u001b[1mwandb\u001b[0m: Currently logged in as: \u001b[33manshsinghal\u001b[0m (\u001b[33manshsinghal-bennett-university\u001b[0m) to \u001b[32mhttps://api.wandb.ai\u001b[0m. Use \u001b[1m`wandb login --relogin`\u001b[0m to force relogin\n"}
+,{"stream_name":"stderr","time":32.262364247,"data":"2025-07-15 03:01:40.408288: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:477] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered\n"}
+,{"stream_name":"stderr","time":32.262777307,"data":"WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\n"}
+,{"stream_name":"stderr","time":32.262796455,"data":"E0000 00:00:1752548500.607380      19 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered\n"}
+,{"stream_name":"stderr","time":32.262802158,"data":"E0000 00:00:1752548500.662033      19 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered\n"}
+,{"stream_name":"stderr","time":32.679607469,"data":"2025-07-15 03:01:40.408288: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:477] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered\n"}
+,{"stream_name":"stderr","time":32.67963941,"data":"WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\n"}
+,{"stream_name":"stderr","time":32.67964825,"data":"E0000 00:00:1752548500.607380      19 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered\n"}
+,{"stream_name":"stderr","time":32.679656644,"data":"E0000 00:00:1752548500.662033      19 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered\n"}
+,{"stream_name":"stderr","time":56.898369626,"data":"Some weights of BertForSequenceClassification were not initialized from the model checkpoint at law-ai/InLegalBERT and are newly initialized: ['classifier.bias', 'classifier.weight']\n"}
+,{"stream_name":"stderr","time":56.898416381,"data":"You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.\n"}
+,{"stream_name":"stderr","time":229.302291229,"data":"/tmp/ipykernel_19/1754307305.py:88: FutureWarning: `tokenizer` is deprecated and will be removed in version 5.0.0 for `Trainer.__init__`. Use `processing_class` instead.\n"}
+,{"stream_name":"stderr","time":229.302369408,"data":"  trainer = Trainer(\n"}
+,{"stream_name":"stderr","time":230.801437142,"data":"\u001b[34m\u001b[1mwandb\u001b[0m: Tracking run with wandb version 0.20.1\n"}
+,{"stream_name":"stderr","time":230.802829176,"data":"\u001b[34m\u001b[1mwandb\u001b[0m: Run data is saved locally in \u001b[35m\u001b[1m/kaggle/working/wandb/run-20250715_030458-7lrrhqhg\u001b[0m\n"}
+,{"stream_name":"stderr","time":230.802858488,"data":"\u001b[34m\u001b[1mwandb\u001b[0m: Run \u001b[1m`wandb offline`\u001b[0m to turn off syncing.\n"}
+,{"stream_name":"stderr","time":230.804947953,"data":"\u001b[34m\u001b[1mwandb\u001b[0m: Syncing run \u001b[33minlegalbert-legalseg-finetune\u001b[0m\n"}
+,{"stream_name":"stderr","time":230.804972297,"data":"\u001b[34m\u001b[1mwandb\u001b[0m: ⭐️ View project at \u001b[34m\u001b[4mhttps://wandb.ai/anshsinghal-bennett-university/huggingface\u001b[0m\n"}
+,{"stream_name":"stderr","time":230.806472136,"data":"\u001b[34m\u001b[1mwandb\u001b[0m: 🚀 View run at \u001b[34m\u001b[4mhttps://wandb.ai/anshsinghal-bennett-university/huggingface/runs/7lrrhqhg\u001b[0m\n"}
+,{"stream_name":"stderr","time":233.886694542,"data":"/usr/local/lib/python3.11/dist-packages/torch/nn/parallel/_functions.py:70: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.\n"}
+,{"stream_name":"stderr","time":233.886727368,"data":"  warnings.warn(\n"}
+,{"stream_name":"stderr","time":16894.309359102,"data":"/usr/local/lib/python3.11/dist-packages/torch/nn/parallel/_functions.py:70: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.\n"}
+,{"stream_name":"stderr","time":16894.309408605,"data":"  warnings.warn(\n"}
+,{"stream_name":"stderr","time":33562.543202688,"data":"/usr/local/lib/python3.11/dist-packages/torch/nn/parallel/_functions.py:70: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.\n"}
+,{"stream_name":"stderr","time":33562.543264613,"data":"  warnings.warn(\n"}
+]
