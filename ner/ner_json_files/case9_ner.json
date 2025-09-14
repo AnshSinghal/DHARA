@@ -1,0 +1,4967 @@
+{
+  "entities": [
+    {
+      "text": "Supreme Court of India",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 22
+    },
+    {
+      "text": "Arcelor Mittal Nippon Steel India Ltd.",
+      "label": "PETITIONER",
+      "start_char": 23,
+      "end_char": 61
+    },
+    {
+      "text": "Essar Bulk Terminal Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 65,
+      "end_char": 89
+    },
+    {
+      "text": "Indira Banerjee",
+      "label": "LAWYER",
+      "start_char": 193,
+      "end_char": 208
+    },
+    {
+      "text": "J. K. Maheshwari",
+      "label": "JUDGE",
+      "start_char": 216,
+      "end_char": 232
+    },
+    {
+      "text": "Indira Banerjee",
+      "label": "LAWYER",
+      "start_char": 234,
+      "end_char": 249
+    },
+    {
+      "text": "Supreme Court Of India",
+      "label": "COURT",
+      "start_char": 397,
+      "end_char": 419
+    },
+    {
+      "text": "Special Leave Petition (Civil) No.13129 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 613,
+      "end_char": 660
+    },
+    {
+      "text": "ARCELOR MITTAL NIPPON STEEL INDIA LTD",
+      "label": "ORG",
+      "start_char": 688,
+      "end_char": 725
+    },
+    {
+      "text": "ESSAR BULK TERMINAL LTD",
+      "label": "RESPONDENT",
+      "start_char": 854,
+      "end_char": 877
+    },
+    {
+      "text": "Indira Banerjee",
+      "label": "JUDGE",
+      "start_char": 995,
+      "end_char": 1010
+    },
+    {
+      "text": "Section 9(1)",
+      "label": "PROVISION",
+      "start_char": 1152,
+      "end_char": 1164
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 1172,
+      "end_char": 1210
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 1244,
+      "end_char": 1259
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 1390,
+      "end_char": 1402
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 1410,
+      "end_char": 1425
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 1522,
+      "end_char": 1532
+    },
+    {
+      "text": "Section 9(1)",
+      "label": "PROVISION",
+      "start_char": 1564,
+      "end_char": 1576
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 1584,
+      "end_char": 1599
+    },
+    {
+      "text": "Hazira",
+      "label": "GPE",
+      "start_char": 1728,
+      "end_char": 1734
+    },
+    {
+      "text": "Article 15",
+      "label": "PROVISION",
+      "start_char": 1810,
+      "end_char": 1820
+    },
+    {
+      "text": "Cargo Handling Agreement",
+      "label": "STATUTE",
+      "start_char": 1833,
+      "end_char": 1857
+    },
+    {
+      "text": "Cargo Handling Agreement",
+      "label": "STATUTE",
+      "start_char": 1904,
+      "end_char": 1928
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 2000,
+      "end_char": 2015
+    },
+    {
+      "text": "22nd November 2020",
+      "label": "DATE",
+      "start_char": 2250,
+      "end_char": 2268
+    },
+    {
+      "text": "High Court of Gujarat at Ahmedabad",
+      "label": "COURT",
+      "start_char": 2392,
+      "end_char": 2426
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 2433,
+      "end_char": 2443
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 2451,
+      "end_char": 2466
+    },
+    {
+      "text": "30th December, 2020",
+      "label": "DATE",
+      "start_char": 2521,
+      "end_char": 2540
+    },
+    {
+      "text": "24 th December, 2020",
+      "label": "DATE",
+      "start_char": 2748,
+      "end_char": 2768
+    },
+    {
+      "text": "15th January, 2021",
+      "label": "DATE",
+      "start_char": 2848,
+      "end_char": 2866
+    },
+    {
+      "text": "Commercial Civil Miscellaneous Application No.2 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 2909,
+      "end_char": 2964
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 2971,
+      "end_char": 2980
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 2988,
+      "end_char": 3003
+    },
+    {
+      "text": "12 th Additional District Judge, District & Sessions Court at Surat",
+      "label": "COURT",
+      "start_char": 3036,
+      "end_char": 3103
+    },
+    {
+      "text": "16 th March 2021",
+      "label": "DATE",
+      "start_char": 3108,
+      "end_char": 3124
+    },
+    {
+      "text": "Commercial Civil Miscellaneous Application No.99 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 3173,
+      "end_char": 3229
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 3260,
+      "end_char": 3269
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 3277,
+      "end_char": 3292
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 3298,
+      "end_char": 3307
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 3315,
+      "end_char": 3330
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 3562,
+      "end_char": 3572
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 5296,
+      "end_char": 5306
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 5325,
+      "end_char": 5334
+    },
+    {
+      "text": "Section 9(1)",
+      "label": "PROVISION",
+      "start_char": 5381,
+      "end_char": 5393
+    },
+    {
+      "text": "Arbitration and Conciliation (Amendment) Act (Act 3 of 2016)",
+      "label": "STATUTE",
+      "start_char": 5401,
+      "end_char": 5461
+    },
+    {
+      "text": "23rd October 2015",
+      "label": "DATE",
+      "start_char": 5479,
+      "end_char": 5496
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 5664,
+      "end_char": 5674
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 6175,
+      "end_char": 6185
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 7590,
+      "end_char": 7600
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 7759,
+      "end_char": 7800
+    },
+    {
+      "text": "12 th Additional District Judge, District & Sessions Court at Surat",
+      "label": "COURT",
+      "start_char": 7889,
+      "end_char": 7956
+    },
+    {
+      "text": "Section 9(1)",
+      "label": "PROVISION",
+      "start_char": 8048,
+      "end_char": 8060
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 8068,
+      "end_char": 8083
+    },
+    {
+      "text": "7th June, 2021",
+      "label": "DATE",
+      "start_char": 8120,
+      "end_char": 8134
+    },
+    {
+      "text": "9th July 2021",
+      "label": "DATE",
+      "start_char": 8144,
+      "end_char": 8157
+    },
+    {
+      "text": "Section 11(6)",
+      "label": "PROVISION",
+      "start_char": 8204,
+      "end_char": 8217
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 8225,
+      "end_char": 8240
+    },
+    {
+      "text": "16th July 2021",
+      "label": "DATE",
+      "start_char": 8441,
+      "end_char": 8455
+    },
+    {
+      "text": "Commercial Civil Miscellaneous Application No.2 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 8506,
+      "end_char": 8561
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 8671,
+      "end_char": 8680
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 8688,
+      "end_char": 8703
+    },
+    {
+      "text": "20 July 2021",
+      "label": "DATE",
+      "start_char": 9025,
+      "end_char": 9037
+    },
+    {
+      "text": "16th July 2021",
+      "label": "DATE",
+      "start_char": 9091,
+      "end_char": 9105
+    },
+    {
+      "text": "R/Special Civil Application No.10492 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 9359,
+      "end_char": 9403
+    },
+    {
+      "text": "Gujarat High Court",
+      "label": "COURT",
+      "start_char": 9411,
+      "end_char": 9429
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 9436,
+      "end_char": 9447
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 9455,
+      "end_char": 9476
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 9556,
+      "end_char": 9567
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 9575,
+      "end_char": 9587
+    },
+    {
+      "text": "2nd August, 2021",
+      "label": "DATE",
+      "start_char": 9670,
+      "end_char": 9686
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 9814,
+      "end_char": 9823
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 9831,
+      "end_char": 9846
+    },
+    {
+      "text": "9 th August, 2021",
+      "label": "DATE",
+      "start_char": 9852,
+      "end_char": 9869
+    },
+    {
+      "text": "5th August 2021",
+      "label": "DATE",
+      "start_char": 9879,
+      "end_char": 9894
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 9918,
+      "end_char": 9929
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 9937,
+      "end_char": 9949
+    },
+    {
+      "text": "9 th August, 2011",
+      "label": "DATE",
+      "start_char": 9993,
+      "end_char": 10010
+    },
+    {
+      "text": "31st August, 2021",
+      "label": "DATE",
+      "start_char": 10119,
+      "end_char": 10136
+    },
+    {
+      "text": "17 th August, 2021",
+      "label": "DATE",
+      "start_char": 10179,
+      "end_char": 10197
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 10303,
+      "end_char": 10314
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 10322,
+      "end_char": 10343
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 10430,
+      "end_char": 10440
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 10448,
+      "end_char": 10463
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 10513,
+      "end_char": 10522
+    },
+    {
+      "text": "CMA No.2 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 10917,
+      "end_char": 10933
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 11040,
+      "end_char": 11049
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 11177,
+      "end_char": 11189
+    },
+    {
+      "text": "Darius Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 11212,
+      "end_char": 11227
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 11297,
+      "end_char": 11309
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 11317,
+      "end_char": 11332
+    },
+    {
+      "text": "sub-Section (1) of Section 9",
+      "label": "PROVISION",
+      "start_char": 11413,
+      "end_char": 11441
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 11449,
+      "end_char": 11464
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 11522,
+      "end_char": 11530
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 11660,
+      "end_char": 11669
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 11677,
+      "end_char": 11692
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 11703,
+      "end_char": 11711
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 11753,
+      "end_char": 11765
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 11773,
+      "end_char": 11788
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 11839,
+      "end_char": 11851
+    },
+    {
+      "text": "Section 9(1)",
+      "label": "PROVISION",
+      "start_char": 11902,
+      "end_char": 11914
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 12092,
+      "end_char": 12101
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 12109,
+      "end_char": 12124
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 12201,
+      "end_char": 12211
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 12219,
+      "end_char": 12234
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 12259,
+      "end_char": 12267
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 12567,
+      "end_char": 12575
+    },
+    {
+      "text": "Law Commission of August 2014",
+      "label": "ORG",
+      "start_char": 12632,
+      "end_char": 12661
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 12685,
+      "end_char": 12697
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 12832,
+      "end_char": 12840
+    },
+    {
+      "text": "UNCITRAL",
+      "label": "ORG",
+      "start_char": 12898,
+      "end_char": 12906
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 12950,
+      "end_char": 12960
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 13052,
+      "end_char": 13060
+    },
+    {
+      "text": "July 30, 2017",
+      "label": "DATE",
+      "start_char": 13088,
+      "end_char": 13101
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 13193,
+      "end_char": 13198
+    },
+    {
+      "text": "B. N. Srikrishna",
+      "label": "JUDGE",
+      "start_char": 13231,
+      "end_char": 13247
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 13282,
+      "end_char": 13294
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 13476,
+      "end_char": 13485
+    },
+    {
+      "text": "ACA",
+      "label": "STATUTE",
+      "start_char": 13493,
+      "end_char": 13496
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 13710,
+      "end_char": 13725
+    },
+    {
+      "text": "ACA",
+      "label": "STATUTE",
+      "start_char": 13744,
+      "end_char": 13747
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 13767,
+      "end_char": 13775
+    },
+    {
+      "text": "Amazon.com NV Investment Holdings LLC v. Future Retail Limited & Ors.1",
+      "label": "PRECEDENT",
+      "start_char": 13782,
+      "end_char": 13852
+    },
+    {
+      "text": "2021 SCC Online SC 557",
+      "label": "PRECEDENT",
+      "start_char": 13883,
+      "end_char": 13905
+    },
+    {
+      "text": "Nariman",
+      "label": "JUDGE",
+      "start_char": 13914,
+      "end_char": 13921
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 13961,
+      "end_char": 13973
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 14014,
+      "end_char": 14023
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 14295,
+      "end_char": 14303
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 14319,
+      "end_char": 14331
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 14395,
+      "end_char": 14407
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 14479,
+      "end_char": 14491
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 14522,
+      "end_char": 14530
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 14543,
+      "end_char": 14555
+    },
+    {
+      "text": "Section 17(2)",
+      "label": "PROVISION",
+      "start_char": 14662,
+      "end_char": 14675
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 14772,
+      "end_char": 14782
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 14788,
+      "end_char": 14796
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 15073,
+      "end_char": 15081
+    },
+    {
+      "text": "State Bank of India",
+      "label": "ORG",
+      "start_char": 15088,
+      "end_char": 15107
+    },
+    {
+      "text": "S. N. Goyal2",
+      "label": "RESPONDENT",
+      "start_char": 15120,
+      "end_char": 15132
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 15143,
+      "end_char": 15151
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 15262,
+      "end_char": 15271
+    },
+    {
+      "text": "State Bank of India v. S. N. Goyal",
+      "label": "PRECEDENT",
+      "start_char": 15296,
+      "end_char": 15330
+    },
+    {
+      "text": "SCC 92 : AIR 2008 SC 2594",
+      "label": "PRECEDENT",
+      "start_char": 15351,
+      "end_char": 15376
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 15381,
+      "end_char": 15389
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 15600,
+      "end_char": 15608
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 15689,
+      "end_char": 15698
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 15838,
+      "end_char": 15847
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 15933,
+      "end_char": 15942
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 15950,
+      "end_char": 15965
+    },
+    {
+      "text": "7th June 2021",
+      "label": "DATE",
+      "start_char": 16005,
+      "end_char": 16018
+    },
+    {
+      "text": "Deep Chand & Ors v. Land Acquisition Officer & Others3",
+      "label": "PRECEDENT",
+      "start_char": 16118,
+      "end_char": 16172
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 16178,
+      "end_char": 16186
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 16374,
+      "end_char": 16386
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 16394,
+      "end_char": 16409
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 16515,
+      "end_char": 16523
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 16560,
+      "end_char": 16572
+    },
+    {
+      "text": "Section 9(1)",
+      "label": "PROVISION",
+      "start_char": 16613,
+      "end_char": 16625
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 16633,
+      "end_char": 16648
+    },
+    {
+      "text": "Section 9(1)",
+      "label": "PROVISION",
+      "start_char": 16650,
+      "end_char": 16662
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 16670,
+      "end_char": 16685
+    },
+    {
+      "text": "3 (1994) 4 SCC 99 : AIR 1994 SC 1901",
+      "label": "PRECEDENT",
+      "start_char": 16786,
+      "end_char": 16822
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 16851,
+      "end_char": 16860
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 16868,
+      "end_char": 16883
+    },
+    {
+      "text": "Section 9(1)",
+      "label": "PROVISION",
+      "start_char": 17021,
+      "end_char": 17033
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 17055,
+      "end_char": 17063
+    },
+    {
+      "text": "A.V. Venkateswaran, Collector of Customs, Bombay v. Ramchand",
+      "label": "PRECEDENT",
+      "start_char": 17507,
+      "end_char": 17567
+    },
+    {
+      "text": "Sobhraj Wadhwani",
+      "label": "OTHER_PERSON",
+      "start_char": 17568,
+      "end_char": 17584
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 17597,
+      "end_char": 17605
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 17754,
+      "end_char": 17762
+    },
+    {
+      "text": "Manbhupinder Singh Atwal v. Neeraj Kumarpal Shah5",
+      "label": "PRECEDENT",
+      "start_char": 17774,
+      "end_char": 17823
+    },
+    {
+      "text": "Gujarat High Court",
+      "label": "COURT",
+      "start_char": 17835,
+      "end_char": 17853
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 17929,
+      "end_char": 17939
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 18003,
+      "end_char": 18012
+    },
+    {
+      "text": "AIR 1961 SC 1506 (para 11) 5 2019 GLH (3) 234 (para 6.1 to 6.3)",
+      "label": "PRECEDENT",
+      "start_char": 18069,
+      "end_char": 18132
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 18147,
+      "end_char": 18155
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 18268,
+      "end_char": 18276
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 18305,
+      "end_char": 18315
+    },
+    {
+      "text": "22nd November, 2020",
+      "label": "DATE",
+      "start_char": 18536,
+      "end_char": 18555
+    },
+    {
+      "text": "Section 11(4)(a)",
+      "label": "PROVISION",
+      "start_char": 18708,
+      "end_char": 18724
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 18732,
+      "end_char": 18747
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 18758,
+      "end_char": 18766
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 18829,
+      "end_char": 18838
+    },
+    {
+      "text": "16th March, 2021",
+      "label": "DATE",
+      "start_char": 18895,
+      "end_char": 18911
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 19043,
+      "end_char": 19053
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 19061,
+      "end_char": 19076
+    },
+    {
+      "text": "7 th June, 2021",
+      "label": "DATE",
+      "start_char": 19118,
+      "end_char": 19133
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 19179,
+      "end_char": 19188
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 19213,
+      "end_char": 19221
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 19278,
+      "end_char": 19287
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 19380,
+      "end_char": 19388
+    },
+    {
+      "text": "Ashok Traders",
+      "label": "ORG",
+      "start_char": 19400,
+      "end_char": 19413
+    },
+    {
+      "text": "Gurumukh Das Saluja",
+      "label": "RESPONDENT",
+      "start_char": 19426,
+      "end_char": 19445
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 19461,
+      "end_char": 19469
+    },
+    {
+      "text": "6 (2004) 3 SCC 155",
+      "label": "PRECEDENT",
+      "start_char": 19523,
+      "end_char": 19541
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 19646,
+      "end_char": 19656
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 19664,
+      "end_char": 19679
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 19690,
+      "end_char": 19698
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 19812,
+      "end_char": 19821
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 19829,
+      "end_char": 19844
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 19986,
+      "end_char": 19994
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 20045,
+      "end_char": 20057
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 20065,
+      "end_char": 20080
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 20184,
+      "end_char": 20192
+    },
+    {
+      "text": "Bryan A. Garner",
+      "label": "OTHER_PERSON",
+      "start_char": 20259,
+      "end_char": 20274
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 20366,
+      "end_char": 20374
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 20426,
+      "end_char": 20445
+    },
+    {
+      "text": "Tufan Chatterjee v. Sri",
+      "label": "PRECEDENT",
+      "start_char": 20454,
+      "end_char": 20477
+    },
+    {
+      "text": "Rangan Dhar",
+      "label": "OTHER_PERSON",
+      "start_char": 20479,
+      "end_char": 20490
+    },
+    {
+      "text": "Indira Banerjee",
+      "label": "JUDGE",
+      "start_char": 20518,
+      "end_char": 20533
+    },
+    {
+      "text": "Tufan Chatterjee",
+      "label": "PRECEDENT",
+      "start_char": 20543,
+      "end_char": 20559
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 20683,
+      "end_char": 20691
+    },
+    {
+      "text": "Gujarat High Court",
+      "label": "COURT",
+      "start_char": 20754,
+      "end_char": 20772
+    },
+    {
+      "text": "Tufan Chatterjee",
+      "label": "PRECEDENT",
+      "start_char": 20868,
+      "end_char": 20884
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 20903,
+      "end_char": 20911
+    },
+    {
+      "text": "Energo Engineering Projects Limited v. TRF Ltd8",
+      "label": "PRECEDENT",
+      "start_char": 20927,
+      "end_char": 20974
+    },
+    {
+      "text": "Indira Banerjee",
+      "label": "JUDGE",
+      "start_char": 20999,
+      "end_char": 21014
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 21124,
+      "end_char": 21140
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 21340,
+      "end_char": 21349
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 21414,
+      "end_char": 21424
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 21432,
+      "end_char": 21447
+    },
+    {
+      "text": "Energo Engineering Project Limited v. TRF Limited",
+      "label": "PRECEDENT",
+      "start_char": 21469,
+      "end_char": 21518
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 21532,
+      "end_char": 21548
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 21678,
+      "end_char": 21691
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 21857,
+      "end_char": 21866
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 21887,
+      "end_char": 21897
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 21926,
+      "end_char": 21934
+    },
+    {
+      "text": "Lakshmi Rattan Engineering Works Ltd. v Asstt",
+      "label": "PRECEDENT",
+      "start_char": 21953,
+      "end_char": 21998
+    },
+    {
+      "text": "Kanpur",
+      "label": "GPE",
+      "start_char": 22024,
+      "end_char": 22030
+    },
+    {
+      "text": "Allahabad High Court",
+      "label": "COURT",
+      "start_char": 22094,
+      "end_char": 22114
+    },
+    {
+      "text": "Kundan Lal v. Jagan Nath Sharma",
+      "label": "PRECEDENT",
+      "start_char": 22118,
+      "end_char": 22149
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 22308,
+      "end_char": 22316
+    },
+    {
+      "text": "Hindustan Commercial Bank Ltd. v Punnu Sahu11",
+      "label": "PRECEDENT",
+      "start_char": 22328,
+      "end_char": 22373
+    },
+    {
+      "text": "Martin & Harris Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 22375,
+      "end_char": 22395
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 22466,
+      "end_char": 22474
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 22585,
+      "end_char": 22594
+    },
+    {
+      "text": "9 (1968) 1 SCR 505 (Para 9)",
+      "label": "PRECEDENT",
+      "start_char": 22651,
+      "end_char": 22678
+    },
+    {
+      "text": "AIR 1968 SC 488 10 AIR 1962 All 547 (Para 7) 11 (1971) 3 SCC 124 12 (1998) 1 SCC 732 (Paras 8-10)",
+      "label": "PRECEDENT",
+      "start_char": 22681,
+      "end_char": 22778
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 22869,
+      "end_char": 22877
+    },
+    {
+      "text": "Kapil Sibal",
+      "label": "OTHER_PERSON",
+      "start_char": 23211,
+      "end_char": 23222
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 23319,
+      "end_char": 23331
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 23339,
+      "end_char": 23354
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 23426,
+      "end_char": 23435
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 23443,
+      "end_char": 23458
+    },
+    {
+      "text": "7th June 2021",
+      "label": "DATE",
+      "start_char": 23630,
+      "end_char": 23643
+    },
+    {
+      "text": "Arbitral Tribunal",
+      "label": "COURT",
+      "start_char": 23676,
+      "end_char": 23693
+    },
+    {
+      "text": "9th July, 2021",
+      "label": "DATE",
+      "start_char": 23697,
+      "end_char": 23711
+    },
+    {
+      "text": "Sibal",
+      "label": "OTHER_PERSON",
+      "start_char": 23722,
+      "end_char": 23727
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 23762,
+      "end_char": 23773
+    },
+    {
+      "text": "Gujarat High Court",
+      "label": "COURT",
+      "start_char": 23787,
+      "end_char": 23805
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 23862,
+      "end_char": 23877
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 23955,
+      "end_char": 23966
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 24019,
+      "end_char": 24034
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 24049,
+      "end_char": 24060
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 24185,
+      "end_char": 24196
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 24204,
+      "end_char": 24225
+    },
+    {
+      "text": "Gujarat High Court",
+      "label": "COURT",
+      "start_char": 24451,
+      "end_char": 24469
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 24476,
+      "end_char": 24487
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 24774,
+      "end_char": 24783
+    },
+    {
+      "text": "Sibal",
+      "label": "OTHER_PERSON",
+      "start_char": 24807,
+      "end_char": 24812
+    },
+    {
+      "text": "Section 9(1)",
+      "label": "PROVISION",
+      "start_char": 24825,
+      "end_char": 24837
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 24845,
+      "end_char": 24860
+    },
+    {
+      "text": "Sibal",
+      "label": "OTHER_PERSON",
+      "start_char": 25056,
+      "end_char": 25061
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 25074,
+      "end_char": 25086
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 25094,
+      "end_char": 25109
+    },
+    {
+      "text": "Sibal",
+      "label": "OTHER_PERSON",
+      "start_char": 25282,
+      "end_char": 25287
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 25354,
+      "end_char": 25369
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 25446,
+      "end_char": 25455
+    },
+    {
+      "text": "Sibal",
+      "label": "OTHER_PERSON",
+      "start_char": 25489,
+      "end_char": 25494
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 25517,
+      "end_char": 25533
+    },
+    {
+      "text": "Benara Bearings and Pistons Limited v. Mahle Engine Components India Private Limited13",
+      "label": "PRECEDENT",
+      "start_char": 25537,
+      "end_char": 25623
+    },
+    {
+      "text": "Energo Engineering Projects Limited v. TRF Limited",
+      "label": "PRECEDENT",
+      "start_char": 25631,
+      "end_char": 25681
+    },
+    {
+      "text": "Sibal",
+      "label": "OTHER_PERSON",
+      "start_char": 25700,
+      "end_char": 25705
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 25718,
+      "end_char": 25730
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 25738,
+      "end_char": 25753
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 25815,
+      "end_char": 25824
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 25900,
+      "end_char": 25910
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 25989,
+      "end_char": 25998
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 26050,
+      "end_char": 26059
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 26119,
+      "end_char": 26131
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 26139,
+      "end_char": 26154
+    },
+    {
+      "text": "Sibal",
+      "label": "OTHER_PERSON",
+      "start_char": 26181,
+      "end_char": 26186
+    },
+    {
+      "text": "Sibal",
+      "label": "OTHER_PERSON",
+      "start_char": 26380,
+      "end_char": 26385
+    },
+    {
+      "text": "Lakshmi Rattan Engineering Works Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 26392,
+      "end_char": 26429
+    },
+    {
+      "text": "Anil Kunj Bihari Saraf v. Namboodas S/o Shankarlal and Ors",
+      "label": "PRECEDENT",
+      "start_char": 26439,
+      "end_char": 26497
+    },
+    {
+      "text": "Kundanlal v. Jagan Nath Sharma",
+      "label": "PRECEDENT",
+      "start_char": 26506,
+      "end_char": 26536
+    },
+    {
+      "text": "Kapil Sibal",
+      "label": "OTHER_PERSON",
+      "start_char": 26555,
+      "end_char": 26566
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 26753,
+      "end_char": 26762
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 26829,
+      "end_char": 26838
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 26918,
+      "end_char": 26930
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 26938,
+      "end_char": 26953
+    },
+    {
+      "text": "Sibal",
+      "label": "OTHER_PERSON",
+      "start_char": 26959,
+      "end_char": 26964
+    },
+    {
+      "text": "sub-section (3) of section 9",
+      "label": "PROVISION",
+      "start_char": 27049,
+      "end_char": 27077
+    },
+    {
+      "text": "13 (2017",
+      "label": "DATE",
+      "start_char": 27149,
+      "end_char": 27157
+    },
+    {
+      "text": "SCC Online Del 7226",
+      "label": "PRECEDENT",
+      "start_char": 27159,
+      "end_char": 27178
+    },
+    {
+      "text": "14 (1996",
+      "label": "DATE",
+      "start_char": 27193,
+      "end_char": 27201
+    },
+    {
+      "text": "SCC Online MP 112 (Paras 5-12)",
+      "label": "PRECEDENT",
+      "start_char": 27203,
+      "end_char": 27233
+    },
+    {
+      "text": "Sibal",
+      "label": "OTHER_PERSON",
+      "start_char": 27321,
+      "end_char": 27326
+    },
+    {
+      "text": "16 th July, 2021",
+      "label": "DATE",
+      "start_char": 27375,
+      "end_char": 27391
+    },
+    {
+      "text": "Sibal",
+      "label": "OTHER_PERSON",
+      "start_char": 27450,
+      "end_char": 27455
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 27593,
+      "end_char": 27602
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 27610,
+      "end_char": 27625
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 27682,
+      "end_char": 27697
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 27729,
+      "end_char": 27744
+    },
+    {
+      "text": "Section 9(1)",
+      "label": "PROVISION",
+      "start_char": 27811,
+      "end_char": 27823
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 27831,
+      "end_char": 27846
+    },
+    {
+      "text": "Sibal",
+      "label": "OTHER_PERSON",
+      "start_char": 27932,
+      "end_char": 27937
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 28122,
+      "end_char": 28131
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 28139,
+      "end_char": 28154
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 28484,
+      "end_char": 28493
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 28501,
+      "end_char": 28516
+    },
+    {
+      "text": "Sibal",
+      "label": "OTHER_PERSON",
+      "start_char": 28527,
+      "end_char": 28532
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 28646,
+      "end_char": 28655
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 28745,
+      "end_char": 28754
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 28794,
+      "end_char": 28803
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 28925,
+      "end_char": 28934
+    },
+    {
+      "text": "7th June, 2021",
+      "label": "DATE",
+      "start_char": 28976,
+      "end_char": 28990
+    },
+    {
+      "text": "Sibal",
+      "label": "OTHER_PERSON",
+      "start_char": 29068,
+      "end_char": 29073
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 29171,
+      "end_char": 29185
+    },
+    {
+      "text": "Uttar Pradesh State Bridge Corporation Limited15",
+      "label": "RESPONDENT",
+      "start_char": 29198,
+      "end_char": 29246
+    },
+    {
+      "text": "Sibal",
+      "label": "OTHER_PERSON",
+      "start_char": 29260,
+      "end_char": 29265
+    },
+    {
+      "text": "Sibal",
+      "label": "OTHER_PERSON",
+      "start_char": 29276,
+      "end_char": 29281
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 29321,
+      "end_char": 29330
+    },
+    {
+      "text": "Sibal",
+      "label": "OTHER_PERSON",
+      "start_char": 29500,
+      "end_char": 29505
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 29603,
+      "end_char": 29613
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 29682,
+      "end_char": 29692
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 29759,
+      "end_char": 29768
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 29776,
+      "end_char": 29791
+    },
+    {
+      "text": "Sibal",
+      "label": "OTHER_PERSON",
+      "start_char": 29833,
+      "end_char": 29838
+    },
+    {
+      "text": "22 nd November, 2020",
+      "label": "DATE",
+      "start_char": 29994,
+      "end_char": 30014
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 30104,
+      "end_char": 30113
+    },
+    {
+      "text": "15 (2015) 2 SCC 52 (Paras 14-17)",
+      "label": "PRECEDENT",
+      "start_char": 30197,
+      "end_char": 30229
+    },
+    {
+      "text": "Sibal",
+      "label": "OTHER_PERSON",
+      "start_char": 30287,
+      "end_char": 30292
+    },
+    {
+      "text": "25 th August, 2021",
+      "label": "DATE",
+      "start_char": 30475,
+      "end_char": 30493
+    },
+    {
+      "text": "G.T. Nanavati",
+      "label": "JUDGE",
+      "start_char": 30503,
+      "end_char": 30516
+    },
+    {
+      "text": "27.08.2021",
+      "label": "DATE",
+      "start_char": 30796,
+      "end_char": 30806
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 30872,
+      "end_char": 30880
+    },
+    {
+      "text": "Sibal",
+      "label": "OTHER_PERSON",
+      "start_char": 30886,
+      "end_char": 30891
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 30941,
+      "end_char": 30953
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 30961,
+      "end_char": 30976
+    },
+    {
+      "text": "Section 9(1)",
+      "label": "PROVISION",
+      "start_char": 31173,
+      "end_char": 31185
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 31193,
+      "end_char": 31208
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 31468,
+      "end_char": 31478
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 31486,
+      "end_char": 31501
+    },
+    {
+      "text": "Section 9(1)",
+      "label": "PROVISION",
+      "start_char": 31626,
+      "end_char": 31638
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 31646,
+      "end_char": 31661
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 31735,
+      "end_char": 31745
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 31753,
+      "end_char": 31768
+    },
+    {
+      "text": "sub-Section (3) of Section 9",
+      "label": "PROVISION",
+      "start_char": 31784,
+      "end_char": 31812
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 31820,
+      "end_char": 31835
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 31888,
+      "end_char": 31896
+    },
+    {
+      "text": "Kapil Sibal",
+      "label": "OTHER_PERSON",
+      "start_char": 31905,
+      "end_char": 31916
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 32144,
+      "end_char": 32154
+    },
+    {
+      "text": "Sub-Section (3) of Section 9",
+      "label": "PROVISION",
+      "start_char": 32173,
+      "end_char": 32201
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 32503,
+      "end_char": 32513
+    },
+    {
+      "text": "Section 9(1)",
+      "label": "PROVISION",
+      "start_char": 32610,
+      "end_char": 32622
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 32630,
+      "end_char": 32645
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 32647,
+      "end_char": 32657
+    },
+    {
+      "text": "Section 9(1)",
+      "label": "PROVISION",
+      "start_char": 32779,
+      "end_char": 32791
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 32902,
+      "end_char": 32912
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 33142,
+      "end_char": 33152
+    },
+    {
+      "text": "Section 9(1)",
+      "label": "PROVISION",
+      "start_char": 33191,
+      "end_char": 33203
+    },
+    {
+      "text": "State Bank of India",
+      "label": "ORG",
+      "start_char": 33626,
+      "end_char": 33645
+    },
+    {
+      "text": "S.N. Goyal",
+      "label": "PRECEDENT",
+      "start_char": 33658,
+      "end_char": 33668
+    },
+    {
+      "text": "State Bank of India",
+      "label": "ORG",
+      "start_char": 34135,
+      "end_char": 34154
+    },
+    {
+      "text": "S. N. Goyal",
+      "label": "PRECEDENT",
+      "start_char": 34167,
+      "end_char": 34178
+    },
+    {
+      "text": "Deep Chand & Ors v. Land Acquisition Officer",
+      "label": "PRECEDENT",
+      "start_char": 34297,
+      "end_char": 34341
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 34364,
+      "end_char": 34372
+    },
+    {
+      "text": "Section 49",
+      "label": "PROVISION",
+      "start_char": 34417,
+      "end_char": 34427
+    },
+    {
+      "text": "Land Acquisition Act 1894",
+      "label": "STATUTE",
+      "start_char": 34435,
+      "end_char": 34460
+    },
+    {
+      "text": "Black",
+      "label": "OTHER_PERSON",
+      "start_char": 34643,
+      "end_char": 34648
+    },
+    {
+      "text": "Section 49",
+      "label": "PROVISION",
+      "start_char": 35116,
+      "end_char": 35126
+    },
+    {
+      "text": "Land Acquisition Act",
+      "label": "STATUTE",
+      "start_char": 35134,
+      "end_char": 35154
+    },
+    {
+      "text": "Section 49(1)",
+      "label": "PROVISION",
+      "start_char": 35325,
+      "end_char": 35338
+    },
+    {
+      "text": "A.V. Venkateswaran",
+      "label": "OTHER_PERSON",
+      "start_char": 35716,
+      "end_char": 35734
+    },
+    {
+      "text": "Collector of Customs, Bombay v Ramchand Sobhraj Wadhwani and Anr",
+      "label": "PRECEDENT",
+      "start_char": 35736,
+      "end_char": 35800
+    },
+    {
+      "text": "Manbhupinder Singh Atwal v. Neeraj Kumarpal Shah",
+      "label": "PRECEDENT",
+      "start_char": 35939,
+      "end_char": 35987
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 36119,
+      "end_char": 36129
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 36454,
+      "end_char": 36464
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 36791,
+      "end_char": 36801
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 36920,
+      "end_char": 36929
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 36937,
+      "end_char": 36952
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 36954,
+      "end_char": 36964
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 36972,
+      "end_char": 36987
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 37107,
+      "end_char": 37115
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 37156,
+      "end_char": 37165
+    },
+    {
+      "text": "Firm Ashok Traders",
+      "label": "ORG",
+      "start_char": 37247,
+      "end_char": 37265
+    },
+    {
+      "text": "Gurumukh Das Saluja",
+      "label": "RESPONDENT",
+      "start_char": 37278,
+      "end_char": 37297
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 37444,
+      "end_char": 37453
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 37461,
+      "end_char": 37476
+    },
+    {
+      "text": "Sibal",
+      "label": "OTHER_PERSON",
+      "start_char": 37500,
+      "end_char": 37505
+    },
+    {
+      "text": "Tufan Chatterjee",
+      "label": "PRECEDENT",
+      "start_char": 37510,
+      "end_char": 37526
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 37578,
+      "end_char": 37587
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 37595,
+      "end_char": 37610
+    },
+    {
+      "text": "Section 26",
+      "label": "PROVISION",
+      "start_char": 37627,
+      "end_char": 37637
+    },
+    {
+      "text": "Amendment Act (Act 3 of 2016",
+      "label": "STATUTE",
+      "start_char": 37645,
+      "end_char": 37673
+    },
+    {
+      "text": "23rd October 2015",
+      "label": "DATE",
+      "start_char": 37933,
+      "end_char": 37950
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 38160,
+      "end_char": 38170
+    },
+    {
+      "text": "Kapil Sibal",
+      "label": "OTHER_PERSON",
+      "start_char": 38223,
+      "end_char": 38234
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 38305,
+      "end_char": 38314
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 38322,
+      "end_char": 38337
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 38415,
+      "end_char": 38425
+    },
+    {
+      "text": "Tufan Chatterjee",
+      "label": "PRECEDENT",
+      "start_char": 38479,
+      "end_char": 38495
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 38716,
+      "end_char": 38725
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 38793,
+      "end_char": 38803
+    },
+    {
+      "text": "Tufan Chatterjee",
+      "label": "PRECEDENT",
+      "start_char": 38890,
+      "end_char": 38906
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 39030,
+      "end_char": 39039
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 39047,
+      "end_char": 39062
+    },
+    {
+      "text": "Section 9(1)",
+      "label": "PROVISION",
+      "start_char": 39211,
+      "end_char": 39223
+    },
+    {
+      "text": "Bhattacharya",
+      "label": "OTHER_PERSON",
+      "start_char": 39343,
+      "end_char": 39355
+    },
+    {
+      "text": "Martin & Harris Ltd. v. 6th Additional District Judge reported in (1998) 1 SCC 732",
+      "label": "PRECEDENT",
+      "start_char": 39526,
+      "end_char": 39608
+    },
+    {
+      "text": "Bhattacharya",
+      "label": "OTHER_PERSON",
+      "start_char": 39622,
+      "end_char": 39634
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 39640,
+      "end_char": 39653
+    },
+    {
+      "text": "U.P. Urban Buildings (Regulation of Letting, Rent and Eviction) Act, 1972",
+      "label": "STATUTE",
+      "start_char": 39719,
+      "end_char": 39792
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 39930,
+      "end_char": 39944
+    },
+    {
+      "text": "Section 26",
+      "label": "PROVISION",
+      "start_char": 40025,
+      "end_char": 40035
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 40095,
+      "end_char": 40104
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 40143,
+      "end_char": 40155
+    },
+    {
+      "text": "Amendment Act of 2015",
+      "label": "STATUTE",
+      "start_char": 40269,
+      "end_char": 40290
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 40305,
+      "end_char": 40315
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 40436,
+      "end_char": 40445
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 40478,
+      "end_char": 40488
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 40555,
+      "end_char": 40564
+    },
+    {
+      "text": "Civil Procedure Code",
+      "label": "STATUTE",
+      "start_char": 40594,
+      "end_char": 40614
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 40728,
+      "end_char": 40737
+    },
+    {
+      "text": "Energo Engineering Projects Ltd. v. TRF Limited",
+      "label": "PRECEDENT",
+      "start_char": 40852,
+      "end_char": 40899
+    },
+    {
+      "text": "Indira Banerjee",
+      "label": "JUDGE",
+      "start_char": 40931,
+      "end_char": 40946
+    },
+    {
+      "text": "Division Bench of Delhi High Court",
+      "label": "COURT",
+      "start_char": 40955,
+      "end_char": 40989
+    },
+    {
+      "text": "Section 9(1)",
+      "label": "PROVISION",
+      "start_char": 41026,
+      "end_char": 41038
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 41044,
+      "end_char": 41056
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 41200,
+      "end_char": 41212
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 41374,
+      "end_char": 41383
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 41467,
+      "end_char": 41477
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 41636,
+      "end_char": 41646
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 41910,
+      "end_char": 41919
+    },
+    {
+      "text": "1996 Act",
+      "label": "STATUTE",
+      "start_char": 41927,
+      "end_char": 41935
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 42158,
+      "end_char": 42167
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 42323,
+      "end_char": 42333
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 42492,
+      "end_char": 42502
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 42776,
+      "end_char": 42786
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 43037,
+      "end_char": 43047
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 43663,
+      "end_char": 43672
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 43865,
+      "end_char": 43875
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 43970,
+      "end_char": 43980
+    },
+    {
+      "text": "Energo Engineering Projects Ltd. v. TRF Limited",
+      "label": "PRECEDENT",
+      "start_char": 44000,
+      "end_char": 44047
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 44092,
+      "end_char": 44102
+    },
+    {
+      "text": "Banara Bearings & Pistons Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 44219,
+      "end_char": 44249
+    },
+    {
+      "text": "Sibal",
+      "label": "OTHER_PERSON",
+      "start_char": 44271,
+      "end_char": 44276
+    },
+    {
+      "text": "Division Bench of the Delhi High Court",
+      "label": "COURT",
+      "start_char": 44279,
+      "end_char": 44317
+    },
+    {
+      "text": "Badar Durrez Ahmed",
+      "label": "JUDGE",
+      "start_char": 44336,
+      "end_char": 44354
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 44398,
+      "end_char": 44410
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 44749,
+      "end_char": 44758
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 45083,
+      "end_char": 45093
+    },
+    {
+      "text": "Section 9(1)",
+      "label": "PROVISION",
+      "start_char": 45167,
+      "end_char": 45179
+    },
+    {
+      "text": "sub-section (1) of Section 9",
+      "label": "PROVISION",
+      "start_char": 45341,
+      "end_char": 45369
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 45387,
+      "end_char": 45399
+    },
+    {
+      "text": "Section 9(1)",
+      "label": "PROVISION",
+      "start_char": 45466,
+      "end_char": 45478
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 45563,
+      "end_char": 45573
+    },
+    {
+      "text": "Section 9(1)",
+      "label": "PROVISION",
+      "start_char": 45745,
+      "end_char": 45757
+    },
+    {
+      "text": "M. Ashraf v. Kasim V.K.16",
+      "label": "PRECEDENT",
+      "start_char": 45859,
+      "end_char": 45884
+    },
+    {
+      "text": "Kerala High Court",
+      "label": "COURT",
+      "start_char": 45909,
+      "end_char": 45926
+    },
+    {
+      "text": "R. Narayana Pisharadi",
+      "label": "JUDGE",
+      "start_char": 45944,
+      "end_char": 45965
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 46038,
+      "end_char": 46050
+    },
+    {
+      "text": "Section 9(1)",
+      "label": "PROVISION",
+      "start_char": 46120,
+      "end_char": 46132
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 46168,
+      "end_char": 46180
+    },
+    {
+      "text": "Section 9(1)",
+      "label": "PROVISION",
+      "start_char": 46301,
+      "end_char": 46313
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 46420,
+      "end_char": 46430
+    },
+    {
+      "text": "Section 9(1)",
+      "label": "PROVISION",
+      "start_char": 46505,
+      "end_char": 46517
+    },
+    {
+      "text": "Section 9(1)",
+      "label": "PROVISION",
+      "start_char": 46637,
+      "end_char": 46649
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 46818,
+      "end_char": 46828
+    },
+    {
+      "text": "Section 9(1)",
+      "label": "PROVISION",
+      "start_char": 46881,
+      "end_char": 46893
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 47044,
+      "end_char": 47054
+    },
+    {
+      "text": "Srei Equipment Finance Limited (Sefl) v. Ray Infra Services Private Limited & Anr",
+      "label": "PRECEDENT",
+      "start_char": 47088,
+      "end_char": 47169
+    },
+    {
+      "text": "Indira 16 (2018",
+      "label": "DATE",
+      "start_char": 47197,
+      "end_char": 47212
+    },
+    {
+      "text": "SCC OnLine Ker 4913",
+      "label": "CASE_NUMBER",
+      "start_char": 47214,
+      "end_char": 47233
+    },
+    {
+      "text": "SCC OnLine Cal 6765",
+      "label": "CASE_NUMBER",
+      "start_char": 47245,
+      "end_char": 47264
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 47301,
+      "end_char": 47320
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 47337,
+      "end_char": 47346
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 47354,
+      "end_char": 47392
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 47546,
+      "end_char": 47556
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 47579,
+      "end_char": 47588
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 47743,
+      "end_char": 47752
+    },
+    {
+      "text": "Arbitration and Conciliation (Amendment) Act of 2015",
+      "label": "STATUTE",
+      "start_char": 48070,
+      "end_char": 48122
+    },
+    {
+      "text": "23rd October, 2015",
+      "label": "DATE",
+      "start_char": 48140,
+      "end_char": 48158
+    },
+    {
+      "text": "Section 9(1)",
+      "label": "PROVISION",
+      "start_char": 48211,
+      "end_char": 48223
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 48231,
+      "end_char": 48269
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 48416,
+      "end_char": 48426
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 48786,
+      "end_char": 48796
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 48804,
+      "end_char": 48842
+    },
+    {
+      "text": "Avantha Holdings Limited v. Vistra ITCL India Limited18",
+      "label": "PRECEDENT",
+      "start_char": 49049,
+      "end_char": 49104
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 49127,
+      "end_char": 49143
+    },
+    {
+      "text": "C. Hari Shankar",
+      "label": "JUDGE",
+      "start_char": 49145,
+      "end_char": 49160
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 49221,
+      "end_char": 49230
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 49337,
+      "end_char": 49347
+    },
+    {
+      "text": "Section 9, and Section 17",
+      "label": "PROVISION",
+      "start_char": 49378,
+      "end_char": 49403
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 49541,
+      "end_char": 49551
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 49620,
+      "end_char": 49629
+    },
+    {
+      "text": "sub-section (3) of Section 9",
+      "label": "PROVISION",
+      "start_char": 49658,
+      "end_char": 49686
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 49895,
+      "end_char": 49905
+    },
+    {
+      "text": "2020 SCC OnLine Del 1717",
+      "label": "PRECEDENT",
+      "start_char": 49946,
+      "end_char": 49970
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 50001,
+      "end_char": 50010
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 50254,
+      "end_char": 50270
+    },
+    {
+      "text": "Avantha Holdings Limited",
+      "label": "PRECEDENT",
+      "start_char": 50274,
+      "end_char": 50298
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 50387,
+      "end_char": 50396
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 50575,
+      "end_char": 50587
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 50736,
+      "end_char": 50746
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 50837,
+      "end_char": 50846
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 50854,
+      "end_char": 50869
+    },
+    {
+      "text": "Lakshmi Rattan Engineering Works Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 51286,
+      "end_char": 51323
+    },
+    {
+      "text": "Allahabad High Court",
+      "label": "COURT",
+      "start_char": 51416,
+      "end_char": 51436
+    },
+    {
+      "text": "Dhoom Chand Jain v. Chamanlal Gupta [AIR 1962 All 543]",
+      "label": "PRECEDENT",
+      "start_char": 51720,
+      "end_char": 51774
+    },
+    {
+      "text": "Desai",
+      "label": "JUDGE",
+      "start_char": 51810,
+      "end_char": 51815
+    },
+    {
+      "text": "Dwivedi",
+      "label": "JUDGE",
+      "start_char": 51831,
+      "end_char": 51838
+    },
+    {
+      "text": "Dwivedi",
+      "label": "JUDGE",
+      "start_char": 51910,
+      "end_char": 51917
+    },
+    {
+      "text": "Bawan Ram v. Kunj Beharilal [AIR 1961 All 42]",
+      "label": "PRECEDENT",
+      "start_char": 52223,
+      "end_char": 52268
+    },
+    {
+      "text": "Bhargava",
+      "label": "JUDGE",
+      "start_char": 52280,
+      "end_char": 52288
+    },
+    {
+      "text": "Allahabad High Court",
+      "label": "COURT",
+      "start_char": 53011,
+      "end_char": 53031
+    },
+    {
+      "text": "Haji Rahim Bux & Sons v. Firm Samiullah & Sons [AIR 1963 All 326]",
+      "label": "PRECEDENT",
+      "start_char": 53044,
+      "end_char": 53109
+    },
+    {
+      "text": "Desai",
+      "label": "JUDGE",
+      "start_char": 53155,
+      "end_char": 53160
+    },
+    {
+      "text": "S.D.",
+      "label": "JUDGE",
+      "start_char": 53176,
+      "end_char": 53180
+    },
+    {
+      "text": "Singh",
+      "label": "OTHER_PERSON",
+      "start_char": 53181,
+      "end_char": 53186
+    },
+    {
+      "text": "Order 21, Rule 90",
+      "label": "PROVISION",
+      "start_char": 53212,
+      "end_char": 53229
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 53581,
+      "end_char": 53590
+    },
+    {
+      "text": "Kundan Lal v Jagan Nath Sharma and Ors",
+      "label": "PRECEDENT",
+      "start_char": 53759,
+      "end_char": 53797
+    },
+    {
+      "text": "Allahabad High Court",
+      "label": "COURT",
+      "start_char": 53828,
+      "end_char": 53848
+    },
+    {
+      "text": "Hindustan Commercial Bank Ltd. v Punnu Sahu",
+      "label": "PRECEDENT",
+      "start_char": 55034,
+      "end_char": 55077
+    },
+    {
+      "text": "Allahabad High Court",
+      "label": "COURT",
+      "start_char": 55195,
+      "end_char": 55215
+    },
+    {
+      "text": "Martin & Haris Limited",
+      "label": "PRECEDENT",
+      "start_char": 55324,
+      "end_char": 55346
+    },
+    {
+      "text": "Section 21",
+      "label": "PROVISION",
+      "start_char": 55393,
+      "end_char": 55403
+    },
+    {
+      "text": "U.P. Urban Buildings (Regulation of Letting, Rent and Eviction) Act, 1972",
+      "label": "STATUTE",
+      "start_char": 55411,
+      "end_char": 55484
+    },
+    {
+      "text": "Section 21(1)",
+      "label": "PROVISION",
+      "start_char": 56090,
+      "end_char": 56103
+    },
+    {
+      "text": "Rao",
+      "label": "OTHER_PERSON",
+      "start_char": 56354,
+      "end_char": 56357
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 56667,
+      "end_char": 56675
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 56764,
+      "end_char": 56773
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 56817,
+      "end_char": 56827
+    },
+    {
+      "text": "Sibal",
+      "label": "OTHER_PERSON",
+      "start_char": 57047,
+      "end_char": 57052
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 57094,
+      "end_char": 57106
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 57247,
+      "end_char": 57257
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 57265,
+      "end_char": 57280
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 57312,
+      "end_char": 57321
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 57327,
+      "end_char": 57337
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 57345,
+      "end_char": 57360
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 57564,
+      "end_char": 57574
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 57702,
+      "end_char": 57714
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 57900,
+      "end_char": 57908
+    },
+    {
+      "text": "Section 9(1)",
+      "label": "PROVISION",
+      "start_char": 58480,
+      "end_char": 58492
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 59522,
+      "end_char": 59531
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 59632,
+      "end_char": 59642
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 59832,
+      "end_char": 59842
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 60092,
+      "end_char": 60102
+    },
+    {
+      "text": "Section 9(1)",
+      "label": "PROVISION",
+      "start_char": 60383,
+      "end_char": 60395
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 60425,
+      "end_char": 60433
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 60513,
+      "end_char": 60525
+    },
+    {
+      "text": "UNCITRAL",
+      "label": "STATUTE",
+      "start_char": 60687,
+      "end_char": 60695
+    },
+    {
+      "text": "Amazon.com NV Investment Holdings LLC v. Future Retail",
+      "label": "PRECEDENT",
+      "start_char": 60866,
+      "end_char": 60920
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 60956,
+      "end_char": 60968
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 61027,
+      "end_char": 61036
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 61044,
+      "end_char": 61059
+    },
+    {
+      "text": "Chloro Controls India Private Limited v. Severn Trent Water Purification Inc.19",
+      "label": "PRECEDENT",
+      "start_char": 61419,
+      "end_char": 61498
+    },
+    {
+      "text": "Vidya Drolia",
+      "label": "OTHER_PERSON",
+      "start_char": 62126,
+      "end_char": 62138
+    },
+    {
+      "text": "Durga Trading Corporation20",
+      "label": "RESPONDENT",
+      "start_char": 62151,
+      "end_char": 62178
+    },
+    {
+      "text": "19 (2013) 1",
+      "label": "DATE",
+      "start_char": 62510,
+      "end_char": 62521
+    },
+    {
+      "text": "SCC 641 20 (2021) 2 SCC 1",
+      "label": "CASE_NUMBER",
+      "start_char": 62522,
+      "end_char": 62547
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 63318,
+      "end_char": 63333
+    },
+    {
+      "text": "Vidya Drolia",
+      "label": "PRECEDENT",
+      "start_char": 63372,
+      "end_char": 63384
+    },
+    {
+      "text": "Vidya Drolia",
+      "label": "PRECEDENT",
+      "start_char": 63633,
+      "end_char": 63645
+    },
+    {
+      "text": "Section 9(1)",
+      "label": "PROVISION",
+      "start_char": 63740,
+      "end_char": 63752
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 64035,
+      "end_char": 64045
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 64053,
+      "end_char": 64068
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 64081,
+      "end_char": 64093
+    },
+    {
+      "text": "Section 9(1)",
+      "label": "PROVISION",
+      "start_char": 64131,
+      "end_char": 64143
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 64288,
+      "end_char": 64297
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 65031,
+      "end_char": 65041
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 65071,
+      "end_char": 65080
+    },
+    {
+      "text": "INDIRA BANERJEE",
+      "label": "JUDGE",
+      "start_char": 65252,
+      "end_char": 65267
+    },
+    {
+      "text": "J. K. MAHESHWARI",
+      "label": "JUDGE",
+      "start_char": 65290,
+      "end_char": 65306
+    },
+    {
+      "text": "NEW DELHI",
+      "label": "GPE",
+      "start_char": 65309,
+      "end_char": 65318
+    },
+    {
+      "text": "SEPTEMBER 14, 2021",
+      "label": "DATE",
+      "start_char": 65320,
+      "end_char": 65338
+    }
+  ],
+  "precedent_clusters": {
+    "Srei Equipment Finance Limited (Sefl) v. Ray Infra Services Private Limited & Anr": [
+      "Amazon.com NV Investment Holdings LLC v. Future Retail Limited & Ors.1",
+      "State Bank of India v. S. N. Goyal",
+      "Deep Chand & Ors v. Land Acquisition Officer & Others3",
+      "A.V. Venkateswaran, Collector of Customs, Bombay v. Ramchand",
+      "Manbhupinder Singh Atwal v. Neeraj Kumarpal Shah5",
+      "Tufan Chatterjee v. Sri",
+      "Energo Engineering Projects Limited v. TRF Ltd8",
+      "Energo Engineering Project Limited v. TRF Limited",
+      "Lakshmi Rattan Engineering Works Ltd. v Asstt",
+      "Kundan Lal v. Jagan Nath Sharma",
+      "Hindustan Commercial Bank Ltd. v Punnu Sahu11",
+      "Martin & Harris Ltd.",
+      "Benara Bearings and Pistons Limited v. Mahle Engine Components India Private Limited13",
+      "Energo Engineering Projects Limited v. TRF Limited",
+      "Anil Kunj Bihari Saraf v. Namboodas S/o Shankarlal and Ors",
+      "Kundanlal v. Jagan Nath Sharma",
+      "SCC Online Del 7226",
+      "SCC Online MP 112 (Paras 5-12)",
+      "Deep Chand & Ors v. Land Acquisition Officer",
+      "Collector of Customs, Bombay v Ramchand Sobhraj Wadhwani and Anr",
+      "Manbhupinder Singh Atwal v. Neeraj Kumarpal Shah",
+      "Energo Engineering Projects Ltd. v. TRF Limited",
+      "Energo Engineering Projects Ltd. v. TRF Limited",
+      "M. Ashraf v. Kasim V.K.16",
+      "Srei Equipment Finance Limited (Sefl) v. Ray Infra Services Private Limited & Anr",
+      "Avantha Holdings Limited v. Vistra ITCL India Limited18",
+      "Kundan Lal v Jagan Nath Sharma and Ors",
+      "Hindustan Commercial Bank Ltd. v Punnu Sahu",
+      "Amazon.com NV Investment Holdings LLC v. Future Retail",
+      "Chloro Controls India Private Limited v. Severn Trent Water Purification Inc.19",
+      "Tufan Chatterjee",
+      "Tufan Chatterjee",
+      "Lakshmi Rattan Engineering Works Ltd.",
+      "S.N. Goyal",
+      "S. N. Goyal",
+      "Tufan Chatterjee",
+      "Tufan Chatterjee",
+      "Tufan Chatterjee",
+      "Avantha Holdings Limited",
+      "Lakshmi Rattan Engineering Works Ltd."
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 9(1)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 9(1)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 9(3)",
+      "Arbitration Act",
+      "Section 9(3)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(1)",
+      "Arbitration Act",
+      "Section 9(1)",
+      "Arbitration Act"
+    ],
+    [
+      "Article 15",
+      "Cargo Handling Agreement",
+      "Article 15",
+      "Cargo Handling Agreement"
+    ],
+    [
+      "Section 11",
+      "Arbitration Act",
+      "Section 11",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(1)",
+      "Arbitration and Conciliation (Amendment) Act (Act 3 of 2016)",
+      "Section 9(1)",
+      "Arbitration and Conciliation (Amendment) Act (Act 3 of 2016)"
+    ],
+    [
+      "Section 37",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "Section 37",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "Section 9(1)",
+      "Arbitration Act",
+      "Section 9(1)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 11(6)",
+      "Arbitration Act",
+      "Section 11(6)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(3)",
+      "Arbitration Act",
+      "Section 9(3)",
+      "Arbitration Act"
+    ],
+    [
+      "sub-Section (1) of Section 9",
+      "Arbitration Act",
+      "sub-Section (1) of Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(3)",
+      "Arbitration Act",
+      "Section 9(3)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "ACA",
+      "Section 9",
+      "ACA"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(3)",
+      "Arbitration Act",
+      "Section 9(3)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(1)",
+      "Arbitration Act",
+      "Section 9(1)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(1)",
+      "Arbitration Act",
+      "Section 9(1)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 11(4)(a)",
+      "Arbitration Act",
+      "Section 11(4)(a)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 11",
+      "Arbitration Act",
+      "Section 11",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(3)",
+      "Arbitration Act",
+      "Section 9(3)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(3)",
+      "Arbitration Act",
+      "Section 9(3)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Article 227",
+      "Arbitration Act",
+      "Article 227",
+      "Arbitration Act"
+    ],
+    [
+      "Article 227",
+      "Arbitration Act",
+      "Article 227",
+      "Arbitration Act"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Section 9(1)",
+      "Arbitration Act",
+      "Section 9(1)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(3)",
+      "Arbitration Act",
+      "Section 9(3)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(3)",
+      "Arbitration Act",
+      "Section 9(3)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(3)",
+      "Arbitration Act",
+      "Section 9(3)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(3)",
+      "Arbitration Act",
+      "Section 9(3)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(1)",
+      "Arbitration Act",
+      "Section 9(1)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(3)",
+      "Arbitration Act",
+      "Section 9(3)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(1)",
+      "Arbitration Act",
+      "Section 9(1)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act",
+      "Section 36",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(1)",
+      "Arbitration Act",
+      "Section 9(1)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act",
+      "Section 36",
+      "Arbitration Act"
+    ],
+    [
+      "sub-Section (3) of Section 9",
+      "Arbitration Act",
+      "sub-Section (3) of Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(1)",
+      "Arbitration Act",
+      "Section 9(1)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 49",
+      "Land Acquisition Act 1894",
+      "Section 49",
+      "Land Acquisition Act 1894"
+    ],
+    [
+      "Section 49",
+      "Land Acquisition Act",
+      "Section 49",
+      "Land Acquisition Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 11",
+      "Arbitration Act",
+      "Section 11",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 26",
+      "Amendment Act (Act 3 of 2016",
+      "Section 26",
+      "Amendment Act (Act 3 of 2016"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Civil Procedure Code",
+      "Section 9",
+      "Civil Procedure Code"
+    ],
+    [
+      "Section 9",
+      "1996 Act",
+      "Section 9",
+      "1996 Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 9",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 9(1)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 9(1)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 17",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 17",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 21",
+      "U.P. Urban Buildings (Regulation of Letting, Rent and Eviction) Act, 1972",
+      "Section 21",
+      "U.P. Urban Buildings (Regulation of Letting, Rent and Eviction) Act, 1972"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act",
+      "Section 36",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act",
+      "Section 36",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(3)",
+      "Arbitration Act",
+      "Section 9(3)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(3)",
+      "Arbitration Act",
+      "Section 9(3)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(1)",
+      "Arbitration Act",
+      "Section 9(1)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(3)",
+      "Arbitration Act",
+      "Section 9(3)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(3)",
+      "Arbitration Act",
+      "Section 9(3)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(3)",
+      "ACA",
+      "Section 9(3)",
+      "ACA"
+    ],
+    [
+      "Section 9",
+      "ACA",
+      "Section 9",
+      "ACA"
+    ],
+    [
+      "Section 9(3)",
+      "ACA",
+      "Section 9(3)",
+      "ACA"
+    ],
+    [
+      "Section 9(3)",
+      "ACA",
+      "Section 9(3)",
+      "ACA"
+    ],
+    [
+      "Section 9(3)",
+      "ACA",
+      "Section 9(3)",
+      "ACA"
+    ],
+    [
+      "Section 9(3)",
+      "ACA",
+      "Section 9(3)",
+      "ACA"
+    ],
+    [
+      "Section 17(2)",
+      "Arbitration Act",
+      "Section 17(2)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "ACA",
+      "Section 9",
+      "ACA"
+    ],
+    [
+      "Section 9",
+      "ACA",
+      "Section 9",
+      "ACA"
+    ],
+    [
+      "Section 9",
+      "ACA",
+      "Section 9",
+      "ACA"
+    ],
+    [
+      "Section 9(3)",
+      "Arbitration Act",
+      "Section 9(3)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(1)",
+      "Arbitration Act",
+      "Section 9(1)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 11",
+      "Arbitration Act",
+      "Section 11",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Article 227",
+      "Arbitration Act",
+      "Article 227",
+      "Arbitration Act"
+    ],
+    [
+      "Article 227",
+      "Arbitration Act",
+      "Article 227",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "sub-section (3) of section 9",
+      "Arbitration Act",
+      "sub-section (3) of section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Sub-Section (3) of Section 9",
+      "Arbitration Act",
+      "Sub-Section (3) of Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(1)",
+      "Arbitration Act",
+      "Section 9(1)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(1)",
+      "Arbitration Act",
+      "Section 9(1)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 49(1)",
+      "Land Acquisition Act 1894",
+      "Section 49(1)",
+      "Land Acquisition Act 1894"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(1)",
+      "Arbitration Act",
+      "Section 9(1)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 26",
+      "Amendment Act (Act 3 of 2016",
+      "Section 26",
+      "Amendment Act (Act 3 of 2016"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(3)",
+      "Arbitration Act",
+      "Section 9(3)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Civil Procedure Code",
+      "Section 9",
+      "Civil Procedure Code"
+    ],
+    [
+      "Section 9(1)",
+      "Civil Procedure Code",
+      "Section 9(1)",
+      "Civil Procedure Code"
+    ],
+    [
+      "Section 9(3)",
+      "Civil Procedure Code",
+      "Section 9(3)",
+      "Civil Procedure Code"
+    ],
+    [
+      "Section 9(3)",
+      "Civil Procedure Code",
+      "Section 9(3)",
+      "Civil Procedure Code"
+    ],
+    [
+      "Section 9",
+      "Civil Procedure Code",
+      "Section 9",
+      "Civil Procedure Code"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "1996 Act",
+      "Section 9",
+      "1996 Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "1996 Act",
+      "Section 9",
+      "1996 Act"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act",
+      "Section 36",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(3)",
+      "1996 Act",
+      "Section 9(3)",
+      "1996 Act"
+    ],
+    [
+      "Section 9",
+      "1996 Act",
+      "Section 9",
+      "1996 Act"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act",
+      "Section 36",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(1)",
+      "1996 Act",
+      "Section 9(1)",
+      "1996 Act"
+    ],
+    [
+      "sub-section (1) of Section 9",
+      "1996 Act",
+      "sub-section (1) of Section 9",
+      "1996 Act"
+    ],
+    [
+      "Section 9(3)",
+      "1996 Act",
+      "Section 9(3)",
+      "1996 Act"
+    ],
+    [
+      "Section 9(1)",
+      "1996 Act",
+      "Section 9(1)",
+      "1996 Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(1)",
+      "1996 Act",
+      "Section 9(1)",
+      "1996 Act"
+    ],
+    [
+      "Section 9(3)",
+      "1996 Act",
+      "Section 9(3)",
+      "1996 Act"
+    ],
+    [
+      "Section 9(1)",
+      "1996 Act",
+      "Section 9(1)",
+      "1996 Act"
+    ],
+    [
+      "Section 9(3)",
+      "1996 Act",
+      "Section 9(3)",
+      "1996 Act"
+    ],
+    [
+      "Section 9(1)",
+      "1996 Act",
+      "Section 9(1)",
+      "1996 Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(1)",
+      "1996 Act",
+      "Section 9(1)",
+      "1996 Act"
+    ],
+    [
+      "Section 9(1)",
+      "1996 Act",
+      "Section 9(1)",
+      "1996 Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(1)",
+      "1996 Act",
+      "Section 9(1)",
+      "1996 Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act",
+      "Section 36",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 9",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 9",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 9",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 9",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 17",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 17",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 9, and Section 17",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 9, and Section 17",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 17",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 17",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 9",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 9",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "sub-section (3) of Section 9",
+      "Arbitration and Conciliation Act, 1996",
+      "sub-section (3) of Section 9",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 17",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 17",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 9",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 9",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 9",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 9",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 9(3)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 9(3)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 17",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 17",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 21(1)",
+      "U.P. Urban Buildings (Regulation of Letting, Rent and Eviction) Act, 1972",
+      "Section 21(1)",
+      "U.P. Urban Buildings (Regulation of Letting, Rent and Eviction) Act, 1972"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 17",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 9(3)",
+      "Arbitration Act",
+      "Section 9(3)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(3)",
+      "Arbitration Act",
+      "Section 9(3)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(1)",
+      "Arbitration Act",
+      "Section 9(1)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(1)",
+      "Arbitration Act",
+      "Section 9(1)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(3)",
+      "Arbitration Act",
+      "Section 9(3)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(3)",
+      "Arbitration Act",
+      "Section 9(3)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(1)",
+      "Arbitration Act",
+      "Section 9(1)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(3)",
+      "Arbitration Act",
+      "Section 9(3)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(1)",
+      "Arbitration Act",
+      "Section 9(1)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Order 21, Rule 90",
+      "Arbitration Act",
+      "Order 21, Rule 90",
+      "Arbitration Act"
+    ]
+  ],
+  "precedent_counts": {
+    "Srei Equipment Finance Limited (Sefl) v. Ray Infra Services Private Limited & Anr": 40
+  },
+  "provision_counts": {
+    "Section 9(1) of Arbitration and Conciliation Act, 1996": 2,
+    "Section 9(3) of Arbitration Act": 22,
+    "Section 9(1) of Arbitration Act": 18,
+    "Article 15 of Cargo Handling Agreement": 1,
+    "Section 11 of Arbitration Act": 4,
+    "Section 9 of Arbitration Act": 55,
+    "Section 9(1) of Arbitration and Conciliation (Amendment) Act (Act 3 of 2016)": 1,
+    "Section 37 of Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Section 11(6) of Arbitration Act": 1,
+    "Article 227 of Constitution of India": 3,
+    "Article 227 of Constitution": 2,
+    "Section 17 of Arbitration Act": 48,
+    "sub-Section (1) of Section 9 of Arbitration Act": 1,
+    "Section 9 of ACA": 5,
+    "Section 11(4)(a) of Arbitration Act": 1,
+    "Article 227 of Arbitration Act": 4,
+    "Section 36 of Arbitration Act": 7,
+    "sub-Section (3) of Section 9 of Arbitration Act": 1,
+    "Section 49 of Land Acquisition Act 1894": 1,
+    "Section 49 of Land Acquisition Act": 1,
+    "Section 26 of Amendment Act (Act 3 of 2016": 2,
+    "Section 9 of Civil Procedure Code": 3,
+    "Section 9 of 1996 Act": 4,
+    "Section 9 of Arbitration and Conciliation Act, 1996": 7,
+    "Section 17 of Arbitration and Conciliation Act, 1996": 6,
+    "Section 21 of U.P. Urban Buildings (Regulation of Letting, Rent and Eviction) Act, 1972": 1,
+    "Section 9(3) of ACA": 5,
+    "Section 17(2) of Arbitration Act": 1,
+    "sub-section (3) of section 9 of Arbitration Act": 1,
+    "Sub-Section (3) of Section 9 of Arbitration Act": 1,
+    "Section 49(1) of Land Acquisition Act 1894": 1,
+    "Section 9(1) of Civil Procedure Code": 1,
+    "Section 9(3) of Civil Procedure Code": 2,
+    "Section 9(3) of 1996 Act": 4,
+    "Section 9(1) of 1996 Act": 8,
+    "sub-section (1) of Section 9 of 1996 Act": 1,
+    "Section 9, and Section 17 of Arbitration and Conciliation Act, 1996": 1,
+    "sub-section (3) of Section 9 of Arbitration and Conciliation Act, 1996": 1,
+    "Section 9(3) of Arbitration and Conciliation Act, 1996": 1,
+    "Section 21(1) of U.P. Urban Buildings (Regulation of Letting, Rent and Eviction) Act, 1972": 1,
+    "Order 21, Rule 90 of Arbitration Act": 1
+  },
+  "statute_counts": {
+    "Arbitration and Conciliation Act, 1996": 18,
+    "Arbitration Act": 166,
+    "Cargo Handling Agreement": 1,
+    "Arbitration and Conciliation (Amendment) Act (Act 3 of 2016)": 1,
+    "Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Constitution of India": 3,
+    "Constitution": 2,
+    "ACA": 10,
+    "Land Acquisition Act 1894": 2,
+    "Land Acquisition Act": 1,
+    "Amendment Act (Act 3 of 2016": 2,
+    "Civil Procedure Code": 6,
+    "1996 Act": 17,
+    "U.P. Urban Buildings (Regulation of Letting, Rent and Eviction) Act, 1972": 2
+  }
+}

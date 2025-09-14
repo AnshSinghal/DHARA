@@ -1,0 +1,1439 @@
+{
+  "entities": [
+    {
+      "text": "Supreme Court of India",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 22
+    },
+    {
+      "text": "Reva Electric Car Co.P.Ltd vs M/S",
+      "label": "PRECEDENT",
+      "start_char": 27,
+      "end_char": 60
+    },
+    {
+      "text": "Green Mobil",
+      "label": "RESPONDENT",
+      "start_char": 61,
+      "end_char": 72
+    },
+    {
+      "text": "Supreme Court Of India",
+      "label": "COURT",
+      "start_char": 545,
+      "end_char": 567
+    },
+    {
+      "text": "Reva Electric Car Co. P. Ltd.",
+      "label": "PETITIONER",
+      "start_char": 687,
+      "end_char": 716
+    },
+    {
+      "text": "Green Mobil",
+      "label": "RESPONDENT",
+      "start_char": 811,
+      "end_char": 822
+    },
+    {
+      "text": "SURINDER SINGH NIJJAR",
+      "label": "JUDGE",
+      "start_char": 940,
+      "end_char": 961
+    },
+    {
+      "text": "Sections 11(4) and (6)",
+      "label": "PROVISION",
+      "start_char": 1024,
+      "end_char": 1046
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 1054,
+      "end_char": 1092
+    },
+    {
+      "text": "India Scheme, 1996",
+      "label": "STATUTE",
+      "start_char": 1177,
+      "end_char": 1195
+    },
+    {
+      "text": "25th September, 2007",
+      "label": "DATE",
+      "start_char": 1324,
+      "end_char": 1344
+    },
+    {
+      "text": "22nd April, 2008",
+      "label": "DATE",
+      "start_char": 1729,
+      "end_char": 1745
+    },
+    {
+      "text": "24th August, 2008",
+      "label": "DATE",
+      "start_char": 1747,
+      "end_char": 1764
+    },
+    {
+      "text": "1st April, 2009",
+      "label": "DATE",
+      "start_char": 1770,
+      "end_char": 1785
+    },
+    {
+      "text": "Belgium",
+      "label": "GPE",
+      "start_char": 2156,
+      "end_char": 2163
+    },
+    {
+      "text": "25th September, 2009",
+      "label": "DATE",
+      "start_char": 2346,
+      "end_char": 2366
+    },
+    {
+      "text": "6th /7th /8th",
+      "label": "DATE",
+      "start_char": 2916,
+      "end_char": 2929
+    },
+    {
+      "text": "14th January, 2010",
+      "label": "DATE",
+      "start_char": 3020,
+      "end_char": 3038
+    },
+    {
+      "text": "Belgium",
+      "label": "GPE",
+      "start_char": 3091,
+      "end_char": 3098
+    },
+    {
+      "text": "First Divisional Court, Room A of the Commercial Court in Brussels",
+      "label": "COURT",
+      "start_char": 3110,
+      "end_char": 3176
+    },
+    {
+      "text": "Commercial Court, Brussels",
+      "label": "COURT",
+      "start_char": 3252,
+      "end_char": 3278
+    },
+    {
+      "text": "25th September, 2007",
+      "label": "DATE",
+      "start_char": 3432,
+      "end_char": 3452
+    },
+    {
+      "text": "15th March, 2010",
+      "label": "DATE",
+      "start_char": 3457,
+      "end_char": 3473
+    },
+    {
+      "text": "24th March, 2010",
+      "label": "DATE",
+      "start_char": 3996,
+      "end_char": 4012
+    },
+    {
+      "text": "Jayasimha Babu",
+      "label": "JUDGE",
+      "start_char": 4209,
+      "end_char": 4223
+    },
+    {
+      "text": "7th April, 2010",
+      "label": "DATE",
+      "start_char": 4495,
+      "end_char": 4510
+    },
+    {
+      "text": "25th September, 2009",
+      "label": "DATE",
+      "start_char": 4618,
+      "end_char": 4638
+    },
+    {
+      "text": "Arbitration Application No.576 of 2010",
+      "label": "CASE_NUMBER",
+      "start_char": 4677,
+      "end_char": 4715
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 4722,
+      "end_char": 4731
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 4739,
+      "end_char": 4777
+    },
+    {
+      "text": "Principal City Civil & Sessions Judge at Bangalore",
+      "label": "COURT",
+      "start_char": 4802,
+      "end_char": 4852
+    },
+    {
+      "text": "First Divisional Court, Room A of Commercial Court of Brussels, Belgium",
+      "label": "COURT",
+      "start_char": 4979,
+      "end_char": 5050
+    },
+    {
+      "text": "19th April, 2010",
+      "label": "DATE",
+      "start_char": 5123,
+      "end_char": 5139
+    },
+    {
+      "text": "Principal City Civil & Sessions Judge at Bangalore",
+      "label": "COURT",
+      "start_char": 5206,
+      "end_char": 5256
+    },
+    {
+      "text": "21st April, 2010",
+      "label": "DATE",
+      "start_char": 5260,
+      "end_char": 5276
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 5545,
+      "end_char": 5550
+    },
+    {
+      "text": "GREENMOBIL",
+      "label": "OTHER_PERSON",
+      "start_char": 6083,
+      "end_char": 6093
+    },
+    {
+      "text": "RECC",
+      "label": "ORG",
+      "start_char": 6098,
+      "end_char": 6102
+    },
+    {
+      "text": "Bangalore",
+      "label": "GPE",
+      "start_char": 6308,
+      "end_char": 6317
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 6329,
+      "end_char": 6367
+    },
+    {
+      "text": "25th September, 2007",
+      "label": "DATE",
+      "start_char": 6481,
+      "end_char": 6501
+    },
+    {
+      "text": "31st December, 2007",
+      "label": "DATE",
+      "start_char": 6513,
+      "end_char": 6532
+    },
+    {
+      "text": "1st January, 2008",
+      "label": "DATE",
+      "start_char": 6811,
+      "end_char": 6828
+    },
+    {
+      "text": "31st December, 2007",
+      "label": "DATE",
+      "start_char": 6998,
+      "end_char": 7017
+    },
+    {
+      "text": "15th November, 2007",
+      "label": "DATE",
+      "start_char": 7144,
+      "end_char": 7163
+    },
+    {
+      "text": "31st December, 2007",
+      "label": "DATE",
+      "start_char": 7343,
+      "end_char": 7362
+    },
+    {
+      "text": "Commercial Court at Brussels",
+      "label": "COURT",
+      "start_char": 7481,
+      "end_char": 7509
+    },
+    {
+      "text": "Commercial Court at Brussels",
+      "label": "COURT",
+      "start_char": 7629,
+      "end_char": 7657
+    },
+    {
+      "text": "14th January, 2010",
+      "label": "DATE",
+      "start_char": 7661,
+      "end_char": 7679
+    },
+    {
+      "text": "15th March, 2010",
+      "label": "DATE",
+      "start_char": 7756,
+      "end_char": 7772
+    },
+    {
+      "text": "24th March, 2010",
+      "label": "DATE",
+      "start_char": 7841,
+      "end_char": 7857
+    },
+    {
+      "text": "Commercial Court at Brussels",
+      "label": "COURT",
+      "start_char": 7959,
+      "end_char": 7987
+    },
+    {
+      "text": "Commercial Court at Brussels",
+      "label": "COURT",
+      "start_char": 8038,
+      "end_char": 8066
+    },
+    {
+      "text": "Narasimha",
+      "label": "OTHER_PERSON",
+      "start_char": 8305,
+      "end_char": 8314
+    },
+    {
+      "text": "25th September, 2007",
+      "label": "DATE",
+      "start_char": 8513,
+      "end_char": 8533
+    },
+    {
+      "text": "Belgium",
+      "label": "GPE",
+      "start_char": 8910,
+      "end_char": 8917
+    },
+    {
+      "text": "3rd December, 2007",
+      "label": "DATE",
+      "start_char": 9024,
+      "end_char": 9042
+    },
+    {
+      "text": "Narasimha",
+      "label": "OTHER_PERSON",
+      "start_char": 9440,
+      "end_char": 9449
+    },
+    {
+      "text": "RECC",
+      "label": "ORG",
+      "start_char": 9675,
+      "end_char": 9679
+    },
+    {
+      "text": "RECC",
+      "label": "ORG",
+      "start_char": 9737,
+      "end_char": 9741
+    },
+    {
+      "text": "Narasimha",
+      "label": "OTHER_PERSON",
+      "start_char": 10143,
+      "end_char": 10152
+    },
+    {
+      "text": "Brussels Court",
+      "label": "COURT",
+      "start_char": 10202,
+      "end_char": 10216
+    },
+    {
+      "text": "25th September, 2009",
+      "label": "DATE",
+      "start_char": 10894,
+      "end_char": 10914
+    },
+    {
+      "text": "31st December 2007",
+      "label": "DATE",
+      "start_char": 11482,
+      "end_char": 11500
+    },
+    {
+      "text": "Bharat Petroleum Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 11680,
+      "end_char": 11713
+    },
+    {
+      "text": "Great Eastern Shipping Company Ltd.1 and Everest Holding Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 11718,
+      "end_char": 11786
+    },
+    {
+      "text": "Shyam Kumar Shrivastava",
+      "label": "OTHER_PERSON",
+      "start_char": 11787,
+      "end_char": 11810
+    },
+    {
+      "text": "Man Mohan Sharma",
+      "label": "OTHER_PERSON",
+      "start_char": 12169,
+      "end_char": 12185
+    },
+    {
+      "text": "Depinder Singh3",
+      "label": "OTHER_PERSON",
+      "start_char": 12224,
+      "end_char": 12239
+    },
+    {
+      "text": "National Insurance Company Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 12288,
+      "end_char": 12326
+    },
+    {
+      "text": "Boghara Polyfab Private Limited4",
+      "label": "ORG",
+      "start_char": 12327,
+      "end_char": 12359
+    },
+    {
+      "text": "Section 11(4) and 6",
+      "label": "PROVISION",
+      "start_char": 12529,
+      "end_char": 12548
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 12556,
+      "end_char": 12594
+    },
+    {
+      "text": "2008 (1) SCC 503 2 2008 (16) SCC 774 3 2009 (2) SCC 600 4 2009(1) SCC 267 - 11",
+      "label": "PRECEDENT",
+      "start_char": 12606,
+      "end_char": 12684
+    },
+    {
+      "text": "Tasneem Ahamadi",
+      "label": "OTHER_PERSON",
+      "start_char": 13017,
+      "end_char": 13032
+    },
+    {
+      "text": "Brussels Commercial Court",
+      "label": "COURT",
+      "start_char": 13313,
+      "end_char": 13338
+    },
+    {
+      "text": "Brussels Commercial Court",
+      "label": "COURT",
+      "start_char": 13433,
+      "end_char": 13458
+    },
+    {
+      "text": "31st December, 2007",
+      "label": "DATE",
+      "start_char": 13737,
+      "end_char": 13756
+    },
+    {
+      "text": "Commercial Court at Brussels",
+      "label": "COURT",
+      "start_char": 13790,
+      "end_char": 13818
+    },
+    {
+      "text": "SBP & Co.",
+      "label": "ORG",
+      "start_char": 14283,
+      "end_char": 14292
+    },
+    {
+      "text": "Patel Engineering Ltd.",
+      "label": "ORG",
+      "start_char": 14297,
+      "end_char": 14319
+    },
+    {
+      "text": "Ahamadi",
+      "label": "OTHER_PERSON",
+      "start_char": 14599,
+      "end_char": 14606
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 14882,
+      "end_char": 14892
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 14900,
+      "end_char": 14938
+    },
+    {
+      "text": "2005 (8) SCC 618 - 13",
+      "label": "PRECEDENT",
+      "start_char": 14973,
+      "end_char": 14994
+    },
+    {
+      "text": "SBP & Co.",
+      "label": "PRECEDENT",
+      "start_char": 15042,
+      "end_char": 15051
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 15230,
+      "end_char": 15240
+    },
+    {
+      "text": "Section 11(6)",
+      "label": "PROVISION",
+      "start_char": 16349,
+      "end_char": 16362
+    },
+    {
+      "text": "National Insurance Co. Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 16897,
+      "end_char": 16924
+    },
+    {
+      "text": "Section 11(6)",
+      "label": "PROVISION",
+      "start_char": 17024,
+      "end_char": 17037
+    },
+    {
+      "text": "Constitution Bench",
+      "label": "COURT",
+      "start_char": 17090,
+      "end_char": 17108
+    },
+    {
+      "text": "SBP & Co.",
+      "label": "PRECEDENT",
+      "start_char": 17112,
+      "end_char": 17121
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 17953,
+      "end_char": 17958
+    },
+    {
+      "text": "Section 11(4), (5)\n",
+      "label": "PROVISION",
+      "start_char": 18018,
+      "end_char": 18037
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 18059,
+      "end_char": 18080
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 18390,
+      "end_char": 18400
+    },
+    {
+      "text": "22.1",
+      "label": "DATE",
+      "start_char": 18675,
+      "end_char": 18679
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 18951,
+      "end_char": 18961
+    },
+    {
+      "text": "22.3",
+      "label": "DATE",
+      "start_char": 19423,
+      "end_char": 19427
+    },
+    {
+      "text": "A.P. Tourism Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 19875,
+      "end_char": 19916
+    },
+    {
+      "text": "Pampa Hotels Ltd.6",
+      "label": "ORG",
+      "start_char": 19921,
+      "end_char": 19939
+    },
+    {
+      "text": "Alva Aluminium Limited, Bangkok Vs.",
+      "label": "PRECEDENT",
+      "start_char": 20005,
+      "end_char": 20040
+    },
+    {
+      "text": "Gabriel India Limited7",
+      "label": "ORG",
+      "start_char": 20041,
+      "end_char": 20063
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 20373,
+      "end_char": 20383
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 20633,
+      "end_char": 20643
+    },
+    {
+      "text": "[2010 (5) SCC 425]",
+      "label": "PRECEDENT",
+      "start_char": 20660,
+      "end_char": 20678
+    },
+    {
+      "text": "[2011 (1) SCC 167]",
+      "label": "PRECEDENT",
+      "start_char": 20683,
+      "end_char": 20701
+    },
+    {
+      "text": "Ahamadi",
+      "label": "OTHER_PERSON",
+      "start_char": 20783,
+      "end_char": 20790
+    },
+    {
+      "text": "Sections 11(4)(5)(6) and (9)",
+      "label": "PROVISION",
+      "start_char": 20835,
+      "end_char": 20863
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 20871,
+      "end_char": 20892
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 20925,
+      "end_char": 20930
+    },
+    {
+      "text": "25th September, 2007",
+      "label": "DATE",
+      "start_char": 21214,
+      "end_char": 21234
+    },
+    {
+      "text": "25th September, 2009",
+      "label": "DATE",
+      "start_char": 22081,
+      "end_char": 22101
+    },
+    {
+      "text": "25th September, 2009",
+      "label": "DATE",
+      "start_char": 22156,
+      "end_char": 22176
+    },
+    {
+      "text": "25th September, 2007",
+      "label": "DATE",
+      "start_char": 22236,
+      "end_char": 22256
+    },
+    {
+      "text": "REVA",
+      "label": "ORG",
+      "start_char": 23032,
+      "end_char": 23036
+    },
+    {
+      "text": "Frankfurt",
+      "label": "GPE",
+      "start_char": 23044,
+      "end_char": 23053
+    },
+    {
+      "text": "IAA",
+      "label": "ORG",
+      "start_char": 23054,
+      "end_char": 23057
+    },
+    {
+      "text": "REVA brand",
+      "label": "ORG",
+      "start_char": 23173,
+      "end_char": 23183
+    },
+    {
+      "text": "7th October, 2009",
+      "label": "DATE",
+      "start_char": 23280,
+      "end_char": 23297
+    },
+    {
+      "text": "25th September, 2009",
+      "label": "DATE",
+      "start_char": 23744,
+      "end_char": 23764
+    },
+    {
+      "text": "25th September, 2009",
+      "label": "DATE",
+      "start_char": 23943,
+      "end_char": 23963
+    },
+    {
+      "text": "Europe",
+      "label": "GPE",
+      "start_char": 24077,
+      "end_char": 24083
+    },
+    {
+      "text": "Ahamadi",
+      "label": "OTHER_PERSON",
+      "start_char": 24324,
+      "end_char": 24331
+    },
+    {
+      "text": "Narasimha",
+      "label": "OTHER_PERSON",
+      "start_char": 24465,
+      "end_char": 24474
+    },
+    {
+      "text": "Brussels Court",
+      "label": "COURT",
+      "start_char": 24562,
+      "end_char": 24576
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 24830,
+      "end_char": 24835
+    },
+    {
+      "text": "UK",
+      "label": "GPE",
+      "start_char": 24872,
+      "end_char": 24874
+    },
+    {
+      "text": "REVA",
+      "label": "ORG",
+      "start_char": 25519,
+      "end_char": 25523
+    },
+    {
+      "text": "Belgian",
+      "label": "GPE",
+      "start_char": 25531,
+      "end_char": 25538
+    },
+    {
+      "text": "Belgium",
+      "label": "GPE",
+      "start_char": 25832,
+      "end_char": 25839
+    },
+    {
+      "text": "31st December, 2007",
+      "label": "DATE",
+      "start_char": 25926,
+      "end_char": 25945
+    },
+    {
+      "text": "REVA Cars",
+      "label": "ORG",
+      "start_char": 26066,
+      "end_char": 26075
+    },
+    {
+      "text": "Belgium",
+      "label": "GPE",
+      "start_char": 26079,
+      "end_char": 26086
+    },
+    {
+      "text": "REVA Cars",
+      "label": "ORG",
+      "start_char": 26498,
+      "end_char": 26507
+    },
+    {
+      "text": "25th of September, 2009",
+      "label": "DATE",
+      "start_char": 26636,
+      "end_char": 26659
+    },
+    {
+      "text": "Belgium",
+      "label": "GPE",
+      "start_char": 26762,
+      "end_char": 26769
+    },
+    {
+      "text": "25th September, 2009",
+      "label": "DATE",
+      "start_char": 26893,
+      "end_char": 26913
+    },
+    {
+      "text": "25th September, 2009",
+      "label": "DATE",
+      "start_char": 27352,
+      "end_char": 27372
+    },
+    {
+      "text": "25th September, 2009",
+      "label": "DATE",
+      "start_char": 27534,
+      "end_char": 27554
+    },
+    {
+      "text": "25th September, 2007",
+      "label": "DATE",
+      "start_char": 27836,
+      "end_char": 27856
+    },
+    {
+      "text": "Ahamadi",
+      "label": "OTHER_PERSON",
+      "start_char": 28178,
+      "end_char": 28185
+    },
+    {
+      "text": "Bharat Petroleum Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 28319,
+      "end_char": 28352
+    },
+    {
+      "text": "Great Eastern Shipping Co. Ltd.8",
+      "label": "ORG",
+      "start_char": 28357,
+      "end_char": 28389
+    },
+    {
+      "text": "6th May, 1997",
+      "label": "DATE",
+      "start_char": 28513,
+      "end_char": 28526
+    },
+    {
+      "text": "22nd September, 1996",
+      "label": "DATE",
+      "start_char": 28586,
+      "end_char": 28606
+    },
+    {
+      "text": "30th June, 1997",
+      "label": "DATE",
+      "start_char": 28610,
+      "end_char": 28625
+    },
+    {
+      "text": "1st July, 1997",
+      "label": "DATE",
+      "start_char": 28635,
+      "end_char": 28649
+    },
+    {
+      "text": "30th June, 1998",
+      "label": "DATE",
+      "start_char": 28653,
+      "end_char": 28668
+    },
+    {
+      "text": "8 (2008 (1) SCC 503",
+      "label": "DATE",
+      "start_char": 28884,
+      "end_char": 28903
+    },
+    {
+      "text": "Jag Praja",
+      "label": "OTHER_PERSON",
+      "start_char": 29257,
+      "end_char": 29266
+    },
+    {
+      "text": "6-5-1997",
+      "label": "DATE",
+      "start_char": 29612,
+      "end_char": 29620
+    },
+    {
+      "text": "30-8-1998",
+      "label": "DATE",
+      "start_char": 29657,
+      "end_char": 29666
+    },
+    {
+      "text": "12th May, 2003",
+      "label": "DATE",
+      "start_char": 29715,
+      "end_char": 29729
+    },
+    {
+      "text": "6th May, 1997",
+      "label": "DATE",
+      "start_char": 29857,
+      "end_char": 29870
+    },
+    {
+      "text": "31st December, 1998",
+      "label": "DATE",
+      "start_char": 29893,
+      "end_char": 29912
+    },
+    {
+      "text": "31st August, 1998",
+      "label": "DATE",
+      "start_char": 29988,
+      "end_char": 30005
+    },
+    {
+      "text": "6th May, 1997",
+      "label": "DATE",
+      "start_char": 30114,
+      "end_char": 30127
+    },
+    {
+      "text": "6th May, 1997",
+      "label": "DATE",
+      "start_char": 30205,
+      "end_char": 30218
+    },
+    {
+      "text": "31st August, 1998",
+      "label": "DATE",
+      "start_char": 30536,
+      "end_char": 30553
+    },
+    {
+      "text": "6th May, 1997",
+      "label": "DATE",
+      "start_char": 30639,
+      "end_char": 30652
+    },
+    {
+      "text": "6th May, 1997",
+      "label": "DATE",
+      "start_char": 30695,
+      "end_char": 30708
+    },
+    {
+      "text": "31st December, 2007",
+      "label": "DATE",
+      "start_char": 31626,
+      "end_char": 31645
+    },
+    {
+      "text": "25th September, 2009",
+      "label": "DATE",
+      "start_char": 31786,
+      "end_char": 31806
+    },
+    {
+      "text": "Ahamadi",
+      "label": "OTHER_PERSON",
+      "start_char": 31870,
+      "end_char": 31877
+    },
+    {
+      "text": "Narasimha",
+      "label": "OTHER_PERSON",
+      "start_char": 31988,
+      "end_char": 31997
+    },
+    {
+      "text": "31st December, 2007",
+      "label": "DATE",
+      "start_char": 32463,
+      "end_char": 32482
+    },
+    {
+      "text": "Narasimha",
+      "label": "OTHER_PERSON",
+      "start_char": 32532,
+      "end_char": 32541
+    },
+    {
+      "text": "Everest Holding Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 32703,
+      "end_char": 32723
+    },
+    {
+      "text": "25th September, 2003",
+      "label": "DATE",
+      "start_char": 32907,
+      "end_char": 32927
+    },
+    {
+      "text": "26th March, 2004",
+      "label": "DATE",
+      "start_char": 32993,
+      "end_char": 33009
+    },
+    {
+      "text": "25th September, 2003",
+      "label": "DATE",
+      "start_char": 33126,
+      "end_char": 33146
+    },
+    {
+      "text": "Article 14.3",
+      "label": "PROVISION",
+      "start_char": 33148,
+      "end_char": 33160
+    },
+    {
+      "text": "JVA",
+      "label": "COURT",
+      "start_char": 33173,
+      "end_char": 33176
+    },
+    {
+      "text": "20th September, 2004",
+      "label": "DATE",
+      "start_char": 33453,
+      "end_char": 33473
+    },
+    {
+      "text": "JVA",
+      "label": "COURT",
+      "start_char": 33555,
+      "end_char": 33558
+    },
+    {
+      "text": "6th October, 2004",
+      "label": "DATE",
+      "start_char": 33596,
+      "end_char": 33613
+    },
+    {
+      "text": "JVA",
+      "label": "STATUTE",
+      "start_char": 34103,
+      "end_char": 34106
+    },
+    {
+      "text": "JVA",
+      "label": "COURT",
+      "start_char": 35004,
+      "end_char": 35007
+    },
+    {
+      "text": "JVA",
+      "label": "COURT",
+      "start_char": 35207,
+      "end_char": 35210
+    },
+    {
+      "text": "Ahamadi",
+      "label": "OTHER_PERSON",
+      "start_char": 35624,
+      "end_char": 35631
+    },
+    {
+      "text": "31st of December, 2007",
+      "label": "DATE",
+      "start_char": 35665,
+      "end_char": 35687
+    },
+    {
+      "text": "Section 16(1)(a)",
+      "label": "PROVISION",
+      "start_char": 35723,
+      "end_char": 35739
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 35747,
+      "end_char": 35785
+    },
+    {
+      "text": "Everest Holdings Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 36153,
+      "end_char": 36174
+    },
+    {
+      "text": "Ahamadi",
+      "label": "OTHER_PERSON",
+      "start_char": 36222,
+      "end_char": 36229
+    },
+    {
+      "text": "31st December, 2007",
+      "label": "DATE",
+      "start_char": 36320,
+      "end_char": 36339
+    },
+    {
+      "text": "Section 16(1)",
+      "label": "PROVISION",
+      "start_char": 36421,
+      "end_char": 36434
+    },
+    {
+      "text": "Article 16",
+      "label": "PROVISION",
+      "start_char": 37131,
+      "end_char": 37141
+    },
+    {
+      "text": "UNCITRAL Model Law",
+      "label": "STATUTE",
+      "start_char": 37149,
+      "end_char": 37167
+    },
+    {
+      "text": "Article 16",
+      "label": "PROVISION",
+      "start_char": 37210,
+      "end_char": 37220
+    },
+    {
+      "text": "Section 16(1)",
+      "label": "PROVISION",
+      "start_char": 37882,
+      "end_char": 37895
+    },
+    {
+      "text": "Section 16(1)(b)",
+      "label": "PROVISION",
+      "start_char": 38222,
+      "end_char": 38238
+    },
+    {
+      "text": "Section 16(1)(a)",
+      "label": "PROVISION",
+      "start_char": 38436,
+      "end_char": 38452
+    },
+    {
+      "text": "Section 16(1)(b)",
+      "label": "PROVISION",
+      "start_char": 38619,
+      "end_char": 38635
+    },
+    {
+      "text": "Section 16(1) of the - 32",
+      "label": "PROVISION",
+      "start_char": 38774,
+      "end_char": 38799
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 38802,
+      "end_char": 38840
+    },
+    {
+      "text": "Ahmadi",
+      "label": "OTHER_PERSON",
+      "start_char": 38898,
+      "end_char": 38904
+    },
+    {
+      "text": "31st December, 2007",
+      "label": "DATE",
+      "start_char": 38945,
+      "end_char": 38964
+    },
+    {
+      "text": "Section 11(4) and (6)",
+      "label": "PROVISION",
+      "start_char": 39597,
+      "end_char": 39618
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 39626,
+      "end_char": 39664
+    },
+    {
+      "text": "India Scheme, 1996",
+      "label": "STATUTE",
+      "start_char": 39744,
+      "end_char": 39762
+    },
+    {
+      "text": "R.V. Raveendran",
+      "label": "JUDGE",
+      "start_char": 39797,
+      "end_char": 39812
+    },
+    {
+      "text": "Basavangudi",
+      "label": "GPE",
+      "start_char": 39837,
+      "end_char": 39848
+    },
+    {
+      "text": "Bangalore",
+      "label": "GPE",
+      "start_char": 39850,
+      "end_char": 39859
+    },
+    {
+      "text": "Supreme Court of India",
+      "label": "COURT",
+      "start_char": 39881,
+      "end_char": 39903
+    },
+    {
+      "text": "Surinder Singh Nijjar",
+      "label": "JUDGE",
+      "start_char": 40579,
+      "end_char": 40600
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 40602,
+      "end_char": 40611
+    },
+    {
+      "text": "November 25, 2011",
+      "label": "DATE",
+      "start_char": 40613,
+      "end_char": 40630
+    }
+  ],
+  "precedent_clusters": {
+    "Great Eastern Shipping Company Ltd.1 and Everest Holding Limited Vs.": [
+      "Reva Electric Car Co.P.Ltd vs M/S",
+      "Great Eastern Shipping Company Ltd.1 and Everest Holding Limited Vs.",
+      "National Insurance Company Limited Vs.",
+      "Alva Aluminium Limited, Bangkok Vs."
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Sections 11(4) and (6)",
+      "Arbitration and Conciliation Act, 1996",
+      "Sections 11(4) and (6)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 9",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 9",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 11(4) and 6",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 11(4) and 6",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 11",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 11",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 11(4), (5)\n",
+      "Arbitration Act, 1996",
+      "Section 11(4), (5)\n",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Sections 11(4)(5)(6) and (9)",
+      "Arbitration Act, 1996",
+      "Sections 11(4)(5)(6) and (9)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 16(1)(a)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 16(1)(a)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Article 16",
+      "UNCITRAL Model Law",
+      "Article 16",
+      "UNCITRAL Model Law"
+    ],
+    [
+      "Section 16(1) of the - 32",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 16(1) of the - 32",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 11(4) and (6)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 11(4) and (6)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 11",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 11",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 11(6)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 11(6)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 11(6)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 11(6)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 11",
+      "Arbitration Act, 1996",
+      "Section 11",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 11",
+      "Arbitration Act, 1996",
+      "Section 11",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 11",
+      "Arbitration Act, 1996",
+      "Section 11",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 11",
+      "Arbitration Act, 1996",
+      "Section 11",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 16(1)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 16(1)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Article 16",
+      "Arbitration and Conciliation Act, 1996",
+      "Article 16",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 16(1)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 16(1)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 16(1)(b)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 16(1)(b)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 16(1)(a)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 16(1)(a)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 16(1)(b)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 16(1)(b)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Article 14.3",
+      "Arbitration and Conciliation Act, 1996",
+      "Article 14.3",
+      "Arbitration and Conciliation Act, 1996"
+    ]
+  ],
+  "precedent_counts": {
+    "Great Eastern Shipping Company Ltd.1 and Everest Holding Limited Vs.": 4
+  },
+  "provision_counts": {
+    "Sections 11(4) and (6) of Arbitration and Conciliation Act, 1996": 1,
+    "Section 9 of Arbitration and Conciliation Act, 1996": 1,
+    "Section 11(4) and 6 of Arbitration and Conciliation Act, 1996": 1,
+    "Section 11 of Arbitration and Conciliation Act, 1996": 2,
+    "Section 11(4), (5)\n of Arbitration Act, 1996": 1,
+    "Sections 11(4)(5)(6) and (9) of Arbitration Act, 1996": 1,
+    "Section 16(1)(a) of Arbitration and Conciliation Act, 1996": 2,
+    "Article 16 of UNCITRAL Model Law": 1,
+    "Section 16(1) of the - 32 of Arbitration and Conciliation Act, 1996": 1,
+    "Section 11(4) and (6) of Arbitration and Conciliation Act, 1996": 1,
+    "Section 11(6) of Arbitration and Conciliation Act, 1996": 2,
+    "Section 11 of Arbitration Act, 1996": 4,
+    "Section 16(1) of Arbitration and Conciliation Act, 1996": 2,
+    "Article 16 of Arbitration and Conciliation Act, 1996": 1,
+    "Section 16(1)(b) of Arbitration and Conciliation Act, 1996": 2,
+    "Article 14.3 of Arbitration and Conciliation Act, 1996": 1
+  },
+  "statute_counts": {
+    "Arbitration and Conciliation Act, 1996": 17,
+    "Arbitration Act, 1996": 6,
+    "UNCITRAL Model Law": 1
+  }
+}

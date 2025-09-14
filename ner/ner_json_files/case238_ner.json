@@ -1,0 +1,1954 @@
+{
+  "entities": [
+    {
+      "text": "Gujarat High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 18
+    },
+    {
+      "text": "Damodarbhai Kumanbhai Kansagara vs World Express Elevator",
+      "label": "PRECEDENT",
+      "start_char": 19,
+      "end_char": 76
+    },
+    {
+      "text": "4 May, 2023",
+      "label": "DATE",
+      "start_char": 80,
+      "end_char": 91
+    },
+    {
+      "text": "Ashutosh Shastri",
+      "label": "LAWYER",
+      "start_char": 100,
+      "end_char": 116
+    },
+    {
+      "text": "Ashutosh Shastri",
+      "label": "JUDGE",
+      "start_char": 124,
+      "end_char": 140
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 200,
+      "end_char": 210
+    },
+    {
+      "text": "HIGH COURT OF GUJARAT AT AHMEDABAD",
+      "label": "COURT",
+      "start_char": 228,
+      "end_char": 262
+    },
+    {
+      "text": "ORDER NO. 20 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 293,
+      "end_char": 313
+    },
+    {
+      "text": "ORDER NO. 20 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 439,
+      "end_char": 459
+    },
+    {
+      "text": "ORDER NO. 22 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 907,
+      "end_char": 927
+    },
+    {
+      "text": "ORDER NO. 23 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 1141,
+      "end_char": 1161
+    },
+    {
+      "text": "ORDER NO. 24 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 1375,
+      "end_char": 1395
+    },
+    {
+      "text": "ORDER NO. 25 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 1609,
+      "end_char": 1629
+    },
+    {
+      "text": "ORDER NO. 26 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 1843,
+      "end_char": 1863
+    },
+    {
+      "text": "ORDER NO. 27 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 2077,
+      "end_char": 2097
+    },
+    {
+      "text": "ORDER NO. 28 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 2311,
+      "end_char": 2331
+    },
+    {
+      "text": "DAMODARBHAI KUMANBHAI KANSAGARA",
+      "label": "PETITIONER",
+      "start_char": 2652,
+      "end_char": 2683
+    },
+    {
+      "text": "WORLD EXPRESS ELEVATOR",
+      "label": "RESPONDENT",
+      "start_char": 2748,
+      "end_char": 2770
+    },
+    {
+      "text": "SHALIN MEHTA",
+      "label": "OTHER_PERSON",
+      "start_char": 2911,
+      "end_char": 2923
+    },
+    {
+      "text": "AKSHAY A VAKIL(5473",
+      "label": "OTHER_PERSON",
+      "start_char": 2946,
+      "end_char": 2965
+    },
+    {
+      "text": "POOJA O ACHARYA(9849)",
+      "label": "LAWYER",
+      "start_char": 2988,
+      "end_char": 3009
+    },
+    {
+      "text": "SHALIN MEHTA",
+      "label": "OTHER_PERSON",
+      "start_char": 3044,
+      "end_char": 3056
+    },
+    {
+      "text": "AKSHAY A VAKIL(5473",
+      "label": "OTHER_PERSON",
+      "start_char": 3079,
+      "end_char": 3098
+    },
+    {
+      "text": "SHALIN MEHTA",
+      "label": "OTHER_PERSON",
+      "start_char": 3132,
+      "end_char": 3144
+    },
+    {
+      "text": "AKSHAY A VAKIL(5473",
+      "label": "OTHER_PERSON",
+      "start_char": 3167,
+      "end_char": 3186
+    },
+    {
+      "text": "RAJESH ACHARYA",
+      "label": "OTHER_PERSON",
+      "start_char": 3209,
+      "end_char": 3223
+    },
+    {
+      "text": "23/2023, 26/23 & 27/23",
+      "label": "DATE",
+      "start_char": 3247,
+      "end_char": 3269
+    },
+    {
+      "text": "SHALIN MEHTA",
+      "label": "OTHER_PERSON",
+      "start_char": 3273,
+      "end_char": 3285
+    },
+    {
+      "text": "AKSHAY A VAKIL(5473",
+      "label": "OTHER_PERSON",
+      "start_char": 3308,
+      "end_char": 3327
+    },
+    {
+      "text": "HEMAL SHAH",
+      "label": "OTHER_PERSON",
+      "start_char": 3350,
+      "end_char": 3360
+    },
+    {
+      "text": "SHALIN MEHTA",
+      "label": "OTHER_PERSON",
+      "start_char": 3395,
+      "end_char": 3407
+    },
+    {
+      "text": "AKSHAY A VAKIL(5473",
+      "label": "OTHER_PERSON",
+      "start_char": 3430,
+      "end_char": 3449
+    },
+    {
+      "text": "JAYKRUSHNA SANKHLA",
+      "label": "OTHER_PERSON",
+      "start_char": 3472,
+      "end_char": 3490
+    },
+    {
+      "text": "SHALIN MEHTA",
+      "label": "OTHER_PERSON",
+      "start_char": 3525,
+      "end_char": 3537
+    },
+    {
+      "text": "AKSHAY A VAKIL(5473",
+      "label": "OTHER_PERSON",
+      "start_char": 3560,
+      "end_char": 3579
+    },
+    {
+      "text": "HASIT TOLIA",
+      "label": "OTHER_PERSON",
+      "start_char": 3602,
+      "end_char": 3613
+    },
+    {
+      "text": "RH BHANSALI",
+      "label": "OTHER_PERSON",
+      "start_char": 3621,
+      "end_char": 3632
+    },
+    {
+      "text": "SHALIN MEHTA",
+      "label": "OTHER_PERSON",
+      "start_char": 3667,
+      "end_char": 3679
+    },
+    {
+      "text": "AKSHAY A VAKIL(5473",
+      "label": "OTHER_PERSON",
+      "start_char": 3702,
+      "end_char": 3721
+    },
+    {
+      "text": "JENIL SHAH",
+      "label": "OTHER_PERSON",
+      "start_char": 3744,
+      "end_char": 3754
+    },
+    {
+      "text": "ASHUTOSH SHASTRI",
+      "label": "JUDGE",
+      "start_char": 3921,
+      "end_char": 3937
+    },
+    {
+      "text": "C. DOSHI",
+      "label": "JUDGE",
+      "start_char": 3982,
+      "end_char": 3990
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 4027,
+      "end_char": 4037
+    },
+    {
+      "text": "C. DOSHI",
+      "label": "JUDGE",
+      "start_char": 4108,
+      "end_char": 4116
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 4144,
+      "end_char": 4154
+    },
+    {
+      "text": "Order 43 Rule 1(r)",
+      "label": "PROVISION",
+      "start_char": 4196,
+      "end_char": 4214
+    },
+    {
+      "text": "Civil Procedure Code, 1908",
+      "label": "STATUTE",
+      "start_char": 4222,
+      "end_char": 4248
+    },
+    {
+      "text": "sections 5 and 3",
+      "label": "PROVISION",
+      "start_char": 4281,
+      "end_char": 4297
+    },
+    {
+      "text": "Commercial Court Act, 2015",
+      "label": "STATUTE",
+      "start_char": 4305,
+      "end_char": 4331
+    },
+    {
+      "text": "Order 39 Rule 1 and 2",
+      "label": "PROVISION",
+      "start_char": 4477,
+      "end_char": 4498
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 5526,
+      "end_char": 5536
+    },
+    {
+      "text": "Rajkot",
+      "label": "GPE",
+      "start_char": 5537,
+      "end_char": 5543
+    },
+    {
+      "text": "class 7",
+      "label": "PROVISION",
+      "start_char": 6086,
+      "end_char": 6093
+    },
+    {
+      "text": "class 37",
+      "label": "PROVISION",
+      "start_char": 6119,
+      "end_char": 6127
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 7254,
+      "end_char": 7264
+    },
+    {
+      "text": "30.10.2015",
+      "label": "DATE",
+      "start_char": 8671,
+      "end_char": 8681
+    },
+    {
+      "text": "J.K. Majithia and Co.",
+      "label": "ORG",
+      "start_char": 8781,
+      "end_char": 8802
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 8900,
+      "end_char": 8910
+    },
+    {
+      "text": "30.6.2016",
+      "label": "DATE",
+      "start_char": 9003,
+      "end_char": 9012
+    },
+    {
+      "text": "s 11",
+      "label": "PROVISION",
+      "start_char": 9134,
+      "end_char": 9138
+    },
+    {
+      "text": "Trademark Act, 1999",
+      "label": "STATUTE",
+      "start_char": 9146,
+      "end_char": 9165
+    },
+    {
+      "text": "Order 43 Rule 1(r)",
+      "label": "PROVISION",
+      "start_char": 10189,
+      "end_char": 10207
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 10246,
+      "end_char": 10256
+    },
+    {
+      "text": "sections 5 and 3",
+      "label": "PROVISION",
+      "start_char": 10267,
+      "end_char": 10283
+    },
+    {
+      "text": "Commercial Court Act, 2015",
+      "label": "STATUTE",
+      "start_char": 10291,
+      "end_char": 10317
+    },
+    {
+      "text": "Shalin Mehta",
+      "label": "OTHER_PERSON",
+      "start_char": 10402,
+      "end_char": 10414
+    },
+    {
+      "text": "AA Vakil",
+      "label": "OTHER_PERSON",
+      "start_char": 10448,
+      "end_char": 10456
+    },
+    {
+      "text": "Hasit Tolia",
+      "label": "OTHER_PERSON",
+      "start_char": 10510,
+      "end_char": 10521
+    },
+    {
+      "text": "Pooja Acharya",
+      "label": "OTHER_PERSON",
+      "start_char": 10554,
+      "end_char": 10567
+    },
+    {
+      "text": "Shalin Mehta",
+      "label": "OTHER_PERSON",
+      "start_char": 10628,
+      "end_char": 10640
+    },
+    {
+      "text": "Order 39 Rule 1 and 2",
+      "label": "PROVISION",
+      "start_char": 10771,
+      "end_char": 10792
+    },
+    {
+      "text": "section 135",
+      "label": "PROVISION",
+      "start_char": 10809,
+      "end_char": 10820
+    },
+    {
+      "text": "Trademark Act, 1999, 1999",
+      "label": "STATUTE",
+      "start_char": 10828,
+      "end_char": 10853
+    },
+    {
+      "text": "Shalin Mehta",
+      "label": "OTHER_PERSON",
+      "start_char": 10887,
+      "end_char": 10899
+    },
+    {
+      "text": "Mehta",
+      "label": "OTHER_PERSON",
+      "start_char": 11289,
+      "end_char": 11294
+    },
+    {
+      "text": "30.10.2015",
+      "label": "DATE",
+      "start_char": 11316,
+      "end_char": 11326
+    },
+    {
+      "text": "Express' Electro Elevators",
+      "label": "PETITIONER",
+      "start_char": 11360,
+      "end_char": 11386
+    },
+    {
+      "text": "1.4.1999",
+      "label": "DATE",
+      "start_char": 11574,
+      "end_char": 11582
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 11756,
+      "end_char": 11766
+    },
+    {
+      "text": "Shalin Mehta",
+      "label": "OTHER_PERSON",
+      "start_char": 11810,
+      "end_char": 11822
+    },
+    {
+      "text": "Class 37 and Class 7",
+      "label": "PROVISION",
+      "start_char": 13101,
+      "end_char": 13121
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 13416,
+      "end_char": 13426
+    },
+    {
+      "text": "Shalin Mehta",
+      "label": "OTHER_PERSON",
+      "start_char": 13472,
+      "end_char": 13484
+    },
+    {
+      "text": "Shalin Mehta",
+      "label": "OTHER_PERSON",
+      "start_char": 13796,
+      "end_char": 13808
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 14953,
+      "end_char": 14963
+    },
+    {
+      "text": "Shalin Mehta",
+      "label": "OTHER_PERSON",
+      "start_char": 15100,
+      "end_char": 15112
+    },
+    {
+      "text": "Shalin Mehta",
+      "label": "OTHER_PERSON",
+      "start_char": 16177,
+      "end_char": 16189
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 16612,
+      "end_char": 16622
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 16885,
+      "end_char": 16895
+    },
+    {
+      "text": "S. Syed Mohideen Vs.",
+      "label": "PRECEDENT",
+      "start_char": 16907,
+      "end_char": 16927
+    },
+    {
+      "text": "P. Sulochana Bai",
+      "label": "OTHER_PERSON",
+      "start_char": 16928,
+      "end_char": 16944
+    },
+    {
+      "text": "2016(66) PTC 1[SC]",
+      "label": "PRECEDENT",
+      "start_char": 16957,
+      "end_char": 16975
+    },
+    {
+      "text": "Tirunelveli Iruttukadai Halwa",
+      "label": "OTHER_PERSON",
+      "start_char": 17064,
+      "end_char": 17093
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 17116,
+      "end_char": 17126
+    },
+    {
+      "text": "Iruttukadai Halwa",
+      "label": "OTHER_PERSON",
+      "start_char": 17143,
+      "end_char": 17160
+    },
+    {
+      "text": "Tamilnadu",
+      "label": "GPE",
+      "start_char": 17224,
+      "end_char": 17233
+    },
+    {
+      "text": "Samy",
+      "label": "OTHER_PERSON",
+      "start_char": 17276,
+      "end_char": 17280
+    },
+    {
+      "text": "Iruttukadai",
+      "label": "OTHER_PERSON",
+      "start_char": 17300,
+      "end_char": 17311
+    },
+    {
+      "text": "Shalin Mehta",
+      "label": "OTHER_PERSON",
+      "start_char": 17526,
+      "end_char": 17538
+    },
+    {
+      "text": "Kaviraj Pandit Durga Dutt Sharma Vs.",
+      "label": "PRECEDENT",
+      "start_char": 17568,
+      "end_char": 17604
+    },
+    {
+      "text": "Navratna Pharmaceuticals Laboratories reported in AIR 1965 SC 980",
+      "label": "PRECEDENT",
+      "start_char": 17605,
+      "end_char": 17670
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 17913,
+      "end_char": 17923
+    },
+    {
+      "text": "Shalin Mehta",
+      "label": "OTHER_PERSON",
+      "start_char": 18048,
+      "end_char": 18060
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 18104,
+      "end_char": 18114
+    },
+    {
+      "text": "Renaissance Hotel Holdings Inc.",
+      "label": "ORG",
+      "start_char": 18126,
+      "end_char": 18157
+    },
+    {
+      "text": "04/05/2023 Vs. B. Vijaya reported in 2022(5) SCC 1",
+      "label": "PRECEDENT",
+      "start_char": 18184,
+      "end_char": 18234
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 18256,
+      "end_char": 18266
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 18368,
+      "end_char": 18378
+    },
+    {
+      "text": "Mehta",
+      "label": "OTHER_PERSON",
+      "start_char": 18530,
+      "end_char": 18535
+    },
+    {
+      "text": "Mehta",
+      "label": "OTHER_PERSON",
+      "start_char": 18687,
+      "end_char": 18692
+    },
+    {
+      "text": "Ozone Spa Pvt",
+      "label": "ORG",
+      "start_char": 18734,
+      "end_char": 18747
+    },
+    {
+      "text": "Ozone Clun",
+      "label": "OTHER_PERSON",
+      "start_char": 18758,
+      "end_char": 18768
+    },
+    {
+      "text": "MANU/DE/0151/2010",
+      "label": "CASE_NUMBER",
+      "start_char": 18781,
+      "end_char": 18798
+    },
+    {
+      "text": "Mehta",
+      "label": "OTHER_PERSON",
+      "start_char": 18924,
+      "end_char": 18929
+    },
+    {
+      "text": "VMS Bathware Private Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 18944,
+      "end_char": 18976
+    },
+    {
+      "text": "Graffiti India Pvt",
+      "label": "ORG",
+      "start_char": 18977,
+      "end_char": 18995
+    },
+    {
+      "text": "MANU/GJ/1360/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 19014,
+      "end_char": 19031
+    },
+    {
+      "text": "Mehta",
+      "label": "OTHER_PERSON",
+      "start_char": 19208,
+      "end_char": 19213
+    },
+    {
+      "text": "Duncan Agro Industries Ltd.",
+      "label": "ORG",
+      "start_char": 19269,
+      "end_char": 19296
+    },
+    {
+      "text": "Samabhai Tea Processors (P) Ltd.",
+      "label": "ORG",
+      "start_char": 19301,
+      "end_char": 19333
+    },
+    {
+      "text": "MANU/GJ/0002/1994",
+      "label": "CASE_NUMBER",
+      "start_char": 19346,
+      "end_char": 19363
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 19389,
+      "end_char": 19399
+    },
+    {
+      "text": "Neon Laboratories Ltd.",
+      "label": "ORG",
+      "start_char": 19411,
+      "end_char": 19433
+    },
+    {
+      "text": "Medical Technologies Ltd.",
+      "label": "ORG",
+      "start_char": 19438,
+      "end_char": 19463
+    },
+    {
+      "text": "MANU/SC/1192/2015",
+      "label": "CASE_NUMBER",
+      "start_char": 19487,
+      "end_char": 19504
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 19533,
+      "end_char": 19543
+    },
+    {
+      "text": "8.12",
+      "label": "DATE",
+      "start_char": 19544,
+      "end_char": 19548
+    },
+    {
+      "text": "Mehta",
+      "label": "OTHER_PERSON",
+      "start_char": 19576,
+      "end_char": 19581
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 20535,
+      "end_char": 20545
+    },
+    {
+      "text": "Midas Hygiene Industries Private Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 20557,
+      "end_char": 20601
+    },
+    {
+      "text": "Sudhir Bhatia",
+      "label": "OTHER_PERSON",
+      "start_char": 20602,
+      "end_char": 20615
+    },
+    {
+      "text": "MANU/SC/0186/2004",
+      "label": "CASE_NUMBER",
+      "start_char": 20639,
+      "end_char": 20656
+    },
+    {
+      "text": "Mehta",
+      "label": "OTHER_PERSON",
+      "start_char": 20942,
+      "end_char": 20947
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 21055,
+      "end_char": 21065
+    },
+    {
+      "text": "Midas Hygiene",
+      "label": "PRECEDENT",
+      "start_char": 21077,
+      "end_char": 21090
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 21215,
+      "end_char": 21225
+    },
+    {
+      "text": "8.13",
+      "label": "DATE",
+      "start_char": 21226,
+      "end_char": 21230
+    },
+    {
+      "text": "Mehta",
+      "label": "OTHER_PERSON",
+      "start_char": 21291,
+      "end_char": 21296
+    },
+    {
+      "text": "Civil Procedure Code, 1908",
+      "label": "STATUTE",
+      "start_char": 21515,
+      "end_char": 21541
+    },
+    {
+      "text": "8.14",
+      "label": "DATE",
+      "start_char": 21904,
+      "end_char": 21908
+    },
+    {
+      "text": "Mehta",
+      "label": "OTHER_PERSON",
+      "start_char": 22059,
+      "end_char": 22064
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 22930,
+      "end_char": 22940
+    },
+    {
+      "text": "8.15",
+      "label": "DATE",
+      "start_char": 23585,
+      "end_char": 23589
+    },
+    {
+      "text": "Mehta",
+      "label": "OTHER_PERSON",
+      "start_char": 23625,
+      "end_char": 23630
+    },
+    {
+      "text": "Gujarat Lift and Elevator Act",
+      "label": "STATUTE",
+      "start_char": 23930,
+      "end_char": 23959
+    },
+    {
+      "text": "Gujarat Lift and Elevator Act",
+      "label": "STATUTE",
+      "start_char": 24225,
+      "end_char": 24254
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 24667,
+      "end_char": 24677
+    },
+    {
+      "text": "Shalin Mehta",
+      "label": "OTHER_PERSON",
+      "start_char": 25533,
+      "end_char": 25545
+    },
+    {
+      "text": "Hasit Tolia",
+      "label": "OTHER_PERSON",
+      "start_char": 25778,
+      "end_char": 25789
+    },
+    {
+      "text": "Pooja Acharya",
+      "label": "OTHER_PERSON",
+      "start_char": 25816,
+      "end_char": 25829
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 26271,
+      "end_char": 26281
+    },
+    {
+      "text": "Tolia",
+      "label": "OTHER_PERSON",
+      "start_char": 26915,
+      "end_char": 26920
+    },
+    {
+      "text": "section 15 and 17",
+      "label": "PROVISION",
+      "start_char": 26933,
+      "end_char": 26950
+    },
+    {
+      "text": "Trademark Act, 1999",
+      "label": "STATUTE",
+      "start_char": 26958,
+      "end_char": 26977
+    },
+    {
+      "text": "section 9",
+      "label": "PROVISION",
+      "start_char": 26989,
+      "end_char": 26998
+    },
+    {
+      "text": "Trademark Act, 1999",
+      "label": "STATUTE",
+      "start_char": 27006,
+      "end_char": 27025
+    },
+    {
+      "text": "C/AO/20/2023",
+      "label": "CASE_NUMBER",
+      "start_char": 27999,
+      "end_char": 28011
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 28025,
+      "end_char": 28035
+    },
+    {
+      "text": "Tolia",
+      "label": "OTHER_PERSON",
+      "start_char": 28143,
+      "end_char": 28148
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 29054,
+      "end_char": 29064
+    },
+    {
+      "text": "Uniply Industries Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 29076,
+      "end_char": 29105
+    },
+    {
+      "text": "Unicorn Plywood Private Limited and others reported in (2001) 5 SCC 95",
+      "label": "PRECEDENT",
+      "start_char": 29106,
+      "end_char": 29176
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 29215,
+      "end_char": 29225
+    },
+    {
+      "text": "Tolia",
+      "label": "OTHER_PERSON",
+      "start_char": 29602,
+      "end_char": 29607
+    },
+    {
+      "text": "C/AO/20/2023",
+      "label": "CASE_NUMBER",
+      "start_char": 29643,
+      "end_char": 29655
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 29697,
+      "end_char": 29707
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 31581,
+      "end_char": 31591
+    },
+    {
+      "text": "Puja Acharya",
+      "label": "OTHER_PERSON",
+      "start_char": 32042,
+      "end_char": 32054
+    },
+    {
+      "text": "Tolia",
+      "label": "OTHER_PERSON",
+      "start_char": 32139,
+      "end_char": 32144
+    },
+    {
+      "text": "Matrix Telecom Private Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 32336,
+      "end_char": 32370
+    },
+    {
+      "text": "Matrix Cellular Services Private Limited",
+      "label": "ORG",
+      "start_char": 32371,
+      "end_char": 32411
+    },
+    {
+      "text": "AO No.6 of 2010",
+      "label": "CASE_NUMBER",
+      "start_char": 32424,
+      "end_char": 32439
+    },
+    {
+      "text": "Apollo Parker Construction Equipments Private Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 32463,
+      "end_char": 32520
+    },
+    {
+      "text": "Ammann India Private Limited",
+      "label": "ORG",
+      "start_char": 32521,
+      "end_char": 32549
+    },
+    {
+      "text": "AO No.43 of 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 32562,
+      "end_char": 32578
+    },
+    {
+      "text": "Matrix Telecom",
+      "label": "PRECEDENT",
+      "start_char": 32682,
+      "end_char": 32696
+    },
+    {
+      "text": "Apollo Parker",
+      "label": "PRECEDENT",
+      "start_char": 32709,
+      "end_char": 32722
+    },
+    {
+      "text": "Apple Silk Mills Private Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 33011,
+      "end_char": 33047
+    },
+    {
+      "text": "Apple Sarees Private Limited",
+      "label": "ORG",
+      "start_char": 33048,
+      "end_char": 33076
+    },
+    {
+      "text": "AO No.89 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 33097,
+      "end_char": 33113
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 33296,
+      "end_char": 33306
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 33457,
+      "end_char": 33467
+    },
+    {
+      "text": "SLP Nos.25843/2017 and 25844/2017",
+      "label": "CASE_NUMBER",
+      "start_char": 33471,
+      "end_char": 33504
+    },
+    {
+      "text": "Puja Acharya",
+      "label": "OTHER_PERSON",
+      "start_char": 33533,
+      "end_char": 33545
+    },
+    {
+      "text": "Pooja Acharya",
+      "label": "OTHER_PERSON",
+      "start_char": 34089,
+      "end_char": 34102
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 34207,
+      "end_char": 34223
+    },
+    {
+      "text": "Delhivery Private Limtied Vs.",
+      "label": "PRECEDENT",
+      "start_char": 34235,
+      "end_char": 34264
+    },
+    {
+      "text": "Treasure Vase Ventures Private Limited",
+      "label": "ORG",
+      "start_char": 34265,
+      "end_char": 34303
+    },
+    {
+      "text": "LAWS (DLH) 2020 1038",
+      "label": "CASE_NUMBER",
+      "start_char": 34316,
+      "end_char": 34336
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 34535,
+      "end_char": 34545
+    },
+    {
+      "text": "INTELLECTUAL PROPERTY INDIA",
+      "label": "ORG",
+      "start_char": 35891,
+      "end_char": 35918
+    },
+    {
+      "text": "DAMODARBHAI KUMANBHAI KANSAGARA",
+      "label": "PETITIONER",
+      "start_char": 36219,
+      "end_char": 36250
+    },
+    {
+      "text": "Rajkot-360005",
+      "label": "GPE",
+      "start_char": 36458,
+      "end_char": 36471
+    },
+    {
+      "text": "Express' ELECTRO ELEVATORS COMPANY",
+      "label": "ORG",
+      "start_char": 36504,
+      "end_char": 36538
+    },
+    {
+      "text": "DAMODARBHAI KUMANBHAI KANSAGARA",
+      "label": "PETITIONER",
+      "start_char": 37219,
+      "end_char": 37250
+    },
+    {
+      "text": "Rajkot-360005",
+      "label": "GPE",
+      "start_char": 37298,
+      "end_char": 37311
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 37362,
+      "end_char": 37372
+    },
+    {
+      "text": "AHMEDABAD TradeMark",
+      "label": "ORG",
+      "start_char": 37641,
+      "end_char": 37660
+    },
+    {
+      "text": "DAMODARBHAI KUMANBHAI KANSAGARA",
+      "label": "PETITIONER",
+      "start_char": 37740,
+      "end_char": 37771
+    },
+    {
+      "text": "Rajkot-360005",
+      "label": "GPE",
+      "start_char": 37962,
+      "end_char": 37975
+    },
+    {
+      "text": "Rajkot-360005",
+      "label": "GPE",
+      "start_char": 38089,
+      "end_char": 38102
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 38122,
+      "end_char": 38127
+    },
+    {
+      "text": "DAMODARBHAI KUMANBHAI KANSAGARA",
+      "label": "PETITIONER",
+      "start_char": 38754,
+      "end_char": 38785
+    },
+    {
+      "text": "Rajkot-360005",
+      "label": "GPE",
+      "start_char": 38833,
+      "end_char": 38846
+    },
+    {
+      "text": "Express' ELECTRO ELEVATORS COMPANY, SERVICES",
+      "label": "ORG",
+      "start_char": 38872,
+      "end_char": 38916
+    },
+    {
+      "text": "Express' Electro Elevators",
+      "label": "ORG",
+      "start_char": 39025,
+      "end_char": 39051
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 39598,
+      "end_char": 39608
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 41197,
+      "end_char": 41207
+    },
+    {
+      "text": "Mehta",
+      "label": "OTHER_PERSON",
+      "start_char": 41493,
+      "end_char": 41498
+    },
+    {
+      "text": "Mehta",
+      "label": "OTHER_PERSON",
+      "start_char": 41844,
+      "end_char": 41849
+    },
+    {
+      "text": "sections 15 and 17",
+      "label": "PROVISION",
+      "start_char": 42490,
+      "end_char": 42508
+    },
+    {
+      "text": "Trademark Act, 1999",
+      "label": "STATUTE",
+      "start_char": 42516,
+      "end_char": 42535
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 42660,
+      "end_char": 42670
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 44703,
+      "end_char": 44713
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 44990,
+      "end_char": 45000
+    },
+    {
+      "text": "Trademark Act, 1999",
+      "label": "STATUTE",
+      "start_char": 45008,
+      "end_char": 45027
+    },
+    {
+      "text": "section 17",
+      "label": "PROVISION",
+      "start_char": 45605,
+      "end_char": 45615
+    },
+    {
+      "text": "Trademark Act, 1999",
+      "label": "STATUTE",
+      "start_char": 45623,
+      "end_char": 45642
+    },
+    {
+      "text": "section 9",
+      "label": "PROVISION",
+      "start_char": 46034,
+      "end_char": 46043
+    },
+    {
+      "text": "Trademark Act, 1999",
+      "label": "STATUTE",
+      "start_char": 46051,
+      "end_char": 46070
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 47319,
+      "end_char": 47324
+    },
+    {
+      "text": "Emblems and Names (Prevention of Improper Use) Act, 1950 (12 of 1950)",
+      "label": "STATUTE",
+      "start_char": 47421,
+      "end_char": 47490
+    },
+    {
+      "text": "C/",
+      "label": "CASE_NUMBER",
+      "start_char": 48499,
+      "end_char": 48501
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 48525,
+      "end_char": 48535
+    },
+    {
+      "text": "Damodarbhai Kumanbhai Kansagara",
+      "label": "PETITIONER",
+      "start_char": 49852,
+      "end_char": 49883
+    },
+    {
+      "text": "30.10.2015",
+      "label": "DATE",
+      "start_char": 49945,
+      "end_char": 49955
+    },
+    {
+      "text": "J.K. Mahethiya and Co.",
+      "label": "ORG",
+      "start_char": 50113,
+      "end_char": 50135
+    },
+    {
+      "text": "30.6.2016",
+      "label": "DATE",
+      "start_char": 50317,
+      "end_char": 50326
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 50450,
+      "end_char": 50460
+    },
+    {
+      "text": "Trademark Act, 1999",
+      "label": "STATUTE",
+      "start_char": 50461,
+      "end_char": 50480
+    },
+    {
+      "text": "Damodarbhai Kansagara",
+      "label": "PETITIONER",
+      "start_char": 50499,
+      "end_char": 50520
+    },
+    {
+      "text": "13.12",
+      "label": "DATE",
+      "start_char": 50692,
+      "end_char": 50697
+    },
+    {
+      "text": "section 11",
+      "label": "PROVISION",
+      "start_char": 50938,
+      "end_char": 50948
+    },
+    {
+      "text": "Trademark Act, 1999",
+      "label": "STATUTE",
+      "start_char": 50956,
+      "end_char": 50975
+    },
+    {
+      "text": "13.13",
+      "label": "DATE",
+      "start_char": 51997,
+      "end_char": 52002
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 52209,
+      "end_char": 52219
+    },
+    {
+      "text": "section 9",
+      "label": "PROVISION",
+      "start_char": 53974,
+      "end_char": 53983
+    },
+    {
+      "text": "Trademark Act, 1999",
+      "label": "STATUTE",
+      "start_char": 53991,
+      "end_char": 54010
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 54084,
+      "end_char": 54094
+    },
+    {
+      "text": "13.14",
+      "label": "DATE",
+      "start_char": 54095,
+      "end_char": 54100
+    },
+    {
+      "text": "sections 9, 15 and 17",
+      "label": "PROVISION",
+      "start_char": 54717,
+      "end_char": 54738
+    },
+    {
+      "text": "Trademark Act, 1999",
+      "label": "STATUTE",
+      "start_char": 54746,
+      "end_char": 54765
+    },
+    {
+      "text": "13.15",
+      "label": "DATE",
+      "start_char": 55173,
+      "end_char": 55178
+    },
+    {
+      "text": "Registrar of Trademarks Vs.",
+      "label": "PRECEDENT",
+      "start_char": 55182,
+      "end_char": 55209
+    },
+    {
+      "text": "Ashokchandra Rakhit reported in AIR 1955 SC 5581",
+      "label": "PRECEDENT",
+      "start_char": 55210,
+      "end_char": 55258
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 55272,
+      "end_char": 55282
+    },
+    {
+      "text": "Esher",
+      "label": "OTHER_PERSON",
+      "start_char": 55590,
+      "end_char": 55595
+    },
+    {
+      "text": "Pinto v. Badman(2): (1) [1951] 68 R.P.C. 103",
+      "label": "PRECEDENT",
+      "start_char": 55599,
+      "end_char": 55643
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 55865,
+      "end_char": 55875
+    },
+    {
+      "text": "13.16",
+      "label": "DATE",
+      "start_char": 55876,
+      "end_char": 55881
+    },
+    {
+      "text": "Apollo Parker",
+      "label": "PRECEDENT",
+      "start_char": 55933,
+      "end_char": 55946
+    },
+    {
+      "text": "Apollo",
+      "label": "OTHER_PERSON",
+      "start_char": 56308,
+      "end_char": 56314
+    },
+    {
+      "text": "Apollo",
+      "label": "OTHER_PERSON",
+      "start_char": 56364,
+      "end_char": 56370
+    },
+    {
+      "text": "13.17",
+      "label": "DATE",
+      "start_char": 56557,
+      "end_char": 56562
+    },
+    {
+      "text": "C/AO/20/2023",
+      "label": "CASE_NUMBER",
+      "start_char": 57948,
+      "end_char": 57960
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 58011,
+      "end_char": 58021
+    },
+    {
+      "text": "13.18",
+      "label": "DATE",
+      "start_char": 58022,
+      "end_char": 58027
+    },
+    {
+      "text": "13.19",
+      "label": "DATE",
+      "start_char": 58573,
+      "end_char": 58578
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 59692,
+      "end_char": 59702
+    },
+    {
+      "text": "Uniply Industries Limited",
+      "label": "ORG",
+      "start_char": 59714,
+      "end_char": 59739
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 59788,
+      "end_char": 59798
+    },
+    {
+      "text": "Cadilas",
+      "label": "OTHER_PERSON",
+      "start_char": 60049,
+      "end_char": 60056
+    },
+    {
+      "text": "Trade and Merchandise Marks Act, 1958",
+      "label": "STATUTE",
+      "start_char": 61640,
+      "end_char": 61677
+    },
+    {
+      "text": "Section 12(3)",
+      "label": "PROVISION",
+      "start_char": 61891,
+      "end_char": 61904
+    },
+    {
+      "text": "Trade and Merchandise Marks Act, 1958",
+      "label": "STATUTE",
+      "start_char": 61912,
+      "end_char": 61949
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 62466,
+      "end_char": 62476
+    },
+    {
+      "text": "13.20",
+      "label": "DATE",
+      "start_char": 62477,
+      "end_char": 62482
+    },
+    {
+      "text": "World Express Lift Company",
+      "label": "ORG",
+      "start_char": 63797,
+      "end_char": 63823
+    },
+    {
+      "text": "American Express",
+      "label": "ORG",
+      "start_char": 63953,
+      "end_char": 63969
+    },
+    {
+      "text": "Mcdonald Express",
+      "label": "ORG",
+      "start_char": 63971,
+      "end_char": 63987
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 64225,
+      "end_char": 64235
+    },
+    {
+      "text": "13.22",
+      "label": "DATE",
+      "start_char": 64427,
+      "end_char": 64432
+    },
+    {
+      "text": "Order 39 Rule 1 and 2",
+      "label": "PROVISION",
+      "start_char": 64521,
+      "end_char": 64542
+    },
+    {
+      "text": "13.23",
+      "label": "DATE",
+      "start_char": 65006,
+      "end_char": 65011
+    },
+    {
+      "text": "Wander Limited and another Vs.",
+      "label": "PRECEDENT",
+      "start_char": 65023,
+      "end_char": 65053
+    },
+    {
+      "text": "Antox India Private Limited",
+      "label": "ORG",
+      "start_char": 65054,
+      "end_char": 65081
+    },
+    {
+      "text": "1990 SCC Suppl.",
+      "label": "PRECEDENT",
+      "start_char": 65094,
+      "end_char": 65109
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 65127,
+      "end_char": 65137
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 66135,
+      "end_char": 66145
+    },
+    {
+      "text": "13.24",
+      "label": "DATE",
+      "start_char": 66485,
+      "end_char": 66490
+    },
+    {
+      "text": "Ramdev Food Products (P) Ltd.",
+      "label": "ORG",
+      "start_char": 66502,
+      "end_char": 66531
+    },
+    {
+      "text": "Arvindbhai Rambhai Patel reported in 2006(8) SCC 726",
+      "label": "PRECEDENT",
+      "start_char": 66536,
+      "end_char": 66588
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 66602,
+      "end_char": 66612
+    },
+    {
+      "text": "Wander Ltd. v. Antox India (P) Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 67316,
+      "end_char": 67351
+    },
+    {
+      "text": "Laxmikant V. Patel v. Chetanbhai Shah",
+      "label": "PRECEDENT",
+      "start_char": 67353,
+      "end_char": 67390
+    },
+    {
+      "text": "Seema Arshad Zaheer v. Municipal Corpn. of Greater Mumbai",
+      "label": "PRECEDENT",
+      "start_char": 67395,
+      "end_char": 67452
+    },
+    {
+      "text": "Order 43 Rule 1(r)",
+      "label": "PROVISION",
+      "start_char": 67978,
+      "end_char": 67996
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 68045,
+      "end_char": 68055
+    },
+    {
+      "text": "Shalin Mehta",
+      "label": "OTHER_PERSON",
+      "start_char": 69535,
+      "end_char": 69547
+    },
+    {
+      "text": "04/05/2023",
+      "label": "DATE",
+      "start_char": 69636,
+      "end_char": 69646
+    },
+    {
+      "text": "ASHUTOSH SHASTRI",
+      "label": "JUDGE",
+      "start_char": 70053,
+      "end_char": 70069
+    },
+    {
+      "text": "C. DOSHI",
+      "label": "JUDGE",
+      "start_char": 70078,
+      "end_char": 70086
+    },
+    {
+      "text": "SHEKHAR P. BARVE",
+      "label": "JUDGE",
+      "start_char": 70090,
+      "end_char": 70106
+    }
+  ],
+  "precedent_clusters": {
+    "Seema Arshad Zaheer v. Municipal Corpn. of Greater Mumbai": [
+      "Damodarbhai Kumanbhai Kansagara vs World Express Elevator",
+      "S. Syed Mohideen Vs.",
+      "Kaviraj Pandit Durga Dutt Sharma Vs.",
+      "VMS Bathware Private Limited Vs.",
+      "Midas Hygiene Industries Private Limited Vs.",
+      "Uniply Industries Limited Vs.",
+      "Matrix Telecom Private Limited Vs.",
+      "Apollo Parker Construction Equipments Private Limited Vs.",
+      "Apple Silk Mills Private Limited Vs.",
+      "Delhivery Private Limtied Vs.",
+      "Registrar of Trademarks Vs.",
+      "Wander Limited and another Vs.",
+      "Wander Ltd. v. Antox India (P) Ltd.",
+      "Laxmikant V. Patel v. Chetanbhai Shah",
+      "Seema Arshad Zaheer v. Municipal Corpn. of Greater Mumbai",
+      "Midas Hygiene",
+      "Matrix Telecom",
+      "Apollo Parker",
+      "Apollo Parker"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Order 43 Rule 1(r)",
+      "Civil Procedure Code, 1908",
+      "Order 43 Rule 1(r)",
+      "Civil Procedure Code, 1908"
+    ],
+    [
+      "sections 5 and 3",
+      "Commercial Court Act, 2015",
+      "sections 5 and 3",
+      "Commercial Court Act, 2015"
+    ],
+    [
+      "s 11",
+      "Trademark Act, 1999",
+      "s 11",
+      "Trademark Act, 1999"
+    ],
+    [
+      "sections 5 and 3",
+      "Commercial Court Act, 2015",
+      "sections 5 and 3",
+      "Commercial Court Act, 2015"
+    ],
+    [
+      "section 135",
+      "Trademark Act, 1999, 1999",
+      "section 135",
+      "Trademark Act, 1999, 1999"
+    ],
+    [
+      "section 15 and 17",
+      "Trademark Act, 1999",
+      "section 15 and 17",
+      "Trademark Act, 1999"
+    ],
+    [
+      "section 9",
+      "Trademark Act, 1999",
+      "section 9",
+      "Trademark Act, 1999"
+    ],
+    [
+      "sections 15 and 17",
+      "Trademark Act, 1999",
+      "sections 15 and 17",
+      "Trademark Act, 1999"
+    ],
+    [
+      "Section 17",
+      "Trademark Act, 1999",
+      "Section 17",
+      "Trademark Act, 1999"
+    ],
+    [
+      "section 17",
+      "Trademark Act, 1999",
+      "section 17",
+      "Trademark Act, 1999"
+    ],
+    [
+      "section 9",
+      "Trademark Act, 1999",
+      "section 9",
+      "Trademark Act, 1999"
+    ],
+    [
+      "section 11",
+      "Trademark Act, 1999",
+      "section 11",
+      "Trademark Act, 1999"
+    ],
+    [
+      "section 9",
+      "Trademark Act, 1999",
+      "section 9",
+      "Trademark Act, 1999"
+    ],
+    [
+      "sections 9, 15 and 17",
+      "Trademark Act, 1999",
+      "sections 9, 15 and 17",
+      "Trademark Act, 1999"
+    ],
+    [
+      "Section 12(3)",
+      "Trade and Merchandise Marks Act, 1958",
+      "Section 12(3)",
+      "Trade and Merchandise Marks Act, 1958"
+    ],
+    [
+      "Order 43 Rule 1(r)",
+      "Civil Procedure Code, 1908",
+      "Order 43 Rule 1(r)",
+      "Civil Procedure Code, 1908"
+    ],
+    [
+      "Order 39 Rule 1 and 2",
+      "Commercial Court Act, 2015",
+      "Order 39 Rule 1 and 2",
+      "Commercial Court Act, 2015"
+    ],
+    [
+      "Order 39 Rule 1 and 2",
+      "Commercial Court Act, 2015",
+      "Order 39 Rule 1 and 2",
+      "Commercial Court Act, 2015"
+    ],
+    [
+      "Order 43 Rule 1(r)",
+      "Civil Procedure Code, 1908",
+      "Order 43 Rule 1(r)",
+      "Civil Procedure Code, 1908"
+    ],
+    [
+      "Order 39 Rule 1 and 2",
+      "Commercial Court Act, 2015",
+      "Order 39 Rule 1 and 2",
+      "Commercial Court Act, 2015"
+    ],
+    [
+      "class 7",
+      "Commercial Court Act, 2015",
+      "class 7",
+      "Commercial Court Act, 2015"
+    ],
+    [
+      "class 37",
+      "Commercial Court Act, 2015",
+      "class 37",
+      "Commercial Court Act, 2015"
+    ],
+    [
+      "Class 37 and Class 7",
+      "Trademark Act, 1999, 1999",
+      "Class 37 and Class 7",
+      "Trademark Act, 1999, 1999"
+    ]
+  ],
+  "precedent_counts": {
+    "Seema Arshad Zaheer v. Municipal Corpn. of Greater Mumbai": 19
+  },
+  "provision_counts": {
+    "Order 43 Rule 1(r) of Civil Procedure Code, 1908": 3,
+    "sections 5 and 3 of Commercial Court Act, 2015": 2,
+    "s 11 of Trademark Act, 1999": 1,
+    "section 135 of Trademark Act, 1999, 1999": 1,
+    "section 15 and 17 of Trademark Act, 1999": 1,
+    "section 9 of Trademark Act, 1999": 3,
+    "sections 15 and 17 of Trademark Act, 1999": 1,
+    "Section 17 of Trademark Act, 1999": 1,
+    "section 17 of Trademark Act, 1999": 1,
+    "section 11 of Trademark Act, 1999": 1,
+    "sections 9, 15 and 17 of Trademark Act, 1999": 1,
+    "Section 12(3) of Trade and Merchandise Marks Act, 1958": 1,
+    "Order 39 Rule 1 and 2 of Commercial Court Act, 2015": 3,
+    "class 7 of Commercial Court Act, 2015": 1,
+    "class 37 of Commercial Court Act, 2015": 1,
+    "Class 37 and Class 7 of Trademark Act, 1999, 1999": 1
+  },
+  "statute_counts": {
+    "Civil Procedure Code, 1908": 3,
+    "Commercial Court Act, 2015": 7,
+    "Trademark Act, 1999": 10,
+    "Trademark Act, 1999, 1999": 2,
+    "Trade and Merchandise Marks Act, 1958": 1
+  }
+}

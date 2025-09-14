@@ -1,0 +1,5127 @@
+{
+  "entities": [
+    {
+      "text": "Laxmi Polyfab Pvt. Ltd",
+      "label": "PETITIONER",
+      "start_char": 20,
+      "end_char": 42
+    },
+    {
+      "text": "Eden Realty Ventures Pvt. Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 46,
+      "end_char": 76
+    },
+    {
+      "text": "High Court At Calcutta",
+      "label": "COURT",
+      "start_char": 212,
+      "end_char": 234
+    },
+    {
+      "text": "Laxmi Polyfab Pvt. Ltd.",
+      "label": "PETITIONER",
+      "start_char": 469,
+      "end_char": 492
+    },
+    {
+      "text": "Eden Realty Ventures Pvt. Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 528,
+      "end_char": 558
+    },
+    {
+      "text": "Laxmi Polyfab Pvt. Ltd.",
+      "label": "PETITIONER",
+      "start_char": 717,
+      "end_char": 740
+    },
+    {
+      "text": "Eden Realty Ventures Pvt. Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 775,
+      "end_char": 805
+    },
+    {
+      "text": "Amita Dani",
+      "label": "PETITIONER",
+      "start_char": 927,
+      "end_char": 937
+    },
+    {
+      "text": "Sudha Kankaria",
+      "label": "RESPONDENT",
+      "start_char": 992,
+      "end_char": 1006
+    },
+    {
+      "text": "Godrej Projects Development Ltd.",
+      "label": "PETITIONER",
+      "start_char": 1196,
+      "end_char": 1228
+    },
+    {
+      "text": "Simoco Telecommunications (South Asia) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 1257,
+      "end_char": 1300
+    },
+    {
+      "text": "Talat Ahmed",
+      "label": "PETITIONER",
+      "start_char": 1463,
+      "end_char": 1474
+    },
+    {
+      "text": "Prabhadeep Construction Pvt. Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 1520,
+      "end_char": 1553
+    },
+    {
+      "text": "E.D. Enterprises Private Limited",
+      "label": "PETITIONER",
+      "start_char": 1693,
+      "end_char": 1725
+    },
+    {
+      "text": "Kaiser Begum",
+      "label": "RESPONDENT",
+      "start_char": 1779,
+      "end_char": 1791
+    },
+    {
+      "text": "Mohan Motor Business Pvt. Ltd.",
+      "label": "PETITIONER",
+      "start_char": 1925,
+      "end_char": 1955
+    },
+    {
+      "text": "Magma Fincorp Limited",
+      "label": "RESPONDENT",
+      "start_char": 2010,
+      "end_char": 2031
+    },
+    {
+      "text": "Rajeev Kumar Jain",
+      "label": "LAWYER",
+      "start_char": 2068,
+      "end_char": 2085
+    },
+    {
+      "text": "Ayush Jain",
+      "label": "LAWYER",
+      "start_char": 2126,
+      "end_char": 2136
+    },
+    {
+      "text": "Surajit Nath Mitra",
+      "label": "LAWYER",
+      "start_char": 2201,
+      "end_char": 2219
+    },
+    {
+      "text": "Reetobroto Mitra",
+      "label": "LAWYER",
+      "start_char": 2264,
+      "end_char": 2280
+    },
+    {
+      "text": "Deepak Jain",
+      "label": "LAWYER",
+      "start_char": 2321,
+      "end_char": 2332
+    },
+    {
+      "text": "Jayanta Mitra",
+      "label": "LAWYER",
+      "start_char": 2375,
+      "end_char": 2388
+    },
+    {
+      "text": "Debdut Mukherjee",
+      "label": "LAWYER",
+      "start_char": 2455,
+      "end_char": 2471
+    },
+    {
+      "text": "Prith Basu",
+      "label": "LAWYER",
+      "start_char": 2511,
+      "end_char": 2521
+    },
+    {
+      "text": "Sabyasachi Chowdhury",
+      "label": "LAWYER",
+      "start_char": 2568,
+      "end_char": 2588
+    },
+    {
+      "text": "Rajarshi Dutta",
+      "label": "LAWYER",
+      "start_char": 2630,
+      "end_char": 2644
+    },
+    {
+      "text": "Avirup Chattaerjee",
+      "label": "LAWYER",
+      "start_char": 2686,
+      "end_char": 2704
+    },
+    {
+      "text": "Swatarup Banerjee",
+      "label": "LAWYER",
+      "start_char": 2748,
+      "end_char": 2765
+    },
+    {
+      "text": "Paritosh Sinha",
+      "label": "LAWYER",
+      "start_char": 2807,
+      "end_char": 2821
+    },
+    {
+      "text": "Manali Bose",
+      "label": "LAWYER",
+      "start_char": 2863,
+      "end_char": 2874
+    },
+    {
+      "text": "Saubhik Chowdhury",
+      "label": "LAWYER",
+      "start_char": 2916,
+      "end_char": 2933
+    },
+    {
+      "text": "Dripto Majumdar",
+      "label": "LAWYER",
+      "start_char": 2969,
+      "end_char": 2984
+    },
+    {
+      "text": "Ayusmita Sinha",
+      "label": "LAWYER",
+      "start_char": 3026,
+      "end_char": 3040
+    },
+    {
+      "text": "Rajarshi Dutta",
+      "label": "LAWYER",
+      "start_char": 3083,
+      "end_char": 3097
+    },
+    {
+      "text": "Sandip Dutta",
+      "label": "LAWYER",
+      "start_char": 3139,
+      "end_char": 3151
+    },
+    {
+      "text": "Ranjan Bachawat",
+      "label": "LAWYER",
+      "start_char": 3207,
+      "end_char": 3222
+    },
+    {
+      "text": "Debdut Mukherjee",
+      "label": "LAWYER",
+      "start_char": 3265,
+      "end_char": 3281
+    },
+    {
+      "text": "Meghajit Mukherjee",
+      "label": "LAWYER",
+      "start_char": 3318,
+      "end_char": 3336
+    },
+    {
+      "text": "Vikas Tewary",
+      "label": "LAWYER",
+      "start_char": 3379,
+      "end_char": 3391
+    },
+    {
+      "text": "Anik Banerjee",
+      "label": "LAWYER",
+      "start_char": 3436,
+      "end_char": 3449
+    },
+    {
+      "text": "C. K. Saha",
+      "label": "LAWYER",
+      "start_char": 3493,
+      "end_char": 3503
+    },
+    {
+      "text": "Syed Hassan",
+      "label": "LAWYER",
+      "start_char": 3547,
+      "end_char": 3558
+    },
+    {
+      "text": "Subid Ali",
+      "label": "LAWYER",
+      "start_char": 3602,
+      "end_char": 3611
+    },
+    {
+      "text": "Rajarshi Dutta",
+      "label": "LAWYER",
+      "start_char": 3654,
+      "end_char": 3668
+    },
+    {
+      "text": "Sayantan Bose",
+      "label": "LAWYER",
+      "start_char": 3710,
+      "end_char": 3723
+    },
+    {
+      "text": "K. K. Pandey",
+      "label": "LAWYER",
+      "start_char": 3780,
+      "end_char": 3792
+    },
+    {
+      "text": "March 01, 2021",
+      "label": "DATE",
+      "start_char": 3847,
+      "end_char": 3861
+    },
+    {
+      "text": "DEBANGSU BASAK",
+      "label": "JUDGE",
+      "start_char": 3913,
+      "end_char": 3927
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 4136,
+      "end_char": 4174
+    },
+    {
+      "text": "Section 12A and Section 15",
+      "label": "PROVISION",
+      "start_char": 4370,
+      "end_char": 4396
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 4404,
+      "end_char": 4442
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 4752,
+      "end_char": 4763
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 4771,
+      "end_char": 4798
+    },
+    {
+      "text": "Section 12A and Section 15",
+      "label": "PROVISION",
+      "start_char": 4853,
+      "end_char": 4879
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 4887,
+      "end_char": 4914
+    },
+    {
+      "text": "Section 2(1)(c)",
+      "label": "PROVISION",
+      "start_char": 4978,
+      "end_char": 4993
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 5177,
+      "end_char": 5188
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 5196,
+      "end_char": 5223
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 5973,
+      "end_char": 6011
+    },
+    {
+      "text": "CS No. 213 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 6126,
+      "end_char": 6144
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 6179,
+      "end_char": 6190
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 6244,
+      "end_char": 6255
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 6683,
+      "end_char": 6694
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 7033,
+      "end_char": 7044
+    },
+    {
+      "text": "CS No. 213 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 7144,
+      "end_char": 7162
+    },
+    {
+      "text": "Sub-Section (1) of Section 12(A)",
+      "label": "PROVISION",
+      "start_char": 7208,
+      "end_char": 7240
+    },
+    {
+      "text": "Sub-Section (1) of Section 12A",
+      "label": "PROVISION",
+      "start_char": 7735,
+      "end_char": 7765
+    },
+    {
+      "text": "CS No. 213 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 7899,
+      "end_char": 7917
+    },
+    {
+      "text": "July 3, 2018",
+      "label": "DATE",
+      "start_char": 8014,
+      "end_char": 8026
+    },
+    {
+      "text": "Legal Services Act, 1987",
+      "label": "STATUTE",
+      "start_char": 8096,
+      "end_char": 8120
+    },
+    {
+      "text": "CS No. 213 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 8276,
+      "end_char": 8294
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 8362,
+      "end_char": 8373
+    },
+    {
+      "text": "CS No. 213 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 8558,
+      "end_char": 8576
+    },
+    {
+      "text": "GA No. 1106 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 8743,
+      "end_char": 8762
+    },
+    {
+      "text": "GA No. 1179 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 8869,
+      "end_char": 8888
+    },
+    {
+      "text": "Chapter XIIIA",
+      "label": "PROVISION",
+      "start_char": 8896,
+      "end_char": 8909
+    },
+    {
+      "text": "Original Side Rules",
+      "label": "STATUTE",
+      "start_char": 8917,
+      "end_char": 8936
+    },
+    {
+      "text": "Letters Patents Act, 1865",
+      "label": "STATUTE",
+      "start_char": 9199,
+      "end_char": 9224
+    },
+    {
+      "text": "CS No. 213 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 9308,
+      "end_char": 9326
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 9374,
+      "end_char": 9385
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 9471,
+      "end_char": 9482
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 9573,
+      "end_char": 9584
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 9945,
+      "end_char": 9956
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 10211,
+      "end_char": 10222
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 10254,
+      "end_char": 10265
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 10577,
+      "end_char": 10588
+    },
+    {
+      "text": "CS No. 213 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 10682,
+      "end_char": 10700
+    },
+    {
+      "text": "2007 Volume 6 Supreme Court",
+      "label": "PRECEDENT",
+      "start_char": 10717,
+      "end_char": 10744
+    },
+    {
+      "text": "R.N. Jadi",
+      "label": "OTHER_PERSON",
+      "start_char": 10761,
+      "end_char": 10770
+    },
+    {
+      "text": "Zolba v. Keshao & Ors.",
+      "label": "PRECEDENT",
+      "start_char": 10855,
+      "end_char": 10877
+    },
+    {
+      "text": "All India Reporter 1957",
+      "label": "PRECEDENT",
+      "start_char": 10880,
+      "end_char": 10903
+    },
+    {
+      "text": "Supreme Court 912 (State of U.P. v. Manbodhan Lal Srivastava), All India Reporter 1955",
+      "label": "PRECEDENT",
+      "start_char": 10904,
+      "end_char": 10990
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 10991,
+      "end_char": 11004
+    },
+    {
+      "text": "Hari Vishnu Kamath v. Syed Ahmad Ishaque & Ors.)",
+      "label": "PRECEDENT",
+      "start_char": 11010,
+      "end_char": 11058
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 11084,
+      "end_char": 11097
+    },
+    {
+      "text": "2261 (Shivjee Singh v. Nagendra Tiwary & Ors.), All India Reporter 1954",
+      "label": "PRECEDENT",
+      "start_char": 11098,
+      "end_char": 11169
+    },
+    {
+      "text": "Calcutta",
+      "label": "GPE",
+      "start_char": 11170,
+      "end_char": 11178
+    },
+    {
+      "text": "Ajit Kumar Sen",
+      "label": "OTHER_PERSON",
+      "start_char": 11188,
+      "end_char": 11202
+    },
+    {
+      "text": "Food Inspector, Cannanore Municipality, Cannanore v. M. Gopalan",
+      "label": "PRECEDENT",
+      "start_char": 11288,
+      "end_char": 11351
+    },
+    {
+      "text": "Sunita Devi",
+      "label": "OTHER_PERSON",
+      "start_char": 11399,
+      "end_char": 11410
+    },
+    {
+      "text": "Abdhesh Kumar Sinha alias Kamleshwari",
+      "label": "RESPONDENT",
+      "start_char": 11421,
+      "end_char": 11458
+    },
+    {
+      "text": "Sinha",
+      "label": "OTHER_PERSON",
+      "start_char": 11463,
+      "end_char": 11468
+    },
+    {
+      "text": "All India Reporter 1978 Supreme Court",
+      "label": "PRECEDENT",
+      "start_char": 11478,
+      "end_char": 11515
+    },
+    {
+      "text": "Lila Gupta v. Laxmi Narain & Ors.), All India Reporter 1980 Supreme Court page 303",
+      "label": "PRECEDENT",
+      "start_char": 11532,
+      "end_char": 11614
+    },
+    {
+      "text": "Sharif-ud-Din v. Abdul Gani Lone), All India Reporter 1989 Supreme Court",
+      "label": "PRECEDENT",
+      "start_char": 11616,
+      "end_char": 11688
+    },
+    {
+      "text": "M.V. \"Vali Pero\" v. Fernandeo Lopez & Ors.",
+      "label": "PRECEDENT",
+      "start_char": 11733,
+      "end_char": 11775
+    },
+    {
+      "text": "Macquarie Bank Limited v. Shilpi Cable Technologies Limited), 2005 Volume 6 Supreme Court Cases page 344",
+      "label": "PRECEDENT",
+      "start_char": 11822,
+      "end_char": 11926
+    },
+    {
+      "text": "Salem Advocate Bar Association, Tamil Nadu v. Union of India), 2018 SCC Online (Calcutta) page 5606",
+      "label": "PRECEDENT",
+      "start_char": 11928,
+      "end_char": 12027
+    },
+    {
+      "text": "Srei Infrastructure Finance Limited v. Candor Gurgaon two Developers and Projects Pvt. Ltd.), 2018 Volume 9 Supreme Court",
+      "label": "PRECEDENT",
+      "start_char": 12029,
+      "end_char": 12150
+    },
+    {
+      "text": "State of Bihar",
+      "label": "GPE",
+      "start_char": 12167,
+      "end_char": 12181
+    },
+    {
+      "text": "Bihar Rajya Bhumi Vikas Bank Samiti)",
+      "label": "RESPONDENT",
+      "start_char": 12192,
+      "end_char": 12228
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 12248,
+      "end_char": 12259
+    },
+    {
+      "text": "CS No. 213 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 12318,
+      "end_char": 12336
+    },
+    {
+      "text": "Section 80",
+      "label": "PROVISION",
+      "start_char": 12382,
+      "end_char": 12392
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 12400,
+      "end_char": 12429
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 12431,
+      "end_char": 12442
+    },
+    {
+      "text": "Section 80",
+      "label": "PROVISION",
+      "start_char": 12561,
+      "end_char": 12571
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 12579,
+      "end_char": 12608
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 12622,
+      "end_char": 12633
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 12673,
+      "end_char": 12684
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 12842,
+      "end_char": 12853
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 12986,
+      "end_char": 12997
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 13031,
+      "end_char": 13042
+    },
+    {
+      "text": "CS No. 213 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 13287,
+      "end_char": 13305
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 13344,
+      "end_char": 13355
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 13417,
+      "end_char": 13435
+    },
+    {
+      "text": "July 3, 2018",
+      "label": "DATE",
+      "start_char": 13537,
+      "end_char": 13549
+    },
+    {
+      "text": "CS No. 213 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 13868,
+      "end_char": 13886
+    },
+    {
+      "text": "Commercial Courts (Pre-institution Mediation and Settlement) Rules, 2018",
+      "label": "STATUTE",
+      "start_char": 13925,
+      "end_char": 13997
+    },
+    {
+      "text": "Rule 3(1)",
+      "label": "PROVISION",
+      "start_char": 14015,
+      "end_char": 14024
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 14071,
+      "end_char": 14082
+    },
+    {
+      "text": "Act of 2015",
+      "label": "STATUTE",
+      "start_char": 14090,
+      "end_char": 14101
+    },
+    {
+      "text": "Rule 3",
+      "label": "PROVISION",
+      "start_char": 14315,
+      "end_char": 14321
+    },
+    {
+      "text": "1984 Volume 2 Supreme Court Cases page 50 (Babaji Kondaji Garad v. Nasik Merchants Co-operative Bank Ltd. Nasik)",
+      "label": "PRECEDENT",
+      "start_char": 14548,
+      "end_char": 14660
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 14720,
+      "end_char": 14731
+    },
+    {
+      "text": "CS No. 213 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 14900,
+      "end_char": 14918
+    },
+    {
+      "text": "2011 SCC Online 4325 (Cal.",
+      "label": "PRECEDENT",
+      "start_char": 14935,
+      "end_char": 14961
+    },
+    {
+      "text": "Port Blair v. Airport Authority of India), 2012 Volume 13 Supreme Court Cases page 538",
+      "label": "PRECEDENT",
+      "start_char": 14964,
+      "end_char": 15050
+    },
+    {
+      "text": "Chaluvegowda v. State",
+      "label": "PRECEDENT",
+      "start_char": 15052,
+      "end_char": 15073
+    },
+    {
+      "text": "1970 Volume 3 Supreme Court",
+      "label": "PRECEDENT",
+      "start_char": 15079,
+      "end_char": 15106
+    },
+    {
+      "text": "Gangappa Gurupadappa Guwad v. Rachawwa",
+      "label": "PRECEDENT",
+      "start_char": 15123,
+      "end_char": 15161
+    },
+    {
+      "text": "CS No.136 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 15172,
+      "end_char": 15189
+    },
+    {
+      "text": "CS No. 136 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 15389,
+      "end_char": 15407
+    },
+    {
+      "text": "section 2 (1) (c)",
+      "label": "PROVISION",
+      "start_char": 15471,
+      "end_char": 15488
+    },
+    {
+      "text": "2019 SCC Online SC 1311 (Ambalal Sarabhai Enterprises Ltd versus K S Infraspace LLP and another)",
+      "label": "PRECEDENT",
+      "start_char": 16153,
+      "end_char": 16249
+    },
+    {
+      "text": "CS No.136 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 16441,
+      "end_char": 16458
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 16507,
+      "end_char": 16524
+    },
+    {
+      "text": "Code of Civil Procedure 1908",
+      "label": "STATUTE",
+      "start_char": 16532,
+      "end_char": 16560
+    },
+    {
+      "text": "2014 Volume 1 Supreme Court Cases 648 (Oil and Natural Gas Corporation versus Modern Construction and Company)",
+      "label": "PRECEDENT",
+      "start_char": 16832,
+      "end_char": 16942
+    },
+    {
+      "text": "All India Reporter 1963 Supreme Court 424 (Amar Nath Dogra versus Union of India",
+      "label": "PRECEDENT",
+      "start_char": 16962,
+      "end_char": 17042
+    },
+    {
+      "text": "All India Reporter 1984",
+      "label": "PRECEDENT",
+      "start_char": 17048,
+      "end_char": 17071
+    },
+    {
+      "text": "Supreme Court 1043 (Behari Chowdhary and another versus State of Bihar and others)",
+      "label": "COURT",
+      "start_char": 17072,
+      "end_char": 17154
+    },
+    {
+      "text": "CS No.136 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 17209,
+      "end_char": 17226
+    },
+    {
+      "text": "section 12A",
+      "label": "PROVISION",
+      "start_char": 17265,
+      "end_char": 17276
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 17311,
+      "end_char": 17322
+    },
+    {
+      "text": "section 80",
+      "label": "PROVISION",
+      "start_char": 17334,
+      "end_char": 17344
+    },
+    {
+      "text": "Code of Civil Procedure 1908",
+      "label": "STATUTE",
+      "start_char": 17352,
+      "end_char": 17380
+    },
+    {
+      "text": "section 12A",
+      "label": "PROVISION",
+      "start_char": 17443,
+      "end_char": 17454
+    },
+    {
+      "text": "CS No.136 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 17561,
+      "end_char": 17578
+    },
+    {
+      "text": "Order VII Rule 11",
+      "label": "PROVISION",
+      "start_char": 17621,
+      "end_char": 17638
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 17646,
+      "end_char": 17675
+    },
+    {
+      "text": "Ambalal Sarabhai",
+      "label": "PRECEDENT",
+      "start_char": 17744,
+      "end_char": 17760
+    },
+    {
+      "text": "Delhi 186 (Soni Dave versus Translation Industries Expositions Private Limited)",
+      "label": "PRECEDENT",
+      "start_char": 17797,
+      "end_char": 17876
+    },
+    {
+      "text": "section 15",
+      "label": "PROVISION",
+      "start_char": 18395,
+      "end_char": 18405
+    },
+    {
+      "text": "CS No.136 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 18481,
+      "end_char": 18498
+    },
+    {
+      "text": "section 31",
+      "label": "PROVISION",
+      "start_char": 18656,
+      "end_char": 18666
+    },
+    {
+      "text": "Banks and Bankruptcy Act, 1993",
+      "label": "STATUTE",
+      "start_char": 18699,
+      "end_char": 18729
+    },
+    {
+      "text": "section 15",
+      "label": "PROVISION",
+      "start_char": 18730,
+      "end_char": 18740
+    },
+    {
+      "text": "section 15",
+      "label": "PROVISION",
+      "start_char": 18817,
+      "end_char": 18827
+    },
+    {
+      "text": "section 15",
+      "label": "PROVISION",
+      "start_char": 19073,
+      "end_char": 19083
+    },
+    {
+      "text": "2016 SCC Online Bom 9019 (Hubtown Ltd. versus IDBI Trusteeship Services Ltd.)",
+      "label": "PRECEDENT",
+      "start_char": 19123,
+      "end_char": 19200
+    },
+    {
+      "text": "section 12 A",
+      "label": "PROVISION",
+      "start_char": 19265,
+      "end_char": 19277
+    },
+    {
+      "text": "Hubtown",
+      "label": "PRECEDENT",
+      "start_char": 19340,
+      "end_char": 19347
+    },
+    {
+      "text": "February 22, 2021",
+      "label": "DATE",
+      "start_char": 19541,
+      "end_char": 19558
+    },
+    {
+      "text": "C.O. No. 1678 of 2020 (M/s Dhanbad Fuels Ltd versus Union of India and others)",
+      "label": "PRECEDENT",
+      "start_char": 19569,
+      "end_char": 19647
+    },
+    {
+      "text": "Section 12 A",
+      "label": "PROVISION",
+      "start_char": 19821,
+      "end_char": 19833
+    },
+    {
+      "text": "IA GA No. 1 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 19939,
+      "end_char": 19958
+    },
+    {
+      "text": "AP No. 25 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 19962,
+      "end_char": 19979
+    },
+    {
+      "text": "High Court at Calcutta",
+      "label": "COURT",
+      "start_char": 20271,
+      "end_char": 20293
+    },
+    {
+      "text": "Section 2(1)(d) read with Section 4",
+      "label": "PROVISION",
+      "start_char": 20507,
+      "end_char": 20542
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 21032,
+      "end_char": 21049
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 21057,
+      "end_char": 21086
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 21140,
+      "end_char": 21150
+    },
+    {
+      "text": "Section 15(3)",
+      "label": "PROVISION",
+      "start_char": 21241,
+      "end_char": 21254
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 21567,
+      "end_char": 21578
+    },
+    {
+      "text": "IA GA No. 1 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 21860,
+      "end_char": 21879
+    },
+    {
+      "text": "No 25 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 21886,
+      "end_char": 21899
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 22221,
+      "end_char": 22232
+    },
+    {
+      "text": "Chapter IIIA",
+      "label": "PROVISION",
+      "start_char": 23198,
+      "end_char": 23210
+    },
+    {
+      "text": "May 3, 2018",
+      "label": "DATE",
+      "start_char": 23279,
+      "end_char": 23290
+    },
+    {
+      "text": "Section 12A.",
+      "label": "PROVISION",
+      "start_char": 23314,
+      "end_char": 23326
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 23437,
+      "end_char": 23448
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 23469,
+      "end_char": 23480
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 23825,
+      "end_char": 23843
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 23854,
+      "end_char": 23872
+    },
+    {
+      "text": "Legal Services Authorities Act, 1987 (39 of 1987)",
+      "label": "STATUTE",
+      "start_char": 23943,
+      "end_char": 23992
+    },
+    {
+      "text": "Legal Services Authorities Act, 1987 (39 of 1987)",
+      "label": "STATUTE",
+      "start_char": 24088,
+      "end_char": 24137
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 24171,
+      "end_char": 24189
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 24397,
+      "end_char": 24408
+    },
+    {
+      "text": "Section 15 and Section 21",
+      "label": "PROVISION",
+      "start_char": 24447,
+      "end_char": 24472
+    },
+    {
+      "text": "Sections 15 and 21",
+      "label": "PROVISION",
+      "start_char": 24553,
+      "end_char": 24571
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 24705,
+      "end_char": 24756
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 24999,
+      "end_char": 25050
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 25575,
+      "end_char": 25626
+    },
+    {
+      "text": "Order XV-A]",
+      "label": "PROVISION",
+      "start_char": 26230,
+      "end_char": 26241
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908):",
+      "label": "STATUTE",
+      "start_char": 26249,
+      "end_char": 26291
+    },
+    {
+      "text": "proviso to sub-rule (1) of rule 1 of Order V",
+      "label": "PROVISION",
+      "start_char": 26310,
+      "end_char": 26354
+    },
+    {
+      "text": "Code of Civil Procedure, 1908(5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 26362,
+      "end_char": 26402
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 27525,
+      "end_char": 27554
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 27626,
+      "end_char": 27655
+    },
+    {
+      "text": "Section 26 and 35",
+      "label": "PROVISION",
+      "start_char": 27734,
+      "end_char": 27751
+    },
+    {
+      "text": "Section 35A(2)",
+      "label": "PROVISION",
+      "start_char": 27785,
+      "end_char": 27799
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 27807,
+      "end_char": 27836
+    },
+    {
+      "text": "Section 35",
+      "label": "PROVISION",
+      "start_char": 27856,
+      "end_char": 27866
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 27874,
+      "end_char": 27903
+    },
+    {
+      "text": "Sub-Section (3) of Section 35",
+      "label": "PROVISION",
+      "start_char": 28036,
+      "end_char": 28065
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 28073,
+      "end_char": 28102
+    },
+    {
+      "text": "Section 21",
+      "label": "PROVISION",
+      "start_char": 28334,
+      "end_char": 28344
+    },
+    {
+      "text": "Section 21",
+      "label": "PROVISION",
+      "start_char": 28689,
+      "end_char": 28699
+    },
+    {
+      "text": "Ajit Kumar Sen & Ors.",
+      "label": "PRECEDENT",
+      "start_char": 29038,
+      "end_char": 29059
+    },
+    {
+      "text": "Section 45(3)",
+      "label": "PROVISION",
+      "start_char": 29105,
+      "end_char": 29118
+    },
+    {
+      "text": "Calcutta Municipal Act, 1923",
+      "label": "STATUTE",
+      "start_char": 29126,
+      "end_char": 29154
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 29160,
+      "end_char": 29179
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 29429,
+      "end_char": 29442
+    },
+    {
+      "text": "Hari Vishnu Kamath",
+      "label": "PRECEDENT",
+      "start_char": 29446,
+      "end_char": 29464
+    },
+    {
+      "text": "Article 329(b)",
+      "label": "PROVISION",
+      "start_char": 29502,
+      "end_char": 29516
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 29524,
+      "end_char": 29536
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 30146,
+      "end_char": 30159
+    },
+    {
+      "text": "Sharif-ud-Din",
+      "label": "PRECEDENT",
+      "start_char": 30163,
+      "end_char": 30176
+    },
+    {
+      "text": "Jammu & Kashmir Representation of People Act, 1957",
+      "label": "STATUTE",
+      "start_char": 30218,
+      "end_char": 30268
+    },
+    {
+      "text": "M.V. \"Vali Pero",
+      "label": "PRECEDENT",
+      "start_char": 31940,
+      "end_char": 31955
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 31969,
+      "end_char": 31982
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 32002,
+      "end_char": 32021
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 32621,
+      "end_char": 32634
+    },
+    {
+      "text": "Chandrika Prasad Yadav",
+      "label": "PRECEDENT",
+      "start_char": 32638,
+      "end_char": 32660
+    },
+    {
+      "text": "Patna High Court",
+      "label": "COURT",
+      "start_char": 32947,
+      "end_char": 32963
+    },
+    {
+      "text": "Sunita Devi",
+      "label": "OTHER_PERSON",
+      "start_char": 32972,
+      "end_char": 32983
+    },
+    {
+      "text": "Order VIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 33032,
+      "end_char": 33049
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 33057,
+      "end_char": 33086
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 33210,
+      "end_char": 33239
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 33245,
+      "end_char": 33258
+    },
+    {
+      "text": "R.N. Jadi",
+      "label": "OTHER_PERSON",
+      "start_char": 33262,
+      "end_char": 33271
+    },
+    {
+      "text": "Salem Advocate Bar Association, Tamil Nadu",
+      "label": "PRECEDENT",
+      "start_char": 33299,
+      "end_char": 33341
+    },
+    {
+      "text": "Zolba",
+      "label": "PRECEDENT",
+      "start_char": 33354,
+      "end_char": 33359
+    },
+    {
+      "text": "Order VIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 33401,
+      "end_char": 33418
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 33426,
+      "end_char": 33455
+    },
+    {
+      "text": "Salem Advocate Bar Association, Tamil Nadu",
+      "label": "PRECEDENT",
+      "start_char": 33545,
+      "end_char": 33587
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 33600,
+      "end_char": 33613
+    },
+    {
+      "text": "Order VIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 33629,
+      "end_char": 33646
+    },
+    {
+      "text": "R.N. Jadi & Brothers",
+      "label": "ORG",
+      "start_char": 33750,
+      "end_char": 33770
+    },
+    {
+      "text": "Zolba",
+      "label": "PRECEDENT",
+      "start_char": 33790,
+      "end_char": 33795
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 33814,
+      "end_char": 33827
+    },
+    {
+      "text": "Manbodhan Lal Srivastava",
+      "label": "PRECEDENT",
+      "start_char": 33831,
+      "end_char": 33855
+    },
+    {
+      "text": "Article 320(3)(c)",
+      "label": "PROVISION",
+      "start_char": 34197,
+      "end_char": 34214
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 34375,
+      "end_char": 34388
+    },
+    {
+      "text": "Shivjee Singh",
+      "label": "PRECEDENT",
+      "start_char": 34392,
+      "end_char": 34405
+    },
+    {
+      "text": "Section 1 and Section 202(2)",
+      "label": "PROVISION",
+      "start_char": 34429,
+      "end_char": 34457
+    },
+    {
+      "text": "Criminal Procedure Code, 1973",
+      "label": "STATUTE",
+      "start_char": 34473,
+      "end_char": 34502
+    },
+    {
+      "text": "Section 1",
+      "label": "PROVISION",
+      "start_char": 34562,
+      "end_char": 34571
+    },
+    {
+      "text": "Criminal Procedure Code, 1973",
+      "label": "STATUTE",
+      "start_char": 34579,
+      "end_char": 34608
+    },
+    {
+      "text": "proviso to Section 202(2)",
+      "label": "PROVISION",
+      "start_char": 34667,
+      "end_char": 34692
+    },
+    {
+      "text": "Criminal Procedure Code, 1973",
+      "label": "STATUTE",
+      "start_char": 34700,
+      "end_char": 34729
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 34757,
+      "end_char": 34770
+    },
+    {
+      "text": "Lila Gupta",
+      "label": "PRECEDENT",
+      "start_char": 34779,
+      "end_char": 34789
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 34828,
+      "end_char": 34838
+    },
+    {
+      "text": "Hindu Marriage Act, 1955",
+      "label": "STATUTE",
+      "start_char": 34846,
+      "end_char": 34870
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 34919,
+      "end_char": 34932
+    },
+    {
+      "text": "Macquarie Bank Limited",
+      "label": "PRECEDENT",
+      "start_char": 34936,
+      "end_char": 34958
+    },
+    {
+      "text": "Section 9(3)(c)",
+      "label": "PROVISION",
+      "start_char": 34982,
+      "end_char": 34997
+    },
+    {
+      "text": "Insolvency and Bankruptcy Code",
+      "label": "STATUTE",
+      "start_char": 35005,
+      "end_char": 35035
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 35123,
+      "end_char": 35136
+    },
+    {
+      "text": "Bihar Rajya Bhumi Vikas Bank Samiti",
+      "label": "PRECEDENT",
+      "start_char": 35140,
+      "end_char": 35175
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 35217,
+      "end_char": 35227
+    },
+    {
+      "text": "Act of Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 35235,
+      "end_char": 35280
+    },
+    {
+      "text": "High Courts of Bombay and Calcutta",
+      "label": "COURT",
+      "start_char": 35313,
+      "end_char": 35347
+    },
+    {
+      "text": "Gurgaon",
+      "label": "GPE",
+      "start_char": 35383,
+      "end_char": 35390
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 35444,
+      "end_char": 35463
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 35562,
+      "end_char": 35572
+    },
+    {
+      "text": "Kerala High Court",
+      "label": "COURT",
+      "start_char": 35708,
+      "end_char": 35725
+    },
+    {
+      "text": "M. Gopalan",
+      "label": "PRECEDENT",
+      "start_char": 35729,
+      "end_char": 35739
+    },
+    {
+      "text": "Section 23",
+      "label": "PROVISION",
+      "start_char": 35784,
+      "end_char": 35794
+    },
+    {
+      "text": "Prevention of Food Adulteration Act, 1954",
+      "label": "STATUTE",
+      "start_char": 35802,
+      "end_char": 35843
+    },
+    {
+      "text": "Rule 7(3)",
+      "label": "PROVISION",
+      "start_char": 35848,
+      "end_char": 35857
+    },
+    {
+      "text": "Prevention of Food Adulteration Rules, 1955",
+      "label": "STATUTE",
+      "start_char": 35865,
+      "end_char": 35908
+    },
+    {
+      "text": "Rule 7(3)",
+      "label": "PROVISION",
+      "start_char": 35923,
+      "end_char": 35932
+    },
+    {
+      "text": "Ambalal Sarabhai Enterprises Limited",
+      "label": "PRECEDENT",
+      "start_char": 35979,
+      "end_char": 36015
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 36028,
+      "end_char": 36041
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 36154,
+      "end_char": 36167
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 36766,
+      "end_char": 36771
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 36913,
+      "end_char": 36942
+    },
+    {
+      "text": "Dhanbad Fuels Limited",
+      "label": "PRECEDENT",
+      "start_char": 37266,
+      "end_char": 37287
+    },
+    {
+      "text": "Order VII Rule 11 (d)",
+      "label": "PROVISION",
+      "start_char": 37393,
+      "end_char": 37414
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 37422,
+      "end_char": 37451
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 37511,
+      "end_char": 37522
+    },
+    {
+      "text": "Order VII Rule 11(a)",
+      "label": "PROVISION",
+      "start_char": 37623,
+      "end_char": 37643
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 37651,
+      "end_char": 37680
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 37760,
+      "end_char": 37771
+    },
+    {
+      "text": "Order VII Rule 11 (d)",
+      "label": "PROVISION",
+      "start_char": 37833,
+      "end_char": 37854
+    },
+    {
+      "text": "section 12A",
+      "label": "PROVISION",
+      "start_char": 37918,
+      "end_char": 37929
+    },
+    {
+      "text": "December 11, 2020",
+      "label": "DATE",
+      "start_char": 38373,
+      "end_char": 38390
+    },
+    {
+      "text": "January 27, 2020",
+      "label": "DATE",
+      "start_char": 38442,
+      "end_char": 38458
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 38469,
+      "end_char": 38486
+    },
+    {
+      "text": "2021 SCC Online Bom 195 (Ganga Taro Vazirani v. Deepak Raheja)",
+      "label": "PRECEDENT",
+      "start_char": 38490,
+      "end_char": 38552
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 38568,
+      "end_char": 38579
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 38708,
+      "end_char": 38719
+    },
+    {
+      "text": "May 3, 2018",
+      "label": "DATE",
+      "start_char": 38868,
+      "end_char": 38879
+    },
+    {
+      "text": "Sub-Section (1) of Section 12A",
+      "label": "PROVISION",
+      "start_char": 38881,
+      "end_char": 38911
+    },
+    {
+      "text": "Sub-Section (2) of Section 12A",
+      "label": "PROVISION",
+      "start_char": 39084,
+      "end_char": 39114
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 39132,
+      "end_char": 39150
+    },
+    {
+      "text": "Legal Services Authority Act, 1987",
+      "label": "STATUTE",
+      "start_char": 39198,
+      "end_char": 39232
+    },
+    {
+      "text": "Sub-Section (2) of Section 12A",
+      "label": "PROVISION",
+      "start_char": 39318,
+      "end_char": 39348
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 39373,
+      "end_char": 39391
+    },
+    {
+      "text": "July 3, 2018",
+      "label": "DATE",
+      "start_char": 39420,
+      "end_char": 39432
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 39461,
+      "end_char": 39466
+    },
+    {
+      "text": "July 3, 2018",
+      "label": "DATE",
+      "start_char": 39470,
+      "end_char": 39482
+    },
+    {
+      "text": "Legal Services Authorities Act, 1987",
+      "label": "STATUTE",
+      "start_char": 39564,
+      "end_char": 39600
+    },
+    {
+      "text": "Chapter IIIA",
+      "label": "PROVISION",
+      "start_char": 39668,
+      "end_char": 39680
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 39710,
+      "end_char": 39721
+    },
+    {
+      "text": "Sub-Section (3) of Section 12A",
+      "label": "PROVISION",
+      "start_char": 39747,
+      "end_char": 39777
+    },
+    {
+      "text": "Limitation Act, 1963",
+      "label": "STATUTE",
+      "start_char": 40261,
+      "end_char": 40281
+    },
+    {
+      "text": "Sub-Section (4) of Section 12A",
+      "label": "PROVISION",
+      "start_char": 40283,
+      "end_char": 40313
+    },
+    {
+      "text": "Section (5) of Section 12A",
+      "label": "PROVISION",
+      "start_char": 40527,
+      "end_char": 40553
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 40642,
+      "end_char": 40653
+    },
+    {
+      "text": "Sub-Section (4) of Section 30",
+      "label": "PROVISION",
+      "start_char": 40763,
+      "end_char": 40792
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 40800,
+      "end_char": 40838
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 41043,
+      "end_char": 41054
+    },
+    {
+      "text": "Section 12A (1)",
+      "label": "PROVISION",
+      "start_char": 41750,
+      "end_char": 41765
+    },
+    {
+      "text": "Section 12A (1)",
+      "label": "PROVISION",
+      "start_char": 42123,
+      "end_char": 42138
+    },
+    {
+      "text": "Section 12A (1)",
+      "label": "PROVISION",
+      "start_char": 42369,
+      "end_char": 42384
+    },
+    {
+      "text": "Section 69",
+      "label": "PROVISION",
+      "start_char": 43546,
+      "end_char": 43556
+    },
+    {
+      "text": "Indian Partnership Act, 1932",
+      "label": "STATUTE",
+      "start_char": 43564,
+      "end_char": 43592
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 43660,
+      "end_char": 43673
+    },
+    {
+      "text": "1977 Volume 1 Supreme Court Cases 379 (Seth Loonkaran Sethiya & Ors.",
+      "label": "PRECEDENT",
+      "start_char": 43677,
+      "end_char": 43745
+    },
+    {
+      "text": "Ivan E. John",
+      "label": "RESPONDENT",
+      "start_char": 43753,
+      "end_char": 43765
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 43898,
+      "end_char": 43927
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 43965,
+      "end_char": 43978
+    },
+    {
+      "text": "2019 Volume 12 Supreme Court Cases 210 (SCG Contracts (India) Private Ltd. v. K.S. Chamankar Infrastructure Private Ltd. & Ors)",
+      "label": "PRECEDENT",
+      "start_char": 43982,
+      "end_char": 44109
+    },
+    {
+      "text": "Section 80",
+      "label": "PROVISION",
+      "start_char": 44111,
+      "end_char": 44121
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 44129,
+      "end_char": 44158
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 44224,
+      "end_char": 44237
+    },
+    {
+      "text": "1977 Volume 1 Supreme Court Cases 257 (State of Maharashtra v. Chanderkant)",
+      "label": "PRECEDENT",
+      "start_char": 44241,
+      "end_char": 44316
+    },
+    {
+      "text": "2013 Volume 10 Supreme Court Cases 178 (State of Kerala v. Sudhir Kumar)",
+      "label": "PRECEDENT",
+      "start_char": 44321,
+      "end_char": 44393
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 44398,
+      "end_char": 44411
+    },
+    {
+      "text": "Section 80(1)",
+      "label": "PROVISION",
+      "start_char": 44463,
+      "end_char": 44476
+    },
+    {
+      "text": "Code of Civil procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 44484,
+      "end_char": 44513
+    },
+    {
+      "text": "Section 80(2)",
+      "label": "PROVISION",
+      "start_char": 44567,
+      "end_char": 44580
+    },
+    {
+      "text": "Section 69",
+      "label": "PROVISION",
+      "start_char": 44587,
+      "end_char": 44597
+    },
+    {
+      "text": "Partnership Act 1932",
+      "label": "STATUTE",
+      "start_char": 44605,
+      "end_char": 44625
+    },
+    {
+      "text": "Section 80",
+      "label": "PROVISION",
+      "start_char": 44630,
+      "end_char": 44640
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 44648,
+      "end_char": 44677
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 44835,
+      "end_char": 44846
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 44980,
+      "end_char": 44991
+    },
+    {
+      "text": "Section 69",
+      "label": "PROVISION",
+      "start_char": 45065,
+      "end_char": 45075
+    },
+    {
+      "text": "Indian Partnership Act, 1932",
+      "label": "STATUTE",
+      "start_char": 45083,
+      "end_char": 45111
+    },
+    {
+      "text": "Section 80",
+      "label": "PROVISION",
+      "start_char": 45116,
+      "end_char": 45126
+    },
+    {
+      "text": "Code of Civil Procedure 1908",
+      "label": "STATUTE",
+      "start_char": 45134,
+      "end_char": 45162
+    },
+    {
+      "text": "Section 69",
+      "label": "PROVISION",
+      "start_char": 45283,
+      "end_char": 45293
+    },
+    {
+      "text": "Indian Partnership Act, 1932",
+      "label": "STATUTE",
+      "start_char": 45301,
+      "end_char": 45329
+    },
+    {
+      "text": "Section 80",
+      "label": "PROVISION",
+      "start_char": 45334,
+      "end_char": 45344
+    },
+    {
+      "text": "Code of Civil Procedure 1908",
+      "label": "STATUTE",
+      "start_char": 45352,
+      "end_char": 45380
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 45446,
+      "end_char": 45457
+    },
+    {
+      "text": "Section 69",
+      "label": "PROVISION",
+      "start_char": 45505,
+      "end_char": 45515
+    },
+    {
+      "text": "Indian Partnership Act, 1932",
+      "label": "STATUTE",
+      "start_char": 45523,
+      "end_char": 45551
+    },
+    {
+      "text": "Section 80",
+      "label": "PROVISION",
+      "start_char": 45556,
+      "end_char": 45566
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 45574,
+      "end_char": 45603
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 45690,
+      "end_char": 45701
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 45821,
+      "end_char": 45832
+    },
+    {
+      "text": "Section 69",
+      "label": "PROVISION",
+      "start_char": 45934,
+      "end_char": 45944
+    },
+    {
+      "text": "Indian Partnership Act, 1932",
+      "label": "STATUTE",
+      "start_char": 45952,
+      "end_char": 45980
+    },
+    {
+      "text": "Section of 80",
+      "label": "PROVISION",
+      "start_char": 45985,
+      "end_char": 45998
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 46006,
+      "end_char": 46035
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 46086,
+      "end_char": 46097
+    },
+    {
+      "text": "Ambalal Sarabhai Enterprises",
+      "label": "PRECEDENT",
+      "start_char": 46256,
+      "end_char": 46284
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 46686,
+      "end_char": 46697
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 47266,
+      "end_char": 47277
+    },
+    {
+      "text": "Section 12A(1)",
+      "label": "PROVISION",
+      "start_char": 47656,
+      "end_char": 47670
+    },
+    {
+      "text": "category Section 12A",
+      "label": "PROVISION",
+      "start_char": 48000,
+      "end_char": 48020
+    },
+    {
+      "text": "Sub-Section (1) of Section 12A",
+      "label": "PROVISION",
+      "start_char": 48175,
+      "end_char": 48205
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 48475,
+      "end_char": 48486
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 49247,
+      "end_char": 49258
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 49377,
+      "end_char": 49388
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 49974,
+      "end_char": 49985
+    },
+    {
+      "text": "Sub-Section (1) of Section 12A",
+      "label": "PROVISION",
+      "start_char": 50491,
+      "end_char": 50521
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 50701,
+      "end_char": 50710
+    },
+    {
+      "text": "Limitation Act, 1963",
+      "label": "STATUTE",
+      "start_char": 50718,
+      "end_char": 50738
+    },
+    {
+      "text": "section 9",
+      "label": "PROVISION",
+      "start_char": 51439,
+      "end_char": 51448
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 51456,
+      "end_char": 51485
+    },
+    {
+      "text": "Section 18",
+      "label": "PROVISION",
+      "start_char": 51523,
+      "end_char": 51533
+    },
+    {
+      "text": "Banks and Bankruptcy Act, 1993",
+      "label": "STATUTE",
+      "start_char": 51562,
+      "end_char": 51592
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 51720,
+      "end_char": 51729
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 51737,
+      "end_char": 51766
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 51895,
+      "end_char": 51906
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 52059,
+      "end_char": 52070
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 52522,
+      "end_char": 52533
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 52603,
+      "end_char": 52614
+    },
+    {
+      "text": "Section 12 A",
+      "label": "PROVISION",
+      "start_char": 52728,
+      "end_char": 52740
+    },
+    {
+      "text": "May 3, 2018",
+      "label": "DATE",
+      "start_char": 52820,
+      "end_char": 52831
+    },
+    {
+      "text": "Amendment Act of 2018",
+      "label": "STATUTE",
+      "start_char": 52882,
+      "end_char": 52903
+    },
+    {
+      "text": "Amendment Act of 2018",
+      "label": "STATUTE",
+      "start_char": 52909,
+      "end_char": 52930
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 52968,
+      "end_char": 52973
+    },
+    {
+      "text": "August 21, 2018",
+      "label": "DATE",
+      "start_char": 52977,
+      "end_char": 52992
+    },
+    {
+      "text": "October 23, 2015",
+      "label": "DATE",
+      "start_char": 53033,
+      "end_char": 53049
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 53104,
+      "end_char": 53109
+    },
+    {
+      "text": "January 1, 2016",
+      "label": "DATE",
+      "start_char": 53113,
+      "end_char": 53128
+    },
+    {
+      "text": "October 23, 2015",
+      "label": "DATE",
+      "start_char": 53155,
+      "end_char": 53171
+    },
+    {
+      "text": "January 1, 2016",
+      "label": "DATE",
+      "start_char": 53233,
+      "end_char": 53248
+    },
+    {
+      "text": "Amendment Act of 2018",
+      "label": "STATUTE",
+      "start_char": 53259,
+      "end_char": 53280
+    },
+    {
+      "text": "January 1, 2016",
+      "label": "DATE",
+      "start_char": 53604,
+      "end_char": 53619
+    },
+    {
+      "text": "section 12 A",
+      "label": "PROVISION",
+      "start_char": 53721,
+      "end_char": 53733
+    },
+    {
+      "text": "January 1, 2016",
+      "label": "DATE",
+      "start_char": 53837,
+      "end_char": 53852
+    },
+    {
+      "text": "October 23, 2015",
+      "label": "DATE",
+      "start_char": 53889,
+      "end_char": 53905
+    },
+    {
+      "text": "January 1, 2016",
+      "label": "DATE",
+      "start_char": 53911,
+      "end_char": 53926
+    },
+    {
+      "text": "Section 12 A",
+      "label": "PROVISION",
+      "start_char": 53975,
+      "end_char": 53987
+    },
+    {
+      "text": "January 1, 2016",
+      "label": "DATE",
+      "start_char": 54186,
+      "end_char": 54201
+    },
+    {
+      "text": "December 11, 2020",
+      "label": "DATE",
+      "start_char": 54207,
+      "end_char": 54224
+    },
+    {
+      "text": "central government",
+      "label": "ORG",
+      "start_char": 54350,
+      "end_char": 54368
+    },
+    {
+      "text": "central government",
+      "label": "ORG",
+      "start_char": 54570,
+      "end_char": 54588
+    },
+    {
+      "text": "Section 12 A",
+      "label": "PROVISION",
+      "start_char": 54708,
+      "end_char": 54720
+    },
+    {
+      "text": "October 23, 2015",
+      "label": "DATE",
+      "start_char": 54865,
+      "end_char": 54881
+    },
+    {
+      "text": "December 11, 2020",
+      "label": "DATE",
+      "start_char": 54887,
+      "end_char": 54904
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 54987,
+      "end_char": 54998
+    },
+    {
+      "text": "section 12A",
+      "label": "PROVISION",
+      "start_char": 55221,
+      "end_char": 55232
+    },
+    {
+      "text": "December 11, 2020",
+      "label": "DATE",
+      "start_char": 55297,
+      "end_char": 55314
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 55407,
+      "end_char": 55418
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 55442,
+      "end_char": 55453
+    },
+    {
+      "text": "May 3, 2018",
+      "label": "DATE",
+      "start_char": 55520,
+      "end_char": 55531
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 55710,
+      "end_char": 55728
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 55730,
+      "end_char": 55740
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 55785,
+      "end_char": 55795
+    },
+    {
+      "text": "Sub-section (1) of Section 15",
+      "label": "PROVISION",
+      "start_char": 55865,
+      "end_char": 55894
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 55975,
+      "end_char": 56013
+    },
+    {
+      "text": "Sub-section (2) of Section 15",
+      "label": "PROVISION",
+      "start_char": 56212,
+      "end_char": 56241
+    },
+    {
+      "text": "proviso to Sub-section (2) of Section 15",
+      "label": "PROVISION",
+      "start_char": 56449,
+      "end_char": 56489
+    },
+    {
+      "text": "Sub-section (5) of Section 15",
+      "label": "PROVISION",
+      "start_char": 56734,
+      "end_char": 56763
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 57306,
+      "end_char": 57316
+    },
+    {
+      "text": "Sub-section (1), (2) and (3) of Section 15",
+      "label": "PROVISION",
+      "start_char": 57463,
+      "end_char": 57505
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 57847,
+      "end_char": 57857
+    },
+    {
+      "text": "Sections 6 and 7",
+      "label": "PROVISION",
+      "start_char": 57903,
+      "end_char": 57919
+    },
+    {
+      "text": "Sections 6 and 7",
+      "label": "PROVISION",
+      "start_char": 57945,
+      "end_char": 57961
+    },
+    {
+      "text": "sections 16 to 20",
+      "label": "PROVISION",
+      "start_char": 58582,
+      "end_char": 58599
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 58607,
+      "end_char": 58648
+    },
+    {
+      "text": "sub-section (4) of section 22",
+      "label": "PROVISION",
+      "start_char": 59308,
+      "end_char": 59337
+    },
+    {
+      "text": "Designs Act, 2000 (16 of 2000)",
+      "label": "STATUTE",
+      "start_char": 59345,
+      "end_char": 59375
+    },
+    {
+      "text": "section 104",
+      "label": "PROVISION",
+      "start_char": 59379,
+      "end_char": 59390
+    },
+    {
+      "text": "Patents Act, 1970 (39 of 1970)",
+      "label": "STATUTE",
+      "start_char": 59398,
+      "end_char": 59428
+    },
+    {
+      "text": "Sections 6 and 7",
+      "label": "PROVISION",
+      "start_char": 59601,
+      "end_char": 59617
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 59825,
+      "end_char": 59834
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 60098,
+      "end_char": 60107
+    },
+    {
+      "text": "Section 6 and 7",
+      "label": "PROVISION",
+      "start_char": 60235,
+      "end_char": 60250
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 61293,
+      "end_char": 61298
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 61349,
+      "end_char": 61358
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 61509,
+      "end_char": 61518
+    },
+    {
+      "text": "Bihari Chowdhurry",
+      "label": "OTHER_PERSON",
+      "start_char": 61749,
+      "end_char": 61766
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 61790,
+      "end_char": 61800
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 62037,
+      "end_char": 62047
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 62058,
+      "end_char": 62068
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 62208,
+      "end_char": 62218
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 62909,
+      "end_char": 62914
+    },
+    {
+      "text": "Sub-section (1) of Section 15",
+      "label": "PROVISION",
+      "start_char": 62965,
+      "end_char": 62994
+    },
+    {
+      "text": "High Courts in India",
+      "label": "COURT",
+      "start_char": 63116,
+      "end_char": 63136
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 63661,
+      "end_char": 63670
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 63747,
+      "end_char": 63757
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 63918,
+      "end_char": 63929
+    },
+    {
+      "text": "Sections 7, 12A and 15",
+      "label": "PROVISION",
+      "start_char": 64027,
+      "end_char": 64049
+    },
+    {
+      "text": "Ambalal Sarabhai",
+      "label": "PRECEDENT",
+      "start_char": 64129,
+      "end_char": 64145
+    },
+    {
+      "text": "Section 15(1)",
+      "label": "PROVISION",
+      "start_char": 64649,
+      "end_char": 64662
+    },
+    {
+      "text": "Section 15(1)",
+      "label": "PROVISION",
+      "start_char": 64890,
+      "end_char": 64903
+    },
+    {
+      "text": "Section 15(1)",
+      "label": "PROVISION",
+      "start_char": 64971,
+      "end_char": 64984
+    },
+    {
+      "text": "Section 15(1)",
+      "label": "PROVISION",
+      "start_char": 65076,
+      "end_char": 65089
+    },
+    {
+      "text": "Section 15(5)",
+      "label": "PROVISION",
+      "start_char": 65162,
+      "end_char": 65175
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 65276,
+      "end_char": 65286
+    },
+    {
+      "text": "Hubtown",
+      "label": "GPE",
+      "start_char": 65330,
+      "end_char": 65337
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 65375,
+      "end_char": 65386
+    },
+    {
+      "text": "Hubtown",
+      "label": "GPE",
+      "start_char": 65469,
+      "end_char": 65476
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 65538,
+      "end_char": 65549
+    },
+    {
+      "text": "Section 12A reading Section 15",
+      "label": "PROVISION",
+      "start_char": 65604,
+      "end_char": 65634
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 65662,
+      "end_char": 65673
+    },
+    {
+      "text": "section 15",
+      "label": "PROVISION",
+      "start_char": 65685,
+      "end_char": 65695
+    },
+    {
+      "text": "Section 12 A.\n",
+      "label": "PROVISION",
+      "start_char": 65910,
+      "end_char": 65924
+    },
+    {
+      "text": "Section 15(1)",
+      "label": "PROVISION",
+      "start_char": 65963,
+      "end_char": 65976
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 66328,
+      "end_char": 66345
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 66353,
+      "end_char": 66382
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 66418,
+      "end_char": 66435
+    },
+    {
+      "text": "Code of Civil Procedure 1908",
+      "label": "STATUTE",
+      "start_char": 66443,
+      "end_char": 66471
+    },
+    {
+      "text": "Section 15(1)",
+      "label": "PROVISION",
+      "start_char": 66492,
+      "end_char": 66505
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 66753,
+      "end_char": 66770
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 66778,
+      "end_char": 66807
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 66861,
+      "end_char": 66878
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 66886,
+      "end_char": 66915
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 67376,
+      "end_char": 67393
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 67401,
+      "end_char": 67430
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 67646,
+      "end_char": 67657
+    },
+    {
+      "text": "Bihari Chowdhurry",
+      "label": "OTHER_PERSON",
+      "start_char": 67796,
+      "end_char": 67813
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 67841,
+      "end_char": 67854
+    },
+    {
+      "text": "Section 80",
+      "label": "PROVISION",
+      "start_char": 67888,
+      "end_char": 67898
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 67906,
+      "end_char": 67935
+    },
+    {
+      "text": "Section 80",
+      "label": "PROVISION",
+      "start_char": 67955,
+      "end_char": 67965
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 67973,
+      "end_char": 68002
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 68007,
+      "end_char": 68020
+    },
+    {
+      "text": "Section 80",
+      "label": "PROVISION",
+      "start_char": 68135,
+      "end_char": 68145
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 68153,
+      "end_char": 68182
+    },
+    {
+      "text": "Section 80",
+      "label": "PROVISION",
+      "start_char": 68383,
+      "end_char": 68393
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 68539,
+      "end_char": 68549
+    },
+    {
+      "text": "Order VII Rule 11",
+      "label": "PROVISION",
+      "start_char": 68973,
+      "end_char": 68990
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 68998,
+      "end_char": 69027
+    },
+    {
+      "text": "Modern Construction and company",
+      "label": "PRECEDENT",
+      "start_char": 69177,
+      "end_char": 69208
+    },
+    {
+      "text": "section 7",
+      "label": "PROVISION",
+      "start_char": 69557,
+      "end_char": 69566
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 69714,
+      "end_char": 69731
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (C)",
+      "label": "STATUTE",
+      "start_char": 69739,
+      "end_char": 69772
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 69791,
+      "end_char": 69808
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 69816,
+      "end_char": 69845
+    },
+    {
+      "text": "Section 12 A",
+      "label": "PROVISION",
+      "start_char": 69968,
+      "end_char": 69980
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 70038,
+      "end_char": 70055
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 70063,
+      "end_char": 70092
+    },
+    {
+      "text": "Order VII Rule 11 or Order VII of Rule 10",
+      "label": "PROVISION",
+      "start_char": 70420,
+      "end_char": 70461
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 70611,
+      "end_char": 70649
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 70759,
+      "end_char": 70769
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 70957,
+      "end_char": 70974
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 70982,
+      "end_char": 71011
+    },
+    {
+      "text": "Order VII Rule 11",
+      "label": "PROVISION",
+      "start_char": 71106,
+      "end_char": 71123
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 71131,
+      "end_char": 71160
+    },
+    {
+      "text": "Section 12 A",
+      "label": "PROVISION",
+      "start_char": 71226,
+      "end_char": 71238
+    },
+    {
+      "text": "CS No. 213 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 71353,
+      "end_char": 71371
+    },
+    {
+      "text": "July 3, 2013",
+      "label": "DATE",
+      "start_char": 72052,
+      "end_char": 72064
+    },
+    {
+      "text": "3,24,05,090/-",
+      "label": "DATE",
+      "start_char": 72760,
+      "end_char": 72773
+    },
+    {
+      "text": "February 5, 2018",
+      "label": "DATE",
+      "start_char": 72829,
+      "end_char": 72845
+    },
+    {
+      "text": "February 22, 2018",
+      "label": "DATE",
+      "start_char": 73005,
+      "end_char": 73022
+    },
+    {
+      "text": "February 23, 2018",
+      "label": "DATE",
+      "start_char": 73098,
+      "end_char": 73115
+    },
+    {
+      "text": "Letters Patent, 1865",
+      "label": "STATUTE",
+      "start_char": 73569,
+      "end_char": 73589
+    },
+    {
+      "text": "CS No. 213 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 73603,
+      "end_char": 73621
+    },
+    {
+      "text": "Chapter XIII",
+      "label": "PROVISION",
+      "start_char": 73685,
+      "end_char": 73697
+    },
+    {
+      "text": "CS No. 213 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 73949,
+      "end_char": 73967
+    },
+    {
+      "text": "Section 2 (1)(c)(vii)",
+      "label": "PROVISION",
+      "start_char": 74194,
+      "end_char": 74215
+    },
+    {
+      "text": "CS No. 213 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 74241,
+      "end_char": 74259
+    },
+    {
+      "text": "section 12",
+      "label": "PROVISION",
+      "start_char": 74345,
+      "end_char": 74355
+    },
+    {
+      "text": "December 11, 2020",
+      "label": "DATE",
+      "start_char": 74395,
+      "end_char": 74412
+    },
+    {
+      "text": "CS No. 213 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 74431,
+      "end_char": 74449
+    },
+    {
+      "text": "CS No. 213 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 74521,
+      "end_char": 74539
+    },
+    {
+      "text": "CS No. 116 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 74651,
+      "end_char": 74669
+    },
+    {
+      "text": "Section 2 (1)\n",
+      "label": "PROVISION",
+      "start_char": 74839,
+      "end_char": 74853
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 75352,
+      "end_char": 75369
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 75377,
+      "end_char": 75406
+    },
+    {
+      "text": "IA No. GA 4 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 75463,
+      "end_char": 75482
+    },
+    {
+      "text": "CS No. 116 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 75486,
+      "end_char": 75504
+    },
+    {
+      "text": "CS No. 116 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 75720,
+      "end_char": 75738
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 75840,
+      "end_char": 75850
+    },
+    {
+      "text": "Limitation Act, 1963",
+      "label": "STATUTE",
+      "start_char": 75858,
+      "end_char": 75878
+    },
+    {
+      "text": "IA No.",
+      "label": "CASE_NUMBER",
+      "start_char": 75917,
+      "end_char": 75923
+    },
+    {
+      "text": "AP No. 25 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 75941,
+      "end_char": 75958
+    },
+    {
+      "text": "December 28, 2007",
+      "label": "DATE",
+      "start_char": 76058,
+      "end_char": 76075
+    },
+    {
+      "text": "March 30, 2009",
+      "label": "DATE",
+      "start_char": 76114,
+      "end_char": 76128
+    },
+    {
+      "text": "Section 2 (1) (c) (vi)",
+      "label": "PROVISION",
+      "start_char": 76188,
+      "end_char": 76210
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 76316,
+      "end_char": 76326
+    },
+    {
+      "text": "AP No. 25 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 76383,
+      "end_char": 76400
+    },
+    {
+      "text": "E C 243 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 76771,
+      "end_char": 76786
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 76822,
+      "end_char": 76832
+    },
+    {
+      "text": "E C 243 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 77278,
+      "end_char": 77293
+    },
+    {
+      "text": "Section 2 (1) (c)\n",
+      "label": "PROVISION",
+      "start_char": 77342,
+      "end_char": 77360
+    },
+    {
+      "text": "G A 2 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 77393,
+      "end_char": 77406
+    },
+    {
+      "text": "E C 243 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 77410,
+      "end_char": 77425
+    },
+    {
+      "text": "No. GA 2 of 2020as",
+      "label": "CASE_NUMBER",
+      "start_char": 77598,
+      "end_char": 77616
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 77731,
+      "end_char": 77741
+    },
+    {
+      "text": "IA No. GA 2 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 77837,
+      "end_char": 77856
+    },
+    {
+      "text": "CS No. 136 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 77860,
+      "end_char": 77878
+    },
+    {
+      "text": "Section 2 (1) (c) (vii)",
+      "label": "PROVISION",
+      "start_char": 78053,
+      "end_char": 78076
+    },
+    {
+      "text": "CS No. 136 of 2024",
+      "label": "CASE_NUMBER",
+      "start_char": 78121,
+      "end_char": 78139
+    },
+    {
+      "text": "Section 2 (1) (c)\n",
+      "label": "PROVISION",
+      "start_char": 78590,
+      "end_char": 78608
+    },
+    {
+      "text": "CS No. 136 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 78648,
+      "end_char": 78666
+    },
+    {
+      "text": "CS No. 136 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 78836,
+      "end_char": 78854
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 78932,
+      "end_char": 78942
+    },
+    {
+      "text": "Limitation Act, 1963",
+      "label": "STATUTE",
+      "start_char": 78950,
+      "end_char": 78970
+    },
+    {
+      "text": "CS No. 136 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 78977,
+      "end_char": 78995
+    },
+    {
+      "text": "December 11, 2020",
+      "label": "DATE",
+      "start_char": 79055,
+      "end_char": 79072
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 79137,
+      "end_char": 79148
+    },
+    {
+      "text": "A P No. 223 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 79259,
+      "end_char": 79278
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 79298,
+      "end_char": 79308
+    },
+    {
+      "text": "Section 2 (1) (c) (i)",
+      "label": "PROVISION",
+      "start_char": 79464,
+      "end_char": 79485
+    },
+    {
+      "text": "A P No. 223 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 79506,
+      "end_char": 79525
+    },
+    {
+      "text": "A P No. 223 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 79685,
+      "end_char": 79704
+    },
+    {
+      "text": "A. P. No. 223 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 79770,
+      "end_char": 79791
+    },
+    {
+      "text": "No. GA 1 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 79877,
+      "end_char": 79893
+    },
+    {
+      "text": "A P No.223 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 79897,
+      "end_char": 79915
+    },
+    {
+      "text": "DEBANGSU BASAK",
+      "label": "JUDGE",
+      "start_char": 79946,
+      "end_char": 79960
+    }
+  ],
+  "precedent_clusters": {
+    "C.O. No. 1678 of 2020 (M/s Dhanbad Fuels Ltd versus Union of India and others)": [
+      "Zolba v. Keshao & Ors.",
+      "All India Reporter 1957",
+      "Supreme Court 912 (State of U.P. v. Manbodhan Lal Srivastava), All India Reporter 1955",
+      "Hari Vishnu Kamath v. Syed Ahmad Ishaque & Ors.)",
+      "2261 (Shivjee Singh v. Nagendra Tiwary & Ors.), All India Reporter 1954",
+      "Food Inspector, Cannanore Municipality, Cannanore v. M. Gopalan",
+      "M.V. \"Vali Pero\" v. Fernandeo Lopez & Ors.",
+      "Chaluvegowda v. State",
+      "Gangappa Gurupadappa Guwad v. Rachawwa",
+      "All India Reporter 1984",
+      "Delhi 186 (Soni Dave versus Translation Industries Expositions Private Limited)",
+      "C.O. No. 1678 of 2020 (M/s Dhanbad Fuels Ltd versus Union of India and others)",
+      "Ajit Kumar Sen & Ors.",
+      "Hari Vishnu Kamath",
+      "M.V. \"Vali Pero",
+      "Zolba",
+      "Zolba",
+      "Manbodhan Lal Srivastava",
+      "Shivjee Singh",
+      "M. Gopalan"
+    ],
+    "Lila Gupta v. Laxmi Narain & Ors.), All India Reporter 1980 Supreme Court page 303": [
+      "Lila Gupta v. Laxmi Narain & Ors.), All India Reporter 1980 Supreme Court page 303",
+      "Lila Gupta"
+    ],
+    "Sharif-ud-Din v. Abdul Gani Lone), All India Reporter 1989 Supreme Court": [
+      "Sharif-ud-Din v. Abdul Gani Lone), All India Reporter 1989 Supreme Court",
+      "Sharif-ud-Din"
+    ],
+    "Macquarie Bank Limited v. Shilpi Cable Technologies Limited), 2005 Volume 6 Supreme Court Cases page 344": [
+      "Macquarie Bank Limited v. Shilpi Cable Technologies Limited), 2005 Volume 6 Supreme Court Cases page 344",
+      "Macquarie Bank Limited"
+    ],
+    "Salem Advocate Bar Association, Tamil Nadu v. Union of India), 2018 SCC Online (Calcutta) page 5606": [
+      "Salem Advocate Bar Association, Tamil Nadu v. Union of India), 2018 SCC Online (Calcutta) page 5606",
+      "Salem Advocate Bar Association, Tamil Nadu",
+      "Salem Advocate Bar Association, Tamil Nadu"
+    ],
+    "2019 SCC Online SC 1311 (Ambalal Sarabhai Enterprises Ltd versus K S Infraspace LLP and another)": [
+      "2019 SCC Online SC 1311 (Ambalal Sarabhai Enterprises Ltd versus K S Infraspace LLP and another)",
+      "Ambalal Sarabhai",
+      "Ambalal Sarabhai Enterprises",
+      "Ambalal Sarabhai"
+    ],
+    "2014 Volume 1 Supreme Court Cases 648 (Oil and Natural Gas Corporation versus Modern Construction and Company)": [
+      "2014 Volume 1 Supreme Court Cases 648 (Oil and Natural Gas Corporation versus Modern Construction and Company)",
+      "Modern Construction and company"
+    ],
+    "2016 SCC Online Bom 9019 (Hubtown Ltd. versus IDBI Trusteeship Services Ltd.)": [
+      "2016 SCC Online Bom 9019 (Hubtown Ltd. versus IDBI Trusteeship Services Ltd.)",
+      "Hubtown"
+    ],
+    "1977 Volume 1 Supreme Court Cases 379 (Seth Loonkaran Sethiya & Ors.": [
+      "1977 Volume 1 Supreme Court Cases 379 (Seth Loonkaran Sethiya & Ors.",
+      "1977 Volume 1 Supreme Court Cases 257 (State of Maharashtra v. Chanderkant)"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 12A and Section 15",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 12A and Section 15",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 12A",
+      "Commercial Courts Act, 2015",
+      "Section 12A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 12A and Section 15",
+      "Commercial Courts Act, 2015",
+      "Section 12A and Section 15",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 12A",
+      "Commercial Courts Act, 2015",
+      "Section 12A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Chapter XIIIA",
+      "Original Side Rules",
+      "Chapter XIIIA",
+      "Original Side Rules"
+    ],
+    [
+      "Section 80",
+      "Code of Civil Procedure, 1908",
+      "Section 80",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 80",
+      "Code of Civil Procedure, 1908",
+      "Section 80",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 12A",
+      "Act of 2015",
+      "Section 12A",
+      "Act of 2015"
+    ],
+    [
+      "Order VII Rule 10",
+      "Code of Civil Procedure 1908",
+      "Order VII Rule 10",
+      "Code of Civil Procedure 1908"
+    ],
+    [
+      "section 80",
+      "Code of Civil Procedure 1908",
+      "section 80",
+      "Code of Civil Procedure 1908"
+    ],
+    [
+      "Order VII Rule 11",
+      "Code of Civil Procedure, 1908",
+      "Order VII Rule 11",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "section 31",
+      "Banks and Bankruptcy Act, 1993",
+      "section 31",
+      "Banks and Bankruptcy Act, 1993"
+    ],
+    [
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908",
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order XV-A]",
+      "Code of Civil Procedure, 1908 (5 of 1908):",
+      "Order XV-A]",
+      "Code of Civil Procedure, 1908 (5 of 1908):"
+    ],
+    [
+      "proviso to sub-rule (1) of rule 1 of Order V",
+      "Code of Civil Procedure, 1908(5 of 1908)",
+      "proviso to sub-rule (1) of rule 1 of Order V",
+      "Code of Civil Procedure, 1908(5 of 1908)"
+    ],
+    [
+      "Section 35A(2)",
+      "Code of Civil Procedure, 1908",
+      "Section 35A(2)",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 35",
+      "Code of Civil Procedure, 1908",
+      "Section 35",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Sub-Section (3) of Section 35",
+      "Code of Civil Procedure, 1908",
+      "Sub-Section (3) of Section 35",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 45(3)",
+      "Calcutta Municipal Act, 1923",
+      "Section 45(3)",
+      "Calcutta Municipal Act, 1923"
+    ],
+    [
+      "Article 329(b)",
+      "Constitution",
+      "Article 329(b)",
+      "Constitution"
+    ],
+    [
+      "Order VIII Rule 1",
+      "Code of Civil Procedure, 1908",
+      "Order VIII Rule 1",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order VIII Rule 1",
+      "Code of Civil Procedure, 1908",
+      "Order VIII Rule 1",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 1 and Section 202(2)",
+      "Criminal Procedure Code, 1973",
+      "Section 1 and Section 202(2)",
+      "Criminal Procedure Code, 1973"
+    ],
+    [
+      "Section 1",
+      "Criminal Procedure Code, 1973",
+      "Section 1",
+      "Criminal Procedure Code, 1973"
+    ],
+    [
+      "proviso to Section 202(2)",
+      "Criminal Procedure Code, 1973",
+      "proviso to Section 202(2)",
+      "Criminal Procedure Code, 1973"
+    ],
+    [
+      "Section 15",
+      "Hindu Marriage Act, 1955",
+      "Section 15",
+      "Hindu Marriage Act, 1955"
+    ],
+    [
+      "Section 9(3)(c)",
+      "Insolvency and Bankruptcy Code",
+      "Section 9(3)(c)",
+      "Insolvency and Bankruptcy Code"
+    ],
+    [
+      "Section 34",
+      "Act of Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Act of Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 23",
+      "Prevention of Food Adulteration Act, 1954",
+      "Section 23",
+      "Prevention of Food Adulteration Act, 1954"
+    ],
+    [
+      "Rule 7(3)",
+      "Prevention of Food Adulteration Rules, 1955",
+      "Rule 7(3)",
+      "Prevention of Food Adulteration Rules, 1955"
+    ],
+    [
+      "Order VII Rule 11 (d)",
+      "Code of Civil Procedure, 1908",
+      "Order VII Rule 11 (d)",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order VII Rule 11(a)",
+      "Code of Civil Procedure, 1908",
+      "Order VII Rule 11(a)",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Sub-Section (2) of Section 12A",
+      "Legal Services Authority Act, 1987",
+      "Sub-Section (2) of Section 12A",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Sub-Section (2) of Section 12A",
+      "Legal Services Authorities Act, 1987",
+      "Sub-Section (2) of Section 12A",
+      "Legal Services Authorities Act, 1987"
+    ],
+    [
+      "Sub-Section (4) of Section 30",
+      "Arbitration and Conciliation Act, 1996",
+      "Sub-Section (4) of Section 30",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 69",
+      "Indian Partnership Act, 1932",
+      "Section 69",
+      "Indian Partnership Act, 1932"
+    ],
+    [
+      "Section 80",
+      "Code of Civil Procedure, 1908",
+      "Section 80",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 80(1)",
+      "Code of Civil procedure, 1908",
+      "Section 80(1)",
+      "Code of Civil procedure, 1908"
+    ],
+    [
+      "Section 69",
+      "Partnership Act 1932",
+      "Section 69",
+      "Partnership Act 1932"
+    ],
+    [
+      "Section 80",
+      "Code of Civil Procedure, 1908",
+      "Section 80",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 69",
+      "Indian Partnership Act, 1932",
+      "Section 69",
+      "Indian Partnership Act, 1932"
+    ],
+    [
+      "Section 80",
+      "Code of Civil Procedure 1908",
+      "Section 80",
+      "Code of Civil Procedure 1908"
+    ],
+    [
+      "Section 69",
+      "Indian Partnership Act, 1932",
+      "Section 69",
+      "Indian Partnership Act, 1932"
+    ],
+    [
+      "Section 80",
+      "Code of Civil Procedure 1908",
+      "Section 80",
+      "Code of Civil Procedure 1908"
+    ],
+    [
+      "Section 69",
+      "Indian Partnership Act, 1932",
+      "Section 69",
+      "Indian Partnership Act, 1932"
+    ],
+    [
+      "Section 80",
+      "Code of Civil Procedure, 1908",
+      "Section 80",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 69",
+      "Indian Partnership Act, 1932",
+      "Section 69",
+      "Indian Partnership Act, 1932"
+    ],
+    [
+      "Section of 80",
+      "Code of Civil Procedure, 1908",
+      "Section of 80",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 3",
+      "Limitation Act, 1963",
+      "Section 3",
+      "Limitation Act, 1963"
+    ],
+    [
+      "section 9",
+      "Code of Civil Procedure, 1908",
+      "section 9",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 18",
+      "Banks and Bankruptcy Act, 1993",
+      "Section 18",
+      "Banks and Bankruptcy Act, 1993"
+    ],
+    [
+      "Section 9",
+      "Code of Civil Procedure, 1908",
+      "Section 9",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Sub-section (1) of Section 15",
+      "Arbitration and Conciliation Act, 1996",
+      "Sub-section (1) of Section 15",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "sections 16 to 20",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "sections 16 to 20",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "sub-section (4) of section 22",
+      "Designs Act, 2000 (16 of 2000)",
+      "sub-section (4) of section 22",
+      "Designs Act, 2000 (16 of 2000)"
+    ],
+    [
+      "section 104",
+      "Patents Act, 1970 (39 of 1970)",
+      "section 104",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908",
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order VII Rule 10",
+      "Code of Civil Procedure 1908",
+      "Order VII Rule 10",
+      "Code of Civil Procedure 1908"
+    ],
+    [
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908",
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908",
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908",
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 80",
+      "Code of Civil Procedure, 1908",
+      "Section 80",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 80",
+      "Code of Civil Procedure, 1908",
+      "Section 80",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 80",
+      "Code of Civil Procedure, 1908",
+      "Section 80",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order VII Rule 11",
+      "Code of Civil Procedure, 1908",
+      "Order VII Rule 11",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908 (C)",
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908 (C)"
+    ],
+    [
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908",
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908",
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908",
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order VII Rule 11",
+      "Code of Civil Procedure, 1908",
+      "Order VII Rule 11",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908",
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 14",
+      "Limitation Act, 1963",
+      "Section 14",
+      "Limitation Act, 1963"
+    ],
+    [
+      "Section 14",
+      "Limitation Act, 1963",
+      "Section 14",
+      "Limitation Act, 1963"
+    ],
+    [
+      "Section 12A",
+      "Commercial Courts Act, 2015",
+      "Section 12A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 12A",
+      "Commercial Courts Act, 2015",
+      "Section 12A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 12A",
+      "Commercial Courts Act, 2015",
+      "Section 12A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 12A",
+      "Commercial Courts Act, 2015",
+      "Section 12A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Sub-Section (1) of Section 12A",
+      "Commercial Courts Act, 2015",
+      "Sub-Section (1) of Section 12A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 12A",
+      "Commercial Courts Act, 2015",
+      "Section 12A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 12A",
+      "Commercial Courts Act, 2015",
+      "Section 12A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 12A",
+      "Commercial Courts Act, 2015",
+      "Section 12A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 12A",
+      "Commercial Courts Act, 2015",
+      "Section 12A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 12A",
+      "Commercial Courts Act, 2015",
+      "Section 12A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 12A",
+      "Commercial Courts Act, 2015",
+      "Section 12A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 12A",
+      "Commercial Courts Act, 2015",
+      "Section 12A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 12A",
+      "Commercial Courts Act, 2015",
+      "Section 12A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 12A",
+      "Commercial Courts Act, 2015",
+      "Section 12A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 12A",
+      "Commercial Courts Act, 2015",
+      "Section 12A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 12A",
+      "Commercial Courts Act, 2015",
+      "Section 12A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 12A",
+      "Commercial Courts Act, 2015",
+      "Section 12A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 12A",
+      "Commercial Courts Act, 2015",
+      "Section 12A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 12A",
+      "Commercial Courts Act, 2015",
+      "Section 12A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 12A",
+      "Commercial Courts Act, 2015",
+      "Section 12A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 12A",
+      "Commercial Courts Act, 2015",
+      "Section 12A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Rule 3",
+      "Commercial Courts (Pre-institution Mediation and Settlement) Rules, 2018",
+      "Rule 3",
+      "Commercial Courts (Pre-institution Mediation and Settlement) Rules, 2018"
+    ],
+    [
+      "Section 12A",
+      "Act of 2015",
+      "Section 12A",
+      "Act of 2015"
+    ],
+    [
+      "section 2 (1) (c)",
+      "Commercial Courts Act, 2015",
+      "section 2 (1) (c)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "section 12A",
+      "Act of 2015",
+      "section 12A",
+      "Act of 2015"
+    ],
+    [
+      "Section 12A",
+      "Act of 2015",
+      "Section 12A",
+      "Act of 2015"
+    ],
+    [
+      "section 12A",
+      "Act of 2015",
+      "section 12A",
+      "Act of 2015"
+    ],
+    [
+      "section 15",
+      "Commercial Courts Act, 2015",
+      "section 15",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "section 15",
+      "Commercial Courts Act, 2015",
+      "section 15",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "section 15",
+      "Commercial Courts Act, 2015",
+      "section 15",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "section 15",
+      "Commercial Courts Act, 2015",
+      "section 15",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 12 A",
+      "Banks and Bankruptcy Act, 1993",
+      "Section 12 A",
+      "Banks and Bankruptcy Act, 1993"
+    ],
+    [
+      "Section 2(1)(d) read with Section 4",
+      "Commercial Courts Act, 2015",
+      "Section 2(1)(d) read with Section 4",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 15",
+      "Commercial Courts Act, 2015",
+      "Section 15",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 15(3)",
+      "Commercial Courts Act, 2015",
+      "Section 15(3)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 12A",
+      "Act of 2015",
+      "Section 12A",
+      "Act of 2015"
+    ],
+    [
+      "Section 12A",
+      "Act of 2015",
+      "Section 12A",
+      "Act of 2015"
+    ],
+    [
+      "Section 12A",
+      "Act of 2015",
+      "Section 12A",
+      "Act of 2015"
+    ],
+    [
+      "Section 12A",
+      "Act of 2015",
+      "Section 12A",
+      "Act of 2015"
+    ],
+    [
+      "Section 12A",
+      "Act of 2015",
+      "Section 12A",
+      "Act of 2015"
+    ],
+    [
+      "Section 15 and Section 21",
+      "Commercial Courts Act, 2015",
+      "Section 15 and Section 21",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Sections 15 and 21",
+      "Commercial Courts Act, 2015",
+      "Sections 15 and 21",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 26 and 35",
+      "Code of Civil Procedure, 1908",
+      "Section 26 and 35",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 21",
+      "Code of Civil Procedure, 1908",
+      "Section 21",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order VIII Rule 1",
+      "Code of Civil Procedure, 1908",
+      "Order VIII Rule 1",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 34",
+      "Act of Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Act of Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Rule 7(3)",
+      "Prevention of Food Adulteration Rules, 1955",
+      "Rule 7(3)",
+      "Prevention of Food Adulteration Rules, 1955"
+    ],
+    [
+      "Section 12A",
+      "Act of 2015",
+      "Section 12A",
+      "Act of 2015"
+    ],
+    [
+      "Section 12A",
+      "Act of 2015",
+      "Section 12A",
+      "Act of 2015"
+    ],
+    [
+      "Order VII Rule 11 (d)",
+      "Code of Civil Procedure, 1908",
+      "Order VII Rule 11 (d)",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "section 12A",
+      "Act of 2015",
+      "section 12A",
+      "Act of 2015"
+    ],
+    [
+      "Section 12A",
+      "Act of 2015",
+      "Section 12A",
+      "Act of 2015"
+    ],
+    [
+      "Section 12A",
+      "Act of 2015",
+      "Section 12A",
+      "Act of 2015"
+    ],
+    [
+      "Sub-Section (1) of Section 12A",
+      "Act of 2015",
+      "Sub-Section (1) of Section 12A",
+      "Act of 2015"
+    ],
+    [
+      "Chapter IIIA",
+      "Code of Civil Procedure, 1908",
+      "Chapter IIIA",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 12A",
+      "Legal Services Authority Act, 1987",
+      "Section 12A",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Sub-Section (3) of Section 12A",
+      "Legal Services Authority Act, 1987",
+      "Sub-Section (3) of Section 12A",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Sub-Section (4) of Section 12A",
+      "Legal Services Authority Act, 1987",
+      "Sub-Section (4) of Section 12A",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Section (5) of Section 12A",
+      "Legal Services Authority Act, 1987",
+      "Section (5) of Section 12A",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Section 12A",
+      "Legal Services Authority Act, 1987",
+      "Section 12A",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Section 12A",
+      "Legal Services Authority Act, 1987",
+      "Section 12A",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Section 12A (1)",
+      "Legal Services Authority Act, 1987",
+      "Section 12A (1)",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Section 12A (1)",
+      "Legal Services Authority Act, 1987",
+      "Section 12A (1)",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Section 12A (1)",
+      "Legal Services Authority Act, 1987",
+      "Section 12A (1)",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Section 80(2)",
+      "Code of Civil procedure, 1908",
+      "Section 80(2)",
+      "Code of Civil procedure, 1908"
+    ],
+    [
+      "Section 12A",
+      "Legal Services Authority Act, 1987",
+      "Section 12A",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Section 12A",
+      "Legal Services Authority Act, 1987",
+      "Section 12A",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Section 12A",
+      "Legal Services Authority Act, 1987",
+      "Section 12A",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Section 12A",
+      "Legal Services Authority Act, 1987",
+      "Section 12A",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Section 12A",
+      "Legal Services Authority Act, 1987",
+      "Section 12A",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Section 12A",
+      "Legal Services Authority Act, 1987",
+      "Section 12A",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Section 12A",
+      "Legal Services Authority Act, 1987",
+      "Section 12A",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Section 12A",
+      "Legal Services Authority Act, 1987",
+      "Section 12A",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Section 12A(1)",
+      "Legal Services Authority Act, 1987",
+      "Section 12A(1)",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "category Section 12A",
+      "Legal Services Authority Act, 1987",
+      "category Section 12A",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Sub-Section (1) of Section 12A",
+      "Legal Services Authority Act, 1987",
+      "Sub-Section (1) of Section 12A",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Section 12A",
+      "Legal Services Authority Act, 1987",
+      "Section 12A",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Section 12A",
+      "Legal Services Authority Act, 1987",
+      "Section 12A",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Section 12A",
+      "Legal Services Authority Act, 1987",
+      "Section 12A",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Section 12A",
+      "Legal Services Authority Act, 1987",
+      "Section 12A",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Sub-Section (1) of Section 12A",
+      "Legal Services Authority Act, 1987",
+      "Sub-Section (1) of Section 12A",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Section 12A",
+      "Legal Services Authority Act, 1987",
+      "Section 12A",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Section 12A",
+      "Legal Services Authority Act, 1987",
+      "Section 12A",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Section 12A",
+      "Legal Services Authority Act, 1987",
+      "Section 12A",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Section 12A",
+      "Legal Services Authority Act, 1987",
+      "Section 12A",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Section 12 A",
+      "Banks and Bankruptcy Act, 1993",
+      "Section 12 A",
+      "Banks and Bankruptcy Act, 1993"
+    ],
+    [
+      "section 12 A",
+      "Banks and Bankruptcy Act, 1993",
+      "section 12 A",
+      "Banks and Bankruptcy Act, 1993"
+    ],
+    [
+      "Section 12 A",
+      "Banks and Bankruptcy Act, 1993",
+      "Section 12 A",
+      "Banks and Bankruptcy Act, 1993"
+    ],
+    [
+      "Section 12 A",
+      "Banks and Bankruptcy Act, 1993",
+      "Section 12 A",
+      "Banks and Bankruptcy Act, 1993"
+    ],
+    [
+      "Section 12A",
+      "Legal Services Authority Act, 1987",
+      "Section 12A",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "section 12A",
+      "Legal Services Authority Act, 1987",
+      "section 12A",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Section 12A",
+      "Legal Services Authority Act, 1987",
+      "Section 12A",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Section 12A",
+      "Legal Services Authority Act, 1987",
+      "Section 12A",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Section 15",
+      "Hindu Marriage Act, 1955",
+      "Section 15",
+      "Hindu Marriage Act, 1955"
+    ],
+    [
+      "Section 15",
+      "Hindu Marriage Act, 1955",
+      "Section 15",
+      "Hindu Marriage Act, 1955"
+    ],
+    [
+      "Sub-section (2) of Section 15",
+      "Hindu Marriage Act, 1955",
+      "Sub-section (2) of Section 15",
+      "Hindu Marriage Act, 1955"
+    ],
+    [
+      "proviso to Sub-section (2) of Section 15",
+      "Hindu Marriage Act, 1955",
+      "proviso to Sub-section (2) of Section 15",
+      "Hindu Marriage Act, 1955"
+    ],
+    [
+      "Sub-section (5) of Section 15",
+      "Hindu Marriage Act, 1955",
+      "Sub-section (5) of Section 15",
+      "Hindu Marriage Act, 1955"
+    ],
+    [
+      "Section 15",
+      "Hindu Marriage Act, 1955",
+      "Section 15",
+      "Hindu Marriage Act, 1955"
+    ],
+    [
+      "Sub-section (1), (2) and (3) of Section 15",
+      "Hindu Marriage Act, 1955",
+      "Sub-section (1), (2) and (3) of Section 15",
+      "Hindu Marriage Act, 1955"
+    ],
+    [
+      "Section 15",
+      "Hindu Marriage Act, 1955",
+      "Section 15",
+      "Hindu Marriage Act, 1955"
+    ],
+    [
+      "Sections 6 and 7",
+      "Arbitration and Conciliation Act, 1996",
+      "Sections 6 and 7",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Sections 6 and 7",
+      "Arbitration and Conciliation Act, 1996",
+      "Sections 6 and 7",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 7",
+      "Patents Act, 1970 (39 of 1970)",
+      "Section 7",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "Section 6 and 7",
+      "Patents Act, 1970 (39 of 1970)",
+      "Section 6 and 7",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "Section 7",
+      "Patents Act, 1970 (39 of 1970)",
+      "Section 7",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "Section 7",
+      "Patents Act, 1970 (39 of 1970)",
+      "Section 7",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "Section 15",
+      "Hindu Marriage Act, 1955",
+      "Section 15",
+      "Hindu Marriage Act, 1955"
+    ],
+    [
+      "Section 15",
+      "Hindu Marriage Act, 1955",
+      "Section 15",
+      "Hindu Marriage Act, 1955"
+    ],
+    [
+      "Section 15",
+      "Hindu Marriage Act, 1955",
+      "Section 15",
+      "Hindu Marriage Act, 1955"
+    ],
+    [
+      "Section 15",
+      "Hindu Marriage Act, 1955",
+      "Section 15",
+      "Hindu Marriage Act, 1955"
+    ],
+    [
+      "Sub-section (1) of Section 15",
+      "Hindu Marriage Act, 1955",
+      "Sub-section (1) of Section 15",
+      "Hindu Marriage Act, 1955"
+    ],
+    [
+      "Section 7",
+      "Patents Act, 1970 (39 of 1970)",
+      "Section 7",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "Section 15",
+      "Hindu Marriage Act, 1955",
+      "Section 15",
+      "Hindu Marriage Act, 1955"
+    ],
+    [
+      "Section 12A",
+      "Legal Services Authority Act, 1987",
+      "Section 12A",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Sections 7, 12A and 15",
+      "Hindu Marriage Act, 1955",
+      "Sections 7, 12A and 15",
+      "Hindu Marriage Act, 1955"
+    ],
+    [
+      "Section 15(1)",
+      "Hindu Marriage Act, 1955",
+      "Section 15(1)",
+      "Hindu Marriage Act, 1955"
+    ],
+    [
+      "Section 15(1)",
+      "Hindu Marriage Act, 1955",
+      "Section 15(1)",
+      "Hindu Marriage Act, 1955"
+    ],
+    [
+      "Section 15(1)",
+      "Hindu Marriage Act, 1955",
+      "Section 15(1)",
+      "Hindu Marriage Act, 1955"
+    ],
+    [
+      "Section 15(1)",
+      "Hindu Marriage Act, 1955",
+      "Section 15(1)",
+      "Hindu Marriage Act, 1955"
+    ],
+    [
+      "Section 15(5)",
+      "Hindu Marriage Act, 1955",
+      "Section 15(5)",
+      "Hindu Marriage Act, 1955"
+    ],
+    [
+      "Section 15",
+      "Hindu Marriage Act, 1955",
+      "Section 15",
+      "Hindu Marriage Act, 1955"
+    ],
+    [
+      "Section 12A",
+      "Legal Services Authority Act, 1987",
+      "Section 12A",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Section 12A",
+      "Legal Services Authority Act, 1987",
+      "Section 12A",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Section 12A",
+      "Legal Services Authority Act, 1987",
+      "Section 12A",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "section 15",
+      "Hindu Marriage Act, 1955",
+      "section 15",
+      "Hindu Marriage Act, 1955"
+    ],
+    [
+      "Section 15(1)",
+      "Hindu Marriage Act, 1955",
+      "Section 15(1)",
+      "Hindu Marriage Act, 1955"
+    ],
+    [
+      "Section 15(1)",
+      "Hindu Marriage Act, 1955",
+      "Section 15(1)",
+      "Hindu Marriage Act, 1955"
+    ],
+    [
+      "Section 12A",
+      "Legal Services Authority Act, 1987",
+      "Section 12A",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Section 80",
+      "Code of Civil Procedure, 1908",
+      "Section 80",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 15",
+      "Hindu Marriage Act, 1955",
+      "Section 15",
+      "Hindu Marriage Act, 1955"
+    ],
+    [
+      "section 7",
+      "Patents Act, 1970 (39 of 1970)",
+      "section 7",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "Section 12 A",
+      "Banks and Bankruptcy Act, 1993",
+      "Section 12 A",
+      "Banks and Bankruptcy Act, 1993"
+    ],
+    [
+      "Section 15",
+      "Hindu Marriage Act, 1955",
+      "Section 15",
+      "Hindu Marriage Act, 1955"
+    ],
+    [
+      "Section 12 A",
+      "Banks and Bankruptcy Act, 1993",
+      "Section 12 A",
+      "Banks and Bankruptcy Act, 1993"
+    ],
+    [
+      "Section 2 (1)(c)(vii)",
+      "Commercial Courts Act, 2015",
+      "Section 2 (1)(c)(vii)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "section 12",
+      "Arbitration and Conciliation Act, 1996",
+      "section 12",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 2 (1)\n",
+      "Commercial Courts Act, 2015",
+      "Section 2 (1)\n",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 2 (1) (c) (vi)",
+      "Commercial Courts Act, 2015",
+      "Section 2 (1) (c) (vi)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 15",
+      "Hindu Marriage Act, 1955",
+      "Section 15",
+      "Hindu Marriage Act, 1955"
+    ],
+    [
+      "Section 2 (1) (c)\n",
+      "Commercial Courts Act, 2015",
+      "Section 2 (1) (c)\n",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 36",
+      "Limitation Act, 1963",
+      "Section 36",
+      "Limitation Act, 1963"
+    ],
+    [
+      "Section 2 (1) (c) (vii)",
+      "Commercial Courts Act, 2015",
+      "Section 2 (1) (c) (vii)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 2 (1) (c)\n",
+      "Commercial Courts Act, 2015",
+      "Section 2 (1) (c)\n",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 12A",
+      "Legal Services Authority Act, 1987",
+      "Section 12A",
+      "Legal Services Authority Act, 1987"
+    ],
+    [
+      "Section 14",
+      "Limitation Act, 1963",
+      "Section 14",
+      "Limitation Act, 1963"
+    ],
+    [
+      "Section 2 (1) (c) (i)",
+      "Commercial Courts Act, 2015",
+      "Section 2 (1) (c) (i)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 2(1)(c)",
+      "Commercial Courts Act, 2015",
+      "Section 2(1)(c)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Sub-Section (1) of Section 12(A)",
+      "Arbitration and Conciliation Act, 1996",
+      "Sub-Section (1) of Section 12(A)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Rule 3(1)",
+      "Commercial Courts (Pre-institution Mediation and Settlement) Rules, 2018",
+      "Rule 3(1)",
+      "Commercial Courts (Pre-institution Mediation and Settlement) Rules, 2018"
+    ],
+    [
+      "section 12 A",
+      "Banks and Bankruptcy Act, 1993",
+      "section 12 A",
+      "Banks and Bankruptcy Act, 1993"
+    ],
+    [
+      "Chapter IIIA",
+      "Code of Civil Procedure, 1908",
+      "Chapter IIIA",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 12A.",
+      "Code of Civil Procedure, 1908",
+      "Section 12A.",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 21",
+      "Code of Civil Procedure, 1908",
+      "Section 21",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Article 320(3)(c)",
+      "Constitution",
+      "Article 320(3)(c)",
+      "Constitution"
+    ],
+    [
+      "Sections 6 and 7",
+      "Arbitration and Conciliation Act, 1996",
+      "Sections 6 and 7",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 7",
+      "Patents Act, 1970 (39 of 1970)",
+      "Section 7",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "Section 12A reading Section 15",
+      "Patents Act, 1970 (39 of 1970)",
+      "Section 12A reading Section 15",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "Section 12 A.\n",
+      "Patents Act, 1970 (39 of 1970)",
+      "Section 12 A.\n",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "Order VII Rule 11 or Order VII of Rule 10",
+      "Code of Civil Procedure, 1908",
+      "Order VII Rule 11 or Order VII of Rule 10",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Chapter XIII",
+      "Letters Patent, 1865",
+      "Chapter XIII",
+      "Letters Patent, 1865"
+    ],
+    [
+      "Section 36",
+      "Limitation Act, 1963",
+      "Section 36",
+      "Limitation Act, 1963"
+    ]
+  ],
+  "precedent_counts": {
+    "C.O. No. 1678 of 2020 (M/s Dhanbad Fuels Ltd versus Union of India and others)": 20,
+    "Lila Gupta v. Laxmi Narain & Ors.), All India Reporter 1980 Supreme Court page 303": 2,
+    "Sharif-ud-Din v. Abdul Gani Lone), All India Reporter 1989 Supreme Court": 2,
+    "Macquarie Bank Limited v. Shilpi Cable Technologies Limited), 2005 Volume 6 Supreme Court Cases page 344": 2,
+    "Salem Advocate Bar Association, Tamil Nadu v. Union of India), 2018 SCC Online (Calcutta) page 5606": 3,
+    "2019 SCC Online SC 1311 (Ambalal Sarabhai Enterprises Ltd versus K S Infraspace LLP and another)": 4,
+    "2014 Volume 1 Supreme Court Cases 648 (Oil and Natural Gas Corporation versus Modern Construction and Company)": 2,
+    "2016 SCC Online Bom 9019 (Hubtown Ltd. versus IDBI Trusteeship Services Ltd.)": 2,
+    "1977 Volume 1 Supreme Court Cases 379 (Seth Loonkaran Sethiya & Ors.": 2
+  },
+  "provision_counts": {
+    "Section 12A and Section 15 of Arbitration and Conciliation Act, 1996": 1,
+    "Section 12A of Commercial Courts Act, 2015": 22,
+    "Section 12A and Section 15 of Commercial Courts Act, 2015": 1,
+    "Chapter XIIIA of Original Side Rules": 1,
+    "Section 80 of Code of Civil Procedure, 1908": 9,
+    "Section 12A of Act of 2015": 12,
+    "Order VII Rule 10 of Code of Civil Procedure 1908": 2,
+    "section 80 of Code of Civil Procedure 1908": 1,
+    "Order VII Rule 11 of Code of Civil Procedure, 1908": 3,
+    "section 31 of Banks and Bankruptcy Act, 1993": 1,
+    "Order VII Rule 10 of Code of Civil Procedure, 1908": 9,
+    "Order XV-A] of Code of Civil Procedure, 1908 (5 of 1908):": 1,
+    "proviso to sub-rule (1) of rule 1 of Order V of Code of Civil Procedure, 1908(5 of 1908)": 1,
+    "Section 35A(2) of Code of Civil Procedure, 1908": 1,
+    "Section 35 of Code of Civil Procedure, 1908": 1,
+    "Sub-Section (3) of Section 35 of Code of Civil Procedure, 1908": 1,
+    "Section 45(3) of Calcutta Municipal Act, 1923": 1,
+    "Article 329(b) of Constitution": 1,
+    "Order VIII Rule 1 of Code of Civil Procedure, 1908": 3,
+    "Section 1 and Section 202(2) of Criminal Procedure Code, 1973": 1,
+    "Section 1 of Criminal Procedure Code, 1973": 1,
+    "proviso to Section 202(2) of Criminal Procedure Code, 1973": 1,
+    "Section 15 of Hindu Marriage Act, 1955": 14,
+    "Section 9(3)(c) of Insolvency and Bankruptcy Code": 1,
+    "Section 34 of Act of Arbitration and Conciliation Act, 1996": 2,
+    "Section 23 of Prevention of Food Adulteration Act, 1954": 1,
+    "Rule 7(3) of Prevention of Food Adulteration Rules, 1955": 2,
+    "Order VII Rule 11 (d) of Code of Civil Procedure, 1908": 2,
+    "Order VII Rule 11(a) of Code of Civil Procedure, 1908": 1,
+    "Sub-Section (2) of Section 12A of Legal Services Authority Act, 1987": 1,
+    "Sub-Section (2) of Section 12A of Legal Services Authorities Act, 1987": 1,
+    "Sub-Section (4) of Section 30 of Arbitration and Conciliation Act, 1996": 1,
+    "Section 69 of Indian Partnership Act, 1932": 5,
+    "Section 80(1) of Code of Civil procedure, 1908": 1,
+    "Section 69 of Partnership Act 1932": 1,
+    "Section 80 of Code of Civil Procedure 1908": 2,
+    "Section of 80 of Code of Civil Procedure, 1908": 1,
+    "Section 3 of Limitation Act, 1963": 1,
+    "section 9 of Code of Civil Procedure, 1908": 1,
+    "Section 18 of Banks and Bankruptcy Act, 1993": 1,
+    "Section 9 of Code of Civil Procedure, 1908": 1,
+    "Sub-section (1) of Section 15 of Arbitration and Conciliation Act, 1996": 1,
+    "sections 16 to 20 of Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "sub-section (4) of section 22 of Designs Act, 2000 (16 of 2000)": 1,
+    "section 104 of Patents Act, 1970 (39 of 1970)": 1,
+    "Order VII Rule 10 of Code of Civil Procedure, 1908 (C)": 1,
+    "Section 14 of Limitation Act, 1963": 3,
+    "Sub-Section (1) of Section 12A of Commercial Courts Act, 2015": 1,
+    "Rule 3 of Commercial Courts (Pre-institution Mediation and Settlement) Rules, 2018": 1,
+    "section 2 (1) (c) of Commercial Courts Act, 2015": 1,
+    "section 12A of Act of 2015": 3,
+    "section 15 of Commercial Courts Act, 2015": 4,
+    "Section 12 A of Banks and Bankruptcy Act, 1993": 6,
+    "Section 2(1)(d) read with Section 4 of Commercial Courts Act, 2015": 1,
+    "Section 15 of Commercial Courts Act, 2015": 1,
+    "Section 15(3) of Commercial Courts Act, 2015": 1,
+    "Section 15 and Section 21 of Commercial Courts Act, 2015": 1,
+    "Sections 15 and 21 of Commercial Courts Act, 2015": 1,
+    "Section 26 and 35 of Code of Civil Procedure, 1908": 1,
+    "Section 21 of Code of Civil Procedure, 1908": 2,
+    "Sub-Section (1) of Section 12A of Act of 2015": 1,
+    "Chapter IIIA of Code of Civil Procedure, 1908": 2,
+    "Section 12A of Legal Services Authority Act, 1987": 28,
+    "Sub-Section (3) of Section 12A of Legal Services Authority Act, 1987": 1,
+    "Sub-Section (4) of Section 12A of Legal Services Authority Act, 1987": 1,
+    "Section (5) of Section 12A of Legal Services Authority Act, 1987": 1,
+    "Section 12A (1) of Legal Services Authority Act, 1987": 3,
+    "Section 80(2) of Code of Civil procedure, 1908": 1,
+    "Section 12A(1) of Legal Services Authority Act, 1987": 1,
+    "category Section 12A of Legal Services Authority Act, 1987": 1,
+    "Sub-Section (1) of Section 12A of Legal Services Authority Act, 1987": 2,
+    "section 12 A of Banks and Bankruptcy Act, 1993": 2,
+    "section 12A of Legal Services Authority Act, 1987": 1,
+    "Sub-section (2) of Section 15 of Hindu Marriage Act, 1955": 1,
+    "proviso to Sub-section (2) of Section 15 of Hindu Marriage Act, 1955": 1,
+    "Sub-section (5) of Section 15 of Hindu Marriage Act, 1955": 1,
+    "Sub-section (1), (2) and (3) of Section 15 of Hindu Marriage Act, 1955": 1,
+    "Sections 6 and 7 of Arbitration and Conciliation Act, 1996": 3,
+    "Section 7 of Patents Act, 1970 (39 of 1970)": 5,
+    "Section 6 and 7 of Patents Act, 1970 (39 of 1970)": 1,
+    "Sub-section (1) of Section 15 of Hindu Marriage Act, 1955": 1,
+    "Sections 7, 12A and 15 of Hindu Marriage Act, 1955": 1,
+    "Section 15(1) of Hindu Marriage Act, 1955": 6,
+    "Section 15(5) of Hindu Marriage Act, 1955": 1,
+    "section 15 of Hindu Marriage Act, 1955": 1,
+    "section 7 of Patents Act, 1970 (39 of 1970)": 1,
+    "Section 2 (1)(c)(vii) of Commercial Courts Act, 2015": 1,
+    "section 12 of Arbitration and Conciliation Act, 1996": 1,
+    "Section 2 (1)\n of Commercial Courts Act, 2015": 1,
+    "Section 2 (1) (c) (vi) of Commercial Courts Act, 2015": 1,
+    "Section 2 (1) (c)\n of Commercial Courts Act, 2015": 2,
+    "Section 36 of Limitation Act, 1963": 2,
+    "Section 2 (1) (c) (vii) of Commercial Courts Act, 2015": 1,
+    "Section 2 (1) (c) (i) of Commercial Courts Act, 2015": 1,
+    "Section 2(1)(c) of Commercial Courts Act, 2015": 1,
+    "Sub-Section (1) of Section 12(A) of Arbitration and Conciliation Act, 1996": 1,
+    "Rule 3(1) of Commercial Courts (Pre-institution Mediation and Settlement) Rules, 2018": 1,
+    "Section 12A. of Code of Civil Procedure, 1908": 1,
+    "Article 320(3)(c) of Constitution": 1,
+    "Section 12A reading Section 15 of Patents Act, 1970 (39 of 1970)": 1,
+    "Section 12 A.\n of Patents Act, 1970 (39 of 1970)": 1,
+    "Order VII Rule 11 or Order VII of Rule 10 of Code of Civil Procedure, 1908": 1,
+    "Chapter XIII of Letters Patent, 1865": 1
+  },
+  "statute_counts": {
+    "Arbitration and Conciliation Act, 1996": 8,
+    "Commercial Courts Act, 2015": 42,
+    "Original Side Rules": 1,
+    "Code of Civil Procedure, 1908": 40,
+    "Act of 2015": 16,
+    "Code of Civil Procedure 1908": 5,
+    "Banks and Bankruptcy Act, 1993": 10,
+    "Code of Civil Procedure, 1908 (5 of 1908):": 1,
+    "Code of Civil Procedure, 1908(5 of 1908)": 1,
+    "Calcutta Municipal Act, 1923": 1,
+    "Constitution": 2,
+    "Criminal Procedure Code, 1973": 3,
+    "Hindu Marriage Act, 1955": 28,
+    "Insolvency and Bankruptcy Code": 1,
+    "Act of Arbitration and Conciliation Act, 1996": 2,
+    "Prevention of Food Adulteration Act, 1954": 1,
+    "Prevention of Food Adulteration Rules, 1955": 2,
+    "Legal Services Authority Act, 1987": 40,
+    "Legal Services Authorities Act, 1987": 1,
+    "Indian Partnership Act, 1932": 5,
+    "Code of Civil procedure, 1908": 2,
+    "Partnership Act 1932": 1,
+    "Limitation Act, 1963": 6,
+    "Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Designs Act, 2000 (16 of 2000)": 1,
+    "Patents Act, 1970 (39 of 1970)": 10,
+    "Code of Civil Procedure, 1908 (C)": 1,
+    "Commercial Courts (Pre-institution Mediation and Settlement) Rules, 2018": 2,
+    "Letters Patent, 1865": 1
+  }
+}

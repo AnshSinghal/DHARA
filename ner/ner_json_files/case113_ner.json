@@ -1,0 +1,1073 @@
+{
+  "entities": [
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 16
+    },
+    {
+      "text": "Love Chauhan",
+      "label": "PETITIONER",
+      "start_char": 17,
+      "end_char": 29
+    },
+    {
+      "text": "Ajay Kumar Kathuria",
+      "label": "RESPONDENT",
+      "start_char": 33,
+      "end_char": 52
+    },
+    {
+      "text": "Amit Bansal",
+      "label": "LAWYER",
+      "start_char": 81,
+      "end_char": 92
+    },
+    {
+      "text": "Amit Bansal",
+      "label": "PETITIONER",
+      "start_char": 100,
+      "end_char": 111
+    },
+    {
+      "text": "High Court Of Delhi At New Delhi",
+      "label": "COURT",
+      "start_char": 152,
+      "end_char": 184
+    },
+    {
+      "text": "Love Chauhan",
+      "label": "PETITIONER",
+      "start_char": 389,
+      "end_char": 401
+    },
+    {
+      "text": "Serman Rawat",
+      "label": "LAWYER",
+      "start_char": 528,
+      "end_char": 540
+    },
+    {
+      "text": "Aastha\n                                                                   Vishwakarma",
+      "label": "LAWYER",
+      "start_char": 549,
+      "end_char": 634
+    },
+    {
+      "text": "Anjali Gupta",
+      "label": "LAWYER",
+      "start_char": 949,
+      "end_char": 961
+    },
+    {
+      "text": "Amit Bansal",
+      "label": "JUDGE",
+      "start_char": 1054,
+      "end_char": 1065
+    },
+    {
+      "text": "Amit Bansal",
+      "label": "JUDGE",
+      "start_char": 1135,
+      "end_char": 1146
+    },
+    {
+      "text": "CM(M) 848/2021",
+      "label": "CASE_NUMBER",
+      "start_char": 1269,
+      "end_char": 1283
+    },
+    {
+      "text": "CM 37773/2021",
+      "label": "CASE_NUMBER",
+      "start_char": 1286,
+      "end_char": 1299
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 1347,
+      "end_char": 1358
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 1366,
+      "end_char": 1387
+    },
+    {
+      "text": "23rd March, 2021",
+      "label": "DATE",
+      "start_char": 1412,
+      "end_char": 1428
+    },
+    {
+      "text": "District Judge, Commercial Court-02, West District, Tis Hazari Courts, Delhi",
+      "label": "COURT",
+      "start_char": 1443,
+      "end_char": 1519
+    },
+    {
+      "text": "CS (COMM.) No.185/2020",
+      "label": "CASE_NUMBER",
+      "start_char": 1536,
+      "end_char": 1558
+    },
+    {
+      "text": "Order VIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 1634,
+      "end_char": 1651
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (CPC)",
+      "label": "STATUTE",
+      "start_char": 1659,
+      "end_char": 1694
+    },
+    {
+      "text": "9th July, 2020",
+      "label": "DATE",
+      "start_char": 1882,
+      "end_char": 1896
+    },
+    {
+      "text": "Order XXXIX Rules 1 & 2",
+      "label": "PROVISION",
+      "start_char": 2035,
+      "end_char": 2058
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 2066,
+      "end_char": 2069
+    },
+    {
+      "text": "10th July, 2020",
+      "label": "DATE",
+      "start_char": 2176,
+      "end_char": 2191
+    },
+    {
+      "text": "16th July, 2020",
+      "label": "DATE",
+      "start_char": 2200,
+      "end_char": 2215
+    },
+    {
+      "text": "Order XXXIX Rules 1 & 2",
+      "label": "PROVISION",
+      "start_char": 2295,
+      "end_char": 2318
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 2326,
+      "end_char": 2329
+    },
+    {
+      "text": "20th August, 2020",
+      "label": "DATE",
+      "start_char": 2394,
+      "end_char": 2411
+    },
+    {
+      "text": "24th August, 2020",
+      "label": "DATE",
+      "start_char": 2493,
+      "end_char": 2510
+    },
+    {
+      "text": "25th August, 2020",
+      "label": "DATE",
+      "start_char": 2577,
+      "end_char": 2594
+    },
+    {
+      "text": "14th September, 2020",
+      "label": "DATE",
+      "start_char": 2726,
+      "end_char": 2746
+    },
+    {
+      "text": "14th September, 2020",
+      "label": "DATE",
+      "start_char": 2862,
+      "end_char": 2882
+    },
+    {
+      "text": "9th November, 2020",
+      "label": "DATE",
+      "start_char": 3014,
+      "end_char": 3032
+    },
+    {
+      "text": "24th November, 2020",
+      "label": "DATE",
+      "start_char": 3037,
+      "end_char": 3056
+    },
+    {
+      "text": "Order IX Rule 7",
+      "label": "PROVISION",
+      "start_char": 3083,
+      "end_char": 3098
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 3106,
+      "end_char": 3109
+    },
+    {
+      "text": "Order IX Rule 9",
+      "label": "PROVISION",
+      "start_char": 3135,
+      "end_char": 3150
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 3158,
+      "end_char": 3161
+    },
+    {
+      "text": "14th September, 2020",
+      "label": "DATE",
+      "start_char": 3251,
+      "end_char": 3271
+    },
+    {
+      "text": "7th December, 2020",
+      "label": "DATE",
+      "start_char": 3281,
+      "end_char": 3299
+    },
+    {
+      "text": "Order IX Rule 7",
+      "label": "PROVISION",
+      "start_char": 3323,
+      "end_char": 3338
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 3346,
+      "end_char": 3349
+    },
+    {
+      "text": "6th February, 2021",
+      "label": "DATE",
+      "start_char": 3710,
+      "end_char": 3728
+    },
+    {
+      "text": "Order VIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 3917,
+      "end_char": 3934
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 3942,
+      "end_char": 3945
+    },
+    {
+      "text": "Order VIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 4232,
+      "end_char": 4249
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 4257,
+      "end_char": 4260
+    },
+    {
+      "text": "4.12",
+      "label": "DATE",
+      "start_char": 4306,
+      "end_char": 4310
+    },
+    {
+      "text": "12th February, 2021",
+      "label": "DATE",
+      "start_char": 4314,
+      "end_char": 4333
+    },
+    {
+      "text": "Order VIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 4412,
+      "end_char": 4429
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 4437,
+      "end_char": 4440
+    },
+    {
+      "text": "4.13",
+      "label": "DATE",
+      "start_char": 4442,
+      "end_char": 4446
+    },
+    {
+      "text": "6th February, 2021",
+      "label": "DATE",
+      "start_char": 4463,
+      "end_char": 4481
+    },
+    {
+      "text": "CM(M) 146/2021",
+      "label": "CASE_NUMBER",
+      "start_char": 4554,
+      "end_char": 4568
+    },
+    {
+      "text": "Order VIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 4706,
+      "end_char": 4723
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 4731,
+      "end_char": 4734
+    },
+    {
+      "text": "4.14",
+      "label": "DATE",
+      "start_char": 4781,
+      "end_char": 4785
+    },
+    {
+      "text": "23rd March, 2021",
+      "label": "DATE",
+      "start_char": 4789,
+      "end_char": 4805
+    },
+    {
+      "text": "Order VIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 4894,
+      "end_char": 4911
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 4919,
+      "end_char": 4922
+    },
+    {
+      "text": "8th March, 2021",
+      "label": "DATE",
+      "start_char": 5125,
+      "end_char": 5140
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 5155,
+      "end_char": 5168
+    },
+    {
+      "text": "Civil Writ Petition No.3 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 5181,
+      "end_char": 5213
+    },
+    {
+      "text": "14th September, 2020",
+      "label": "DATE",
+      "start_char": 5486,
+      "end_char": 5506
+    },
+    {
+      "text": "Order IX Rule 7",
+      "label": "PROVISION",
+      "start_char": 5543,
+      "end_char": 5558
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 5562,
+      "end_char": 5565
+    },
+    {
+      "text": "7th December, 2020",
+      "label": "DATE",
+      "start_char": 5604,
+      "end_char": 5622
+    },
+    {
+      "text": "Order VIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 5772,
+      "end_char": 5789
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 5797,
+      "end_char": 5800
+    },
+    {
+      "text": "7th December, 2020",
+      "label": "DATE",
+      "start_char": 5838,
+      "end_char": 5856
+    },
+    {
+      "text": "6th February, 2021",
+      "label": "DATE",
+      "start_char": 5860,
+      "end_char": 5878
+    },
+    {
+      "text": "13th November, 2020",
+      "label": "DATE",
+      "start_char": 6001,
+      "end_char": 6020
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 6063,
+      "end_char": 6076
+    },
+    {
+      "text": "Civil Appeal No. 3007-3008 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 6080,
+      "end_char": 6114
+    },
+    {
+      "text": "Upper Assam Plywood Products Pvt. Ltd.",
+      "label": "ORG",
+      "start_char": 6146,
+      "end_char": 6184
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 6453,
+      "end_char": 6466
+    },
+    {
+      "text": "23rd September, 2021",
+      "label": "DATE",
+      "start_char": 6473,
+      "end_char": 6493
+    },
+    {
+      "text": "Miscellaneous Application No.665 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 6497,
+      "end_char": 6537
+    },
+    {
+      "text": "M.A. No. 665 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 6680,
+      "end_char": 6700
+    },
+    {
+      "text": "15.03.2020",
+      "label": "DATE",
+      "start_char": 6840,
+      "end_char": 6850
+    },
+    {
+      "text": "02.10.2021",
+      "label": "DATE",
+      "start_char": 6856,
+      "end_char": 6866
+    },
+    {
+      "text": "15.03.2021",
+      "label": "DATE",
+      "start_char": 6952,
+      "end_char": 6962
+    },
+    {
+      "text": "03.10.2021",
+      "label": "DATE",
+      "start_char": 7012,
+      "end_char": 7022
+    },
+    {
+      "text": "15.03.2020",
+      "label": "DATE",
+      "start_char": 7104,
+      "end_char": 7114
+    },
+    {
+      "text": "02.10.2021",
+      "label": "DATE",
+      "start_char": 7120,
+      "end_char": 7130
+    },
+    {
+      "text": "03.10.2021",
+      "label": "DATE",
+      "start_char": 7258,
+      "end_char": 7268
+    },
+    {
+      "text": "03.10.2021",
+      "label": "DATE",
+      "start_char": 7351,
+      "end_char": 7361
+    },
+    {
+      "text": "15.03.2020",
+      "label": "DATE",
+      "start_char": 7442,
+      "end_char": 7452
+    },
+    {
+      "text": "02.10.2021",
+      "label": "DATE",
+      "start_char": 7458,
+      "end_char": 7468
+    },
+    {
+      "text": "Sections 23 (4) and 29A",
+      "label": "PROVISION",
+      "start_char": 7537,
+      "end_char": 7560
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 7568,
+      "end_char": 7606
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 7608,
+      "end_char": 7619
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 7627,
+      "end_char": 7654
+    },
+    {
+      "text": "provisos (b) and (c) of Section 138",
+      "label": "PROVISION",
+      "start_char": 7659,
+      "end_char": 7694
+    },
+    {
+      "text": "Negotiable Instruments Act, 1881",
+      "label": "STATUTE",
+      "start_char": 7702,
+      "end_char": 7734
+    },
+    {
+      "text": "6th February, 2021",
+      "label": "DATE",
+      "start_char": 8200,
+      "end_char": 8218
+    },
+    {
+      "text": "16th July, 2020",
+      "label": "DATE",
+      "start_char": 8753,
+      "end_char": 8768
+    },
+    {
+      "text": "13th November, 2020",
+      "label": "DATE",
+      "start_char": 8948,
+      "end_char": 8967
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 9184,
+      "end_char": 9197
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 9466,
+      "end_char": 9479
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 9553,
+      "end_char": 9566
+    },
+    {
+      "text": "SCG Contracts India Pvt",
+      "label": "ORG",
+      "start_char": 9570,
+      "end_char": 9593
+    },
+    {
+      "text": "K.S. Chamankar Infrastructure Pvt. Ltd.",
+      "label": "ORG",
+      "start_char": 9604,
+      "end_char": 9643
+    },
+    {
+      "text": "Order VIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 9726,
+      "end_char": 9743
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 9751,
+      "end_char": 9754
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 9984,
+      "end_char": 9997
+    },
+    {
+      "text": "Order VIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 10025,
+      "end_char": 10042
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 10050,
+      "end_char": 10053
+    },
+    {
+      "text": "13th November, 2020",
+      "label": "DATE",
+      "start_char": 10452,
+      "end_char": 10471
+    },
+    {
+      "text": "7th December, 2020",
+      "label": "DATE",
+      "start_char": 10675,
+      "end_char": 10693
+    },
+    {
+      "text": "7th December, 2020",
+      "label": "DATE",
+      "start_char": 10883,
+      "end_char": 10901
+    },
+    {
+      "text": "Order VIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 10989,
+      "end_char": 11006
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 11014,
+      "end_char": 11017
+    },
+    {
+      "text": "6th February, 2021",
+      "label": "DATE",
+      "start_char": 11131,
+      "end_char": 11149
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 11351,
+      "end_char": 11364
+    },
+    {
+      "text": "Sagufa Ahmed",
+      "label": "PRECEDENT",
+      "start_char": 11368,
+      "end_char": 11380
+    },
+    {
+      "text": "23rd March, 2020",
+      "label": "DATE",
+      "start_char": 11424,
+      "end_char": 11440
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 11541,
+      "end_char": 11554
+    },
+    {
+      "text": "Order IX Rule 7",
+      "label": "PROVISION",
+      "start_char": 12170,
+      "end_char": 12185
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 12193,
+      "end_char": 12196
+    },
+    {
+      "text": "Sagufa Ahmed",
+      "label": "PRECEDENT",
+      "start_char": 12794,
+      "end_char": 12806
+    },
+    {
+      "text": "14th September, 2020",
+      "label": "DATE",
+      "start_char": 13473,
+      "end_char": 13493
+    },
+    {
+      "text": "23rd November, 2020",
+      "label": "DATE",
+      "start_char": 13551,
+      "end_char": 13570
+    },
+    {
+      "text": "Order IX Rule 7",
+      "label": "PROVISION",
+      "start_char": 13629,
+      "end_char": 13644
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 13652,
+      "end_char": 13655
+    },
+    {
+      "text": "14th September, 2020",
+      "label": "DATE",
+      "start_char": 13702,
+      "end_char": 13722
+    },
+    {
+      "text": "7th December, 2020",
+      "label": "DATE",
+      "start_char": 13784,
+      "end_char": 13802
+    },
+    {
+      "text": "26th October, 2021",
+      "label": "DATE",
+      "start_char": 14067,
+      "end_char": 14085
+    },
+    {
+      "text": "23rd March, 2021",
+      "label": "DATE",
+      "start_char": 14143,
+      "end_char": 14159
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 14382,
+      "end_char": 14393
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 14401,
+      "end_char": 14422
+    },
+    {
+      "text": "26th October, 2021",
+      "label": "DATE",
+      "start_char": 14655,
+      "end_char": 14673
+    },
+    {
+      "text": "Goan Sabha Ibrahipmpur",
+      "label": "OTHER_PERSON",
+      "start_char": 15034,
+      "end_char": 15056
+    },
+    {
+      "text": "Kuldeep Singh",
+      "label": "OTHER_PERSON",
+      "start_char": 15070,
+      "end_char": 15083
+    },
+    {
+      "text": "MANU/DE/1967/2021",
+      "label": "CASE_NUMBER",
+      "start_char": 15093,
+      "end_char": 15110
+    },
+    {
+      "text": "13th September, 2021",
+      "label": "DATE",
+      "start_char": 15137,
+      "end_char": 15157
+    },
+    {
+      "text": "Ajay Kumar Vs.",
+      "label": "PRECEDENT",
+      "start_char": 15183,
+      "end_char": 15197
+    },
+    {
+      "text": "Manoj Kumar",
+      "label": "OTHER_PERSON",
+      "start_char": 15198,
+      "end_char": 15209
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 15302,
+      "end_char": 15313
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 15321,
+      "end_char": 15342
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 15631,
+      "end_char": 15644
+    },
+    {
+      "text": "Bithika Mazumdar and Another Vs.",
+      "label": "PRECEDENT",
+      "start_char": 15648,
+      "end_char": 15680
+    },
+    {
+      "text": "Sagar Pal and Others (2017) 2 SCC 748",
+      "label": "PRECEDENT",
+      "start_char": 15681,
+      "end_char": 15718
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 15796,
+      "end_char": 15807
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 15815,
+      "end_char": 15836
+    },
+    {
+      "text": "AMIT BANSAL",
+      "label": "JUDGE",
+      "start_char": 15956,
+      "end_char": 15967
+    },
+    {
+      "text": "OCTOBER 27, 2021",
+      "label": "DATE",
+      "start_char": 15971,
+      "end_char": 15987
+    }
+  ],
+  "precedent_clusters": {
+    "Bithika Mazumdar and Another Vs.": [
+      "Ajay Kumar Vs.",
+      "Bithika Mazumdar and Another Vs."
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Order VIII Rule 1",
+      "Code of Civil Procedure, 1908 (CPC)",
+      "Order VIII Rule 1",
+      "Code of Civil Procedure, 1908 (CPC)"
+    ],
+    [
+      "Order XXXIX Rules 1 & 2",
+      "CPC",
+      "Order XXXIX Rules 1 & 2",
+      "CPC"
+    ],
+    [
+      "Order XXXIX Rules 1 & 2",
+      "CPC",
+      "Order XXXIX Rules 1 & 2",
+      "CPC"
+    ],
+    [
+      "Order IX Rule 7",
+      "CPC",
+      "Order IX Rule 7",
+      "CPC"
+    ],
+    [
+      "Order IX Rule 9",
+      "CPC",
+      "Order IX Rule 9",
+      "CPC"
+    ],
+    [
+      "Order IX Rule 7",
+      "CPC",
+      "Order IX Rule 7",
+      "CPC"
+    ],
+    [
+      "Order VIII Rule 1",
+      "CPC",
+      "Order VIII Rule 1",
+      "CPC"
+    ],
+    [
+      "Order VIII Rule 1",
+      "CPC",
+      "Order VIII Rule 1",
+      "CPC"
+    ],
+    [
+      "Order VIII Rule 1",
+      "CPC",
+      "Order VIII Rule 1",
+      "CPC"
+    ],
+    [
+      "Order VIII Rule 1",
+      "CPC",
+      "Order VIII Rule 1",
+      "CPC"
+    ],
+    [
+      "Order VIII Rule 1",
+      "CPC",
+      "Order VIII Rule 1",
+      "CPC"
+    ],
+    [
+      "Order IX Rule 7",
+      "CPC",
+      "Order IX Rule 7",
+      "CPC"
+    ],
+    [
+      "Order VIII Rule 1",
+      "CPC",
+      "Order VIII Rule 1",
+      "CPC"
+    ],
+    [
+      "Sections 23 (4) and 29A",
+      "Arbitration and Conciliation Act, 1996",
+      "Sections 23 (4) and 29A",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 12A",
+      "Commercial Courts Act, 2015",
+      "Section 12A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "provisos (b) and (c) of Section 138",
+      "Negotiable Instruments Act, 1881",
+      "provisos (b) and (c) of Section 138",
+      "Negotiable Instruments Act, 1881"
+    ],
+    [
+      "Order VIII Rule 1",
+      "CPC",
+      "Order VIII Rule 1",
+      "CPC"
+    ],
+    [
+      "Order VIII Rule 1",
+      "CPC",
+      "Order VIII Rule 1",
+      "CPC"
+    ],
+    [
+      "Order VIII Rule 1",
+      "CPC",
+      "Order VIII Rule 1",
+      "CPC"
+    ],
+    [
+      "Order IX Rule 7",
+      "CPC",
+      "Order IX Rule 7",
+      "CPC"
+    ],
+    [
+      "Order IX Rule 7",
+      "CPC",
+      "Order IX Rule 7",
+      "CPC"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ]
+  ],
+  "precedent_counts": {
+    "Bithika Mazumdar and Another Vs.": 2
+  },
+  "provision_counts": {
+    "Article 227 of Constitution of India": 4,
+    "Order VIII Rule 1 of Code of Civil Procedure, 1908 (CPC)": 1,
+    "Order XXXIX Rules 1 & 2 of CPC": 2,
+    "Order IX Rule 7 of CPC": 5,
+    "Order IX Rule 9 of CPC": 1,
+    "Order VIII Rule 1 of CPC": 9,
+    "Sections 23 (4) and 29A of Arbitration and Conciliation Act, 1996": 1,
+    "Section 12A of Commercial Courts Act, 2015": 1,
+    "provisos (b) and (c) of Section 138 of Negotiable Instruments Act, 1881": 1
+  },
+  "statute_counts": {
+    "Constitution of India": 4,
+    "Code of Civil Procedure, 1908 (CPC)": 1,
+    "CPC": 17,
+    "Arbitration and Conciliation Act, 1996": 1,
+    "Commercial Courts Act, 2015": 1,
+    "Negotiable Instruments Act, 1881": 1
+  }
+}

@@ -1,0 +1,5321 @@
+{
+  "entities": [
+    {
+      "text": "Jharkhand High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 20
+    },
+    {
+      "text": "Union Of India",
+      "label": "PETITIONER",
+      "start_char": 21,
+      "end_char": 35
+    },
+    {
+      "text": "Ekta Telecommunications Systems",
+      "label": "RESPONDENT",
+      "start_char": 67,
+      "end_char": 98
+    },
+    {
+      "text": "16 August, 2023",
+      "label": "DATE",
+      "start_char": 102,
+      "end_char": 117
+    },
+    {
+      "text": "Shree Chandrashekhar",
+      "label": "JUDGE",
+      "start_char": 126,
+      "end_char": 146
+    },
+    {
+      "text": "Shree Chandrashekhar",
+      "label": "JUDGE",
+      "start_char": 154,
+      "end_char": 174
+    },
+    {
+      "text": "Anubha Rawat Choudhary",
+      "label": "LAWYER",
+      "start_char": 176,
+      "end_char": 198
+    },
+    {
+      "text": "High Court Of Jharkhand At Ranchi",
+      "label": "COURT",
+      "start_char": 214,
+      "end_char": 247
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 360,
+      "end_char": 374
+    },
+    {
+      "text": "Kaustubh Mani",
+      "label": "OTHER_PERSON",
+      "start_char": 395,
+      "end_char": 408
+    },
+    {
+      "text": "Sri Shiv Mani",
+      "label": "OTHER_PERSON",
+      "start_char": 436,
+      "end_char": 449
+    },
+    {
+      "text": "Gorakhpur",
+      "label": "GPE",
+      "start_char": 532,
+      "end_char": 541
+    },
+    {
+      "text": "Gorakhpur",
+      "label": "GPE",
+      "start_char": 567,
+      "end_char": 576
+    },
+    {
+      "text": "Uttar Pradesh",
+      "label": "GPE",
+      "start_char": 585,
+      "end_char": 598
+    },
+    {
+      "text": "Ekta Telecommunications Systems",
+      "label": "RESPONDENT",
+      "start_char": 711,
+      "end_char": 742
+    },
+    {
+      "text": "SHREE CHANDRASHEKHAR",
+      "label": "JUDGE",
+      "start_char": 1212,
+      "end_char": 1232
+    },
+    {
+      "text": "ANUBHA RAWAT CHOUDHARY",
+      "label": "OTHER_PERSON",
+      "start_char": 1259,
+      "end_char": 1281
+    },
+    {
+      "text": "Anil Kumar",
+      "label": "LAWYER",
+      "start_char": 1314,
+      "end_char": 1324
+    },
+    {
+      "text": "Pratyush Kumar",
+      "label": "LAWYER",
+      "start_char": 1363,
+      "end_char": 1377
+    },
+    {
+      "text": "CGC",
+      "label": "ORG",
+      "start_char": 1379,
+      "end_char": 1382
+    },
+    {
+      "text": "Vikas Pandey",
+      "label": "LAWYER",
+      "start_char": 1415,
+      "end_char": 1427
+    },
+    {
+      "text": "Piyush Poddar",
+      "label": "LAWYER",
+      "start_char": 1470,
+      "end_char": 1483
+    },
+    {
+      "text": "Manav Poddar",
+      "label": "LAWYER",
+      "start_char": 1526,
+      "end_char": 1538
+    },
+    {
+      "text": "16th August 2023",
+      "label": "DATE",
+      "start_char": 1646,
+      "end_char": 1662
+    },
+    {
+      "text": "Anubha Rawat Choudhary",
+      "label": "JUDGE",
+      "start_char": 1668,
+      "end_char": 1690
+    },
+    {
+      "text": "30th November 2022",
+      "label": "DATE",
+      "start_char": 1807,
+      "end_char": 1825
+    },
+    {
+      "text": "W.P.(C) No. 2638 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 1858,
+      "end_char": 1882
+    },
+    {
+      "text": "09.09.2020",
+      "label": "DATE",
+      "start_char": 1964,
+      "end_char": 1974
+    },
+    {
+      "text": "Article 226",
+      "label": "PROVISION",
+      "start_char": 1981,
+      "end_char": 1992
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 2000,
+      "end_char": 2021
+    },
+    {
+      "text": "31 st January 2020",
+      "label": "DATE",
+      "start_char": 2050,
+      "end_char": 2068
+    },
+    {
+      "text": "Commercial Court, Ranchi",
+      "label": "COURT",
+      "start_char": 2110,
+      "end_char": 2134
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 2264,
+      "end_char": 2274
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 2282,
+      "end_char": 2320
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 2376,
+      "end_char": 2391
+    },
+    {
+      "text": "18.05.2012",
+      "label": "DATE",
+      "start_char": 2443,
+      "end_char": 2453
+    },
+    {
+      "text": "Micro, Small and Medium Enterprises Development Act, 2006",
+      "label": "STATUTE",
+      "start_char": 2574,
+      "end_char": 2631
+    },
+    {
+      "text": "MSMED Act",
+      "label": "STATUTE",
+      "start_char": 2687,
+      "end_char": 2696
+    },
+    {
+      "text": "28.03.2009",
+      "label": "DATE",
+      "start_char": 2825,
+      "end_char": 2835
+    },
+    {
+      "text": "UPS",
+      "label": "ORG",
+      "start_char": 2902,
+      "end_char": 2905
+    },
+    {
+      "text": "Facilitation Council, Jharkhand",
+      "label": "ORG",
+      "start_char": 3283,
+      "end_char": 3314
+    },
+    {
+      "text": "Case No. JHSEFC- 07/11",
+      "label": "CASE_NUMBER",
+      "start_char": 3495,
+      "end_char": 3517
+    },
+    {
+      "text": "MSMED Act",
+      "label": "STATUTE",
+      "start_char": 3546,
+      "end_char": 3555
+    },
+    {
+      "text": "20.05.2011",
+      "label": "DATE",
+      "start_char": 3572,
+      "end_char": 3582
+    },
+    {
+      "text": "18.05.2012",
+      "label": "DATE",
+      "start_char": 3656,
+      "end_char": 3666
+    },
+    {
+      "text": "19.06.2012",
+      "label": "DATE",
+      "start_char": 3696,
+      "end_char": 3706
+    },
+    {
+      "text": "18.05.2012",
+      "label": "DATE",
+      "start_char": 3733,
+      "end_char": 3743
+    },
+    {
+      "text": "Facilitation Council, Jharkhand",
+      "label": "ORG",
+      "start_char": 3762,
+      "end_char": 3793
+    },
+    {
+      "text": "RBI",
+      "label": "ORG",
+      "start_char": 3990,
+      "end_char": 3993
+    },
+    {
+      "text": "MSMED Act",
+      "label": "STATUTE",
+      "start_char": 4010,
+      "end_char": 4019
+    },
+    {
+      "text": "Article 226",
+      "label": "PROVISION",
+      "start_char": 4165,
+      "end_char": 4176
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 4184,
+      "end_char": 4205
+    },
+    {
+      "text": "07.11",
+      "label": "DATE",
+      "start_char": 4209,
+      "end_char": 4214
+    },
+    {
+      "text": "29.04.2013",
+      "label": "DATE",
+      "start_char": 4334,
+      "end_char": 4344
+    },
+    {
+      "text": "LPA no. 200/2013",
+      "label": "CASE_NUMBER",
+      "start_char": 4645,
+      "end_char": 4661
+    },
+    {
+      "text": "29.4.13",
+      "label": "DATE",
+      "start_char": 4684,
+      "end_char": 4691
+    },
+    {
+      "text": "W.P.(C) No.",
+      "label": "CASE_NUMBER",
+      "start_char": 4702,
+      "end_char": 4713
+    },
+    {
+      "text": "25.03.2014",
+      "label": "DATE",
+      "start_char": 4749,
+      "end_char": 4759
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 4804,
+      "end_char": 4814
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 4822,
+      "end_char": 4837
+    },
+    {
+      "text": "section 19",
+      "label": "PROVISION",
+      "start_char": 4848,
+      "end_char": 4858
+    },
+    {
+      "text": "MSMED Act",
+      "label": "STATUTE",
+      "start_char": 4866,
+      "end_char": 4875
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 4986,
+      "end_char": 4996
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 5004,
+      "end_char": 5019
+    },
+    {
+      "text": "Sub-Judge I, Ranchi",
+      "label": "COURT",
+      "start_char": 5031,
+      "end_char": 5050
+    },
+    {
+      "text": "Case No. 11 of 2014",
+      "label": "CASE_NUMBER",
+      "start_char": 5063,
+      "end_char": 5082
+    },
+    {
+      "text": "18.5.2012",
+      "label": "DATE",
+      "start_char": 5126,
+      "end_char": 5135
+    },
+    {
+      "text": "Commercial Court, Ranchi",
+      "label": "COURT",
+      "start_char": 5209,
+      "end_char": 5233
+    },
+    {
+      "text": "25.07.2015",
+      "label": "DATE",
+      "start_char": 5422,
+      "end_char": 5432
+    },
+    {
+      "text": "WPC No. 5988 of 2015",
+      "label": "CASE_NUMBER",
+      "start_char": 5479,
+      "end_char": 5499
+    },
+    {
+      "text": "06.12.2018",
+      "label": "DATE",
+      "start_char": 5535,
+      "end_char": 5545
+    },
+    {
+      "text": "L.P.A. No. 124 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 5579,
+      "end_char": 5601
+    },
+    {
+      "text": "06.12.2018",
+      "label": "DATE",
+      "start_char": 5626,
+      "end_char": 5636
+    },
+    {
+      "text": "06.12.2019",
+      "label": "DATE",
+      "start_char": 5666,
+      "end_char": 5676
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 5728,
+      "end_char": 5741
+    },
+    {
+      "text": "Simplex Infrastructure Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 5742,
+      "end_char": 5776
+    },
+    {
+      "text": "Union of India (2019) 2 SCC 455",
+      "label": "PRECEDENT",
+      "start_char": 5777,
+      "end_char": 5808
+    },
+    {
+      "text": "Case No. 04/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 5961,
+      "end_char": 5977
+    },
+    {
+      "text": "31.1.2020",
+      "label": "DATE",
+      "start_char": 6010,
+      "end_char": 6019
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 6067,
+      "end_char": 6077
+    },
+    {
+      "text": "27.02.2020",
+      "label": "DATE",
+      "start_char": 6153,
+      "end_char": 6163
+    },
+    {
+      "text": "31.01.2020",
+      "label": "DATE",
+      "start_char": 6224,
+      "end_char": 6234
+    },
+    {
+      "text": "Commercial Revocation (Arbitration) Case No. 04/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 6245,
+      "end_char": 6297
+    },
+    {
+      "text": "29th February 2020",
+      "label": "DATE",
+      "start_char": 6357,
+      "end_char": 6375
+    },
+    {
+      "text": "09th September 2020",
+      "label": "DATE",
+      "start_char": 6380,
+      "end_char": 6399
+    },
+    {
+      "text": "Article 226",
+      "label": "PROVISION",
+      "start_char": 6441,
+      "end_char": 6452
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 6460,
+      "end_char": 6481
+    },
+    {
+      "text": "2638/2020",
+      "label": "CASE_NUMBER",
+      "start_char": 6496,
+      "end_char": 6505
+    },
+    {
+      "text": "31.1.2020",
+      "label": "DATE",
+      "start_char": 6536,
+      "end_char": 6545
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 6644,
+      "end_char": 6654
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 6662,
+      "end_char": 6677
+    },
+    {
+      "text": "19.09.2022",
+      "label": "DATE",
+      "start_char": 6724,
+      "end_char": 6734
+    },
+    {
+      "text": "I.A No. 8887 of 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 6806,
+      "end_char": 6826
+    },
+    {
+      "text": "18.5.12",
+      "label": "DATE",
+      "start_char": 6862,
+      "end_char": 6869
+    },
+    {
+      "text": "section 21",
+      "label": "PROVISION",
+      "start_char": 6974,
+      "end_char": 6984
+    },
+    {
+      "text": "MSMED Act",
+      "label": "STATUTE",
+      "start_char": 6992,
+      "end_char": 7001
+    },
+    {
+      "text": "CASE NO",
+      "label": "CASE_NUMBER",
+      "start_char": 7171,
+      "end_char": 7178
+    },
+    {
+      "text": "JHSEFC 07/11",
+      "label": "CASE_NUMBER",
+      "start_char": 7180,
+      "end_char": 7192
+    },
+    {
+      "text": "23.8.22",
+      "label": "DATE",
+      "start_char": 7214,
+      "end_char": 7221
+    },
+    {
+      "text": "14.9.22",
+      "label": "DATE",
+      "start_char": 7247,
+      "end_char": 7254
+    },
+    {
+      "text": "30th November 2022",
+      "label": "DATE",
+      "start_char": 7364,
+      "end_char": 7382
+    },
+    {
+      "text": "I.A No. 8887 of 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 7423,
+      "end_char": 7443
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 7650,
+      "end_char": 7660
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 7668,
+      "end_char": 7683
+    },
+    {
+      "text": "section 21",
+      "label": "PROVISION",
+      "start_char": 8116,
+      "end_char": 8126
+    },
+    {
+      "text": "MSMED Act",
+      "label": "STATUTE",
+      "start_char": 8134,
+      "end_char": 8143
+    },
+    {
+      "text": "Jharkhand Micro, Small and Medium Enterprises Development Rules, 2007",
+      "label": "STATUTE",
+      "start_char": 8217,
+      "end_char": 8286
+    },
+    {
+      "text": "section 21",
+      "label": "PROVISION",
+      "start_char": 8393,
+      "end_char": 8403
+    },
+    {
+      "text": "MSMED Act",
+      "label": "STATUTE",
+      "start_char": 8411,
+      "end_char": 8420
+    },
+    {
+      "text": "section 21",
+      "label": "PROVISION",
+      "start_char": 8429,
+      "end_char": 8439
+    },
+    {
+      "text": "section 21",
+      "label": "PROVISION",
+      "start_char": 8762,
+      "end_char": 8772
+    },
+    {
+      "text": "MSMED Act",
+      "label": "STATUTE",
+      "start_char": 8780,
+      "end_char": 8789
+    },
+    {
+      "text": "Article 226",
+      "label": "PROVISION",
+      "start_char": 8879,
+      "end_char": 8890
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 8898,
+      "end_char": 8919
+    },
+    {
+      "text": "I.A. No. 8887 of 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 8926,
+      "end_char": 8947
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 9022,
+      "end_char": 9032
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 9040,
+      "end_char": 9055
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 9192,
+      "end_char": 9202
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 9210,
+      "end_char": 9225
+    },
+    {
+      "text": "31.01.2020",
+      "label": "DATE",
+      "start_char": 9232,
+      "end_char": 9242
+    },
+    {
+      "text": "Commercial Court, Ranchi",
+      "label": "COURT",
+      "start_char": 9269,
+      "end_char": 9293
+    },
+    {
+      "text": "18.05.2012",
+      "label": "DATE",
+      "start_char": 9347,
+      "end_char": 9357
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 9580,
+      "end_char": 9590
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 9598,
+      "end_char": 9613
+    },
+    {
+      "text": "31.01.2020",
+      "label": "DATE",
+      "start_char": 9770,
+      "end_char": 9780
+    },
+    {
+      "text": "Commercial Court, Ranchi",
+      "label": "COURT",
+      "start_char": 9818,
+      "end_char": 9842
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 9878,
+      "end_char": 9888
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 9896,
+      "end_char": 9911
+    },
+    {
+      "text": "Jharkhand Micro and Small Enterprises Facilitation Council",
+      "label": "ORG",
+      "start_char": 9988,
+      "end_char": 10046
+    },
+    {
+      "text": "18th May 2012/19th June 2012",
+      "label": "DATE",
+      "start_char": 10075,
+      "end_char": 10103
+    },
+    {
+      "text": "section 21",
+      "label": "PROVISION",
+      "start_char": 10270,
+      "end_char": 10280
+    },
+    {
+      "text": "MSMED, Act",
+      "label": "STATUTE",
+      "start_char": 10288,
+      "end_char": 10298
+    },
+    {
+      "text": "Heavy Engineering Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 10428,
+      "end_char": 10462
+    },
+    {
+      "text": "State of Jharkhand and others\"\n2022 SCC OnLine Jhar 843",
+      "label": "PRECEDENT",
+      "start_char": 10467,
+      "end_char": 10522
+    },
+    {
+      "text": "Electrosteel Steels Ltd.",
+      "label": "ORG",
+      "start_char": 10618,
+      "end_char": 10642
+    },
+    {
+      "text": "State of Jharkhand",
+      "label": "ORG",
+      "start_char": 10647,
+      "end_char": 10665
+    },
+    {
+      "text": "W.P.(C) No. 3699 of 2015",
+      "label": "CASE_NUMBER",
+      "start_char": 10687,
+      "end_char": 10711
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 10811,
+      "end_char": 10824
+    },
+    {
+      "text": "Gujarat State Civil Supplies Corporation Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 10828,
+      "end_char": 10880
+    },
+    {
+      "text": "Mahakali Foods Private Limited",
+      "label": "ORG",
+      "start_char": 10881,
+      "end_char": 10911
+    },
+    {
+      "text": "SCC 401",
+      "label": "PROVISION",
+      "start_char": 10933,
+      "end_char": 10940
+    },
+    {
+      "text": "section 16",
+      "label": "PROVISION",
+      "start_char": 10957,
+      "end_char": 10967
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 10975,
+      "end_char": 10990
+    },
+    {
+      "text": "MSMED Act",
+      "label": "STATUTE",
+      "start_char": 11090,
+      "end_char": 11099
+    },
+    {
+      "text": "MSMED Act",
+      "label": "STATUTE",
+      "start_char": 11143,
+      "end_char": 11152
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 11189,
+      "end_char": 11204
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 11320,
+      "end_char": 11333
+    },
+    {
+      "text": "Gujarat State Civil Supplies Corporation Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 11346,
+      "end_char": 11398
+    },
+    {
+      "text": "Mahakali Foods Private Limited",
+      "label": "ORG",
+      "start_char": 11399,
+      "end_char": 11429
+    },
+    {
+      "text": "SCC 401",
+      "label": "PROVISION",
+      "start_char": 11451,
+      "end_char": 11458
+    },
+    {
+      "text": "section 24",
+      "label": "PROVISION",
+      "start_char": 11670,
+      "end_char": 11680
+    },
+    {
+      "text": "MSMED Act, 2006",
+      "label": "STATUTE",
+      "start_char": 11688,
+      "end_char": 11703
+    },
+    {
+      "text": "sections 16 to 23",
+      "label": "PROVISION",
+      "start_char": 11723,
+      "end_char": 11740
+    },
+    {
+      "text": "MSMED Act, 2006",
+      "label": "STATUTE",
+      "start_char": 11863,
+      "end_char": 11878
+    },
+    {
+      "text": "sections 15 to 23",
+      "label": "PROVISION",
+      "start_char": 11901,
+      "end_char": 11918
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 11968,
+      "end_char": 11983
+    },
+    {
+      "text": "Electrosteel Steels Ltd.",
+      "label": "ORG",
+      "start_char": 12068,
+      "end_char": 12092
+    },
+    {
+      "text": "State of Jharkhand",
+      "label": "ORG",
+      "start_char": 12097,
+      "end_char": 12115
+    },
+    {
+      "text": "W.P.(C) No. 3699 of 2015",
+      "label": "CASE_NUMBER",
+      "start_char": 12137,
+      "end_char": 12161
+    },
+    {
+      "text": "Rule 4",
+      "label": "PROVISION",
+      "start_char": 12221,
+      "end_char": 12227
+    },
+    {
+      "text": "JMSMEFC Rules, 2007",
+      "label": "STATUTE",
+      "start_char": 12231,
+      "end_char": 12250
+    },
+    {
+      "text": "section 21",
+      "label": "PROVISION",
+      "start_char": 12275,
+      "end_char": 12285
+    },
+    {
+      "text": "MSMED Act, 2006",
+      "label": "STATUTE",
+      "start_char": 12293,
+      "end_char": 12308
+    },
+    {
+      "text": "Rule 4",
+      "label": "PROVISION",
+      "start_char": 12310,
+      "end_char": 12316
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 12326,
+      "end_char": 12338
+    },
+    {
+      "text": "section 21",
+      "label": "PROVISION",
+      "start_char": 12447,
+      "end_char": 12457
+    },
+    {
+      "text": "Act, 2006",
+      "label": "STATUTE",
+      "start_char": 12465,
+      "end_char": 12474
+    },
+    {
+      "text": "Heavy Engineering Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 12528,
+      "end_char": 12562
+    },
+    {
+      "text": "State of Jharkhand",
+      "label": "GPE",
+      "start_char": 12567,
+      "end_char": 12585
+    },
+    {
+      "text": "SCC OnLine Jhar 843",
+      "label": "CASE_NUMBER",
+      "start_char": 12602,
+      "end_char": 12621
+    },
+    {
+      "text": "section 21",
+      "label": "PROVISION",
+      "start_char": 12757,
+      "end_char": 12767
+    },
+    {
+      "text": "MSMED Act, 2006",
+      "label": "STATUTE",
+      "start_char": 12775,
+      "end_char": 12790
+    },
+    {
+      "text": "Balvant N. Viswamitra and others Vs.",
+      "label": "PRECEDENT",
+      "start_char": 12965,
+      "end_char": 13001
+    },
+    {
+      "text": "Yadav Sadashiv Mule",
+      "label": "OTHER_PERSON",
+      "start_char": 13002,
+      "end_char": 13021
+    },
+    {
+      "text": "(2004) 8 SCC 706",
+      "label": "PRECEDENT",
+      "start_char": 13043,
+      "end_char": 13059
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 13126,
+      "end_char": 13139
+    },
+    {
+      "text": "Sarup Singh & another Vs. Union of India and another (2011)",
+      "label": "PRECEDENT",
+      "start_char": 13509,
+      "end_char": 13568
+    },
+    {
+      "text": "Lion Engineering Consultants Vs.",
+      "label": "PRECEDENT",
+      "start_char": 14111,
+      "end_char": 14143
+    },
+    {
+      "text": "State of Madhya Pradesh",
+      "label": "ORG",
+      "start_char": 14144,
+      "end_char": 14167
+    },
+    {
+      "text": "MSP Infrastructure Ltd.",
+      "label": "ORG",
+      "start_char": 14296,
+      "end_char": 14319
+    },
+    {
+      "text": "MP Road Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 14324,
+      "end_char": 14360
+    },
+    {
+      "text": "SCC 713",
+      "label": "PROVISION",
+      "start_char": 14371,
+      "end_char": 14378
+    },
+    {
+      "text": "MSP Infrastructure Ltd",
+      "label": "ORG",
+      "start_char": 14441,
+      "end_char": 14463
+    },
+    {
+      "text": "Jogendrasinhji Vijaysinghji Vs.",
+      "label": "PRECEDENT",
+      "start_char": 14556,
+      "end_char": 14587
+    },
+    {
+      "text": "State of Gujarat & others (2015) 9 SCC 1",
+      "label": "PRECEDENT",
+      "start_char": 14588,
+      "end_char": 14628
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 14985,
+      "end_char": 14997
+    },
+    {
+      "text": "Articles 226 and 227",
+      "label": "PROVISION",
+      "start_char": 15103,
+      "end_char": 15123
+    },
+    {
+      "text": "Article 226",
+      "label": "PROVISION",
+      "start_char": 15138,
+      "end_char": 15149
+    },
+    {
+      "text": "Shakti Tubes Ltd. Vs.",
+      "label": "PRECEDENT",
+      "start_char": 15241,
+      "end_char": 15262
+    },
+    {
+      "text": "State of Bihar and others (2009) 1 SCC 786",
+      "label": "PRECEDENT",
+      "start_char": 15263,
+      "end_char": 15305
+    },
+    {
+      "text": "section 14",
+      "label": "PROVISION",
+      "start_char": 15389,
+      "end_char": 15399
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 15407,
+      "end_char": 15421
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 15484,
+      "end_char": 15494
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 15502,
+      "end_char": 15534
+    },
+    {
+      "text": "Article 226",
+      "label": "PROVISION",
+      "start_char": 15557,
+      "end_char": 15568
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 15572,
+      "end_char": 15593
+    },
+    {
+      "text": "section 14",
+      "label": "PROVISION",
+      "start_char": 15677,
+      "end_char": 15687
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 15695,
+      "end_char": 15709
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 15874,
+      "end_char": 15884
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 15892,
+      "end_char": 15907
+    },
+    {
+      "text": "Vikas Pandey",
+      "label": "LAWYER",
+      "start_char": 15960,
+      "end_char": 15972
+    },
+    {
+      "text": "section 16",
+      "label": "PROVISION",
+      "start_char": 16116,
+      "end_char": 16126
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 16134,
+      "end_char": 16149
+    },
+    {
+      "text": "MSME Act",
+      "label": "STATUTE",
+      "start_char": 16251,
+      "end_char": 16259
+    },
+    {
+      "text": "sub-section (1) of section 7",
+      "label": "PROVISION",
+      "start_char": 16423,
+      "end_char": 16451
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 16456,
+      "end_char": 16471
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 16501,
+      "end_char": 16516
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 16728,
+      "end_char": 16743
+    },
+    {
+      "text": "section 16",
+      "label": "PROVISION",
+      "start_char": 16766,
+      "end_char": 16776
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 16827,
+      "end_char": 16840
+    },
+    {
+      "text": "(2023) 6 SCC 401",
+      "label": "PRECEDENT",
+      "start_char": 16870,
+      "end_char": 16886
+    },
+    {
+      "text": "section 7(1)",
+      "label": "PROVISION",
+      "start_char": 17035,
+      "end_char": 17047
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 17055,
+      "end_char": 17070
+    },
+    {
+      "text": "section 16",
+      "label": "PROVISION",
+      "start_char": 17075,
+      "end_char": 17085
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 17093,
+      "end_char": 17108
+    },
+    {
+      "text": "section 16",
+      "label": "PROVISION",
+      "start_char": 17407,
+      "end_char": 17417
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 17464,
+      "end_char": 17477
+    },
+    {
+      "text": "Indian Farmers Fertilizer Cooperative Limited versus Bhadra Projects (2018) 2 SCC 534",
+      "label": "PRECEDENT",
+      "start_char": 17493,
+      "end_char": 17578
+    },
+    {
+      "text": "section 16",
+      "label": "PROVISION",
+      "start_char": 17655,
+      "end_char": 17665
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 17673,
+      "end_char": 17688
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 18062,
+      "end_char": 18072
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 18080,
+      "end_char": 18095
+    },
+    {
+      "text": "W.P.(C) No. 6876 of 2012",
+      "label": "CASE_NUMBER",
+      "start_char": 18168,
+      "end_char": 18192
+    },
+    {
+      "text": "Union of India and another vs. Ekta Telecommunication System & others",
+      "label": "PRECEDENT",
+      "start_char": 18297,
+      "end_char": 18366
+    },
+    {
+      "text": "29.04.2013",
+      "label": "DATE",
+      "start_char": 18373,
+      "end_char": 18383
+    },
+    {
+      "text": "W.P.(C) No. 6876 of 2012",
+      "label": "CASE_NUMBER",
+      "start_char": 18394,
+      "end_char": 18418
+    },
+    {
+      "text": "P. Bandopadhya and others Vs.",
+      "label": "PRECEDENT",
+      "start_char": 18490,
+      "end_char": 18519
+    },
+    {
+      "text": "Union of India and others (2019) 13 SCC 42 (iii)",
+      "label": "PRECEDENT",
+      "start_char": 18520,
+      "end_char": 18568
+    },
+    {
+      "text": "Balvant N. Viswamitra and others Vs.",
+      "label": "PRECEDENT",
+      "start_char": 18569,
+      "end_char": 18605
+    },
+    {
+      "text": "Yadav Sadashiv Mule",
+      "label": "OTHER_PERSON",
+      "start_char": 18606,
+      "end_char": 18625
+    },
+    {
+      "text": "Indian Farmers Fertilizer Cooperative Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 18707,
+      "end_char": 18756
+    },
+    {
+      "text": "Bhadra Products (2018) 2 SCC 534",
+      "label": "PRECEDENT",
+      "start_char": 18757,
+      "end_char": 18789
+    },
+    {
+      "text": "Narayan Prasad Lohia Vs.",
+      "label": "PRECEDENT",
+      "start_char": 18814,
+      "end_char": 18838
+    },
+    {
+      "text": "Nikunj Kumar Lohia and others (2002) 3 SCC 572",
+      "label": "PRECEDENT",
+      "start_char": 18839,
+      "end_char": 18885
+    },
+    {
+      "text": "Quippo Construction Equipment Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 18893,
+      "end_char": 18934
+    },
+    {
+      "text": "Janardan Nirman Private Limited",
+      "label": "ORG",
+      "start_char": 18935,
+      "end_char": 18966
+    },
+    {
+      "text": "Bhaven Construction Vs. Executive Engineer, Sadar Sarovar Narmada Nigam Limited and another (2022) 1 SCC 75 (viii)",
+      "label": "PRECEDENT",
+      "start_char": 18991,
+      "end_char": 19105
+    },
+    {
+      "text": "Simplex Infrastructure Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 19106,
+      "end_char": 19140
+    },
+    {
+      "text": "Union of India (2019) 2 SCC 455",
+      "label": "PRECEDENT",
+      "start_char": 19141,
+      "end_char": 19172
+    },
+    {
+      "text": "GPT Infra Projects Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 19198,
+      "end_char": 19228
+    },
+    {
+      "text": "Miki Wire Works",
+      "label": "ORG",
+      "start_char": 19234,
+      "end_char": 19249
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 19279,
+      "end_char": 19298
+    },
+    {
+      "text": "C.O. 1078 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 19302,
+      "end_char": 19319
+    },
+    {
+      "text": "section 16",
+      "label": "PROVISION",
+      "start_char": 19492,
+      "end_char": 19502
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 19510,
+      "end_char": 19525
+    },
+    {
+      "text": "MSMED Act",
+      "label": "STATUTE",
+      "start_char": 19630,
+      "end_char": 19639
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 19687,
+      "end_char": 19697
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 19705,
+      "end_char": 19720
+    },
+    {
+      "text": "section 16",
+      "label": "PROVISION",
+      "start_char": 19789,
+      "end_char": 19799
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 19807,
+      "end_char": 19822
+    },
+    {
+      "text": "MSMED Act",
+      "label": "STATUTE",
+      "start_char": 19919,
+      "end_char": 19928
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 20005,
+      "end_char": 20018
+    },
+    {
+      "text": "Gujarat State Civil Supplies Corporation Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 20022,
+      "end_char": 20074
+    },
+    {
+      "text": "Mahakali Foods Private Limited",
+      "label": "ORG",
+      "start_char": 20075,
+      "end_char": 20105
+    },
+    {
+      "text": "SCC 401",
+      "label": "PROVISION",
+      "start_char": 20127,
+      "end_char": 20134
+    },
+    {
+      "text": "MSMED Act",
+      "label": "STATUTE",
+      "start_char": 20228,
+      "end_char": 20237
+    },
+    {
+      "text": "section 16",
+      "label": "PROVISION",
+      "start_char": 20263,
+      "end_char": 20273
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 20281,
+      "end_char": 20296
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 20310,
+      "end_char": 20323
+    },
+    {
+      "text": "Indian Farmers Fertilizer Cooperative Limited versus Bhadra Projects (2018) 2 SCC 534",
+      "label": "PRECEDENT",
+      "start_char": 20327,
+      "end_char": 20412
+    },
+    {
+      "text": "section 16",
+      "label": "PROVISION",
+      "start_char": 20499,
+      "end_char": 20509
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 20517,
+      "end_char": 20532
+    },
+    {
+      "text": "English Arbitration Act of 1996",
+      "label": "STATUTE",
+      "start_char": 20737,
+      "end_char": 20768
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 20810,
+      "end_char": 20820
+    },
+    {
+      "text": "Gujarat State Civil Supplies Corporation Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 21128,
+      "end_char": 21180
+    },
+    {
+      "text": "Mahakali Foods Private Limited",
+      "label": "ORG",
+      "start_char": 21181,
+      "end_char": 21211
+    },
+    {
+      "text": "SCC 401",
+      "label": "CASE_NUMBER",
+      "start_char": 21233,
+      "end_char": 21240
+    },
+    {
+      "text": "Chapter V",
+      "label": "PROVISION",
+      "start_char": 21485,
+      "end_char": 21494
+    },
+    {
+      "text": "Msmed Act, 2006",
+      "label": "STATUTE",
+      "start_char": 21502,
+      "end_char": 21517
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 21572,
+      "end_char": 21593
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 21674,
+      "end_char": 21684
+    },
+    {
+      "text": "Msmed Act, 2006",
+      "label": "STATUTE",
+      "start_char": 21692,
+      "end_char": 21707
+    },
+    {
+      "text": "Micro and Small Enterprises Facilitation Council",
+      "label": "ORG",
+      "start_char": 21758,
+      "end_char": 21806
+    },
+    {
+      "text": "sub-section (1) of Section 18",
+      "label": "PROVISION",
+      "start_char": 21813,
+      "end_char": 21842
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 21947,
+      "end_char": 21956
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 21964,
+      "end_char": 21985
+    },
+    {
+      "text": "Micro and Small Enterprises Facilitation Council",
+      "label": "ORG",
+      "start_char": 22012,
+      "end_char": 22060
+    },
+    {
+      "text": "sub-section (2) of Section 18",
+      "label": "PROVISION",
+      "start_char": 22210,
+      "end_char": 22239
+    },
+    {
+      "text": "Msmed Act, 2006",
+      "label": "STATUTE",
+      "start_char": 22247,
+      "end_char": 22262
+    },
+    {
+      "text": "Section 80",
+      "label": "PROVISION",
+      "start_char": 22295,
+      "end_char": 22305
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 22313,
+      "end_char": 22334
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 22354,
+      "end_char": 22367
+    },
+    {
+      "text": "MSMED Act",
+      "label": "STATUTE",
+      "start_char": 22395,
+      "end_char": 22404
+    },
+    {
+      "text": "MSMED Act, 2006",
+      "label": "STATUTE",
+      "start_char": 22554,
+      "end_char": 22569
+    },
+    {
+      "text": "Chapter V",
+      "label": "PROVISION",
+      "start_char": 22627,
+      "end_char": 22636
+    },
+    {
+      "text": "Chapter V",
+      "label": "PROVISION",
+      "start_char": 22687,
+      "end_char": 22696
+    },
+    {
+      "text": "Sections 2(d) and 2(n)",
+      "label": "PROVISION",
+      "start_char": 22790,
+      "end_char": 22812
+    },
+    {
+      "text": "Micro and Small Enterprises Facilitation Council",
+      "label": "ORG",
+      "start_char": 23402,
+      "end_char": 23450
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 23532,
+      "end_char": 23542
+    },
+    {
+      "text": "Section 18(4)",
+      "label": "PROVISION",
+      "start_char": 23917,
+      "end_char": 23930
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 24104,
+      "end_char": 24125
+    },
+    {
+      "text": "Sub-section (1) and sub-section (4) of Section 18",
+      "label": "PROVISION",
+      "start_char": 24318,
+      "end_char": 24367
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 24487,
+      "end_char": 24497
+    },
+    {
+      "text": "Sections 15 to 23",
+      "label": "PROVISION",
+      "start_char": 24517,
+      "end_char": 24534
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 24729,
+      "end_char": 24742
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 24803,
+      "end_char": 24818
+    },
+    {
+      "text": "MSMED Act, 2006",
+      "label": "STATUTE",
+      "start_char": 25093,
+      "end_char": 25108
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 25152,
+      "end_char": 25167
+    },
+    {
+      "text": "MSMED Act, 2006",
+      "label": "STATUTE",
+      "start_char": 25211,
+      "end_char": 25226
+    },
+    {
+      "text": "section 24",
+      "label": "PROVISION",
+      "start_char": 25356,
+      "end_char": 25366
+    },
+    {
+      "text": "MSMED Act, 2006",
+      "label": "STATUTE",
+      "start_char": 25374,
+      "end_char": 25389
+    },
+    {
+      "text": "sections 15 to 23",
+      "label": "PROVISION",
+      "start_char": 25446,
+      "end_char": 25463
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 25552,
+      "end_char": 25567
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 25600,
+      "end_char": 25615
+    },
+    {
+      "text": "MSMED Act",
+      "label": "STATUTE",
+      "start_char": 25624,
+      "end_char": 25633
+    },
+    {
+      "text": "sub-sections (1) and (4) of Section 18",
+      "label": "PROVISION",
+      "start_char": 25819,
+      "end_char": 25857
+    },
+    {
+      "text": "Msmed Act, 2006",
+      "label": "STATUTE",
+      "start_char": 25942,
+      "end_char": 25957
+    },
+    {
+      "text": "Arbitration Act of 1996",
+      "label": "STATUTE",
+      "start_char": 26037,
+      "end_char": 26060
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 26167,
+      "end_char": 26188
+    },
+    {
+      "text": "Msmed Act, 2006",
+      "label": "STATUTE",
+      "start_char": 26215,
+      "end_char": 26230
+    },
+    {
+      "text": "sub-section (2) of Section 18",
+      "label": "PROVISION",
+      "start_char": 26288,
+      "end_char": 26317
+    },
+    {
+      "text": "Msmed Act, 2006",
+      "label": "STATUTE",
+      "start_char": 26325,
+      "end_char": 26340
+    },
+    {
+      "text": "Section 18(3)",
+      "label": "PROVISION",
+      "start_char": 26564,
+      "end_char": 26577
+    },
+    {
+      "text": "sub-section (1) of Section 7",
+      "label": "PROVISION",
+      "start_char": 26724,
+      "end_char": 26752
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 26760,
+      "end_char": 26781
+    },
+    {
+      "text": "K. Prabhakaran v. P. Jayarajan [K. Prabhakaran v. P. Jayarajan, (2005) 1 SCC 754 : 2005 SCC (Cri) 451]",
+      "label": "PRECEDENT",
+      "start_char": 26794,
+      "end_char": 26896
+    },
+    {
+      "text": "Msmed Act, 2006",
+      "label": "STATUTE",
+      "start_char": 27121,
+      "end_char": 27136
+    },
+    {
+      "text": "Chapter V",
+      "label": "PROVISION",
+      "start_char": 27246,
+      "end_char": 27255
+    },
+    {
+      "text": "Msmed Act, 2006",
+      "label": "STATUTE",
+      "start_char": 27263,
+      "end_char": 27278
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 27327,
+      "end_char": 27348
+    },
+    {
+      "text": "sub-section (1) of Section 18",
+      "label": "PROVISION",
+      "start_char": 27469,
+      "end_char": 27498
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 27533,
+      "end_char": 27543
+    },
+    {
+      "text": "Msmed Act, 2006",
+      "label": "STATUTE",
+      "start_char": 27551,
+      "end_char": 27566
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 27675,
+      "end_char": 27684
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 27692,
+      "end_char": 27713
+    },
+    {
+      "text": "Section 18",
+      "label": "PROVISION",
+      "start_char": 27782,
+      "end_char": 27792
+    },
+    {
+      "text": "Msmed Act, 2006",
+      "label": "STATUTE",
+      "start_char": 27800,
+      "end_char": 27815
+    },
+    {
+      "text": "sub-section (1) of Section 18",
+      "label": "PROVISION",
+      "start_char": 27961,
+      "end_char": 27990
+    },
+    {
+      "text": "sub-sections (1) and (4) of Section 18",
+      "label": "PROVISION",
+      "start_char": 28153,
+      "end_char": 28191
+    },
+    {
+      "text": "Sections 15 to 23",
+      "label": "PROVISION",
+      "start_char": 28211,
+      "end_char": 28228
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 28276,
+      "end_char": 28286
+    },
+    {
+      "text": "Msmed Act, 2006",
+      "label": "STATUTE",
+      "start_char": 28294,
+      "end_char": 28309
+    },
+    {
+      "text": "Msmed Act, 2006",
+      "label": "STATUTE",
+      "start_char": 28718,
+      "end_char": 28733
+    },
+    {
+      "text": "Section 18(1)",
+      "label": "PROVISION",
+      "start_char": 28774,
+      "end_char": 28787
+    },
+    {
+      "text": "Msmed Act, 2006",
+      "label": "STATUTE",
+      "start_char": 28795,
+      "end_char": 28810
+    },
+    {
+      "text": "Msmed Act, 2006",
+      "label": "STATUTE",
+      "start_char": 28926,
+      "end_char": 28941
+    },
+    {
+      "text": "Msmed Act, 2006",
+      "label": "STATUTE",
+      "start_char": 29550,
+      "end_char": 29565
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 30110,
+      "end_char": 30131
+    },
+    {
+      "text": "Msmed Act, 2006",
+      "label": "STATUTE",
+      "start_char": 30183,
+      "end_char": 30198
+    },
+    {
+      "text": "sub-section (1) of Section 18",
+      "label": "PROVISION",
+      "start_char": 30232,
+      "end_char": 30261
+    },
+    {
+      "text": "Msmed Act, 2006",
+      "label": "STATUTE",
+      "start_char": 30269,
+      "end_char": 30284
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 30359,
+      "end_char": 30369
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 30680,
+      "end_char": 30690
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 30966,
+      "end_char": 30976
+    },
+    {
+      "text": "Msmed Act, 2006",
+      "label": "STATUTE",
+      "start_char": 30984,
+      "end_char": 30999
+    },
+    {
+      "text": "Section 18(1)",
+      "label": "PROVISION",
+      "start_char": 31077,
+      "end_char": 31090
+    },
+    {
+      "text": "Section 18(2)",
+      "label": "PROVISION",
+      "start_char": 31355,
+      "end_char": 31368
+    },
+    {
+      "text": "Msmed Act, 2006",
+      "label": "STATUTE",
+      "start_char": 31376,
+      "end_char": 31391
+    },
+    {
+      "text": "Section 80",
+      "label": "PROVISION",
+      "start_char": 31491,
+      "end_char": 31501
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 31509,
+      "end_char": 31530
+    },
+    {
+      "text": "Section 18",
+      "label": "PROVISION",
+      "start_char": 31757,
+      "end_char": 31767
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 31778,
+      "end_char": 31788
+    },
+    {
+      "text": "Msmed Act, 2006",
+      "label": "STATUTE",
+      "start_char": 31796,
+      "end_char": 31811
+    },
+    {
+      "text": "Chapter V",
+      "label": "PROVISION",
+      "start_char": 31858,
+      "end_char": 31867
+    },
+    {
+      "text": "Msmed Act, 2006",
+      "label": "STATUTE",
+      "start_char": 31875,
+      "end_char": 31890
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 31939,
+      "end_char": 31960
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 31984,
+      "end_char": 32005
+    },
+    {
+      "text": "Section 18(2)",
+      "label": "PROVISION",
+      "start_char": 32145,
+      "end_char": 32158
+    },
+    {
+      "text": "Section 18(3)",
+      "label": "PROVISION",
+      "start_char": 32318,
+      "end_char": 32331
+    },
+    {
+      "text": "Msmed Act, 2006",
+      "label": "STATUTE",
+      "start_char": 32339,
+      "end_char": 32354
+    },
+    {
+      "text": "sub-section (1) of Section 7",
+      "label": "PROVISION",
+      "start_char": 32594,
+      "end_char": 32622
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 32630,
+      "end_char": 32651
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 32686,
+      "end_char": 32707
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 32953,
+      "end_char": 32974
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 33006,
+      "end_char": 33016
+    },
+    {
+      "text": "(2023) 6 SCC 401",
+      "label": "PRECEDENT",
+      "start_char": 33111,
+      "end_char": 33127
+    },
+    {
+      "text": "section 7(1)",
+      "label": "PROVISION",
+      "start_char": 33209,
+      "end_char": 33221
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 33229,
+      "end_char": 33244
+    },
+    {
+      "text": "section 16",
+      "label": "PROVISION",
+      "start_char": 33249,
+      "end_char": 33259
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 33267,
+      "end_char": 33282
+    },
+    {
+      "text": "sub-section (1) of section 7",
+      "label": "PROVISION",
+      "start_char": 33499,
+      "end_char": 33527
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 33535,
+      "end_char": 33550
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 33585,
+      "end_char": 33600
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 33829,
+      "end_char": 33844
+    },
+    {
+      "text": "section 16",
+      "label": "PROVISION",
+      "start_char": 33876,
+      "end_char": 33886
+    },
+    {
+      "text": "section 16",
+      "label": "PROVISION",
+      "start_char": 33917,
+      "end_char": 33927
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 33935,
+      "end_char": 33950
+    },
+    {
+      "text": "MSMED Act",
+      "label": "STATUTE",
+      "start_char": 34055,
+      "end_char": 34064
+    },
+    {
+      "text": "(2018) 2 SCC 534",
+      "label": "PRECEDENT",
+      "start_char": 34183,
+      "end_char": 34199
+    },
+    {
+      "text": "section 16",
+      "label": "PROVISION",
+      "start_char": 34294,
+      "end_char": 34304
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 34312,
+      "end_char": 34327
+    },
+    {
+      "text": "section 16",
+      "label": "PROVISION",
+      "start_char": 34417,
+      "end_char": 34427
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 34435,
+      "end_char": 34450
+    },
+    {
+      "text": "MSMED Act",
+      "label": "STATUTE",
+      "start_char": 34551,
+      "end_char": 34560
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 34962,
+      "end_char": 34972
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 34980,
+      "end_char": 34995
+    },
+    {
+      "text": "section 16",
+      "label": "PROVISION",
+      "start_char": 35235,
+      "end_char": 35245
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 35253,
+      "end_char": 35268
+    },
+    {
+      "text": "section 21",
+      "label": "PROVISION",
+      "start_char": 35541,
+      "end_char": 35551
+    },
+    {
+      "text": "MSMED Act",
+      "label": "STATUTE",
+      "start_char": 35559,
+      "end_char": 35568
+    },
+    {
+      "text": "Electrosteel Steels Ltd.",
+      "label": "ORG",
+      "start_char": 35748,
+      "end_char": 35772
+    },
+    {
+      "text": "State of Jharkhand",
+      "label": "ORG",
+      "start_char": 35777,
+      "end_char": 35795
+    },
+    {
+      "text": "W.P.(C) No. 3699 of 2015",
+      "label": "CASE_NUMBER",
+      "start_char": 35817,
+      "end_char": 35841
+    },
+    {
+      "text": "Heavy Engineering Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 35864,
+      "end_char": 35898
+    },
+    {
+      "text": "State of Jharkhand",
+      "label": "GPE",
+      "start_char": 35903,
+      "end_char": 35921
+    },
+    {
+      "text": "SCC OnLine Jhar 843",
+      "label": "CASE_NUMBER",
+      "start_char": 35938,
+      "end_char": 35957
+    },
+    {
+      "text": "section 16",
+      "label": "PROVISION",
+      "start_char": 36009,
+      "end_char": 36019
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 36027,
+      "end_char": 36042
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 36163,
+      "end_char": 36176
+    },
+    {
+      "text": "Narayan Prasad Lohia Vs.",
+      "label": "PRECEDENT",
+      "start_char": 36192,
+      "end_char": 36216
+    },
+    {
+      "text": "Nikunj Kumar Lohia and others (2002) 3 SCC 572",
+      "label": "PRECEDENT",
+      "start_char": 36217,
+      "end_char": 36263
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 36438,
+      "end_char": 36453
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 36570,
+      "end_char": 36585
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 36733,
+      "end_char": 36746
+    },
+    {
+      "text": "(2002) 3 SCC 572 (Narayan Prasad Lohia v. Nikunj Kumar Lohia & Others)",
+      "label": "PRECEDENT",
+      "start_char": 36775,
+      "end_char": 36845
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 36976,
+      "end_char": 37014
+    },
+    {
+      "text": "Section 10",
+      "label": "PROVISION",
+      "start_char": 37016,
+      "end_char": 37026
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 37034,
+      "end_char": 37049
+    },
+    {
+      "text": "section 10",
+      "label": "PROVISION",
+      "start_char": 37170,
+      "end_char": 37180
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 37224,
+      "end_char": 37237
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 37338,
+      "end_char": 37353
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 37479,
+      "end_char": 37494
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 37532,
+      "end_char": 37545
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 37850,
+      "end_char": 37863
+    },
+    {
+      "text": "Narayan Prasad Lohia",
+      "label": "PRECEDENT",
+      "start_char": 37867,
+      "end_char": 37887
+    },
+    {
+      "text": "sections 4, 5, 10, 11, 16 and 34",
+      "label": "PROVISION",
+      "start_char": 37907,
+      "end_char": 37939
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 37947,
+      "end_char": 37962
+    },
+    {
+      "text": "section 4",
+      "label": "PROVISION",
+      "start_char": 37980,
+      "end_char": 37989
+    },
+    {
+      "text": "section 10",
+      "label": "PROVISION",
+      "start_char": 38020,
+      "end_char": 38030
+    },
+    {
+      "text": "section 16",
+      "label": "PROVISION",
+      "start_char": 38070,
+      "end_char": 38080
+    },
+    {
+      "text": "section 34(2)(a) (v)",
+      "label": "PROVISION",
+      "start_char": 38227,
+      "end_char": 38247
+    },
+    {
+      "text": "Narayan Prasad Lohia",
+      "label": "PRECEDENT",
+      "start_char": 38264,
+      "end_char": 38284
+    },
+    {
+      "text": "section 10",
+      "label": "PROVISION",
+      "start_char": 38388,
+      "end_char": 38398
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 38406,
+      "end_char": 38421
+    },
+    {
+      "text": "section 16",
+      "label": "PROVISION",
+      "start_char": 38572,
+      "end_char": 38582
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 38590,
+      "end_char": 38605
+    },
+    {
+      "text": "section 34(2)(a)(v)",
+      "label": "PROVISION",
+      "start_char": 38646,
+      "end_char": 38665
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 38673,
+      "end_char": 38688
+    },
+    {
+      "text": "Narayan Prasad Lohia",
+      "label": "PRECEDENT",
+      "start_char": 38698,
+      "end_char": 38718
+    },
+    {
+      "text": "section 10",
+      "label": "PROVISION",
+      "start_char": 38814,
+      "end_char": 38824
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 38832,
+      "end_char": 38847
+    },
+    {
+      "text": "section 21",
+      "label": "PROVISION",
+      "start_char": 39114,
+      "end_char": 39124
+    },
+    {
+      "text": "MSMED Act",
+      "label": "STATUTE",
+      "start_char": 39132,
+      "end_char": 39141
+    },
+    {
+      "text": "State of Jharkhand",
+      "label": "ORG",
+      "start_char": 39213,
+      "end_char": 39231
+    },
+    {
+      "text": "MSMED Act",
+      "label": "STATUTE",
+      "start_char": 39264,
+      "end_char": 39273
+    },
+    {
+      "text": "Electrosteel Steels Ltd.",
+      "label": "ORG",
+      "start_char": 39346,
+      "end_char": 39370
+    },
+    {
+      "text": "State of Jharkhand",
+      "label": "ORG",
+      "start_char": 39375,
+      "end_char": 39393
+    },
+    {
+      "text": "W.P.(C) No. 3699 of 2015",
+      "label": "CASE_NUMBER",
+      "start_char": 39415,
+      "end_char": 39439
+    },
+    {
+      "text": "Heavy Engineering Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 39462,
+      "end_char": 39496
+    },
+    {
+      "text": "State of Jharkhand",
+      "label": "GPE",
+      "start_char": 39501,
+      "end_char": 39519
+    },
+    {
+      "text": "SCC OnLine Jhar 843",
+      "label": "CASE_NUMBER",
+      "start_char": 39536,
+      "end_char": 39555
+    },
+    {
+      "text": "State of Jharkhand",
+      "label": "ORG",
+      "start_char": 39671,
+      "end_char": 39689
+    },
+    {
+      "text": "section 21",
+      "label": "PROVISION",
+      "start_char": 39812,
+      "end_char": 39822
+    },
+    {
+      "text": "W.P.(C) No. 6876/2012",
+      "label": "CASE_NUMBER",
+      "start_char": 40405,
+      "end_char": 40426
+    },
+    {
+      "text": "29.04.2013",
+      "label": "DATE",
+      "start_char": 40462,
+      "end_char": 40472
+    },
+    {
+      "text": "LPA No. 200/2013",
+      "label": "CASE_NUMBER",
+      "start_char": 40485,
+      "end_char": 40501
+    },
+    {
+      "text": "25.03.2014",
+      "label": "DATE",
+      "start_char": 40527,
+      "end_char": 40537
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 40582,
+      "end_char": 40592
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 40600,
+      "end_char": 40615
+    },
+    {
+      "text": "section 19",
+      "label": "PROVISION",
+      "start_char": 40626,
+      "end_char": 40636
+    },
+    {
+      "text": "MSMED Act",
+      "label": "STATUTE",
+      "start_char": 40644,
+      "end_char": 40653
+    },
+    {
+      "text": "No. 6876 of 2012",
+      "label": "CASE_NUMBER",
+      "start_char": 40743,
+      "end_char": 40759
+    },
+    {
+      "text": "18th May 2012/19th June 2012",
+      "label": "DATE",
+      "start_char": 40816,
+      "end_char": 40844
+    },
+    {
+      "text": "07th November 2012",
+      "label": "DATE",
+      "start_char": 40945,
+      "end_char": 40963
+    },
+    {
+      "text": "09th November 2012",
+      "label": "DATE",
+      "start_char": 40982,
+      "end_char": 41000
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 41136,
+      "end_char": 41146
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 41154,
+      "end_char": 41169
+    },
+    {
+      "text": "W.P(C) No. 6876 of 2012",
+      "label": "CASE_NUMBER",
+      "start_char": 41242,
+      "end_char": 41265
+    },
+    {
+      "text": "29th April 2013",
+      "label": "DATE",
+      "start_char": 41475,
+      "end_char": 41490
+    },
+    {
+      "text": "W.P.(C) No. 6876 of 2012",
+      "label": "CASE_NUMBER",
+      "start_char": 41501,
+      "end_char": 41525
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 41628,
+      "end_char": 41666
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 41790,
+      "end_char": 41800
+    },
+    {
+      "text": "19th June, 2012",
+      "label": "DATE",
+      "start_char": 42133,
+      "end_char": 42148
+    },
+    {
+      "text": "24th March, 2012",
+      "label": "DATE",
+      "start_char": 42220,
+      "end_char": 42236
+    },
+    {
+      "text": "24th February, 2012",
+      "label": "DATE",
+      "start_char": 42293,
+      "end_char": 42312
+    },
+    {
+      "text": "27th April, 2012",
+      "label": "DATE",
+      "start_char": 42314,
+      "end_char": 42330
+    },
+    {
+      "text": "18th May, 2012",
+      "label": "DATE",
+      "start_char": 42335,
+      "end_char": 42349
+    },
+    {
+      "text": "29th February, 2012",
+      "label": "DATE",
+      "start_char": 42551,
+      "end_char": 42570
+    },
+    {
+      "text": "29th February, 2012",
+      "label": "DATE",
+      "start_char": 42646,
+      "end_char": 42665
+    },
+    {
+      "text": "27th April, 2012",
+      "label": "DATE",
+      "start_char": 42699,
+      "end_char": 42715
+    },
+    {
+      "text": "18th May 2012",
+      "label": "DATE",
+      "start_char": 42720,
+      "end_char": 42733
+    },
+    {
+      "text": "24th March, 2012",
+      "label": "DATE",
+      "start_char": 42864,
+      "end_char": 42880
+    },
+    {
+      "text": "29th February, 2012",
+      "label": "DATE",
+      "start_char": 43168,
+      "end_char": 43187
+    },
+    {
+      "text": "LPA",
+      "label": "ORG",
+      "start_char": 44981,
+      "end_char": 44984
+    },
+    {
+      "text": "No. 200 of 2013",
+      "label": "CASE_NUMBER",
+      "start_char": 44985,
+      "end_char": 45000
+    },
+    {
+      "text": "25th March 2014",
+      "label": "DATE",
+      "start_char": 45026,
+      "end_char": 45041
+    },
+    {
+      "text": "L.P.A.",
+      "label": "COURT",
+      "start_char": 45067,
+      "end_char": 45073
+    },
+    {
+      "text": "29.04.2013",
+      "label": "DATE",
+      "start_char": 45255,
+      "end_char": 45265
+    },
+    {
+      "text": "W.P.(C) No. 6876 of 2012",
+      "label": "CASE_NUMBER",
+      "start_char": 45276,
+      "end_char": 45300
+    },
+    {
+      "text": "W.P.(C) No",
+      "label": "CASE_NUMBER",
+      "start_char": 45364,
+      "end_char": 45374
+    },
+    {
+      "text": "Jharkhand Micro and Small Enterprises Facilitation Council",
+      "label": "ORG",
+      "start_char": 45420,
+      "end_char": 45478
+    },
+    {
+      "text": "19.06.2012",
+      "label": "DATE",
+      "start_char": 45493,
+      "end_char": 45503
+    },
+    {
+      "text": "Section 18",
+      "label": "PROVISION",
+      "start_char": 45634,
+      "end_char": 45644
+    },
+    {
+      "text": "Micro, Small and Medium Enterprises Development Act, 2006",
+      "label": "STATUTE",
+      "start_char": 45652,
+      "end_char": 45709
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 46067,
+      "end_char": 46105
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 46319,
+      "end_char": 46329
+    },
+    {
+      "text": "Act, 1996",
+      "label": "STATUTE",
+      "start_char": 46337,
+      "end_char": 46346
+    },
+    {
+      "text": "Section 19",
+      "label": "PROVISION",
+      "start_char": 46363,
+      "end_char": 46373
+    },
+    {
+      "text": "Act, 2006",
+      "label": "STATUTE",
+      "start_char": 46381,
+      "end_char": 46390
+    },
+    {
+      "text": "Jharkhand Micro and Small Enterprises Facilitation Council",
+      "label": "ORG",
+      "start_char": 46952,
+      "end_char": 47010
+    },
+    {
+      "text": "19.06.2012",
+      "label": "DATE",
+      "start_char": 47024,
+      "end_char": 47034
+    },
+    {
+      "text": "Section 19",
+      "label": "PROVISION",
+      "start_char": 47068,
+      "end_char": 47078
+    },
+    {
+      "text": "Jharkhand Micro and Small Enterprises Facilitation Council",
+      "label": "ORG",
+      "start_char": 47550,
+      "end_char": 47608
+    },
+    {
+      "text": "20.05.2011",
+      "label": "DATE",
+      "start_char": 47612,
+      "end_char": 47622
+    },
+    {
+      "text": "19.06.2012",
+      "label": "DATE",
+      "start_char": 47708,
+      "end_char": 47718
+    },
+    {
+      "text": "U.P.S.",
+      "label": "GPE",
+      "start_char": 47868,
+      "end_char": 47874
+    },
+    {
+      "text": "U.P.S.",
+      "label": "GPE",
+      "start_char": 47946,
+      "end_char": 47952
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 48125,
+      "end_char": 48135
+    },
+    {
+      "text": "Act, 1996",
+      "label": "STATUTE",
+      "start_char": 48143,
+      "end_char": 48152
+    },
+    {
+      "text": "Section 19",
+      "label": "PROVISION",
+      "start_char": 48169,
+      "end_char": 48179
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 48426,
+      "end_char": 48436
+    },
+    {
+      "text": "Section 19",
+      "label": "PROVISION",
+      "start_char": 48470,
+      "end_char": 48480
+    },
+    {
+      "text": "Act, 2006",
+      "label": "STATUTE",
+      "start_char": 48488,
+      "end_char": 48497
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 48540,
+      "end_char": 48549
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 48959,
+      "end_char": 48969
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 48977,
+      "end_char": 48992
+    },
+    {
+      "text": "sub-judge, Ranchi",
+      "label": "COURT",
+      "start_char": 49004,
+      "end_char": 49021
+    },
+    {
+      "text": "18.5.2012",
+      "label": "DATE",
+      "start_char": 49063,
+      "end_char": 49072
+    },
+    {
+      "text": "Commercial Court, Ranchi",
+      "label": "COURT",
+      "start_char": 49115,
+      "end_char": 49139
+    },
+    {
+      "text": "WPC No. 5988 of 2015",
+      "label": "CASE_NUMBER",
+      "start_char": 49328,
+      "end_char": 49348
+    },
+    {
+      "text": "06.12.2018",
+      "label": "DATE",
+      "start_char": 49402,
+      "end_char": 49412
+    },
+    {
+      "text": "L.P.A. No. 124 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 49446,
+      "end_char": 49468
+    },
+    {
+      "text": "06.12.2019",
+      "label": "DATE",
+      "start_char": 49498,
+      "end_char": 49508
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 49560,
+      "end_char": 49573
+    },
+    {
+      "text": "Simplex Infrastructure Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 49574,
+      "end_char": 49608
+    },
+    {
+      "text": "Union of India (2019) 2 SCC 455",
+      "label": "PRECEDENT",
+      "start_char": 49609,
+      "end_char": 49640
+    },
+    {
+      "text": "Case No. 04/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 49816,
+      "end_char": 49832
+    },
+    {
+      "text": "31.1.2020",
+      "label": "DATE",
+      "start_char": 49865,
+      "end_char": 49874
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 49922,
+      "end_char": 49932
+    },
+    {
+      "text": "18th May 2012",
+      "label": "DATE",
+      "start_char": 50077,
+      "end_char": 50090
+    },
+    {
+      "text": "29th April 2013",
+      "label": "DATE",
+      "start_char": 50214,
+      "end_char": 50229
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 50342,
+      "end_char": 50352
+    },
+    {
+      "text": "section 34(3)",
+      "label": "PROVISION",
+      "start_char": 50492,
+      "end_char": 50505
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 50513,
+      "end_char": 50551
+    },
+    {
+      "text": "18/05/2012",
+      "label": "DATE",
+      "start_char": 50741,
+      "end_char": 50751
+    },
+    {
+      "text": "W.P. (C) No. 6876 of 2012",
+      "label": "CASE_NUMBER",
+      "start_char": 50827,
+      "end_char": 50852
+    },
+    {
+      "text": "29/04/2013",
+      "label": "DATE",
+      "start_char": 50928,
+      "end_char": 50938
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 51052,
+      "end_char": 51062
+    },
+    {
+      "text": "s 34(3)",
+      "label": "PROVISION",
+      "start_char": 51196,
+      "end_char": 51203
+    },
+    {
+      "text": "Arbitration and Concilitation Act",
+      "label": "STATUTE",
+      "start_char": 51211,
+      "end_char": 51244
+    },
+    {
+      "text": "25/07/2015",
+      "label": "DATE",
+      "start_char": 51279,
+      "end_char": 51289
+    },
+    {
+      "text": "L.P.A. No. 200 of 2013",
+      "label": "CASE_NUMBER",
+      "start_char": 51578,
+      "end_char": 51600
+    },
+    {
+      "text": "25/03/2014",
+      "label": "DATE",
+      "start_char": 51607,
+      "end_char": 51617
+    },
+    {
+      "text": "Letters Patent Appeal no. 124 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 51672,
+      "end_char": 51709
+    },
+    {
+      "text": "17/07/20198",
+      "label": "DATE",
+      "start_char": 51716,
+      "end_char": 51727
+    },
+    {
+      "text": "25/07/2015",
+      "label": "DATE",
+      "start_char": 52211,
+      "end_char": 52221
+    },
+    {
+      "text": "s (3)",
+      "label": "PROVISION",
+      "start_char": 52396,
+      "end_char": 52401
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 52409,
+      "end_char": 52441
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 52460,
+      "end_char": 52470
+    },
+    {
+      "text": "Simplex Infrastructure Ltd.",
+      "label": "ORG",
+      "start_char": 52474,
+      "end_char": 52501
+    },
+    {
+      "text": "s 34",
+      "label": "PROVISION",
+      "start_char": 52615,
+      "end_char": 52619
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 52627,
+      "end_char": 52659
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 52925,
+      "end_char": 52935
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 52996,
+      "end_char": 53006
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 53014,
+      "end_char": 53046
+    },
+    {
+      "text": "s 34(3)",
+      "label": "PROVISION",
+      "start_char": 53215,
+      "end_char": 53222
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 53230,
+      "end_char": 53262
+    },
+    {
+      "text": "MSEFC",
+      "label": "ORG",
+      "start_char": 53509,
+      "end_char": 53514
+    },
+    {
+      "text": "M.S.E.F.C.",
+      "label": "ORG",
+      "start_char": 53600,
+      "end_char": 53610
+    },
+    {
+      "text": "Commercial Court, Ranchi",
+      "label": "COURT",
+      "start_char": 53723,
+      "end_char": 53747
+    },
+    {
+      "text": "17.07.2019",
+      "label": "DATE",
+      "start_char": 53763,
+      "end_char": 53773
+    },
+    {
+      "text": "LPA no.124 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 53784,
+      "end_char": 53802
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 53848,
+      "end_char": 53858
+    },
+    {
+      "text": "Simplex Infrastructure Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 53863,
+      "end_char": 53890
+    },
+    {
+      "text": "Section 34 (3)",
+      "label": "PROVISION",
+      "start_char": 53962,
+      "end_char": 53976
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 54221,
+      "end_char": 54234
+    },
+    {
+      "text": "Section 34(2)",
+      "label": "PROVISION",
+      "start_char": 54322,
+      "end_char": 54335
+    },
+    {
+      "text": "MSEFC",
+      "label": "ORG",
+      "start_char": 54421,
+      "end_char": 54426
+    },
+    {
+      "text": "M.S.E.F.C.",
+      "label": "ORG",
+      "start_char": 54500,
+      "end_char": 54510
+    },
+    {
+      "text": "MSP Infrastructure Ltd. v. M.P. Road Development Corpn",
+      "label": "PRECEDENT",
+      "start_char": 54589,
+      "end_char": 54643
+    },
+    {
+      "text": "SCC 713",
+      "label": "PROVISION",
+      "start_char": 54661,
+      "end_char": 54668
+    },
+    {
+      "text": "Section 16(2)",
+      "label": "PROVISION",
+      "start_char": 54716,
+      "end_char": 54729
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 54737,
+      "end_char": 54758
+    },
+    {
+      "text": "I.A. Nos. 131/2021, 861/2021, 5467/2021, 8887/2022 and 8888/2022",
+      "label": "CASE_NUMBER",
+      "start_char": 55234,
+      "end_char": 55298
+    },
+    {
+      "text": "MSP Infrastructure Ltd. v. M.P. Road Development Corpn",
+      "label": "PRECEDENT",
+      "start_char": 55598,
+      "end_char": 55652
+    },
+    {
+      "text": "SCC 713",
+      "label": "CASE_NUMBER",
+      "start_char": 55670,
+      "end_char": 55677
+    },
+    {
+      "text": "Lion Engineering Consultants",
+      "label": "PRECEDENT",
+      "start_char": 55745,
+      "end_char": 55773
+    },
+    {
+      "text": "MSP Infrastructure Ltd",
+      "label": "PRECEDENT",
+      "start_char": 55892,
+      "end_char": 55914
+    },
+    {
+      "text": "Lion Engineering Consultants",
+      "label": "PRECEDENT",
+      "start_char": 55962,
+      "end_char": 55990
+    },
+    {
+      "text": "MSP Infrastructure Ltd",
+      "label": "PRECEDENT",
+      "start_char": 56077,
+      "end_char": 56099
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 56325,
+      "end_char": 56335
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "start_char": 56421,
+      "end_char": 56431
+    },
+    {
+      "text": "clause (b) of Section 34",
+      "label": "PROVISION",
+      "start_char": 56472,
+      "end_char": 56496
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 56913,
+      "end_char": 56926
+    },
+    {
+      "text": "Booz Allen and Hamilton Inc. v. SBI Home Finance Ltd.3",
+      "label": "PRECEDENT",
+      "start_char": 56930,
+      "end_char": 56984
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 57913,
+      "end_char": 57923
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 57931,
+      "end_char": 57952
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 58111,
+      "end_char": 58121
+    },
+    {
+      "text": "Divan",
+      "label": "OTHER_PERSON",
+      "start_char": 58171,
+      "end_char": 58176
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 58234,
+      "end_char": 58255
+    },
+    {
+      "text": "M.P. Act of 1983",
+      "label": "STATUTE",
+      "start_char": 58367,
+      "end_char": 58383
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 58499,
+      "end_char": 58520
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 58624,
+      "end_char": 58629
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 58845,
+      "end_char": 58855
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 58863,
+      "end_char": 58884
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 58953,
+      "end_char": 58963
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 59122,
+      "end_char": 59127
+    },
+    {
+      "text": "Central Act",
+      "label": "STATUTE",
+      "start_char": 59194,
+      "end_char": 59205
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 59467,
+      "end_char": 59472
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 59539,
+      "end_char": 59544
+    },
+    {
+      "text": "M.P. Act",
+      "label": "STATUTE",
+      "start_char": 59688,
+      "end_char": 59696
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 59750,
+      "end_char": 59755
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 59889,
+      "end_char": 59894
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 59932,
+      "end_char": 59937
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 59972,
+      "end_char": 59986
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 60139,
+      "end_char": 60144
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 60316,
+      "end_char": 60321
+    },
+    {
+      "text": "Article 1",
+      "label": "PROVISION",
+      "start_char": 60423,
+      "end_char": 60432
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 60440,
+      "end_char": 60452
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 60464,
+      "end_char": 60469
+    },
+    {
+      "text": "Lion Engineering",
+      "label": "ORG",
+      "start_char": 60876,
+      "end_char": 60892
+    },
+    {
+      "text": "MSP Infrastructure Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 61029,
+      "end_char": 61052
+    },
+    {
+      "text": "Lion Engineering",
+      "label": "PRECEDENT",
+      "start_char": 61074,
+      "end_char": 61090
+    },
+    {
+      "text": "section 34 (2) (b)",
+      "label": "PROVISION",
+      "start_char": 61139,
+      "end_char": 61157
+    },
+    {
+      "text": "Public Policy of India",
+      "label": "STATUTE",
+      "start_char": 61359,
+      "end_char": 61381
+    },
+    {
+      "text": "section 34 (2) (a) (v)",
+      "label": "PROVISION",
+      "start_char": 61544,
+      "end_char": 61566
+    },
+    {
+      "text": "section 34 (2) (b)",
+      "label": "PROVISION",
+      "start_char": 61591,
+      "end_char": 61609
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 61658,
+      "end_char": 61668
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 61676,
+      "end_char": 61691
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 61907,
+      "end_char": 61918
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 61926,
+      "end_char": 61947
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 62003,
+      "end_char": 62013
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 62062,
+      "end_char": 62075
+    },
+    {
+      "text": "MSP Infrastructure Ltd",
+      "label": "PRECEDENT",
+      "start_char": 62154,
+      "end_char": 62176
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 62224,
+      "end_char": 62237
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 62295,
+      "end_char": 62300
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 62637,
+      "end_char": 62647
+    },
+    {
+      "text": "WPC No. 6876 of 2012",
+      "label": "CASE_NUMBER",
+      "start_char": 62761,
+      "end_char": 62781
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 62956,
+      "end_char": 62966
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 62974,
+      "end_char": 62989
+    },
+    {
+      "text": "section 14",
+      "label": "PROVISION",
+      "start_char": 63092,
+      "end_char": 63102
+    },
+    {
+      "text": "Limitation Act, 1963",
+      "label": "STATUTE",
+      "start_char": 63110,
+      "end_char": 63130
+    },
+    {
+      "text": "WPC No. 6876 of 2012",
+      "label": "CASE_NUMBER",
+      "start_char": 63237,
+      "end_char": 63257
+    },
+    {
+      "text": "LPA No. 200 of 2013",
+      "label": "CASE_NUMBER",
+      "start_char": 63265,
+      "end_char": 63284
+    },
+    {
+      "text": "LPA No. 200 of 2013",
+      "label": "CASE_NUMBER",
+      "start_char": 63417,
+      "end_char": 63436
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 63497,
+      "end_char": 63507
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 63515,
+      "end_char": 63530
+    },
+    {
+      "text": "section 34(3)",
+      "label": "PROVISION",
+      "start_char": 63659,
+      "end_char": 63672
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 63680,
+      "end_char": 63695
+    },
+    {
+      "text": "06.12.2019",
+      "label": "DATE",
+      "start_char": 63898,
+      "end_char": 63908
+    },
+    {
+      "text": "No. 124 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 63923,
+      "end_char": 63938
+    },
+    {
+      "text": "WPC No. 5988 of 2015",
+      "label": "CASE_NUMBER",
+      "start_char": 63954,
+      "end_char": 63974
+    },
+    {
+      "text": "Simplex Infrastructure Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 64126,
+      "end_char": 64160
+    },
+    {
+      "text": "Union of India",
+      "label": "PRECEDENT",
+      "start_char": 64161,
+      "end_char": 64175
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 64306,
+      "end_char": 64316
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 64324,
+      "end_char": 64339
+    },
+    {
+      "text": "section 34 (3)",
+      "label": "PROVISION",
+      "start_char": 64484,
+      "end_char": 64498
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 64506,
+      "end_char": 64521
+    },
+    {
+      "text": "WPC No. 6876 of 2012",
+      "label": "CASE_NUMBER",
+      "start_char": 64593,
+      "end_char": 64613
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 64664,
+      "end_char": 64674
+    },
+    {
+      "text": "No.6876 of 2012",
+      "label": "CASE_NUMBER",
+      "start_char": 64811,
+      "end_char": 64826
+    },
+    {
+      "text": "section 14",
+      "label": "PROVISION",
+      "start_char": 64899,
+      "end_char": 64909
+    },
+    {
+      "text": "Limitation Act, 1963",
+      "label": "STATUTE",
+      "start_char": 64917,
+      "end_char": 64937
+    },
+    {
+      "text": "Simplex Infrastructure Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 65162,
+      "end_char": 65196
+    },
+    {
+      "text": "Union of India",
+      "label": "PRECEDENT",
+      "start_char": 65197,
+      "end_char": 65211
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 65331,
+      "end_char": 65341
+    },
+    {
+      "text": "Section 34 (2)",
+      "label": "PROVISION",
+      "start_char": 65442,
+      "end_char": 65456
+    },
+    {
+      "text": "section 14",
+      "label": "PROVISION",
+      "start_char": 65669,
+      "end_char": 65679
+    },
+    {
+      "text": "limitation Act",
+      "label": "STATUTE",
+      "start_char": 65687,
+      "end_char": 65701
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 65855,
+      "end_char": 65865
+    },
+    {
+      "text": "proviso to Section 34",
+      "label": "PROVISION",
+      "start_char": 65996,
+      "end_char": 66017
+    },
+    {
+      "text": "sub-section (2) of Section 34",
+      "label": "PROVISION",
+      "start_char": 66118,
+      "end_char": 66147
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 66446,
+      "end_char": 66456
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 66464,
+      "end_char": 66478
+    },
+    {
+      "text": "proviso to Section 34",
+      "label": "PROVISION",
+      "start_char": 66660,
+      "end_char": 66681
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 66887,
+      "end_char": 66900
+    },
+    {
+      "text": "(2022) 1 SCC 75",
+      "label": "CASE_NUMBER",
+      "start_char": 66977,
+      "end_char": 66992
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 67497,
+      "end_char": 67507
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 67549,
+      "end_char": 67559
+    },
+    {
+      "text": "No.2638 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 67621,
+      "end_char": 67636
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 67685,
+      "end_char": 67695
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 67854,
+      "end_char": 67869
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 68116,
+      "end_char": 68126
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 68134,
+      "end_char": 68149
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 68581,
+      "end_char": 68591
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 68599,
+      "end_char": 68614
+    },
+    {
+      "text": "MSMED Act",
+      "label": "STATUTE",
+      "start_char": 68691,
+      "end_char": 68700
+    },
+    {
+      "text": "Shree Chandrashekhar",
+      "label": "JUDGE",
+      "start_char": 68807,
+      "end_char": 68827
+    },
+    {
+      "text": "Shree Chandrashekhar",
+      "label": "JUDGE",
+      "start_char": 68844,
+      "end_char": 68864
+    },
+    {
+      "text": "Anubha Rawat Choudhary",
+      "label": "JUDGE",
+      "start_char": 68871,
+      "end_char": 68893
+    },
+    {
+      "text": "Pankaj",
+      "label": "OTHER_PERSON",
+      "start_char": 68899,
+      "end_char": 68905
+    },
+    {
+      "text": "Saurav",
+      "label": "OTHER_PERSON",
+      "start_char": 68906,
+      "end_char": 68912
+    }
+  ],
+  "precedent_clusters": {
+    "Sarup Singh & another Vs. Union of India and another (2011)": [
+      "Simplex Infrastructure Limited Vs.",
+      "Gujarat State Civil Supplies Corporation Limited Vs.",
+      "Gujarat State Civil Supplies Corporation Limited Vs.",
+      "Balvant N. Viswamitra and others Vs.",
+      "Sarup Singh & another Vs. Union of India and another (2011)",
+      "Lion Engineering Consultants Vs.",
+      "Jogendrasinhji Vijaysinghji Vs.",
+      "Shakti Tubes Ltd. Vs.",
+      "Union of India and another vs. Ekta Telecommunication System & others",
+      "P. Bandopadhya and others Vs.",
+      "Balvant N. Viswamitra and others Vs.",
+      "Indian Farmers Fertilizer Cooperative Limited Vs.",
+      "Narayan Prasad Lohia Vs.",
+      "Quippo Construction Equipment Limited Vs.",
+      "Simplex Infrastructure Limited Vs.",
+      "GPT Infra Projects Limited Vs.",
+      "Gujarat State Civil Supplies Corporation Limited Vs.",
+      "Gujarat State Civil Supplies Corporation Limited Vs.",
+      "Narayan Prasad Lohia Vs.",
+      "Simplex Infrastructure Limited Vs.",
+      "MSP Infrastructure Ltd. v. M.P. Road Development Corpn",
+      "MSP Infrastructure Ltd. v. M.P. Road Development Corpn",
+      "Booz Allen and Hamilton Inc. v. SBI Home Finance Ltd.3",
+      "Simplex Infrastructure Limited Vs.",
+      "Simplex Infrastructure Limited Vs.",
+      "Lion Engineering Consultants",
+      "MSP Infrastructure Ltd",
+      "Lion Engineering Consultants",
+      "MSP Infrastructure Ltd",
+      "MSP Infrastructure Ltd.",
+      "Lion Engineering",
+      "MSP Infrastructure Ltd"
+    ],
+    "Union of India (2019) 2 SCC 455": [
+      "Union of India (2019) 2 SCC 455",
+      "Union of India (2019) 2 SCC 455",
+      "Union of India (2019) 2 SCC 455",
+      "Union of India",
+      "Union of India"
+    ],
+    "(2023) 6 SCC 401": [
+      "(2023) 6 SCC 401",
+      "(2023) 6 SCC 401"
+    ],
+    "Indian Farmers Fertilizer Cooperative Limited versus Bhadra Projects (2018) 2 SCC 534": [
+      "Indian Farmers Fertilizer Cooperative Limited versus Bhadra Projects (2018) 2 SCC 534",
+      "Bhadra Products (2018) 2 SCC 534",
+      "Indian Farmers Fertilizer Cooperative Limited versus Bhadra Projects (2018) 2 SCC 534",
+      "(2018) 2 SCC 534"
+    ],
+    "Nikunj Kumar Lohia and others (2002) 3 SCC 572": [
+      "Nikunj Kumar Lohia and others (2002) 3 SCC 572",
+      "Nikunj Kumar Lohia and others (2002) 3 SCC 572"
+    ],
+    "(2002) 3 SCC 572 (Narayan Prasad Lohia v. Nikunj Kumar Lohia & Others)": [
+      "(2002) 3 SCC 572 (Narayan Prasad Lohia v. Nikunj Kumar Lohia & Others)",
+      "Narayan Prasad Lohia",
+      "Narayan Prasad Lohia",
+      "Narayan Prasad Lohia"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Article 226",
+      "Constitution of India",
+      "Article 226",
+      "Constitution of India"
+    ],
+    [
+      "section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Article 226",
+      "Constitution of India",
+      "Article 226",
+      "Constitution of India"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 19",
+      "MSMED Act",
+      "section 19",
+      "MSMED Act"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Article 226",
+      "Constitution of India",
+      "Article 226",
+      "Constitution of India"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 21",
+      "MSMED Act",
+      "section 21",
+      "MSMED Act"
+    ],
+    [
+      "section 37",
+      "Arbitration Act",
+      "section 37",
+      "Arbitration Act"
+    ],
+    [
+      "section 21",
+      "MSMED Act",
+      "section 21",
+      "MSMED Act"
+    ],
+    [
+      "section 21",
+      "MSMED Act",
+      "section 21",
+      "MSMED Act"
+    ],
+    [
+      "section 21",
+      "MSMED Act",
+      "section 21",
+      "MSMED Act"
+    ],
+    [
+      "Article 226",
+      "Constitution of India",
+      "Article 226",
+      "Constitution of India"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 21",
+      "MSMED, Act",
+      "section 21",
+      "MSMED, Act"
+    ],
+    [
+      "section 16",
+      "Arbitration Act",
+      "section 16",
+      "Arbitration Act"
+    ],
+    [
+      "SCC 401",
+      "MSMED Act",
+      "SCC 401",
+      "MSMED Act"
+    ],
+    [
+      "section 24",
+      "MSMED Act, 2006",
+      "section 24",
+      "MSMED Act, 2006"
+    ],
+    [
+      "sections 15 to 23",
+      "Arbitration Act",
+      "sections 15 to 23",
+      "Arbitration Act"
+    ],
+    [
+      "Rule 4",
+      "JMSMEFC Rules, 2007",
+      "Rule 4",
+      "JMSMEFC Rules, 2007"
+    ],
+    [
+      "section 21",
+      "MSMED Act, 2006",
+      "section 21",
+      "MSMED Act, 2006"
+    ],
+    [
+      "Rule 4",
+      "Constitution",
+      "Rule 4",
+      "Constitution"
+    ],
+    [
+      "section 21",
+      "Act, 2006",
+      "section 21",
+      "Act, 2006"
+    ],
+    [
+      "section 21",
+      "MSMED Act, 2006",
+      "section 21",
+      "MSMED Act, 2006"
+    ],
+    [
+      "section 14",
+      "Limitation Act",
+      "section 14",
+      "Limitation Act"
+    ],
+    [
+      "section 34",
+      "Arbitration and Conciliation Act",
+      "section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Article 226",
+      "Constitution of India",
+      "Article 226",
+      "Constitution of India"
+    ],
+    [
+      "section 14",
+      "Limitation Act",
+      "section 14",
+      "Limitation Act"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 16",
+      "Arbitration Act",
+      "section 16",
+      "Arbitration Act"
+    ],
+    [
+      "sub-section (1) of section 7",
+      "Arbitration Act",
+      "sub-section (1) of section 7",
+      "Arbitration Act"
+    ],
+    [
+      "section 7(1)",
+      "Arbitration Act",
+      "section 7(1)",
+      "Arbitration Act"
+    ],
+    [
+      "section 16",
+      "Arbitration Act",
+      "section 16",
+      "Arbitration Act"
+    ],
+    [
+      "section 16",
+      "Arbitration Act",
+      "section 16",
+      "Arbitration Act"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 16",
+      "Arbitration Act",
+      "section 16",
+      "Arbitration Act"
+    ],
+    [
+      "Section 16",
+      "Arbitration Act",
+      "Section 16",
+      "Arbitration Act"
+    ],
+    [
+      "section 16",
+      "Arbitration Act",
+      "section 16",
+      "Arbitration Act"
+    ],
+    [
+      "SCC 401",
+      "MSMED Act",
+      "SCC 401",
+      "MSMED Act"
+    ],
+    [
+      "section 16",
+      "Arbitration Act",
+      "section 16",
+      "Arbitration Act"
+    ],
+    [
+      "section 16",
+      "Arbitration Act",
+      "section 16",
+      "Arbitration Act"
+    ],
+    [
+      "Chapter V",
+      "Msmed Act, 2006",
+      "Chapter V",
+      "Msmed Act, 2006"
+    ],
+    [
+      "Section 17",
+      "Msmed Act, 2006",
+      "Section 17",
+      "Msmed Act, 2006"
+    ],
+    [
+      "Section 7",
+      "Arbitration Act, 1996",
+      "Section 7",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "sub-section (2) of Section 18",
+      "Msmed Act, 2006",
+      "sub-section (2) of Section 18",
+      "Msmed Act, 2006"
+    ],
+    [
+      "Section 80",
+      "Arbitration Act, 1996",
+      "Section 80",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "section 24",
+      "MSMED Act, 2006",
+      "section 24",
+      "MSMED Act, 2006"
+    ],
+    [
+      "sections 15 to 23",
+      "Arbitration Act",
+      "sections 15 to 23",
+      "Arbitration Act"
+    ],
+    [
+      "sub-section (2) of Section 18",
+      "Msmed Act, 2006",
+      "sub-section (2) of Section 18",
+      "Msmed Act, 2006"
+    ],
+    [
+      "sub-section (1) of Section 7",
+      "Arbitration Act, 1996",
+      "sub-section (1) of Section 7",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Chapter V",
+      "Msmed Act, 2006",
+      "Chapter V",
+      "Msmed Act, 2006"
+    ],
+    [
+      "Section 16",
+      "Msmed Act, 2006",
+      "Section 16",
+      "Msmed Act, 2006"
+    ],
+    [
+      "Section 7",
+      "Arbitration Act, 1996",
+      "Section 7",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 18",
+      "Msmed Act, 2006",
+      "Section 18",
+      "Msmed Act, 2006"
+    ],
+    [
+      "Section 24",
+      "Msmed Act, 2006",
+      "Section 24",
+      "Msmed Act, 2006"
+    ],
+    [
+      "Section 18(1)",
+      "Msmed Act, 2006",
+      "Section 18(1)",
+      "Msmed Act, 2006"
+    ],
+    [
+      "sub-section (1) of Section 18",
+      "Msmed Act, 2006",
+      "sub-section (1) of Section 18",
+      "Msmed Act, 2006"
+    ],
+    [
+      "Section 17",
+      "Msmed Act, 2006",
+      "Section 17",
+      "Msmed Act, 2006"
+    ],
+    [
+      "Section 18(2)",
+      "Msmed Act, 2006",
+      "Section 18(2)",
+      "Msmed Act, 2006"
+    ],
+    [
+      "Section 80",
+      "Arbitration Act, 1996",
+      "Section 80",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 24",
+      "Msmed Act, 2006",
+      "Section 24",
+      "Msmed Act, 2006"
+    ],
+    [
+      "Chapter V",
+      "Msmed Act, 2006",
+      "Chapter V",
+      "Msmed Act, 2006"
+    ],
+    [
+      "Section 18(3)",
+      "Msmed Act, 2006",
+      "Section 18(3)",
+      "Msmed Act, 2006"
+    ],
+    [
+      "sub-section (1) of Section 7",
+      "Arbitration Act, 1996",
+      "sub-section (1) of Section 7",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "section 7(1)",
+      "Arbitration Act",
+      "section 7(1)",
+      "Arbitration Act"
+    ],
+    [
+      "section 16",
+      "Arbitration Act",
+      "section 16",
+      "Arbitration Act"
+    ],
+    [
+      "sub-section (1) of section 7",
+      "Arbitration Act",
+      "sub-section (1) of section 7",
+      "Arbitration Act"
+    ],
+    [
+      "section 16",
+      "Arbitration Act",
+      "section 16",
+      "Arbitration Act"
+    ],
+    [
+      "section 16",
+      "Arbitration Act",
+      "section 16",
+      "Arbitration Act"
+    ],
+    [
+      "section 16",
+      "Arbitration Act",
+      "section 16",
+      "Arbitration Act"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 16",
+      "Arbitration Act",
+      "section 16",
+      "Arbitration Act"
+    ],
+    [
+      "section 21",
+      "MSMED Act",
+      "section 21",
+      "MSMED Act"
+    ],
+    [
+      "section 16",
+      "Arbitration Act",
+      "section 16",
+      "Arbitration Act"
+    ],
+    [
+      "Section 10",
+      "Arbitration Act",
+      "Section 10",
+      "Arbitration Act"
+    ],
+    [
+      "sections 4, 5, 10, 11, 16 and 34",
+      "Arbitration Act",
+      "sections 4, 5, 10, 11, 16 and 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 10",
+      "Arbitration Act",
+      "section 10",
+      "Arbitration Act"
+    ],
+    [
+      "section 16",
+      "Arbitration Act",
+      "section 16",
+      "Arbitration Act"
+    ],
+    [
+      "section 34(2)(a)(v)",
+      "Arbitration Act",
+      "section 34(2)(a)(v)",
+      "Arbitration Act"
+    ],
+    [
+      "section 10",
+      "Arbitration Act",
+      "section 10",
+      "Arbitration Act"
+    ],
+    [
+      "section 21",
+      "MSMED Act",
+      "section 21",
+      "MSMED Act"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 19",
+      "MSMED Act",
+      "section 19",
+      "MSMED Act"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 18",
+      "Micro, Small and Medium Enterprises Development Act, 2006",
+      "Section 18",
+      "Micro, Small and Medium Enterprises Development Act, 2006"
+    ],
+    [
+      "Section 34",
+      "Act, 1996",
+      "Section 34",
+      "Act, 1996"
+    ],
+    [
+      "Section 19",
+      "Act, 2006",
+      "Section 19",
+      "Act, 2006"
+    ],
+    [
+      "Section 34",
+      "Act, 1996",
+      "Section 34",
+      "Act, 1996"
+    ],
+    [
+      "Section 19",
+      "Act, 2006",
+      "Section 19",
+      "Act, 2006"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 34(3)",
+      "Arbitration and Conciliation Act, 1996",
+      "section 34(3)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "s 34(3)",
+      "Arbitration and Concilitation Act",
+      "s 34(3)",
+      "Arbitration and Concilitation Act"
+    ],
+    [
+      "s (3)",
+      "Arbitration and Conciliation Act",
+      "s (3)",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "s 34",
+      "Arbitration and Conciliation Act",
+      "s 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "s 34(3)",
+      "Arbitration and Conciliation Act",
+      "s 34(3)",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 16(2)",
+      "Arbitration Act, 1996",
+      "Section 16(2)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 16",
+      "Arbitration Act, 1996",
+      "Section 16",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 16",
+      "Arbitration Act, 1996",
+      "Section 16",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Article 1",
+      "Constitution",
+      "Article 1",
+      "Constitution"
+    ],
+    [
+      "section 34 (2) (b)",
+      "Public Policy of India",
+      "section 34 (2) (b)",
+      "Public Policy of India"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 14",
+      "Limitation Act, 1963",
+      "section 14",
+      "Limitation Act, 1963"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 34(3)",
+      "Arbitration Act",
+      "section 34(3)",
+      "Arbitration Act"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 34 (3)",
+      "Arbitration Act",
+      "section 34 (3)",
+      "Arbitration Act"
+    ],
+    [
+      "section 14",
+      "Limitation Act, 1963",
+      "section 14",
+      "Limitation Act, 1963"
+    ],
+    [
+      "section 14",
+      "limitation Act",
+      "section 14",
+      "limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 21",
+      "MSMED Act",
+      "section 21",
+      "MSMED Act"
+    ],
+    [
+      "SCC 401",
+      "MSMED Act",
+      "SCC 401",
+      "MSMED Act"
+    ],
+    [
+      "Articles 226 and 227",
+      "Constitution of India",
+      "Articles 226 and 227",
+      "Constitution of India"
+    ],
+    [
+      "Article 226",
+      "Constitution of India",
+      "Article 226",
+      "Constitution of India"
+    ],
+    [
+      "section 16",
+      "Arbitration Act",
+      "section 16",
+      "Arbitration Act"
+    ],
+    [
+      "section 16",
+      "Arbitration Act",
+      "section 16",
+      "Arbitration Act"
+    ],
+    [
+      "Section 16",
+      "Arbitration Act",
+      "Section 16",
+      "Arbitration Act"
+    ],
+    [
+      "sub-section (1) of Section 18",
+      "Msmed Act, 2006",
+      "sub-section (1) of Section 18",
+      "Msmed Act, 2006"
+    ],
+    [
+      "Chapter V",
+      "Msmed Act, 2006",
+      "Chapter V",
+      "Msmed Act, 2006"
+    ],
+    [
+      "Chapter V",
+      "Msmed Act, 2006",
+      "Chapter V",
+      "Msmed Act, 2006"
+    ],
+    [
+      "Sections 2(d) and 2(n)",
+      "MSMED Act, 2006",
+      "Sections 2(d) and 2(n)",
+      "MSMED Act, 2006"
+    ],
+    [
+      "Section 17",
+      "Msmed Act, 2006",
+      "Section 17",
+      "Msmed Act, 2006"
+    ],
+    [
+      "Section 18(4)",
+      "Msmed Act, 2006",
+      "Section 18(4)",
+      "Msmed Act, 2006"
+    ],
+    [
+      "Sub-section (1) and sub-section (4) of Section 18",
+      "Msmed Act, 2006",
+      "Sub-section (1) and sub-section (4) of Section 18",
+      "Msmed Act, 2006"
+    ],
+    [
+      "Section 24",
+      "MSMED Act, 2006",
+      "Section 24",
+      "MSMED Act, 2006"
+    ],
+    [
+      "Sections 15 to 23",
+      "Arbitration Act",
+      "Sections 15 to 23",
+      "Arbitration Act"
+    ],
+    [
+      "sub-sections (1) and (4) of Section 18",
+      "Msmed Act, 2006",
+      "sub-sections (1) and (4) of Section 18",
+      "Msmed Act, 2006"
+    ],
+    [
+      "Section 18(3)",
+      "Msmed Act, 2006",
+      "Section 18(3)",
+      "Msmed Act, 2006"
+    ],
+    [
+      "sub-section (1) of Section 18",
+      "Msmed Act, 2006",
+      "sub-section (1) of Section 18",
+      "Msmed Act, 2006"
+    ],
+    [
+      "sub-section (1) of Section 18",
+      "Msmed Act, 2006",
+      "sub-section (1) of Section 18",
+      "Msmed Act, 2006"
+    ],
+    [
+      "sub-sections (1) and (4) of Section 18",
+      "Msmed Act, 2006",
+      "sub-sections (1) and (4) of Section 18",
+      "Msmed Act, 2006"
+    ],
+    [
+      "Sections 15 to 23",
+      "Arbitration Act",
+      "Sections 15 to 23",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Msmed Act, 2006",
+      "Section 17",
+      "Msmed Act, 2006"
+    ],
+    [
+      "Section 17",
+      "Msmed Act, 2006",
+      "Section 17",
+      "Msmed Act, 2006"
+    ],
+    [
+      "Section 18(1)",
+      "Msmed Act, 2006",
+      "Section 18(1)",
+      "Msmed Act, 2006"
+    ],
+    [
+      "Section 18",
+      "Msmed Act, 2006",
+      "Section 18",
+      "Msmed Act, 2006"
+    ],
+    [
+      "Section 18(2)",
+      "Msmed Act, 2006",
+      "Section 18(2)",
+      "Msmed Act, 2006"
+    ],
+    [
+      "Section 16",
+      "Msmed Act, 2006",
+      "Section 16",
+      "Msmed Act, 2006"
+    ],
+    [
+      "section 16",
+      "Arbitration Act",
+      "section 16",
+      "Arbitration Act"
+    ],
+    [
+      "section 10",
+      "Arbitration Act",
+      "section 10",
+      "Arbitration Act"
+    ],
+    [
+      "section 4",
+      "Arbitration Act",
+      "section 4",
+      "Arbitration Act"
+    ],
+    [
+      "section 10",
+      "Arbitration Act",
+      "section 10",
+      "Arbitration Act"
+    ],
+    [
+      "section 16",
+      "Arbitration Act",
+      "section 16",
+      "Arbitration Act"
+    ],
+    [
+      "section 34(2)(a) (v)",
+      "Arbitration Act",
+      "section 34(2)(a) (v)",
+      "Arbitration Act"
+    ],
+    [
+      "section 21",
+      "MSMED Act",
+      "section 21",
+      "MSMED Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 19",
+      "Act, 2006",
+      "Section 19",
+      "Act, 2006"
+    ],
+    [
+      "Section 19",
+      "Act, 2006",
+      "Section 19",
+      "Act, 2006"
+    ],
+    [
+      "Section 34",
+      "Act, 1996",
+      "Section 34",
+      "Act, 1996"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34 (3)",
+      "Arbitration and Conciliation Act",
+      "Section 34 (3)",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 34(2)",
+      "Arbitration and Conciliation Act",
+      "Section 34(2)",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "SCC 713",
+      "MSMED Act, 2006",
+      "SCC 713",
+      "MSMED Act, 2006"
+    ],
+    [
+      "Section 16",
+      "Arbitration Act, 1996",
+      "Section 16",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "clause (b) of Section 34",
+      "Arbitration and Conciliation Act",
+      "clause (b) of Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act, 1996",
+      "Section 34",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "section 34 (2) (a) (v)",
+      "Public Policy of India",
+      "section 34 (2) (a) (v)",
+      "Public Policy of India"
+    ],
+    [
+      "section 34 (2) (b)",
+      "Public Policy of India",
+      "section 34 (2) (b)",
+      "Public Policy of India"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34 (2)",
+      "Arbitration Act",
+      "Section 34 (2)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "proviso to Section 34",
+      "Arbitration Act",
+      "proviso to Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "sub-section (2) of Section 34",
+      "Arbitration Act",
+      "sub-section (2) of Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "proviso to Section 34",
+      "Arbitration Act",
+      "proviso to Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "sections 16 to 23",
+      "MSMED Act, 2006",
+      "sections 16 to 23",
+      "MSMED Act, 2006"
+    ],
+    [
+      "SCC 713",
+      "MSMED Act, 2006",
+      "SCC 713",
+      "MSMED Act, 2006"
+    ],
+    [
+      "Section 9",
+      "Act, 2006",
+      "Section 9",
+      "Act, 2006"
+    ]
+  ],
+  "precedent_counts": {
+    "Sarup Singh & another Vs. Union of India and another (2011)": 32,
+    "Union of India (2019) 2 SCC 455": 5,
+    "(2023) 6 SCC 401": 2,
+    "Indian Farmers Fertilizer Cooperative Limited versus Bhadra Projects (2018) 2 SCC 534": 4,
+    "Nikunj Kumar Lohia and others (2002) 3 SCC 572": 2,
+    "(2002) 3 SCC 572 (Narayan Prasad Lohia v. Nikunj Kumar Lohia & Others)": 4
+  },
+  "provision_counts": {
+    "Article 226 of Constitution of India": 6,
+    "section 34 of Arbitration and Conciliation Act, 1996": 1,
+    "section 34 of Arbitration Act": 27,
+    "section 19 of MSMED Act": 2,
+    "section 21 of MSMED Act": 8,
+    "section 37 of Arbitration Act": 1,
+    "section 21 of MSMED, Act": 1,
+    "section 16 of Arbitration Act": 19,
+    "SCC 401 of MSMED Act": 3,
+    "section 24 of MSMED Act, 2006": 2,
+    "sections 15 to 23 of Arbitration Act": 2,
+    "Rule 4 of JMSMEFC Rules, 2007": 1,
+    "section 21 of MSMED Act, 2006": 2,
+    "Rule 4 of Constitution": 1,
+    "section 21 of Act, 2006": 1,
+    "section 14 of Limitation Act": 2,
+    "section 34 of Arbitration and Conciliation Act": 1,
+    "sub-section (1) of section 7 of Arbitration Act": 2,
+    "section 7(1) of Arbitration Act": 2,
+    "Section 16 of Arbitration Act": 2,
+    "Chapter V of Msmed Act, 2006": 5,
+    "Section 17 of Msmed Act, 2006": 5,
+    "Section 7 of Arbitration Act, 1996": 2,
+    "sub-section (2) of Section 18 of Msmed Act, 2006": 2,
+    "Section 80 of Arbitration Act, 1996": 2,
+    "sub-section (1) of Section 7 of Arbitration Act, 1996": 2,
+    "Section 16 of Msmed Act, 2006": 2,
+    "Section 18 of Msmed Act, 2006": 2,
+    "Section 24 of Msmed Act, 2006": 2,
+    "Section 18(1) of Msmed Act, 2006": 2,
+    "sub-section (1) of Section 18 of Msmed Act, 2006": 4,
+    "Section 18(2) of Msmed Act, 2006": 2,
+    "Section 18(3) of Msmed Act, 2006": 2,
+    "Section 10 of Arbitration Act": 1,
+    "sections 4, 5, 10, 11, 16 and 34 of Arbitration Act": 1,
+    "section 10 of Arbitration Act": 4,
+    "section 34(2)(a)(v) of Arbitration Act": 1,
+    "Section 18 of Micro, Small and Medium Enterprises Development Act, 2006": 1,
+    "Section 34 of Act, 1996": 3,
+    "Section 19 of Act, 2006": 4,
+    "section 34(3) of Arbitration and Conciliation Act, 1996": 1,
+    "s 34(3) of Arbitration and Concilitation Act": 1,
+    "s (3) of Arbitration and Conciliation Act": 1,
+    "s 34 of Arbitration and Conciliation Act": 1,
+    "Section 34 of Arbitration and Conciliation Act": 2,
+    "s 34(3) of Arbitration and Conciliation Act": 1,
+    "Section 16(2) of Arbitration Act, 1996": 1,
+    "Section 16 of Arbitration Act, 1996": 3,
+    "Article 1 of Constitution": 1,
+    "section 34 (2) (b) of Public Policy of India": 2,
+    "Article 227 of Constitution of India": 1,
+    "section 14 of Limitation Act, 1963": 2,
+    "section 34(3) of Arbitration Act": 1,
+    "section 34 (3) of Arbitration Act": 1,
+    "section 14 of limitation Act": 1,
+    "Section 14 of Limitation Act": 1,
+    "Articles 226 and 227 of Constitution of India": 1,
+    "Sections 2(d) and 2(n) of MSMED Act, 2006": 1,
+    "Section 18(4) of Msmed Act, 2006": 1,
+    "Sub-section (1) and sub-section (4) of Section 18 of Msmed Act, 2006": 1,
+    "Section 24 of MSMED Act, 2006": 1,
+    "Sections 15 to 23 of Arbitration Act": 2,
+    "sub-sections (1) and (4) of Section 18 of Msmed Act, 2006": 2,
+    "section 4 of Arbitration Act": 1,
+    "section 34(2)(a) (v) of Arbitration Act": 1,
+    "Section 34 of Arbitration Act": 4,
+    "Section 34 of Arbitration and Conciliation Act, 1996": 1,
+    "Section 34 (3) of Arbitration and Conciliation Act": 1,
+    "Section 34(2) of Arbitration and Conciliation Act": 1,
+    "SCC 713 of MSMED Act, 2006": 2,
+    "clause (b) of Section 34 of Arbitration and Conciliation Act": 1,
+    "Section 34 of Arbitration Act, 1996": 1,
+    "section 34 (2) (a) (v) of Public Policy of India": 1,
+    "Section 34 (2) of Arbitration Act": 1,
+    "proviso to Section 34 of Arbitration Act": 2,
+    "sub-section (2) of Section 34 of Arbitration Act": 1,
+    "sections 16 to 23 of MSMED Act, 2006": 1,
+    "Section 9 of Act, 2006": 1
+  },
+  "statute_counts": {
+    "Constitution of India": 8,
+    "Arbitration and Conciliation Act, 1996": 3,
+    "Arbitration Act": 76,
+    "MSMED Act": 13,
+    "MSMED, Act": 1,
+    "MSMED Act, 2006": 9,
+    "JMSMEFC Rules, 2007": 1,
+    "Constitution": 2,
+    "Act, 2006": 6,
+    "Limitation Act": 3,
+    "Arbitration and Conciliation Act": 9,
+    "Msmed Act, 2006": 32,
+    "Arbitration Act, 1996": 11,
+    "Micro, Small and Medium Enterprises Development Act, 2006": 1,
+    "Act, 1996": 3,
+    "Arbitration and Concilitation Act": 1,
+    "Public Policy of India": 3,
+    "Limitation Act, 1963": 2,
+    "limitation Act": 1
+  }
+}

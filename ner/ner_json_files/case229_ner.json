@@ -1,0 +1,831 @@
+{
+  "entities": [
+    {
+      "text": "Suman International",
+      "label": "PETITIONER",
+      "start_char": 21,
+      "end_char": 40
+    },
+    {
+      "text": "Mahendra Gulwani",
+      "label": "RESPONDENT",
+      "start_char": 51,
+      "end_char": 67
+    },
+    {
+      "text": "Vibhu Bakhru",
+      "label": "LAWYER",
+      "start_char": 104,
+      "end_char": 116
+    },
+    {
+      "text": "Vibhu Bakhru",
+      "label": "LAWYER",
+      "start_char": 124,
+      "end_char": 136
+    },
+    {
+      "text": "High Court Of Delhi At New Delhi",
+      "label": "COURT",
+      "start_char": 177,
+      "end_char": 209
+    },
+    {
+      "text": "Suman International",
+      "label": "PETITIONER",
+      "start_char": 407,
+      "end_char": 426
+    },
+    {
+      "text": "Mahendra Gulwani",
+      "label": "RESPONDENT",
+      "start_char": 565,
+      "end_char": 581
+    },
+    {
+      "text": "Raunaq Kamath",
+      "label": "LAWYER",
+      "start_char": 754,
+      "end_char": 767
+    },
+    {
+      "text": "Sauhard\n                                                   Alung",
+      "label": "LAWYER",
+      "start_char": 775,
+      "end_char": 839
+    },
+    {
+      "text": "Shailen Bhatia",
+      "label": "LAWYER",
+      "start_char": 909,
+      "end_char": 923
+    },
+    {
+      "text": "Sheril Bhatia",
+      "label": "LAWYER",
+      "start_char": 928,
+      "end_char": 941
+    },
+    {
+      "text": "Arnab Chatterjee",
+      "label": "LAWYER",
+      "start_char": 1000,
+      "end_char": 1016
+    },
+    {
+      "text": "Vibhu Bakhru",
+      "label": "JUDGE",
+      "start_char": 1107,
+      "end_char": 1119
+    },
+    {
+      "text": "Amit Mahajan",
+      "label": "JUDGE",
+      "start_char": 1165,
+      "end_char": 1177
+    },
+    {
+      "text": "AMIT MAHAJAN",
+      "label": "JUDGE",
+      "start_char": 1243,
+      "end_char": 1255
+    },
+    {
+      "text": "Suman International",
+      "label": "PETITIONER",
+      "start_char": 1285,
+      "end_char": 1304
+    },
+    {
+      "text": "28.10.2021",
+      "label": "DATE",
+      "start_char": 1370,
+      "end_char": 1380
+    },
+    {
+      "text": "CS (COMM) 251 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 1454,
+      "end_char": 1475
+    },
+    {
+      "text": "Order XXXIX Rules 1 & 2",
+      "label": "PROVISION",
+      "start_char": 1573,
+      "end_char": 1596
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 1600,
+      "end_char": 1629
+    },
+    {
+      "text": "Order XXXIX Rule 4",
+      "label": "PROVISION",
+      "start_char": 1697,
+      "end_char": 1715
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 1716,
+      "end_char": 1719
+    },
+    {
+      "text": "Mahendra Gulwani",
+      "label": "RESPONDENT",
+      "start_char": 2282,
+      "end_char": 2298
+    },
+    {
+      "text": "Mahendra Food Products",
+      "label": "ORG",
+      "start_char": 2348,
+      "end_char": 2370
+    },
+    {
+      "text": "Kapur Confectioners",
+      "label": "RESPONDENT",
+      "start_char": 2394,
+      "end_char": 2413
+    },
+    {
+      "text": "Northern Region of India",
+      "label": "GPE",
+      "start_char": 2486,
+      "end_char": 2510
+    },
+    {
+      "text": "15.11.2016",
+      "label": "DATE",
+      "start_char": 4317,
+      "end_char": 4327
+    },
+    {
+      "text": "Copyright Act, 1957",
+      "label": "STATUTE",
+      "start_char": 4729,
+      "end_char": 4748
+    },
+    {
+      "text": "CS(COMM) 133/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 5639,
+      "end_char": 5656
+    },
+    {
+      "text": "19.01.2021",
+      "label": "DATE",
+      "start_char": 6041,
+      "end_char": 6051
+    },
+    {
+      "text": "CS (COMM) 251/2021",
+      "label": "CASE_NUMBER",
+      "start_char": 7000,
+      "end_char": 7018
+    },
+    {
+      "text": "28.10.2021",
+      "label": "DATE",
+      "start_char": 7268,
+      "end_char": 7278
+    },
+    {
+      "text": "Order XXXIX Rules 1 & 2",
+      "label": "PROVISION",
+      "start_char": 7335,
+      "end_char": 7358
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 7362,
+      "end_char": 7365
+    },
+    {
+      "text": "Order XXXIX Rule 4",
+      "label": "PROVISION",
+      "start_char": 7445,
+      "end_char": 7463
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 7467,
+      "end_char": 7470
+    },
+    {
+      "text": "01.06.2018",
+      "label": "DATE",
+      "start_char": 9349,
+      "end_char": 9359
+    },
+    {
+      "text": "Ferrero Spa",
+      "label": "ORG",
+      "start_char": 9417,
+      "end_char": 9428
+    },
+    {
+      "text": "Kishor J. Savlani",
+      "label": "RESPONDENT",
+      "start_char": 9443,
+      "end_char": 9460
+    },
+    {
+      "text": "No. 966/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 9479,
+      "end_char": 9491
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 11636,
+      "end_char": 11641
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 11791,
+      "end_char": 11796
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 12265,
+      "end_char": 12275
+    },
+    {
+      "text": "Skyline Education Institute (India) Private Limited v. S.L. Vaswani & Anr : (2010) 2 Supreme Court Cases 142",
+      "label": "PRECEDENT",
+      "start_char": 12291,
+      "end_char": 12399
+    },
+    {
+      "text": "Bhole Baba Milk Food Industries Limited v. Parul Food Specialities (P) Ltd.: ILR (2011) DELHI 317",
+      "label": "PRECEDENT",
+      "start_char": 12454,
+      "end_char": 12551
+    },
+    {
+      "text": "Trade Mark Registry",
+      "label": "STATUTE",
+      "start_char": 12934,
+      "end_char": 12953
+    },
+    {
+      "text": "19.01.2021",
+      "label": "DATE",
+      "start_char": 15326,
+      "end_char": 15336
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 16595,
+      "end_char": 16604
+    },
+    {
+      "text": "Trade Marks Act, 1999",
+      "label": "STATUTE",
+      "start_char": 16612,
+      "end_char": 16633
+    },
+    {
+      "text": "MADHUR ROSE POP LOLLIPOPS",
+      "label": "RESPONDENT",
+      "start_char": 17259,
+      "end_char": 17284
+    },
+    {
+      "text": "Trade and Merchandise Marks Act, 1958",
+      "label": "STATUTE",
+      "start_char": 19029,
+      "end_char": 19066
+    },
+    {
+      "text": "Trade Marks Act, 1999",
+      "label": "STATUTE",
+      "start_char": 19157,
+      "end_char": 19178
+    },
+    {
+      "text": "Trade Marks Act, 1999",
+      "label": "STATUTE",
+      "start_char": 19457,
+      "end_char": 19478
+    },
+    {
+      "text": "Knitpro International v. Examiner of Trade Marks through Registrar of Trade Marks: 2022:DHC:2631,",
+      "label": "PRECEDENT",
+      "start_char": 19997,
+      "end_char": 20094
+    },
+    {
+      "text": "Section 9(1)(a)",
+      "label": "PROVISION",
+      "start_char": 21125,
+      "end_char": 21140
+    },
+    {
+      "text": "Trade Marks Act, 1999",
+      "label": "STATUTE",
+      "start_char": 21148,
+      "end_char": 21169
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 21560,
+      "end_char": 21577
+    },
+    {
+      "text": "Lupin v. Johnson and Johnson:\n2015(61) PTC1 (Bom)",
+      "label": "PRECEDENT",
+      "start_char": 21593,
+      "end_char": 21642
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 21667,
+      "end_char": 21684
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 24026,
+      "end_char": 24036
+    },
+    {
+      "text": "Skyline Education Institute (India) Pvt. Ltd. v. S.L. Vaswani & Anr",
+      "label": "PRECEDENT",
+      "start_char": 24053,
+      "end_char": 24120
+    },
+    {
+      "text": "(2010) 2 SCC 142",
+      "label": "PRECEDENT",
+      "start_char": 24124,
+      "end_char": 24140
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 25012,
+      "end_char": 25017
+    },
+    {
+      "text": "United States of America",
+      "label": "GPE",
+      "start_char": 25187,
+      "end_char": 25211
+    },
+    {
+      "text": "United Kingdom",
+      "label": "GPE",
+      "start_char": 25336,
+      "end_char": 25350
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 25629,
+      "end_char": 25639
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 25704,
+      "end_char": 25709
+    },
+    {
+      "text": "36.17",
+      "label": "DATE",
+      "start_char": 25852,
+      "end_char": 25857
+    },
+    {
+      "text": "Ferrero Spa",
+      "label": "ORG",
+      "start_char": 27922,
+      "end_char": 27933
+    },
+    {
+      "text": "Kishor J. Salvani",
+      "label": "OTHER_PERSON",
+      "start_char": 27950,
+      "end_char": 27967
+    },
+    {
+      "text": "Ferrero Spa",
+      "label": "ORG",
+      "start_char": 28378,
+      "end_char": 28389
+    },
+    {
+      "text": "Kishor J. Salvani",
+      "label": "OTHER_PERSON",
+      "start_char": 28406,
+      "end_char": 28423
+    },
+    {
+      "text": "Ferrero Spa",
+      "label": "ORG",
+      "start_char": 28844,
+      "end_char": 28855
+    },
+    {
+      "text": "Vijendra Kumar Jain",
+      "label": "OTHER_PERSON",
+      "start_char": 28868,
+      "end_char": 28887
+    },
+    {
+      "text": "CS(COMM) 572/2016",
+      "label": "CASE_NUMBER",
+      "start_char": 28898,
+      "end_char": 28915
+    },
+    {
+      "text": "18.05.2016",
+      "label": "DATE",
+      "start_char": 28922,
+      "end_char": 28932
+    },
+    {
+      "text": "Ferrero Spa",
+      "label": "ORG",
+      "start_char": 28934,
+      "end_char": 28945
+    },
+    {
+      "text": "Sunil Gureja",
+      "label": "RESPONDENT",
+      "start_char": 28958,
+      "end_char": 28970
+    },
+    {
+      "text": "07.09.2012",
+      "label": "DATE",
+      "start_char": 29004,
+      "end_char": 29014
+    },
+    {
+      "text": "Ferrero Spa",
+      "label": "ORG",
+      "start_char": 29020,
+      "end_char": 29031
+    },
+    {
+      "text": "Kamco Chew Food Private Limited",
+      "label": "RESPONDENT",
+      "start_char": 29044,
+      "end_char": 29075
+    },
+    {
+      "text": "CS(COMM) 179/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 29086,
+      "end_char": 29103
+    },
+    {
+      "text": "18.12.2019",
+      "label": "DATE",
+      "start_char": 29110,
+      "end_char": 29120
+    },
+    {
+      "text": "District Court of United States, California",
+      "label": "COURT",
+      "start_char": 29455,
+      "end_char": 29498
+    },
+    {
+      "text": "Morroccanoil, Inc. v. Mare Anthony Cosmetic, Inc.: 57 F. Supp",
+      "label": "PRECEDENT",
+      "start_char": 29502,
+      "end_char": 29563
+    },
+    {
+      "text": "Scotland",
+      "label": "GPE",
+      "start_char": 29642,
+      "end_char": 29650
+    },
+    {
+      "text": "Boord & Son v. Thom",
+      "label": "PRECEDENT",
+      "start_char": 29654,
+      "end_char": 29673
+    },
+    {
+      "text": "Cameron Ld.- Thom and Cameron Ld. v. Boord & Son.: (1907) 24 RPC 697",
+      "label": "PRECEDENT",
+      "start_char": 29678,
+      "end_char": 29746
+    },
+    {
+      "text": "Morroccanoil, Inc. v. Mare Anthony Cosmetic, Inc.",
+      "label": "PRECEDENT",
+      "start_char": 29783,
+      "end_char": 29832
+    },
+    {
+      "text": "Boord & Son v. Thom and Cameron Ld.- Thom and Cameron Ld.",
+      "label": "PRECEDENT",
+      "start_char": 30049,
+      "end_char": 30106
+    },
+    {
+      "text": "Boord",
+      "label": "OTHER_PERSON",
+      "start_char": 30110,
+      "end_char": 30115
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 30296,
+      "end_char": 30306
+    },
+    {
+      "text": "Corn Products Refining Co. v. Shangrila Food Products Ltd. :AIR 1960 SC 142",
+      "label": "PRECEDENT",
+      "start_char": 30310,
+      "end_char": 30385
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 30418,
+      "end_char": 30428
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 30608,
+      "end_char": 30621
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 31707,
+      "end_char": 31712
+    },
+    {
+      "text": "36.29",
+      "label": "DATE",
+      "start_char": 32011,
+      "end_char": 32016
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 32052,
+      "end_char": 32065
+    },
+    {
+      "text": "Hewlett Packard India Sales Private Limited v. Commissioner of Customs (Import), Nhava Sheva and",
+      "label": "PRECEDENT",
+      "start_char": 32081,
+      "end_char": 32177
+    },
+    {
+      "text": "Lenovo (India) Private Limited v. Commissioner of Customs (Import), Nhava Sheva : (2023) 7",
+      "label": "PRECEDENT",
+      "start_char": 32178,
+      "end_char": 32268
+    },
+    {
+      "text": "SCC 799",
+      "label": "PROVISION",
+      "start_char": 32269,
+      "end_char": 32276
+    },
+    {
+      "text": "Wikipedia",
+      "label": "ORG",
+      "start_char": 32429,
+      "end_char": 32438
+    },
+    {
+      "text": "Hewlett Packard",
+      "label": "ORG",
+      "start_char": 32489,
+      "end_char": 32504
+    },
+    {
+      "text": "Lenovo",
+      "label": "ORG",
+      "start_char": 32509,
+      "end_char": 32515
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 32599,
+      "end_char": 32612
+    },
+    {
+      "text": "Google",
+      "label": "ORG",
+      "start_char": 33021,
+      "end_char": 33027
+    },
+    {
+      "text": "Pankaj Goel v. Dabur India Ltd:\n2008:DHC:1941-DB",
+      "label": "PRECEDENT",
+      "start_char": 33277,
+      "end_char": 33325
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 34007,
+      "end_char": 34012
+    },
+    {
+      "text": "Godfrey Philips India Ltd. V. Girnar Food and Beverages Pvt",
+      "label": "PRECEDENT",
+      "start_char": 34264,
+      "end_char": 34323
+    },
+    {
+      "text": "Ltd: (2004) 5 SCC 257",
+      "label": "PRECEDENT",
+      "start_char": 34325,
+      "end_char": 34346
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 34382,
+      "end_char": 34392
+    },
+    {
+      "text": "National Bell Co. and Gupta Industrial Corporation v. Metal Goods Mfd",
+      "label": "PRECEDENT",
+      "start_char": 35033,
+      "end_char": 35102
+    },
+    {
+      "text": "Co. (P) Ltd.",
+      "label": "ORG",
+      "start_char": 35104,
+      "end_char": 35116
+    },
+    {
+      "text": "AIR 1971 SC 898",
+      "label": "PRECEDENT",
+      "start_char": 35127,
+      "end_char": 35142
+    },
+    {
+      "text": "Hong Kong",
+      "label": "GPE",
+      "start_char": 36562,
+      "end_char": 36571
+    },
+    {
+      "text": "UNICON",
+      "label": "RESPONDENT",
+      "start_char": 37575,
+      "end_char": 37581
+    },
+    {
+      "text": "Section 30(2)(a)",
+      "label": "PROVISION",
+      "start_char": 40807,
+      "end_char": 40823
+    },
+    {
+      "text": "Trade Marks Act, 1999",
+      "label": "STATUTE",
+      "start_char": 40831,
+      "end_char": 40852
+    },
+    {
+      "text": "Section 39 (1) & (2)",
+      "label": "PROVISION",
+      "start_char": 42331,
+      "end_char": 42351
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 42359,
+      "end_char": 42362
+    },
+    {
+      "text": "AMIT MAHAJAN",
+      "label": "JUDGE",
+      "start_char": 42365,
+      "end_char": 42377
+    },
+    {
+      "text": "VIBHU BAKHRU",
+      "label": "JUDGE",
+      "start_char": 42381,
+      "end_char": 42393
+    },
+    {
+      "text": "DECEMBER 14, 2023",
+      "label": "DATE",
+      "start_char": 42397,
+      "end_char": 42414
+    }
+  ],
+  "precedent_clusters": {
+    "Lenovo (India) Private Limited v. Commissioner of Customs (Import), Nhava Sheva : (2023) 7": [
+      "Knitpro International v. Examiner of Trade Marks through Registrar of Trade Marks: 2022:DHC:2631,",
+      "Skyline Education Institute (India) Pvt. Ltd. v. S.L. Vaswani & Anr",
+      "Boord & Son v. Thom",
+      "Morroccanoil, Inc. v. Mare Anthony Cosmetic, Inc.",
+      "Boord & Son v. Thom and Cameron Ld.- Thom and Cameron Ld.",
+      "Hewlett Packard India Sales Private Limited v. Commissioner of Customs (Import), Nhava Sheva and",
+      "Lenovo (India) Private Limited v. Commissioner of Customs (Import), Nhava Sheva : (2023) 7",
+      "Pankaj Goel v. Dabur India Ltd:\n2008:DHC:1941-DB",
+      "Godfrey Philips India Ltd. V. Girnar Food and Beverages Pvt",
+      "National Bell Co. and Gupta Industrial Corporation v. Metal Goods Mfd"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Order XXXIX Rules 1 & 2",
+      "Code of Civil Procedure, 1908",
+      "Order XXXIX Rules 1 & 2",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order XXXIX Rule 4",
+      "CPC",
+      "Order XXXIX Rule 4",
+      "CPC"
+    ],
+    [
+      "Order XXXIX Rules 1 & 2",
+      "CPC",
+      "Order XXXIX Rules 1 & 2",
+      "CPC"
+    ],
+    [
+      "Order XXXIX Rule 4",
+      "CPC",
+      "Order XXXIX Rule 4",
+      "CPC"
+    ],
+    [
+      "Section 9",
+      "Trade Marks Act, 1999",
+      "Section 9",
+      "Trade Marks Act, 1999"
+    ],
+    [
+      "Section 9(1)(a)",
+      "Trade Marks Act, 1999",
+      "Section 9(1)(a)",
+      "Trade Marks Act, 1999"
+    ],
+    [
+      "Section 30(2)(a)",
+      "Trade Marks Act, 1999",
+      "Section 30(2)(a)",
+      "Trade Marks Act, 1999"
+    ],
+    [
+      "Section 39 (1) & (2)",
+      "CPC",
+      "Section 39 (1) & (2)",
+      "CPC"
+    ],
+    [
+      "SCC 799",
+      "Trade Marks Act, 1999",
+      "SCC 799",
+      "Trade Marks Act, 1999"
+    ]
+  ],
+  "precedent_counts": {
+    "Lenovo (India) Private Limited v. Commissioner of Customs (Import), Nhava Sheva : (2023) 7": 10
+  },
+  "provision_counts": {
+    "Order XXXIX Rules 1 & 2 of Code of Civil Procedure, 1908": 1,
+    "Order XXXIX Rule 4 of CPC": 2,
+    "Order XXXIX Rules 1 & 2 of CPC": 1,
+    "Section 9 of Trade Marks Act, 1999": 1,
+    "Section 9(1)(a) of Trade Marks Act, 1999": 1,
+    "Section 30(2)(a) of Trade Marks Act, 1999": 1,
+    "Section 39 (1) & (2) of CPC": 1,
+    "SCC 799 of Trade Marks Act, 1999": 1
+  },
+  "statute_counts": {
+    "Code of Civil Procedure, 1908": 1,
+    "CPC": 4,
+    "Trade Marks Act, 1999": 4
+  }
+}

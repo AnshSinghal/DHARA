@@ -1,0 +1,3761 @@
+{
+  "entities": [
+    {
+      "text": "Chattisgarh High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 22
+    },
+    {
+      "text": "Univabs Sleepers Pvt. Ltd",
+      "label": "PETITIONER",
+      "start_char": 27,
+      "end_char": 52
+    },
+    {
+      "text": "Union Of India",
+      "label": "RESPONDENT",
+      "start_char": 56,
+      "end_char": 70
+    },
+    {
+      "text": "Rajani Dubey",
+      "label": "LAWYER",
+      "start_char": 128,
+      "end_char": 140
+    },
+    {
+      "text": "Rajani Dubey",
+      "label": "JUDGE",
+      "start_char": 148,
+      "end_char": 160
+    },
+    {
+      "text": "High Court Of Chhattisgarh, Bilaspur",
+      "label": "COURT",
+      "start_char": 295,
+      "end_char": 331
+    },
+    {
+      "text": "Manindra Mohan Shrivastava",
+      "label": "JUDGE",
+      "start_char": 372,
+      "end_char": 398
+    },
+    {
+      "text": "Rajani Dubey",
+      "label": "JUDGE",
+      "start_char": 439,
+      "end_char": 451
+    },
+    {
+      "text": "Univabs Sleepers Pvt. Ltd.",
+      "label": "PETITIONER",
+      "start_char": 501,
+      "end_char": 527
+    },
+    {
+      "text": "Union Of India",
+      "label": "RESPONDENT",
+      "start_char": 941,
+      "end_char": 955
+    },
+    {
+      "text": "Union Of India",
+      "label": "PETITIONER",
+      "start_char": 1275,
+      "end_char": 1289
+    },
+    {
+      "text": "Univabs Sleepers Pvt. Ltd",
+      "label": "RESPONDENT",
+      "start_char": 1580,
+      "end_char": 1605
+    },
+    {
+      "text": "Vivek Chopda",
+      "label": "LAWYER",
+      "start_char": 2007,
+      "end_char": 2019
+    },
+    {
+      "text": "H.S. Ahluwalia",
+      "label": "LAWYER",
+      "start_char": 2078,
+      "end_char": 2092
+    },
+    {
+      "text": "Manindra Mohan Shrivastava",
+      "label": "JUDGE",
+      "start_char": 2211,
+      "end_char": 2237
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 2683,
+      "end_char": 2697
+    },
+    {
+      "text": "Union of India",
+      "label": "PETITIONER",
+      "start_char": 2726,
+      "end_char": 2740
+    },
+    {
+      "text": "Univabs Sleepers Pvt. Ltd.",
+      "label": "ORG",
+      "start_char": 2750,
+      "end_char": 2776
+    },
+    {
+      "text": "Univabs Sleepers Pvt. Ltd.",
+      "label": "ORG",
+      "start_char": 2887,
+      "end_char": 2913
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 2945,
+      "end_char": 2959
+    },
+    {
+      "text": "2.2.2006",
+      "label": "DATE",
+      "start_char": 2995,
+      "end_char": 3003
+    },
+    {
+      "text": "26.12.2005",
+      "label": "DATE",
+      "start_char": 3179,
+      "end_char": 3189
+    },
+    {
+      "text": "25.01.2008",
+      "label": "DATE",
+      "start_char": 3193,
+      "end_char": 3203
+    },
+    {
+      "text": "Univabs Sleepers Pvt. Ltd.",
+      "label": "ORG",
+      "start_char": 3230,
+      "end_char": 3256
+    },
+    {
+      "text": "31.12.2008",
+      "label": "DATE",
+      "start_char": 3532,
+      "end_char": 3542
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 3672,
+      "end_char": 3686
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 3883,
+      "end_char": 3897
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 4120,
+      "end_char": 4134
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 4595,
+      "end_char": 4609
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 4615,
+      "end_char": 4629
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 4961,
+      "end_char": 4975
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 5039,
+      "end_char": 5053
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 5097,
+      "end_char": 5107
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 5686,
+      "end_char": 5700
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 6084,
+      "end_char": 6098
+    },
+    {
+      "text": "Arbitration Appeal No.43 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 6267,
+      "end_char": 6299
+    },
+    {
+      "text": "Univabs Sleepers Pvt",
+      "label": "ORG",
+      "start_char": 6342,
+      "end_char": 6362
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 6597,
+      "end_char": 6611
+    },
+    {
+      "text": "Univabs Sleepers",
+      "label": "ORG",
+      "start_char": 6769,
+      "end_char": 6785
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 6849,
+      "end_char": 6859
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 6985,
+      "end_char": 6995
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 7841,
+      "end_char": 7851
+    },
+    {
+      "text": "Union of India",
+      "label": "RESPONDENT",
+      "start_char": 8187,
+      "end_char": 8201
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 8641,
+      "end_char": 8655
+    },
+    {
+      "text": "ARBA No.46 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 8657,
+      "end_char": 8675
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 8682,
+      "end_char": 8696
+    },
+    {
+      "text": "Himachal Pradesh State Electricity Board Vs. R.J. Shah & Company (1999)",
+      "label": "PRECEDENT",
+      "start_char": 8727,
+      "end_char": 8798
+    },
+    {
+      "text": "Mahadeva Shetty",
+      "label": "OTHER_PERSON",
+      "start_char": 8843,
+      "end_char": 8858
+    },
+    {
+      "text": "State of Gujarat",
+      "label": "GPE",
+      "start_char": 8886,
+      "end_char": 8902
+    },
+    {
+      "text": "Utility Users' Welfare Association",
+      "label": "ORG",
+      "start_char": 8914,
+      "end_char": 8948
+    },
+    {
+      "text": "2018 SCC Online SC 368",
+      "label": "PRECEDENT",
+      "start_char": 8957,
+      "end_char": 8979
+    },
+    {
+      "text": "State of Goa Vs.",
+      "label": "PRECEDENT",
+      "start_char": 8982,
+      "end_char": 8998
+    },
+    {
+      "text": "Praveen Enterprises (2012) 12 SCC 581",
+      "label": "PRECEDENT",
+      "start_char": 8999,
+      "end_char": 9036
+    },
+    {
+      "text": "Oil and Natural Gas Corporation Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 9038,
+      "end_char": 9081
+    },
+    {
+      "text": "Western Geco International Limited (2014) 9 SCC 263",
+      "label": "PRECEDENT",
+      "start_char": 9082,
+      "end_char": 9133
+    },
+    {
+      "text": "Gayatri Balaswami Vs.",
+      "label": "PRECEDENT",
+      "start_char": 9135,
+      "end_char": 9156
+    },
+    {
+      "text": "ISG Novasoft Technologies Ltd. 2014 (6) CTC 602",
+      "label": "PRECEDENT",
+      "start_char": 9157,
+      "end_char": 9204
+    },
+    {
+      "text": "Maharashtra State Electricity Distribution Company Ltd.",
+      "label": "ORG",
+      "start_char": 9206,
+      "end_char": 9261
+    },
+    {
+      "text": "Datar Switchgear Limited",
+      "label": "ORG",
+      "start_char": 9271,
+      "end_char": 9295
+    },
+    {
+      "text": "Brij Paul Sing",
+      "label": "OTHER_PERSON",
+      "start_char": 9337,
+      "end_char": 9351
+    },
+    {
+      "text": "State of Gujarat (1984) 4 SCC 59",
+      "label": "PRECEDENT",
+      "start_char": 9359,
+      "end_char": 9391
+    },
+    {
+      "text": "M.P. Power Generation Co. Ltd.",
+      "label": "ORG",
+      "start_char": 9397,
+      "end_char": 9427
+    },
+    {
+      "text": "Ansaldo Energia",
+      "label": "OTHER_PERSON",
+      "start_char": 9435,
+      "end_char": 9450
+    },
+    {
+      "text": "2018 SCC Online SC 385)",
+      "label": "PRECEDENT",
+      "start_char": 9463,
+      "end_char": 9486
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 10223,
+      "end_char": 10233
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 10594,
+      "end_char": 10608
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 10697,
+      "end_char": 10711
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 10751,
+      "end_char": 10765
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 10838,
+      "end_char": 10852
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 10983,
+      "end_char": 10997
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 11075,
+      "end_char": 11089
+    },
+    {
+      "text": "Arbitration Appeal No.46 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 11097,
+      "end_char": 11129
+    },
+    {
+      "text": "Union of India",
+      "label": "RESPONDENT",
+      "start_char": 11197,
+      "end_char": 11211
+    },
+    {
+      "text": "Univabs Ltd.",
+      "label": "ORG",
+      "start_char": 11321,
+      "end_char": 11333
+    },
+    {
+      "text": "Mcdermott International Inc.",
+      "label": "ORG",
+      "start_char": 11443,
+      "end_char": 11471
+    },
+    {
+      "text": "Burn Standard Co. Ltd. (2006) 11 SCC 181",
+      "label": "PRECEDENT",
+      "start_char": 11476,
+      "end_char": 11516
+    },
+    {
+      "text": "Arbitration Appeal No.46 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 11534,
+      "end_char": 11566
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 11619,
+      "end_char": 11633
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 11886,
+      "end_char": 11900
+    },
+    {
+      "text": "Indian Railways Standard Conditions of Contract (IRS), sub-section (3) of Section 23",
+      "label": "STATUTE",
+      "start_char": 12190,
+      "end_char": 12274
+    },
+    {
+      "text": "Section 23 (3)",
+      "label": "PROVISION",
+      "start_char": 12821,
+      "end_char": 12835
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 12910,
+      "end_char": 12924
+    },
+    {
+      "text": "State of Goa Vs.",
+      "label": "PRECEDENT",
+      "start_char": 12975,
+      "end_char": 12991
+    },
+    {
+      "text": "Praveen Enterprises (2012) 12 SCC 581",
+      "label": "PRECEDENT",
+      "start_char": 12992,
+      "end_char": 13029
+    },
+    {
+      "text": "Himachal Pradesh State Electricity Board Vs.",
+      "label": "PRECEDENT",
+      "start_char": 13034,
+      "end_char": 13078
+    },
+    {
+      "text": "R.J. Shah & Company (1999) 4 SCC 214",
+      "label": "PRECEDENT",
+      "start_char": 13079,
+      "end_char": 13115
+    },
+    {
+      "text": "Section 23 (3)",
+      "label": "PROVISION",
+      "start_char": 13310,
+      "end_char": 13324
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 13388,
+      "end_char": 13398
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 13603,
+      "end_char": 13608
+    },
+    {
+      "text": "Rashtriya Ispat Nigam Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 13669,
+      "end_char": 13702
+    },
+    {
+      "text": "Dewan Chand Ram Saran (2012) 5 SCC 306",
+      "label": "PRECEDENT",
+      "start_char": 13703,
+      "end_char": 13741
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 13797,
+      "end_char": 13811
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 13956,
+      "end_char": 13970
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 14057,
+      "end_char": 14071
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 14133,
+      "end_char": 14147
+    },
+    {
+      "text": "Union of India",
+      "label": "RESPONDENT",
+      "start_char": 14743,
+      "end_char": 14757
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 14858,
+      "end_char": 14872
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 15114,
+      "end_char": 15128
+    },
+    {
+      "text": "Section 73",
+      "label": "PROVISION",
+      "start_char": 15145,
+      "end_char": 15155
+    },
+    {
+      "text": "Indian Contract Act, 1872",
+      "label": "STATUTE",
+      "start_char": 15163,
+      "end_char": 15188
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 15293,
+      "end_char": 15307
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 15709,
+      "end_char": 15723
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 15972,
+      "end_char": 15986
+    },
+    {
+      "text": "Section 73",
+      "label": "PROVISION",
+      "start_char": 16031,
+      "end_char": 16041
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 16305,
+      "end_char": 16319
+    },
+    {
+      "text": "Delhi Development Authority (2015) 3 SCC 49",
+      "label": "PRECEDENT",
+      "start_char": 16594,
+      "end_char": 16637
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 16711,
+      "end_char": 16716
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 16785,
+      "end_char": 16799
+    },
+    {
+      "text": "Univabs Ltd.",
+      "label": "ORG",
+      "start_char": 17086,
+      "end_char": 17098
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 17300,
+      "end_char": 17313
+    },
+    {
+      "text": "Praveen Enterprises",
+      "label": "PRECEDENT",
+      "start_char": 17329,
+      "end_char": 17348
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 17691,
+      "end_char": 17705
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 17912,
+      "end_char": 17917
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 17948,
+      "end_char": 17962
+    },
+    {
+      "text": "Arbitration Appeal No.46 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 18011,
+      "end_char": 18043
+    },
+    {
+      "text": "MJC No.7 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 18107,
+      "end_char": 18123
+    },
+    {
+      "text": "MJC No.16 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 18132,
+      "end_char": 18149
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 18222,
+      "end_char": 18236
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 18280,
+      "end_char": 18290
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 18689,
+      "end_char": 18703
+    },
+    {
+      "text": "Univabs Sleepers Pvt",
+      "label": "ORG",
+      "start_char": 18713,
+      "end_char": 18733
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 18818,
+      "end_char": 18832
+    },
+    {
+      "text": "Univabs Sleepers Pvt. Ltd",
+      "label": "ORG",
+      "start_char": 18845,
+      "end_char": 18870
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 19130,
+      "end_char": 19140
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 19472,
+      "end_char": 19482
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 19539,
+      "end_char": 19553
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 19558,
+      "end_char": 19572
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 19728,
+      "end_char": 19738
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 20441,
+      "end_char": 20451
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 20472,
+      "end_char": 20482
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 22359,
+      "end_char": 22364
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 22487,
+      "end_char": 22492
+    },
+    {
+      "text": "section 75 or section 81",
+      "label": "PROVISION",
+      "start_char": 22603,
+      "end_char": 22627
+    },
+    {
+      "text": "section 33",
+      "label": "PROVISION",
+      "start_char": 23603,
+      "end_char": 23613
+    },
+    {
+      "text": "sub-section (2) of Section 34",
+      "label": "PROVISION",
+      "start_char": 24875,
+      "end_char": 24904
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 25537,
+      "end_char": 25547
+    },
+    {
+      "text": "Amendment Act of 2015",
+      "label": "STATUTE",
+      "start_char": 25583,
+      "end_char": 25604
+    },
+    {
+      "text": "23rd October 2015",
+      "label": "DATE",
+      "start_char": 25632,
+      "end_char": 25649
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 25676,
+      "end_char": 25686
+    },
+    {
+      "text": "sub-clause (ii) of clause (b) of sub-section (2) of Section 34",
+      "label": "PROVISION",
+      "start_char": 25744,
+      "end_char": 25806
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 26175,
+      "end_char": 26180
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 26357,
+      "end_char": 26362
+    },
+    {
+      "text": "Section 75 or Section 81",
+      "label": "PROVISION",
+      "start_char": 26460,
+      "end_char": 26484
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 26622,
+      "end_char": 26635
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 26807,
+      "end_char": 26817
+    },
+    {
+      "text": "ONGC Ltd.",
+      "label": "ORG",
+      "start_char": 26979,
+      "end_char": 26988
+    },
+    {
+      "text": "Saw Pipes Ltd (2003) 5",
+      "label": "PRECEDENT",
+      "start_char": 26993,
+      "end_char": 27015
+    },
+    {
+      "text": "SCC 705",
+      "label": "CASE_NUMBER",
+      "start_char": 27016,
+      "end_char": 27023
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 27195,
+      "end_char": 27200
+    },
+    {
+      "text": "Section 34 (2) (b)\n(ii)",
+      "label": "PROVISION",
+      "start_char": 27215,
+      "end_char": 27238
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 27246,
+      "end_char": 27267
+    },
+    {
+      "text": "ONGC v.\nSaw Pipes, 2003 (5) SCC 705",
+      "label": "PRECEDENT",
+      "start_char": 27283,
+      "end_char": 27318
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 27384,
+      "end_char": 27389
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 27399,
+      "end_char": 27409
+    },
+    {
+      "text": "Renusagar case [1994 Supp (1) SCC 644]",
+      "label": "PRECEDENT",
+      "start_char": 28051,
+      "end_char": 28089
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 28307,
+      "end_char": 28312
+    },
+    {
+      "text": "Section 34(2)",
+      "label": "PROVISION",
+      "start_char": 28823,
+      "end_char": 28836
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 29771,
+      "end_char": 29777
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 30189,
+      "end_char": 30195
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 30506,
+      "end_char": 30511
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 30612,
+      "end_char": 30617
+    },
+    {
+      "text": "Section 13(5)",
+      "label": "PROVISION",
+      "start_char": 30759,
+      "end_char": 30772
+    },
+    {
+      "text": "Section 16(6)",
+      "label": "PROVISION",
+      "start_char": 30782,
+      "end_char": 30795
+    },
+    {
+      "text": "ONGC",
+      "label": "ORG",
+      "start_char": 31122,
+      "end_char": 31126
+    },
+    {
+      "text": "ONGC",
+      "label": "ORG",
+      "start_char": 31398,
+      "end_char": 31402
+    },
+    {
+      "text": "Sections 73 and 74",
+      "label": "PROVISION",
+      "start_char": 31970,
+      "end_char": 31988
+    },
+    {
+      "text": "Contract Act",
+      "label": "STATUTE",
+      "start_char": 31996,
+      "end_char": 32008
+    },
+    {
+      "text": "ONGC v. Saw Pipes",
+      "label": "PRECEDENT",
+      "start_char": 32168,
+      "end_char": 32185
+    },
+    {
+      "text": "Hindustan Zinc Ltd.",
+      "label": "ORG",
+      "start_char": 32267,
+      "end_char": 32286
+    },
+    {
+      "text": "Friends Coal Carbonisation (2006) 4 SCC 445",
+      "label": "PRECEDENT",
+      "start_char": 32291,
+      "end_char": 32334
+    },
+    {
+      "text": "Mcdermott International Inc.",
+      "label": "ORG",
+      "start_char": 32336,
+      "end_char": 32364
+    },
+    {
+      "text": "Burn Standard Co. Ltd. (2006) 11 SCC 181",
+      "label": "PRECEDENT",
+      "start_char": 32369,
+      "end_char": 32409
+    },
+    {
+      "text": "Centrotrade Minerals & Metals Inc.",
+      "label": "ORG",
+      "start_char": 32411,
+      "end_char": 32445
+    },
+    {
+      "text": "Hindustan Copper Ltd. (2006) 11 SCC 245",
+      "label": "PRECEDENT",
+      "start_char": 32450,
+      "end_char": 32489
+    },
+    {
+      "text": "DDA Vs.",
+      "label": "PRECEDENT",
+      "start_char": 32491,
+      "end_char": 32498
+    },
+    {
+      "text": "R.S. Sharma and Co. (2008)13 SCC 80",
+      "label": "PRECEDENT",
+      "start_char": 32499,
+      "end_char": 32534
+    },
+    {
+      "text": "J.G. Engineers (P) Ltd.",
+      "label": "ORG",
+      "start_char": 32536,
+      "end_char": 32559
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 32564,
+      "end_char": 32578
+    },
+    {
+      "text": "SCC 758, Union of India Vs.",
+      "label": "PRECEDENT",
+      "start_char": 32588,
+      "end_char": 32615
+    },
+    {
+      "text": "LSN Murthy (2012) 1 SCC 718",
+      "label": "PRECEDENT",
+      "start_char": 32621,
+      "end_char": 32648
+    },
+    {
+      "text": "Hindustan Zinc Ltd. v. Friends Coal Carbonisation",
+      "label": "PRECEDENT",
+      "start_char": 32726,
+      "end_char": 32775
+    },
+    {
+      "text": "Saw Pipes [(2003) 5 SCC 705]",
+      "label": "PRECEDENT",
+      "start_char": 32870,
+      "end_char": 32898
+    },
+    {
+      "text": "Saw Pipes [(2003) 5 SCC 705]",
+      "label": "PRECEDENT",
+      "start_char": 33166,
+      "end_char": 33194
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 33421,
+      "end_char": 33426
+    },
+    {
+      "text": "McDermott International Inc. v. Burn Standard Co. Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 33437,
+      "end_char": 33491
+    },
+    {
+      "text": "Renusagar Power Co. Ltd. v. General Electric Co.",
+      "label": "PRECEDENT",
+      "start_char": 33518,
+      "end_char": 33566
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 33710,
+      "end_char": 33715
+    },
+    {
+      "text": "ONGC Ltd.v.",
+      "label": "PRECEDENT",
+      "start_char": 33987,
+      "end_char": 33998
+    },
+    {
+      "text": "Saw Pipes Ltd.",
+      "label": "ORG",
+      "start_char": 33999,
+      "end_char": 34013
+    },
+    {
+      "text": "[(2003) 5 SCC 705]",
+      "label": "PRECEDENT",
+      "start_char": 34014,
+      "end_char": 34032
+    },
+    {
+      "text": "Central Inland Water Transport Corpn",
+      "label": "ORG",
+      "start_char": 34121,
+      "end_char": 34157
+    },
+    {
+      "text": "Ltd. v.\nBrojo Nath Ganguly [(1986) 3 SCC 156 : 1986 SCC (L&S) 429 : (1986) 1",
+      "label": "PRECEDENT",
+      "start_char": 34159,
+      "end_char": 34235
+    },
+    {
+      "text": "Section 23",
+      "label": "PROVISION",
+      "start_char": 34326,
+      "end_char": 34336
+    },
+    {
+      "text": "Indian Contract Act",
+      "label": "STATUTE",
+      "start_char": 34344,
+      "end_char": 34363
+    },
+    {
+      "text": "Article 14",
+      "label": "PROVISION",
+      "start_char": 34368,
+      "end_char": 34378
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 34386,
+      "end_char": 34407
+    },
+    {
+      "text": "Article 14",
+      "label": "PROVISION",
+      "start_char": 34708,
+      "end_char": 34718
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 34726,
+      "end_char": 34747
+    },
+    {
+      "text": "Section 23",
+      "label": "PROVISION",
+      "start_char": 34764,
+      "end_char": 34774
+    },
+    {
+      "text": "Indian Contract Act",
+      "label": "STATUTE",
+      "start_char": 34782,
+      "end_char": 34801
+    },
+    {
+      "text": "ONGC [(2003) 5 SCC 705]",
+      "label": "PRECEDENT",
+      "start_char": 34806,
+      "end_char": 34829
+    },
+    {
+      "text": "Renusagar [1994 Supp (1) SCC 644]",
+      "label": "PRECEDENT",
+      "start_char": 34881,
+      "end_char": 34914
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 35413,
+      "end_char": 35423
+    },
+    {
+      "text": "State of Rajasthan v. Basant Nahata [(2005) 12 SCC 77]",
+      "label": "PRECEDENT",
+      "start_char": 36001,
+      "end_char": 36055
+    },
+    {
+      "text": "Centrotrade Minerals & Metals Inc. v. Hindustan Copper Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 36067,
+      "end_char": 36126
+    },
+    {
+      "text": "Sinha",
+      "label": "JUDGE",
+      "start_char": 36128,
+      "end_char": 36133
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 36506,
+      "end_char": 36516
+    },
+    {
+      "text": "State of Rajasthan v. Basant Nahata [(2005) 12 SCC 77]",
+      "label": "PRECEDENT",
+      "start_char": 37012,
+      "end_char": 37066
+    },
+    {
+      "text": "DDA v. R.S. Sharma and Co",
+      "label": "PRECEDENT",
+      "start_char": 37078,
+      "end_char": 37103
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 37306,
+      "end_char": 37344
+    },
+    {
+      "text": "Section 34(2)",
+      "label": "PROVISION",
+      "start_char": 37519,
+      "end_char": 37532
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 37662,
+      "end_char": 37667
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 38024,
+      "end_char": 38029
+    },
+    {
+      "text": "Section 34(2)",
+      "label": "PROVISION",
+      "start_char": 38094,
+      "end_char": 38107
+    },
+    {
+      "text": "DDA",
+      "label": "PETITIONER",
+      "start_char": 38334,
+      "end_char": 38337
+    },
+    {
+      "text": "J.G. Engineers (P) Ltd. v. Union of India",
+      "label": "PRECEDENT",
+      "start_char": 38495,
+      "end_char": 38536
+    },
+    {
+      "text": "ONGC Ltd. v. Saw Pipes Ltd.[(2003) 5 SCC 705]",
+      "label": "PRECEDENT",
+      "start_char": 38597,
+      "end_char": 38642
+    },
+    {
+      "text": "Section 34(2)(b)(ii)",
+      "label": "PROVISION",
+      "start_char": 38690,
+      "end_char": 38710
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 38770,
+      "end_char": 38775
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 38876,
+      "end_char": 38881
+    },
+    {
+      "text": "Union of India v. Col. L.S.N. Murthy",
+      "label": "PRECEDENT",
+      "start_char": 39300,
+      "end_char": 39336
+    },
+    {
+      "text": "ONGC Ltd. v. Saw Pipes Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 39355,
+      "end_char": 39382
+    },
+    {
+      "text": "[(2003) 5 SCC 705]",
+      "label": "PRECEDENT",
+      "start_char": 39383,
+      "end_char": 39401
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 39500,
+      "end_char": 39510
+    },
+    {
+      "text": "Renusagar case [Renusagar Power Co. Ltd. v. General Electric Co., 1994 Supp (1) SCC 644]",
+      "label": "PRECEDENT",
+      "start_char": 39876,
+      "end_char": 39964
+    },
+    {
+      "text": "ONGC Ltd.",
+      "label": "ORG",
+      "start_char": 40320,
+      "end_char": 40329
+    },
+    {
+      "text": "Western Geco International Ltd. (2014) 9 SCC 263",
+      "label": "PRECEDENT",
+      "start_char": 40334,
+      "end_char": 40382
+    },
+    {
+      "text": "Excise and Taxation Officer-cum-Assessing Authority Vs.",
+      "label": "PRECEDENT",
+      "start_char": 40416,
+      "end_char": 40471
+    },
+    {
+      "text": "Gopi Nath & Sons 1992 Supp (2) SCC 312",
+      "label": "PRECEDENT",
+      "start_char": 40472,
+      "end_char": 40510
+    },
+    {
+      "text": "Kuldeep Singh Vs.",
+      "label": "PRECEDENT",
+      "start_char": 40515,
+      "end_char": 40532
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 40596,
+      "end_char": 40601
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 40731,
+      "end_char": 40744
+    },
+    {
+      "text": "Western Geco International",
+      "label": "PRECEDENT",
+      "start_char": 40916,
+      "end_char": 40942
+    },
+    {
+      "text": "ONGC Ltd. v. Western Geco International Ltd., 2014 (9) SCC 263",
+      "label": "PRECEDENT",
+      "start_char": 40999,
+      "end_char": 41061
+    },
+    {
+      "text": "ONGC [ONGC Ltd. v. Saw Pipes Ltd., (2003) 5 SCC 705]",
+      "label": "PRECEDENT",
+      "start_char": 41344,
+      "end_char": 41396
+    },
+    {
+      "text": "Associated Provincial Picture Houses Ltd. v. Wednesbury Corpn., (1948) 1 KB 223: (1947) 2 All ER 680 (CA)",
+      "label": "PRECEDENT",
+      "start_char": 44453,
+      "end_char": 44558
+    },
+    {
+      "text": "Sections 18 and 34 (2)\n",
+      "label": "PROVISION",
+      "start_char": 45972,
+      "end_char": 45995
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 46012,
+      "end_char": 46044
+    },
+    {
+      "text": "H.B. Gandhi, Excise and Taxation Officer-cum-Assessing Authority v. Gopi Nath & Sons, 1992 Supp (2) SCC 312",
+      "label": "PRECEDENT",
+      "start_char": 47152,
+      "end_char": 47259
+    },
+    {
+      "text": "Kuldeep Singh v. Commr",
+      "label": "PRECEDENT",
+      "start_char": 47641,
+      "end_char": 47663
+    },
+    {
+      "text": "P.R. Shah, Shares & Stock Brokers (P) Ltd. v. B.H.H. Securities (P) Ltd., (2012) 1",
+      "label": "PRECEDENT",
+      "start_char": 48919,
+      "end_char": 49001
+    },
+    {
+      "text": "SCC 594",
+      "label": "CASE_NUMBER",
+      "start_char": 49002,
+      "end_char": 49009
+    },
+    {
+      "text": "Section 34(2)",
+      "label": "PROVISION",
+      "start_char": 49213,
+      "end_char": 49226
+    },
+    {
+      "text": "Section 34(2)",
+      "label": "PROVISION",
+      "start_char": 49955,
+      "end_char": 49968
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 50367,
+      "end_char": 50372
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 50432,
+      "end_char": 50437
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 50535,
+      "end_char": 50540
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 50579,
+      "end_char": 50584
+    },
+    {
+      "text": "Section 23",
+      "label": "PROVISION",
+      "start_char": 51575,
+      "end_char": 51585
+    },
+    {
+      "text": "Indian Contract Act",
+      "label": "STATUTE",
+      "start_char": 51593,
+      "end_char": 51612
+    },
+    {
+      "text": "B's Mukhtar",
+      "label": "OTHER_PERSON",
+      "start_char": 51782,
+      "end_char": 51793
+    },
+    {
+      "text": "Indian Penal Code",
+      "label": "STATUTE",
+      "start_char": 52111,
+      "end_char": 52128
+    },
+    {
+      "text": "XLV of 1860",
+      "label": "STATUTE",
+      "start_char": 52130,
+      "end_char": 52141
+    },
+    {
+      "text": "Gherulal Parekh v. Mahadeo Dass Maiya, 1959 Supp (2) SCR 406",
+      "label": "PRECEDENT",
+      "start_char": 52153,
+      "end_char": 52213
+    },
+    {
+      "text": "s. 23",
+      "label": "PROVISION",
+      "start_char": 52667,
+      "end_char": 52672
+    },
+    {
+      "text": "Contract Act",
+      "label": "STATUTE",
+      "start_char": 52680,
+      "end_char": 52692
+    },
+    {
+      "text": "Section 23",
+      "label": "PROVISION",
+      "start_char": 52828,
+      "end_char": 52838
+    },
+    {
+      "text": "Contract Act",
+      "label": "STATUTE",
+      "start_char": 52846,
+      "end_char": 52858
+    },
+    {
+      "text": "England",
+      "label": "GPE",
+      "start_char": 52892,
+      "end_char": 52899
+    },
+    {
+      "text": "Halsbury",
+      "label": "OTHER_PERSON",
+      "start_char": 53173,
+      "end_char": 53181
+    },
+    {
+      "text": "England",
+      "label": "GPE",
+      "start_char": 53197,
+      "end_char": 53204
+    },
+    {
+      "text": "Cheshire",
+      "label": "OTHER_PERSON",
+      "start_char": 53527,
+      "end_char": 53535
+    },
+    {
+      "text": "Fifoot",
+      "label": "OTHER_PERSON",
+      "start_char": 53540,
+      "end_char": 53546
+    },
+    {
+      "text": "Mansfield",
+      "label": "OTHER_PERSON",
+      "start_char": 53597,
+      "end_char": 53606
+    },
+    {
+      "text": "Indian Contract Act",
+      "label": "STATUTE",
+      "start_char": 53816,
+      "end_char": 53835
+    },
+    {
+      "text": "Pollock",
+      "label": "OTHER_PERSON",
+      "start_char": 53839,
+      "end_char": 53846
+    },
+    {
+      "text": "Mulla",
+      "label": "OTHER_PERSON",
+      "start_char": 53851,
+      "end_char": 53856
+    },
+    {
+      "text": "England",
+      "label": "GPE",
+      "start_char": 54224,
+      "end_char": 54231
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 54236,
+      "end_char": 54241
+    },
+    {
+      "text": "S. 23",
+      "label": "PROVISION",
+      "start_char": 55161,
+      "end_char": 55166
+    },
+    {
+      "text": "Contract Act",
+      "label": "STATUTE",
+      "start_char": 55174,
+      "end_char": 55186
+    },
+    {
+      "text": "section 23",
+      "label": "PROVISION",
+      "start_char": 56316,
+      "end_char": 56326
+    },
+    {
+      "text": "Contract Act",
+      "label": "STATUTE",
+      "start_char": 56334,
+      "end_char": 56346
+    },
+    {
+      "text": "section 34 (2) (b)",
+      "label": "PROVISION",
+      "start_char": 57138,
+      "end_char": 57156
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 57219,
+      "end_char": 57224
+    },
+    {
+      "text": "England",
+      "label": "GPE",
+      "start_char": 57362,
+      "end_char": 57369
+    },
+    {
+      "text": "Denning",
+      "label": "JUDGE",
+      "start_char": 57576,
+      "end_char": 57583
+    },
+    {
+      "text": "R v. Northumberland Compensation Appeal Tribunal",
+      "label": "PRECEDENT",
+      "start_char": 57587,
+      "end_char": 57635
+    },
+    {
+      "text": "Kent v. Elstob, (1802) 3",
+      "label": "PRECEDENT",
+      "start_char": 58506,
+      "end_char": 58530
+    },
+    {
+      "text": "Williams",
+      "label": "JUDGE",
+      "start_char": 58631,
+      "end_char": 58639
+    },
+    {
+      "text": "Hodgkinson v. Fernie, (1857) 3 C.B.N.S. 189",
+      "label": "PRECEDENT",
+      "start_char": 58648,
+      "end_char": 58691
+    },
+    {
+      "text": "Champsey Bhara Company v. The Jivraj Balloo Spinning and Weaving Company Ltd., AIR 1923 PC 66",
+      "label": "PRECEDENT",
+      "start_char": 58783,
+      "end_char": 58876
+    },
+    {
+      "text": "Hodgkinson",
+      "label": "OTHER_PERSON",
+      "start_char": 58914,
+      "end_char": 58924
+    },
+    {
+      "text": "Williams",
+      "label": "JUDGE",
+      "start_char": 59012,
+      "end_char": 59020
+    },
+    {
+      "text": "Hodgkinson v. Fernie (1857) 3 C.B.N.S. 189",
+      "label": "PRECEDENT",
+      "start_char": 59040,
+      "end_char": 59082
+    },
+    {
+      "text": "Williams",
+      "label": "JUDGE",
+      "start_char": 59807,
+      "end_char": 59815
+    },
+    {
+      "text": "Hodgkinson v. Fernie",
+      "label": "PRECEDENT",
+      "start_char": 59823,
+      "end_char": 59843
+    },
+    {
+      "text": "Cl.52",
+      "label": "PROVISION",
+      "start_char": 60974,
+      "end_char": 60979
+    },
+    {
+      "text": "Cl. 52",
+      "label": "PROVISION",
+      "start_char": 61042,
+      "end_char": 61048
+    },
+    {
+      "text": "Pratt",
+      "label": "JUDGE",
+      "start_char": 61308,
+      "end_char": 61313
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 61452,
+      "end_char": 61457
+    },
+    {
+      "text": "Section 30",
+      "label": "PROVISION",
+      "start_char": 61479,
+      "end_char": 61489
+    },
+    {
+      "text": "Arbitration Act, 1940",
+      "label": "STATUTE",
+      "start_char": 61497,
+      "end_char": 61518
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 61702,
+      "end_char": 61707
+    },
+    {
+      "text": "Section 28(1)(a)",
+      "label": "PROVISION",
+      "start_char": 61931,
+      "end_char": 61947
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 62304,
+      "end_char": 62309
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 62344,
+      "end_char": 62359
+    },
+    {
+      "text": "section 31(3)",
+      "label": "PROVISION",
+      "start_char": 62488,
+      "end_char": 62501
+    },
+    {
+      "text": "Section 28 (3)",
+      "label": "PROVISION",
+      "start_char": 62645,
+      "end_char": 62659
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 62667,
+      "end_char": 62682
+    },
+    {
+      "text": "McDermott International Inc. v. Burn Standard Co. Ltd., (2006) 11 SCC 181",
+      "label": "PRECEDENT",
+      "start_char": 63454,
+      "end_char": 63527
+    },
+    {
+      "text": "Pure Helium India (P) Ltd. v. ONGC",
+      "label": "PRECEDENT",
+      "start_char": 64330,
+      "end_char": 64364
+    },
+    {
+      "text": "(2003) 8 SCC 593]",
+      "label": "PRECEDENT",
+      "start_char": 64366,
+      "end_char": 64383
+    },
+    {
+      "text": "D.D. Sharma v. Union of India [(2004) 5",
+      "label": "PRECEDENT",
+      "start_char": 64388,
+      "end_char": 64427
+    },
+    {
+      "text": "SCC 325]",
+      "label": "PROVISION",
+      "start_char": 64428,
+      "end_char": 64436
+    },
+    {
+      "text": "MSK Projects (I) (JV) Ltd. v. State of Rajasthan, (2011) 10 SCC 573",
+      "label": "PRECEDENT",
+      "start_char": 64675,
+      "end_char": 64742
+    },
+    {
+      "text": "Gobardhan Das v. Lachhmi Ram [AIR 1954 SC 689]",
+      "label": "PRECEDENT",
+      "start_char": 65553,
+      "end_char": 65599
+    },
+    {
+      "text": "Thawardas Pherumal v. Union of India [AIR 1955 SC 468]",
+      "label": "PRECEDENT",
+      "start_char": 65601,
+      "end_char": 65655
+    },
+    {
+      "text": "Union of India v. Kishorilal Gupta & Bros.",
+      "label": "PRECEDENT",
+      "start_char": 65657,
+      "end_char": 65699
+    },
+    {
+      "text": "AIR 1959 SC 1362]",
+      "label": "PRECEDENT",
+      "start_char": 65701,
+      "end_char": 65718
+    },
+    {
+      "text": "Alopi Parshad & Sons Ltd. v. Union of India [AIR 1960 SC 588]",
+      "label": "PRECEDENT",
+      "start_char": 65720,
+      "end_char": 65781
+    },
+    {
+      "text": "Jivarajbhai Ujamshi Sheth v. Chintamanrao Balaji [AIR 1965 SC 214]",
+      "label": "PRECEDENT",
+      "start_char": 65783,
+      "end_char": 65849
+    },
+    {
+      "text": "Renusagar Power Co. Ltd. v. General Electric Co.",
+      "label": "PRECEDENT",
+      "start_char": 65854,
+      "end_char": 65902
+    },
+    {
+      "text": "(1984) 4 SCC 679 : AIR 1985 SC 1156]",
+      "label": "PRECEDENT",
+      "start_char": 65904,
+      "end_char": 65940
+    },
+    {
+      "text": "Rashtriya Ispat Nigam Ltd. v. Dewan Chand Ram Saran, (2012) 5 SCC 306",
+      "label": "PRECEDENT",
+      "start_char": 65952,
+      "end_char": 66021
+    },
+    {
+      "text": "SAIL v. Gupta Brother Steel Tubes Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 66617,
+      "end_char": 66655
+    },
+    {
+      "text": "(2009) 10 SCC 63:\n(2009) 4 SCC (Civ) 16]",
+      "label": "PRECEDENT",
+      "start_char": 66657,
+      "end_char": 66697
+    },
+    {
+      "text": "Sumitomo Heavy Industries Ltd. v. ONGC Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 66773,
+      "end_char": 66816
+    },
+    {
+      "text": "[(2010) 11 SCC 296: (2010) 4 SCC (Civ) 459]",
+      "label": "PRECEDENT",
+      "start_char": 66817,
+      "end_char": 66860
+    },
+    {
+      "text": "Gokhale",
+      "label": "JUDGE",
+      "start_char": 66881,
+      "end_char": 66888
+    },
+    {
+      "text": "Sumitomo",
+      "label": "OTHER_PERSON",
+      "start_char": 67012,
+      "end_char": 67020
+    },
+    {
+      "text": "Kwality Mfg",
+      "label": "OTHER_PERSON",
+      "start_char": 67552,
+      "end_char": 67563
+    },
+    {
+      "text": "Central Warehousing Corpn",
+      "label": "RESPONDENT",
+      "start_char": 67575,
+      "end_char": 67600
+    },
+    {
+      "text": "[(2009) 5 SCC 142 : (2009) 2 SCC (Civ) 406]",
+      "label": "PRECEDENT",
+      "start_char": 67603,
+      "end_char": 67646
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 68153,
+      "end_char": 68166
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 68296,
+      "end_char": 68306
+    },
+    {
+      "text": "sub-clause (ii) of clause (b) of Section 34",
+      "label": "PROVISION",
+      "start_char": 68365,
+      "end_char": 68408
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 68522,
+      "end_char": 68535
+    },
+    {
+      "text": "Public Policy of India",
+      "label": "STATUTE",
+      "start_char": 68677,
+      "end_char": 68699
+    },
+    {
+      "text": "proviso to sub-section (2-A) of Section 34",
+      "label": "PROVISION",
+      "start_char": 68804,
+      "end_char": 68846
+    },
+    {
+      "text": "M.P. Power Generation Co. Ltd.",
+      "label": "ORG",
+      "start_char": 69068,
+      "end_char": 69098
+    },
+    {
+      "text": "Ansaldo Energia SPA (2018 SCC Online SCC 385)",
+      "label": "PRECEDENT",
+      "start_char": 69103,
+      "end_char": 69148
+    },
+    {
+      "text": "Renusagar Power Co. Ltd.",
+      "label": "ORG",
+      "start_char": 69211,
+      "end_char": 69235
+    },
+    {
+      "text": "General Electric Co",
+      "label": "ORG",
+      "start_char": 69240,
+      "end_char": 69259
+    },
+    {
+      "text": "(1984) 4 SCC 679",
+      "label": "PRECEDENT",
+      "start_char": 69262,
+      "end_char": 69278
+    },
+    {
+      "text": "Saw Pipes",
+      "label": "PRECEDENT",
+      "start_char": 69280,
+      "end_char": 69289
+    },
+    {
+      "text": "R.S. Sharma",
+      "label": "PRECEDENT",
+      "start_char": 69299,
+      "end_char": 69310
+    },
+    {
+      "text": "Western Geco International Co. Ltd",
+      "label": "PRECEDENT",
+      "start_char": 69320,
+      "end_char": 69354
+    },
+    {
+      "text": "Associate Builders",
+      "label": "PRECEDENT",
+      "start_char": 69367,
+      "end_char": 69385
+    },
+    {
+      "text": "Sections 34",
+      "label": "PROVISION",
+      "start_char": 69489,
+      "end_char": 69500
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 69655,
+      "end_char": 69660
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 69779,
+      "end_char": 69784
+    },
+    {
+      "text": "Renusagar Power Co. Ltd. v.\nGeneral Electric Co.1",
+      "label": "PRECEDENT",
+      "start_char": 69815,
+      "end_char": 69864
+    },
+    {
+      "text": "ONGC v. Saw Pipes Ltd.2",
+      "label": "PRECEDENT",
+      "start_char": 69925,
+      "end_char": 69948
+    },
+    {
+      "text": "ONGC v. Saw Pipes",
+      "label": "PRECEDENT",
+      "start_char": 70151,
+      "end_char": 70168
+    },
+    {
+      "text": "Delhi Development Authority v. M/s. R.S. Sharma & 1 (1994) Supp.1 SCC 644 2 (2003) 5 SCC 705 Co.3",
+      "label": "PRECEDENT",
+      "start_char": 70299,
+      "end_char": 70396
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 70465,
+      "end_char": 70475
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 70733,
+      "end_char": 70738
+    },
+    {
+      "text": "ONGC Ltd. v. Western Geco International Co. Ltd.4",
+      "label": "PRECEDENT",
+      "start_char": 70756,
+      "end_char": 70805
+    },
+    {
+      "text": "(2008) 13",
+      "label": "PRECEDENT",
+      "start_char": 71571,
+      "end_char": 71580
+    },
+    {
+      "text": "SCC 80 4 (2014) 9 SCC 263",
+      "label": "CASE_NUMBER",
+      "start_char": 71581,
+      "end_char": 71606
+    },
+    {
+      "text": "Western Geco ltd",
+      "label": "PRECEDENT",
+      "start_char": 71992,
+      "end_char": 72008
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 72073,
+      "end_char": 72083
+    },
+    {
+      "text": "R.F. Nariman",
+      "label": "JUDGE",
+      "start_char": 72142,
+      "end_char": 72154
+    },
+    {
+      "text": "Associate Builders v. Delhi Development Authority5",
+      "label": "PRECEDENT",
+      "start_char": 72170,
+      "end_char": 72220
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 72474,
+      "end_char": 72484
+    },
+    {
+      "text": "Associated Builders",
+      "label": "PRECEDENT",
+      "start_char": 72533,
+      "end_char": 72552
+    },
+    {
+      "text": "Section 34(2)",
+      "label": "PROVISION",
+      "start_char": 72602,
+      "end_char": 72615
+    },
+    {
+      "text": "Section 34 (2)",
+      "label": "PROVISION",
+      "start_char": 73131,
+      "end_char": 73145
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 73712,
+      "end_char": 73722
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 73872,
+      "end_char": 73882
+    },
+    {
+      "text": "Univabs",
+      "label": "ORG",
+      "start_char": 74067,
+      "end_char": 74074
+    },
+    {
+      "text": "21st May 2009",
+      "label": "DATE",
+      "start_char": 74173,
+      "end_char": 74186
+    },
+    {
+      "text": "27.7.2009",
+      "label": "DATE",
+      "start_char": 74874,
+      "end_char": 74883
+    },
+    {
+      "text": "Sough East Central Railway",
+      "label": "ORG",
+      "start_char": 74926,
+      "end_char": 74952
+    },
+    {
+      "text": "R.N. Sunkar",
+      "label": "OTHER_PERSON",
+      "start_char": 74967,
+      "end_char": 74978
+    },
+    {
+      "text": "R.N. Sunkar",
+      "label": "OTHER_PERSON",
+      "start_char": 75233,
+      "end_char": 75244
+    },
+    {
+      "text": "02.02.2006",
+      "label": "DATE",
+      "start_char": 75394,
+      "end_char": 75404
+    },
+    {
+      "text": "Univabs Sleepers Pvt. Ltd.",
+      "label": "ORG",
+      "start_char": 75415,
+      "end_char": 75441
+    },
+    {
+      "text": "Durg",
+      "label": "GPE",
+      "start_char": 75443,
+      "end_char": 75447
+    },
+    {
+      "text": "Arbitration and Conciliation Act 1996",
+      "label": "STATUTE",
+      "start_char": 75626,
+      "end_char": 75663
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 77070,
+      "end_char": 77080
+    },
+    {
+      "text": "27.7.2009",
+      "label": "DATE",
+      "start_char": 77454,
+      "end_char": 77463
+    },
+    {
+      "text": "Praveen Enterprises",
+      "label": "PRECEDENT",
+      "start_char": 77766,
+      "end_char": 77785
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 77907,
+      "end_char": 77912
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 77971,
+      "end_char": 77984
+    },
+    {
+      "text": "Mcdermott International",
+      "label": "PRECEDENT",
+      "start_char": 78001,
+      "end_char": 78024
+    },
+    {
+      "text": "BSCL",
+      "label": "ORG",
+      "start_char": 78178,
+      "end_char": 78182
+    },
+    {
+      "text": "BSCL",
+      "label": "ORG",
+      "start_char": 78333,
+      "end_char": 78337
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 78372,
+      "end_char": 78382
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 78504,
+      "end_char": 78514
+    },
+    {
+      "text": "Waverly Jute Mills Co. Ltd. v.\nRaymon & Co.",
+      "label": "PRECEDENT",
+      "start_char": 78534,
+      "end_char": 78577
+    },
+    {
+      "text": "(1963) 3 SCR 209",
+      "label": "PRECEDENT",
+      "start_char": 78579,
+      "end_char": 78595
+    },
+    {
+      "text": "Dharma Prathishthanam v. Madhok Construction (2005) 9 SCC 686]",
+      "label": "PRECEDENT",
+      "start_char": 78597,
+      "end_char": 78659
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 79119,
+      "end_char": 79132
+    },
+    {
+      "text": "Praveen Enterprises",
+      "label": "PRECEDENT",
+      "start_char": 79148,
+      "end_char": 79167
+    },
+    {
+      "text": "Section 23 (3)",
+      "label": "PROVISION",
+      "start_char": 81734,
+      "end_char": 81748
+    },
+    {
+      "text": "Praveen Enterprises",
+      "label": "ORG",
+      "start_char": 81810,
+      "end_char": 81829
+    },
+    {
+      "text": "Section 23",
+      "label": "PROVISION",
+      "start_char": 81897,
+      "end_char": 81907
+    },
+    {
+      "text": "Section 23",
+      "label": "PROVISION",
+      "start_char": 83165,
+      "end_char": 83175
+    },
+    {
+      "text": "section 23",
+      "label": "PROVISION",
+      "start_char": 83967,
+      "end_char": 83977
+    },
+    {
+      "text": "section 2(9)",
+      "label": "PROVISION",
+      "start_char": 83988,
+      "end_char": 84000
+    },
+    {
+      "text": "section 11",
+      "label": "PROVISION",
+      "start_char": 85232,
+      "end_char": 85242
+    },
+    {
+      "text": "section 11",
+      "label": "PROVISION",
+      "start_char": 85360,
+      "end_char": 85370
+    },
+    {
+      "text": "section 11",
+      "label": "PROVISION",
+      "start_char": 85478,
+      "end_char": 85488
+    },
+    {
+      "text": "Section 23",
+      "label": "PROVISION",
+      "start_char": 85551,
+      "end_char": 85561
+    },
+    {
+      "text": "Section 2(9)",
+      "label": "PROVISION",
+      "start_char": 85798,
+      "end_char": 85810
+    },
+    {
+      "text": "section 25 (a) or section 32(2)(a)",
+      "label": "PROVISION",
+      "start_char": 85854,
+      "end_char": 85888
+    },
+    {
+      "text": "section 20",
+      "label": "PROVISION",
+      "start_char": 86808,
+      "end_char": 86818
+    },
+    {
+      "text": "Indian Oil Corporation Ltd. vs. Amritsar Gas Service and Ors. - 1991(1) SCC 533",
+      "label": "PRECEDENT",
+      "start_char": 86855,
+      "end_char": 86934
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 87390,
+      "end_char": 87400
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 87408,
+      "end_char": 87423
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 88040,
+      "end_char": 88053
+    },
+    {
+      "text": "Section 23 (3)",
+      "label": "PROVISION",
+      "start_char": 88085,
+      "end_char": 88099
+    },
+    {
+      "text": "Indian Railways Standard Conditions of Contract",
+      "label": "STATUTE",
+      "start_char": 88335,
+      "end_char": 88382
+    },
+    {
+      "text": "Ministry of Railways",
+      "label": "ORG",
+      "start_char": 89165,
+      "end_char": 89185
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 90016,
+      "end_char": 90029
+    },
+    {
+      "text": "Praveen Enterprises",
+      "label": "PRECEDENT",
+      "start_char": 90045,
+      "end_char": 90064
+    },
+    {
+      "text": "23 (3)",
+      "label": "PROVISION",
+      "start_char": 91174,
+      "end_char": 91180
+    },
+    {
+      "text": "27.7.2009",
+      "label": "DATE",
+      "start_char": 92347,
+      "end_char": 92356
+    },
+    {
+      "text": "Section 23",
+      "label": "PROVISION",
+      "start_char": 92440,
+      "end_char": 92450
+    },
+    {
+      "text": "Indian Oil Corporation Ltd. vs. Amritsar Gas Service and Ors",
+      "label": "PRECEDENT",
+      "start_char": 93277,
+      "end_char": 93337
+    },
+    {
+      "text": "Praveen Enterprises",
+      "label": "ORG",
+      "start_char": 93612,
+      "end_char": 93631
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 93857,
+      "end_char": 93871
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 94044,
+      "end_char": 94058
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 94348,
+      "end_char": 94362
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 94643,
+      "end_char": 94657
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 94815,
+      "end_char": 94829
+    },
+    {
+      "text": "Union of India",
+      "label": "RESPONDENT",
+      "start_char": 97419,
+      "end_char": 97433
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 97940,
+      "end_char": 97945
+    },
+    {
+      "text": "Section 34 (2) (b) (ii)",
+      "label": "PROVISION",
+      "start_char": 97973,
+      "end_char": 97996
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 98362,
+      "end_char": 98375
+    },
+    {
+      "text": "National Highways Authority of India Vs.",
+      "label": "PRECEDENT",
+      "start_char": 103287,
+      "end_char": 103327
+    },
+    {
+      "text": "ITD Cementation India Limited (2015) 14 SCC 21",
+      "label": "PRECEDENT",
+      "start_char": 103328,
+      "end_char": 103374
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 103995,
+      "end_char": 104005
+    },
+    {
+      "text": "Ministry of Railways (Railway Board",
+      "label": "ORG",
+      "start_char": 106033,
+      "end_char": 106068
+    },
+    {
+      "text": "Ministry of Railways(Railway Board)",
+      "label": "ORG",
+      "start_char": 107107,
+      "end_char": 107142
+    },
+    {
+      "text": "Sections 51, 52 & 73",
+      "label": "PROVISION",
+      "start_char": 111356,
+      "end_char": 111376
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 111650,
+      "end_char": 111655
+    },
+    {
+      "text": "Univabs Ltd.",
+      "label": "ORG",
+      "start_char": 111725,
+      "end_char": 111737
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 111856,
+      "end_char": 111870
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 112043,
+      "end_char": 112057
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 112657,
+      "end_char": 112662
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 112706,
+      "end_char": 112711
+    },
+    {
+      "text": "Indian Contract Act, 1872",
+      "label": "STATUTE",
+      "start_char": 112721,
+      "end_char": 112746
+    },
+    {
+      "text": "Chapter-VI",
+      "label": "PROVISION",
+      "start_char": 112922,
+      "end_char": 112932
+    },
+    {
+      "text": "Sections 73, 74 & 75",
+      "label": "PROVISION",
+      "start_char": 112953,
+      "end_char": 112973
+    },
+    {
+      "text": "Section 74",
+      "label": "PROVISION",
+      "start_char": 113196,
+      "end_char": 113206
+    },
+    {
+      "text": "Section 75",
+      "label": "PROVISION",
+      "start_char": 113323,
+      "end_char": 113333
+    },
+    {
+      "text": "Contract Act",
+      "label": "STATUTE",
+      "start_char": 113607,
+      "end_char": 113619
+    },
+    {
+      "text": "Karasands H. Thacker Vs.",
+      "label": "PRECEDENT",
+      "start_char": 113709,
+      "end_char": 113733
+    },
+    {
+      "text": "Saran Engineering Co. Ltd. (AIR 1965 SC 1981)",
+      "label": "PRECEDENT",
+      "start_char": 113742,
+      "end_char": 113787
+    },
+    {
+      "text": "Section 73",
+      "label": "PROVISION",
+      "start_char": 113898,
+      "end_char": 113908
+    },
+    {
+      "text": "Contract Act",
+      "label": "STATUTE",
+      "start_char": 113916,
+      "end_char": 113928
+    },
+    {
+      "text": "Brij Paul Singh",
+      "label": "OTHER_PERSON",
+      "start_char": 114192,
+      "end_char": 114207
+    },
+    {
+      "text": "State of Gujarat (1984) 4 SCC 59",
+      "label": "PRECEDENT",
+      "start_char": 114221,
+      "end_char": 114253
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 114267,
+      "end_char": 114280
+    },
+    {
+      "text": "Poona",
+      "label": "GPE",
+      "start_char": 114445,
+      "end_char": 114450
+    },
+    {
+      "text": "Poona",
+      "label": "GPE",
+      "start_char": 114513,
+      "end_char": 114518
+    },
+    {
+      "text": "Rajkot",
+      "label": "GPE",
+      "start_char": 114541,
+      "end_char": 114547
+    },
+    {
+      "text": "Saurashtra",
+      "label": "GPE",
+      "start_char": 114551,
+      "end_char": 114561
+    },
+    {
+      "text": "Maharashtra State Electricity Distribution Company Ltd.",
+      "label": "ORG",
+      "start_char": 114992,
+      "end_char": 115047
+    },
+    {
+      "text": "Datar Switchgear Limited",
+      "label": "ORG",
+      "start_char": 115057,
+      "end_char": 115081
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 115393,
+      "end_char": 115407
+    },
+    {
+      "text": "Sugauli Sugar Works (P) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 115418,
+      "end_char": 115446
+    },
+    {
+      "text": "Suisse Atlantique Societe d'Armament SA v. NV Rotterdamsche Kolen Centrale",
+      "label": "PRECEDENT",
+      "start_char": 117481,
+      "end_char": 117555
+    },
+    {
+      "text": "Contract Act",
+      "label": "STATUTE",
+      "start_char": 119584,
+      "end_char": 119596
+    },
+    {
+      "text": "Sections 73, 74 & 75",
+      "label": "PROVISION",
+      "start_char": 119707,
+      "end_char": 119727
+    },
+    {
+      "text": "Contract Act",
+      "label": "STATUTE",
+      "start_char": 119735,
+      "end_char": 119747
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 120742,
+      "end_char": 120756
+    },
+    {
+      "text": "Univabs Ltd.",
+      "label": "ORG",
+      "start_char": 120949,
+      "end_char": 120961
+    },
+    {
+      "text": "High Court of Madras",
+      "label": "COURT",
+      "start_char": 121007,
+      "end_char": 121027
+    },
+    {
+      "text": "Gayatri Balaswamy Vs.",
+      "label": "PRECEDENT",
+      "start_char": 121043,
+      "end_char": 121064
+    },
+    {
+      "text": "ISG Novasoft Technologies Ltd (2014) 6 CTC 602",
+      "label": "PRECEDENT",
+      "start_char": 121065,
+      "end_char": 121111
+    },
+    {
+      "text": "V. Ramasubramanian",
+      "label": "JUDGE",
+      "start_char": 121135,
+      "end_char": 121153
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 121175,
+      "end_char": 121185
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 121375,
+      "end_char": 121388
+    },
+    {
+      "text": "Bombay and Delhi High Court",
+      "label": "COURT",
+      "start_char": 121400,
+      "end_char": 121427
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 121477,
+      "end_char": 121490
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 121504,
+      "end_char": 121517
+    },
+    {
+      "text": "Bombay and Delhi High Court",
+      "label": "COURT",
+      "start_char": 121623,
+      "end_char": 121650
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 121738,
+      "end_char": 121748
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 121809,
+      "end_char": 121822
+    },
+    {
+      "text": "Mcdermott International",
+      "label": "PRECEDENT",
+      "start_char": 121838,
+      "end_char": 121861
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 121920,
+      "end_char": 121933
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 122055,
+      "end_char": 122065
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 122250,
+      "end_char": 122263
+    },
+    {
+      "text": "Ansaldo Energia SPA",
+      "label": "PRECEDENT",
+      "start_char": 122288,
+      "end_char": 122307
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 122584,
+      "end_char": 122597
+    },
+    {
+      "text": "Mcdermott International",
+      "label": "PRECEDENT",
+      "start_char": 122613,
+      "end_char": 122636
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 123889,
+      "end_char": 123902
+    },
+    {
+      "text": "Article 141",
+      "label": "PROVISION",
+      "start_char": 123951,
+      "end_char": 123962
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 123970,
+      "end_char": 123982
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 124280,
+      "end_char": 124290
+    },
+    {
+      "text": "Univabs Sleepers Pvt",
+      "label": "ORG",
+      "start_char": 124913,
+      "end_char": 124933
+    },
+    {
+      "text": "Arbitration Appeal No.43 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 124945,
+      "end_char": 124977
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 125024,
+      "end_char": 125038
+    },
+    {
+      "text": "Arbitration Appeal No.46 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 125044,
+      "end_char": 125076
+    },
+    {
+      "text": "Manindra Mohan Shrivastava",
+      "label": "JUDGE",
+      "start_char": 125235,
+      "end_char": 125261
+    },
+    {
+      "text": "Rajani Dubey",
+      "label": "JUDGE",
+      "start_char": 125287,
+      "end_char": 125299
+    },
+    {
+      "text": "Praveen",
+      "label": "JUDGE",
+      "start_char": 125378,
+      "end_char": 125385
+    }
+  ],
+  "precedent_clusters": {
+    "P.R. Shah, Shares & Stock Brokers (P) Ltd. v. B.H.H. Securities (P) Ltd., (2012) 1": [
+      "Himachal Pradesh State Electricity Board Vs. R.J. Shah & Company (1999)",
+      "State of Goa Vs.",
+      "Oil and Natural Gas Corporation Limited Vs.",
+      "Gayatri Balaswami Vs.",
+      "State of Goa Vs.",
+      "Himachal Pradesh State Electricity Board Vs.",
+      "Rashtriya Ispat Nigam Limited Vs.",
+      "Saw Pipes Ltd (2003) 5",
+      "ONGC v. Saw Pipes",
+      "DDA Vs.",
+      "SCC 758, Union of India Vs.",
+      "Hindustan Zinc Ltd. v. Friends Coal Carbonisation",
+      "McDermott International Inc. v. Burn Standard Co. Ltd.",
+      "Renusagar Power Co. Ltd. v. General Electric Co.",
+      "ONGC Ltd.v.",
+      "Centrotrade Minerals & Metals Inc. v. Hindustan Copper Ltd.",
+      "DDA v. R.S. Sharma and Co",
+      "J.G. Engineers (P) Ltd. v. Union of India",
+      "Union of India v. Col. L.S.N. Murthy",
+      "ONGC Ltd. v. Saw Pipes Ltd.",
+      "Excise and Taxation Officer-cum-Assessing Authority Vs.",
+      "Kuldeep Singh Vs.",
+      "Kuldeep Singh v. Commr",
+      "P.R. Shah, Shares & Stock Brokers (P) Ltd. v. B.H.H. Securities (P) Ltd., (2012) 1",
+      "R v. Northumberland Compensation Appeal Tribunal",
+      "Kent v. Elstob, (1802) 3",
+      "Hodgkinson v. Fernie",
+      "Pure Helium India (P) Ltd. v. ONGC",
+      "D.D. Sharma v. Union of India [(2004) 5",
+      "Union of India v. Kishorilal Gupta & Bros.",
+      "Renusagar Power Co. Ltd. v. General Electric Co.",
+      "SAIL v. Gupta Brother Steel Tubes Ltd.",
+      "Sumitomo Heavy Industries Ltd. v. ONGC Ltd.",
+      "Renusagar Power Co. Ltd. v.\nGeneral Electric Co.1",
+      "ONGC v. Saw Pipes Ltd.2",
+      "ONGC v. Saw Pipes",
+      "ONGC Ltd. v. Western Geco International Co. Ltd.4",
+      "(2008) 13",
+      "Associate Builders v. Delhi Development Authority5",
+      "Waverly Jute Mills Co. Ltd. v.\nRaymon & Co.",
+      "Indian Oil Corporation Ltd. vs. Amritsar Gas Service and Ors",
+      "National Highways Authority of India Vs.",
+      "Karasands H. Thacker Vs.",
+      "Suisse Atlantique Societe d'Armament SA v. NV Rotterdamsche Kolen Centrale",
+      "Gayatri Balaswamy Vs.",
+      "R.S. Sharma"
+    ],
+    "Ansaldo Energia SPA (2018 SCC Online SCC 385)": [
+      "2018 SCC Online SC 368",
+      "2018 SCC Online SC 385)",
+      "Ansaldo Energia SPA (2018 SCC Online SCC 385)",
+      "Ansaldo Energia SPA"
+    ],
+    "Praveen Enterprises (2012) 12 SCC 581": [
+      "Praveen Enterprises (2012) 12 SCC 581",
+      "Praveen Enterprises (2012) 12 SCC 581",
+      "Praveen Enterprises",
+      "Praveen Enterprises",
+      "Praveen Enterprises",
+      "Praveen Enterprises"
+    ],
+    "Western Geco International Limited (2014) 9 SCC 263": [
+      "Western Geco International Limited (2014) 9 SCC 263",
+      "Western Geco International Ltd. (2014) 9 SCC 263",
+      "Western Geco International"
+    ],
+    "State of Gujarat (1984) 4 SCC 59": [
+      "State of Gujarat (1984) 4 SCC 59",
+      "State of Gujarat (1984) 4 SCC 59"
+    ],
+    "McDermott International Inc. v. Burn Standard Co. Ltd., (2006) 11 SCC 181": [
+      "Burn Standard Co. Ltd. (2006) 11 SCC 181",
+      "Burn Standard Co. Ltd. (2006) 11 SCC 181",
+      "McDermott International Inc. v. Burn Standard Co. Ltd., (2006) 11 SCC 181",
+      "Mcdermott International",
+      "Mcdermott International",
+      "Mcdermott International"
+    ],
+    "Rashtriya Ispat Nigam Ltd. v. Dewan Chand Ram Saran, (2012) 5 SCC 306": [
+      "Dewan Chand Ram Saran (2012) 5 SCC 306",
+      "Rashtriya Ispat Nigam Ltd. v. Dewan Chand Ram Saran, (2012) 5 SCC 306"
+    ],
+    "Renusagar case [Renusagar Power Co. Ltd. v. General Electric Co., 1994 Supp (1) SCC 644]": [
+      "Renusagar case [1994 Supp (1) SCC 644]",
+      "Renusagar [1994 Supp (1) SCC 644]",
+      "Renusagar case [Renusagar Power Co. Ltd. v. General Electric Co., 1994 Supp (1) SCC 644]"
+    ],
+    "ONGC [ONGC Ltd. v. Saw Pipes Ltd., (2003) 5 SCC 705]": [
+      "Saw Pipes [(2003) 5 SCC 705]",
+      "Saw Pipes [(2003) 5 SCC 705]",
+      "[(2003) 5 SCC 705]",
+      "ONGC [(2003) 5 SCC 705]",
+      "ONGC Ltd. v. Saw Pipes Ltd.[(2003) 5 SCC 705]",
+      "[(2003) 5 SCC 705]",
+      "ONGC [ONGC Ltd. v. Saw Pipes Ltd., (2003) 5 SCC 705]",
+      "Saw Pipes"
+    ],
+    "State of Rajasthan v. Basant Nahata [(2005) 12 SCC 77]": [
+      "State of Rajasthan v. Basant Nahata [(2005) 12 SCC 77]",
+      "State of Rajasthan v. Basant Nahata [(2005) 12 SCC 77]"
+    ],
+    "H.B. Gandhi, Excise and Taxation Officer-cum-Assessing Authority v. Gopi Nath & Sons, 1992 Supp (2) SCC 312": [
+      "Gopi Nath & Sons 1992 Supp (2) SCC 312",
+      "H.B. Gandhi, Excise and Taxation Officer-cum-Assessing Authority v. Gopi Nath & Sons, 1992 Supp (2) SCC 312"
+    ],
+    "Hodgkinson v. Fernie, (1857) 3 C.B.N.S. 189": [
+      "Hodgkinson v. Fernie, (1857) 3 C.B.N.S. 189",
+      "Hodgkinson v. Fernie (1857) 3 C.B.N.S. 189"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 73",
+      "Indian Contract Act, 1872",
+      "Section 73",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "Section 34",
+      "Amendment Act of 2015",
+      "Section 34",
+      "Amendment Act of 2015"
+    ],
+    [
+      "Section 34 (2) (b)\n(ii)",
+      "Arbitration Act, 1996",
+      "Section 34 (2) (b)\n(ii)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Sections 73 and 74",
+      "Contract Act",
+      "Sections 73 and 74",
+      "Contract Act"
+    ],
+    [
+      "Section 23",
+      "Indian Contract Act",
+      "Section 23",
+      "Indian Contract Act"
+    ],
+    [
+      "Article 14",
+      "Constitution of India",
+      "Article 14",
+      "Constitution of India"
+    ],
+    [
+      "Article 14",
+      "Constitution of India",
+      "Article 14",
+      "Constitution of India"
+    ],
+    [
+      "Section 23",
+      "Indian Contract Act",
+      "Section 23",
+      "Indian Contract Act"
+    ],
+    [
+      "Sections 18 and 34 (2)\n",
+      "Arbitration and Conciliation Act",
+      "Sections 18 and 34 (2)\n",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 23",
+      "Indian Contract Act",
+      "Section 23",
+      "Indian Contract Act"
+    ],
+    [
+      "s. 23",
+      "Contract Act",
+      "s. 23",
+      "Contract Act"
+    ],
+    [
+      "Section 23",
+      "Contract Act",
+      "Section 23",
+      "Contract Act"
+    ],
+    [
+      "S. 23",
+      "Contract Act",
+      "S. 23",
+      "Contract Act"
+    ],
+    [
+      "section 23",
+      "Contract Act",
+      "section 23",
+      "Contract Act"
+    ],
+    [
+      "Section 30",
+      "Arbitration Act, 1940",
+      "Section 30",
+      "Arbitration Act, 1940"
+    ],
+    [
+      "Section 28 (3)",
+      "Arbitration Act",
+      "Section 28 (3)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 73",
+      "Contract Act",
+      "Section 73",
+      "Contract Act"
+    ],
+    [
+      "Sections 73, 74 & 75",
+      "Contract Act",
+      "Sections 73, 74 & 75",
+      "Contract Act"
+    ],
+    [
+      "Article 141",
+      "Constitution",
+      "Article 141",
+      "Constitution"
+    ],
+    [
+      "Section 34",
+      "Amendment Act of 2015",
+      "Section 34",
+      "Amendment Act of 2015"
+    ],
+    [
+      "Section 34",
+      "Amendment Act of 2015",
+      "Section 34",
+      "Amendment Act of 2015"
+    ],
+    [
+      "Section 34",
+      "Amendment Act of 2015",
+      "Section 34",
+      "Amendment Act of 2015"
+    ],
+    [
+      "Section 34",
+      "Amendment Act of 2015",
+      "Section 34",
+      "Amendment Act of 2015"
+    ],
+    [
+      "Section 34",
+      "Amendment Act of 2015",
+      "Section 34",
+      "Amendment Act of 2015"
+    ],
+    [
+      "Section 23 (3)",
+      "Indian Contract Act",
+      "Section 23 (3)",
+      "Indian Contract Act"
+    ],
+    [
+      "Section 23 (3)",
+      "Indian Contract Act",
+      "Section 23 (3)",
+      "Indian Contract Act"
+    ],
+    [
+      "Section 34",
+      "Amendment Act of 2015",
+      "Section 34",
+      "Amendment Act of 2015"
+    ],
+    [
+      "Section 73",
+      "Indian Contract Act, 1872",
+      "Section 73",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "Section 34",
+      "Amendment Act of 2015",
+      "Section 34",
+      "Amendment Act of 2015"
+    ],
+    [
+      "Section 34",
+      "Amendment Act of 2015",
+      "Section 34",
+      "Amendment Act of 2015"
+    ],
+    [
+      "Section 34",
+      "Amendment Act of 2015",
+      "Section 34",
+      "Amendment Act of 2015"
+    ],
+    [
+      "Section 34",
+      "Amendment Act of 2015",
+      "Section 34",
+      "Amendment Act of 2015"
+    ],
+    [
+      "Section 34",
+      "Amendment Act of 2015",
+      "Section 34",
+      "Amendment Act of 2015"
+    ],
+    [
+      "Section 34",
+      "Amendment Act of 2015",
+      "Section 34",
+      "Amendment Act of 2015"
+    ],
+    [
+      "sub-section (2) of Section 34",
+      "Amendment Act of 2015",
+      "sub-section (2) of Section 34",
+      "Amendment Act of 2015"
+    ],
+    [
+      "Section 34",
+      "Amendment Act of 2015",
+      "Section 34",
+      "Amendment Act of 2015"
+    ],
+    [
+      "sub-clause (ii) of clause (b) of sub-section (2) of Section 34",
+      "Amendment Act of 2015",
+      "sub-clause (ii) of clause (b) of sub-section (2) of Section 34",
+      "Amendment Act of 2015"
+    ],
+    [
+      "Section 75 or Section 81",
+      "Indian Contract Act, 1872",
+      "Section 75 or Section 81",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "Section 34",
+      "Amendment Act of 2015",
+      "Section 34",
+      "Amendment Act of 2015"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act, 1996",
+      "Section 34",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34(2)",
+      "Arbitration Act, 1996",
+      "Section 34(2)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Part I",
+      "Arbitration Act, 1996",
+      "Part I",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act, 1996",
+      "Section 34",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act, 1996",
+      "Section 34",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34(2)",
+      "Arbitration Act, 1996",
+      "Section 34(2)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34(2)",
+      "Arbitration Act, 1996",
+      "Section 34(2)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34(2)(b)(ii)",
+      "Arbitration Act, 1996",
+      "Section 34(2)(b)(ii)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act, 1996",
+      "Section 34",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34(2)",
+      "Arbitration and Conciliation Act",
+      "Section 34(2)",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 34(2)",
+      "Arbitration and Conciliation Act",
+      "Section 34(2)",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "section 34 (2) (b)",
+      "Arbitration and Conciliation Act",
+      "section 34 (2) (b)",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 28(1)(a)",
+      "Arbitration Act",
+      "Section 28(1)(a)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "sub-clause (ii) of clause (b) of Section 34",
+      "Arbitration and Conciliation Act",
+      "sub-clause (ii) of clause (b) of Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "proviso to sub-section (2-A) of Section 34",
+      "Arbitration and Conciliation Act",
+      "proviso to sub-section (2-A) of Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Sections 34",
+      "Arbitration and Conciliation Act",
+      "Sections 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 34(2)",
+      "Arbitration and Conciliation Act",
+      "Section 34(2)",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 34 (2)",
+      "Arbitration and Conciliation Act",
+      "Section 34 (2)",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 16",
+      "Arbitration Act, 1996",
+      "Section 16",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 16",
+      "Arbitration Act, 1996",
+      "Section 16",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 16",
+      "Arbitration Act, 1996",
+      "Section 16",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 23 (3)",
+      "Contract Act",
+      "Section 23 (3)",
+      "Contract Act"
+    ],
+    [
+      "Section 23",
+      "Contract Act",
+      "Section 23",
+      "Contract Act"
+    ],
+    [
+      "Section 23",
+      "Contract Act",
+      "Section 23",
+      "Contract Act"
+    ],
+    [
+      "section 23",
+      "Contract Act",
+      "section 23",
+      "Contract Act"
+    ],
+    [
+      "section 11",
+      "Arbitration and Conciliation Act 1996",
+      "section 11",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "section 11",
+      "Arbitration and Conciliation Act 1996",
+      "section 11",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "Section 23",
+      "Contract Act",
+      "Section 23",
+      "Contract Act"
+    ],
+    [
+      "Section 2(9)",
+      "Arbitration and Conciliation Act 1996",
+      "Section 2(9)",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "Section 23 (3)",
+      "Contract Act",
+      "Section 23 (3)",
+      "Contract Act"
+    ],
+    [
+      "23 (3)",
+      "Contract Act",
+      "23 (3)",
+      "Contract Act"
+    ],
+    [
+      "Section 23",
+      "Contract Act",
+      "Section 23",
+      "Contract Act"
+    ],
+    [
+      "Section 34 (2) (b) (ii)",
+      "Arbitration and Conciliation Act",
+      "Section 34 (2) (b) (ii)",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Sections 73, 74 & 75",
+      "Contract Act",
+      "Sections 73, 74 & 75",
+      "Contract Act"
+    ],
+    [
+      "Section 74",
+      "Contract Act",
+      "Section 74",
+      "Contract Act"
+    ],
+    [
+      "Section 75",
+      "Indian Contract Act, 1872",
+      "Section 75",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "section 75 or section 81",
+      "Indian Contract Act, 1872",
+      "section 75 or section 81",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "section 33",
+      "Indian Contract Act, 1872",
+      "section 33",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "Part I",
+      "Arbitration Act, 1996",
+      "Part I",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 13(5)",
+      "Arbitration Act, 1996",
+      "Section 13(5)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 16(6)",
+      "Arbitration Act, 1996",
+      "Section 16(6)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Cl.52",
+      "Contract Act",
+      "Cl.52",
+      "Contract Act"
+    ],
+    [
+      "Cl. 52",
+      "Contract Act",
+      "Cl. 52",
+      "Contract Act"
+    ],
+    [
+      "section 31(3)",
+      "Arbitration Act",
+      "section 31(3)",
+      "Arbitration Act"
+    ],
+    [
+      "SCC 325]",
+      "Arbitration Act",
+      "SCC 325]",
+      "Arbitration Act"
+    ],
+    [
+      "section 2(9)",
+      "Arbitration and Conciliation Act 1996",
+      "section 2(9)",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "section 11",
+      "Arbitration and Conciliation Act 1996",
+      "section 11",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "section 25 (a) or section 32(2)(a)",
+      "Arbitration and Conciliation Act 1996",
+      "section 25 (a) or section 32(2)(a)",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "section 20",
+      "Arbitration and Conciliation Act 1996",
+      "section 20",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "Sections 51, 52 & 73",
+      "Indian Railways Standard Conditions of Contract",
+      "Sections 51, 52 & 73",
+      "Indian Railways Standard Conditions of Contract"
+    ],
+    [
+      "Chapter-VI",
+      "Indian Contract Act, 1872",
+      "Chapter-VI",
+      "Indian Contract Act, 1872"
+    ]
+  ],
+  "precedent_counts": {
+    "P.R. Shah, Shares & Stock Brokers (P) Ltd. v. B.H.H. Securities (P) Ltd., (2012) 1": 46,
+    "Ansaldo Energia SPA (2018 SCC Online SCC 385)": 4,
+    "Praveen Enterprises (2012) 12 SCC 581": 6,
+    "Western Geco International Limited (2014) 9 SCC 263": 3,
+    "State of Gujarat (1984) 4 SCC 59": 2,
+    "McDermott International Inc. v. Burn Standard Co. Ltd., (2006) 11 SCC 181": 6,
+    "Rashtriya Ispat Nigam Ltd. v. Dewan Chand Ram Saran, (2012) 5 SCC 306": 2,
+    "Renusagar case [Renusagar Power Co. Ltd. v. General Electric Co., 1994 Supp (1) SCC 644]": 3,
+    "ONGC [ONGC Ltd. v. Saw Pipes Ltd., (2003) 5 SCC 705]": 8,
+    "State of Rajasthan v. Basant Nahata [(2005) 12 SCC 77]": 2,
+    "H.B. Gandhi, Excise and Taxation Officer-cum-Assessing Authority v. Gopi Nath & Sons, 1992 Supp (2) SCC 312": 2,
+    "Hodgkinson v. Fernie, (1857) 3 C.B.N.S. 189": 2
+  },
+  "provision_counts": {
+    "Section 73 of Indian Contract Act, 1872": 2,
+    "Section 34 of Amendment Act of 2015": 15,
+    "Section 34 (2) (b)\n(ii) of Arbitration Act, 1996": 1,
+    "Sections 73 and 74 of Contract Act": 1,
+    "Section 23 of Indian Contract Act": 3,
+    "Article 14 of Constitution of India": 2,
+    "Sections 18 and 34 (2)\n of Arbitration and Conciliation Act": 1,
+    "s. 23 of Contract Act": 1,
+    "Section 23 of Contract Act": 5,
+    "S. 23 of Contract Act": 1,
+    "section 23 of Contract Act": 2,
+    "Section 30 of Arbitration Act, 1940": 1,
+    "Section 28 (3) of Arbitration Act": 1,
+    "Section 34 of Arbitration Act": 1,
+    "Section 73 of Contract Act": 1,
+    "Sections 73, 74 & 75 of Contract Act": 2,
+    "Article 141 of Constitution": 1,
+    "Section 23 (3) of Indian Contract Act": 2,
+    "sub-section (2) of Section 34 of Amendment Act of 2015": 1,
+    "sub-clause (ii) of clause (b) of sub-section (2) of Section 34 of Amendment Act of 2015": 1,
+    "Section 75 or Section 81 of Indian Contract Act, 1872": 1,
+    "Section 34 of Arbitration Act, 1996": 4,
+    "Section 34(2) of Arbitration Act, 1996": 3,
+    "Part I of Arbitration Act, 1996": 2,
+    "Section 34(2)(b)(ii) of Arbitration Act, 1996": 1,
+    "Section 34(2) of Arbitration and Conciliation Act": 3,
+    "section 34 (2) (b) of Arbitration and Conciliation Act": 1,
+    "Section 28(1)(a) of Arbitration Act": 1,
+    "Section 34 of Arbitration and Conciliation Act": 11,
+    "sub-clause (ii) of clause (b) of Section 34 of Arbitration and Conciliation Act": 1,
+    "proviso to sub-section (2-A) of Section 34 of Arbitration and Conciliation Act": 1,
+    "Sections 34 of Arbitration and Conciliation Act": 1,
+    "Section 34 (2) of Arbitration and Conciliation Act": 1,
+    "Section 16 of Arbitration Act, 1996": 3,
+    "Section 23 (3) of Contract Act": 2,
+    "section 11 of Arbitration and Conciliation Act 1996": 3,
+    "Section 2(9) of Arbitration and Conciliation Act 1996": 1,
+    "23 (3) of Contract Act": 1,
+    "Section 34 (2) (b) (ii) of Arbitration and Conciliation Act": 1,
+    "Section 74 of Contract Act": 1,
+    "Section 75 of Indian Contract Act, 1872": 1,
+    "section 75 or section 81 of Indian Contract Act, 1872": 1,
+    "section 33 of Indian Contract Act, 1872": 1,
+    "Section 13(5) of Arbitration Act, 1996": 1,
+    "Section 16(6) of Arbitration Act, 1996": 1,
+    "Cl.52 of Contract Act": 1,
+    "Cl. 52 of Contract Act": 1,
+    "section 31(3) of Arbitration Act": 1,
+    "SCC 325] of Arbitration Act": 1,
+    "section 2(9) of Arbitration and Conciliation Act 1996": 1,
+    "section 25 (a) or section 32(2)(a) of Arbitration and Conciliation Act 1996": 1,
+    "section 20 of Arbitration and Conciliation Act 1996": 1,
+    "Sections 51, 52 & 73 of Indian Railways Standard Conditions of Contract": 1,
+    "Chapter-VI of Indian Contract Act, 1872": 1
+  },
+  "statute_counts": {
+    "Indian Contract Act, 1872": 7,
+    "Amendment Act of 2015": 17,
+    "Arbitration Act, 1996": 16,
+    "Contract Act": 19,
+    "Indian Contract Act": 5,
+    "Constitution of India": 2,
+    "Arbitration and Conciliation Act": 21,
+    "Arbitration Act, 1940": 1,
+    "Arbitration Act": 5,
+    "Constitution": 1,
+    "Arbitration and Conciliation Act 1996": 7,
+    "Indian Railways Standard Conditions of Contract": 1
+  }
+}

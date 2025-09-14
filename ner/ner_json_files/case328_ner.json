@@ -1,0 +1,675 @@
+{
+  "entities": [
+    {
+      "text": "Scarpe Marketing Private Limited",
+      "label": "PETITIONER",
+      "start_char": 21,
+      "end_char": 53
+    },
+    {
+      "text": "Anheuser Busch Inbev India Limited",
+      "label": "RESPONDENT",
+      "start_char": 57,
+      "end_char": 91
+    },
+    {
+      "text": "K.Somashekar",
+      "label": "LAWYER",
+      "start_char": 119,
+      "end_char": 131
+    },
+    {
+      "text": "K.Somashekar",
+      "label": "LAWYER",
+      "start_char": 139,
+      "end_char": 151
+    },
+    {
+      "text": "High Court Of Karnataka At Bengaluru",
+      "label": "COURT",
+      "start_char": 365,
+      "end_char": 401
+    },
+    {
+      "text": "K.Somashekar",
+      "label": "JUDGE",
+      "start_char": 555,
+      "end_char": 567
+    },
+    {
+      "text": "S Rachaiah",
+      "label": "JUDGE",
+      "start_char": 659,
+      "end_char": 669
+    },
+    {
+      "text": "Scarpe Marketing Private Limited",
+      "label": "PETITIONER",
+      "start_char": 769,
+      "end_char": 801
+    },
+    {
+      "text": "Sathish Babu Sana",
+      "label": "RESPONDENT",
+      "start_char": 1192,
+      "end_char": 1209
+    },
+    {
+      "text": "S.V. Bapuji",
+      "label": "PETITIONER",
+      "start_char": 1488,
+      "end_char": 1499
+    },
+    {
+      "text": "S. Guruju",
+      "label": "PETITIONER",
+      "start_char": 1734,
+      "end_char": 1743
+    },
+    {
+      "text": "Krishika Vaishnav",
+      "label": "LAWYER",
+      "start_char": 2174,
+      "end_char": 2191
+    },
+    {
+      "text": "A Mahesh Chowdhary",
+      "label": "LAWYER",
+      "start_char": 2216,
+      "end_char": 2234
+    },
+    {
+      "text": "Anheuser Busch Inbev India Limited",
+      "label": "RESPONDENT",
+      "start_char": 2258,
+      "end_char": 2292
+    },
+    {
+      "text": "East Godavari Breweries Private Limited",
+      "label": "RESPONDENT",
+      "start_char": 2515,
+      "end_char": 2554
+    },
+    {
+      "text": "Rajesh Chillale",
+      "label": "LAWYER",
+      "start_char": 2750,
+      "end_char": 2765
+    },
+    {
+      "text": "Pramod Nair",
+      "label": "LAWYER",
+      "start_char": 2830,
+      "end_char": 2841
+    },
+    {
+      "text": "Prasanth V G",
+      "label": "LAWYER",
+      "start_char": 2872,
+      "end_char": 2884
+    },
+    {
+      "text": "K.Somashekar",
+      "label": "JUDGE",
+      "start_char": 3686,
+      "end_char": 3698
+    },
+    {
+      "text": "S Rachaiah",
+      "label": "JUDGE",
+      "start_char": 3744,
+      "end_char": 3754
+    },
+    {
+      "text": "K.Somashekar",
+      "label": "JUDGE",
+      "start_char": 3820,
+      "end_char": 3832
+    },
+    {
+      "text": "City Civil and Sessions Judge, at Bengaluru",
+      "label": "COURT",
+      "start_char": 3904,
+      "end_char": 3947
+    },
+    {
+      "text": "A.A.No.184/2023",
+      "label": "CASE_NUMBER",
+      "start_char": 3975,
+      "end_char": 3990
+    },
+    {
+      "text": "22.09.2023",
+      "label": "DATE",
+      "start_char": 3997,
+      "end_char": 4007
+    },
+    {
+      "text": "Krishika Vaishnav",
+      "label": "LAWYER",
+      "start_char": 4336,
+      "end_char": 4353
+    },
+    {
+      "text": "A.Mahesh Chowdhary",
+      "label": "OTHER_PERSON",
+      "start_char": 4381,
+      "end_char": 4399
+    },
+    {
+      "text": "Pramod Nair",
+      "label": "LAWYER",
+      "start_char": 4457,
+      "end_char": 4468
+    },
+    {
+      "text": "Prashant",
+      "label": "OTHER_PERSON",
+      "start_char": 4496,
+      "end_char": 4504
+    },
+    {
+      "text": "Anheuser Busch InBev Group",
+      "label": "ORG",
+      "start_char": 4751,
+      "end_char": 4777
+    },
+    {
+      "text": "SAB Miller Group",
+      "label": "ORG",
+      "start_char": 4816,
+      "end_char": 4832
+    },
+    {
+      "text": "SABMiller India Limited",
+      "label": "ORG",
+      "start_char": 4864,
+      "end_char": 4887
+    },
+    {
+      "text": "06.02.2015",
+      "label": "DATE",
+      "start_char": 4892,
+      "end_char": 4902
+    },
+    {
+      "text": "SABMiller",
+      "label": "RESPONDENT",
+      "start_char": 4904,
+      "end_char": 4913
+    },
+    {
+      "text": "Chepuru Village",
+      "label": "GPE",
+      "start_char": 5007,
+      "end_char": 5022
+    },
+    {
+      "text": "Tuni Mandal",
+      "label": "GPE",
+      "start_char": 5024,
+      "end_char": 5035
+    },
+    {
+      "text": "East Godavari District",
+      "label": "GPE",
+      "start_char": 5037,
+      "end_char": 5059
+    },
+    {
+      "text": "Andhra Pradesh",
+      "label": "GPE",
+      "start_char": 5061,
+      "end_char": 5075
+    },
+    {
+      "text": "08.05.2015",
+      "label": "DATE",
+      "start_char": 5123,
+      "end_char": 5133
+    },
+    {
+      "text": "SABMiller",
+      "label": "ORG",
+      "start_char": 5213,
+      "end_char": 5222
+    },
+    {
+      "text": "Section 11(6)",
+      "label": "PROVISION",
+      "start_char": 5501,
+      "end_char": 5514
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 5522,
+      "end_char": 5560
+    },
+    {
+      "text": "CMP 304/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 5587,
+      "end_char": 5599
+    },
+    {
+      "text": "31.03.2021",
+      "label": "DATE",
+      "start_char": 5646,
+      "end_char": 5656
+    },
+    {
+      "text": "Bengaluru",
+      "label": "GPE",
+      "start_char": 6000,
+      "end_char": 6009
+    },
+    {
+      "text": "NC: 2024:KHC:32412-DB Commercial Court",
+      "label": "CASE_NUMBER",
+      "start_char": 6372,
+      "end_char": 6410
+    },
+    {
+      "text": "Section 29A",
+      "label": "PROVISION",
+      "start_char": 6477,
+      "end_char": 6488
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 6550,
+      "end_char": 6560
+    },
+    {
+      "text": "Sections 29A(4) and (5)",
+      "label": "PROVISION",
+      "start_char": 7541,
+      "end_char": 7564
+    },
+    {
+      "text": "22.09.2023",
+      "label": "DATE",
+      "start_char": 7632,
+      "end_char": 7642
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 7842,
+      "end_char": 7852
+    },
+    {
+      "text": "Commercial Act",
+      "label": "STATUTE",
+      "start_char": 7856,
+      "end_char": 7870
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 8692,
+      "end_char": 8703
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 8711,
+      "end_char": 8752
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 8780,
+      "end_char": 8790
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 8798,
+      "end_char": 8849
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 9165,
+      "end_char": 9175
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 9183,
+      "end_char": 9215
+    },
+    {
+      "text": "section 8",
+      "label": "PROVISION",
+      "start_char": 9602,
+      "end_char": 9611
+    },
+    {
+      "text": "section 9",
+      "label": "PROVISION",
+      "start_char": 9665,
+      "end_char": 9674
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 9743,
+      "end_char": 9753
+    },
+    {
+      "text": "sub-section (2) or sub-section (3) of section 16",
+      "label": "PROVISION",
+      "start_char": 9871,
+      "end_char": 9919
+    },
+    {
+      "text": "section 17",
+      "label": "PROVISION",
+      "start_char": 9983,
+      "end_char": 9993
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 10158,
+      "end_char": 10171
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 10237,
+      "end_char": 10250
+    },
+    {
+      "text": "Appeal No.10544/2024",
+      "label": "CASE_NUMBER",
+      "start_char": 10271,
+      "end_char": 10291
+    },
+    {
+      "text": "13.05.2024",
+      "label": "DATE",
+      "start_char": 10298,
+      "end_char": 10308
+    },
+    {
+      "text": "Section 29A",
+      "label": "PROVISION",
+      "start_char": 10330,
+      "end_char": 10341
+    },
+    {
+      "text": "sub-section (4) of Section 29A",
+      "label": "PROVISION",
+      "start_char": 10404,
+      "end_char": 10434
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 10442,
+      "end_char": 10457
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 10491,
+      "end_char": 10506
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 10514,
+      "end_char": 10529
+    },
+    {
+      "text": "Principal Civil Court - 10 - NC: 2024",
+      "label": "COURT",
+      "start_char": 10541,
+      "end_char": 10578
+    },
+    {
+      "text": "sub-section(6) of Section 29A",
+      "label": "PROVISION",
+      "start_char": 10826,
+      "end_char": 10855
+    },
+    {
+      "text": "sub-section (4) of Section 29A",
+      "label": "PROVISION",
+      "start_char": 11215,
+      "end_char": 11245
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 11253,
+      "end_char": 11268
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 11750,
+      "end_char": 11761
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 11765,
+      "end_char": 11768
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 12372,
+      "end_char": 12385
+    },
+    {
+      "text": "Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 12661,
+      "end_char": 12675
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 12683,
+      "end_char": 12710
+    },
+    {
+      "text": "A.A.No.184/2023",
+      "label": "CASE_NUMBER",
+      "start_char": 12878,
+      "end_char": 12893
+    },
+    {
+      "text": "22.09.2023",
+      "label": "DATE",
+      "start_char": 12900,
+      "end_char": 12910
+    },
+    {
+      "text": "20.08.2024",
+      "label": "DATE",
+      "start_char": 13609,
+      "end_char": 13619
+    },
+    {
+      "text": "K.SOMASHEKAR",
+      "label": "JUDGE",
+      "start_char": 13628,
+      "end_char": 13640
+    },
+    {
+      "text": "S RACHAIAH",
+      "label": "JUDGE",
+      "start_char": 13654,
+      "end_char": 13664
+    },
+    {
+      "text": "DKB",
+      "label": "JUDGE",
+      "start_char": 13672,
+      "end_char": 13675
+    }
+  ],
+  "precedent_clusters": {},
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 11(6)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 11(6)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 13",
+      "Commercial Act",
+      "Section 13",
+      "Commercial Act"
+    ],
+    [
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "section 37",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "section 37",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act",
+      "Section 37",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "sub-section (4) of Section 29A",
+      "Arbitration Act",
+      "sub-section (4) of Section 29A",
+      "Arbitration Act"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Arbitration Act",
+      "Section 2(1)(e)",
+      "Arbitration Act"
+    ],
+    [
+      "sub-section (4) of Section 29A",
+      "Arbitration Act",
+      "sub-section (4) of Section 29A",
+      "Arbitration Act"
+    ],
+    [
+      "Section 151",
+      "CPC",
+      "Section 151",
+      "CPC"
+    ],
+    [
+      "Section 13(1A)",
+      "Commercial Courts Act, 2015",
+      "Section 13(1A)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 29A",
+      "Arbitration Act",
+      "Section 29A",
+      "Arbitration Act"
+    ],
+    [
+      "Section 11",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 11",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Sections 29A(4) and (5)",
+      "Arbitration Act",
+      "Sections 29A(4) and (5)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 29A",
+      "Arbitration Act",
+      "Section 29A",
+      "Arbitration Act"
+    ],
+    [
+      "sub-section(6) of Section 29A",
+      "Arbitration Act",
+      "sub-section(6) of Section 29A",
+      "Arbitration Act"
+    ],
+    [
+      "section 8",
+      "Arbitration and Conciliation Act",
+      "section 8",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "section 9",
+      "Arbitration and Conciliation Act",
+      "section 9",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "section 34",
+      "Arbitration and Conciliation Act",
+      "section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "sub-section (2) or sub-section (3) of section 16",
+      "Arbitration and Conciliation Act",
+      "sub-section (2) or sub-section (3) of section 16",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "section 17",
+      "Arbitration and Conciliation Act",
+      "section 17",
+      "Arbitration and Conciliation Act"
+    ]
+  ],
+  "precedent_counts": {},
+  "provision_counts": {
+    "Section 11(6) of Arbitration and Conciliation Act, 1996": 1,
+    "Section 13 of Commercial Act": 1,
+    "Order XLIII of Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "section 37 of Arbitration and Conciliation Act, 1996 (26 of 1996)": 1,
+    "Section 37 of Arbitration and Conciliation Act": 1,
+    "sub-section (4) of Section 29A of Arbitration Act": 2,
+    "Section 2(1)(e) of Arbitration Act": 1,
+    "Section 151 of CPC": 1,
+    "Section 13(1A) of Commercial Courts Act, 2015": 1,
+    "Section 29A of Arbitration Act": 2,
+    "Section 11 of Arbitration and Conciliation Act, 1996": 1,
+    "Sections 29A(4) and (5) of Arbitration Act": 1,
+    "sub-section(6) of Section 29A of Arbitration Act": 1,
+    "section 8 of Arbitration and Conciliation Act": 1,
+    "section 9 of Arbitration and Conciliation Act": 1,
+    "section 34 of Arbitration and Conciliation Act": 1,
+    "sub-section (2) or sub-section (3) of section 16 of Arbitration and Conciliation Act": 1,
+    "section 17 of Arbitration and Conciliation Act": 1
+  },
+  "statute_counts": {
+    "Arbitration and Conciliation Act, 1996": 2,
+    "Commercial Act": 1,
+    "Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Arbitration and Conciliation Act, 1996 (26 of 1996)": 1,
+    "Arbitration and Conciliation Act": 6,
+    "Arbitration Act": 7,
+    "CPC": 1,
+    "Commercial Courts Act, 2015": 1
+  }
+}

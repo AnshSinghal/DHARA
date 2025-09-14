@@ -1,0 +1,1108 @@
+{
+  "entities": [
+    {
+      "text": "Supreme Court of India",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 22
+    },
+    {
+      "text": "Parsa Kenta Collieries Ltd.",
+      "label": "PETITIONER",
+      "start_char": 23,
+      "end_char": 50
+    },
+    {
+      "text": "Rajasthan Rajya Vidyut Utpadan Nigam",
+      "label": "RESPONDENT",
+      "start_char": 54,
+      "end_char": 90
+    },
+    {
+      "text": "M.R. Shah",
+      "label": "LAWYER",
+      "start_char": 340,
+      "end_char": 349
+    },
+    {
+      "text": "M.R. Shah",
+      "label": "LAWYER",
+      "start_char": 357,
+      "end_char": 366
+    },
+    {
+      "text": "Arun Mishra",
+      "label": "LAWYER",
+      "start_char": 368,
+      "end_char": 379
+    },
+    {
+      "text": "Supreme Court Of India",
+      "label": "COURT",
+      "start_char": 488,
+      "end_char": 510
+    },
+    {
+      "text": "Parsa Kente Collieries Limited",
+      "label": "PETITIONER",
+      "start_char": 650,
+      "end_char": 680
+    },
+    {
+      "text": "Rajasthan Rajya Vidyut Utpadan Nigam Limited",
+      "label": "RESPONDENT",
+      "start_char": 777,
+      "end_char": 821
+    },
+    {
+      "text": "M.R. SHAH",
+      "label": "JUDGE",
+      "start_char": 902,
+      "end_char": 911
+    },
+    {
+      "text": "28.02.2018",
+      "label": "DATE",
+      "start_char": 994,
+      "end_char": 1004
+    },
+    {
+      "text": "Commercial Appellate Court/Division Bench of the High Court of Judicature for Rajasthan, Bench at Jaipur",
+      "label": "COURT",
+      "start_char": 1019,
+      "end_char": 1123
+    },
+    {
+      "text": "D.B. Civil Miscellaneous Appeal No. 3785 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 1127,
+      "end_char": 1175
+    },
+    {
+      "text": "Rajasthan Rajya Vidyut Utpadan Nigam Limited",
+      "label": "ORG",
+      "start_char": 1274,
+      "end_char": 1318
+    },
+    {
+      "text": "Commercial Appellate Court at Jaipur",
+      "label": "COURT",
+      "start_char": 1410,
+      "end_char": 1446
+    },
+    {
+      "text": "Parsa Kente Collieries Limited",
+      "label": "PETITIONER",
+      "start_char": 1488,
+      "end_char": 1518
+    },
+    {
+      "text": "Adani Enterprises Limited",
+      "label": "ORG",
+      "start_char": 1735,
+      "end_char": 1760
+    },
+    {
+      "text": "12.05.2006",
+      "label": "DATE",
+      "start_char": 1805,
+      "end_char": 1815
+    },
+    {
+      "text": "23.10.2006",
+      "label": "DATE",
+      "start_char": 1875,
+      "end_char": 1885
+    },
+    {
+      "text": "Parsa Kente Collieries Limited",
+      "label": "ORG",
+      "start_char": 1944,
+      "end_char": 1974
+    },
+    {
+      "text": "Parsa Kente Collieries Limited",
+      "label": "ORG",
+      "start_char": 2064,
+      "end_char": 2094
+    },
+    {
+      "text": "AEL",
+      "label": "ORG",
+      "start_char": 2099,
+      "end_char": 2102
+    },
+    {
+      "text": "16.07.2008",
+      "label": "DATE",
+      "start_char": 2239,
+      "end_char": 2249
+    },
+    {
+      "text": "CMDA",
+      "label": "ORG",
+      "start_char": 2282,
+      "end_char": 2286
+    },
+    {
+      "text": "25.06.2011",
+      "label": "DATE",
+      "start_char": 2333,
+      "end_char": 2343
+    },
+    {
+      "text": "25.06.2011",
+      "label": "DATE",
+      "start_char": 2537,
+      "end_char": 2547
+    },
+    {
+      "text": "CMDA",
+      "label": "ORG",
+      "start_char": 2549,
+      "end_char": 2553
+    },
+    {
+      "text": "CMDA",
+      "label": "STATUTE",
+      "start_char": 2637,
+      "end_char": 2641
+    },
+    {
+      "text": "Clause 4.1.3 and 4.1.4",
+      "label": "PROVISION",
+      "start_char": 2670,
+      "end_char": 2692
+    },
+    {
+      "text": "5.2.2",
+      "label": "PROVISION",
+      "start_char": 2910,
+      "end_char": 2915
+    },
+    {
+      "text": "25.3.2013",
+      "label": "DATE",
+      "start_char": 3262,
+      "end_char": 3271
+    },
+    {
+      "text": "25.6.2011",
+      "label": "DATE",
+      "start_char": 3386,
+      "end_char": 3395
+    },
+    {
+      "text": "25.3.2013",
+      "label": "DATE",
+      "start_char": 3399,
+      "end_char": 3408
+    },
+    {
+      "text": "CMDA",
+      "label": "STATUTE",
+      "start_char": 3643,
+      "end_char": 3647
+    },
+    {
+      "text": "Rajasthan High Court",
+      "label": "COURT",
+      "start_char": 3703,
+      "end_char": 3723
+    },
+    {
+      "text": "27.05.2015",
+      "label": "DATE",
+      "start_char": 4088,
+      "end_char": 4098
+    },
+    {
+      "text": "25.06.2011",
+      "label": "DATE",
+      "start_char": 4470,
+      "end_char": 4480
+    },
+    {
+      "text": "25.06.2011",
+      "label": "DATE",
+      "start_char": 4733,
+      "end_char": 4743
+    },
+    {
+      "text": "CMDA",
+      "label": "ORG",
+      "start_char": 5055,
+      "end_char": 5059
+    },
+    {
+      "text": "Commercial Court, Jaipur",
+      "label": "COURT",
+      "start_char": 6357,
+      "end_char": 6381
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 6406,
+      "end_char": 6416
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 6424,
+      "end_char": 6456
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 6522,
+      "end_char": 6532
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 6540,
+      "end_char": 6555
+    },
+    {
+      "text": "Commercial Appellate Court/Division Bench of the High Court of Rajasthan at Jaipur",
+      "label": "COURT",
+      "start_char": 6567,
+      "end_char": 6649
+    },
+    {
+      "text": "28.02.2018",
+      "label": "DATE",
+      "start_char": 6692,
+      "end_char": 6702
+    },
+    {
+      "text": "Commercial Court, Jaipur",
+      "label": "COURT",
+      "start_char": 6829,
+      "end_char": 6853
+    },
+    {
+      "text": "Ranjit Kumar",
+      "label": "OTHER_PERSON",
+      "start_char": 7041,
+      "end_char": 7053
+    },
+    {
+      "text": "Tushar Mehta",
+      "label": "OTHER_PERSON",
+      "start_char": 7128,
+      "end_char": 7140
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 7171,
+      "end_char": 7176
+    },
+    {
+      "text": "Ranjit Kumar",
+      "label": "OTHER_PERSON",
+      "start_char": 7229,
+      "end_char": 7241
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 7521,
+      "end_char": 7531
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 7539,
+      "end_char": 7554
+    },
+    {
+      "text": "CMDA",
+      "label": "ORG",
+      "start_char": 7598,
+      "end_char": 7602
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 7869,
+      "end_char": 7879
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 7887,
+      "end_char": 7902
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 8011,
+      "end_char": 8021
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 8029,
+      "end_char": 8044
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 8270,
+      "end_char": 8280
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 8288,
+      "end_char": 8303
+    },
+    {
+      "text": "CMDA",
+      "label": "COURT",
+      "start_char": 8547,
+      "end_char": 8551
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 8695,
+      "end_char": 8705
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 8713,
+      "end_char": 8728
+    },
+    {
+      "text": "Ranjit Kumar",
+      "label": "OTHER_PERSON",
+      "start_char": 8773,
+      "end_char": 8785
+    },
+    {
+      "text": "Associate Builders v. Delhi Development Authority, reported in (2015) 3 SCC 49",
+      "label": "PRECEDENT",
+      "start_char": 8879,
+      "end_char": 8957
+    },
+    {
+      "text": "Steel Authority of India Limited v. Gupta Brother Steel Tubes Limited, reported in (2009) 10 SCC 63",
+      "label": "PRECEDENT",
+      "start_char": 8959,
+      "end_char": 9058
+    },
+    {
+      "text": "Ssangyong Engineering & Construction Co.",
+      "label": "ORG",
+      "start_char": 9112,
+      "end_char": 9152
+    },
+    {
+      "text": "Limited v. National Highways Authority of India (NHAI)",
+      "label": "PRECEDENT",
+      "start_char": 9153,
+      "end_char": 9207
+    },
+    {
+      "text": "08.05.2019",
+      "label": "DATE",
+      "start_char": 9221,
+      "end_char": 9231
+    },
+    {
+      "text": "Civil Appeal No. 4779 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 9235,
+      "end_char": 9264
+    },
+    {
+      "text": "2019 SCC Online SC 677",
+      "label": "PRECEDENT",
+      "start_char": 9278,
+      "end_char": 9300
+    },
+    {
+      "text": "CMDA",
+      "label": "COURT",
+      "start_char": 9811,
+      "end_char": 9815
+    },
+    {
+      "text": "25.3.2013",
+      "label": "DATE",
+      "start_char": 9873,
+      "end_char": 9882
+    },
+    {
+      "text": "CMDA",
+      "label": "STATUTE",
+      "start_char": 9949,
+      "end_char": 9953
+    },
+    {
+      "text": "25.06.2011",
+      "label": "DATE",
+      "start_char": 9961,
+      "end_char": 9971
+    },
+    {
+      "text": "25.03.2013",
+      "label": "DATE",
+      "start_char": 10255,
+      "end_char": 10265
+    },
+    {
+      "text": "25.06.2011",
+      "label": "DATE",
+      "start_char": 10876,
+      "end_char": 10886
+    },
+    {
+      "text": "5.3.3",
+      "label": "DATE",
+      "start_char": 10889,
+      "end_char": 10894
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 11226,
+      "end_char": 11236
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 11244,
+      "end_char": 11259
+    },
+    {
+      "text": "CMDA",
+      "label": "STATUTE",
+      "start_char": 11332,
+      "end_char": 11336
+    },
+    {
+      "text": "CMDA",
+      "label": "COURT",
+      "start_char": 11424,
+      "end_char": 11428
+    },
+    {
+      "text": "Ranjit Kumar",
+      "label": "OTHER_PERSON",
+      "start_char": 11666,
+      "end_char": 11678
+    },
+    {
+      "text": "CMDA",
+      "label": "STATUTE",
+      "start_char": 11751,
+      "end_char": 11755
+    },
+    {
+      "text": "CMDA",
+      "label": "STATUTE",
+      "start_char": 12024,
+      "end_char": 12028
+    },
+    {
+      "text": "5.4.1",
+      "label": "DATE",
+      "start_char": 12031,
+      "end_char": 12036
+    },
+    {
+      "text": "5.4.2",
+      "label": "DATE",
+      "start_char": 12506,
+      "end_char": 12511
+    },
+    {
+      "text": "AMPL",
+      "label": "ORG",
+      "start_char": 12722,
+      "end_char": 12726
+    },
+    {
+      "text": "CMDA",
+      "label": "ORG",
+      "start_char": 13025,
+      "end_char": 13029
+    },
+    {
+      "text": "AMPL",
+      "label": "ORG",
+      "start_char": 13063,
+      "end_char": 13067
+    },
+    {
+      "text": "AMPL",
+      "label": "ORG",
+      "start_char": 13165,
+      "end_char": 13169
+    },
+    {
+      "text": "CMDA",
+      "label": "ORG",
+      "start_char": 13221,
+      "end_char": 13225
+    },
+    {
+      "text": "Ministry of Coal",
+      "label": "ORG",
+      "start_char": 14392,
+      "end_char": 14408
+    },
+    {
+      "text": "CMDA",
+      "label": "ORG",
+      "start_char": 14455,
+      "end_char": 14459
+    },
+    {
+      "text": "Ministry of Coal",
+      "label": "ORG",
+      "start_char": 14524,
+      "end_char": 14540
+    },
+    {
+      "text": "CMDA",
+      "label": "ORG",
+      "start_char": 14575,
+      "end_char": 14579
+    },
+    {
+      "text": "Tushar Mehta",
+      "label": "OTHER_PERSON",
+      "start_char": 14798,
+      "end_char": 14810
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 14841,
+      "end_char": 14846
+    },
+    {
+      "text": "CMDA",
+      "label": "STATUTE",
+      "start_char": 15122,
+      "end_char": 15126
+    },
+    {
+      "text": "CMDA",
+      "label": "STATUTE",
+      "start_char": 15660,
+      "end_char": 15664
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 15707,
+      "end_char": 15712
+    },
+    {
+      "text": "CMDA",
+      "label": "ORG",
+      "start_char": 16118,
+      "end_char": 16122
+    },
+    {
+      "text": "CMDA",
+      "label": "STATUTE",
+      "start_char": 16264,
+      "end_char": 16268
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 16311,
+      "end_char": 16316
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 16459,
+      "end_char": 16469
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 16477,
+      "end_char": 16492
+    },
+    {
+      "text": "Tushar Mehta",
+      "label": "OTHER_PERSON",
+      "start_char": 16536,
+      "end_char": 16548
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 16579,
+      "end_char": 16584
+    },
+    {
+      "text": "ONGC v. Saw Pipes Limited, reported in (2003) 5",
+      "label": "PRECEDENT",
+      "start_char": 16651,
+      "end_char": 16698
+    },
+    {
+      "text": "Hindustan Zinc Limited v. Friends Coal Carbonisation, reported in (2006) 4 SCC 445",
+      "label": "PRECEDENT",
+      "start_char": 16708,
+      "end_char": 16790
+    },
+    {
+      "text": "Associate Builders v. DDA, reported in (2015) 3 SCC 49",
+      "label": "PRECEDENT",
+      "start_char": 16795,
+      "end_char": 16849
+    },
+    {
+      "text": "Tushar Mehta",
+      "label": "OTHER_PERSON",
+      "start_char": 16955,
+      "end_char": 16967
+    },
+    {
+      "text": "CMDA",
+      "label": "COURT",
+      "start_char": 17274,
+      "end_char": 17278
+    },
+    {
+      "text": "25.03.2013",
+      "label": "DATE",
+      "start_char": 17380,
+      "end_char": 17390
+    },
+    {
+      "text": "25.03.2013",
+      "label": "DATE",
+      "start_char": 17599,
+      "end_char": 17609
+    },
+    {
+      "text": "25.03.2013",
+      "label": "DATE",
+      "start_char": 17754,
+      "end_char": 17764
+    },
+    {
+      "text": "CMDA",
+      "label": "STATUTE",
+      "start_char": 17792,
+      "end_char": 17796
+    },
+    {
+      "text": "25.03.2013",
+      "label": "DATE",
+      "start_char": 17990,
+      "end_char": 18000
+    },
+    {
+      "text": "25.06.2011",
+      "label": "DATE",
+      "start_char": 18178,
+      "end_char": 18188
+    },
+    {
+      "text": "25.06.2011",
+      "label": "DATE",
+      "start_char": 18231,
+      "end_char": 18241
+    },
+    {
+      "text": "31.03.2012",
+      "label": "DATE",
+      "start_char": 18245,
+      "end_char": 18255
+    },
+    {
+      "text": "25.03.2013",
+      "label": "DATE",
+      "start_char": 18302,
+      "end_char": 18312
+    },
+    {
+      "text": "25.03.2013",
+      "label": "DATE",
+      "start_char": 18358,
+      "end_char": 18368
+    },
+    {
+      "text": "31.03.2013",
+      "label": "DATE",
+      "start_char": 18372,
+      "end_char": 18382
+    },
+    {
+      "text": "25.06.2011",
+      "label": "DATE",
+      "start_char": 18445,
+      "end_char": 18455
+    },
+    {
+      "text": "25.03.2013",
+      "label": "DATE",
+      "start_char": 18594,
+      "end_char": 18604
+    },
+    {
+      "text": "CMDA",
+      "label": "STATUTE",
+      "start_char": 18771,
+      "end_char": 18775
+    },
+    {
+      "text": "25.03.2013",
+      "label": "DATE",
+      "start_char": 18930,
+      "end_char": 18940
+    },
+    {
+      "text": "CMDA",
+      "label": "STATUTE",
+      "start_char": 19155,
+      "end_char": 19159
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 19287,
+      "end_char": 19292
+    },
+    {
+      "text": "Ministry of Coal",
+      "label": "ORG",
+      "start_char": 19946,
+      "end_char": 19962
+    },
+    {
+      "text": "Ministry of Coal",
+      "label": "ORG",
+      "start_char": 20122,
+      "end_char": 20138
+    },
+    {
+      "text": "CMDA",
+      "label": "STATUTE",
+      "start_char": 20376,
+      "end_char": 20380
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 20833,
+      "end_char": 20843
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 20851,
+      "end_char": 20866
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 21276,
+      "end_char": 21286
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 21294,
+      "end_char": 21309
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 21750,
+      "end_char": 21760
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 21768,
+      "end_char": 21783
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 21999,
+      "end_char": 22004
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 22161,
+      "end_char": 22166
+    },
+    {
+      "text": "Section 28(3)",
+      "label": "PROVISION",
+      "start_char": 22231,
+      "end_char": 22244
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 22252,
+      "end_char": 22267
+    },
+    {
+      "text": "McDermott International Inc. v. Burn Standard Co. Ltd., reported in (2006) 11 SCC 181 (paras 112­113)",
+      "label": "PRECEDENT",
+      "start_char": 22334,
+      "end_char": 22435
+    },
+    {
+      "text": "Rashtriya Ispat Nigam Limited v. Dewan Chand Ram Saran, reported in (2012) 5 SCC 306 (paras 43­45)",
+      "label": "PRECEDENT",
+      "start_char": 22440,
+      "end_char": 22538
+    },
+    {
+      "text": "National Highways Authority of India v. ITD Cementation India Limited, reported in (2015) 14 SCC 21(para 25)",
+      "label": "PRECEDENT",
+      "start_char": 23766,
+      "end_char": 23874
+    },
+    {
+      "text": "Steel Authority of India Limited v. Gupta Brother Steel Tubes Limited, reported in (2009) 10 SCC 63 (para 29)",
+      "label": "PRECEDENT",
+      "start_char": 23879,
+      "end_char": 23988
+    },
+    {
+      "text": "25.06.2011",
+      "label": "DATE",
+      "start_char": 24708,
+      "end_char": 24718
+    },
+    {
+      "text": "F.Y. 2013­14",
+      "label": "CASE_NUMBER",
+      "start_char": 24868,
+      "end_char": 24880
+    },
+    {
+      "text": "25.06.2011",
+      "label": "DATE",
+      "start_char": 24984,
+      "end_char": 24994
+    },
+    {
+      "text": "25.03.2013",
+      "label": "DATE",
+      "start_char": 24998,
+      "end_char": 25008
+    },
+    {
+      "text": "25.06.2011",
+      "label": "DATE",
+      "start_char": 25406,
+      "end_char": 25416
+    },
+    {
+      "text": "25.03.2013",
+      "label": "DATE",
+      "start_char": 25440,
+      "end_char": 25450
+    },
+    {
+      "text": "5.2.2",
+      "label": "DATE",
+      "start_char": 26503,
+      "end_char": 26508
+    },
+    {
+      "text": "5.4.3",
+      "label": "DATE",
+      "start_char": 26519,
+      "end_char": 26524
+    },
+    {
+      "text": "25.06.2011",
+      "label": "DATE",
+      "start_char": 26534,
+      "end_char": 26544
+    },
+    {
+      "text": "Ministry of Coal",
+      "label": "ORG",
+      "start_char": 29164,
+      "end_char": 29180
+    },
+    {
+      "text": "Government of India",
+      "label": "ORG",
+      "start_char": 29182,
+      "end_char": 29201
+    },
+    {
+      "text": "PKCL",
+      "label": "ORG",
+      "start_char": 29753,
+      "end_char": 29757
+    },
+    {
+      "text": "Ministry of Coal",
+      "label": "ORG",
+      "start_char": 30086,
+      "end_char": 30102
+    },
+    {
+      "text": "ARUN MISHRA",
+      "label": "JUDGE",
+      "start_char": 31665,
+      "end_char": 31676
+    },
+    {
+      "text": "NEW DELHI",
+      "label": "GPE",
+      "start_char": 31680,
+      "end_char": 31689
+    },
+    {
+      "text": "MAY 27, 2019",
+      "label": "DATE",
+      "start_char": 31737,
+      "end_char": 31749
+    },
+    {
+      "text": "M.R. SHAH",
+      "label": "OTHER_PERSON",
+      "start_char": 31781,
+      "end_char": 31790
+    }
+  ],
+  "precedent_clusters": {
+    "Associate Builders v. Delhi Development Authority, reported in (2015) 3 SCC 49": [
+      "Associate Builders v. Delhi Development Authority, reported in (2015) 3 SCC 49",
+      "Associate Builders v. DDA, reported in (2015) 3 SCC 49"
+    ],
+    "ONGC v. Saw Pipes Limited, reported in (2003) 5": [
+      "Limited v. National Highways Authority of India (NHAI)",
+      "ONGC v. Saw Pipes Limited, reported in (2003) 5"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "section 34",
+      "Arbitration and Conciliation Act",
+      "section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 28(3)",
+      "Arbitration Act",
+      "Section 28(3)",
+      "Arbitration Act"
+    ],
+    [
+      "Clause 4.1.3 and 4.1.4",
+      "CMDA",
+      "Clause 4.1.3 and 4.1.4",
+      "CMDA"
+    ],
+    [
+      "5.2.2",
+      "CMDA",
+      "5.2.2",
+      "CMDA"
+    ]
+  ],
+  "precedent_counts": {
+    "Associate Builders v. Delhi Development Authority, reported in (2015) 3 SCC 49": 2,
+    "ONGC v. Saw Pipes Limited, reported in (2003) 5": 2
+  },
+  "provision_counts": {
+    "section 34 of Arbitration and Conciliation Act": 1,
+    "Section 37 of Arbitration Act": 9,
+    "Section 34 of Arbitration Act": 2,
+    "Section 28(3) of Arbitration Act": 1,
+    "Clause 4.1.3 and 4.1.4 of CMDA": 1,
+    "5.2.2 of CMDA": 1
+  },
+  "statute_counts": {
+    "Arbitration and Conciliation Act": 1,
+    "Arbitration Act": 12,
+    "CMDA": 2
+  }
+}

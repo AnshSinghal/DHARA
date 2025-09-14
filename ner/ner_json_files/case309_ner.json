@@ -1,0 +1,930 @@
+{
+  "entities": [
+    {
+      "text": "Nutrica Pusti Healthcare Pvt. Ltd.",
+      "label": "PETITIONER",
+      "start_char": 21,
+      "end_char": 55
+    },
+    {
+      "text": "Morepen Laboratories Ltd",
+      "label": "RESPONDENT",
+      "start_char": 69,
+      "end_char": 93
+    },
+    {
+      "text": "Rajiv Sahai Endlaw",
+      "label": "JUDGE",
+      "start_char": 164,
+      "end_char": 182
+    },
+    {
+      "text": "Rajiv Sahai Endlaw",
+      "label": "JUDGE",
+      "start_char": 190,
+      "end_char": 208
+    },
+    {
+      "text": "Amit Bansal",
+      "label": "LAWYER",
+      "start_char": 210,
+      "end_char": 221
+    },
+    {
+      "text": "High Court Of Delhi At New Delhi",
+      "label": "COURT",
+      "start_char": 235,
+      "end_char": 267
+    },
+    {
+      "text": "Nutrica Pusti Healthcare Pvt. Ltd.",
+      "label": "PETITIONER",
+      "start_char": 414,
+      "end_char": 448
+    },
+    {
+      "text": "Gaurav Mitra",
+      "label": "LAWYER",
+      "start_char": 544,
+      "end_char": 556
+    },
+    {
+      "text": "Karthik\n                            K.R.",
+      "label": "LAWYER",
+      "start_char": 565,
+      "end_char": 605
+    },
+    {
+      "text": "Morepen Laboratories Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 657,
+      "end_char": 682
+    },
+    {
+      "text": "Jayant Mehta",
+      "label": "LAWYER",
+      "start_char": 748,
+      "end_char": 760
+    },
+    {
+      "text": "Srijan Tiwari",
+      "label": "LAWYER",
+      "start_char": 807,
+      "end_char": 820
+    },
+    {
+      "text": "Rajiv Sahai Endlaw",
+      "label": "JUDGE",
+      "start_char": 854,
+      "end_char": 872
+    },
+    {
+      "text": "Amit Bansal",
+      "label": "JUDGE",
+      "start_char": 893,
+      "end_char": 904
+    },
+    {
+      "text": "Rajiv Sahai Endlaw",
+      "label": "JUDGE",
+      "start_char": 932,
+      "end_char": 950
+    },
+    {
+      "text": "Cs (Comm) No.245/2020",
+      "label": "CASE_NUMBER",
+      "start_char": 1217,
+      "end_char": 1238
+    },
+    {
+      "text": "Order Xxxix Rules 1&2 of",
+      "label": "PROVISION",
+      "start_char": 1367,
+      "end_char": 1391
+    },
+    {
+      "text": "Cpc",
+      "label": "STATUTE",
+      "start_char": 1396,
+      "end_char": 1399
+    },
+    {
+      "text": "23rd February, 2021",
+      "label": "DATE",
+      "start_char": 1648,
+      "end_char": 1667
+    },
+    {
+      "text": "6th January, 2021",
+      "label": "DATE",
+      "start_char": 1821,
+      "end_char": 1838
+    },
+    {
+      "text": "6th April, 2021",
+      "label": "DATE",
+      "start_char": 1849,
+      "end_char": 1864
+    },
+    {
+      "text": "24th March, 2021",
+      "label": "DATE",
+      "start_char": 1950,
+      "end_char": 1966
+    },
+    {
+      "text": "24th March, 2021",
+      "label": "DATE",
+      "start_char": 2113,
+      "end_char": 2129
+    },
+    {
+      "text": "Astrazeneca UK Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 3160,
+      "end_char": 3186
+    },
+    {
+      "text": "Orchid Chemicals and Pharmaceuticals Ltd.",
+      "label": "ORG",
+      "start_char": 3187,
+      "end_char": 3228
+    },
+    {
+      "text": "Sun Pharmaceutical Industries Ltd. V. Anglo French Drugs & Industries Ltd. MANU/DE/2261/2014 (DB)",
+      "label": "PRECEDENT",
+      "start_char": 3256,
+      "end_char": 3353
+    },
+    {
+      "text": "Macleods Pharmaceuticals Ltd.",
+      "label": "ORG",
+      "start_char": 6249,
+      "end_char": 6278
+    },
+    {
+      "text": "Swisskem Healthcare",
+      "label": "ORG",
+      "start_char": 6283,
+      "end_char": 6302
+    },
+    {
+      "text": "Astrazeneca UK Limited",
+      "label": "ORG",
+      "start_char": 6377,
+      "end_char": 6399
+    },
+    {
+      "text": "Sun Pharmaceutical Industries Pvt",
+      "label": "ORG",
+      "start_char": 6436,
+      "end_char": 6469
+    },
+    {
+      "text": "M.K. Petro Products India Pvt",
+      "label": "ORG",
+      "start_char": 6708,
+      "end_char": 6737
+    },
+    {
+      "text": "M.K. Bitumen Products 2011 (182) DLT 86",
+      "label": "PRECEDENT",
+      "start_char": 6748,
+      "end_char": 6787
+    },
+    {
+      "text": "Pawan Kumar Singh",
+      "label": "RESPONDENT",
+      "start_char": 9772,
+      "end_char": 9789
+    },
+    {
+      "text": "M.K. Petro Products India Pvt",
+      "label": "ORG",
+      "start_char": 10265,
+      "end_char": 10294
+    },
+    {
+      "text": "Himalaya Drug Company Vs.",
+      "label": "PRECEDENT",
+      "start_char": 10752,
+      "end_char": 10777
+    },
+    {
+      "text": "S.B.L. Limited",
+      "label": "ORG",
+      "start_char": 10778,
+      "end_char": 10792
+    },
+    {
+      "text": "2012 (194) DLT 536",
+      "label": "CASE_NUMBER",
+      "start_char": 10793,
+      "end_char": 10811
+    },
+    {
+      "text": "Cadila Health Care Ltd.",
+      "label": "ORG",
+      "start_char": 10819,
+      "end_char": 10842
+    },
+    {
+      "text": "Cadila Pharmaceuticals Ltd. (2001) 5 SCC 73",
+      "label": "PRECEDENT",
+      "start_char": 10847,
+      "end_char": 10890
+    },
+    {
+      "text": "Astrazeneca UK Limited",
+      "label": "ORG",
+      "start_char": 11376,
+      "end_char": 11398
+    },
+    {
+      "text": "Sun Pharmaceutical Industries Pvt",
+      "label": "ORG",
+      "start_char": 11409,
+      "end_char": 11442
+    },
+    {
+      "text": "S. Syed Mohideen Vs.",
+      "label": "PRECEDENT",
+      "start_char": 12178,
+      "end_char": 12198
+    },
+    {
+      "text": "P. Sulochana Bai (2016) 2 SCC 683",
+      "label": "PRECEDENT",
+      "start_char": 12199,
+      "end_char": 12232
+    },
+    {
+      "text": "NEOMUST",
+      "label": "ORG",
+      "start_char": 12293,
+      "end_char": 12300
+    },
+    {
+      "text": "Wander Ltd.",
+      "label": "ORG",
+      "start_char": 12923,
+      "end_char": 12934
+    },
+    {
+      "text": "Antox India P. Ltd. 1990 Supp SCC 727",
+      "label": "PRECEDENT",
+      "start_char": 12939,
+      "end_char": 12976
+    },
+    {
+      "text": "Wander Ltd.",
+      "label": "ORG",
+      "start_char": 13025,
+      "end_char": 13036
+    },
+    {
+      "text": "Cadila Health Care Ltd.",
+      "label": "ORG",
+      "start_char": 13574,
+      "end_char": 13597
+    },
+    {
+      "text": "Himalaya Drug Company",
+      "label": "ORG",
+      "start_char": 13608,
+      "end_char": 13629
+    },
+    {
+      "text": "Heinz Italia Vs.",
+      "label": "PRECEDENT",
+      "start_char": 13665,
+      "end_char": 13681
+    },
+    {
+      "text": "Dabur India Ltd. (2007) 6 SCC 1",
+      "label": "PRECEDENT",
+      "start_char": 13682,
+      "end_char": 13713
+    },
+    {
+      "text": "M.K. Petro Products India Pvt",
+      "label": "ORG",
+      "start_char": 14926,
+      "end_char": 14955
+    },
+    {
+      "text": "Pawan Kumar Singh",
+      "label": "RESPONDENT",
+      "start_char": 15177,
+      "end_char": 15194
+    },
+    {
+      "text": "Morepen",
+      "label": "OTHER_PERSON",
+      "start_char": 15816,
+      "end_char": 15823
+    },
+    {
+      "text": "Morepen",
+      "label": "OTHER_PERSON",
+      "start_char": 16035,
+      "end_char": 16042
+    },
+    {
+      "text": "M.K. Petro Products India Pvt. Ltd.",
+      "label": "ORG",
+      "start_char": 17651,
+      "end_char": 17686
+    },
+    {
+      "text": "28th October, 2020",
+      "label": "DATE",
+      "start_char": 19381,
+      "end_char": 19399
+    },
+    {
+      "text": "Wander Ltd.",
+      "label": "ORG",
+      "start_char": 23477,
+      "end_char": 23488
+    },
+    {
+      "text": "Printers (Mysore) Private Ltd.",
+      "label": "ORG",
+      "start_char": 23504,
+      "end_char": 23534
+    },
+    {
+      "text": "Pothan Joseph AIR 1960 SC 1156",
+      "label": "PRECEDENT",
+      "start_char": 23539,
+      "end_char": 23569
+    },
+    {
+      "text": "Wander Ltd.",
+      "label": "ORG",
+      "start_char": 24427,
+      "end_char": 24438
+    },
+    {
+      "text": "N.R. Dongre Vs.",
+      "label": "PRECEDENT",
+      "start_char": 24574,
+      "end_char": 24589
+    },
+    {
+      "text": "Whirlpool Corporation (1996) 5 SCC 714",
+      "label": "PRECEDENT",
+      "start_char": 24590,
+      "end_char": 24628
+    },
+    {
+      "text": "Ramdev Food Products (P) Ltd.",
+      "label": "ORG",
+      "start_char": 24630,
+      "end_char": 24659
+    },
+    {
+      "text": "Arvindbhai Rambhai Patel",
+      "label": "OTHER_PERSON",
+      "start_char": 24664,
+      "end_char": 24688
+    },
+    {
+      "text": "SCC 726",
+      "label": "PROVISION",
+      "start_char": 24698,
+      "end_char": 24705
+    },
+    {
+      "text": "Skyline Education Institute (India) Private Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 24707,
+      "end_char": 24762
+    },
+    {
+      "text": "S.L. Vaswani (2010) 2 SCC 142",
+      "label": "PRECEDENT",
+      "start_char": 24763,
+      "end_char": 24792
+    },
+    {
+      "text": "Purshottam Vishandas Raheja Vs.",
+      "label": "PRECEDENT",
+      "start_char": 24794,
+      "end_char": 24825
+    },
+    {
+      "text": "Srichand Vishandas Raheja (2011) 6 SCC 73",
+      "label": "PRECEDENT",
+      "start_char": 24826,
+      "end_char": 24867
+    },
+    {
+      "text": "Mohd",
+      "label": "GPE",
+      "start_char": 24869,
+      "end_char": 24873
+    },
+    {
+      "text": "Mehtab Khan Vs.",
+      "label": "PRECEDENT",
+      "start_char": 24875,
+      "end_char": 24890
+    },
+    {
+      "text": "Khushnuma Ibrahim Khan (2013) 9 SCC 221",
+      "label": "PRECEDENT",
+      "start_char": 24891,
+      "end_char": 24930
+    },
+    {
+      "text": "Neon Laboratories Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 24932,
+      "end_char": 24961
+    },
+    {
+      "text": "Medical Technologies Limited (2016) 2 SCC 672",
+      "label": "PRECEDENT",
+      "start_char": 24962,
+      "end_char": 25007
+    },
+    {
+      "text": "Cadila Health Care Ltd.",
+      "label": "ORG",
+      "start_char": 25009,
+      "end_char": 25032
+    },
+    {
+      "text": "Heinz Italia",
+      "label": "OTHER_PERSON",
+      "start_char": 25037,
+      "end_char": 25049
+    },
+    {
+      "text": "Astrazeneca UK Limited",
+      "label": "ORG",
+      "start_char": 25161,
+      "end_char": 25183
+    },
+    {
+      "text": "MEROMER",
+      "label": "ORG",
+      "start_char": 25229,
+      "end_char": 25236
+    },
+    {
+      "text": "Macleods Pharmaceuticals Ltd.",
+      "label": "ORG",
+      "start_char": 25960,
+      "end_char": 25989
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 26023,
+      "end_char": 26040
+    },
+    {
+      "text": "Remidex Pharma Private Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 28890,
+      "end_char": 28924
+    },
+    {
+      "text": "Savita Pharmaceuticals P. Ltd. (2006) 131 DLT 350",
+      "label": "PRECEDENT",
+      "start_char": 28925,
+      "end_char": 28974
+    },
+    {
+      "text": "United Biotech Pvt",
+      "label": "ORG",
+      "start_char": 29038,
+      "end_char": 29056
+    },
+    {
+      "text": "Orchid Chemicals & Pharmaceuticals Ltd. 2012 SCC OnLine Del 2942 (DB)",
+      "label": "PRECEDENT",
+      "start_char": 29067,
+      "end_char": 29136
+    },
+    {
+      "text": "Merck Kgaa Vs.",
+      "label": "PRECEDENT",
+      "start_char": 29202,
+      "end_char": 29216
+    },
+    {
+      "text": "Emil Pharmaceutical Inds",
+      "label": "ORG",
+      "start_char": 29217,
+      "end_char": 29241
+    },
+    {
+      "text": "Pvt. Ltd. 2014 SCC OnLine Del 6733",
+      "label": "PRECEDENT",
+      "start_char": 29243,
+      "end_char": 29277
+    },
+    {
+      "text": "Merck Kgaa Vs.",
+      "label": "PRECEDENT",
+      "start_char": 29343,
+      "end_char": 29357
+    },
+    {
+      "text": "Hasmukh N. Thakkar 2014 SCC OnLine Del 1938",
+      "label": "PRECEDENT",
+      "start_char": 29358,
+      "end_char": 29401
+    },
+    {
+      "text": "Mankind Pharma Ltd.",
+      "label": "ORG",
+      "start_char": 29483,
+      "end_char": 29502
+    },
+    {
+      "text": "Cadila Pharmaceuticals Ltd. 2015 SCC OnLine Del 6914",
+      "label": "PRECEDENT",
+      "start_char": 29507,
+      "end_char": 29559
+    },
+    {
+      "text": "Sun Pharma Laboratories Ltd.",
+      "label": "ORG",
+      "start_char": 29638,
+      "end_char": 29666
+    },
+    {
+      "text": "Intas Pharamceuticals Limited",
+      "label": "ORG",
+      "start_char": 29671,
+      "end_char": 29700
+    },
+    {
+      "text": "FAO(OS)(COMM) No. 170/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 29727,
+      "end_char": 29753
+    },
+    {
+      "text": "7th August, 2019",
+      "label": "DATE",
+      "start_char": 29792,
+      "end_char": 29808
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 29911,
+      "end_char": 29928
+    },
+    {
+      "text": "Macleods Pharmaceuticals Ltd.",
+      "label": "ORG",
+      "start_char": 29935,
+      "end_char": 29964
+    },
+    {
+      "text": "Charak Pharma Pvt",
+      "label": "ORG",
+      "start_char": 30135,
+      "end_char": 30152
+    },
+    {
+      "text": "Glenmark Pharmaceuticals Ltd. 2014 SCC OnLine Bom 98",
+      "label": "PRECEDENT",
+      "start_char": 30163,
+      "end_char": 30215
+    },
+    {
+      "text": "Lupin Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 30289,
+      "end_char": 30306
+    },
+    {
+      "text": "Eris Lifesciences Pvt",
+      "label": "ORG",
+      "start_char": 30307,
+      "end_char": 30328
+    },
+    {
+      "text": "2015 SCC Online Bom 6807",
+      "label": "PRECEDENT",
+      "start_char": 30335,
+      "end_char": 30359
+    },
+    {
+      "text": "Sun Pharmaceutical Industries Pvt. Ltd.",
+      "label": "ORG",
+      "start_char": 30444,
+      "end_char": 30483
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 30602,
+      "end_char": 30615
+    },
+    {
+      "text": "Special Leave to Appeal (Civil) No.33164/2014",
+      "label": "CASE_NUMBER",
+      "start_char": 30621,
+      "end_char": 30666
+    },
+    {
+      "text": "5th July, 2016",
+      "label": "DATE",
+      "start_char": 30704,
+      "end_char": 30718
+    },
+    {
+      "text": "4th April, 2016",
+      "label": "DATE",
+      "start_char": 30747,
+      "end_char": 30762
+    },
+    {
+      "text": "Sun Pharmaceutical Industries Pvt",
+      "label": "ORG",
+      "start_char": 30920,
+      "end_char": 30953
+    },
+    {
+      "text": "British India Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 31587,
+      "end_char": 31617
+    },
+    {
+      "text": "Khairati Ram AIR 2000",
+      "label": "OTHER_PERSON",
+      "start_char": 31622,
+      "end_char": 31643
+    },
+    {
+      "text": "Section 12(3)",
+      "label": "PROVISION",
+      "start_char": 31861,
+      "end_char": 31874
+    },
+    {
+      "text": "Trade Marks Act",
+      "label": "STATUTE",
+      "start_char": 31882,
+      "end_char": 31897
+    },
+    {
+      "text": "Midas Hygiene Industries (P) Ltd. Vs.",
+      "label": "PRECEDENT",
+      "start_char": 32007,
+      "end_char": 32044
+    },
+    {
+      "text": "Sudhir Bhatia (2004) 3 SCC 90",
+      "label": "PRECEDENT",
+      "start_char": 32045,
+      "end_char": 32074
+    },
+    {
+      "text": "M.K. Petro Products India Pvt. Ltd.",
+      "label": "ORG",
+      "start_char": 32308,
+      "end_char": 32343
+    },
+    {
+      "text": "Shree Sainath Industries Vs.",
+      "label": "PRECEDENT",
+      "start_char": 33004,
+      "end_char": 33032
+    },
+    {
+      "text": "Sainath Auto Industries 2004 SCC OnLine Guj 25",
+      "label": "PRECEDENT",
+      "start_char": 33033,
+      "end_char": 33079
+    },
+    {
+      "text": "Sirmour Remedies Pvt",
+      "label": "ORG",
+      "start_char": 33081,
+      "end_char": 33101
+    },
+    {
+      "text": "Kepler Healthcare Pvt. Ltd. 2014 SCC OnLine Cal 2703",
+      "label": "PRECEDENT",
+      "start_char": 33112,
+      "end_char": 33164
+    },
+    {
+      "text": "Sanofi India Ltd.",
+      "label": "ORG",
+      "start_char": 33166,
+      "end_char": 33183
+    },
+    {
+      "text": "Universal Neutraceuticals Pvt. Ltd. 215 (2014) DLT 585",
+      "label": "PRECEDENT",
+      "start_char": 33188,
+      "end_char": 33242
+    },
+    {
+      "text": "Cadila Healthcare Ltd.",
+      "label": "ORG",
+      "start_char": 33247,
+      "end_char": 33269
+    },
+    {
+      "text": "Uniza Healthcare LLP",
+      "label": "ORG",
+      "start_char": 33274,
+      "end_char": 33294
+    },
+    {
+      "text": "Heinz Italia",
+      "label": "OTHER_PERSON",
+      "start_char": 33479,
+      "end_char": 33491
+    },
+    {
+      "text": "National Bello Vs.",
+      "label": "PRECEDENT",
+      "start_char": 34609,
+      "end_char": 34627
+    },
+    {
+      "text": "Metal Goods Mfg",
+      "label": "ORG",
+      "start_char": 34628,
+      "end_char": 34643
+    },
+    {
+      "text": "Co. P. Ltd. (1970) 3 SCC 665",
+      "label": "PRECEDENT",
+      "start_char": 34645,
+      "end_char": 34673
+    },
+    {
+      "text": "Reddy's Laboratories Ltd.",
+      "label": "ORG",
+      "start_char": 34679,
+      "end_char": 34704
+    },
+    {
+      "text": "Reddy Pharmaceuticals Ltd. 2004 (76) DRJ 616",
+      "label": "PRECEDENT",
+      "start_char": 34709,
+      "end_char": 34753
+    },
+    {
+      "text": "Pankaj Goel Vs.",
+      "label": "PRECEDENT",
+      "start_char": 34755,
+      "end_char": 34770
+    },
+    {
+      "text": "Dabur India Ltd. 2008 (38) PTC 49 (Del) (DB)",
+      "label": "PRECEDENT",
+      "start_char": 34771,
+      "end_char": 34815
+    },
+    {
+      "text": "Novartis AG Vs.",
+      "label": "PRECEDENT",
+      "start_char": 34817,
+      "end_char": 34832
+    },
+    {
+      "text": "Crest Pharma Pvt. Ltd. 2009 (41) PTC 57 (Del)",
+      "label": "PRECEDENT",
+      "start_char": 34833,
+      "end_char": 34878
+    },
+    {
+      "text": "Cadila Healthcare Ltd.",
+      "label": "ORG",
+      "start_char": 34880,
+      "end_char": 34902
+    },
+    {
+      "text": "Aureate Healthcare Pvt. Ltd.",
+      "label": "ORG",
+      "start_char": 34907,
+      "end_char": 34935
+    },
+    {
+      "text": "SCC OnLine Del 3940",
+      "label": "CASE_NUMBER",
+      "start_char": 34941,
+      "end_char": 34960
+    },
+    {
+      "text": "Nuvoco Vistas Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 34965,
+      "end_char": 34995
+    },
+    {
+      "text": "J.K. Laxmi Cement Ltd.",
+      "label": "ORG",
+      "start_char": 35000,
+      "end_char": 35022
+    },
+    {
+      "text": "RAJIV SAHAI ENDLAW",
+      "label": "JUDGE",
+      "start_char": 35282,
+      "end_char": 35300
+    },
+    {
+      "text": "AMIT BANSAL",
+      "label": "JUDGE",
+      "start_char": 35305,
+      "end_char": 35316
+    },
+    {
+      "text": "APRIL 9, 2021",
+      "label": "DATE",
+      "start_char": 35321,
+      "end_char": 35334
+    },
+    {
+      "text": "21st April, 2021",
+      "label": "DATE",
+      "start_char": 35365,
+      "end_char": 35381
+    }
+  ],
+  "precedent_clusters": {
+    "Sun Pharmaceutical Industries Ltd. V. Anglo French Drugs & Industries Ltd. MANU/DE/2261/2014 (DB)": [
+      "Astrazeneca UK Limited Vs.",
+      "Sun Pharmaceutical Industries Ltd. V. Anglo French Drugs & Industries Ltd. MANU/DE/2261/2014 (DB)",
+      "Himalaya Drug Company Vs.",
+      "S. Syed Mohideen Vs.",
+      "Heinz Italia Vs.",
+      "N.R. Dongre Vs.",
+      "Skyline Education Institute (India) Private Limited Vs.",
+      "Purshottam Vishandas Raheja Vs.",
+      "Mehtab Khan Vs.",
+      "Neon Laboratories Limited Vs.",
+      "Remidex Pharma Private Limited Vs.",
+      "Merck Kgaa Vs.",
+      "Merck Kgaa Vs.",
+      "Lupin Limited Vs.",
+      "Midas Hygiene Industries (P) Ltd. Vs.",
+      "Shree Sainath Industries Vs.",
+      "National Bello Vs.",
+      "Pankaj Goel Vs.",
+      "Novartis AG Vs."
+    ],
+    "Kepler Healthcare Pvt. Ltd. 2014 SCC OnLine Cal 2703": [
+      "Pvt. Ltd. 2014 SCC OnLine Del 6733",
+      "Hasmukh N. Thakkar 2014 SCC OnLine Del 1938",
+      "Glenmark Pharmaceuticals Ltd. 2014 SCC OnLine Bom 98",
+      "Kepler Healthcare Pvt. Ltd. 2014 SCC OnLine Cal 2703"
+    ],
+    "Cadila Pharmaceuticals Ltd. 2015 SCC OnLine Del 6914": [
+      "Cadila Pharmaceuticals Ltd. 2015 SCC OnLine Del 6914",
+      "2015 SCC Online Bom 6807"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Order Xxxix Rules 1&2 of",
+      "Cpc",
+      "Order Xxxix Rules 1&2 of",
+      "Cpc"
+    ],
+    [
+      "Section 12(3)",
+      "Trade Marks Act",
+      "Section 12(3)",
+      "Trade Marks Act"
+    ],
+    [
+      "SCC 726",
+      "Cpc",
+      "SCC 726",
+      "Cpc"
+    ]
+  ],
+  "precedent_counts": {
+    "Sun Pharmaceutical Industries Ltd. V. Anglo French Drugs & Industries Ltd. MANU/DE/2261/2014 (DB)": 19,
+    "Kepler Healthcare Pvt. Ltd. 2014 SCC OnLine Cal 2703": 4,
+    "Cadila Pharmaceuticals Ltd. 2015 SCC OnLine Del 6914": 2
+  },
+  "provision_counts": {
+    "Order Xxxix Rules 1&2 of of Cpc": 1,
+    "Section 12(3) of Trade Marks Act": 1,
+    "SCC 726 of Cpc": 1
+  },
+  "statute_counts": {
+    "Cpc": 2,
+    "Trade Marks Act": 1
+  }
+}

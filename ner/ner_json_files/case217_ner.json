@@ -1,0 +1,3785 @@
+{
+  "entities": [
+    {
+      "text": "Allahabad High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 20
+    },
+    {
+      "text": "Moradabad Development Autyority",
+      "label": "PETITIONER",
+      "start_char": 21,
+      "end_char": 52
+    },
+    {
+      "text": "V.R. Construction And Engineering",
+      "label": "RESPONDENT",
+      "start_char": 60,
+      "end_char": 93
+    },
+    {
+      "text": "High Court Of Judicature At Allahabad",
+      "label": "COURT",
+      "start_char": 115,
+      "end_char": 152
+    },
+    {
+      "text": "Moradabad Development Authority",
+      "label": "PETITIONER",
+      "start_char": 279,
+      "end_char": 310
+    },
+    {
+      "text": "Krishna Mohan Asthana",
+      "label": "LAWYER",
+      "start_char": 401,
+      "end_char": 422
+    },
+    {
+      "text": "Manu Khare",
+      "label": "LAWYER",
+      "start_char": 451,
+      "end_char": 461
+    },
+    {
+      "text": "J.J. Munir",
+      "label": "JUDGE",
+      "start_char": 475,
+      "end_char": 485
+    },
+    {
+      "text": "K.M. Asthana",
+      "label": "OTHER_PERSON",
+      "start_char": 504,
+      "end_char": 516
+    },
+    {
+      "text": "Manu Khare",
+      "label": "LAWYER",
+      "start_char": 560,
+      "end_char": 570
+    },
+    {
+      "text": "Commercial Court, Moradabad",
+      "label": "COURT",
+      "start_char": 689,
+      "end_char": 716
+    },
+    {
+      "text": "05.03.2020",
+      "label": "DATE",
+      "start_char": 723,
+      "end_char": 733
+    },
+    {
+      "text": "Section 34(2)",
+      "label": "PROVISION",
+      "start_char": 813,
+      "end_char": 826
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 19961",
+      "label": "STATUTE",
+      "start_char": 834,
+      "end_char": 873
+    },
+    {
+      "text": "Moradabad Development Authority, Moradabad",
+      "label": "ORG",
+      "start_char": 934,
+      "end_char": 976
+    },
+    {
+      "text": "V.R. Construction and Engineering Company",
+      "label": "ORG",
+      "start_char": 1058,
+      "end_char": 1099
+    },
+    {
+      "text": "28.03.2009",
+      "label": "DATE",
+      "start_char": 1130,
+      "end_char": 1140
+    },
+    {
+      "text": "Naya Moradabad Yojna",
+      "label": "GPE",
+      "start_char": 1241,
+      "end_char": 1261
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 1263,
+      "end_char": 1268
+    },
+    {
+      "text": "Moradabad",
+      "label": "GPE",
+      "start_char": 1269,
+      "end_char": 1278
+    },
+    {
+      "text": "03.03.2009",
+      "label": "DATE",
+      "start_char": 1441,
+      "end_char": 1451
+    },
+    {
+      "text": "02.03.2011",
+      "label": "DATE",
+      "start_char": 1482,
+      "end_char": 1492
+    },
+    {
+      "text": "V.R. Construction and Engineering Company",
+      "label": "ORG",
+      "start_char": 1575,
+      "end_char": 1616
+    },
+    {
+      "text": "31.03.2016",
+      "label": "DATE",
+      "start_char": 1774,
+      "end_char": 1784
+    },
+    {
+      "text": "10.02.2009",
+      "label": "DATE",
+      "start_char": 1993,
+      "end_char": 2003
+    },
+    {
+      "text": "Arch Add Consultants, New Delhi",
+      "label": "ORG",
+      "start_char": 2029,
+      "end_char": 2060
+    },
+    {
+      "text": "27.02.2009",
+      "label": "DATE",
+      "start_char": 2238,
+      "end_char": 2248
+    },
+    {
+      "text": "02.03.2009",
+      "label": "DATE",
+      "start_char": 2269,
+      "end_char": 2279
+    },
+    {
+      "text": "Arch Add Consultants, New Delhi",
+      "label": "ORG",
+      "start_char": 3452,
+      "end_char": 3483
+    },
+    {
+      "text": "27.01.2016",
+      "label": "DATE",
+      "start_char": 3516,
+      "end_char": 3526
+    },
+    {
+      "text": "Kashi Vishwanath Steel Private Limited",
+      "label": "ORG",
+      "start_char": 3572,
+      "end_char": 3610
+    },
+    {
+      "text": "Arch Add Consultants,",
+      "label": "ORG",
+      "start_char": 3713,
+      "end_char": 3734
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 3735,
+      "end_char": 3744
+    },
+    {
+      "text": "09.02.2016",
+      "label": "DATE",
+      "start_char": 3915,
+      "end_char": 3925
+    },
+    {
+      "text": "Awas Evam Sahari Niyojan",
+      "label": "ORG",
+      "start_char": 3944,
+      "end_char": 3968
+    },
+    {
+      "text": "Moradabad",
+      "label": "GPE",
+      "start_char": 4173,
+      "end_char": 4182
+    },
+    {
+      "text": "10.05.2016",
+      "label": "DATE",
+      "start_char": 4235,
+      "end_char": 4245
+    },
+    {
+      "text": "Section 11(5)",
+      "label": "PROVISION",
+      "start_char": 5798,
+      "end_char": 5811
+    },
+    {
+      "text": "22.04.2017",
+      "label": "DATE",
+      "start_char": 5910,
+      "end_char": 5920
+    },
+    {
+      "text": "10.07.2017",
+      "label": "DATE",
+      "start_char": 5957,
+      "end_char": 5967
+    },
+    {
+      "text": "Moradabad Division",
+      "label": "GPE",
+      "start_char": 5993,
+      "end_char": 6011
+    },
+    {
+      "text": "19.07.2017",
+      "label": "DATE",
+      "start_char": 6414,
+      "end_char": 6424
+    },
+    {
+      "text": "21.07.2017",
+      "label": "DATE",
+      "start_char": 6626,
+      "end_char": 6636
+    },
+    {
+      "text": "Case Crime No.769",
+      "label": "CASE_NUMBER",
+      "start_char": 6693,
+      "end_char": 6710
+    },
+    {
+      "text": "Sections 420, 467, 471",
+      "label": "PROVISION",
+      "start_char": 6718,
+      "end_char": 6740
+    },
+    {
+      "text": "IPC",
+      "label": "STATUTE",
+      "start_char": 6741,
+      "end_char": 6744
+    },
+    {
+      "text": "Police Station Civil Lines, District Moradabad",
+      "label": "ORG",
+      "start_char": 6746,
+      "end_char": 6792
+    },
+    {
+      "text": "Writ Petition No.1470 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 6891,
+      "end_char": 6920
+    },
+    {
+      "text": "02.02.2018",
+      "label": "DATE",
+      "start_char": 6969,
+      "end_char": 6979
+    },
+    {
+      "text": "21st July, 2017",
+      "label": "DATE",
+      "start_char": 6993,
+      "end_char": 7008
+    },
+    {
+      "text": "21.07.2017",
+      "label": "DATE",
+      "start_char": 7437,
+      "end_char": 7447
+    },
+    {
+      "text": "Bal Kishan Gupta",
+      "label": "OTHER_PERSON",
+      "start_char": 7484,
+      "end_char": 7500
+    },
+    {
+      "text": "22.07.2017",
+      "label": "DATE",
+      "start_char": 7504,
+      "end_char": 7514
+    },
+    {
+      "text": "22.07.2017",
+      "label": "DATE",
+      "start_char": 7617,
+      "end_char": 7627
+    },
+    {
+      "text": "22.07.2017",
+      "label": "DATE",
+      "start_char": 7769,
+      "end_char": 7779
+    },
+    {
+      "text": "Moradabad",
+      "label": "GPE",
+      "start_char": 7885,
+      "end_char": 7894
+    },
+    {
+      "text": "22.07.2017",
+      "label": "DATE",
+      "start_char": 7898,
+      "end_char": 7908
+    },
+    {
+      "text": "21.07.2017",
+      "label": "DATE",
+      "start_char": 7949,
+      "end_char": 7959
+    },
+    {
+      "text": "31.07.2017",
+      "label": "DATE",
+      "start_char": 8158,
+      "end_char": 8168
+    },
+    {
+      "text": "24.07.2017",
+      "label": "DATE",
+      "start_char": 8351,
+      "end_char": 8361
+    },
+    {
+      "text": "22.07.2017",
+      "label": "DATE",
+      "start_char": 8436,
+      "end_char": 8446
+    },
+    {
+      "text": "23.07.2017",
+      "label": "DATE",
+      "start_char": 8530,
+      "end_char": 8540
+    },
+    {
+      "text": "05.05.2017",
+      "label": "DATE",
+      "start_char": 8672,
+      "end_char": 8682
+    },
+    {
+      "text": "22.07.2017",
+      "label": "DATE",
+      "start_char": 8687,
+      "end_char": 8697
+    },
+    {
+      "text": "31.07.2017",
+      "label": "DATE",
+      "start_char": 8894,
+      "end_char": 8904
+    },
+    {
+      "text": "23.07.2017",
+      "label": "DATE",
+      "start_char": 8964,
+      "end_char": 8974
+    },
+    {
+      "text": "23.07.2017",
+      "label": "DATE",
+      "start_char": 9033,
+      "end_char": 9043
+    },
+    {
+      "text": "03.08.2017",
+      "label": "DATE",
+      "start_char": 9267,
+      "end_char": 9277
+    },
+    {
+      "text": "05.08.2017",
+      "label": "DATE",
+      "start_char": 9298,
+      "end_char": 9308
+    },
+    {
+      "text": "14.08.2017",
+      "label": "DATE",
+      "start_char": 9313,
+      "end_char": 9323
+    },
+    {
+      "text": "23.07.2017",
+      "label": "DATE",
+      "start_char": 9496,
+      "end_char": 9506
+    },
+    {
+      "text": "22.07.2017",
+      "label": "DATE",
+      "start_char": 9605,
+      "end_char": 9615
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 9921,
+      "end_char": 9931
+    },
+    {
+      "text": "Arbitration Case No.41 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 9975,
+      "end_char": 10005
+    },
+    {
+      "text": "District Judge, Moradabad",
+      "label": "COURT",
+      "start_char": 10030,
+      "end_char": 10055
+    },
+    {
+      "text": "23.07.2017",
+      "label": "DATE",
+      "start_char": 10127,
+      "end_char": 10137
+    },
+    {
+      "text": "Section 47",
+      "label": "PROVISION",
+      "start_char": 10324,
+      "end_char": 10334
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 10335,
+      "end_char": 10338
+    },
+    {
+      "text": "Case No.2 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 10396,
+      "end_char": 10413
+    },
+    {
+      "text": "23.07.2017",
+      "label": "DATE",
+      "start_char": 10538,
+      "end_char": 10548
+    },
+    {
+      "text": "21.07.2017",
+      "label": "DATE",
+      "start_char": 10625,
+      "end_char": 10635
+    },
+    {
+      "text": "court of the District Judge, Moradabad",
+      "label": "COURT",
+      "start_char": 10763,
+      "end_char": 10801
+    },
+    {
+      "text": "31.08.2019",
+      "label": "DATE",
+      "start_char": 10871,
+      "end_char": 10881
+    },
+    {
+      "text": "31.08.2019",
+      "label": "DATE",
+      "start_char": 10944,
+      "end_char": 10954
+    },
+    {
+      "text": "Section 34(2)",
+      "label": "PROVISION",
+      "start_char": 11120,
+      "end_char": 11133
+    },
+    {
+      "text": "Section 47",
+      "label": "PROVISION",
+      "start_char": 11168,
+      "end_char": 11178
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 11179,
+      "end_char": 11182
+    },
+    {
+      "text": "Section 47",
+      "label": "PROVISION",
+      "start_char": 11243,
+      "end_char": 11253
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 11254,
+      "end_char": 11257
+    },
+    {
+      "text": "Section 34(2)",
+      "label": "PROVISION",
+      "start_char": 11354,
+      "end_char": 11367
+    },
+    {
+      "text": "Commercial Court, Moradabad",
+      "label": "COURT",
+      "start_char": 11430,
+      "end_char": 11457
+    },
+    {
+      "text": "31.08.2019",
+      "label": "DATE",
+      "start_char": 11464,
+      "end_char": 11474
+    },
+    {
+      "text": "Section 47",
+      "label": "PROVISION",
+      "start_char": 11517,
+      "end_char": 11527
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 11528,
+      "end_char": 11531
+    },
+    {
+      "text": "Petition (Civil) No.67 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 11563,
+      "end_char": 11593
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 11618,
+      "end_char": 11629
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 11637,
+      "end_char": 11649
+    },
+    {
+      "text": "19.02.2020",
+      "label": "DATE",
+      "start_char": 11691,
+      "end_char": 11701
+    },
+    {
+      "text": "Section 115",
+      "label": "PROVISION",
+      "start_char": 11796,
+      "end_char": 11807
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 11808,
+      "end_char": 11811
+    },
+    {
+      "text": "Civil Revision No.18 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 11838,
+      "end_char": 11866
+    },
+    {
+      "text": "31.08.2019",
+      "label": "DATE",
+      "start_char": 11919,
+      "end_char": 11929
+    },
+    {
+      "text": "Section 47",
+      "label": "PROVISION",
+      "start_char": 11973,
+      "end_char": 11983
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 11984,
+      "end_char": 11987
+    },
+    {
+      "text": "28.09.2020",
+      "label": "DATE",
+      "start_char": 12084,
+      "end_char": 12094
+    },
+    {
+      "text": "31.08.2019",
+      "label": "DATE",
+      "start_char": 12219,
+      "end_char": 12229
+    },
+    {
+      "text": "31.08.2019",
+      "label": "DATE",
+      "start_char": 12300,
+      "end_char": 12310
+    },
+    {
+      "text": "Section 34(2)",
+      "label": "PROVISION",
+      "start_char": 12416,
+      "end_char": 12429
+    },
+    {
+      "text": "05.02.2020",
+      "label": "DATE",
+      "start_char": 12452,
+      "end_char": 12462
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 12496,
+      "end_char": 12505
+    },
+    {
+      "text": "Indian Limitation Act, 1963",
+      "label": "STATUTE",
+      "start_char": 12513,
+      "end_char": 12540
+    },
+    {
+      "text": "Arbitration Petition No.1 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 12613,
+      "end_char": 12646
+    },
+    {
+      "text": "Section 34(2)",
+      "label": "PROVISION",
+      "start_char": 12819,
+      "end_char": 12832
+    },
+    {
+      "text": "05.02.2022",
+      "label": "DATE",
+      "start_char": 12881,
+      "end_char": 12891
+    },
+    {
+      "text": "03.08.2017",
+      "label": "DATE",
+      "start_char": 12953,
+      "end_char": 12963
+    },
+    {
+      "text": "Section 34(2)",
+      "label": "PROVISION",
+      "start_char": 13067,
+      "end_char": 13080
+    },
+    {
+      "text": "sub-Section (3) of Section 34",
+      "label": "PROVISION",
+      "start_char": 13116,
+      "end_char": 13145
+    },
+    {
+      "text": "sub-Section (3) of Section 34",
+      "label": "PROVISION",
+      "start_char": 13328,
+      "end_char": 13357
+    },
+    {
+      "text": "K.M. Asthana",
+      "label": "OTHER_PERSON",
+      "start_char": 13631,
+      "end_char": 13643
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 13855,
+      "end_char": 13864
+    },
+    {
+      "text": "Indian Limitation Act",
+      "label": "STATUTE",
+      "start_char": 13872,
+      "end_char": 13893
+    },
+    {
+      "text": "Asthana",
+      "label": "LAWYER",
+      "start_char": 14028,
+      "end_char": 14035
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 14128,
+      "end_char": 14138
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 14146,
+      "end_char": 14160
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 14237,
+      "end_char": 14247
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 14255,
+      "end_char": 14269
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 14335,
+      "end_char": 14345
+    },
+    {
+      "text": "Asthana",
+      "label": "LAWYER",
+      "start_char": 14849,
+      "end_char": 14856
+    },
+    {
+      "text": "02.02.2018",
+      "label": "DATE",
+      "start_char": 15061,
+      "end_char": 15071
+    },
+    {
+      "text": "Writ Petition No.1470 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 15107,
+      "end_char": 15136
+    },
+    {
+      "text": "Section 47",
+      "label": "PROVISION",
+      "start_char": 15176,
+      "end_char": 15186
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 15187,
+      "end_char": 15190
+    },
+    {
+      "text": "Section 47",
+      "label": "PROVISION",
+      "start_char": 15272,
+      "end_char": 15282
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 15283,
+      "end_char": 15286
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 15357,
+      "end_char": 15368
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 15376,
+      "end_char": 15388
+    },
+    {
+      "text": "Asthana",
+      "label": "LAWYER",
+      "start_char": 15720,
+      "end_char": 15727
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 15773,
+      "end_char": 15786
+    },
+    {
+      "text": "Gulbarga University v. Mallikarjun S. Kodagali and another2",
+      "label": "PRECEDENT",
+      "start_char": 15790,
+      "end_char": 15849
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 15883,
+      "end_char": 15893
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 15901,
+      "end_char": 15915
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 15958,
+      "end_char": 15968
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 16016,
+      "end_char": 16025
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 16033,
+      "end_char": 16047
+    },
+    {
+      "text": "sub-Section (3) of Section 34, Section 14",
+      "label": "PROVISION",
+      "start_char": 16104,
+      "end_char": 16145
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 16153,
+      "end_char": 16167
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 16197,
+      "end_char": 16207
+    },
+    {
+      "text": "Gulbarga University",
+      "label": "PRECEDENT",
+      "start_char": 16354,
+      "end_char": 16373
+    },
+    {
+      "text": "M.P. Raju",
+      "label": "OTHER_PERSON",
+      "start_char": 16391,
+      "end_char": 16400
+    },
+    {
+      "text": "Union of India v. Popular Construction Co.",
+      "label": "PRECEDENT",
+      "start_char": 16513,
+      "end_char": 16555
+    },
+    {
+      "text": "[(2001) 8 SCC 470 : AIR 2001 SC 4010]",
+      "label": "PRECEDENT",
+      "start_char": 16556,
+      "end_char": 16593
+    },
+    {
+      "text": "State of Goa v. Western Builders",
+      "label": "PRECEDENT",
+      "start_char": 16689,
+      "end_char": 16721
+    },
+    {
+      "text": "(2006) 6 SCC 239",
+      "label": "PRECEDENT",
+      "start_char": 16723,
+      "end_char": 16739
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 16806,
+      "end_char": 16816
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 16824,
+      "end_char": 16838
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 16892,
+      "end_char": 16930
+    },
+    {
+      "text": "Section 43",
+      "label": "PROVISION",
+      "start_char": 16932,
+      "end_char": 16942
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 16950,
+      "end_char": 16988
+    },
+    {
+      "text": "Limitation Act, 1963",
+      "label": "STATUTE",
+      "start_char": 17011,
+      "end_char": 17031
+    },
+    {
+      "text": "Section 43",
+      "label": "PROVISION",
+      "start_char": 17158,
+      "end_char": 17168
+    },
+    {
+      "text": "Limitation Act, 1963",
+      "label": "STATUTE",
+      "start_char": 17192,
+      "end_char": 17212
+    },
+    {
+      "text": "sub-section (2) of Section 29",
+      "label": "PROVISION",
+      "start_char": 17257,
+      "end_char": 17286
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 17294,
+      "end_char": 17308
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 17523,
+      "end_char": 17537
+    },
+    {
+      "text": "sub-section (2) of Section 34",
+      "label": "PROVISION",
+      "start_char": 17644,
+      "end_char": 17673
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 17858,
+      "end_char": 17896
+    },
+    {
+      "text": "sub-section (3) of Section 34",
+      "label": "PROVISION",
+      "start_char": 18141,
+      "end_char": 18170
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 18412,
+      "end_char": 18421
+    },
+    {
+      "text": "Limitation Act, 1963",
+      "label": "STATUTE",
+      "start_char": 18429,
+      "end_char": 18449
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 18515,
+      "end_char": 18529
+    },
+    {
+      "text": "sub-section (2) of Section 29",
+      "label": "PROVISION",
+      "start_char": 18565,
+      "end_char": 18594
+    },
+    {
+      "text": "sub-section (2) of Section 29",
+      "label": "PROVISION",
+      "start_char": 18793,
+      "end_char": 18822
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 18830,
+      "end_char": 18844
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 18886,
+      "end_char": 18895
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 18903,
+      "end_char": 18917
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 18928,
+      "end_char": 18937
+    },
+    {
+      "text": "Popular Construction [(2001) 8 SCC 470 : AIR 2001 SC 4010]",
+      "label": "PRECEDENT",
+      "start_char": 19415,
+      "end_char": 19473
+    },
+    {
+      "text": "National Aluminium Co. Ltd. v. Pressteel & Fabrications (P) Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 19478,
+      "end_char": 19542
+    },
+    {
+      "text": "(2004) 1 SCC 540]",
+      "label": "PRECEDENT",
+      "start_char": 19544,
+      "end_char": 19561
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 19766,
+      "end_char": 19804
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 19853,
+      "end_char": 19863
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 19871,
+      "end_char": 19885
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 19963,
+      "end_char": 20001
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 20376,
+      "end_char": 20386
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 20394,
+      "end_char": 20408
+    },
+    {
+      "text": "Section 43",
+      "label": "PROVISION",
+      "start_char": 20514,
+      "end_char": 20524
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 20532,
+      "end_char": 20570
+    },
+    {
+      "text": "Limitation Act, 1963",
+      "label": "STATUTE",
+      "start_char": 20583,
+      "end_char": 20603
+    },
+    {
+      "text": "sub-section (2) of Section 29",
+      "label": "PROVISION",
+      "start_char": 20640,
+      "end_char": 20669
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 20677,
+      "end_char": 20691
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 20777,
+      "end_char": 20815
+    },
+    {
+      "text": "sub-section (2) of Section 29",
+      "label": "PROVISION",
+      "start_char": 20900,
+      "end_char": 20929
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 20937,
+      "end_char": 20951
+    },
+    {
+      "text": "Representation of the People Act",
+      "label": "STATUTE",
+      "start_char": 20990,
+      "end_char": 21022
+    },
+    {
+      "text": "Criminal Procedure Code",
+      "label": "STATUTE",
+      "start_char": 21048,
+      "end_char": 21071
+    },
+    {
+      "text": "sub-section (2) of Section 29",
+      "label": "PROVISION",
+      "start_char": 21239,
+      "end_char": 21268
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 21276,
+      "end_char": 21290
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 21318,
+      "end_char": 21332
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 21458,
+      "end_char": 21468
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 21697,
+      "end_char": 21706
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 21714,
+      "end_char": 21728
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 21822,
+      "end_char": 21832
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 21840,
+      "end_char": 21854
+    },
+    {
+      "text": "Union of India v. Bhavna Engg",
+      "label": "PRECEDENT",
+      "start_char": 22058,
+      "end_char": 22087
+    },
+    {
+      "text": "(2008) 13 SCC 546 : (2007) 5 Raj 458]",
+      "label": "PRECEDENT",
+      "start_char": 22094,
+      "end_char": 22131
+    },
+    {
+      "text": "State of Goa v. Western Builders [(2006) 6 SCC 239]",
+      "label": "PRECEDENT",
+      "start_char": 22215,
+      "end_char": 22266
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 22277,
+      "end_char": 22287
+    },
+    {
+      "text": "Limitation Act, 1963",
+      "label": "STATUTE",
+      "start_char": 22295,
+      "end_char": 22315
+    },
+    {
+      "text": "Madhya Pradesh High Court",
+      "label": "COURT",
+      "start_char": 22500,
+      "end_char": 22525
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 22534,
+      "end_char": 22551
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 22696,
+      "end_char": 22706
+    },
+    {
+      "text": "Additional District Judge, Gwalior",
+      "label": "COURT",
+      "start_char": 22738,
+      "end_char": 22772
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 22795,
+      "end_char": 22812
+    },
+    {
+      "text": "sub-section (2) of Section 34",
+      "label": "PROVISION",
+      "start_char": 23000,
+      "end_char": 23029
+    },
+    {
+      "text": "Sub-section (3) of Section 34",
+      "label": "PROVISION",
+      "start_char": 23139,
+      "end_char": 23168
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 23241,
+      "end_char": 23251
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 23495,
+      "end_char": 23505
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 23513,
+      "end_char": 23527
+    },
+    {
+      "text": "Western Builders [(2006) 6 SCC 239]",
+      "label": "PRECEDENT",
+      "start_char": 23568,
+      "end_char": 23603
+    },
+    {
+      "text": "sub-section (2) of Section 29",
+      "label": "PROVISION",
+      "start_char": 23616,
+      "end_char": 23645
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 23713,
+      "end_char": 23723
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 23731,
+      "end_char": 23745
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 23846,
+      "end_char": 23856
+    },
+    {
+      "text": "Limitation Act, 1963",
+      "label": "STATUTE",
+      "start_char": 23864,
+      "end_char": 23884
+    },
+    {
+      "text": "Manu Khare",
+      "label": "LAWYER",
+      "start_char": 24036,
+      "end_char": 24046
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 24254,
+      "end_char": 24264
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 24320,
+      "end_char": 24329
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 24337,
+      "end_char": 24351
+    },
+    {
+      "text": "Khare",
+      "label": "LAWYER",
+      "start_char": 24430,
+      "end_char": 24435
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 24735,
+      "end_char": 24744
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 24752,
+      "end_char": 24766
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 24843,
+      "end_char": 24853
+    },
+    {
+      "text": "sub-Section (3) of Section 34",
+      "label": "PROVISION",
+      "start_char": 24900,
+      "end_char": 24929
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 25030,
+      "end_char": 25043
+    },
+    {
+      "text": "Union of India v. Popular Construction Co.3",
+      "label": "PRECEDENT",
+      "start_char": 25047,
+      "end_char": 25090
+    },
+    {
+      "text": "Consolidated Engineering Enterprises v. Principal Secretary, Irrigation Department and others4",
+      "label": "PRECEDENT",
+      "start_char": 25092,
+      "end_char": 25186
+    },
+    {
+      "text": "P. Radha Bai and others v. P. Ashok Kumar and another5",
+      "label": "PRECEDENT",
+      "start_char": 25188,
+      "end_char": 25242
+    },
+    {
+      "text": "National Spot Exchange Limited v. Anil Kohli6",
+      "label": "PRECEDENT",
+      "start_char": 25247,
+      "end_char": 25292
+    },
+    {
+      "text": "Union of India v. Popular Construction Co.",
+      "label": "PRECEDENT",
+      "start_char": 25302,
+      "end_char": 25344
+    },
+    {
+      "text": "Section 34(1)",
+      "label": "PROVISION",
+      "start_char": 25390,
+      "end_char": 25403
+    },
+    {
+      "text": "Section 34, sub-section (3)",
+      "label": "PROVISION",
+      "start_char": 25749,
+      "end_char": 25776
+    },
+    {
+      "text": "Section 34(1)",
+      "label": "PROVISION",
+      "start_char": 25870,
+      "end_char": 25883
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 26019,
+      "end_char": 26029
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 26065,
+      "end_char": 26075
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 26175,
+      "end_char": 26185
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 26240,
+      "end_char": 26269
+    },
+    {
+      "text": "Arbitration Act, 1940",
+      "label": "STATUTE",
+      "start_char": 26387,
+      "end_char": 26408
+    },
+    {
+      "text": "Section 17)",
+      "label": "PROVISION",
+      "start_char": 26618,
+      "end_char": 26629
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 26678,
+      "end_char": 26688
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 26872,
+      "end_char": 26882
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 27019,
+      "end_char": 27028
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 27036,
+      "end_char": 27050
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 27198,
+      "end_char": 27207
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 27215,
+      "end_char": 27229
+    },
+    {
+      "text": "Section 34(2)",
+      "label": "PROVISION",
+      "start_char": 27270,
+      "end_char": 27283
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 27304,
+      "end_char": 27314
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 27322,
+      "end_char": 27336
+    },
+    {
+      "text": "sub-section (3) of Section 34",
+      "label": "PROVISION",
+      "start_char": 27454,
+      "end_char": 27483
+    },
+    {
+      "text": "sub-section (2) of Section 34",
+      "label": "PROVISION",
+      "start_char": 27609,
+      "end_char": 27638
+    },
+    {
+      "text": "Section 29(2)",
+      "label": "PROVISION",
+      "start_char": 28052,
+      "end_char": 28065
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 28073,
+      "end_char": 28087
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 28300,
+      "end_char": 28309
+    },
+    {
+      "text": "Sections 4 to 24",
+      "label": "PROVISION",
+      "start_char": 28546,
+      "end_char": 28562
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 28952,
+      "end_char": 28966
+    },
+    {
+      "text": "sub-section (3) of Section 34",
+      "label": "PROVISION",
+      "start_char": 29037,
+      "end_char": 29066
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 29337,
+      "end_char": 29346
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 29354,
+      "end_char": 29368
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 29422,
+      "end_char": 29431
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 29439,
+      "end_char": 29453
+    },
+    {
+      "text": "Section 29(2)",
+      "label": "PROVISION",
+      "start_char": 29499,
+      "end_char": 29512
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 29520,
+      "end_char": 29534
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 29576,
+      "end_char": 29585
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 29593,
+      "end_char": 29607
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 29656,
+      "end_char": 29666
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 29747,
+      "end_char": 29757
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 29765,
+      "end_char": 29779
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 29843,
+      "end_char": 29853
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 29879,
+      "end_char": 29889
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 29897,
+      "end_char": 29911
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 30105,
+      "end_char": 30115
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 30824,
+      "end_char": 30834
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 30842,
+      "end_char": 30856
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 31110,
+      "end_char": 31120
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 31273,
+      "end_char": 31283
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 31803,
+      "end_char": 31813
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 32261,
+      "end_char": 32271
+    },
+    {
+      "text": "Union of India v. Popular Construction Co.",
+      "label": "PRECEDENT",
+      "start_char": 32483,
+      "end_char": 32525
+    },
+    {
+      "text": "[(2001) 8 SCC 470]",
+      "label": "PRECEDENT",
+      "start_char": 32526,
+      "end_char": 32544
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 32590,
+      "end_char": 32600
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 32608,
+      "end_char": 32622
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 32669,
+      "end_char": 32679
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 32758,
+      "end_char": 32767
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 32775,
+      "end_char": 32789
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 32853,
+      "end_char": 32863
+    },
+    {
+      "text": "Section 29(2)",
+      "label": "PROVISION",
+      "start_char": 32876,
+      "end_char": 32889
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 32897,
+      "end_char": 32911
+    },
+    {
+      "text": "Sections 4 to 24",
+      "label": "PROVISION",
+      "start_char": 33106,
+      "end_char": 33122
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 33321,
+      "end_char": 33330
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 33338,
+      "end_char": 33352
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 33487,
+      "end_char": 33497
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 33505,
+      "end_char": 33519
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 33589,
+      "end_char": 33599
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 33725,
+      "end_char": 33735
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 33743,
+      "end_char": 33757
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 33788,
+      "end_char": 33798
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 33928,
+      "end_char": 33937
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 33945,
+      "end_char": 33959
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 33998,
+      "end_char": 34008
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 34089,
+      "end_char": 34098
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 34130,
+      "end_char": 34140
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 34217,
+      "end_char": 34226
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 34256,
+      "end_char": 34266
+    },
+    {
+      "text": "Sections 5 and 14",
+      "label": "PROVISION",
+      "start_char": 34481,
+      "end_char": 34498
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 34528,
+      "end_char": 34538
+    },
+    {
+      "text": "Popular Construction Co.",
+      "label": "ORG",
+      "start_char": 34842,
+      "end_char": 34866
+    },
+    {
+      "text": "[(2001) 8 SCC 470]",
+      "label": "PRECEDENT",
+      "start_char": 34867,
+      "end_char": 34885
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 34915,
+      "end_char": 34925
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 34933,
+      "end_char": 34947
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 35009,
+      "end_char": 35019
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 35066,
+      "end_char": 35076
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 35084,
+      "end_char": 35098
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 35360,
+      "end_char": 35370
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 35808,
+      "end_char": 35818
+    },
+    {
+      "text": "Section 2(h)",
+      "label": "PROVISION",
+      "start_char": 35961,
+      "end_char": 35973
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 35981,
+      "end_char": 35995
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 36123,
+      "end_char": 36133
+    },
+    {
+      "text": "Section 34(3)",
+      "label": "PROVISION",
+      "start_char": 36872,
+      "end_char": 36885
+    },
+    {
+      "text": "Sections 4 to 24",
+      "label": "PROVISION",
+      "start_char": 36932,
+      "end_char": 36948
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 36956,
+      "end_char": 36970
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 37024,
+      "end_char": 37034
+    },
+    {
+      "text": "Section 29(2)",
+      "label": "PROVISION",
+      "start_char": 37199,
+      "end_char": 37212
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 37220,
+      "end_char": 37234
+    },
+    {
+      "text": "Sections 4 to 24",
+      "label": "PROVISION",
+      "start_char": 37262,
+      "end_char": 37278
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 37286,
+      "end_char": 37300
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 37422,
+      "end_char": 37436
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 37523,
+      "end_char": 37537
+    },
+    {
+      "text": "sub-Section (3) of Section 34",
+      "label": "PROVISION",
+      "start_char": 37629,
+      "end_char": 37658
+    },
+    {
+      "text": "Section 34(2)",
+      "label": "PROVISION",
+      "start_char": 37833,
+      "end_char": 37846
+    },
+    {
+      "text": "sub-Section (3) of Section 34",
+      "label": "PROVISION",
+      "start_char": 38098,
+      "end_char": 38127
+    },
+    {
+      "text": "sub-Section (3) of Section 34",
+      "label": "PROVISION",
+      "start_char": 38179,
+      "end_char": 38208
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 38527,
+      "end_char": 38536
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 38544,
+      "end_char": 38558
+    },
+    {
+      "text": "Section 34(2)",
+      "label": "PROVISION",
+      "start_char": 38767,
+      "end_char": 38780
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 38842,
+      "end_char": 38852
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 38860,
+      "end_char": 38874
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 39091,
+      "end_char": 39101
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 39109,
+      "end_char": 39123
+    },
+    {
+      "text": "M.P. Steel Corporation v. Commissioner of Central Excise7",
+      "label": "PRECEDENT",
+      "start_char": 39186,
+      "end_char": 39243
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 39380,
+      "end_char": 39390
+    },
+    {
+      "text": "A.K. Sanghi",
+      "label": "OTHER_PERSON",
+      "start_char": 39414,
+      "end_char": 39425
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 39567,
+      "end_char": 39577
+    },
+    {
+      "text": "(2008) 7 SCC 169]",
+      "label": "PRECEDENT",
+      "start_char": 39716,
+      "end_char": 39733
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 39779,
+      "end_char": 39789
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 39797,
+      "end_char": 39811
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 40005,
+      "end_char": 40015
+    },
+    {
+      "text": "A.K. Sanghi",
+      "label": "OTHER_PERSON",
+      "start_char": 40502,
+      "end_char": 40513
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 40768,
+      "end_char": 40778
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 40786,
+      "end_char": 40800
+    },
+    {
+      "text": "M.P. Steel Corporation",
+      "label": "PRECEDENT",
+      "start_char": 40938,
+      "end_char": 40960
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 41058,
+      "end_char": 41068
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 41076,
+      "end_char": 41090
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 41172,
+      "end_char": 41182
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 41628,
+      "end_char": 41637
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 41645,
+      "end_char": 41659
+    },
+    {
+      "text": "proviso to Section 43(3)",
+      "label": "PROVISION",
+      "start_char": 41688,
+      "end_char": 41712
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 41787,
+      "end_char": 41797
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 41805,
+      "end_char": 41819
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 42340,
+      "end_char": 42350
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 42358,
+      "end_char": 42372
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 42503,
+      "end_char": 42513
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 42521,
+      "end_char": 42535
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 42813,
+      "end_char": 42823
+    },
+    {
+      "text": "M.P. Steel Corporation",
+      "label": "ORG",
+      "start_char": 43352,
+      "end_char": 43374
+    },
+    {
+      "text": "23.07.2017",
+      "label": "DATE",
+      "start_char": 43509,
+      "end_char": 43519
+    },
+    {
+      "text": "03.08.2017",
+      "label": "DATE",
+      "start_char": 43561,
+      "end_char": 43571
+    },
+    {
+      "text": "21.07.2017",
+      "label": "DATE",
+      "start_char": 43615,
+      "end_char": 43625
+    },
+    {
+      "text": "02.02.2018",
+      "label": "DATE",
+      "start_char": 43684,
+      "end_char": 43694
+    },
+    {
+      "text": "21.07.2017",
+      "label": "DATE",
+      "start_char": 44342,
+      "end_char": 44352
+    },
+    {
+      "text": "23.07.2017",
+      "label": "DATE",
+      "start_char": 44383,
+      "end_char": 44393
+    },
+    {
+      "text": "Section 47",
+      "label": "PROVISION",
+      "start_char": 44655,
+      "end_char": 44665
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 44666,
+      "end_char": 44669
+    },
+    {
+      "text": "08.05.2019",
+      "label": "DATE",
+      "start_char": 44734,
+      "end_char": 44744
+    },
+    {
+      "text": "08.05.2019",
+      "label": "DATE",
+      "start_char": 44822,
+      "end_char": 44832
+    },
+    {
+      "text": "08.05.2019",
+      "label": "DATE",
+      "start_char": 45014,
+      "end_char": 45024
+    },
+    {
+      "text": "Section 47",
+      "label": "PROVISION",
+      "start_char": 45154,
+      "end_char": 45164
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 45165,
+      "end_char": 45168
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 45311,
+      "end_char": 45322
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 45370,
+      "end_char": 45381
+    },
+    {
+      "text": "Section 115",
+      "label": "PROVISION",
+      "start_char": 45460,
+      "end_char": 45471
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 45472,
+      "end_char": 45475
+    },
+    {
+      "text": "Section 47",
+      "label": "PROVISION",
+      "start_char": 45612,
+      "end_char": 45622
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 45623,
+      "end_char": 45626
+    },
+    {
+      "text": "08.05.2019",
+      "label": "DATE",
+      "start_char": 45691,
+      "end_char": 45701
+    },
+    {
+      "text": "Section 34(2)",
+      "label": "PROVISION",
+      "start_char": 45840,
+      "end_char": 45853
+    },
+    {
+      "text": "03.08.2017",
+      "label": "DATE",
+      "start_char": 45993,
+      "end_char": 46003
+    },
+    {
+      "text": "08.05.2019",
+      "label": "DATE",
+      "start_char": 46008,
+      "end_char": 46018
+    },
+    {
+      "text": "Section 47",
+      "label": "PROVISION",
+      "start_char": 46082,
+      "end_char": 46092
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 46093,
+      "end_char": 46096
+    },
+    {
+      "text": "08.05.2019",
+      "label": "DATE",
+      "start_char": 46218,
+      "end_char": 46228
+    },
+    {
+      "text": "Section 47",
+      "label": "PROVISION",
+      "start_char": 46282,
+      "end_char": 46292
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 46293,
+      "end_char": 46296
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 46450,
+      "end_char": 46460
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 46468,
+      "end_char": 46482
+    },
+    {
+      "text": "08.05.2019",
+      "label": "DATE",
+      "start_char": 46542,
+      "end_char": 46552
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 46588,
+      "end_char": 46598
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 46606,
+      "end_char": 46620
+    },
+    {
+      "text": "M.P. Steel Corporation",
+      "label": "ORG",
+      "start_char": 46625,
+      "end_char": 46647
+    },
+    {
+      "text": "Sarathy case [(2000) 5 SCC 355 : 2000 SCC (L&S) 699]",
+      "label": "PRECEDENT",
+      "start_char": 46701,
+      "end_char": 46753
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 46798,
+      "end_char": 46808
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 47196,
+      "end_char": 47206
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 47354,
+      "end_char": 47364
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 47575,
+      "end_char": 47585
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 47759,
+      "end_char": 47769
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 48188,
+      "end_char": 48198
+    },
+    {
+      "text": "India Electric Works Ltd.",
+      "label": "ORG",
+      "start_char": 48407,
+      "end_char": 48432
+    },
+    {
+      "text": "(1971) 1 SCC 24]",
+      "label": "PRECEDENT",
+      "start_char": 48434,
+      "end_char": 48450
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 48777,
+      "end_char": 48787
+    },
+    {
+      "text": "Madhya Pradesh High Court",
+      "label": "COURT",
+      "start_char": 48846,
+      "end_char": 48871
+    },
+    {
+      "text": "Andhra Pradesh High Court",
+      "label": "COURT",
+      "start_char": 49090,
+      "end_char": 49115
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 49262,
+      "end_char": 49272
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 49536,
+      "end_char": 49546
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 49554,
+      "end_char": 49568
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 49579,
+      "end_char": 49589
+    },
+    {
+      "text": "Section 34(3)",
+      "label": "PROVISION",
+      "start_char": 49674,
+      "end_char": 49687
+    },
+    {
+      "text": "03.08.2017",
+      "label": "DATE",
+      "start_char": 49906,
+      "end_char": 49916
+    },
+    {
+      "text": "02.11.2017",
+      "label": "DATE",
+      "start_char": 49971,
+      "end_char": 49981
+    },
+    {
+      "text": "Section 34(3)",
+      "label": "PROVISION",
+      "start_char": 50074,
+      "end_char": 50087
+    },
+    {
+      "text": "02.12.2017",
+      "label": "DATE",
+      "start_char": 50153,
+      "end_char": 50163
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 50506,
+      "end_char": 50516
+    },
+    {
+      "text": "08.05.2019",
+      "label": "DATE",
+      "start_char": 50520,
+      "end_char": 50530
+    },
+    {
+      "text": "Section 47",
+      "label": "PROVISION",
+      "start_char": 50554,
+      "end_char": 50564
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 50565,
+      "end_char": 50568
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 50920,
+      "end_char": 50929
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 50937,
+      "end_char": 50951
+    },
+    {
+      "text": "Section 34(3)",
+      "label": "PROVISION",
+      "start_char": 51009,
+      "end_char": 51022
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 51081,
+      "end_char": 51090
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 51098,
+      "end_char": 51112
+    },
+    {
+      "text": "2.3.2022",
+      "label": "DATE",
+      "start_char": 51313,
+      "end_char": 51321
+    }
+  ],
+  "precedent_clusters": {
+    "National Aluminium Co. Ltd. v. Pressteel & Fabrications (P) Ltd.": [
+      "Gulbarga University v. Mallikarjun S. Kodagali and another2",
+      "Union of India v. Popular Construction Co.",
+      "State of Goa v. Western Builders",
+      "National Aluminium Co. Ltd. v. Pressteel & Fabrications (P) Ltd.",
+      "Union of India v. Bhavna Engg",
+      "Union of India v. Popular Construction Co.3",
+      "Consolidated Engineering Enterprises v. Principal Secretary, Irrigation Department and others4",
+      "P. Radha Bai and others v. P. Ashok Kumar and another5",
+      "National Spot Exchange Limited v. Anil Kohli6",
+      "Union of India v. Popular Construction Co.",
+      "Union of India v. Popular Construction Co.",
+      "M.P. Steel Corporation v. Commissioner of Central Excise7",
+      "Gulbarga University",
+      "M.P. Steel Corporation"
+    ],
+    "Popular Construction [(2001) 8 SCC 470 : AIR 2001 SC 4010]": [
+      "[(2001) 8 SCC 470 : AIR 2001 SC 4010]",
+      "Popular Construction [(2001) 8 SCC 470 : AIR 2001 SC 4010]"
+    ],
+    "State of Goa v. Western Builders [(2006) 6 SCC 239]": [
+      "(2006) 6 SCC 239",
+      "State of Goa v. Western Builders [(2006) 6 SCC 239]",
+      "Western Builders [(2006) 6 SCC 239]"
+    ],
+    "[(2001) 8 SCC 470]": [
+      "[(2001) 8 SCC 470]",
+      "[(2001) 8 SCC 470]"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 34(2)",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34(2)",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Sections 420, 467, 471",
+      "IPC",
+      "Sections 420, 467, 471",
+      "IPC"
+    ],
+    [
+      "Section 47",
+      "CPC",
+      "Section 47",
+      "CPC"
+    ],
+    [
+      "Section 47",
+      "CPC",
+      "Section 47",
+      "CPC"
+    ],
+    [
+      "Section 47",
+      "CPC",
+      "Section 47",
+      "CPC"
+    ],
+    [
+      "Section 47",
+      "CPC",
+      "Section 47",
+      "CPC"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "Section 115",
+      "CPC",
+      "Section 115",
+      "CPC"
+    ],
+    [
+      "Section 47",
+      "CPC",
+      "Section 47",
+      "CPC"
+    ],
+    [
+      "Section 5",
+      "Indian Limitation Act, 1963",
+      "Section 5",
+      "Indian Limitation Act, 1963"
+    ],
+    [
+      "Section 5",
+      "Indian Limitation Act",
+      "Section 5",
+      "Indian Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 47",
+      "CPC",
+      "Section 47",
+      "CPC"
+    ],
+    [
+      "Section 47",
+      "CPC",
+      "Section 47",
+      "CPC"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 5",
+      "Limitation Act",
+      "Section 5",
+      "Limitation Act"
+    ],
+    [
+      "sub-Section (3) of Section 34, Section 14",
+      "Limitation Act",
+      "sub-Section (3) of Section 34, Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 43",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 43",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 43",
+      "Limitation Act, 1963",
+      "Section 43",
+      "Limitation Act, 1963"
+    ],
+    [
+      "sub-section (2) of Section 29",
+      "Limitation Act",
+      "sub-section (2) of Section 29",
+      "Limitation Act"
+    ],
+    [
+      "Section 3",
+      "Limitation Act, 1963",
+      "Section 3",
+      "Limitation Act, 1963"
+    ],
+    [
+      "sub-section (2) of Section 29",
+      "Limitation Act",
+      "sub-section (2) of Section 29",
+      "Limitation Act"
+    ],
+    [
+      "Section 5",
+      "Limitation Act",
+      "Section 5",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 43",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 43",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "sub-section (2) of Section 29",
+      "Limitation Act",
+      "sub-section (2) of Section 29",
+      "Limitation Act"
+    ],
+    [
+      "sub-section (2) of Section 29",
+      "Limitation Act",
+      "sub-section (2) of Section 29",
+      "Limitation Act"
+    ],
+    [
+      "sub-section (2) of Section 29",
+      "Limitation Act",
+      "sub-section (2) of Section 29",
+      "Limitation Act"
+    ],
+    [
+      "Section 5",
+      "Limitation Act",
+      "Section 5",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act, 1963",
+      "Section 14",
+      "Limitation Act, 1963"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act, 1963",
+      "Section 14",
+      "Limitation Act, 1963"
+    ],
+    [
+      "Section 5",
+      "Limitation Act",
+      "Section 5",
+      "Limitation Act"
+    ],
+    [
+      "Section 5",
+      "Limitation Act",
+      "Section 5",
+      "Limitation Act"
+    ],
+    [
+      "Section 5",
+      "Limitation Act",
+      "Section 5",
+      "Limitation Act"
+    ],
+    [
+      "Section 5",
+      "Limitation Act",
+      "Section 5",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 29(2)",
+      "Limitation Act",
+      "Section 29(2)",
+      "Limitation Act"
+    ],
+    [
+      "Section 5",
+      "Limitation Act",
+      "Section 5",
+      "Limitation Act"
+    ],
+    [
+      "Section 5",
+      "Limitation Act",
+      "Section 5",
+      "Limitation Act"
+    ],
+    [
+      "Section 29(2)",
+      "Limitation Act",
+      "Section 29(2)",
+      "Limitation Act"
+    ],
+    [
+      "Section 5",
+      "Limitation Act",
+      "Section 5",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 5",
+      "Limitation Act",
+      "Section 5",
+      "Limitation Act"
+    ],
+    [
+      "Section 29(2)",
+      "Limitation Act",
+      "Section 29(2)",
+      "Limitation Act"
+    ],
+    [
+      "Section 5",
+      "Limitation Act",
+      "Section 5",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 5",
+      "Limitation Act",
+      "Section 5",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 2(h)",
+      "Limitation Act",
+      "Section 2(h)",
+      "Limitation Act"
+    ],
+    [
+      "Sections 4 to 24",
+      "Limitation Act",
+      "Sections 4 to 24",
+      "Limitation Act"
+    ],
+    [
+      "Section 29(2)",
+      "Limitation Act",
+      "Section 29(2)",
+      "Limitation Act"
+    ],
+    [
+      "Sections 4 to 24",
+      "Limitation Act",
+      "Sections 4 to 24",
+      "Limitation Act"
+    ],
+    [
+      "Section 5",
+      "Limitation Act",
+      "Section 5",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 5",
+      "Limitation Act",
+      "Section 5",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 47",
+      "CPC",
+      "Section 47",
+      "CPC"
+    ],
+    [
+      "Section 47",
+      "CPC",
+      "Section 47",
+      "CPC"
+    ],
+    [
+      "Section 115",
+      "CPC",
+      "Section 115",
+      "CPC"
+    ],
+    [
+      "Section 47",
+      "CPC",
+      "Section 47",
+      "CPC"
+    ],
+    [
+      "Section 47",
+      "CPC",
+      "Section 47",
+      "CPC"
+    ],
+    [
+      "Section 47",
+      "CPC",
+      "Section 47",
+      "CPC"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 47",
+      "CPC",
+      "Section 47",
+      "CPC"
+    ],
+    [
+      "Section 5",
+      "Limitation Act",
+      "Section 5",
+      "Limitation Act"
+    ],
+    [
+      "Section 5",
+      "Limitation Act",
+      "Section 5",
+      "Limitation Act"
+    ],
+    [
+      "Section 34(2)",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34(2)",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Section 34(2)",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34(2)",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Section 34(2)",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34(2)",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Section 34(2)",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34(2)",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Section 34(2)",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34(2)",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "sub-Section (3) of Section 34",
+      "Arbitration and Conciliation Act, 19961",
+      "sub-Section (3) of Section 34",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "sub-Section (3) of Section 34",
+      "Arbitration and Conciliation Act, 19961",
+      "sub-Section (3) of Section 34",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "sub-section (2) of Section 34",
+      "Arbitration and Conciliation Act, 19961",
+      "sub-section (2) of Section 34",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "sub-section (3) of Section 34",
+      "Arbitration and Conciliation Act, 19961",
+      "sub-section (3) of Section 34",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "sub-section (2) of Section 29",
+      "Limitation Act",
+      "sub-section (2) of Section 29",
+      "Limitation Act"
+    ],
+    [
+      "Section 3",
+      "Limitation Act, 1963",
+      "Section 3",
+      "Limitation Act, 1963"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "sub-section (2) of Section 34",
+      "Arbitration and Conciliation Act, 19961",
+      "sub-section (2) of Section 34",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Sub-section (3) of Section 34",
+      "Arbitration and Conciliation Act, 19961",
+      "Sub-section (3) of Section 34",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "sub-section (2) of Section 29",
+      "Limitation Act",
+      "sub-section (2) of Section 29",
+      "Limitation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "sub-Section (3) of Section 34",
+      "Arbitration and Conciliation Act, 19961",
+      "sub-Section (3) of Section 34",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Section 34(1)",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34(1)",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Section 34, sub-section (3)",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34, sub-section (3)",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Section 34(1)",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34(1)",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Section 36",
+      "IPC",
+      "Section 36",
+      "IPC"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Section 34(2)",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34(2)",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "sub-section (3) of Section 34",
+      "Arbitration and Conciliation Act, 19961",
+      "sub-section (3) of Section 34",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "sub-section (2) of Section 34",
+      "Arbitration and Conciliation Act, 19961",
+      "sub-section (2) of Section 34",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Section 3",
+      "Limitation Act, 1963",
+      "Section 3",
+      "Limitation Act, 1963"
+    ],
+    [
+      "Sections 4 to 24",
+      "Limitation Act",
+      "Sections 4 to 24",
+      "Limitation Act"
+    ],
+    [
+      "sub-section (3) of Section 34",
+      "Arbitration and Conciliation Act, 19961",
+      "sub-section (3) of Section 34",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Sections 4 to 24",
+      "Limitation Act",
+      "Sections 4 to 24",
+      "Limitation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 5",
+      "Limitation Act",
+      "Section 5",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 5",
+      "Limitation Act",
+      "Section 5",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Sections 5 and 14",
+      "Limitation Act",
+      "Sections 5 and 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 34(3)",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34(3)",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "sub-Section (3) of Section 34",
+      "Arbitration and Conciliation Act, 19961",
+      "sub-Section (3) of Section 34",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Section 34(2)",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34(2)",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "sub-Section (3) of Section 34",
+      "Arbitration and Conciliation Act, 19961",
+      "sub-Section (3) of Section 34",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "sub-Section (3) of Section 34",
+      "Arbitration and Conciliation Act, 19961",
+      "sub-Section (3) of Section 34",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Section 34(2)",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34(2)",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "proviso to Section 43(3)",
+      "Limitation Act, 1963",
+      "proviso to Section 43(3)",
+      "Limitation Act, 1963"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "Section 34(2)",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34(2)",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 34(3)",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34(3)",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Section 34(3)",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34(3)",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 34(3)",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 34(3)",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Section 11(5)",
+      "Arbitration and Conciliation Act, 19961",
+      "Section 11(5)",
+      "Arbitration and Conciliation Act, 19961"
+    ],
+    [
+      "Section 36",
+      "IPC",
+      "Section 36",
+      "IPC"
+    ],
+    [
+      "Section 17)",
+      "Arbitration Act, 1940",
+      "Section 17)",
+      "Arbitration Act, 1940"
+    ]
+  ],
+  "precedent_counts": {
+    "National Aluminium Co. Ltd. v. Pressteel & Fabrications (P) Ltd.": 14,
+    "Popular Construction [(2001) 8 SCC 470 : AIR 2001 SC 4010]": 2,
+    "State of Goa v. Western Builders [(2006) 6 SCC 239]": 3,
+    "[(2001) 8 SCC 470]": 2
+  },
+  "provision_counts": {
+    "Section 34(2) of Arbitration and Conciliation Act, 19961": 10,
+    "Sections 420, 467, 471 of IPC": 1,
+    "Section 47 of CPC": 13,
+    "Article 227 of Constitution": 4,
+    "Section 115 of CPC": 2,
+    "Section 5 of Indian Limitation Act, 1963": 1,
+    "Section 5 of Indian Limitation Act": 1,
+    "Section 14 of Limitation Act": 55,
+    "Section 5 of Limitation Act": 19,
+    "sub-Section (3) of Section 34, Section 14 of Limitation Act": 1,
+    "Section 43 of Arbitration and Conciliation Act, 1996": 2,
+    "Section 43 of Limitation Act, 1963": 1,
+    "sub-section (2) of Section 29 of Limitation Act": 7,
+    "Section 3 of Limitation Act, 1963": 3,
+    "Section 14 of Limitation Act, 1963": 2,
+    "Section 29(2) of Limitation Act": 4,
+    "Section 2(h) of Limitation Act": 1,
+    "Sections 4 to 24 of Limitation Act": 4,
+    "sub-Section (3) of Section 34 of Arbitration and Conciliation Act, 19961": 6,
+    "Section 34 of Arbitration and Conciliation Act, 19961": 21,
+    "sub-section (2) of Section 34 of Arbitration and Conciliation Act, 19961": 3,
+    "sub-section (3) of Section 34 of Arbitration and Conciliation Act, 19961": 3,
+    "Sub-section (3) of Section 34 of Arbitration and Conciliation Act, 19961": 1,
+    "Section 34(1) of Arbitration and Conciliation Act, 19961": 2,
+    "Section 34, sub-section (3) of Arbitration and Conciliation Act, 19961": 1,
+    "Section 36 of IPC": 2,
+    "Sections 5 and 14 of Limitation Act": 1,
+    "Section 34(3) of Arbitration and Conciliation Act, 19961": 4,
+    "proviso to Section 43(3) of Limitation Act, 1963": 1,
+    "Section 11(5) of Arbitration and Conciliation Act, 19961": 1,
+    "Section 17) of Arbitration Act, 1940": 1
+  },
+  "statute_counts": {
+    "Arbitration and Conciliation Act, 19961": 52,
+    "IPC": 3,
+    "CPC": 15,
+    "Constitution": 4,
+    "Indian Limitation Act, 1963": 1,
+    "Indian Limitation Act": 1,
+    "Limitation Act": 92,
+    "Arbitration and Conciliation Act, 1996": 2,
+    "Limitation Act, 1963": 7,
+    "Arbitration Act, 1940": 1
+  }
+}

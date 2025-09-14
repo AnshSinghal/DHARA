@@ -1,0 +1,1595 @@
+{
+  "entities": [
+    {
+      "text": "Supreme Court of India",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 22
+    },
+    {
+      "text": "Jaycee Housing Pvt. Ltd.",
+      "label": "PETITIONER",
+      "start_char": 23,
+      "end_char": 47
+    },
+    {
+      "text": "Registrar (General), Orissa High",
+      "label": "RESPONDENT",
+      "start_char": 51,
+      "end_char": 83
+    },
+    {
+      "text": "Krishna Murari",
+      "label": "PETITIONER",
+      "start_char": 133,
+      "end_char": 147
+    },
+    {
+      "text": "Supreme Court Of India",
+      "label": "COURT",
+      "start_char": 277,
+      "end_char": 299
+    },
+    {
+      "text": "Jaycee Housing Pvt. Ltd.",
+      "label": "PETITIONER",
+      "start_char": 438,
+      "end_char": 462
+    },
+    {
+      "text": "Registrar (General), Orissa High Court,                 …",
+      "label": "RESPONDENT",
+      "start_char": 578,
+      "end_char": 635
+    },
+    {
+      "text": "M.R. SHAH",
+      "label": "JUDGE",
+      "start_char": 961,
+      "end_char": 970
+    },
+    {
+      "text": "12.04.2022",
+      "label": "DATE",
+      "start_char": 1063,
+      "end_char": 1073
+    },
+    {
+      "text": "High Court of Orissa at Cuttack",
+      "label": "COURT",
+      "start_char": 1088,
+      "end_char": 1119
+    },
+    {
+      "text": "13.11.2020",
+      "label": "DATE",
+      "start_char": 1332,
+      "end_char": 1342
+    },
+    {
+      "text": "State of Odisha",
+      "label": "ORG",
+      "start_char": 1358,
+      "end_char": 1373
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 1571,
+      "end_char": 1598
+    },
+    {
+      "text": "Section 3 and sub­ section (1) of Section 9",
+      "label": "PROVISION",
+      "start_char": 1705,
+      "end_char": 1748
+    },
+    {
+      "text": "Section 10",
+      "label": "PROVISION",
+      "start_char": 1759,
+      "end_char": 1769
+    },
+    {
+      "text": "Odisha Civil Courts Act, 1984",
+      "label": "STATUTE",
+      "start_char": 1777,
+      "end_char": 1806
+    },
+    {
+      "text": "Section 30",
+      "label": "PROVISION",
+      "start_char": 1811,
+      "end_char": 1821
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 1829,
+      "end_char": 1856
+    },
+    {
+      "text": "High Court of Orissa",
+      "label": "COURT",
+      "start_char": 1979,
+      "end_char": 1999
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 2254,
+      "end_char": 2264
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 2272,
+      "end_char": 2310
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 2343,
+      "end_char": 2364
+    },
+    {
+      "text": "Act, 2015",
+      "label": "STATUTE",
+      "start_char": 2798,
+      "end_char": 2807
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 3075,
+      "end_char": 3096
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 3141,
+      "end_char": 3156
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 3164,
+      "end_char": 3185
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 3249,
+      "end_char": 3264
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 3272,
+      "end_char": 3293
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 3473,
+      "end_char": 3494
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 3783,
+      "end_char": 3804
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 3841,
+      "end_char": 3862
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 3884,
+      "end_char": 3899
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 3907,
+      "end_char": 3928
+    },
+    {
+      "text": "Uttara Babbar",
+      "label": "OTHER_PERSON",
+      "start_char": 4104,
+      "end_char": 4117
+    },
+    {
+      "text": "Gaurav Aggarwal",
+      "label": "OTHER_PERSON",
+      "start_char": 4224,
+      "end_char": 4239
+    },
+    {
+      "text": "Babbar",
+      "label": "OTHER_PERSON",
+      "start_char": 4319,
+      "end_char": 4325
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 4439,
+      "end_char": 4448
+    },
+    {
+      "text": "Act, 2015",
+      "label": "STATUTE",
+      "start_char": 4456,
+      "end_char": 4465
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 4470,
+      "end_char": 4485
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 4493,
+      "end_char": 4514
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 4537,
+      "end_char": 4552
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 4560,
+      "end_char": 4581
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 4782,
+      "end_char": 4797
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 4805,
+      "end_char": 4826
+    },
+    {
+      "text": "Section 2(1)(e)(i)",
+      "label": "PROVISION",
+      "start_char": 4979,
+      "end_char": 4997
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 5005,
+      "end_char": 5026
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 5167,
+      "end_char": 5188
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 5352,
+      "end_char": 5361
+    },
+    {
+      "text": "Sections 9, 14, 34",
+      "label": "PROVISION",
+      "start_char": 5420,
+      "end_char": 5438
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 5446,
+      "end_char": 5467
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 5645,
+      "end_char": 5660
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 5668,
+      "end_char": 5689
+    },
+    {
+      "text": "Babbar",
+      "label": "OTHER_PERSON",
+      "start_char": 5726,
+      "end_char": 5732
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 5811,
+      "end_char": 5826
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 5834,
+      "end_char": 5855
+    },
+    {
+      "text": "State of Maharashtra",
+      "label": "ORG",
+      "start_char": 6070,
+      "end_char": 6090
+    },
+    {
+      "text": "Atlanata Ltd.; (2014) 11 SCC 619",
+      "label": "PRECEDENT",
+      "start_char": 6105,
+      "end_char": 6137
+    },
+    {
+      "text": "State of West Bengal",
+      "label": "ORG",
+      "start_char": 6142,
+      "end_char": 6162
+    },
+    {
+      "text": "Babbar",
+      "label": "OTHER_PERSON",
+      "start_char": 6253,
+      "end_char": 6259
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 6324,
+      "end_char": 6356
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 6396,
+      "end_char": 6417
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 6442,
+      "end_char": 6463
+    },
+    {
+      "text": "Fuerst Day Lawson Ltd.",
+      "label": "ORG",
+      "start_char": 6530,
+      "end_char": 6552
+    },
+    {
+      "text": "Jindal Exports Ltd.",
+      "label": "ORG",
+      "start_char": 6557,
+      "end_char": 6576
+    },
+    {
+      "text": "SCC 333",
+      "label": "PROVISION",
+      "start_char": 6587,
+      "end_char": 6594
+    },
+    {
+      "text": "Kandla Export Corporation",
+      "label": "ORG",
+      "start_char": 6599,
+      "end_char": 6624
+    },
+    {
+      "text": "OCI Corporation",
+      "label": "RESPONDENT",
+      "start_char": 6638,
+      "end_char": 6653
+    },
+    {
+      "text": "SCC 715",
+      "label": "PROVISION",
+      "start_char": 6674,
+      "end_char": 6681
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 6687,
+      "end_char": 6719
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 6831,
+      "end_char": 6863
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 6882,
+      "end_char": 6903
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 6942,
+      "end_char": 6963
+    },
+    {
+      "text": "Fuerst Day Lawson Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 7146,
+      "end_char": 7168
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 7181,
+      "end_char": 7196
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 7284,
+      "end_char": 7305
+    },
+    {
+      "text": "Kandla Export Corporation",
+      "label": "PRECEDENT",
+      "start_char": 7398,
+      "end_char": 7423
+    },
+    {
+      "text": "BGS SGS SOMA JV Vs.",
+      "label": "PRECEDENT",
+      "start_char": 7513,
+      "end_char": 7532
+    },
+    {
+      "text": "NHPC Ltd.; (2020) 4 SCC 234",
+      "label": "PRECEDENT",
+      "start_char": 7533,
+      "end_char": 7560
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 7648,
+      "end_char": 7663
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 7747,
+      "end_char": 7768
+    },
+    {
+      "text": "Kandla Exports Corporation",
+      "label": "PRECEDENT",
+      "start_char": 7938,
+      "end_char": 7964
+    },
+    {
+      "text": "Babbar",
+      "label": "OTHER_PERSON",
+      "start_char": 8052,
+      "end_char": 8058
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 8140,
+      "end_char": 8155
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 8380,
+      "end_char": 8391
+    },
+    {
+      "text": "Kandla Exports Corporation",
+      "label": "PRECEDENT",
+      "start_char": 8577,
+      "end_char": 8603
+    },
+    {
+      "text": "Babbar",
+      "label": "OTHER_PERSON",
+      "start_char": 8622,
+      "end_char": 8628
+    },
+    {
+      "text": "Gujarat High Court",
+      "label": "COURT",
+      "start_char": 8783,
+      "end_char": 8801
+    },
+    {
+      "text": "Madhya Pradesh High Court",
+      "label": "COURT",
+      "start_char": 8810,
+      "end_char": 8835
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 8865,
+      "end_char": 8880
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 8903,
+      "end_char": 8924
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 8947,
+      "end_char": 8964
+    },
+    {
+      "text": "Rajasthan High Court",
+      "label": "COURT",
+      "start_char": 8966,
+      "end_char": 8986
+    },
+    {
+      "text": "Orissa High Court",
+      "label": "COURT",
+      "start_char": 8991,
+      "end_char": 9008
+    },
+    {
+      "text": "State of Odisha",
+      "label": "ORG",
+      "start_char": 9178,
+      "end_char": 9193
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 9316,
+      "end_char": 9337
+    },
+    {
+      "text": "Gaurav Aggarwal",
+      "label": "OTHER_PERSON",
+      "start_char": 9510,
+      "end_char": 9525
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 9616,
+      "end_char": 9637
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 9780,
+      "end_char": 9801
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 10074,
+      "end_char": 10101
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 10130,
+      "end_char": 10139
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 10147,
+      "end_char": 10174
+    },
+    {
+      "text": "Section 3A",
+      "label": "PROVISION",
+      "start_char": 10262,
+      "end_char": 10272
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 10280,
+      "end_char": 10307
+    },
+    {
+      "text": "Section 2(c)",
+      "label": "PROVISION",
+      "start_char": 10394,
+      "end_char": 10406
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 10414,
+      "end_char": 10441
+    },
+    {
+      "text": "Section 10",
+      "label": "PROVISION",
+      "start_char": 10464,
+      "end_char": 10474
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 10482,
+      "end_char": 10509
+    },
+    {
+      "text": "sub­section (3) of Section 10",
+      "label": "PROVISION",
+      "start_char": 10596,
+      "end_char": 10625
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 10789,
+      "end_char": 10804
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 11106,
+      "end_char": 11127
+    },
+    {
+      "text": "sub­section (3) of Section 10",
+      "label": "PROVISION",
+      "start_char": 11374,
+      "end_char": 11403
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 11411,
+      "end_char": 11438
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 11488,
+      "end_char": 11503
+    },
+    {
+      "text": "Section 10",
+      "label": "PROVISION",
+      "start_char": 11734,
+      "end_char": 11744
+    },
+    {
+      "text": "Kandla Export Corporation",
+      "label": "PRECEDENT",
+      "start_char": 12028,
+      "end_char": 12053
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 12168,
+      "end_char": 12183
+    },
+    {
+      "text": "BGS SGS SOMA JV",
+      "label": "PRECEDENT",
+      "start_char": 12346,
+      "end_char": 12361
+    },
+    {
+      "text": "Section 13(1)",
+      "label": "PROVISION",
+      "start_char": 12486,
+      "end_char": 12499
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 12507,
+      "end_char": 12528
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 12900,
+      "end_char": 12921
+    },
+    {
+      "text": "Uttara Babbar",
+      "label": "OTHER_PERSON",
+      "start_char": 12979,
+      "end_char": 12992
+    },
+    {
+      "text": "Gaurav Aggarwal",
+      "label": "OTHER_PERSON",
+      "start_char": 13048,
+      "end_char": 13063
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 13200,
+      "end_char": 13209
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 13217,
+      "end_char": 13244
+    },
+    {
+      "text": "Sections 9, 14 and 34",
+      "label": "PROVISION",
+      "start_char": 13318,
+      "end_char": 13339
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 13347,
+      "end_char": 13385
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 13520,
+      "end_char": 13535
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 13543,
+      "end_char": 13558
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 13639,
+      "end_char": 13660
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 13669,
+      "end_char": 13696
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 13752,
+      "end_char": 13767
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 13775,
+      "end_char": 13790
+    },
+    {
+      "text": "Sections 3, 10, 15 & 21",
+      "label": "PROVISION",
+      "start_char": 13795,
+      "end_char": 13818
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 13826,
+      "end_char": 13853
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 13877,
+      "end_char": 13892
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 13900,
+      "end_char": 13921
+    },
+    {
+      "text": "Sections 3, 10, 15 & 21",
+      "label": "PROVISION",
+      "start_char": 14831,
+      "end_char": 14854
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 14862,
+      "end_char": 14889
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 16996,
+      "end_char": 17047
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 17384,
+      "end_char": 17435
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 17795,
+      "end_char": 17846
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 18244,
+      "end_char": 18295
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 18540,
+      "end_char": 18591
+    },
+    {
+      "text": "sub­section (1) or sub­section (2)",
+      "label": "PROVISION",
+      "start_char": 19010,
+      "end_char": 19044
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 19117,
+      "end_char": 19168
+    },
+    {
+      "text": "sub­section (1) or sub­section (2)",
+      "label": "PROVISION",
+      "start_char": 19299,
+      "end_char": 19333
+    },
+    {
+      "text": "Order XV­A]",
+      "label": "PROVISION",
+      "start_char": 19772,
+      "end_char": 19783
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908):",
+      "label": "STATUTE",
+      "start_char": 19791,
+      "end_char": 19833
+    },
+    {
+      "text": "proviso to sub­rule (1) of Rule 1 of Order V",
+      "label": "PROVISION",
+      "start_char": 19852,
+      "end_char": 19896
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 19904,
+      "end_char": 19945
+    },
+    {
+      "text": "sub­section (1), sub­section (2) or sub­section (3)",
+      "label": "PROVISION",
+      "start_char": 20213,
+      "end_char": 20264
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 21047,
+      "end_char": 21062
+    },
+    {
+      "text": "Act, 1996",
+      "label": "STATUTE",
+      "start_char": 21070,
+      "end_char": 21079
+    },
+    {
+      "text": "Section 9, 14 and 34",
+      "label": "PROVISION",
+      "start_char": 21642,
+      "end_char": 21662
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 21715,
+      "end_char": 21730
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 22151,
+      "end_char": 22178
+    },
+    {
+      "text": "Law Commission of India",
+      "label": "ORG",
+      "start_char": 22206,
+      "end_char": 22229
+    },
+    {
+      "text": "United Kingdom",
+      "label": "GPE",
+      "start_char": 22491,
+      "end_char": 22505
+    },
+    {
+      "text": "USA",
+      "label": "GPE",
+      "start_char": 22507,
+      "end_char": 22510
+    },
+    {
+      "text": "Singapore",
+      "label": "GPE",
+      "start_char": 22512,
+      "end_char": 22521
+    },
+    {
+      "text": "16.12.2009",
+      "label": "DATE",
+      "start_char": 22762,
+      "end_char": 22772
+    },
+    {
+      "text": "18.12.2009",
+      "label": "DATE",
+      "start_char": 22787,
+      "end_char": 22797
+    },
+    {
+      "text": "Rajya Sabha",
+      "label": "COURT",
+      "start_char": 22996,
+      "end_char": 23007
+    },
+    {
+      "text": "A& C Act",
+      "label": "STATUTE",
+      "start_char": 23797,
+      "end_char": 23805
+    },
+    {
+      "text": "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Bill, 2015",
+      "label": "STATUTE",
+      "start_char": 24550,
+      "end_char": 24648
+    },
+    {
+      "text": "Rajya Sabha",
+      "label": "COURT",
+      "start_char": 24667,
+      "end_char": 24678
+    },
+    {
+      "text": "April 29, 2015",
+      "label": "DATE",
+      "start_char": 24682,
+      "end_char": 24696
+    },
+    {
+      "text": "Departmental Related Parliamentary Standing Committee on Personnel, Public Grievances, Law and Justice",
+      "label": "ORG",
+      "start_char": 24719,
+      "end_char": 24821
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 24952,
+      "end_char": 24957
+    },
+    {
+      "text": "23.10.2015",
+      "label": "DATE",
+      "start_char": 24961,
+      "end_char": 24971
+    },
+    {
+      "text": "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Ordinance, 2015",
+      "label": "STATUTE",
+      "start_char": 24981,
+      "end_char": 25084
+    },
+    {
+      "text": "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 25108,
+      "end_char": 25205
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "start_char": 25224,
+      "end_char": 25234
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 25276,
+      "end_char": 25303
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 25883,
+      "end_char": 25910
+    },
+    {
+      "text": "03.05.2018",
+      "label": "DATE",
+      "start_char": 25988,
+      "end_char": 25998
+    },
+    {
+      "text": "Sections 3(1A) & 3A",
+      "label": "PROVISION",
+      "start_char": 26009,
+      "end_char": 26028
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 26292,
+      "end_char": 26301
+    },
+    {
+      "text": "Section 3A",
+      "label": "PROVISION",
+      "start_char": 26372,
+      "end_char": 26382
+    },
+    {
+      "text": "Act, 2015",
+      "label": "STATUTE",
+      "start_char": 26390,
+      "end_char": 26399
+    },
+    {
+      "text": "Objects and Reasons of Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 26416,
+      "end_char": 26466
+    },
+    {
+      "text": "Section 10",
+      "label": "PROVISION",
+      "start_char": 26716,
+      "end_char": 26726
+    },
+    {
+      "text": "Act, 2015",
+      "label": "STATUTE",
+      "start_char": 26854,
+      "end_char": 26863
+    },
+    {
+      "text": "Sections 3 & 10",
+      "label": "PROVISION",
+      "start_char": 26900,
+      "end_char": 26915
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 26960,
+      "end_char": 26975
+    },
+    {
+      "text": "Act, 1996",
+      "label": "STATUTE",
+      "start_char": 26983,
+      "end_char": 26992
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 27251,
+      "end_char": 27261
+    },
+    {
+      "text": "Act, 1996",
+      "label": "STATUTE",
+      "start_char": 27340,
+      "end_char": 27349
+    },
+    {
+      "text": "Section 21",
+      "label": "PROVISION",
+      "start_char": 27469,
+      "end_char": 27479
+    },
+    {
+      "text": "Act, 2015",
+      "label": "STATUTE",
+      "start_char": 27796,
+      "end_char": 27805
+    },
+    {
+      "text": "Act, 2015",
+      "label": "STATUTE",
+      "start_char": 27848,
+      "end_char": 27857
+    },
+    {
+      "text": "Sections 3 & 10",
+      "label": "PROVISION",
+      "start_char": 28074,
+      "end_char": 28089
+    },
+    {
+      "text": "Sections 3, 10 & 15",
+      "label": "PROVISION",
+      "start_char": 28835,
+      "end_char": 28854
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 29113,
+      "end_char": 29122
+    },
+    {
+      "text": "State of Odisha",
+      "label": "ORG",
+      "start_char": 29389,
+      "end_char": 29404
+    },
+    {
+      "text": "High Court of Orissa",
+      "label": "COURT",
+      "start_char": 29437,
+      "end_char": 29457
+    },
+    {
+      "text": "Sections 3 & 10",
+      "label": "PROVISION",
+      "start_char": 29786,
+      "end_char": 29801
+    },
+    {
+      "text": "Act, 2015",
+      "label": "STATUTE",
+      "start_char": 29805,
+      "end_char": 29814
+    },
+    {
+      "text": "Gaurav Aggarwal",
+      "label": "OTHER_PERSON",
+      "start_char": 30217,
+      "end_char": 30232
+    },
+    {
+      "text": "M.R. SHAH",
+      "label": "JUDGE",
+      "start_char": 30375,
+      "end_char": 30384
+    },
+    {
+      "text": "KRISHNA MURARI",
+      "label": "JUDGE",
+      "start_char": 30481,
+      "end_char": 30495
+    }
+  ],
+  "precedent_clusters": {
+    "BGS SGS SOMA JV Vs.": [
+      "BGS SGS SOMA JV Vs.",
+      "BGS SGS SOMA JV"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 10",
+      "Odisha Civil Courts Act, 1984",
+      "Section 10",
+      "Odisha Civil Courts Act, 1984"
+    ],
+    [
+      "Section 30",
+      "Commercial Courts Act, 2015",
+      "Section 30",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Arbitration Act, 1996",
+      "Section 2(1)(e)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Arbitration Act, 1996",
+      "Section 2(1)(e)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Arbitration Act, 1996",
+      "Section 2(1)(e)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 3",
+      "Act, 2015",
+      "Section 3",
+      "Act, 2015"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Arbitration Act, 1996",
+      "Section 2(1)(e)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Arbitration Act, 1996",
+      "Section 2(1)(e)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Arbitration Act, 1996",
+      "Section 2(1)(e)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 2(1)(e)(i)",
+      "Arbitration Act, 1996",
+      "Section 2(1)(e)(i)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Sections 9, 14, 34",
+      "Arbitration Act, 1996",
+      "Sections 9, 14, 34",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Arbitration Act, 1996",
+      "Section 2(1)(e)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Arbitration Act, 1996",
+      "Section 2(1)(e)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "SCC 715",
+      "Arbitration and Conciliation Act",
+      "SCC 715",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 3",
+      "Commercial Courts Act, 2015",
+      "Section 3",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 3A",
+      "Commercial Courts Act, 2015",
+      "Section 3A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 2(c)",
+      "Commercial Courts Act, 2015",
+      "Section 2(c)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 10",
+      "Commercial Courts Act, 2015",
+      "Section 10",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "sub­section (3) of Section 10",
+      "Arbitration Act",
+      "sub­section (3) of Section 10",
+      "Arbitration Act"
+    ],
+    [
+      "sub­section (3) of Section 10",
+      "Commercial Courts Act, 2015",
+      "sub­section (3) of Section 10",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 13(1)",
+      "Commercial Courts Act",
+      "Section 13(1)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 3",
+      "Commercial Courts Act, 2015",
+      "Section 3",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Sections 9, 14 and 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Sections 9, 14 and 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Arbitration Act",
+      "Section 2(1)(e)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Arbitration Act",
+      "Section 2(1)(e)",
+      "Arbitration Act"
+    ],
+    [
+      "Sections 3, 10, 15 & 21",
+      "Commercial Courts Act, 2015",
+      "Sections 3, 10, 15 & 21",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Arbitration Act, 1996",
+      "Section 2(1)(e)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Sections 3, 10, 15 & 21",
+      "Commercial Courts Act, 2015",
+      "Sections 3, 10, 15 & 21",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Order XV­A]",
+      "Code of Civil Procedure, 1908 (5 of 1908):",
+      "Order XV­A]",
+      "Code of Civil Procedure, 1908 (5 of 1908):"
+    ],
+    [
+      "proviso to sub­rule (1) of Rule 1 of Order V",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "proviso to sub­rule (1) of Rule 1 of Order V",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Act, 1996",
+      "Section 2(1)(e)",
+      "Act, 1996"
+    ],
+    [
+      "Section 3A",
+      "Act, 2015",
+      "Section 3A",
+      "Act, 2015"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Act, 1996",
+      "Section 2(1)(e)",
+      "Act, 1996"
+    ],
+    [
+      "Section 15",
+      "Act, 1996",
+      "Section 15",
+      "Act, 1996"
+    ],
+    [
+      "Sections 3 & 10",
+      "Act, 2015",
+      "Sections 3 & 10",
+      "Act, 2015"
+    ],
+    [
+      "Section 3 and sub­ section (1) of Section 9",
+      "Arbitration Act, 1996",
+      "Section 3 and sub­ section (1) of Section 9",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 3",
+      "Act, 2015",
+      "Section 3",
+      "Act, 2015"
+    ],
+    [
+      "Section 10",
+      "Commercial Courts Act, 2015",
+      "Section 10",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "sub­section (1) or sub­section (2)",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "sub­section (1) or sub­section (2)",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)"
+    ],
+    [
+      "sub­section (1) or sub­section (2)",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "sub­section (1) or sub­section (2)",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)"
+    ],
+    [
+      "sub­section (1), sub­section (2) or sub­section (3)",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "sub­section (1), sub­section (2) or sub­section (3)",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)"
+    ],
+    [
+      "Section 9, 14 and 34",
+      "Arbitration Act, 1996",
+      "Section 9, 14 and 34",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Act, 1996",
+      "Section 2(1)(e)",
+      "Act, 1996"
+    ],
+    [
+      "Sections 3(1A) & 3A",
+      "Commercial Courts Act, 2015",
+      "Sections 3(1A) & 3A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 3",
+      "Commercial Courts Act, 2015",
+      "Section 3",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 10",
+      "Commercial Courts Act, 2015",
+      "Section 10",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Sections 3 & 10",
+      "Act, 2015",
+      "Sections 3 & 10",
+      "Act, 2015"
+    ],
+    [
+      "Sections 3 & 10",
+      "Act, 2015",
+      "Sections 3 & 10",
+      "Act, 2015"
+    ],
+    [
+      "Sections 3, 10 & 15",
+      "Commercial Courts Act, 2015",
+      "Sections 3, 10 & 15",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 3",
+      "Commercial Courts Act, 2015",
+      "Section 3",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "SCC 333",
+      "Commercial Courts Act",
+      "SCC 333",
+      "Commercial Courts Act"
+    ],
+    [
+      "Article 227",
+      "Commercial Courts Act, 2015",
+      "Article 227",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 21",
+      "Act, 1996",
+      "Section 21",
+      "Act, 1996"
+    ]
+  ],
+  "precedent_counts": {
+    "BGS SGS SOMA JV Vs.": 2
+  },
+  "provision_counts": {
+    "Section 10 of Odisha Civil Courts Act, 1984": 1,
+    "Section 30 of Commercial Courts Act, 2015": 1,
+    "Section 34 of Arbitration and Conciliation Act, 1996": 1,
+    "Section 2(1)(e) of Arbitration Act, 1996": 9,
+    "Section 3 of Act, 2015": 2,
+    "Section 2(1)(e)(i) of Arbitration Act, 1996": 1,
+    "Sections 9, 14, 34 of Arbitration Act, 1996": 1,
+    "SCC 715 of Arbitration and Conciliation Act": 1,
+    "Section 3 of Commercial Courts Act, 2015": 4,
+    "Section 3A of Commercial Courts Act, 2015": 1,
+    "Section 2(c) of Commercial Courts Act, 2015": 1,
+    "Section 10 of Commercial Courts Act, 2015": 3,
+    "sub­section (3) of Section 10 of Arbitration Act": 1,
+    "sub­section (3) of Section 10 of Commercial Courts Act, 2015": 1,
+    "Section 13(1) of Commercial Courts Act": 1,
+    "Sections 9, 14 and 34 of Arbitration and Conciliation Act, 1996": 1,
+    "Section 2(1)(e) of Arbitration Act": 2,
+    "Sections 3, 10, 15 & 21 of Commercial Courts Act, 2015": 2,
+    "Order XV­A] of Code of Civil Procedure, 1908 (5 of 1908):": 1,
+    "proviso to sub­rule (1) of Rule 1 of Order V of Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Section 2(1)(e) of Act, 1996": 3,
+    "Section 3A of Act, 2015": 1,
+    "Section 15 of Act, 1996": 1,
+    "Sections 3 & 10 of Act, 2015": 3,
+    "Section 3 and sub­ section (1) of Section 9 of Arbitration Act, 1996": 1,
+    "sub­section (1) or sub­section (2) of Arbitration and Conciliation Act, 1996 (26 of 1996)": 2,
+    "sub­section (1), sub­section (2) or sub­section (3) of Arbitration and Conciliation Act, 1996 (26 of 1996)": 1,
+    "Section 9, 14 and 34 of Arbitration Act, 1996": 1,
+    "Sections 3(1A) & 3A of Commercial Courts Act, 2015": 1,
+    "Sections 3, 10 & 15 of Commercial Courts Act, 2015": 1,
+    "SCC 333 of Commercial Courts Act": 1,
+    "Article 227 of Commercial Courts Act, 2015": 1,
+    "Section 21 of Act, 1996": 1
+  },
+  "statute_counts": {
+    "Odisha Civil Courts Act, 1984": 1,
+    "Commercial Courts Act, 2015": 16,
+    "Arbitration and Conciliation Act, 1996": 2,
+    "Arbitration Act, 1996": 13,
+    "Act, 2015": 6,
+    "Arbitration and Conciliation Act": 1,
+    "Arbitration Act": 3,
+    "Commercial Courts Act": 2,
+    "Code of Civil Procedure, 1908 (5 of 1908):": 1,
+    "Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Act, 1996": 5,
+    "Arbitration and Conciliation Act, 1996 (26 of 1996)": 3
+  }
+}

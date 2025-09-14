@@ -1,0 +1,894 @@
+{
+  "entities": [
+    {
+      "text": "Telangana High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 20
+    },
+    {
+      "text": "Narayana Educational Institutions",
+      "label": "PETITIONER",
+      "start_char": 21,
+      "end_char": 54
+    },
+    {
+      "text": "Paruchuri Janaki",
+      "label": "RESPONDENT",
+      "start_char": 63,
+      "end_char": 79
+    },
+    {
+      "text": "Moushumi Bhattacharya",
+      "label": "JUDGE",
+      "start_char": 123,
+      "end_char": 144
+    },
+    {
+      "text": "M.G.Priyadarsini",
+      "label": "JUDGE",
+      "start_char": 203,
+      "end_char": 219
+    },
+    {
+      "text": "Moushumi Bhattacharya",
+      "label": "JUDGE",
+      "start_char": 303,
+      "end_char": 324
+    },
+    {
+      "text": "29.06.2024",
+      "label": "DATE",
+      "start_char": 399,
+      "end_char": 409
+    },
+    {
+      "text": "Special Judge for Trial and Disposal of Commercial Disputes, Ranga Reddy District",
+      "label": "COURT",
+      "start_char": 424,
+      "end_char": 505
+    },
+    {
+      "text": "C.O.P.No.18 of 2024",
+      "label": "CASE_NUMBER",
+      "start_char": 543,
+      "end_char": 562
+    },
+    {
+      "text": "section 37(2)(b)",
+      "label": "PROVISION",
+      "start_char": 593,
+      "end_char": 609
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 617,
+      "end_char": 655
+    },
+    {
+      "text": "C.O.P.No.18 of 2024",
+      "label": "CASE_NUMBER",
+      "start_char": 708,
+      "end_char": 727
+    },
+    {
+      "text": "15.05.2024",
+      "label": "DATE",
+      "start_char": 765,
+      "end_char": 775
+    },
+    {
+      "text": "Telangana Regional Micro and Small Enterprises Facilitation Council (Council)",
+      "label": "RESPONDENT",
+      "start_char": 808,
+      "end_char": 885
+    },
+    {
+      "text": "section 18(3)",
+      "label": "PROVISION",
+      "start_char": 892,
+      "end_char": 905
+    },
+    {
+      "text": "Micro, Small and Medium Enterprises Development Act, 2006 (MSMED Act)",
+      "label": "STATUTE",
+      "start_char": 913,
+      "end_char": 982
+    },
+    {
+      "text": "section 17(1)",
+      "label": "PROVISION",
+      "start_char": 1058,
+      "end_char": 1071
+    },
+    {
+      "text": "C.O.P.No.18 of 2024",
+      "label": "CASE_NUMBER",
+      "start_char": 1110,
+      "end_char": 1129
+    },
+    {
+      "text": "29.06.2024",
+      "label": "DATE",
+      "start_char": 1255,
+      "end_char": 1265
+    },
+    {
+      "text": "section 37(2) (b)",
+      "label": "PROVISION",
+      "start_char": 1419,
+      "end_char": 1436
+    },
+    {
+      "text": "1996 Act",
+      "label": "STATUTE",
+      "start_char": 1444,
+      "end_char": 1452
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 1632,
+      "end_char": 1642
+    },
+    {
+      "text": "section 17(1)",
+      "label": "PROVISION",
+      "start_char": 1725,
+      "end_char": 1738
+    },
+    {
+      "text": "C.R.P.",
+      "label": "COURT",
+      "start_char": 1896,
+      "end_char": 1902
+    },
+    {
+      "text": "section 2(d)",
+      "label": "PROVISION",
+      "start_char": 2090,
+      "end_char": 2102
+    },
+    {
+      "text": "MSMED Act",
+      "label": "STATUTE",
+      "start_char": 2110,
+      "end_char": 2119
+    },
+    {
+      "text": "section 18(1)",
+      "label": "PROVISION",
+      "start_char": 2279,
+      "end_char": 2292
+    },
+    {
+      "text": "MSMED Act",
+      "label": "STATUTE",
+      "start_char": 2300,
+      "end_char": 2309
+    },
+    {
+      "text": "section 18(3)",
+      "label": "PROVISION",
+      "start_char": 2355,
+      "end_char": 2368
+    },
+    {
+      "text": "section 17(1)",
+      "label": "PROVISION",
+      "start_char": 2603,
+      "end_char": 2616
+    },
+    {
+      "text": "15.05.2024",
+      "label": "DATE",
+      "start_char": 2689,
+      "end_char": 2699
+    },
+    {
+      "text": "C.O.P.No.18 of 2024",
+      "label": "CASE_NUMBER",
+      "start_char": 3039,
+      "end_char": 3058
+    },
+    {
+      "text": "section 37(2) (b)",
+      "label": "PROVISION",
+      "start_char": 3093,
+      "end_char": 3110
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 3118,
+      "end_char": 3156
+    },
+    {
+      "text": "15.05.2024",
+      "label": "DATE",
+      "start_char": 3214,
+      "end_char": 3224
+    },
+    {
+      "text": "C.O.P.",
+      "label": "ORG",
+      "start_char": 3262,
+      "end_char": 3268
+    },
+    {
+      "text": "section 17(1)",
+      "label": "PROVISION",
+      "start_char": 3549,
+      "end_char": 3562
+    },
+    {
+      "text": "section 37(2)",
+      "label": "PROVISION",
+      "start_char": 3691,
+      "end_char": 3704
+    },
+    {
+      "text": "1996 Act",
+      "label": "STATUTE",
+      "start_char": 3712,
+      "end_char": 3720
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 4438,
+      "end_char": 4448
+    },
+    {
+      "text": "1996 Act",
+      "label": "STATUTE",
+      "start_char": 4456,
+      "end_char": 4464
+    },
+    {
+      "text": "Commercial Court at Ranga Reddy District",
+      "label": "COURT",
+      "start_char": 4470,
+      "end_char": 4510
+    },
+    {
+      "text": "section 3",
+      "label": "PROVISION",
+      "start_char": 4540,
+      "end_char": 4549
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 4557,
+      "end_char": 4584
+    },
+    {
+      "text": "section 6",
+      "label": "PROVISION",
+      "start_char": 4627,
+      "end_char": 4636
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 5418,
+      "end_char": 5429
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 5437,
+      "end_char": 5458
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 5811,
+      "end_char": 5822
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 5830,
+      "end_char": 5842
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 6128,
+      "end_char": 6139
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 6147,
+      "end_char": 6159
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 6515,
+      "end_char": 6526
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 6534,
+      "end_char": 6546
+    },
+    {
+      "text": "Jai Bhagwan Jain v. Municipal Corporation of Delhi",
+      "label": "PRECEDENT",
+      "start_char": 6553,
+      "end_char": 6603
+    },
+    {
+      "text": "section 18(1)",
+      "label": "PROVISION",
+      "start_char": 7016,
+      "end_char": 7029
+    },
+    {
+      "text": "MSMED Act",
+      "label": "STATUTE",
+      "start_char": 7037,
+      "end_char": 7046
+    },
+    {
+      "text": "W.P.No.27376 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 7091,
+      "end_char": 7111
+    },
+    {
+      "text": "06.03.2023",
+      "label": "DATE",
+      "start_char": 7320,
+      "end_char": 7330
+    },
+    {
+      "text": "19.08.2023",
+      "label": "DATE",
+      "start_char": 7472,
+      "end_char": 7482
+    },
+    {
+      "text": "2010 9 SCC 385",
+      "label": "CASE_NUMBER",
+      "start_char": 7515,
+      "end_char": 7529
+    },
+    {
+      "text": "21.12.2023",
+      "label": "DATE",
+      "start_char": 7928,
+      "end_char": 7938
+    },
+    {
+      "text": "21.12.2023",
+      "label": "DATE",
+      "start_char": 8002,
+      "end_char": 8012
+    },
+    {
+      "text": "21.12.2023",
+      "label": "DATE",
+      "start_char": 8162,
+      "end_char": 8172
+    },
+    {
+      "text": "Commercial Court, Ranga Reddy District",
+      "label": "COURT",
+      "start_char": 8213,
+      "end_char": 8251
+    },
+    {
+      "text": "L.B. Nagar",
+      "label": "GPE",
+      "start_char": 8255,
+      "end_char": 8265
+    },
+    {
+      "text": "24.02.2024",
+      "label": "DATE",
+      "start_char": 8270,
+      "end_char": 8280
+    },
+    {
+      "text": "24.02.2024",
+      "label": "DATE",
+      "start_char": 8466,
+      "end_char": 8476
+    },
+    {
+      "text": "15.05.2024",
+      "label": "DATE",
+      "start_char": 8801,
+      "end_char": 8811
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 8862,
+      "end_char": 8872
+    },
+    {
+      "text": "1996 Act",
+      "label": "STATUTE",
+      "start_char": 8880,
+      "end_char": 8888
+    },
+    {
+      "text": "15.05.2024",
+      "label": "DATE",
+      "start_char": 8951,
+      "end_char": 8961
+    },
+    {
+      "text": "29.06.2024",
+      "label": "DATE",
+      "start_char": 9042,
+      "end_char": 9052
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 9291,
+      "end_char": 9301
+    },
+    {
+      "text": "C.O.P.No.18 of 2024",
+      "label": "CASE_NUMBER",
+      "start_char": 9520,
+      "end_char": 9539
+    },
+    {
+      "text": "section 19",
+      "label": "PROVISION",
+      "start_char": 10198,
+      "end_char": 10208
+    },
+    {
+      "text": "MSMED Act",
+      "label": "STATUTE",
+      "start_char": 10216,
+      "end_char": 10225
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 10439,
+      "end_char": 10449
+    },
+    {
+      "text": "21.12.2023",
+      "label": "DATE",
+      "start_char": 10527,
+      "end_char": 10537
+    },
+    {
+      "text": "Mumtaz Yarud Dowla Wakf v. Badam Balakrishna Hotel Pvt",
+      "label": "PRECEDENT",
+      "start_char": 11284,
+      "end_char": 11338
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 11365,
+      "end_char": 11378
+    },
+    {
+      "text": "2023 SCC OnLine SC 1378",
+      "label": "PRECEDENT",
+      "start_char": 11895,
+      "end_char": 11918
+    },
+    {
+      "text": "High Court of Jammu and Kashmir",
+      "label": "COURT",
+      "start_char": 12391,
+      "end_char": 12422
+    },
+    {
+      "text": "IRCON International Limited v. Union Territory of Jammu & Kashmir 3",
+      "label": "PRECEDENT",
+      "start_char": 12426,
+      "end_char": 12493
+    },
+    {
+      "text": "section 17",
+      "label": "PROVISION",
+      "start_char": 12583,
+      "end_char": 12593
+    },
+    {
+      "text": "C.R.P.",
+      "label": "STATUTE",
+      "start_char": 12651,
+      "end_char": 12657
+    },
+    {
+      "text": "Hindustan Zinc Limited (HZL) v. Ajmer Vidyut Vitran Nigam Limited",
+      "label": "PRECEDENT",
+      "start_char": 12682,
+      "end_char": 12747
+    },
+    {
+      "text": "section 86(1)(f)",
+      "label": "PROVISION",
+      "start_char": 12789,
+      "end_char": 12805
+    },
+    {
+      "text": "Electricity Act, 2003",
+      "label": "STATUTE",
+      "start_char": 12813,
+      "end_char": 12834
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 12846,
+      "end_char": 12859
+    },
+    {
+      "text": "section 86(1)(f)",
+      "label": "PROVISION",
+      "start_char": 12942,
+      "end_char": 12958
+    },
+    {
+      "text": "Electricity Act 2020",
+      "label": "STATUTE",
+      "start_char": 12966,
+      "end_char": 12986
+    },
+    {
+      "text": "SCC OnLine J&K 29 2019 17 SCC 82",
+      "label": "CASE_NUMBER",
+      "start_char": 12987,
+      "end_char": 13019
+    },
+    {
+      "text": "section 17",
+      "label": "PROVISION",
+      "start_char": 13195,
+      "end_char": 13205
+    },
+    {
+      "text": "Section 17(1)",
+      "label": "PROVISION",
+      "start_char": 13493,
+      "end_char": 13506
+    },
+    {
+      "text": "Section 37(2) (b)",
+      "label": "PROVISION",
+      "start_char": 13738,
+      "end_char": 13755
+    },
+    {
+      "text": "section 17",
+      "label": "PROVISION",
+      "start_char": 13889,
+      "end_char": 13899
+    },
+    {
+      "text": "section 37(2)(b)",
+      "label": "PROVISION",
+      "start_char": 13953,
+      "end_char": 13969
+    },
+    {
+      "text": "section 17(1)",
+      "label": "PROVISION",
+      "start_char": 14055,
+      "end_char": 14068
+    },
+    {
+      "text": "15.05.2024",
+      "label": "DATE",
+      "start_char": 15141,
+      "end_char": 15151
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 15353,
+      "end_char": 15364
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 15372,
+      "end_char": 15384
+    },
+    {
+      "text": "C.R.P.No.2243 of 2024",
+      "label": "CASE_NUMBER",
+      "start_char": 15532,
+      "end_char": 15553
+    },
+    {
+      "text": "MOUSHUMI BHATTACHARYA",
+      "label": "JUDGE",
+      "start_char": 15680,
+      "end_char": 15701
+    },
+    {
+      "text": "M.G.PRIYADARSINI",
+      "label": "JUDGE",
+      "start_char": 15736,
+      "end_char": 15752
+    },
+    {
+      "text": "14.08.2024",
+      "label": "DATE",
+      "start_char": 15762,
+      "end_char": 15772
+    }
+  ],
+  "precedent_clusters": {
+    "Hindustan Zinc Limited (HZL) v. Ajmer Vidyut Vitran Nigam Limited": [
+      "Jai Bhagwan Jain v. Municipal Corporation of Delhi",
+      "Mumtaz Yarud Dowla Wakf v. Badam Balakrishna Hotel Pvt",
+      "IRCON International Limited v. Union Territory of Jammu & Kashmir 3",
+      "Hindustan Zinc Limited (HZL) v. Ajmer Vidyut Vitran Nigam Limited"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "section 37(2)(b)",
+      "Arbitration and Conciliation Act, 1996",
+      "section 37(2)(b)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 18(3)",
+      "Micro, Small and Medium Enterprises Development Act, 2006 (MSMED Act)",
+      "section 18(3)",
+      "Micro, Small and Medium Enterprises Development Act, 2006 (MSMED Act)"
+    ],
+    [
+      "section 37(2) (b)",
+      "1996 Act",
+      "section 37(2) (b)",
+      "1996 Act"
+    ],
+    [
+      "section 2(d)",
+      "MSMED Act",
+      "section 2(d)",
+      "MSMED Act"
+    ],
+    [
+      "section 18(1)",
+      "MSMED Act",
+      "section 18(1)",
+      "MSMED Act"
+    ],
+    [
+      "section 37(2) (b)",
+      "Arbitration and Conciliation Act, 1996",
+      "section 37(2) (b)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 37(2)",
+      "1996 Act",
+      "section 37(2)",
+      "1996 Act"
+    ],
+    [
+      "section 37",
+      "1996 Act",
+      "section 37",
+      "1996 Act"
+    ],
+    [
+      "section 3",
+      "Commercial Courts Act, 2015",
+      "section 3",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "section 18(1)",
+      "MSMED Act",
+      "section 18(1)",
+      "MSMED Act"
+    ],
+    [
+      "section 37",
+      "1996 Act",
+      "section 37",
+      "1996 Act"
+    ],
+    [
+      "section 19",
+      "MSMED Act",
+      "section 19",
+      "MSMED Act"
+    ],
+    [
+      "section 17",
+      "C.R.P.",
+      "section 17",
+      "C.R.P."
+    ],
+    [
+      "section 86(1)(f)",
+      "Electricity Act, 2003",
+      "section 86(1)(f)",
+      "Electricity Act, 2003"
+    ],
+    [
+      "section 86(1)(f)",
+      "Electricity Act 2020",
+      "section 86(1)(f)",
+      "Electricity Act 2020"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "section 17(1)",
+      "C.R.P.",
+      "section 17(1)",
+      "C.R.P."
+    ],
+    [
+      "section 37",
+      "1996 Act",
+      "section 37",
+      "1996 Act"
+    ],
+    [
+      "section 17(1)",
+      "C.R.P.",
+      "section 17(1)",
+      "C.R.P."
+    ],
+    [
+      "section 18(3)",
+      "MSMED Act",
+      "section 18(3)",
+      "MSMED Act"
+    ],
+    [
+      "section 17(1)",
+      "C.R.P.",
+      "section 17(1)",
+      "C.R.P."
+    ],
+    [
+      "section 17(1)",
+      "C.R.P.",
+      "section 17(1)",
+      "C.R.P."
+    ],
+    [
+      "section 34",
+      "1996 Act",
+      "section 34",
+      "1996 Act"
+    ],
+    [
+      "section 17",
+      "C.R.P.",
+      "section 17",
+      "C.R.P."
+    ],
+    [
+      "Section 17(1)",
+      "C.R.P.",
+      "Section 17(1)",
+      "C.R.P."
+    ],
+    [
+      "Section 37(2) (b)",
+      "1996 Act",
+      "Section 37(2) (b)",
+      "1996 Act"
+    ],
+    [
+      "section 17",
+      "C.R.P.",
+      "section 17",
+      "C.R.P."
+    ],
+    [
+      "section 37(2)(b)",
+      "1996 Act",
+      "section 37(2)(b)",
+      "1996 Act"
+    ],
+    [
+      "section 17(1)",
+      "C.R.P.",
+      "section 17(1)",
+      "C.R.P."
+    ],
+    [
+      "section 6",
+      "Commercial Courts Act, 2015",
+      "section 6",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "section 34",
+      "1996 Act",
+      "section 34",
+      "1996 Act"
+    ]
+  ],
+  "precedent_counts": {
+    "Hindustan Zinc Limited (HZL) v. Ajmer Vidyut Vitran Nigam Limited": 4
+  },
+  "provision_counts": {
+    "section 37(2)(b) of Arbitration and Conciliation Act, 1996": 1,
+    "section 18(3) of Micro, Small and Medium Enterprises Development Act, 2006 (MSMED Act)": 1,
+    "section 37(2) (b) of 1996 Act": 1,
+    "section 2(d) of MSMED Act": 1,
+    "section 18(1) of MSMED Act": 2,
+    "section 37(2) (b) of Arbitration and Conciliation Act, 1996": 1,
+    "section 37(2) of 1996 Act": 1,
+    "section 37 of 1996 Act": 3,
+    "section 3 of Commercial Courts Act, 2015": 1,
+    "Article 227 of Constitution of India": 1,
+    "Article 227 of Constitution": 4,
+    "section 19 of MSMED Act": 1,
+    "section 17 of C.R.P.": 3,
+    "section 86(1)(f) of Electricity Act, 2003": 1,
+    "section 86(1)(f) of Electricity Act 2020": 1,
+    "section 17(1) of C.R.P.": 5,
+    "section 18(3) of MSMED Act": 1,
+    "section 34 of 1996 Act": 2,
+    "Section 17(1) of C.R.P.": 1,
+    "Section 37(2) (b) of 1996 Act": 1,
+    "section 37(2)(b) of 1996 Act": 1,
+    "section 6 of Commercial Courts Act, 2015": 1
+  },
+  "statute_counts": {
+    "Arbitration and Conciliation Act, 1996": 2,
+    "Micro, Small and Medium Enterprises Development Act, 2006 (MSMED Act)": 1,
+    "1996 Act": 9,
+    "MSMED Act": 5,
+    "Commercial Courts Act, 2015": 2,
+    "Constitution of India": 1,
+    "Constitution": 4,
+    "C.R.P.": 9,
+    "Electricity Act, 2003": 1,
+    "Electricity Act 2020": 1
+  }
+}

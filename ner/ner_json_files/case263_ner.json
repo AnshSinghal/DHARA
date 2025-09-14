@@ -1,0 +1,853 @@
+{
+  "entities": [
+    {
+      "text": "Madras High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 17
+    },
+    {
+      "text": "Real Link Engineering India (P) Ltd",
+      "label": "PETITIONER",
+      "start_char": 23,
+      "end_char": 58
+    },
+    {
+      "text": "Aquatex Engineering",
+      "label": "RESPONDENT",
+      "start_char": 67,
+      "end_char": 86
+    },
+    {
+      "text": "T.V.Thamilselvi",
+      "label": "RESPONDENT",
+      "start_char": 115,
+      "end_char": 130
+    },
+    {
+      "text": "T.V.Thamilselvi",
+      "label": "LAWYER",
+      "start_char": 138,
+      "end_char": 153
+    },
+    {
+      "text": "High Court Of Judicature At Madras",
+      "label": "COURT",
+      "start_char": 298,
+      "end_char": 332
+    },
+    {
+      "text": "T.V.Thamilselvi",
+      "label": "JUDGE",
+      "start_char": 524,
+      "end_char": 539
+    },
+    {
+      "text": "Real Link Engineering India (P) Ltd.",
+      "label": "PETITIONER",
+      "start_char": 711,
+      "end_char": 747
+    },
+    {
+      "text": "L. Navneethakrishnan",
+      "label": "PETITIONER",
+      "start_char": 904,
+      "end_char": 924
+    },
+    {
+      "text": "Aquatex Engineering",
+      "label": "RESPONDENT",
+      "start_char": 1057,
+      "end_char": 1076
+    },
+    {
+      "text": "Kaviya Nagarajan",
+      "label": "LAWYER",
+      "start_char": 1829,
+      "end_char": 1845
+    },
+    {
+      "text": "R. Bharath Kumar",
+      "label": "LAWYER",
+      "start_char": 2069,
+      "end_char": 2085
+    },
+    {
+      "text": "C.O.S No. 110 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 2401,
+      "end_char": 2422
+    },
+    {
+      "text": "Order VII Rule 11 (a ) & (d ) Section 151",
+      "label": "PROVISION",
+      "start_char": 3347,
+      "end_char": 3388
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 3392,
+      "end_char": 3395
+    },
+    {
+      "text": "Section 2(c )",
+      "label": "PROVISION",
+      "start_char": 3499,
+      "end_char": 3512
+    },
+    {
+      "text": "Commercial Court Act, 2015",
+      "label": "STATUTE",
+      "start_char": 3534,
+      "end_char": 3560
+    },
+    {
+      "text": "20.07.2022",
+      "label": "DATE",
+      "start_char": 3711,
+      "end_char": 3721
+    },
+    {
+      "text": "I.A Nos. 2 and 3 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 4198,
+      "end_char": 4222
+    },
+    {
+      "text": "Section 12-A(1)",
+      "label": "PROVISION",
+      "start_char": 4269,
+      "end_char": 4284
+    },
+    {
+      "text": "Commercial Court Act",
+      "label": "STATUTE",
+      "start_char": 4292,
+      "end_char": 4312
+    },
+    {
+      "text": "03.07.2018",
+      "label": "DATE",
+      "start_char": 4337,
+      "end_char": 4347
+    },
+    {
+      "text": "Section https://www.mhc.tn.gov.in/judis 12(A)",
+      "label": "PROVISION",
+      "start_char": 4749,
+      "end_char": 4794
+    },
+    {
+      "text": "Section 12-A",
+      "label": "PROVISION",
+      "start_char": 4977,
+      "end_char": 4989
+    },
+    {
+      "text": "Order VI Rule 15 A and Order XI Rule 2",
+      "label": "PROVISION",
+      "start_char": 5163,
+      "end_char": 5201
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 5205,
+      "end_char": 5208
+    },
+    {
+      "text": "Section 2 (c ) (vii)",
+      "label": "PROVISION",
+      "start_char": 5604,
+      "end_char": 5624
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 5632,
+      "end_char": 5659
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 5946,
+      "end_char": 5956
+    },
+    {
+      "text": "Ambalal Sarabha Enterprises Ltd., Vs.",
+      "label": "PRECEDENT",
+      "start_char": 5980,
+      "end_char": 6017
+    },
+    {
+      "text": "K.S. Infraspace LLP",
+      "label": "ORG",
+      "start_char": 6018,
+      "end_char": 6037
+    },
+    {
+      "text": "Commercial courts Act",
+      "label": "STATUTE",
+      "start_char": 6163,
+      "end_char": 6184
+    },
+    {
+      "text": "L. Navaneethakrishnan",
+      "label": "OTHER_PERSON",
+      "start_char": 6574,
+      "end_char": 6595
+    },
+    {
+      "text": "11.10.2010",
+      "label": "DATE",
+      "start_char": 6682,
+      "end_char": 6692
+    },
+    {
+      "text": "Tamil Nadu Industrial Investment corporation",
+      "label": "ORG",
+      "start_char": 6906,
+      "end_char": 6950
+    },
+    {
+      "text": "TIIC",
+      "label": "ORG",
+      "start_char": 7254,
+      "end_char": 7258
+    },
+    {
+      "text": "Indian Overseas Bank(hereinafter",
+      "label": "ORG",
+      "start_char": 7316,
+      "end_char": 7348
+    },
+    {
+      "text": "Coimbatore",
+      "label": "GPE",
+      "start_char": 7393,
+      "end_char": 7403
+    },
+    {
+      "text": "IOB",
+      "label": "ORG",
+      "start_char": 7668,
+      "end_char": 7671
+    },
+    {
+      "text": "TIIC",
+      "label": "ORG",
+      "start_char": 7792,
+      "end_char": 7796
+    },
+    {
+      "text": "IOB",
+      "label": "ORG",
+      "start_char": 7801,
+      "end_char": 7804
+    },
+    {
+      "text": "TIIC",
+      "label": "ORG",
+      "start_char": 7857,
+      "end_char": 7861
+    },
+    {
+      "text": "State Financial Corporation Act",
+      "label": "STATUTE",
+      "start_char": 7911,
+      "end_char": 7942
+    },
+    {
+      "text": "IOB",
+      "label": "COURT",
+      "start_char": 8005,
+      "end_char": 8008
+    },
+    {
+      "text": "Securitisation & Reconstruction of Financial Assets and Enforcement of security Interest Act, 2002",
+      "label": "STATUTE",
+      "start_char": 8132,
+      "end_char": 8230
+    },
+    {
+      "text": "T. Narendran",
+      "label": "OTHER_PERSON",
+      "start_char": 8770,
+      "end_char": 8782
+    },
+    {
+      "text": "N.Ranjitham",
+      "label": "OTHER_PERSON",
+      "start_char": 9093,
+      "end_char": 9104
+    },
+    {
+      "text": "20.07.2022",
+      "label": "DATE",
+      "start_char": 9409,
+      "end_char": 9419
+    },
+    {
+      "text": "T.Narendran",
+      "label": "OTHER_PERSON",
+      "start_char": 9741,
+      "end_char": 9752
+    },
+    {
+      "text": "IOB",
+      "label": "ORG",
+      "start_char": 9933,
+      "end_char": 9936
+    },
+    {
+      "text": "19,52,05,899/-",
+      "label": "DATE",
+      "start_char": 10120,
+      "end_char": 10134
+    },
+    {
+      "text": "TANGEDCO",
+      "label": "ORG",
+      "start_char": 10753,
+      "end_char": 10761
+    },
+    {
+      "text": "Appanaickenpatty Panchayat",
+      "label": "ORG",
+      "start_char": 10763,
+      "end_char": 10789
+    },
+    {
+      "text": "TNPCB",
+      "label": "ORG",
+      "start_char": 10794,
+      "end_char": 10799
+    },
+    {
+      "text": "TIIC",
+      "label": "ORG",
+      "start_char": 10988,
+      "end_char": 10992
+    },
+    {
+      "text": "IOB",
+      "label": "ORG",
+      "start_char": 10997,
+      "end_char": 11000
+    },
+    {
+      "text": "20.07.2022",
+      "label": "DATE",
+      "start_char": 11338,
+      "end_char": 11348
+    },
+    {
+      "text": "TANGEDCO",
+      "label": "ORG",
+      "start_char": 11648,
+      "end_char": 11656
+    },
+    {
+      "text": "Appanaickenpatty Panchayat",
+      "label": "ORG",
+      "start_char": 11658,
+      "end_char": 11684
+    },
+    {
+      "text": "TNPCB",
+      "label": "ORG",
+      "start_char": 11689,
+      "end_char": 11694
+    },
+    {
+      "text": "Commercial Court Act",
+      "label": "STATUTE",
+      "start_char": 12941,
+      "end_char": 12961
+    },
+    {
+      "text": "Section 12 A",
+      "label": "PROVISION",
+      "start_char": 13057,
+      "end_char": 13069
+    },
+    {
+      "text": "Commercial Court, Act",
+      "label": "STATUTE",
+      "start_char": 13077,
+      "end_char": 13098
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 14074,
+      "end_char": 14084
+    },
+    {
+      "text": "DRT Act",
+      "label": "STATUTE",
+      "start_char": 14092,
+      "end_char": 14099
+    },
+    {
+      "text": "Section 12 A",
+      "label": "PROVISION",
+      "start_char": 14191,
+      "end_char": 14203
+    },
+    {
+      "text": "Commercial courts Act",
+      "label": "STATUTE",
+      "start_char": 14211,
+      "end_char": 14232
+    },
+    {
+      "text": "Section 12 A",
+      "label": "PROVISION",
+      "start_char": 14395,
+      "end_char": 14407
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 14415,
+      "end_char": 14436
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 14522,
+      "end_char": 14533
+    },
+    {
+      "text": "section 12A",
+      "label": "PROVISION",
+      "start_char": 14677,
+      "end_char": 14688
+    },
+    {
+      "text": "DRT",
+      "label": "COURT",
+      "start_char": 14787,
+      "end_char": 14790
+    },
+    {
+      "text": "Section 2 (1 ) (c ) (Vii)",
+      "label": "PROVISION",
+      "start_char": 15100,
+      "end_char": 15125
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 15133,
+      "end_char": 15160
+    },
+    {
+      "text": "Section 2 (1) ( c) (7)",
+      "label": "PROVISION",
+      "start_char": 15195,
+      "end_char": 15217
+    },
+    {
+      "text": "Commercial Court Act",
+      "label": "STATUTE",
+      "start_char": 15225,
+      "end_char": 15245
+    },
+    {
+      "text": "Section 12 A",
+      "label": "PROVISION",
+      "start_char": 15718,
+      "end_char": 15730
+    },
+    {
+      "text": "Section 12 A",
+      "label": "PROVISION",
+      "start_char": 16134,
+      "end_char": 16146
+    },
+    {
+      "text": "Secttion 12",
+      "label": "PROVISION",
+      "start_char": 16312,
+      "end_char": 16323
+    },
+    {
+      "text": "26.01.2012",
+      "label": "DATE",
+      "start_char": 16568,
+      "end_char": 16578
+    },
+    {
+      "text": "Section 2 (1) (c( vii)",
+      "label": "PROVISION",
+      "start_char": 17065,
+      "end_char": 17087
+    },
+    {
+      "text": "Ambalal Sarabhai Enterprises Limited Vs K.S Infraspace LLP reported in 2020",
+      "label": "PRECEDENT",
+      "start_char": 17163,
+      "end_char": 17238
+    },
+    {
+      "text": "SCC 585",
+      "label": "CASE_NUMBER",
+      "start_char": 17242,
+      "end_char": 17249
+    },
+    {
+      "text": "Sub-clause (vii) of Section 2(1)(c)",
+      "label": "PROVISION",
+      "start_char": 17423,
+      "end_char": 17458
+    },
+    {
+      "text": "Section 12 A",
+      "label": "PROVISION",
+      "start_char": 18054,
+      "end_char": 18066
+    },
+    {
+      "text": "Commercial Court Act",
+      "label": "STATUTE",
+      "start_char": 18074,
+      "end_char": 18094
+    },
+    {
+      "text": "Section 12 A",
+      "label": "PROVISION",
+      "start_char": 18264,
+      "end_char": 18276
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 18284,
+      "end_char": 18311
+    },
+    {
+      "text": "Section 12 A",
+      "label": "PROVISION",
+      "start_char": 18876,
+      "end_char": 18888
+    },
+    {
+      "text": "M/s Patil Automation Private Ltd and others Vs Rakheja Engineers Private Ltd, reported in MANU SC 1004 (2022)",
+      "label": "PRECEDENT",
+      "start_char": 18984,
+      "end_char": 19093
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 19107,
+      "end_char": 19118
+    },
+    {
+      "text": "20.07.2003",
+      "label": "DATE",
+      "start_char": 19538,
+      "end_char": 19548
+    },
+    {
+      "text": "TIIC",
+      "label": "ORG",
+      "start_char": 19815,
+      "end_char": 19819
+    },
+    {
+      "text": "IOB",
+      "label": "ORG",
+      "start_char": 19824,
+      "end_char": 19827
+    },
+    {
+      "text": "TANGEDCO",
+      "label": "ORG",
+      "start_char": 20059,
+      "end_char": 20067
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 20903,
+      "end_char": 20913
+    },
+    {
+      "text": "Commercial court Act",
+      "label": "STATUTE",
+      "start_char": 20923,
+      "end_char": 20943
+    },
+    {
+      "text": "I.A No. 2 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 21057,
+      "end_char": 21074
+    },
+    {
+      "text": "I.A No. 4 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 21285,
+      "end_char": 21302
+    },
+    {
+      "text": "IOB",
+      "label": "ORG",
+      "start_char": 21661,
+      "end_char": 21664
+    },
+    {
+      "text": "TIIC",
+      "label": "ORG",
+      "start_char": 21669,
+      "end_char": 21673
+    },
+    {
+      "text": "17.07.2023",
+      "label": "DATE",
+      "start_char": 22843,
+      "end_char": 22853
+    },
+    {
+      "text": "Commercial Court (District Judge Cadre), Coimbatore",
+      "label": "COURT",
+      "start_char": 22868,
+      "end_char": 22919
+    },
+    {
+      "text": "I.A No. 4 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 22923,
+      "end_char": 22940
+    },
+    {
+      "text": "C.O.S No. 110 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 22944,
+      "end_char": 22965
+    },
+    {
+      "text": "09.11.2023",
+      "label": "DATE",
+      "start_char": 23113,
+      "end_char": 23123
+    },
+    {
+      "text": "Commercial Court (District Judge Cadre), Coimbatore",
+      "label": "COURT",
+      "start_char": 23138,
+      "end_char": 23189
+    },
+    {
+      "text": "T.V.THAMILSELVI",
+      "label": "JUDGE",
+      "start_char": 23223,
+      "end_char": 23238
+    },
+    {
+      "text": "09.11.2023",
+      "label": "DATE",
+      "start_char": 23246,
+      "end_char": 23256
+    }
+  ],
+  "precedent_clusters": {
+    "M/s Patil Automation Private Ltd and others Vs Rakheja Engineers Private Ltd, reported in MANU SC 1004 (2022)": [
+      "Ambalal Sarabha Enterprises Ltd., Vs.",
+      "Ambalal Sarabhai Enterprises Limited Vs K.S Infraspace LLP reported in 2020",
+      "M/s Patil Automation Private Ltd and others Vs Rakheja Engineers Private Ltd, reported in MANU SC 1004 (2022)"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Order VII Rule 11 (a ) & (d ) Section 151",
+      "CPC",
+      "Order VII Rule 11 (a ) & (d ) Section 151",
+      "CPC"
+    ],
+    [
+      "Section 12-A(1)",
+      "Commercial Court Act",
+      "Section 12-A(1)",
+      "Commercial Court Act"
+    ],
+    [
+      "Order VI Rule 15 A and Order XI Rule 2",
+      "CPC",
+      "Order VI Rule 15 A and Order XI Rule 2",
+      "CPC"
+    ],
+    [
+      "Section 2 (c ) (vii)",
+      "Commercial Courts Act, 2015",
+      "Section 2 (c ) (vii)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 12 A",
+      "Commercial Court, Act",
+      "Section 12 A",
+      "Commercial Court, Act"
+    ],
+    [
+      "Section 14",
+      "DRT Act",
+      "Section 14",
+      "DRT Act"
+    ],
+    [
+      "Section 12 A",
+      "Commercial courts Act",
+      "Section 12 A",
+      "Commercial courts Act"
+    ],
+    [
+      "Section 12 A",
+      "Commercial Courts Act",
+      "Section 12 A",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 2 (1 ) (c ) (Vii)",
+      "Commercial Courts Act, 2015",
+      "Section 2 (1 ) (c ) (Vii)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 2 (1) ( c) (7)",
+      "Commercial Court Act",
+      "Section 2 (1) ( c) (7)",
+      "Commercial Court Act"
+    ],
+    [
+      "Section 12 A",
+      "Commercial Court Act",
+      "Section 12 A",
+      "Commercial Court Act"
+    ],
+    [
+      "Section 12 A",
+      "Commercial Courts Act, 2015",
+      "Section 12 A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 2(c )",
+      "Commercial Courts Act, 2015",
+      "Section 2(c )",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 12-A",
+      "Commercial Court Act",
+      "Section 12-A",
+      "Commercial Court Act"
+    ],
+    [
+      "section 12A",
+      "Commercial Courts Act",
+      "section 12A",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 12 A",
+      "Commercial Courts Act",
+      "Section 12 A",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 12 A",
+      "Commercial Courts Act",
+      "Section 12 A",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 2 (1) (c( vii)",
+      "Commercial Courts Act, 2015",
+      "Section 2 (1) (c( vii)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Sub-clause (vii) of Section 2(1)(c)",
+      "Commercial Courts Act, 2015",
+      "Sub-clause (vii) of Section 2(1)(c)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 12 A",
+      "Commercial Court Act",
+      "Section 12 A",
+      "Commercial Court Act"
+    ],
+    [
+      "Section 12A",
+      "Commercial Courts Act",
+      "Section 12A",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section https://www.mhc.tn.gov.in/judis 12(A)",
+      "Commercial Court Act",
+      "Section https://www.mhc.tn.gov.in/judis 12(A)",
+      "Commercial Court Act"
+    ],
+    [
+      "Section 12A",
+      "Commercial Courts Act",
+      "Section 12A",
+      "Commercial Courts Act"
+    ],
+    [
+      "Secttion 12",
+      "Commercial Court Act",
+      "Secttion 12",
+      "Commercial Court Act"
+    ],
+    [
+      "Section 12",
+      "Commercial Courts Act, 2015",
+      "Section 12",
+      "Commercial Courts Act, 2015"
+    ]
+  ],
+  "precedent_counts": {
+    "M/s Patil Automation Private Ltd and others Vs Rakheja Engineers Private Ltd, reported in MANU SC 1004 (2022)": 3
+  },
+  "provision_counts": {
+    "Order VII Rule 11 (a ) & (d ) Section 151 of CPC": 1,
+    "Section 12-A(1) of Commercial Court Act": 1,
+    "Order VI Rule 15 A and Order XI Rule 2 of CPC": 1,
+    "Section 2 (c ) (vii) of Commercial Courts Act, 2015": 1,
+    "Section 12 A of Commercial Court, Act": 1,
+    "Section 14 of DRT Act": 1,
+    "Section 12 A of Commercial courts Act": 1,
+    "Section 12 A of Commercial Courts Act": 3,
+    "Section 2 (1 ) (c ) (Vii) of Commercial Courts Act, 2015": 1,
+    "Section 2 (1) ( c) (7) of Commercial Court Act": 1,
+    "Section 12 A of Commercial Court Act": 2,
+    "Section 12 A of Commercial Courts Act, 2015": 1,
+    "Section 2(c ) of Commercial Courts Act, 2015": 1,
+    "Section 12-A of Commercial Court Act": 1,
+    "section 12A of Commercial Courts Act": 1,
+    "Section 2 (1) (c( vii) of Commercial Courts Act, 2015": 1,
+    "Sub-clause (vii) of Section 2(1)(c) of Commercial Courts Act, 2015": 1,
+    "Section 12A of Commercial Courts Act": 2,
+    "Section https://www.mhc.tn.gov.in/judis 12(A) of Commercial Court Act": 1,
+    "Secttion 12 of Commercial Court Act": 1,
+    "Section 12 of Commercial Courts Act, 2015": 1
+  },
+  "statute_counts": {
+    "CPC": 2,
+    "Commercial Court Act": 7,
+    "Commercial Courts Act, 2015": 7,
+    "Commercial Court, Act": 1,
+    "DRT Act": 1,
+    "Commercial courts Act": 1,
+    "Commercial Courts Act": 6
+  }
+}

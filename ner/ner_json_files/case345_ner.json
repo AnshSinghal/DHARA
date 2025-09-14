@@ -1,0 +1,824 @@
+{
+  "entities": [
+    {
+      "text": "Agricultural Produce Market",
+      "label": "PETITIONER",
+      "start_char": 25,
+      "end_char": 52
+    },
+    {
+      "text": "Kishan Khandelwal",
+      "label": "RESPONDENT",
+      "start_char": 60,
+      "end_char": 77
+    },
+    {
+      "text": "B.M.Shyam Prasad",
+      "label": "JUDGE",
+      "start_char": 111,
+      "end_char": 127
+    },
+    {
+      "text": "B.M.Shyam Prasad",
+      "label": "JUDGE",
+      "start_char": 135,
+      "end_char": 151
+    },
+    {
+      "text": "High Court Of Karnataka,\n                                       Kalaburagi Bench",
+      "label": "COURT",
+      "start_char": 398,
+      "end_char": 478
+    },
+    {
+      "text": "B.M.Shyam Prasad",
+      "label": "JUDGE",
+      "start_char": 649,
+      "end_char": 665
+    },
+    {
+      "text": "Agricultural Produce\n                           Market Committee\n                           Nehru Gunj, Kalaburagi",
+      "label": "PETITIONER",
+      "start_char": 913,
+      "end_char": 1027
+    },
+    {
+      "text": "Ameet Kumar Deshpande",
+      "label": "LAWYER",
+      "start_char": 1235,
+      "end_char": 1256
+    },
+    {
+      "text": "Gourish S. Khashampur",
+      "label": "LAWYER",
+      "start_char": 1303,
+      "end_char": 1324
+    },
+    {
+      "text": "Kishan Khandelwal",
+      "label": "RESPONDENT",
+      "start_char": 1444,
+      "end_char": 1461
+    },
+    {
+      "text": "S.R Ujjankop",
+      "label": "RESPONDENT",
+      "start_char": 1786,
+      "end_char": 1798
+    },
+    {
+      "text": "Manvendra Reddy",
+      "label": "LAWYER",
+      "start_char": 2212,
+      "end_char": 2227
+    },
+    {
+      "text": "B.M. Shyam Prasad",
+      "label": "JUDGE",
+      "start_char": 2988,
+      "end_char": 3005
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 3088,
+      "end_char": 3098
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 3106,
+      "end_char": 3144
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 3162,
+      "end_char": 3177
+    },
+    {
+      "text": "03.12.2021",
+      "label": "DATE",
+      "start_char": 3225,
+      "end_char": 3235
+    },
+    {
+      "text": "Commercial Arbitration Suit No.6/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 3239,
+      "end_char": 3276
+    },
+    {
+      "text": "03.12.2021",
+      "label": "DATE",
+      "start_char": 3421,
+      "end_char": 3431
+    },
+    {
+      "text": "NC: 2023:KHC-K:1293-DB",
+      "label": "CASE_NUMBER",
+      "start_char": 3450,
+      "end_char": 3472
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 3521,
+      "end_char": 3530
+    },
+    {
+      "text": "Limitation Act, 1963",
+      "label": "STATUTE",
+      "start_char": 3538,
+      "end_char": 3558
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 3576,
+      "end_char": 3590
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 3694,
+      "end_char": 3704
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 3712,
+      "end_char": 3727
+    },
+    {
+      "text": "13.05.2016",
+      "label": "DATE",
+      "start_char": 3879,
+      "end_char": 3889
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 4052,
+      "end_char": 4062
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 4070,
+      "end_char": 4085
+    },
+    {
+      "text": "AS No.3/2017",
+      "label": "CASE_NUMBER",
+      "start_char": 4089,
+      "end_char": 4101
+    },
+    {
+      "text": "AS No.3/2017",
+      "label": "CASE_NUMBER",
+      "start_char": 4467,
+      "end_char": 4479
+    },
+    {
+      "text": "A S No.6/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 4660,
+      "end_char": 4673
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 4680,
+      "end_char": 4690
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 4698,
+      "end_char": 4713
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 4838,
+      "end_char": 4847
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 4855,
+      "end_char": 4869
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 5533,
+      "end_char": 5543
+    },
+    {
+      "text": "Arbitration and NC: 2023:KHC-K:1293-DB",
+      "label": "STATUTE",
+      "start_char": 5551,
+      "end_char": 5589
+    },
+    {
+      "text": "Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 5590,
+      "end_char": 5606
+    },
+    {
+      "text": "09.03.2017",
+      "label": "DATE",
+      "start_char": 5734,
+      "end_char": 5744
+    },
+    {
+      "text": "07.08.2019",
+      "label": "DATE",
+      "start_char": 5770,
+      "end_char": 5780
+    },
+    {
+      "text": "Section 34 (3)",
+      "label": "PROVISION",
+      "start_char": 5896,
+      "end_char": 5910
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 5918,
+      "end_char": 5950
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 6406,
+      "end_char": 6415
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 6423,
+      "end_char": 6437
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 6503,
+      "end_char": 6513
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 6521,
+      "end_char": 6559
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 6762,
+      "end_char": 6772
+    },
+    {
+      "text": "Ameet Kumar Deshpande",
+      "label": "LAWYER",
+      "start_char": 6827,
+      "end_char": 6848
+    },
+    {
+      "text": "Manvendra Reddy",
+      "label": "LAWYER",
+      "start_char": 6904,
+      "end_char": 6919
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 7079,
+      "end_char": 7089
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 7097,
+      "end_char": 7112
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 7157,
+      "end_char": 7170
+    },
+    {
+      "text": "Government of Maharashtra (Water Resources Department) vs. Borse Brothers Engineers and Contractors Private Limited reported in (2021) 6 SCC 460",
+      "label": "PRECEDENT",
+      "start_char": 7174,
+      "end_char": 7318
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 7379,
+      "end_char": 7392
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 7483,
+      "end_char": 7493
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 7501,
+      "end_char": 7516
+    },
+    {
+      "text": "Section 13 (1A)",
+      "label": "PROVISION",
+      "start_char": 7578,
+      "end_char": 7593
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 7601,
+      "end_char": 7628
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 7633,
+      "end_char": 7642
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 7650,
+      "end_char": 7664
+    },
+    {
+      "text": "Ameet Kumar Deshpande",
+      "label": "LAWYER",
+      "start_char": 7922,
+      "end_char": 7943
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 8095,
+      "end_char": 8105
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 8501,
+      "end_char": 8511
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 8519,
+      "end_char": 8534
+    },
+    {
+      "text": "AS 6/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 8610,
+      "end_char": 8619
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 9240,
+      "end_char": 9255
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 9480,
+      "end_char": 9490
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 9498,
+      "end_char": 9513
+    },
+    {
+      "text": "AS No.3/2017",
+      "label": "CASE_NUMBER",
+      "start_char": 9686,
+      "end_char": 9698
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 10007,
+      "end_char": 10017
+    },
+    {
+      "text": "Section 31(5) and Sections 34(3)",
+      "label": "PROVISION",
+      "start_char": 10207,
+      "end_char": 10239
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 10247,
+      "end_char": 10262
+    },
+    {
+      "text": "Section 31(5)",
+      "label": "PROVISION",
+      "start_char": 10523,
+      "end_char": 10536
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 10544,
+      "end_char": 10559
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 10866,
+      "end_char": 10876
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 10884,
+      "end_char": 10899
+    },
+    {
+      "text": "NC: 2023:KHC-K:1293-DB 7",
+      "label": "CASE_NUMBER",
+      "start_char": 11041,
+      "end_char": 11065
+    },
+    {
+      "text": "Manvendra Reddy",
+      "label": "LAWYER",
+      "start_char": 11071,
+      "end_char": 11086
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 11576,
+      "end_char": 11586
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 11594,
+      "end_char": 11609
+    },
+    {
+      "text": "Manvendra Reddy",
+      "label": "LAWYER",
+      "start_char": 11989,
+      "end_char": 12004
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 12392,
+      "end_char": 12405
+    },
+    {
+      "text": "Government of Maharashtra (Water Resources Department) vs. Borse Brothers Engineers and Contractors Private Limited",
+      "label": "PRECEDENT",
+      "start_char": 12409,
+      "end_char": 12524
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 13088,
+      "end_char": 13101
+    },
+    {
+      "text": "Government of Maharashtra (Water Resources - 12 - NC: 2023:KHC-K:1293-DB Department)",
+      "label": "PRECEDENT",
+      "start_char": 13105,
+      "end_char": 13189
+    },
+    {
+      "text": "Borse Brothers Engineers and Contractors Private Limited",
+      "label": "RESPONDENT",
+      "start_char": 13194,
+      "end_char": 13250
+    },
+    {
+      "text": "Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 13339,
+      "end_char": 13353
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 13512,
+      "end_char": 13527
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 13536,
+      "end_char": 13557
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 13583,
+      "end_char": 13593
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 13601,
+      "end_char": 13616
+    },
+    {
+      "text": "Articles 116 and 117",
+      "label": "PROVISION",
+      "start_char": 13638,
+      "end_char": 13658
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 13666,
+      "end_char": 13680
+    },
+    {
+      "text": "section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 13684,
+      "end_char": 13698
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 13706,
+      "end_char": 13727
+    },
+    {
+      "text": "AS No.3/2017",
+      "label": "CASE_NUMBER",
+      "start_char": 15026,
+      "end_char": 15038
+    },
+    {
+      "text": "Section 31(5)",
+      "label": "PROVISION",
+      "start_char": 15627,
+      "end_char": 15640
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 15648,
+      "end_char": 15663
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 16011,
+      "end_char": 16024
+    },
+    {
+      "text": "Government of Maharashtra (Water Resources Department) vs. Borse Brothers Engineers and Contractors Private Limited",
+      "label": "PRECEDENT",
+      "start_char": 16765,
+      "end_char": 16880
+    },
+    {
+      "text": "NC: 2023:KHC-K:1293-DB 14",
+      "label": "CASE_NUMBER",
+      "start_char": 17452,
+      "end_char": 17477
+    },
+    {
+      "text": "Ameet Kumar Deshpande",
+      "label": "LAWYER",
+      "start_char": 17498,
+      "end_char": 17519
+    }
+  ],
+  "precedent_clusters": {
+    "Government of Maharashtra (Water Resources - 12 - NC: 2023:KHC-K:1293-DB Department)": [
+      "Government of Maharashtra (Water Resources Department) vs. Borse Brothers Engineers and Contractors Private Limited",
+      "Government of Maharashtra (Water Resources - 12 - NC: 2023:KHC-K:1293-DB Department)",
+      "Government of Maharashtra (Water Resources Department) vs. Borse Brothers Engineers and Contractors Private Limited"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 5",
+      "Limitation Act, 1963",
+      "Section 5",
+      "Limitation Act, 1963"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 5",
+      "Limitation Act",
+      "Section 5",
+      "Limitation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and NC: 2023:KHC-K:1293-DB",
+      "Section 34",
+      "Arbitration and NC: 2023:KHC-K:1293-DB"
+    ],
+    [
+      "Section 34 (3)",
+      "Arbitration and Conciliation Act",
+      "Section 34 (3)",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 5",
+      "Limitation Act",
+      "Section 5",
+      "Limitation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 13 (1A)",
+      "Commercial Courts Act, 2015",
+      "Section 13 (1A)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 5",
+      "Limitation Act",
+      "Section 5",
+      "Limitation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 31(5) and Sections 34(3)",
+      "Arbitration Act",
+      "Section 31(5) and Sections 34(3)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 31(5)",
+      "Arbitration Act",
+      "Section 31(5)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 13(1A)",
+      "Arbitration Act",
+      "Section 13(1A)",
+      "Arbitration Act"
+    ],
+    [
+      "section 37",
+      "Arbitration Act",
+      "section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Articles 116 and 117",
+      "Limitation Act",
+      "Articles 116 and 117",
+      "Limitation Act"
+    ],
+    [
+      "section 13(1A)",
+      "Commercial Courts Act",
+      "section 13(1A)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 31(5)",
+      "Arbitration Act",
+      "Section 31(5)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ]
+  ],
+  "precedent_counts": {
+    "Government of Maharashtra (Water Resources - 12 - NC: 2023:KHC-K:1293-DB Department)": 3
+  },
+  "provision_counts": {
+    "Section 37 of Arbitration and Conciliation Act, 1996": 1,
+    "Section 5 of Limitation Act, 1963": 1,
+    "Section 37 of Arbitration Act": 4,
+    "Section 34 of Arbitration Act": 7,
+    "Section 5 of Limitation Act": 3,
+    "Section 34 of Arbitration and NC: 2023:KHC-K:1293-DB": 1,
+    "Section 34 (3) of Arbitration and Conciliation Act": 1,
+    "Section 34 of Arbitration and Conciliation Act, 1996": 2,
+    "Section 13 (1A) of Commercial Courts Act, 2015": 1,
+    "Section 31(5) and Sections 34(3) of Arbitration Act": 1,
+    "Section 31(5) of Arbitration Act": 2,
+    "Section 13(1A) of Arbitration Act": 1,
+    "section 37 of Arbitration Act": 1,
+    "Articles 116 and 117 of Limitation Act": 1,
+    "section 13(1A) of Commercial Courts Act": 1
+  },
+  "statute_counts": {
+    "Arbitration and Conciliation Act, 1996": 3,
+    "Limitation Act, 1963": 1,
+    "Arbitration Act": 16,
+    "Limitation Act": 4,
+    "Arbitration and NC: 2023:KHC-K:1293-DB": 1,
+    "Arbitration and Conciliation Act": 1,
+    "Commercial Courts Act, 2015": 1,
+    "Commercial Courts Act": 1
+  }
+}

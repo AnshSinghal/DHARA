@@ -1,0 +1,5026 @@
+{
+  "entities": [
+    {
+      "text": "Supreme Court of India",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 22
+    },
+    {
+      "text": "N.N. Global Mercantile Private",
+      "label": "PETITIONER",
+      "start_char": 27,
+      "end_char": 57
+    },
+    {
+      "text": "Indo Unique Flame Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 69,
+      "end_char": 91
+    },
+    {
+      "text": "Indu Malhotra",
+      "label": "LAWYER",
+      "start_char": 120,
+      "end_char": 133
+    },
+    {
+      "text": "Indira Banerjee",
+      "label": "JUDGE",
+      "start_char": 141,
+      "end_char": 156
+    },
+    {
+      "text": "Indu Malhotra",
+      "label": "LAWYER",
+      "start_char": 158,
+      "end_char": 171
+    },
+    {
+      "text": "Dhananjaya Y Chandrachud",
+      "label": "LAWYER",
+      "start_char": 173,
+      "end_char": 197
+    },
+    {
+      "text": "Supreme Court Of India",
+      "label": "COURT",
+      "start_char": 303,
+      "end_char": 325
+    },
+    {
+      "text": "SLP (Civil) Nos.13132-13133 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 460,
+      "end_char": 495
+    },
+    {
+      "text": "N.N. GLOBAL MERCANTILE PVT",
+      "label": "ORG",
+      "start_char": 504,
+      "end_char": 530
+    },
+    {
+      "text": "INDO UNIQUE FLAME LTD",
+      "label": "RESPONDENT",
+      "start_char": 624,
+      "end_char": 645
+    },
+    {
+      "text": "JUDGMENT INDU MALHOTRA",
+      "label": "JUDGE",
+      "start_char": 726,
+      "end_char": 748
+    },
+    {
+      "text": "Stamp Act",
+      "label": "STATUTE",
+      "start_char": 1102,
+      "end_char": 1111
+    },
+    {
+      "text": "Indo Unique Flame Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 1283,
+      "end_char": 1305
+    },
+    {
+      "text": "Karnataka Power Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 1388,
+      "end_char": 1420
+    },
+    {
+      "text": "KPCL",
+      "label": "ORG",
+      "start_char": 1449,
+      "end_char": 1453
+    },
+    {
+      "text": "18.09.2015",
+      "label": "DATE",
+      "start_char": 1531,
+      "end_char": 1541
+    },
+    {
+      "text": "Indo Unique",
+      "label": "OTHER_PERSON",
+      "start_char": 1545,
+      "end_char": 1556
+    },
+    {
+      "text": "18.09.2015",
+      "label": "DATE",
+      "start_char": 1596,
+      "end_char": 1606
+    },
+    {
+      "text": "KPCL",
+      "label": "ORG",
+      "start_char": 1695,
+      "end_char": 1699
+    },
+    {
+      "text": "State Bank of India",
+      "label": "ORG",
+      "start_char": 1721,
+      "end_char": 1740
+    },
+    {
+      "text": "SBI",
+      "label": "ORG",
+      "start_char": 1743,
+      "end_char": 1746
+    },
+    {
+      "text": "Indo Unique",
+      "label": "RESPONDENT",
+      "start_char": 1783,
+      "end_char": 1794
+    },
+    {
+      "text": "28.09.2015",
+      "label": "DATE",
+      "start_char": 1894,
+      "end_char": 1904
+    },
+    {
+      "text": "N.N. Global Mercantile Pvt",
+      "label": "ORG",
+      "start_char": 1939,
+      "end_char": 1965
+    },
+    {
+      "text": "Punwat",
+      "label": "GPE",
+      "start_char": 2054,
+      "end_char": 2060
+    },
+    {
+      "text": "Yavatmal",
+      "label": "GPE",
+      "start_char": 2071,
+      "end_char": 2079
+    },
+    {
+      "text": "Chanderpur",
+      "label": "GPE",
+      "start_char": 2181,
+      "end_char": 2191
+    },
+    {
+      "text": "Maharashtra",
+      "label": "GPE",
+      "start_char": 2193,
+      "end_char": 2204
+    },
+    {
+      "text": "Global Mercantile",
+      "label": "ORG",
+      "start_char": 2968,
+      "end_char": 2985
+    },
+    {
+      "text": "30.09.2015",
+      "label": "DATE",
+      "start_char": 3037,
+      "end_char": 3047
+    },
+    {
+      "text": "SBI",
+      "label": "ORG",
+      "start_char": 3062,
+      "end_char": 3065
+    },
+    {
+      "text": "Indo Unique",
+      "label": "OTHER_PERSON",
+      "start_char": 3080,
+      "end_char": 3091
+    },
+    {
+      "text": "10.11.2017",
+      "label": "DATE",
+      "start_char": 3170,
+      "end_char": 3180
+    },
+    {
+      "text": "KPCL",
+      "label": "ORG",
+      "start_char": 3221,
+      "end_char": 3225
+    },
+    {
+      "text": "18.09.2015",
+      "label": "DATE",
+      "start_char": 3232,
+      "end_char": 3242
+    },
+    {
+      "text": "Indo Unique",
+      "label": "ORG",
+      "start_char": 3288,
+      "end_char": 3299
+    },
+    {
+      "text": "KPCL",
+      "label": "ORG",
+      "start_char": 3354,
+      "end_char": 3358
+    },
+    {
+      "text": "06.12.2017",
+      "label": "DATE",
+      "start_char": 3362,
+      "end_char": 3372
+    },
+    {
+      "text": "Indo Unique",
+      "label": "PETITIONER",
+      "start_char": 3379,
+      "end_char": 3390
+    },
+    {
+      "text": "07.12.2017",
+      "label": "DATE",
+      "start_char": 3395,
+      "end_char": 3405
+    },
+    {
+      "text": "Global Mercantile",
+      "label": "ORG",
+      "start_char": 3447,
+      "end_char": 3464
+    },
+    {
+      "text": "Global Mercantile",
+      "label": "ORG",
+      "start_char": 3574,
+      "end_char": 3591
+    },
+    {
+      "text": "Civil (Commercial) Suit No.62 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 3600,
+      "end_char": 3637
+    },
+    {
+      "text": "Indo Unique",
+      "label": "ORG",
+      "start_char": 3646,
+      "end_char": 3657
+    },
+    {
+      "text": "SBI",
+      "label": "ORG",
+      "start_char": 3674,
+      "end_char": 3677
+    },
+    {
+      "text": "Union Bank of India",
+      "label": "RESPONDENT",
+      "start_char": 3724,
+      "end_char": 3743
+    },
+    {
+      "text": "Commercial Court, Nagpur",
+      "label": "COURT",
+      "start_char": 3781,
+      "end_char": 3805
+    },
+    {
+      "text": "Indo Unique",
+      "label": "ORG",
+      "start_char": 3848,
+      "end_char": 3859
+    },
+    {
+      "text": "Indo Unique",
+      "label": "ORG",
+      "start_char": 3978,
+      "end_char": 3989
+    },
+    {
+      "text": "15.12.2017",
+      "label": "DATE",
+      "start_char": 4436,
+      "end_char": 4446
+    },
+    {
+      "text": "Indo Unique",
+      "label": "PETITIONER",
+      "start_char": 4544,
+      "end_char": 4555
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 4583,
+      "end_char": 4592
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 4600,
+      "end_char": 4638
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 4641,
+      "end_char": 4656
+    },
+    {
+      "text": "Civil (Commercial) Suit No.62 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 4662,
+      "end_char": 4699
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 4796,
+      "end_char": 4805
+    },
+    {
+      "text": "18.01.2018",
+      "label": "DATE",
+      "start_char": 4984,
+      "end_char": 4994
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 5026,
+      "end_char": 5035
+    },
+    {
+      "text": "28.09.2015",
+      "label": "DATE",
+      "start_char": 5098,
+      "end_char": 5108
+    },
+    {
+      "text": "SBI",
+      "label": "ORG",
+      "start_char": 5240,
+      "end_char": 5243
+    },
+    {
+      "text": "Union Bank of India",
+      "label": "ORG",
+      "start_char": 5248,
+      "end_char": 5267
+    },
+    {
+      "text": "Global Mercantile",
+      "label": "ORG",
+      "start_char": 5339,
+      "end_char": 5356
+    },
+    {
+      "text": "28.09.2015",
+      "label": "DATE",
+      "start_char": 5432,
+      "end_char": 5442
+    },
+    {
+      "text": "Indo Unique",
+      "label": "PETITIONER",
+      "start_char": 5562,
+      "end_char": 5573
+    },
+    {
+      "text": "Civil Revision Petition No.9 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 5585,
+      "end_char": 5621
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 5633,
+      "end_char": 5650
+    },
+    {
+      "text": "09.07.2020",
+      "label": "DATE",
+      "start_char": 5822,
+      "end_char": 5832
+    },
+    {
+      "text": "Articles 226 and 227",
+      "label": "PROVISION",
+      "start_char": 5928,
+      "end_char": 5948
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 5956,
+      "end_char": 5977
+    },
+    {
+      "text": "Indo Unique",
+      "label": "PETITIONER",
+      "start_char": 5985,
+      "end_char": 5996
+    },
+    {
+      "text": "W.P. No.1801 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 6003,
+      "end_char": 6023
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 6035,
+      "end_char": 6052
+    },
+    {
+      "text": "18.01.2018",
+      "label": "DATE",
+      "start_char": 6092,
+      "end_char": 6102
+    },
+    {
+      "text": "Commercial Court/District Judge-I, Nagpur",
+      "label": "COURT",
+      "start_char": 6117,
+      "end_char": 6158
+    },
+    {
+      "text": "Civil (Commercial) Suit No.62/2017",
+      "label": "CASE_NUMBER",
+      "start_char": 6162,
+      "end_char": 6196
+    },
+    {
+      "text": "30.09.2020",
+      "label": "DATE",
+      "start_char": 6247,
+      "end_char": 6257
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 6394,
+      "end_char": 6403
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 7105,
+      "end_char": 7115
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 7123,
+      "end_char": 7138
+    },
+    {
+      "text": "30.09.2020",
+      "label": "DATE",
+      "start_char": 7407,
+      "end_char": 7417
+    },
+    {
+      "text": "18.01.2018",
+      "label": "DATE",
+      "start_char": 7439,
+      "end_char": 7449
+    },
+    {
+      "text": "30.09.2020",
+      "label": "DATE",
+      "start_char": 7628,
+      "end_char": 7638
+    },
+    {
+      "text": "28.10.2020",
+      "label": "DATE",
+      "start_char": 7720,
+      "end_char": 7730
+    },
+    {
+      "text": "Review Application (ST) No. 9819 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 7741,
+      "end_char": 7781
+    },
+    {
+      "text": "20.11.2020",
+      "label": "DATE",
+      "start_char": 7870,
+      "end_char": 7880
+    },
+    {
+      "text": "Global Mercantile",
+      "label": "ORG",
+      "start_char": 7933,
+      "end_char": 7950
+    },
+    {
+      "text": "28.09.2015",
+      "label": "DATE",
+      "start_char": 8178,
+      "end_char": 8188
+    },
+    {
+      "text": "Stamp Act",
+      "label": "STATUTE",
+      "start_char": 8231,
+      "end_char": 8240
+    },
+    {
+      "text": "Articles 226 and 227",
+      "label": "PROVISION",
+      "start_char": 8378,
+      "end_char": 8398
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 8406,
+      "end_char": 8418
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 8523,
+      "end_char": 8532
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 8540,
+      "end_char": 8555
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 10327,
+      "end_char": 10342
+    },
+    {
+      "text": "sub-section (6) of Section 16",
+      "label": "PROVISION",
+      "start_char": 10443,
+      "end_char": 10472
+    },
+    {
+      "text": "Heyman v. Darwins Ltd1",
+      "label": "PRECEDENT",
+      "start_char": 10897,
+      "end_char": 10919
+    },
+    {
+      "text": "Wright",
+      "label": "OTHER_PERSON",
+      "start_char": 11135,
+      "end_char": 11141
+    },
+    {
+      "text": "MacMillan",
+      "label": "OTHER_PERSON",
+      "start_char": 11420,
+      "end_char": 11429
+    },
+    {
+      "text": "Bremer Vulkan Schiffbau und Maschinefabrik v. South India Shipping Corporation2",
+      "label": "PRECEDENT",
+      "start_char": 11795,
+      "end_char": 11874
+    },
+    {
+      "text": "Diplock",
+      "label": "OTHER_PERSON",
+      "start_char": 11889,
+      "end_char": 11896
+    },
+    {
+      "text": "Heyman",
+      "label": "OTHER_PERSON",
+      "start_char": 11903,
+      "end_char": 11909
+    },
+    {
+      "text": "[1942] AC 356",
+      "label": "PRECEDENT",
+      "start_char": 11953,
+      "end_char": 11966
+    },
+    {
+      "text": "[1981] AC 909",
+      "label": "PRECEDENT",
+      "start_char": 11971,
+      "end_char": 11984
+    },
+    {
+      "text": "Harbour Assurance v. Kansa General International Insurance,3",
+      "label": "PRECEDENT",
+      "start_char": 12119,
+      "end_char": 12179
+    },
+    {
+      "text": "Lesotho Highlands Development Authority v. Impregilo SpA and others,4",
+      "label": "PRECEDENT",
+      "start_char": 12900,
+      "end_char": 12969
+    },
+    {
+      "text": "Harbour Assurance",
+      "label": "PRECEDENT",
+      "start_char": 13016,
+      "end_char": 13033
+    },
+    {
+      "text": "Harbour Assurance Co v. Kansa General International Insurance",
+      "label": "PRECEDENT",
+      "start_char": 13247,
+      "end_char": 13308
+    },
+    {
+      "text": "s. 7",
+      "label": "PROVISION",
+      "start_char": 13327,
+      "end_char": 13331
+    },
+    {
+      "text": "Article 16(1)",
+      "label": "PROVISION",
+      "start_char": 13461,
+      "end_char": 13474
+    },
+    {
+      "text": "3 [1993] 1 Lloyd’s Rep. 455 (CA)",
+      "label": "PRECEDENT",
+      "start_char": 13997,
+      "end_char": 14029
+    },
+    {
+      "text": "UKHL 43 : [2006] 1 A.C. 221",
+      "label": "CASE_NUMBER",
+      "start_char": 14041,
+      "end_char": 14068
+    },
+    {
+      "text": "Gosset v. Caparelli,5",
+      "label": "PRECEDENT",
+      "start_char": 14175,
+      "end_char": 14196
+    },
+    {
+      "text": "Fiona Trust & Holding Corporation v. Privalov,6",
+      "label": "PRECEDENT",
+      "start_char": 14921,
+      "end_char": 14968
+    },
+    {
+      "text": "7 May 1963",
+      "label": "DATE",
+      "start_char": 15695,
+      "end_char": 15705
+    },
+    {
+      "text": "Fiona Trust",
+      "label": "ORG",
+      "start_char": 16547,
+      "end_char": 16558
+    },
+    {
+      "text": "Fili Shipping Co Ltd and others v. Premium Nafta Products Ltd and others7",
+      "label": "PRECEDENT",
+      "start_char": 16594,
+      "end_char": 16667
+    },
+    {
+      "text": "Hoffman",
+      "label": "OTHER_PERSON",
+      "start_char": 16674,
+      "end_char": 16681
+    },
+    {
+      "text": "section 7",
+      "label": "PROVISION",
+      "start_char": 17001,
+      "end_char": 17010
+    },
+    {
+      "text": "Hope",
+      "label": "OTHER_PERSON",
+      "start_char": 17281,
+      "end_char": 17285
+    },
+    {
+      "text": "U.K.",
+      "label": "GPE",
+      "start_char": 18167,
+      "end_char": 18171
+    },
+    {
+      "text": "Hoffman",
+      "label": "OTHER_PERSON",
+      "start_char": 18650,
+      "end_char": 18657
+    },
+    {
+      "text": "s 7",
+      "label": "PROVISION",
+      "start_char": 18734,
+      "end_char": 18737
+    },
+    {
+      "text": "8",
+      "label": "DATE",
+      "start_char": 19250,
+      "end_char": 19251
+    },
+    {
+      "text": "3.14",
+      "label": "DATE",
+      "start_char": 19252,
+      "end_char": 19256
+    },
+    {
+      "text": "U.S. Supreme Court",
+      "label": "COURT",
+      "start_char": 19411,
+      "end_char": 19429
+    },
+    {
+      "text": "Prima Paint Corporation v. Flood & Conklin MFG",
+      "label": "PRECEDENT",
+      "start_char": 19433,
+      "end_char": 19479
+    },
+    {
+      "text": "[2007] 4 ALL ER 951 at 960",
+      "label": "PRECEDENT",
+      "start_char": 20101,
+      "end_char": 20127
+    },
+    {
+      "text": "3.15",
+      "label": "DATE",
+      "start_char": 20169,
+      "end_char": 20173
+    },
+    {
+      "text": "United States Supreme Court",
+      "label": "COURT",
+      "start_char": 20178,
+      "end_char": 20205
+    },
+    {
+      "text": "Buckeye Check Cashing, Inc v. Cardegna et. al,10",
+      "label": "PRECEDENT",
+      "start_char": 20209,
+      "end_char": 20257
+    },
+    {
+      "text": "Prima Paint and Southland Corp. v. Keating.11 Scalia",
+      "label": "PRECEDENT",
+      "start_char": 20292,
+      "end_char": 20344
+    },
+    {
+      "text": "Prima Paint and Southland",
+      "label": "ORG",
+      "start_char": 20359,
+      "end_char": 20384
+    },
+    {
+      "text": "3.16",
+      "label": "DATE",
+      "start_char": 21202,
+      "end_char": 21206
+    },
+    {
+      "text": "Rent-A- Center, West, Inc. v. Jackon,12 the",
+      "label": "PRECEDENT",
+      "start_char": 21210,
+      "end_char": 21253
+    },
+    {
+      "text": "U.S. Supreme Court",
+      "label": "COURT",
+      "start_char": 21254,
+      "end_char": 21272
+    },
+    {
+      "text": "§ 2",
+      "label": "PROVISION",
+      "start_char": 21332,
+      "end_char": 21335
+    },
+    {
+      "text": "Prima Paint Corp. v. Flood & Conklin Mfg. Co., 388 US 395, 403-404 (1967)",
+      "label": "PRECEDENT",
+      "start_char": 21923,
+      "end_char": 21996
+    },
+    {
+      "text": "Buckeye",
+      "label": "OTHER_PERSON",
+      "start_char": 21998,
+      "end_char": 22005
+    },
+    {
+      "text": "Preston v. Ferrer, 552 US 346, 353-354 (2008)",
+      "label": "PRECEDENT",
+      "start_char": 22026,
+      "end_char": 22071
+    },
+    {
+      "text": "§ 2",
+      "label": "PROVISION",
+      "start_char": 22089,
+      "end_char": 22092
+    },
+    {
+      "text": "§2",
+      "label": "PROVISION",
+      "start_char": 22666,
+      "end_char": 22668
+    },
+    {
+      "text": "Prima Paint Corp. v. Flood & Conklin Mfg. Co., 388 U.S. 395 (1967)",
+      "label": "PRECEDENT",
+      "start_char": 22731,
+      "end_char": 22797
+    },
+    {
+      "text": "Buckeye Check Cashing, Inc. v. Cardegna, 546 US 440, 446 (2006)",
+      "label": "PRECEDENT",
+      "start_char": 23293,
+      "end_char": 23356
+    },
+    {
+      "text": "Prima Paint",
+      "label": "ORG",
+      "start_char": 23488,
+      "end_char": 23499
+    },
+    {
+      "text": "Indian Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 24317,
+      "end_char": 24362
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 24390,
+      "end_char": 24400
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 24488,
+      "end_char": 24498
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 25121,
+      "end_char": 25130
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 25218,
+      "end_char": 25224
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 25232,
+      "end_char": 25247
+    },
+    {
+      "text": "Sections 5 and 16",
+      "label": "PROVISION",
+      "start_char": 25271,
+      "end_char": 25288
+    },
+    {
+      "text": "Uttarakhand Purv Sainik Kalyan Nigam Ltd. v.\nNorthern Coal Field Ltd.13",
+      "label": "PRECEDENT",
+      "start_char": 25467,
+      "end_char": 25538
+    },
+    {
+      "text": "Indu Malhotra",
+      "label": "JUDGE",
+      "start_char": 25568,
+      "end_char": 25581
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 25754,
+      "end_char": 25764
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 25988,
+      "end_char": 25998
+    },
+    {
+      "text": "2015 Amendment Act",
+      "label": "STATUTE",
+      "start_char": 26020,
+      "end_char": 26038
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 26112,
+      "end_char": 26125
+    },
+    {
+      "text": "Section 11(6-A)",
+      "label": "PROVISION",
+      "start_char": 26481,
+      "end_char": 26496
+    },
+    {
+      "text": "Boghara Polyfab",
+      "label": "ORG",
+      "start_char": 26545,
+      "end_char": 26560
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 26691,
+      "end_char": 26701
+    },
+    {
+      "text": "Duro Felguera S.A. v. Gangavaram Port Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 26771,
+      "end_char": 26813
+    },
+    {
+      "text": "Duro Felguera S.A. v. Gangavaram Port Ltd., (2017) 9 SCC 729 : (2017) 4 SCC (Civ) 764",
+      "label": "PRECEDENT",
+      "start_char": 26815,
+      "end_char": 26900
+    },
+    {
+      "text": "TRF Ltd. v. Energo Engg",
+      "label": "PRECEDENT",
+      "start_char": 26911,
+      "end_char": 26934
+    },
+    {
+      "text": "Projects Ltd., (2017) 8 SCC 377 : (2017) 4 SCC (Civ) 72]",
+      "label": "PRECEDENT",
+      "start_char": 26936,
+      "end_char": 26992
+    },
+    {
+      "text": "Section 11(6-A)",
+      "label": "PROVISION",
+      "start_char": 27072,
+      "end_char": 27087
+    },
+    {
+      "text": "Section 11(6-A)",
+      "label": "PROVISION",
+      "start_char": 27622,
+      "end_char": 27637
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 27814,
+      "end_char": 27824
+    },
+    {
+      "text": "13 (2020) 2 SCC 455",
+      "label": "PRECEDENT",
+      "start_char": 28253,
+      "end_char": 28272
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 28909,
+      "end_char": 28918
+    },
+    {
+      "text": "Contract Act, 1872",
+      "label": "STATUTE",
+      "start_char": 28926,
+      "end_char": 28944
+    },
+    {
+      "text": "Dresser Rand S.A. v. Bindal Agro Chem Ltd., (2006) 1 SCC 751",
+      "label": "PRECEDENT",
+      "start_char": 29015,
+      "end_char": 29075
+    },
+    {
+      "text": "BSNL v. Telephone Cables Ltd., (2010) 5",
+      "label": "PRECEDENT",
+      "start_char": 29086,
+      "end_char": 29125
+    },
+    {
+      "text": "SCC 213 : (2010) 2 SCC (Civ)\n352",
+      "label": "CASE_NUMBER",
+      "start_char": 29126,
+      "end_char": 29158
+    },
+    {
+      "text": "PSA Mumbai Investments Pte",
+      "label": "ORG",
+      "start_char": 29169,
+      "end_char": 29195
+    },
+    {
+      "text": "Ltd. v. Jawaharlal Nehru Port Trust, (2018)",
+      "label": "PRECEDENT",
+      "start_char": 29197,
+      "end_char": 29240
+    },
+    {
+      "text": "Article V(1)(a)",
+      "label": "PROVISION",
+      "start_char": 29577,
+      "end_char": 29592
+    },
+    {
+      "text": "New York Convention",
+      "label": "STATUTE",
+      "start_char": 29600,
+      "end_char": 29619
+    },
+    {
+      "text": "7.13",
+      "label": "DATE",
+      "start_char": 29876,
+      "end_char": 29880
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 29911,
+      "end_char": 29921
+    },
+    {
+      "text": "Sub-section (1) of Section 16",
+      "label": "PROVISION",
+      "start_char": 30083,
+      "end_char": 30112
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 30282,
+      "end_char": 30292
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 30539,
+      "end_char": 30549
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 30608,
+      "end_char": 30618
+    },
+    {
+      "text": "A. Ayyasamy v. Parmasivam & Ors",
+      "label": "PRECEDENT",
+      "start_char": 30789,
+      "end_char": 30820
+    },
+    {
+      "text": "D.Y. Chandrachud",
+      "label": "JUDGE",
+      "start_char": 30829,
+      "end_char": 30845
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 30899,
+      "end_char": 30937
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 31140,
+      "end_char": 31145
+    },
+    {
+      "text": "14 (2016) 10 SCC 386",
+      "label": "PRECEDENT",
+      "start_char": 31430,
+      "end_char": 31450
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 31589,
+      "end_char": 31598
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 31675,
+      "end_char": 31685
+    },
+    {
+      "text": "Maharashtra Stamp Act, 1958",
+      "label": "STATUTE",
+      "start_char": 31693,
+      "end_char": 31720
+    },
+    {
+      "text": "Garware Wall Ropes Limited v. Coastal Marine Constructions and Engineering Limited,15",
+      "label": "PRECEDENT",
+      "start_char": 32160,
+      "end_char": 32245
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 32446,
+      "end_char": 32455
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 32531,
+      "end_char": 32541
+    },
+    {
+      "text": "Maharashtra Stamp Act, 1958",
+      "label": "STATUTE",
+      "start_char": 32549,
+      "end_char": 32576
+    },
+    {
+      "text": "03.01.2018",
+      "label": "DATE",
+      "start_char": 32651,
+      "end_char": 32661
+    },
+    {
+      "text": "Naina Thakkar v. Annapurna Builders.16 15 (2019) 9 SCC 209",
+      "label": "PRECEDENT",
+      "start_char": 32972,
+      "end_char": 33030
+    },
+    {
+      "text": "16 (2013) 14 SCC 354",
+      "label": "PRECEDENT",
+      "start_char": 33033,
+      "end_char": 33053
+    },
+    {
+      "text": "Indo Unique",
+      "label": "RESPONDENT",
+      "start_char": 33060,
+      "end_char": 33071
+    },
+    {
+      "text": "28.09.2015",
+      "label": "DATE",
+      "start_char": 33142,
+      "end_char": 33152
+    },
+    {
+      "text": "Maharashtra Stamp Act, 1958",
+      "label": "STATUTE",
+      "start_char": 33498,
+      "end_char": 33525
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 33533,
+      "end_char": 33542
+    },
+    {
+      "text": "Maharashtra Stamp Act, 1958",
+      "label": "STATUTE",
+      "start_char": 33550,
+      "end_char": 33577
+    },
+    {
+      "text": "Schedule I",
+      "label": "PROVISION",
+      "start_char": 33697,
+      "end_char": 33707
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 33721,
+      "end_char": 33730
+    },
+    {
+      "text": "Schedule I",
+      "label": "PROVISION",
+      "start_char": 33851,
+      "end_char": 33861
+    },
+    {
+      "text": "Schedule I",
+      "label": "PROVISION",
+      "start_char": 33946,
+      "end_char": 33956
+    },
+    {
+      "text": "Schedule I",
+      "label": "PROVISION",
+      "start_char": 34050,
+      "end_char": 34060
+    },
+    {
+      "text": "Section 30",
+      "label": "PROVISION",
+      "start_char": 34201,
+      "end_char": 34211
+    },
+    {
+      "text": "Article 63 of SCHEDULE I",
+      "label": "PROVISION",
+      "start_char": 34531,
+      "end_char": 34555
+    },
+    {
+      "text": "Section 32A",
+      "label": "PROVISION",
+      "start_char": 34602,
+      "end_char": 34613
+    },
+    {
+      "text": "Registration Act, 1908",
+      "label": "STATUTE",
+      "start_char": 35106,
+      "end_char": 35128
+    },
+    {
+      "text": "4th July 1980",
+      "label": "DATE",
+      "start_char": 35244,
+      "end_char": 35257
+    },
+    {
+      "text": "Bombay Stamp (Amendment) Act, 1985",
+      "label": "STATUTE",
+      "start_char": 35294,
+      "end_char": 35328
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 35536,
+      "end_char": 35546
+    },
+    {
+      "text": "section 32A",
+      "label": "PROVISION",
+      "start_char": 35751,
+      "end_char": 35762
+    },
+    {
+      "text": "Chapter IX or Part D of Chapter X",
+      "label": "PROVISION",
+      "start_char": 36887,
+      "end_char": 36920
+    },
+    {
+      "text": "Code of Criminal Procedure, 1973",
+      "label": "STATUTE",
+      "start_char": 36928,
+      "end_char": 36960
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 37149,
+      "end_char": 37159
+    },
+    {
+      "text": "Stamp Act",
+      "label": "STATUTE",
+      "start_char": 38056,
+      "end_char": 38065
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 38072,
+      "end_char": 38082
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 38331,
+      "end_char": 38341
+    },
+    {
+      "text": "Avinash Kumar Chauhan v. Vijay Krishna Mishra, (2009) 2 SCC 532",
+      "label": "PRECEDENT",
+      "start_char": 38887,
+      "end_char": 38950
+    },
+    {
+      "text": "Black Pearl Hotels (P) Ltd. v. Planet M. Retail Ltd., (2017) 4 SCC 498",
+      "label": "PRECEDENT",
+      "start_char": 38955,
+      "end_char": 39025
+    },
+    {
+      "text": "Chapter IX or Part D of Chapter X",
+      "label": "PROVISION",
+      "start_char": 39938,
+      "end_char": 39971
+    },
+    {
+      "text": "Code of Criminal Procedure, 1973",
+      "label": "STATUTE",
+      "start_char": 39979,
+      "end_char": 40011
+    },
+    {
+      "text": "Section 32",
+      "label": "PROVISION",
+      "start_char": 40240,
+      "end_char": 40250
+    },
+    {
+      "text": "Section 35",
+      "label": "PROVISION",
+      "start_char": 40544,
+      "end_char": 40554
+    },
+    {
+      "text": "section 58",
+      "label": "PROVISION",
+      "start_char": 40726,
+      "end_char": 40736
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 40871,
+      "end_char": 40881
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 41302,
+      "end_char": 41312
+    },
+    {
+      "text": "section 33",
+      "label": "PROVISION",
+      "start_char": 41423,
+      "end_char": 41433
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 41577,
+      "end_char": 41587
+    },
+    {
+      "text": "section 36",
+      "label": "PROVISION",
+      "start_char": 41614,
+      "end_char": 41624
+    },
+    {
+      "text": "section 31",
+      "label": "PROVISION",
+      "start_char": 42084,
+      "end_char": 42094
+    },
+    {
+      "text": "section 33A",
+      "label": "PROVISION",
+      "start_char": 42123,
+      "end_char": 42134
+    },
+    {
+      "text": "clause (a) of sub-section (1) of section 39",
+      "label": "PROVISION",
+      "start_char": 42461,
+      "end_char": 42504
+    },
+    {
+      "text": "sub-section (1) of section 41",
+      "label": "PROVISION",
+      "start_char": 42514,
+      "end_char": 42543
+    },
+    {
+      "text": "Schedule I",
+      "label": "PROVISION",
+      "start_char": 43561,
+      "end_char": 43571
+    },
+    {
+      "text": "Section 41",
+      "label": "PROVISION",
+      "start_char": 43731,
+      "end_char": 43741
+    },
+    {
+      "text": "Maharashtra Stamp Act",
+      "label": "STATUTE",
+      "start_char": 43749,
+      "end_char": 43770
+    },
+    {
+      "text": "Section 41",
+      "label": "PROVISION",
+      "start_char": 43777,
+      "end_char": 43787
+    },
+    {
+      "text": "section 34, 39 or 40 – (1)",
+      "label": "PROVISION",
+      "start_char": 43866,
+      "end_char": 43892
+    },
+    {
+      "text": "sub-section (1) of section 32A",
+      "label": "PROVISION",
+      "start_char": 44007,
+      "end_char": 44037
+    },
+    {
+      "text": "section 34, section 39 or section 40",
+      "label": "PROVISION",
+      "start_char": 44061,
+      "end_char": 44097
+    },
+    {
+      "text": "section 53A",
+      "label": "PROVISION",
+      "start_char": 44450,
+      "end_char": 44461
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 44980,
+      "end_char": 44990
+    },
+    {
+      "text": "rule 9 of Order XIII",
+      "label": "PROVISION",
+      "start_char": 45256,
+      "end_char": 45276
+    },
+    {
+      "text": "Schedule I",
+      "label": "PROVISION",
+      "start_char": 45280,
+      "end_char": 45290
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 45298,
+      "end_char": 45327
+    },
+    {
+      "text": "Section 58",
+      "label": "PROVISION",
+      "start_char": 45335,
+      "end_char": 45345
+    },
+    {
+      "text": "Chapter IX or Part D of Chapter X",
+      "label": "PROVISION",
+      "start_char": 45563,
+      "end_char": 45596
+    },
+    {
+      "text": "Code of Criminal Procedure 1973",
+      "label": "STATUTE",
+      "start_char": 45604,
+      "end_char": 45635
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 45779,
+      "end_char": 45789
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 46148,
+      "end_char": 46158
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 46512,
+      "end_char": 46522
+    },
+    {
+      "text": "sub -section (3)",
+      "label": "PROVISION",
+      "start_char": 47154,
+      "end_char": 47170
+    },
+    {
+      "text": "section 41",
+      "label": "PROVISION",
+      "start_char": 47921,
+      "end_char": 47931
+    },
+    {
+      "text": "section 42",
+      "label": "PROVISION",
+      "start_char": 47939,
+      "end_char": 47949
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 48298,
+      "end_char": 48308
+    },
+    {
+      "text": "section 41",
+      "label": "PROVISION",
+      "start_char": 48664,
+      "end_char": 48674
+    },
+    {
+      "text": "Maharashtra Stamp Act, 1958",
+      "label": "STATUTE",
+      "start_char": 48715,
+      "end_char": 48742
+    },
+    {
+      "text": "Stamp Act",
+      "label": "STATUTE",
+      "start_char": 49755,
+      "end_char": 49764
+    },
+    {
+      "text": "Stamp Act",
+      "label": "STATUTE",
+      "start_char": 49930,
+      "end_char": 49939
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 50010,
+      "end_char": 50020
+    },
+    {
+      "text": "Maharashtra Stamp Act, 1958",
+      "label": "STATUTE",
+      "start_char": 50028,
+      "end_char": 50055
+    },
+    {
+      "text": "proviso to Section 34",
+      "label": "PROVISION",
+      "start_char": 50306,
+      "end_char": 50327
+    },
+    {
+      "text": "Indian Stamp Act",
+      "label": "STATUTE",
+      "start_char": 50472,
+      "end_char": 50488
+    },
+    {
+      "text": "Ram Rattan v. Parma Nand,19",
+      "label": "PRECEDENT",
+      "start_char": 50529,
+      "end_char": 50556
+    },
+    {
+      "text": "Section 35",
+      "label": "PROVISION",
+      "start_char": 50617,
+      "end_char": 50627
+    },
+    {
+      "text": "Stamp Act",
+      "label": "STATUTE",
+      "start_char": 50635,
+      "end_char": 50644
+    },
+    {
+      "text": "Section 41(1)",
+      "label": "PROVISION",
+      "start_char": 50915,
+      "end_char": 50928
+    },
+    {
+      "text": "Maharashtra Stamp Act, 1958",
+      "label": "STATUTE",
+      "start_char": 50936,
+      "end_char": 50963
+    },
+    {
+      "text": "Section 41(2)",
+      "label": "PROVISION",
+      "start_char": 51243,
+      "end_char": 51256
+    },
+    {
+      "text": "19 (1945-46) 73 IA 28: AIR 1946 PC 51",
+      "label": "PRECEDENT",
+      "start_char": 51438,
+      "end_char": 51475
+    },
+    {
+      "text": "SMS Tea Estates Pvt. Ltd. v. M/s. Chandmari Tea Co.\nPvt",
+      "label": "PRECEDENT",
+      "start_char": 51496,
+      "end_char": 51551
+    },
+    {
+      "text": "Sections 17 and 19",
+      "label": "PROVISION",
+      "start_char": 51704,
+      "end_char": 51722
+    },
+    {
+      "text": "Registration Act 1908",
+      "label": "STATUTE",
+      "start_char": 51730,
+      "end_char": 51751
+    },
+    {
+      "text": "Section 49",
+      "label": "PROVISION",
+      "start_char": 52247,
+      "end_char": 52257
+    },
+    {
+      "text": "Section 49",
+      "label": "PROVISION",
+      "start_char": 53127,
+      "end_char": 53137
+    },
+    {
+      "text": "Registration Act",
+      "label": "STATUTE",
+      "start_char": 53145,
+      "end_char": 53161
+    },
+    {
+      "text": "20(2011) 14 SCC 66",
+      "label": "PRECEDENT",
+      "start_char": 53914,
+      "end_char": 53932
+    },
+    {
+      "text": "Naina Thakkar v. Annapurna Builders, (2013) 14 SCC 354",
+      "label": "PRECEDENT",
+      "start_char": 53947,
+      "end_char": 54001
+    },
+    {
+      "text": "Registration Act",
+      "label": "STATUTE",
+      "start_char": 54799,
+      "end_char": 54815
+    },
+    {
+      "text": "Section 49",
+      "label": "PROVISION",
+      "start_char": 55056,
+      "end_char": 55066
+    },
+    {
+      "text": "Registration Act",
+      "label": "STATUTE",
+      "start_char": 55074,
+      "end_char": 55090
+    },
+    {
+      "text": "Section 16(1)(a)",
+      "label": "PROVISION",
+      "start_char": 55101,
+      "end_char": 55117
+    },
+    {
+      "text": "S. 19",
+      "label": "PROVISION",
+      "start_char": 55412,
+      "end_char": 55417
+    },
+    {
+      "text": "Indian Contract Act, 1872",
+      "label": "STATUTE",
+      "start_char": 55425,
+      "end_char": 55450
+    },
+    {
+      "text": "Section 19",
+      "label": "PROVISION",
+      "start_char": 55870,
+      "end_char": 55880
+    },
+    {
+      "text": "Contract Act, 1872",
+      "label": "STATUTE",
+      "start_char": 55888,
+      "end_char": 55906
+    },
+    {
+      "text": "Section 35",
+      "label": "PROVISION",
+      "start_char": 56579,
+      "end_char": 56589
+    },
+    {
+      "text": "Stamp Act",
+      "label": "STATUTE",
+      "start_char": 56597,
+      "end_char": 56606
+    },
+    {
+      "text": "Section 35",
+      "label": "PROVISION",
+      "start_char": 56826,
+      "end_char": 56836
+    },
+    {
+      "text": "Stamp Act",
+      "label": "STATUTE",
+      "start_char": 56844,
+      "end_char": 56853
+    },
+    {
+      "text": "Section 49",
+      "label": "PROVISION",
+      "start_char": 56885,
+      "end_char": 56895
+    },
+    {
+      "text": "Registration Act",
+      "label": "STATUTE",
+      "start_char": 56903,
+      "end_char": 56919
+    },
+    {
+      "text": "Section 35",
+      "label": "PROVISION",
+      "start_char": 56959,
+      "end_char": 56969
+    },
+    {
+      "text": "Stamp Act",
+      "label": "STATUTE",
+      "start_char": 56977,
+      "end_char": 56986
+    },
+    {
+      "text": "Section 49",
+      "label": "PROVISION",
+      "start_char": 57020,
+      "end_char": 57030
+    },
+    {
+      "text": "Registration Act",
+      "label": "STATUTE",
+      "start_char": 57038,
+      "end_char": 57054
+    },
+    {
+      "text": "Section 38",
+      "label": "PROVISION",
+      "start_char": 57510,
+      "end_char": 57520
+    },
+    {
+      "text": "Stamp Act",
+      "label": "STATUTE",
+      "start_char": 57528,
+      "end_char": 57537
+    },
+    {
+      "text": "Section 35 or Section 40",
+      "label": "PROVISION",
+      "start_char": 57685,
+      "end_char": 57709
+    },
+    {
+      "text": "Stamp Act",
+      "label": "STATUTE",
+      "start_char": 57717,
+      "end_char": 57726
+    },
+    {
+      "text": "SMS Tea Estates",
+      "label": "ORG",
+      "start_char": 57825,
+      "end_char": 57840
+    },
+    {
+      "text": "S. 11",
+      "label": "PROVISION",
+      "start_char": 57878,
+      "end_char": 57883
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 57891,
+      "end_char": 57906
+    },
+    {
+      "text": "Constitution Bench",
+      "label": "COURT",
+      "start_char": 58050,
+      "end_char": 58068
+    },
+    {
+      "text": "SBP & Co. v. Patel Engineering Ltd.21",
+      "label": "PRECEDENT",
+      "start_char": 58081,
+      "end_char": 58118
+    },
+    {
+      "text": "National Insurance Co. v.\nBoghara Polyfab22",
+      "label": "PRECEDENT",
+      "start_char": 58141,
+      "end_char": 58184
+    },
+    {
+      "text": "Master Construction Company v. Union of India23",
+      "label": "PRECEDENT",
+      "start_char": 58186,
+      "end_char": 58233
+    },
+    {
+      "text": "S. 11(6)",
+      "label": "PROVISION",
+      "start_char": 58296,
+      "end_char": 58304
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 58533,
+      "end_char": 58543
+    },
+    {
+      "text": "2016 Amendment Act",
+      "label": "STATUTE",
+      "start_char": 58563,
+      "end_char": 58581
+    },
+    {
+      "text": "S. 11 of 21 (2005)",
+      "label": "PROVISION",
+      "start_char": 58874,
+      "end_char": 58892
+    },
+    {
+      "text": "SCC 618",
+      "label": "CASE_NUMBER",
+      "start_char": 58895,
+      "end_char": 58902
+    },
+    {
+      "text": "22 (2009) 1 SCC 267",
+      "label": "PRECEDENT",
+      "start_char": 58905,
+      "end_char": 58924
+    },
+    {
+      "text": "23 (2011) 12 SCC 357",
+      "label": "PRECEDENT",
+      "start_char": 58927,
+      "end_char": 58947
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 58954,
+      "end_char": 58969
+    },
+    {
+      "text": "Duro Felguera v. Gangavaram Port Ltd.24",
+      "label": "PRECEDENT",
+      "start_char": 59054,
+      "end_char": 59093
+    },
+    {
+      "text": "Mayavati Trading Private Limited v. Pradyuat Deb Burman.25 5.9",
+      "label": "PRECEDENT",
+      "start_char": 59379,
+      "end_char": 59441
+    },
+    {
+      "text": "Stamp Act",
+      "label": "STATUTE",
+      "start_char": 59582,
+      "end_char": 59591
+    },
+    {
+      "text": "Garware Wall Ropes Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 59757,
+      "end_char": 59780
+    },
+    {
+      "text": "Garware Wall Ropes Limited",
+      "label": "PRECEDENT",
+      "start_char": 59794,
+      "end_char": 59820
+    },
+    {
+      "text": "SMS Tea Estates",
+      "label": "ORG",
+      "start_char": 59986,
+      "end_char": 60001
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 60045,
+      "end_char": 60058
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 60095,
+      "end_char": 60105
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 60213,
+      "end_char": 60226
+    },
+    {
+      "text": "SMS Tea Estates",
+      "label": "ORG",
+      "start_char": 60350,
+      "end_char": 60365
+    },
+    {
+      "text": "Stamp Act",
+      "label": "STATUTE",
+      "start_char": 60429,
+      "end_char": 60438
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 60513,
+      "end_char": 60526
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 60559,
+      "end_char": 60569
+    },
+    {
+      "text": "Section 11(6-A)",
+      "label": "PROVISION",
+      "start_char": 60588,
+      "end_char": 60603
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 60629,
+      "end_char": 60642
+    },
+    {
+      "text": "Sections 11(4) to 11(6)",
+      "label": "PROVISION",
+      "start_char": 60692,
+      "end_char": 60715
+    },
+    {
+      "text": "Stamp Act",
+      "label": "STATUTE",
+      "start_char": 60846,
+      "end_char": 60855
+    },
+    {
+      "text": "Stamp Act",
+      "label": "STATUTE",
+      "start_char": 61044,
+      "end_char": 61053
+    },
+    {
+      "text": "Registration Act, 1908",
+      "label": "STATUTE",
+      "start_char": 61408,
+      "end_char": 61430
+    },
+    {
+      "text": "24 (2017",
+      "label": "DATE",
+      "start_char": 61469,
+      "end_char": 61477
+    },
+    {
+      "text": "SCC 729",
+      "label": "CASE_NUMBER",
+      "start_char": 61481,
+      "end_char": 61488
+    },
+    {
+      "text": "25 (2019) 8 SCC 714",
+      "label": "PRECEDENT",
+      "start_char": 61491,
+      "end_char": 61510
+    },
+    {
+      "text": "Raveendran",
+      "label": "JUDGE",
+      "start_char": 61516,
+      "end_char": 61526
+    },
+    {
+      "text": "SMS Tea Estates",
+      "label": "ORG",
+      "start_char": 61534,
+      "end_char": 61549
+    },
+    {
+      "text": "Stamp Act",
+      "label": "STATUTE",
+      "start_char": 61622,
+      "end_char": 61631
+    },
+    {
+      "text": "Section 49",
+      "label": "PROVISION",
+      "start_char": 61681,
+      "end_char": 61691
+    },
+    {
+      "text": "Registration Act, 1908",
+      "label": "STATUTE",
+      "start_char": 61699,
+      "end_char": 61721
+    },
+    {
+      "text": "Section 11(6-A)",
+      "label": "PROVISION",
+      "start_char": 61921,
+      "end_char": 61936
+    },
+    {
+      "text": "SMS Tea Estates",
+      "label": "ORG",
+      "start_char": 62013,
+      "end_char": 62028
+    },
+    {
+      "text": "Section 11(6-A)",
+      "label": "PROVISION",
+      "start_char": 62083,
+      "end_char": 62098
+    },
+    {
+      "text": "Stamp Act",
+      "label": "STATUTE",
+      "start_char": 62282,
+      "end_char": 62291
+    },
+    {
+      "text": "Section 11(6-A)",
+      "label": "PROVISION",
+      "start_char": 62439,
+      "end_char": 62454
+    },
+    {
+      "text": "Section 7(2)",
+      "label": "PROVISION",
+      "start_char": 62471,
+      "end_char": 62483
+    },
+    {
+      "text": "Section 2(h)",
+      "label": "PROVISION",
+      "start_char": 62504,
+      "end_char": 62516
+    },
+    {
+      "text": "Contract Act",
+      "label": "STATUTE",
+      "start_char": 62524,
+      "end_char": 62536
+    },
+    {
+      "text": "SMS Tea Estates",
+      "label": "ORG",
+      "start_char": 62683,
+      "end_char": 62698
+    },
+    {
+      "text": "Section 11(6-A)",
+      "label": "PROVISION",
+      "start_char": 62751,
+      "end_char": 62766
+    },
+    {
+      "text": "Hyundai Engg",
+      "label": "ORG",
+      "start_char": 62792,
+      "end_char": 62804
+    },
+    {
+      "text": "United India Insurance Co. Ltd. v. Hyundai Engg. & Construction Co. Ltd., (2018) 17 SCC 607 : (2019) 2 SCC (Civ) 530",
+      "label": "PRECEDENT",
+      "start_char": 62812,
+      "end_char": 62928
+    },
+    {
+      "text": "Section 11(6-A)",
+      "label": "PROVISION",
+      "start_char": 63638,
+      "end_char": 63653
+    },
+    {
+      "text": "Section 8, Section 16 and Section 45",
+      "label": "PROVISION",
+      "start_char": 63692,
+      "end_char": 63728
+    },
+    {
+      "text": "Hyundai Engg. case [United India Insurance Co. Ltd. v. Hyundai Engg. & Construction Co. Ltd., (2018) 17 SCC 607 : (2019) 2 SCC (Civ) 530",
+      "label": "PRECEDENT",
+      "start_char": 63860,
+      "end_char": 63996
+    },
+    {
+      "text": "Sections 33 and 34",
+      "label": "PROVISION",
+      "start_char": 64088,
+      "end_char": 64106
+    },
+    {
+      "text": "Maharashtra Stamp Act",
+      "label": "STATUTE",
+      "start_char": 64114,
+      "end_char": 64135
+    },
+    {
+      "text": "Section 11(13)",
+      "label": "PROVISION",
+      "start_char": 64215,
+      "end_char": 64229
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 64401,
+      "end_char": 64411
+    },
+    {
+      "text": "Maharashtra Stamp Act",
+      "label": "STATUTE",
+      "start_char": 64543,
+      "end_char": 64564
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 64988,
+      "end_char": 64998
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 65046,
+      "end_char": 65056
+    },
+    {
+      "text": "Section 29- A",
+      "label": "PROVISION",
+      "start_char": 65200,
+      "end_char": 65213
+    },
+    {
+      "text": "Maharashtra Stamp Act, 1958",
+      "label": "STATUTE",
+      "start_char": 65302,
+      "end_char": 65329
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 65406,
+      "end_char": 65415
+    },
+    {
+      "text": "Item 12 of Schedule I",
+      "label": "PROVISION",
+      "start_char": 65566,
+      "end_char": 65587
+    },
+    {
+      "text": "Maharashtra Stamp Act, 1958",
+      "label": "STATUTE",
+      "start_char": 65595,
+      "end_char": 65622
+    },
+    {
+      "text": "Bombay District Municipal Act, 1873",
+      "label": "STATUTE",
+      "start_char": 66285,
+      "end_char": 66320
+    },
+    {
+      "text": "Bombay Hereditary Offices Act, 1874, section 18",
+      "label": "STATUTE",
+      "start_char": 66341,
+      "end_char": 66388
+    },
+    {
+      "text": "Shriram EPC Limited v. Rioglass Solar SA,26",
+      "label": "PRECEDENT",
+      "start_char": 66394,
+      "end_char": 66437
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 66517,
+      "end_char": 66522
+    },
+    {
+      "text": "Stamp Act, 1899",
+      "label": "STATUTE",
+      "start_char": 66614,
+      "end_char": 66629
+    },
+    {
+      "text": "26 (2018",
+      "label": "DATE",
+      "start_char": 66767,
+      "end_char": 66775
+    },
+    {
+      "text": "SCC 313",
+      "label": "PROVISION",
+      "start_char": 66780,
+      "end_char": 66787
+    },
+    {
+      "text": "28.09.2015",
+      "label": "DATE",
+      "start_char": 66790,
+      "end_char": 66800
+    },
+    {
+      "text": "Item No. 63 of the First Schedule",
+      "label": "PROVISION",
+      "start_char": 66987,
+      "end_char": 67020
+    },
+    {
+      "text": "Maharashtra Stamp Act, 1958",
+      "label": "STATUTE",
+      "start_char": 67028,
+      "end_char": 67055
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 67176,
+      "end_char": 67186
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 67884,
+      "end_char": 67893
+    },
+    {
+      "text": "Maharashtra Stamp Act",
+      "label": "STATUTE",
+      "start_char": 67901,
+      "end_char": 67922
+    },
+    {
+      "text": "Hindustan Steel Limited v.\nM/s. Dilip Construction Company27",
+      "label": "PRECEDENT",
+      "start_char": 68697,
+      "end_char": 68757
+    },
+    {
+      "text": "Stamp Act",
+      "label": "STATUTE",
+      "start_char": 68836,
+      "end_char": 68845
+    },
+    {
+      "text": "Section 35",
+      "label": "PROVISION",
+      "start_char": 69651,
+      "end_char": 69661
+    },
+    {
+      "text": "Section 61",
+      "label": "PROVISION",
+      "start_char": 69770,
+      "end_char": 69780
+    },
+    {
+      "text": "Sections 35 and 36",
+      "label": "PROVISION",
+      "start_char": 69968,
+      "end_char": 69986
+    },
+    {
+      "text": "Section 35",
+      "label": "PROVISION",
+      "start_char": 70141,
+      "end_char": 70151
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 70297,
+      "end_char": 70307
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 70452,
+      "end_char": 70462
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 70645,
+      "end_char": 70655
+    },
+    {
+      "text": "Section 42(2)",
+      "label": "PROVISION",
+      "start_char": 71004,
+      "end_char": 71017
+    },
+    {
+      "text": "Section 42(1)",
+      "label": "PROVISION",
+      "start_char": 71108,
+      "end_char": 71121
+    },
+    {
+      "text": "Stamp Act",
+      "label": "STATUTE",
+      "start_char": 71216,
+      "end_char": 71225
+    },
+    {
+      "text": "27 (1969) 1 SCC 597",
+      "label": "PRECEDENT",
+      "start_char": 71658,
+      "end_char": 71677
+    },
+    {
+      "text": "Section 35",
+      "label": "PROVISION",
+      "start_char": 71734,
+      "end_char": 71744
+    },
+    {
+      "text": "Stamp Act",
+      "label": "STATUTE",
+      "start_char": 71752,
+      "end_char": 71761
+    },
+    {
+      "text": "Section 40",
+      "label": "PROVISION",
+      "start_char": 71855,
+      "end_char": 71865
+    },
+    {
+      "text": "sub-section (1) of Section 42",
+      "label": "PROVISION",
+      "start_char": 71922,
+      "end_char": 71951
+    },
+    {
+      "text": "sub-section (2) of Section 42",
+      "label": "PROVISION",
+      "start_char": 72016,
+      "end_char": 72045
+    },
+    {
+      "text": "Stamp Act",
+      "label": "STATUTE",
+      "start_char": 72470,
+      "end_char": 72479
+    },
+    {
+      "text": "Stamp Act",
+      "label": "STATUTE",
+      "start_char": 72489,
+      "end_char": 72498
+    },
+    {
+      "text": "Stamp Act",
+      "label": "STATUTE",
+      "start_char": 72611,
+      "end_char": 72620
+    },
+    {
+      "text": "Section 40",
+      "label": "PROVISION",
+      "start_char": 72622,
+      "end_char": 72632
+    },
+    {
+      "text": "Indian Stamp",
+      "label": "STATUTE",
+      "start_char": 72640,
+      "end_char": 72652
+    },
+    {
+      "text": "sub-section (1) of Section 42",
+      "label": "PROVISION",
+      "start_char": 72732,
+      "end_char": 72761
+    },
+    {
+      "text": "Section 42(2)",
+      "label": "PROVISION",
+      "start_char": 72854,
+      "end_char": 72867
+    },
+    {
+      "text": "SMS Tea Estates",
+      "label": "ORG",
+      "start_char": 73010,
+      "end_char": 73025
+    },
+    {
+      "text": "S. 19",
+      "label": "PROVISION",
+      "start_char": 73358,
+      "end_char": 73363
+    },
+    {
+      "text": "Indian Contract Act, 1872",
+      "label": "STATUTE",
+      "start_char": 73371,
+      "end_char": 73396
+    },
+    {
+      "text": "Stamp Act",
+      "label": "STATUTE",
+      "start_char": 73908,
+      "end_char": 73917
+    },
+    {
+      "text": "SMS Tea Estates",
+      "label": "ORG",
+      "start_char": 74127,
+      "end_char": 74142
+    },
+    {
+      "text": "SMS Tea Estates",
+      "label": "ORG",
+      "start_char": 74561,
+      "end_char": 74576
+    },
+    {
+      "text": "SMS Tea Estates",
+      "label": "ORG",
+      "start_char": 74721,
+      "end_char": 74736
+    },
+    {
+      "text": "6.11",
+      "label": "DATE",
+      "start_char": 75365,
+      "end_char": 75369
+    },
+    {
+      "text": "Garware Wall Ropes Limited",
+      "label": "ORG",
+      "start_char": 75401,
+      "end_char": 75427
+    },
+    {
+      "text": "Vidya Drolia",
+      "label": "OTHER_PERSON",
+      "start_char": 75497,
+      "end_char": 75509
+    },
+    {
+      "text": "Durga Trading Corporation.28",
+      "label": "RESPONDENT",
+      "start_char": 75520,
+      "end_char": 75548
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 75668,
+      "end_char": 75678
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 77313,
+      "end_char": 77328
+    },
+    {
+      "text": "Contract Act",
+      "label": "STATUTE",
+      "start_char": 77337,
+      "end_char": 77349
+    },
+    {
+      "text": "Garware Wall Ropes Ltd.",
+      "label": "ORG",
+      "start_char": 77449,
+      "end_char": 77472
+    },
+    {
+      "text": "Section 7(2)",
+      "label": "PROVISION",
+      "start_char": 77658,
+      "end_char": 77670
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 77678,
+      "end_char": 77693
+    },
+    {
+      "text": "Hyundai Engg",
+      "label": "ORG",
+      "start_char": 77940,
+      "end_char": 77952
+    },
+    {
+      "text": "14.12.2020",
+      "label": "DATE",
+      "start_char": 78545,
+      "end_char": 78555
+    },
+    {
+      "text": "C.A. No. 2402 / 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 78559,
+      "end_char": 78579
+    },
+    {
+      "text": "Section 11(6A)",
+      "label": "PROVISION",
+      "start_char": 78719,
+      "end_char": 78733
+    },
+    {
+      "text": "Section 8, Section 16 and Section 45",
+      "label": "PROVISION",
+      "start_char": 78772,
+      "end_char": 78808
+    },
+    {
+      "text": "Hyundai Engg",
+      "label": "ORG",
+      "start_char": 78940,
+      "end_char": 78952
+    },
+    {
+      "text": "Vidya Drolia",
+      "label": "OTHER_PERSON",
+      "start_char": 79256,
+      "end_char": 79268
+    },
+    {
+      "text": "Garware Wall Ropes Limited",
+      "label": "ORG",
+      "start_char": 79341,
+      "end_char": 79367
+    },
+    {
+      "text": "Vidya Drolia",
+      "label": "OTHER_PERSON",
+      "start_char": 79412,
+      "end_char": 79424
+    },
+    {
+      "text": "Constitution Bench",
+      "label": "COURT",
+      "start_char": 79431,
+      "end_char": 79449
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 79582,
+      "end_char": 79592
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 79603,
+      "end_char": 79613
+    },
+    {
+      "text": "Maharashtra Stamp Act",
+      "label": "STATUTE",
+      "start_char": 79621,
+      "end_char": 79642
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 80113,
+      "end_char": 80123
+    },
+    {
+      "text": "Indian Stamp Act, 1899",
+      "label": "STATUTE",
+      "start_char": 80131,
+      "end_char": 80153
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 80391,
+      "end_char": 80401
+    },
+    {
+      "text": "Stamp Act",
+      "label": "STATUTE",
+      "start_char": 80409,
+      "end_char": 80418
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 80785,
+      "end_char": 80795
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 80909,
+      "end_char": 80922
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 80980,
+      "end_char": 80990
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 81248,
+      "end_char": 81257
+    },
+    {
+      "text": "Stamp Act",
+      "label": "STATUTE",
+      "start_char": 81636,
+      "end_char": 81645
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 81788,
+      "end_char": 81797
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 81805,
+      "end_char": 81826
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 81921,
+      "end_char": 81930
+    },
+    {
+      "text": "Stamp Act",
+      "label": "STATUTE",
+      "start_char": 82353,
+      "end_char": 82362
+    },
+    {
+      "text": "Stamp Act",
+      "label": "STATUTE",
+      "start_char": 82587,
+      "end_char": 82596
+    },
+    {
+      "text": "28.09.2015",
+      "label": "DATE",
+      "start_char": 82850,
+      "end_char": 82860
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 83526,
+      "end_char": 83541
+    },
+    {
+      "text": "N. Radhakrishnan v. Maestro Engineers.29",
+      "label": "PRECEDENT",
+      "start_char": 83658,
+      "end_char": 83698
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 83910,
+      "end_char": 83919
+    },
+    {
+      "text": "Abdul Kadir v. Madhav Prabhakar,30",
+      "label": "PRECEDENT",
+      "start_char": 84260,
+      "end_char": 84294
+    },
+    {
+      "text": "1940 Act",
+      "label": "STATUTE",
+      "start_char": 84322,
+      "end_char": 84330
+    },
+    {
+      "text": "Abdul Kadir",
+      "label": "OTHER_PERSON",
+      "start_char": 84348,
+      "end_char": 84359
+    },
+    {
+      "text": "Russel v. Russel,31",
+      "label": "PRECEDENT",
+      "start_char": 84412,
+      "end_char": 84431
+    },
+    {
+      "text": "N. Radhakrishnan",
+      "label": "PRECEDENT",
+      "start_char": 84582,
+      "end_char": 84598
+    },
+    {
+      "text": "Russel v. Russel",
+      "label": "PRECEDENT",
+      "start_char": 84661,
+      "end_char": 84677
+    },
+    {
+      "text": "English Arbitration Act of 1899",
+      "label": "STATUTE",
+      "start_char": 84711,
+      "end_char": 84742
+    },
+    {
+      "text": "29 (2010) 1",
+      "label": "PRECEDENT",
+      "start_char": 84789,
+      "end_char": 84800
+    },
+    {
+      "text": "Ivory Properties & Hotels Pvt",
+      "label": "ORG",
+      "start_char": 84822,
+      "end_char": 84851
+    },
+    {
+      "text": "Ltd. v. Nusli Neville Wadia, 2011 (2) Arb LR 479 (Bom)",
+      "label": "PRECEDENT",
+      "start_char": 84853,
+      "end_char": 84907
+    },
+    {
+      "text": "D.R. Dhanuka",
+      "label": "JUDGE",
+      "start_char": 84937,
+      "end_char": 84949
+    },
+    {
+      "text": "RRB Energy Ltd. v. Vestas Wind System & Ors., (2015) 219 DLT 516",
+      "label": "PRECEDENT",
+      "start_char": 85009,
+      "end_char": 85073
+    },
+    {
+      "text": "30 AIR 1962 SC 406: [1962] 3 SCR 702",
+      "label": "PRECEDENT",
+      "start_char": 85075,
+      "end_char": 85111
+    },
+    {
+      "text": "31 [1880",
+      "label": "DATE",
+      "start_char": 85114,
+      "end_char": 85122
+    },
+    {
+      "text": "Russel",
+      "label": "OTHER_PERSON",
+      "start_char": 85305,
+      "end_char": 85311
+    },
+    {
+      "text": "English Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 85383,
+      "end_char": 85406
+    },
+    {
+      "text": "Section 24(2)",
+      "label": "PROVISION",
+      "start_char": 85414,
+      "end_char": 85427
+    },
+    {
+      "text": "1950 Act",
+      "label": "STATUTE",
+      "start_char": 85435,
+      "end_char": 85443
+    },
+    {
+      "text": "Section 107(2)",
+      "label": "PROVISION",
+      "start_char": 85574,
+      "end_char": 85588
+    },
+    {
+      "text": "English Arbitration Act, 1996 Act",
+      "label": "STATUTE",
+      "start_char": 85596,
+      "end_char": 85629
+    },
+    {
+      "text": "Russel",
+      "label": "OTHER_PERSON",
+      "start_char": 85631,
+      "end_char": 85637
+    },
+    {
+      "text": "Bharat Rasiklal Ashra v. Gautam Rasiklal Ashra,33",
+      "label": "PRECEDENT",
+      "start_char": 85844,
+      "end_char": 85893
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 85983,
+      "end_char": 85993
+    },
+    {
+      "text": "sub-section (1) of Section 8",
+      "label": "PROVISION",
+      "start_char": 86456,
+      "end_char": 86484
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 86636,
+      "end_char": 86645
+    },
+    {
+      "text": "Russel",
+      "label": "OTHER_PERSON",
+      "start_char": 86887,
+      "end_char": 86893
+    },
+    {
+      "text": "33 (2012) 2 SCC 144",
+      "label": "PRECEDENT",
+      "start_char": 86952,
+      "end_char": 86971
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 87202,
+      "end_char": 87215
+    },
+    {
+      "text": "A. Ayyasamy v. A. Paramasivam & Ors.34",
+      "label": "PRECEDENT",
+      "start_char": 87437,
+      "end_char": 87475
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 87497,
+      "end_char": 87506
+    },
+    {
+      "text": "SCC 386",
+      "label": "PROVISION",
+      "start_char": 88649,
+      "end_char": 88656
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 89066,
+      "end_char": 89081
+    },
+    {
+      "text": "Ayyasamy",
+      "label": "PRECEDENT",
+      "start_char": 89220,
+      "end_char": 89228
+    },
+    {
+      "text": "Rashid Raza v.\nSadaf Akhtar,35",
+      "label": "PRECEDENT",
+      "start_char": 89253,
+      "end_char": 89283
+    },
+    {
+      "text": "Ayyasamy",
+      "label": "OTHER_PERSON",
+      "start_char": 89330,
+      "end_char": 89338
+    },
+    {
+      "text": "Ameet Lalchand Shah",
+      "label": "OTHER_PERSON",
+      "start_char": 89655,
+      "end_char": 89674
+    },
+    {
+      "text": "Rishabh Enterprises",
+      "label": "RESPONDENT",
+      "start_char": 89685,
+      "end_char": 89704
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 90064,
+      "end_char": 90073
+    },
+    {
+      "text": "35 (2019)",
+      "label": "DATE",
+      "start_char": 90199,
+      "end_char": 90208
+    },
+    {
+      "text": "SCC 710",
+      "label": "PROVISION",
+      "start_char": 90211,
+      "end_char": 90218
+    },
+    {
+      "text": "36 (2018) 15 SCC 678",
+      "label": "PRECEDENT",
+      "start_char": 90221,
+      "end_char": 90241
+    },
+    {
+      "text": "Avitel Post Studioz Ltd.",
+      "label": "ORG",
+      "start_char": 90701,
+      "end_char": 90725
+    },
+    {
+      "text": "HSBC PI Holdings",
+      "label": "RESPONDENT",
+      "start_char": 90736,
+      "end_char": 90752
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 91125,
+      "end_char": 91135
+    },
+    {
+      "text": "Indian Contract, 1872",
+      "label": "STATUTE",
+      "start_char": 91143,
+      "end_char": 91164
+    },
+    {
+      "text": "Deccan Paper Mills v. Regency Mahavir38",
+      "label": "PRECEDENT",
+      "start_char": 91451,
+      "end_char": 91490
+    },
+    {
+      "text": "Vidya Drolia & Others v. Durga Trading Corporation39",
+      "label": "PRECEDENT",
+      "start_char": 91495,
+      "end_char": 91547
+    },
+    {
+      "text": "8.10",
+      "label": "DATE",
+      "start_char": 91550,
+      "end_char": 91554
+    },
+    {
+      "text": "37 (2020) SCCOnLine SC 656",
+      "label": "PRECEDENT",
+      "start_char": 91708,
+      "end_char": 91734
+    },
+    {
+      "text": "SCCOnLine SC 655",
+      "label": "CASE_NUMBER",
+      "start_char": 91747,
+      "end_char": 91763
+    },
+    {
+      "text": "39 Civil Appeal No.2402 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 91766,
+      "end_char": 91797
+    },
+    {
+      "text": "14.12.2020",
+      "label": "DATE",
+      "start_char": 91826,
+      "end_char": 91836
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 91971,
+      "end_char": 92009
+    },
+    {
+      "text": "Section 2(3)",
+      "label": "PROVISION",
+      "start_char": 92077,
+      "end_char": 92089
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 92097,
+      "end_char": 92112
+    },
+    {
+      "text": "8.11",
+      "label": "DATE",
+      "start_char": 92411,
+      "end_char": 92415
+    },
+    {
+      "text": "Section 2(3)",
+      "label": "PROVISION",
+      "start_char": 93399,
+      "end_char": 93411
+    },
+    {
+      "text": "Booz Allen & Hamilton Inc. v. SBI Home Finance Ltd.43",
+      "label": "PRECEDENT",
+      "start_char": 93960,
+      "end_char": 94013
+    },
+    {
+      "text": "8.12",
+      "label": "DATE",
+      "start_char": 94776,
+      "end_char": 94780
+    },
+    {
+      "text": "Section 1044",
+      "label": "PROVISION",
+      "start_char": 95228,
+      "end_char": 95240
+    },
+    {
+      "text": "Indian Contract Act, 1872",
+      "label": "STATUTE",
+      "start_char": 95248,
+      "end_char": 95273
+    },
+    {
+      "text": "Emaar MGF Land Limited v. Aftab Singh, (2019) 12 SCC 751",
+      "label": "PRECEDENT",
+      "start_char": 95297,
+      "end_char": 95353
+    },
+    {
+      "text": "Vimal Kishor Shah & Others v. Jayesh Dinesh Shah & Others",
+      "label": "PRECEDENT",
+      "start_char": 95359,
+      "end_char": 95416
+    },
+    {
+      "text": "SCC 788. 43 (2011) 5 SCC 532",
+      "label": "CASE_NUMBER",
+      "start_char": 95427,
+      "end_char": 95455
+    },
+    {
+      "text": "Section 10",
+      "label": "PROVISION",
+      "start_char": 95461,
+      "end_char": 95471
+    },
+    {
+      "text": "Guardian and Wards Act, 1890",
+      "label": "STATUTE",
+      "start_char": 95786,
+      "end_char": 95814
+    },
+    {
+      "text": "8.13",
+      "label": "DATE",
+      "start_char": 95897,
+      "end_char": 95901
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 96013,
+      "end_char": 96023
+    },
+    {
+      "text": "Indian Contract Act, 1872",
+      "label": "STATUTE",
+      "start_char": 96031,
+      "end_char": 96056
+    },
+    {
+      "text": "8.14",
+      "label": "DATE",
+      "start_char": 96685,
+      "end_char": 96689
+    },
+    {
+      "text": "Section 19",
+      "label": "PROVISION",
+      "start_char": 96791,
+      "end_char": 96801
+    },
+    {
+      "text": "Contract Act",
+      "label": "STATUTE",
+      "start_char": 96809,
+      "end_char": 96821
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 97418,
+      "end_char": 97428
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 97856,
+      "end_char": 97861
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 98042,
+      "end_char": 98052
+    },
+    {
+      "text": "Sections 2(i) and (j)",
+      "label": "PROVISION",
+      "start_char": 98610,
+      "end_char": 98631
+    },
+    {
+      "text": "Indian Contract Act, 1872",
+      "label": "STATUTE",
+      "start_char": 98639,
+      "end_char": 98664
+    },
+    {
+      "text": "8.15",
+      "label": "DATE",
+      "start_char": 98727,
+      "end_char": 98731
+    },
+    {
+      "text": "Swiss Timing Ltd. v. Commonwealth Games 2010 Organising Committee,45",
+      "label": "PRECEDENT",
+      "start_char": 98735,
+      "end_char": 98803
+    },
+    {
+      "text": "S. 11",
+      "label": "PROVISION",
+      "start_char": 98840,
+      "end_char": 98845
+    },
+    {
+      "text": "Indian Contract Act, 1872",
+      "label": "STATUTE",
+      "start_char": 99175,
+      "end_char": 99200
+    },
+    {
+      "text": "Sections 12, 14, 15, 16, 17, 18",
+      "label": "PROVISION",
+      "start_char": 99726,
+      "end_char": 99757
+    },
+    {
+      "text": "Indian Contract Act, 1872",
+      "label": "STATUTE",
+      "start_char": 99765,
+      "end_char": 99790
+    },
+    {
+      "text": "Swiss Timing Ltd.",
+      "label": "ORG",
+      "start_char": 99805,
+      "end_char": 99822
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 99880,
+      "end_char": 99890
+    },
+    {
+      "text": "45 (2014) 6 SCC 677",
+      "label": "PRECEDENT",
+      "start_char": 99937,
+      "end_char": 99956
+    },
+    {
+      "text": "State of West Bengal v. Associated Contractors,46",
+      "label": "PRECEDENT",
+      "start_char": 100033,
+      "end_char": 100082
+    },
+    {
+      "text": "Swiss Timing Ltd.",
+      "label": "ORG",
+      "start_char": 100100,
+      "end_char": 100117
+    },
+    {
+      "text": "Avitel Post Studioz Ltd.",
+      "label": "ORG",
+      "start_char": 100164,
+      "end_char": 100188
+    },
+    {
+      "text": "HSBC PI Holdings (Mauritius Limited)47",
+      "label": "RESPONDENT",
+      "start_char": 100199,
+      "end_char": 100237
+    },
+    {
+      "text": "8.16",
+      "label": "DATE",
+      "start_char": 100239,
+      "end_char": 100243
+    },
+    {
+      "text": "18.01.2018",
+      "label": "DATE",
+      "start_char": 101373,
+      "end_char": 101383
+    },
+    {
+      "text": "Special Commercial Court / District Judge-I",
+      "label": "COURT",
+      "start_char": 101398,
+      "end_char": 101441
+    },
+    {
+      "text": "Commercial Dispute No",
+      "label": "CASE_NUMBER",
+      "start_char": 101445,
+      "end_char": 101466
+    },
+    {
+      "text": "Malhotra",
+      "label": "OTHER_PERSON",
+      "start_char": 101533,
+      "end_char": 101541
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 101694,
+      "end_char": 101704
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 101712,
+      "end_char": 101727
+    },
+    {
+      "text": "Section 37(1)",
+      "label": "PROVISION",
+      "start_char": 101742,
+      "end_char": 101755
+    },
+    {
+      "text": "Act 3 of 201649",
+      "label": "STATUTE",
+      "start_char": 101776,
+      "end_char": 101791
+    },
+    {
+      "text": "Section 37(1)(a)",
+      "label": "PROVISION",
+      "start_char": 101793,
+      "end_char": 101809
+    },
+    {
+      "text": "Section 37(1)(a)",
+      "label": "PROVISION",
+      "start_char": 101909,
+      "end_char": 101925
+    },
+    {
+      "text": "section 8",
+      "label": "PROVISION",
+      "start_char": 102199,
+      "end_char": 102208
+    },
+    {
+      "text": "18.01.2018",
+      "label": "DATE",
+      "start_char": 102276,
+      "end_char": 102286
+    },
+    {
+      "text": "Section 37(1)(a)",
+      "label": "PROVISION",
+      "start_char": 102362,
+      "end_char": 102378
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 102386,
+      "end_char": 102401
+    },
+    {
+      "text": "Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 102529,
+      "end_char": 102543
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 102551,
+      "end_char": 102578
+    },
+    {
+      "text": "Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 102580,
+      "end_char": 102594
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 103379,
+      "end_char": 103390
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 103398,
+      "end_char": 103439
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 103467,
+      "end_char": 103477
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 103485,
+      "end_char": 103536
+    },
+    {
+      "text": "23.10.2015",
+      "label": "DATE",
+      "start_char": 103569,
+      "end_char": 103579
+    },
+    {
+      "text": "Articles 226 and 227",
+      "label": "PROVISION",
+      "start_char": 103677,
+      "end_char": 103697
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 103705,
+      "end_char": 103717
+    },
+    {
+      "text": "S. 11",
+      "label": "PROVISION",
+      "start_char": 104090,
+      "end_char": 104095
+    },
+    {
+      "text": "30.09.2020",
+      "label": "DATE",
+      "start_char": 104265,
+      "end_char": 104275
+    },
+    {
+      "text": "W.P. No. 1801 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 104279,
+      "end_char": 104300
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 104315,
+      "end_char": 104332
+    },
+    {
+      "text": "Maharashtra",
+      "label": "GPE",
+      "start_char": 104487,
+      "end_char": 104498
+    },
+    {
+      "text": "S.30(f-a)",
+      "label": "PROVISION",
+      "start_char": 104769,
+      "end_char": 104778
+    },
+    {
+      "text": "Maharashtra Stamp Act, 1958",
+      "label": "STATUTE",
+      "start_char": 104786,
+      "end_char": 104813
+    },
+    {
+      "text": "Maharashtra Stamp Act",
+      "label": "STATUTE",
+      "start_char": 105038,
+      "end_char": 105059
+    },
+    {
+      "text": "S. 9",
+      "label": "PROVISION",
+      "start_char": 105161,
+      "end_char": 105165
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 105173,
+      "end_char": 105211
+    },
+    {
+      "text": "SMS Tea Estates and Garware",
+      "label": "ORG",
+      "start_char": 105350,
+      "end_char": 105377
+    },
+    {
+      "text": "Vidya Drolia",
+      "label": "OTHER_PERSON",
+      "start_char": 105639,
+      "end_char": 105651
+    },
+    {
+      "text": "Garware",
+      "label": "OTHER_PERSON",
+      "start_char": 105711,
+      "end_char": 105718
+    },
+    {
+      "text": "Section 35",
+      "label": "PROVISION",
+      "start_char": 106005,
+      "end_char": 106015
+    },
+    {
+      "text": "Indian Stamp Act, 1899",
+      "label": "STATUTE",
+      "start_char": 106023,
+      "end_char": 106045
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 106103,
+      "end_char": 106112
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 106495,
+      "end_char": 106500
+    },
+    {
+      "text": "Dhananjaya Y Chandrachud",
+      "label": "JUDGE",
+      "start_char": 106566,
+      "end_char": 106590
+    },
+    {
+      "text": "Indu Malhotra",
+      "label": "JUDGE",
+      "start_char": 106615,
+      "end_char": 106628
+    },
+    {
+      "text": "Indira Banerjee",
+      "label": "JUDGE",
+      "start_char": 106652,
+      "end_char": 106667
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 106669,
+      "end_char": 106678
+    },
+    {
+      "text": "January 11, 2021",
+      "label": "DATE",
+      "start_char": 106680,
+      "end_char": 106696
+    }
+  ],
+  "precedent_clusters": {
+    "SMS Tea Estates Pvt. Ltd. v. M/s. Chandmari Tea Co.\nPvt": [
+      "Heyman v. Darwins Ltd1",
+      "Bremer Vulkan Schiffbau und Maschinefabrik v. South India Shipping Corporation2",
+      "Harbour Assurance v. Kansa General International Insurance,3",
+      "Lesotho Highlands Development Authority v. Impregilo SpA and others,4",
+      "Harbour Assurance Co v. Kansa General International Insurance",
+      "Gosset v. Caparelli,5",
+      "Fiona Trust & Holding Corporation v. Privalov,6",
+      "Fili Shipping Co Ltd and others v. Premium Nafta Products Ltd and others7",
+      "Prima Paint Corporation v. Flood & Conklin MFG",
+      "Buckeye Check Cashing, Inc v. Cardegna et. al,10",
+      "Rent-A- Center, West, Inc. v. Jackon,12 the",
+      "Uttarakhand Purv Sainik Kalyan Nigam Ltd. v.\nNorthern Coal Field Ltd.13",
+      "Duro Felguera S.A. v. Gangavaram Port Ltd.",
+      "TRF Ltd. v. Energo Engg",
+      "BSNL v. Telephone Cables Ltd., (2010) 5",
+      "Ltd. v. Jawaharlal Nehru Port Trust, (2018)",
+      "A. Ayyasamy v. Parmasivam & Ors",
+      "Garware Wall Ropes Limited v. Coastal Marine Constructions and Engineering Limited,15",
+      "Ram Rattan v. Parma Nand,19",
+      "SMS Tea Estates Pvt. Ltd. v. M/s. Chandmari Tea Co.\nPvt",
+      "SBP & Co. v. Patel Engineering Ltd.21",
+      "National Insurance Co. v.\nBoghara Polyfab22",
+      "Master Construction Company v. Union of India23",
+      "Duro Felguera v. Gangavaram Port Ltd.24",
+      "Shriram EPC Limited v. Rioglass Solar SA,26",
+      "Hindustan Steel Limited v.\nM/s. Dilip Construction Company27",
+      "N. Radhakrishnan v. Maestro Engineers.29",
+      "Abdul Kadir v. Madhav Prabhakar,30",
+      "Russel v. Russel,31",
+      "Russel v. Russel",
+      "29 (2010) 1",
+      "Bharat Rasiklal Ashra v. Gautam Rasiklal Ashra,33",
+      "A. Ayyasamy v. A. Paramasivam & Ors.34",
+      "Rashid Raza v.\nSadaf Akhtar,35",
+      "Deccan Paper Mills v. Regency Mahavir38",
+      "Vidya Drolia & Others v. Durga Trading Corporation39",
+      "Booz Allen & Hamilton Inc. v. SBI Home Finance Ltd.43",
+      "Vimal Kishor Shah & Others v. Jayesh Dinesh Shah & Others",
+      "State of West Bengal v. Associated Contractors,46",
+      "Harbour Assurance",
+      "Garware Wall Ropes Limited",
+      "N. Radhakrishnan",
+      "Ayyasamy"
+    ],
+    "Naina Thakkar v. Annapurna Builders, (2013) 14 SCC 354": [
+      "16 (2013) 14 SCC 354",
+      "Naina Thakkar v. Annapurna Builders, (2013) 14 SCC 354"
+    ],
+    "Hyundai Engg. case [United India Insurance Co. Ltd. v. Hyundai Engg. & Construction Co. Ltd., (2018) 17 SCC 607 : (2019) 2 SCC (Civ) 530": [
+      "United India Insurance Co. Ltd. v. Hyundai Engg. & Construction Co. Ltd., (2018) 17 SCC 607 : (2019) 2 SCC (Civ) 530",
+      "Hyundai Engg. case [United India Insurance Co. Ltd. v. Hyundai Engg. & Construction Co. Ltd., (2018) 17 SCC 607 : (2019) 2 SCC (Civ) 530"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 8",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 8",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Articles 226 and 227",
+      "Constitution of India",
+      "Articles 226 and 227",
+      "Constitution of India"
+    ],
+    [
+      "Section 11",
+      "Arbitration Act",
+      "Section 11",
+      "Arbitration Act"
+    ],
+    [
+      "Articles 226 and 227",
+      "Constitution",
+      "Articles 226 and 227",
+      "Constitution"
+    ],
+    [
+      "Section 8",
+      "Arbitration Act",
+      "Section 8",
+      "Arbitration Act"
+    ],
+    [
+      "Part I",
+      "Arbitration Act",
+      "Part I",
+      "Arbitration Act"
+    ],
+    [
+      "Section 7",
+      "Contract Act, 1872",
+      "Section 7",
+      "Contract Act, 1872"
+    ],
+    [
+      "Article V(1)(a)",
+      "New York Convention",
+      "Article V(1)(a)",
+      "New York Convention"
+    ],
+    [
+      "Section 34",
+      "Maharashtra Stamp Act, 1958",
+      "Section 34",
+      "Maharashtra Stamp Act, 1958"
+    ],
+    [
+      "Section 34",
+      "Maharashtra Stamp Act, 1958",
+      "Section 34",
+      "Maharashtra Stamp Act, 1958"
+    ],
+    [
+      "Section 3",
+      "Maharashtra Stamp Act, 1958",
+      "Section 3",
+      "Maharashtra Stamp Act, 1958"
+    ],
+    [
+      "Chapter IX or Part D of Chapter X",
+      "Code of Criminal Procedure, 1973",
+      "Chapter IX or Part D of Chapter X",
+      "Code of Criminal Procedure, 1973"
+    ],
+    [
+      "Chapter IX or Part D of Chapter X",
+      "Code of Criminal Procedure, 1973",
+      "Chapter IX or Part D of Chapter X",
+      "Code of Criminal Procedure, 1973"
+    ],
+    [
+      "Section 41",
+      "Maharashtra Stamp Act",
+      "Section 41",
+      "Maharashtra Stamp Act"
+    ],
+    [
+      "Schedule I",
+      "Code of Civil Procedure, 1908",
+      "Schedule I",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Chapter IX or Part D of Chapter X",
+      "Code of Criminal Procedure 1973",
+      "Chapter IX or Part D of Chapter X",
+      "Code of Criminal Procedure 1973"
+    ],
+    [
+      "Section 34",
+      "Maharashtra Stamp Act, 1958",
+      "Section 34",
+      "Maharashtra Stamp Act, 1958"
+    ],
+    [
+      "Section 35",
+      "Stamp Act",
+      "Section 35",
+      "Stamp Act"
+    ],
+    [
+      "Section 41(1)",
+      "Maharashtra Stamp Act, 1958",
+      "Section 41(1)",
+      "Maharashtra Stamp Act, 1958"
+    ],
+    [
+      "Sections 17 and 19",
+      "Registration Act 1908",
+      "Sections 17 and 19",
+      "Registration Act 1908"
+    ],
+    [
+      "Section 49",
+      "Registration Act",
+      "Section 49",
+      "Registration Act"
+    ],
+    [
+      "Section 49",
+      "Registration Act",
+      "Section 49",
+      "Registration Act"
+    ],
+    [
+      "S. 19",
+      "Indian Contract Act, 1872",
+      "S. 19",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "Section 19",
+      "Contract Act, 1872",
+      "Section 19",
+      "Contract Act, 1872"
+    ],
+    [
+      "Section 35",
+      "Stamp Act",
+      "Section 35",
+      "Stamp Act"
+    ],
+    [
+      "Section 35",
+      "Stamp Act",
+      "Section 35",
+      "Stamp Act"
+    ],
+    [
+      "Section 49",
+      "Registration Act",
+      "Section 49",
+      "Registration Act"
+    ],
+    [
+      "Section 35",
+      "Stamp Act",
+      "Section 35",
+      "Stamp Act"
+    ],
+    [
+      "Section 49",
+      "Registration Act",
+      "Section 49",
+      "Registration Act"
+    ],
+    [
+      "Section 38",
+      "Stamp Act",
+      "Section 38",
+      "Stamp Act"
+    ],
+    [
+      "Section 35 or Section 40",
+      "Stamp Act",
+      "Section 35 or Section 40",
+      "Stamp Act"
+    ],
+    [
+      "S. 11",
+      "Arbitration Act",
+      "S. 11",
+      "Arbitration Act"
+    ],
+    [
+      "Section 11",
+      "2016 Amendment Act",
+      "Section 11",
+      "2016 Amendment Act"
+    ],
+    [
+      "Sections 11(4) to 11(6)",
+      "Stamp Act",
+      "Sections 11(4) to 11(6)",
+      "Stamp Act"
+    ],
+    [
+      "Section 49",
+      "Registration Act, 1908",
+      "Section 49",
+      "Registration Act, 1908"
+    ],
+    [
+      "Section 2(h)",
+      "Contract Act",
+      "Section 2(h)",
+      "Contract Act"
+    ],
+    [
+      "Sections 33 and 34",
+      "Maharashtra Stamp Act",
+      "Sections 33 and 34",
+      "Maharashtra Stamp Act"
+    ],
+    [
+      "Section 11",
+      "Maharashtra Stamp Act",
+      "Section 11",
+      "Maharashtra Stamp Act"
+    ],
+    [
+      "Item 12 of Schedule I",
+      "Maharashtra Stamp Act, 1958",
+      "Item 12 of Schedule I",
+      "Maharashtra Stamp Act, 1958"
+    ],
+    [
+      "Item No. 63 of the First Schedule",
+      "Maharashtra Stamp Act, 1958",
+      "Item No. 63 of the First Schedule",
+      "Maharashtra Stamp Act, 1958"
+    ],
+    [
+      "Section 3",
+      "Maharashtra Stamp Act",
+      "Section 3",
+      "Maharashtra Stamp Act"
+    ],
+    [
+      "Section 35",
+      "Stamp Act",
+      "Section 35",
+      "Stamp Act"
+    ],
+    [
+      "Section 40",
+      "Indian Stamp",
+      "Section 40",
+      "Indian Stamp"
+    ],
+    [
+      "S. 19",
+      "Indian Contract Act, 1872",
+      "S. 19",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "Section 7(2)",
+      "Arbitration Act",
+      "Section 7(2)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Maharashtra Stamp Act",
+      "Section 34",
+      "Maharashtra Stamp Act"
+    ],
+    [
+      "Section 33",
+      "Indian Stamp Act, 1899",
+      "Section 33",
+      "Indian Stamp Act, 1899"
+    ],
+    [
+      "Section 34",
+      "Stamp Act",
+      "Section 34",
+      "Stamp Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act, 1996",
+      "Section 9",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 24(2)",
+      "1950 Act",
+      "Section 24(2)",
+      "1950 Act"
+    ],
+    [
+      "Section 107(2)",
+      "English Arbitration Act, 1996 Act",
+      "Section 107(2)",
+      "English Arbitration Act, 1996 Act"
+    ],
+    [
+      "Section 17",
+      "Indian Contract, 1872",
+      "Section 17",
+      "Indian Contract, 1872"
+    ],
+    [
+      "Section 2(3)",
+      "Arbitration Act",
+      "Section 2(3)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 1044",
+      "Indian Contract Act, 1872",
+      "Section 1044",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "Section 17",
+      "Indian Contract Act, 1872",
+      "Section 17",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "Section 19",
+      "Contract Act",
+      "Section 19",
+      "Contract Act"
+    ],
+    [
+      "Sections 2(i) and (j)",
+      "Indian Contract Act, 1872",
+      "Sections 2(i) and (j)",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "Sections 12, 14, 15, 16, 17, 18",
+      "Indian Contract Act, 1872",
+      "Sections 12, 14, 15, 16, 17, 18",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37(1)",
+      "Act 3 of 201649",
+      "Section 37(1)",
+      "Act 3 of 201649"
+    ],
+    [
+      "Section 37(1)(a)",
+      "Arbitration Act",
+      "Section 37(1)(a)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 13(1A)",
+      "Commercial Courts Act, 2015",
+      "Section 13(1A)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)"
+    ],
+    [
+      "Articles 226 and 227",
+      "Constitution",
+      "Articles 226 and 227",
+      "Constitution"
+    ],
+    [
+      "S.30(f-a)",
+      "Maharashtra Stamp Act, 1958",
+      "S.30(f-a)",
+      "Maharashtra Stamp Act, 1958"
+    ],
+    [
+      "S. 9",
+      "Arbitration and Conciliation Act, 1996",
+      "S. 9",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 35",
+      "Indian Stamp Act, 1899",
+      "Section 35",
+      "Indian Stamp Act, 1899"
+    ],
+    [
+      "Section 8",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 8",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 8",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 8",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 8",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 8",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "sub-section (6) of Section 16",
+      "Indian Contract Act, 1872",
+      "sub-section (6) of Section 16",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "Article 16(1)",
+      "Indian Contract Act, 1872",
+      "Article 16(1)",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "section 7",
+      "Contract Act, 1872",
+      "section 7",
+      "Contract Act, 1872"
+    ],
+    [
+      "§ 2",
+      "Arbitration Act",
+      "§ 2",
+      "Arbitration Act"
+    ],
+    [
+      "Section 16",
+      "Indian Contract Act, 1872",
+      "Section 16",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "Section 16",
+      "Indian Contract Act, 1872",
+      "Section 16",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "Sections 5 and 16",
+      "Indian Contract Act, 1872",
+      "Sections 5 and 16",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "Section 11",
+      "Arbitration Act",
+      "Section 11",
+      "Arbitration Act"
+    ],
+    [
+      "Section 16",
+      "Indian Contract Act, 1872",
+      "Section 16",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "Section 11(6-A)",
+      "Arbitration Act",
+      "Section 11(6-A)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 11",
+      "Arbitration Act",
+      "Section 11",
+      "Arbitration Act"
+    ],
+    [
+      "Section 11(6-A)",
+      "Arbitration Act",
+      "Section 11(6-A)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 11(6-A)",
+      "Arbitration Act",
+      "Section 11(6-A)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 16",
+      "Indian Contract Act, 1872",
+      "Section 16",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "Section 16",
+      "Indian Contract Act, 1872",
+      "Section 16",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "Sub-section (1) of Section 16",
+      "Indian Contract Act, 1872",
+      "Sub-section (1) of Section 16",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "Section 16",
+      "Indian Contract Act, 1872",
+      "Section 16",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "Section 16",
+      "Indian Contract Act, 1872",
+      "Section 16",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "Section 11",
+      "Arbitration Act",
+      "Section 11",
+      "Arbitration Act"
+    ],
+    [
+      "Section 8",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 8",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 8",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 8",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Schedule I",
+      "Code of Civil Procedure, 1908",
+      "Schedule I",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 3",
+      "Maharashtra Stamp Act, 1958",
+      "Section 3",
+      "Maharashtra Stamp Act, 1958"
+    ],
+    [
+      "Schedule I",
+      "Code of Civil Procedure, 1908",
+      "Schedule I",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Schedule I",
+      "Code of Civil Procedure, 1908",
+      "Schedule I",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Schedule I",
+      "Code of Civil Procedure, 1908",
+      "Schedule I",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 33",
+      "Maharashtra Stamp Act",
+      "Section 33",
+      "Maharashtra Stamp Act"
+    ],
+    [
+      "section 32A",
+      "Maharashtra Stamp Act, 1958",
+      "section 32A",
+      "Maharashtra Stamp Act, 1958"
+    ],
+    [
+      "Section 33",
+      "Maharashtra Stamp Act",
+      "Section 33",
+      "Maharashtra Stamp Act"
+    ],
+    [
+      "Section 34",
+      "Maharashtra Stamp Act, 1958",
+      "Section 34",
+      "Maharashtra Stamp Act, 1958"
+    ],
+    [
+      "Section 34",
+      "Maharashtra Stamp Act, 1958",
+      "Section 34",
+      "Maharashtra Stamp Act, 1958"
+    ],
+    [
+      "Section 35",
+      "Stamp Act",
+      "Section 35",
+      "Stamp Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "section 33",
+      "Maharashtra Stamp Act",
+      "section 33",
+      "Maharashtra Stamp Act"
+    ],
+    [
+      "section 34",
+      "Maharashtra Stamp Act, 1958",
+      "section 34",
+      "Maharashtra Stamp Act, 1958"
+    ],
+    [
+      "section 36",
+      "Code of Criminal Procedure, 1973",
+      "section 36",
+      "Code of Criminal Procedure, 1973"
+    ],
+    [
+      "sub-section (1) of section 41",
+      "Maharashtra Stamp Act",
+      "sub-section (1) of section 41",
+      "Maharashtra Stamp Act"
+    ],
+    [
+      "Schedule I",
+      "Code of Civil Procedure, 1908",
+      "Schedule I",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 41",
+      "Maharashtra Stamp Act",
+      "Section 41",
+      "Maharashtra Stamp Act"
+    ],
+    [
+      "section 34, 39 or 40 – (1)",
+      "Code of Criminal Procedure, 1973",
+      "section 34, 39 or 40 – (1)",
+      "Code of Criminal Procedure, 1973"
+    ],
+    [
+      "sub-section (1) of section 32A",
+      "Maharashtra Stamp Act, 1958",
+      "sub-section (1) of section 32A",
+      "Maharashtra Stamp Act, 1958"
+    ],
+    [
+      "section 34, section 39 or section 40",
+      "Stamp Act",
+      "section 34, section 39 or section 40",
+      "Stamp Act"
+    ],
+    [
+      "section 34",
+      "Maharashtra Stamp Act, 1958",
+      "section 34",
+      "Maharashtra Stamp Act, 1958"
+    ],
+    [
+      "Section 58",
+      "Code of Criminal Procedure, 1973",
+      "Section 58",
+      "Code of Criminal Procedure, 1973"
+    ],
+    [
+      "section 34",
+      "Maharashtra Stamp Act, 1958",
+      "section 34",
+      "Maharashtra Stamp Act, 1958"
+    ],
+    [
+      "section 34",
+      "Maharashtra Stamp Act, 1958",
+      "section 34",
+      "Maharashtra Stamp Act, 1958"
+    ],
+    [
+      "section 34",
+      "Maharashtra Stamp Act, 1958",
+      "section 34",
+      "Maharashtra Stamp Act, 1958"
+    ],
+    [
+      "sub -section (3)",
+      "Indian Contract Act, 1872",
+      "sub -section (3)",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "section 41",
+      "Maharashtra Stamp Act",
+      "section 41",
+      "Maharashtra Stamp Act"
+    ],
+    [
+      "section 34",
+      "Maharashtra Stamp Act, 1958",
+      "section 34",
+      "Maharashtra Stamp Act, 1958"
+    ],
+    [
+      "section 41",
+      "Maharashtra Stamp Act",
+      "section 41",
+      "Maharashtra Stamp Act"
+    ],
+    [
+      "proviso to Section 34",
+      "Maharashtra Stamp Act, 1958",
+      "proviso to Section 34",
+      "Maharashtra Stamp Act, 1958"
+    ],
+    [
+      "Section 41(2)",
+      "Maharashtra Stamp Act",
+      "Section 41(2)",
+      "Maharashtra Stamp Act"
+    ],
+    [
+      "Section 49",
+      "Registration Act",
+      "Section 49",
+      "Registration Act"
+    ],
+    [
+      "Section 16(1)(a)",
+      "Indian Contract Act, 1872",
+      "Section 16(1)(a)",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "S. 11(6)",
+      "Arbitration Act",
+      "S. 11(6)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 11",
+      "2016 Amendment Act",
+      "Section 11",
+      "2016 Amendment Act"
+    ],
+    [
+      "Section 11",
+      "2016 Amendment Act",
+      "Section 11",
+      "2016 Amendment Act"
+    ],
+    [
+      "Section 11(6-A)",
+      "2016 Amendment Act",
+      "Section 11(6-A)",
+      "2016 Amendment Act"
+    ],
+    [
+      "Section 11(6-A)",
+      "Stamp Act",
+      "Section 11(6-A)",
+      "Stamp Act"
+    ],
+    [
+      "Section 11(6-A)",
+      "Stamp Act",
+      "Section 11(6-A)",
+      "Stamp Act"
+    ],
+    [
+      "Section 11(6-A)",
+      "Stamp Act",
+      "Section 11(6-A)",
+      "Stamp Act"
+    ],
+    [
+      "Section 7(2)",
+      "Contract Act, 1872",
+      "Section 7(2)",
+      "Contract Act, 1872"
+    ],
+    [
+      "Section 11(6-A)",
+      "Stamp Act",
+      "Section 11(6-A)",
+      "Stamp Act"
+    ],
+    [
+      "Section 11(6-A)",
+      "Stamp Act",
+      "Section 11(6-A)",
+      "Stamp Act"
+    ],
+    [
+      "Section 8, Section 16 and Section 45",
+      "Indian Contract Act, 1872",
+      "Section 8, Section 16 and Section 45",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "Section 11(13)",
+      "Stamp Act",
+      "Section 11(13)",
+      "Stamp Act"
+    ],
+    [
+      "Section 11",
+      "Stamp Act",
+      "Section 11",
+      "Stamp Act"
+    ],
+    [
+      "Section 11",
+      "Stamp Act",
+      "Section 11",
+      "Stamp Act"
+    ],
+    [
+      "Section 3",
+      "Maharashtra Stamp Act, 1958",
+      "Section 3",
+      "Maharashtra Stamp Act, 1958"
+    ],
+    [
+      "Section 34",
+      "Maharashtra Stamp Act",
+      "Section 34",
+      "Maharashtra Stamp Act"
+    ],
+    [
+      "Section 35",
+      "Stamp Act",
+      "Section 35",
+      "Stamp Act"
+    ],
+    [
+      "Sections 35 and 36",
+      "Code of Criminal Procedure, 1973",
+      "Sections 35 and 36",
+      "Code of Criminal Procedure, 1973"
+    ],
+    [
+      "Section 35",
+      "Stamp Act",
+      "Section 35",
+      "Stamp Act"
+    ],
+    [
+      "Section 36",
+      "Code of Criminal Procedure, 1973",
+      "Section 36",
+      "Code of Criminal Procedure, 1973"
+    ],
+    [
+      "Section 36",
+      "Code of Criminal Procedure, 1973",
+      "Section 36",
+      "Code of Criminal Procedure, 1973"
+    ],
+    [
+      "Section 36",
+      "Code of Criminal Procedure, 1973",
+      "Section 36",
+      "Code of Criminal Procedure, 1973"
+    ],
+    [
+      "Section 42(2)",
+      "Code of Criminal Procedure 1973",
+      "Section 42(2)",
+      "Code of Criminal Procedure 1973"
+    ],
+    [
+      "Section 42(1)",
+      "Code of Criminal Procedure 1973",
+      "Section 42(1)",
+      "Code of Criminal Procedure 1973"
+    ],
+    [
+      "Section 40",
+      "Stamp Act",
+      "Section 40",
+      "Stamp Act"
+    ],
+    [
+      "sub-section (1) of Section 42",
+      "Code of Criminal Procedure 1973",
+      "sub-section (1) of Section 42",
+      "Code of Criminal Procedure 1973"
+    ],
+    [
+      "sub-section (2) of Section 42",
+      "Code of Criminal Procedure 1973",
+      "sub-section (2) of Section 42",
+      "Code of Criminal Procedure 1973"
+    ],
+    [
+      "sub-section (1) of Section 42",
+      "Code of Criminal Procedure 1973",
+      "sub-section (1) of Section 42",
+      "Code of Criminal Procedure 1973"
+    ],
+    [
+      "Section 42(2)",
+      "Code of Criminal Procedure 1973",
+      "Section 42(2)",
+      "Code of Criminal Procedure 1973"
+    ],
+    [
+      "Section 11",
+      "Stamp Act",
+      "Section 11",
+      "Stamp Act"
+    ],
+    [
+      "Section 11(6A)",
+      "Stamp Act",
+      "Section 11(6A)",
+      "Stamp Act"
+    ],
+    [
+      "Section 8, Section 16 and Section 45",
+      "Indian Contract Act, 1872",
+      "Section 8, Section 16 and Section 45",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "Section 33",
+      "Maharashtra Stamp Act",
+      "Section 33",
+      "Maharashtra Stamp Act"
+    ],
+    [
+      "Section 11",
+      "Stamp Act",
+      "Section 11",
+      "Stamp Act"
+    ],
+    [
+      "Section 11",
+      "Stamp Act",
+      "Section 11",
+      "Stamp Act"
+    ],
+    [
+      "Section 8",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 8",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act, 1996",
+      "Section 9",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 8",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 8",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 11",
+      "Stamp Act",
+      "Section 11",
+      "Stamp Act"
+    ],
+    [
+      "sub-section (1) of Section 8",
+      "Arbitration and Conciliation Act, 1996",
+      "sub-section (1) of Section 8",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 8",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 8",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 8",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 8",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 8",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 8",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 2(3)",
+      "Arbitration Act",
+      "Section 2(3)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Indian Contract Act, 1872",
+      "Section 17",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "Section 11",
+      "Stamp Act",
+      "Section 11",
+      "Stamp Act"
+    ],
+    [
+      "S. 11",
+      "Arbitration Act",
+      "S. 11",
+      "Arbitration Act"
+    ],
+    [
+      "Section 11",
+      "Stamp Act",
+      "Section 11",
+      "Stamp Act"
+    ],
+    [
+      "Section 37(1)(a)",
+      "Act 3 of 201649",
+      "Section 37(1)(a)",
+      "Act 3 of 201649"
+    ],
+    [
+      "Section 37(1)(a)",
+      "Act 3 of 201649",
+      "Section 37(1)(a)",
+      "Act 3 of 201649"
+    ],
+    [
+      "section 8",
+      "Arbitration and Conciliation Act, 1996",
+      "section 8",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 13(1A)",
+      "Commercial Courts Act, 2015",
+      "Section 13(1A)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "S. 11",
+      "Arbitration Act",
+      "S. 11",
+      "Arbitration Act"
+    ],
+    [
+      "Section 3",
+      "Maharashtra Stamp Act, 1958",
+      "Section 3",
+      "Maharashtra Stamp Act, 1958"
+    ],
+    [
+      "s. 7",
+      "Arbitration Act",
+      "s. 7",
+      "Arbitration Act"
+    ],
+    [
+      "s 7",
+      "Arbitration Act",
+      "s 7",
+      "Arbitration Act"
+    ],
+    [
+      "§ 2",
+      "Arbitration Act",
+      "§ 2",
+      "Arbitration Act"
+    ],
+    [
+      "§2",
+      "Arbitration Act",
+      "§2",
+      "Arbitration Act"
+    ],
+    [
+      "Section 5",
+      "Indian Arbitration and Conciliation Act, 1996",
+      "Section 5",
+      "Indian Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 30",
+      "Maharashtra Stamp Act, 1958",
+      "Section 30",
+      "Maharashtra Stamp Act, 1958"
+    ],
+    [
+      "Article 63 of SCHEDULE I",
+      "Constitution",
+      "Article 63 of SCHEDULE I",
+      "Constitution"
+    ],
+    [
+      "Section 32A",
+      "Maharashtra Stamp Act, 1958",
+      "Section 32A",
+      "Maharashtra Stamp Act, 1958"
+    ],
+    [
+      "Section 32",
+      "Code of Criminal Procedure, 1973",
+      "Section 32",
+      "Code of Criminal Procedure, 1973"
+    ],
+    [
+      "section 58",
+      "Code of Criminal Procedure, 1973",
+      "section 58",
+      "Code of Criminal Procedure, 1973"
+    ],
+    [
+      "Section 36",
+      "Code of Criminal Procedure, 1973",
+      "Section 36",
+      "Code of Criminal Procedure, 1973"
+    ],
+    [
+      "section 31",
+      "Code of Criminal Procedure, 1973",
+      "section 31",
+      "Code of Criminal Procedure, 1973"
+    ],
+    [
+      "section 33A",
+      "Code of Criminal Procedure, 1973",
+      "section 33A",
+      "Code of Criminal Procedure, 1973"
+    ],
+    [
+      "clause (a) of sub-section (1) of section 39",
+      "Code of Criminal Procedure, 1973",
+      "clause (a) of sub-section (1) of section 39",
+      "Code of Criminal Procedure, 1973"
+    ],
+    [
+      "section 53A",
+      "Maharashtra Stamp Act",
+      "section 53A",
+      "Maharashtra Stamp Act"
+    ],
+    [
+      "rule 9 of Order XIII",
+      "Maharashtra Stamp Act",
+      "rule 9 of Order XIII",
+      "Maharashtra Stamp Act"
+    ],
+    [
+      "section 42",
+      "Code of Criminal Procedure 1973",
+      "section 42",
+      "Code of Criminal Procedure 1973"
+    ],
+    [
+      "S. 11 of 21 (2005)",
+      "2016 Amendment Act",
+      "S. 11 of 21 (2005)",
+      "2016 Amendment Act"
+    ],
+    [
+      "Section 29- A",
+      "Maharashtra Stamp Act",
+      "Section 29- A",
+      "Maharashtra Stamp Act"
+    ],
+    [
+      "SCC 313",
+      "Stamp Act, 1899",
+      "SCC 313",
+      "Stamp Act, 1899"
+    ],
+    [
+      "Section 61",
+      "Stamp Act",
+      "Section 61",
+      "Stamp Act"
+    ],
+    [
+      "SCC 386",
+      "English Arbitration Act, 1996 Act",
+      "SCC 386",
+      "English Arbitration Act, 1996 Act"
+    ],
+    [
+      "SCC 710",
+      "Arbitration Act",
+      "SCC 710",
+      "Arbitration Act"
+    ],
+    [
+      "Section 10",
+      "Indian Contract Act, 1872",
+      "Section 10",
+      "Indian Contract Act, 1872"
+    ]
+  ],
+  "precedent_counts": {
+    "SMS Tea Estates Pvt. Ltd. v. M/s. Chandmari Tea Co.\nPvt": 43,
+    "Naina Thakkar v. Annapurna Builders, (2013) 14 SCC 354": 2,
+    "Hyundai Engg. case [United India Insurance Co. Ltd. v. Hyundai Engg. & Construction Co. Ltd., (2018) 17 SCC 607 : (2019) 2 SCC (Civ) 530": 2
+  },
+  "provision_counts": {
+    "Section 8 of Arbitration and Conciliation Act, 1996": 11,
+    "Articles 226 and 227 of Constitution of India": 1,
+    "Section 11 of Arbitration Act": 4,
+    "Articles 226 and 227 of Constitution": 2,
+    "Section 8 of Arbitration Act": 1,
+    "Part I of Arbitration Act": 1,
+    "Section 7 of Contract Act, 1872": 1,
+    "Article V(1)(a) of New York Convention": 1,
+    "Section 34 of Maharashtra Stamp Act, 1958": 5,
+    "Section 3 of Maharashtra Stamp Act, 1958": 4,
+    "Chapter IX or Part D of Chapter X of Code of Criminal Procedure, 1973": 2,
+    "Section 41 of Maharashtra Stamp Act": 2,
+    "Schedule I of Code of Civil Procedure, 1908": 6,
+    "Chapter IX or Part D of Chapter X of Code of Criminal Procedure 1973": 1,
+    "Section 35 of Stamp Act": 8,
+    "Section 41(1) of Maharashtra Stamp Act, 1958": 1,
+    "Sections 17 and 19 of Registration Act 1908": 1,
+    "Section 49 of Registration Act": 5,
+    "S. 19 of Indian Contract Act, 1872": 2,
+    "Section 19 of Contract Act, 1872": 1,
+    "Section 38 of Stamp Act": 1,
+    "Section 35 or Section 40 of Stamp Act": 1,
+    "S. 11 of Arbitration Act": 3,
+    "Section 11 of 2016 Amendment Act": 3,
+    "Sections 11(4) to 11(6) of Stamp Act": 1,
+    "Section 49 of Registration Act, 1908": 1,
+    "Section 2(h) of Contract Act": 1,
+    "Sections 33 and 34 of Maharashtra Stamp Act": 1,
+    "Section 11 of Maharashtra Stamp Act": 1,
+    "Item 12 of Schedule I of Maharashtra Stamp Act, 1958": 1,
+    "Item No. 63 of the First Schedule of Maharashtra Stamp Act, 1958": 1,
+    "Section 3 of Maharashtra Stamp Act": 1,
+    "Section 40 of Indian Stamp": 1,
+    "Section 7(2) of Arbitration Act": 1,
+    "Section 34 of Maharashtra Stamp Act": 2,
+    "Section 33 of Indian Stamp Act, 1899": 1,
+    "Section 34 of Stamp Act": 1,
+    "Section 9 of Arbitration Act, 1996": 2,
+    "Section 24(2) of 1950 Act": 1,
+    "Section 107(2) of English Arbitration Act, 1996 Act": 1,
+    "Section 17 of Indian Contract, 1872": 1,
+    "Section 2(3) of Arbitration Act": 2,
+    "Section 1044 of Indian Contract Act, 1872": 1,
+    "Section 17 of Indian Contract Act, 1872": 2,
+    "Section 19 of Contract Act": 1,
+    "Sections 2(i) and (j) of Indian Contract Act, 1872": 1,
+    "Sections 12, 14, 15, 16, 17, 18 of Indian Contract Act, 1872": 1,
+    "Section 37 of Arbitration Act": 2,
+    "Section 37(1) of Act 3 of 201649": 1,
+    "Section 37(1)(a) of Arbitration Act": 1,
+    "Section 13(1A) of Commercial Courts Act, 2015": 2,
+    "Order XLIII of Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Section 37 of Arbitration and Conciliation Act, 1996 (26 of 1996)": 1,
+    "S.30(f-a) of Maharashtra Stamp Act, 1958": 1,
+    "S. 9 of Arbitration and Conciliation Act, 1996": 1,
+    "Section 35 of Indian Stamp Act, 1899": 1,
+    "sub-section (6) of Section 16 of Indian Contract Act, 1872": 1,
+    "Article 16(1) of Indian Contract Act, 1872": 1,
+    "section 7 of Contract Act, 1872": 1,
+    "§ 2 of Arbitration Act": 2,
+    "Section 16 of Indian Contract Act, 1872": 7,
+    "Sections 5 and 16 of Indian Contract Act, 1872": 1,
+    "Section 11(6-A) of Arbitration Act": 3,
+    "Sub-section (1) of Section 16 of Indian Contract Act, 1872": 1,
+    "Section 33 of Maharashtra Stamp Act": 3,
+    "section 32A of Maharashtra Stamp Act, 1958": 1,
+    "section 33 of Maharashtra Stamp Act": 1,
+    "section 34 of Maharashtra Stamp Act, 1958": 6,
+    "section 36 of Code of Criminal Procedure, 1973": 1,
+    "sub-section (1) of section 41 of Maharashtra Stamp Act": 1,
+    "section 34, 39 or 40 – (1) of Code of Criminal Procedure, 1973": 1,
+    "sub-section (1) of section 32A of Maharashtra Stamp Act, 1958": 1,
+    "section 34, section 39 or section 40 of Stamp Act": 1,
+    "Section 58 of Code of Criminal Procedure, 1973": 1,
+    "sub -section (3) of Indian Contract Act, 1872": 1,
+    "section 41 of Maharashtra Stamp Act": 2,
+    "proviso to Section 34 of Maharashtra Stamp Act, 1958": 1,
+    "Section 41(2) of Maharashtra Stamp Act": 1,
+    "Section 16(1)(a) of Indian Contract Act, 1872": 1,
+    "S. 11(6) of Arbitration Act": 1,
+    "Section 11(6-A) of 2016 Amendment Act": 1,
+    "Section 11(6-A) of Stamp Act": 5,
+    "Section 7(2) of Contract Act, 1872": 1,
+    "Section 8, Section 16 and Section 45 of Indian Contract Act, 1872": 2,
+    "Section 11(13) of Stamp Act": 1,
+    "Section 11 of Stamp Act": 8,
+    "Sections 35 and 36 of Code of Criminal Procedure, 1973": 1,
+    "Section 36 of Code of Criminal Procedure, 1973": 4,
+    "Section 42(2) of Code of Criminal Procedure 1973": 2,
+    "Section 42(1) of Code of Criminal Procedure 1973": 1,
+    "Section 40 of Stamp Act": 1,
+    "sub-section (1) of Section 42 of Code of Criminal Procedure 1973": 2,
+    "sub-section (2) of Section 42 of Code of Criminal Procedure 1973": 1,
+    "Section 11(6A) of Stamp Act": 1,
+    "sub-section (1) of Section 8 of Arbitration and Conciliation Act, 1996": 1,
+    "Section 37(1)(a) of Act 3 of 201649": 2,
+    "section 8 of Arbitration and Conciliation Act, 1996": 1,
+    "s. 7 of Arbitration Act": 1,
+    "s 7 of Arbitration Act": 1,
+    "§2 of Arbitration Act": 1,
+    "Section 5 of Indian Arbitration and Conciliation Act, 1996": 1,
+    "Section 30 of Maharashtra Stamp Act, 1958": 1,
+    "Article 63 of SCHEDULE I of Constitution": 1,
+    "Section 32A of Maharashtra Stamp Act, 1958": 1,
+    "Section 32 of Code of Criminal Procedure, 1973": 1,
+    "section 58 of Code of Criminal Procedure, 1973": 1,
+    "section 31 of Code of Criminal Procedure, 1973": 1,
+    "section 33A of Code of Criminal Procedure, 1973": 1,
+    "clause (a) of sub-section (1) of section 39 of Code of Criminal Procedure, 1973": 1,
+    "section 53A of Maharashtra Stamp Act": 1,
+    "rule 9 of Order XIII of Maharashtra Stamp Act": 1,
+    "section 42 of Code of Criminal Procedure 1973": 1,
+    "S. 11 of 21 (2005) of 2016 Amendment Act": 1,
+    "Section 29- A of Maharashtra Stamp Act": 1,
+    "SCC 313 of Stamp Act, 1899": 1,
+    "Section 61 of Stamp Act": 1,
+    "SCC 386 of English Arbitration Act, 1996 Act": 1,
+    "SCC 710 of Arbitration Act": 1,
+    "Section 10 of Indian Contract Act, 1872": 1
+  },
+  "statute_counts": {
+    "Arbitration and Conciliation Act, 1996": 14,
+    "Constitution of India": 1,
+    "Arbitration Act": 25,
+    "Constitution": 3,
+    "Contract Act, 1872": 4,
+    "New York Convention": 1,
+    "Maharashtra Stamp Act, 1958": 24,
+    "Code of Criminal Procedure, 1973": 15,
+    "Maharashtra Stamp Act": 18,
+    "Code of Civil Procedure, 1908": 6,
+    "Code of Criminal Procedure 1973": 8,
+    "Stamp Act": 30,
+    "Registration Act 1908": 1,
+    "Registration Act": 5,
+    "Indian Contract Act, 1872": 23,
+    "2016 Amendment Act": 5,
+    "Registration Act, 1908": 1,
+    "Contract Act": 2,
+    "Indian Stamp": 1,
+    "Indian Stamp Act, 1899": 2,
+    "Arbitration Act, 1996": 2,
+    "1950 Act": 1,
+    "English Arbitration Act, 1996 Act": 2,
+    "Indian Contract, 1872": 1,
+    "Act 3 of 201649": 3,
+    "Commercial Courts Act, 2015": 2,
+    "Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Arbitration and Conciliation Act, 1996 (26 of 1996)": 1,
+    "Indian Arbitration and Conciliation Act, 1996": 1,
+    "Stamp Act, 1899": 1
+  }
+}

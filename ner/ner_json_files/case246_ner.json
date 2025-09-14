@@ -1,0 +1,2392 @@
+{
+  "entities": [
+    {
+      "text": "Madras High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 17
+    },
+    {
+      "text": "Surajlal vs Pradeep Stainless India Pvt. Ltd",
+      "label": "PRECEDENT",
+      "start_char": 18,
+      "end_char": 62
+    },
+    {
+      "text": "11 November, 2019",
+      "label": "DATE",
+      "start_char": 66,
+      "end_char": 83
+    },
+    {
+      "text": "R.Subramanian",
+      "label": "JUDGE",
+      "start_char": 92,
+      "end_char": 105
+    },
+    {
+      "text": "R.Subramanian",
+      "label": "JUDGE",
+      "start_char": 113,
+      "end_char": 126
+    },
+    {
+      "text": "HIGH COURT OF JUDICATURE AT MADRAS",
+      "label": "COURT",
+      "start_char": 268,
+      "end_char": 302
+    },
+    {
+      "text": "R.SUBRAMANIAN",
+      "label": "JUDGE",
+      "start_char": 582,
+      "end_char": 595
+    },
+    {
+      "text": "RMT.TEEKAA RAMAN",
+      "label": "JUDGE",
+      "start_char": 652,
+      "end_char": 668
+    },
+    {
+      "text": "1.Pradeep Stainless India Pvt",
+      "label": "RESPONDENT",
+      "start_char": 1823,
+      "end_char": 1852
+    },
+    {
+      "text": "Chennai",
+      "label": "GPE",
+      "start_char": 2135,
+      "end_char": 2142
+    },
+    {
+      "text": "B.Rameshchand",
+      "label": "OTHER_PERSON",
+      "start_char": 2207,
+      "end_char": 2220
+    },
+    {
+      "text": "Spezialstahl Middle East Fze",
+      "label": "RESPONDENT",
+      "start_char": 2251,
+      "end_char": 2279
+    },
+    {
+      "text": "3.Bhawarlal",
+      "label": "RESPONDENT",
+      "start_char": 2615,
+      "end_char": 2626
+    },
+    {
+      "text": "Rakesh Bohara",
+      "label": "OTHER_PERSON",
+      "start_char": 2627,
+      "end_char": 2640
+    },
+    {
+      "text": "Bohara Trading Co.",
+      "label": "ORG",
+      "start_char": 2669,
+      "end_char": 2687
+    },
+    {
+      "text": "Dubai",
+      "label": "GPE",
+      "start_char": 2836,
+      "end_char": 2841
+    },
+    {
+      "text": "United Arab Emirates",
+      "label": "GPE",
+      "start_char": 2866,
+      "end_char": 2886
+    },
+    {
+      "text": "Bhawarlal Rakesh Bohara",
+      "label": "RESPONDENT",
+      "start_char": 3015,
+      "end_char": 3038
+    },
+    {
+      "text": "4.Bohara Trading Co.",
+      "label": "ORG",
+      "start_char": 3267,
+      "end_char": 3287
+    },
+    {
+      "text": "Bhawarlal Rakesh Bohara",
+      "label": "LAWYER",
+      "start_char": 3731,
+      "end_char": 3754
+    },
+    {
+      "text": "Bohara Trading Co.",
+      "label": "ORG",
+      "start_char": 3880,
+      "end_char": 3898
+    },
+    {
+      "text": "Dubai",
+      "label": "GPE",
+      "start_char": 3976,
+      "end_char": 3981
+    },
+    {
+      "text": "United Arab Emirates",
+      "label": "GPE",
+      "start_char": 3983,
+      "end_char": 4003
+    },
+    {
+      "text": "OSA.No.26 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 4074,
+      "end_char": 4091
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 4168,
+      "end_char": 4195
+    },
+    {
+      "text": "Spezialstahl Middle East Fze",
+      "label": "PETITIONER",
+      "start_char": 4594,
+      "end_char": 4622
+    },
+    {
+      "text": "1.Pradeep Stainless India Pvt",
+      "label": "RESPONDENT",
+      "start_char": 5045,
+      "end_char": 5074
+    },
+    {
+      "text": "Chennai",
+      "label": "GPE",
+      "start_char": 5513,
+      "end_char": 5520
+    },
+    {
+      "text": "B.Rameshchand",
+      "label": "OTHER_PERSON",
+      "start_char": 5585,
+      "end_char": 5598
+    },
+    {
+      "text": "2.Surajlal",
+      "label": "RESPONDENT",
+      "start_char": 5623,
+      "end_char": 5633
+    },
+    {
+      "text": "Kerala",
+      "label": "GPE",
+      "start_char": 6089,
+      "end_char": 6095
+    },
+    {
+      "text": "3.Bhawarlal",
+      "label": "RESPONDENT",
+      "start_char": 6120,
+      "end_char": 6131
+    },
+    {
+      "text": "Rakesh Bohara",
+      "label": "OTHER_PERSON",
+      "start_char": 6132,
+      "end_char": 6145
+    },
+    {
+      "text": "Bohara Trading Co.",
+      "label": "ORG",
+      "start_char": 6174,
+      "end_char": 6192
+    },
+    {
+      "text": "Dubai",
+      "label": "GPE",
+      "start_char": 6341,
+      "end_char": 6346
+    },
+    {
+      "text": "United Arab Emirates",
+      "label": "GPE",
+      "start_char": 6371,
+      "end_char": 6391
+    },
+    {
+      "text": "Bhawarlal Rakesh Bohara",
+      "label": "RESPONDENT",
+      "start_char": 6520,
+      "end_char": 6543
+    },
+    {
+      "text": "4.Bohara Trading Co.",
+      "label": "ORG",
+      "start_char": 6928,
+      "end_char": 6948
+    },
+    {
+      "text": "Dubai",
+      "label": "GPE",
+      "start_char": 7097,
+      "end_char": 7102
+    },
+    {
+      "text": "United Arab Emirates",
+      "label": "GPE",
+      "start_char": 7127,
+      "end_char": 7147
+    },
+    {
+      "text": "Bhawarlal Rakesh Bohara",
+      "label": "LAWYER",
+      "start_char": 7232,
+      "end_char": 7255
+    },
+    {
+      "text": "Bohara Trading Co.",
+      "label": "ORG",
+      "start_char": 7378,
+      "end_char": 7396
+    },
+    {
+      "text": "Dubai",
+      "label": "GPE",
+      "start_char": 7472,
+      "end_char": 7477
+    },
+    {
+      "text": "United Arab Emirates",
+      "label": "GPE",
+      "start_char": 7479,
+      "end_char": 7499
+    },
+    {
+      "text": "OSA.No.27 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 7571,
+      "end_char": 7588
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 7665,
+      "end_char": 7692
+    },
+    {
+      "text": "Bohara Trading Co.",
+      "label": "ORG",
+      "start_char": 8089,
+      "end_char": 8107
+    },
+    {
+      "text": "Dubai",
+      "label": "GPE",
+      "start_char": 8250,
+      "end_char": 8255
+    },
+    {
+      "text": "United Arab Emirates",
+      "label": "GPE",
+      "start_char": 8278,
+      "end_char": 8298
+    },
+    {
+      "text": "1.Pradeep Stainless India Pvt",
+      "label": "RESPONDENT",
+      "start_char": 8427,
+      "end_char": 8456
+    },
+    {
+      "text": "B.Rameshchand",
+      "label": "OTHER_PERSON",
+      "start_char": 8502,
+      "end_char": 8515
+    },
+    {
+      "text": "Spezialstahl Middle East Fze",
+      "label": "RESPONDENT",
+      "start_char": 8889,
+      "end_char": 8917
+    },
+    {
+      "text": "3.Surajlal",
+      "label": "RESPONDENT",
+      "start_char": 9185,
+      "end_char": 9195
+    },
+    {
+      "text": "4.Bhawarlal",
+      "label": "RESPONDENT",
+      "start_char": 9438,
+      "end_char": 9449
+    },
+    {
+      "text": "Rakesh Bohara",
+      "label": "OTHER_PERSON",
+      "start_char": 9450,
+      "end_char": 9463
+    },
+    {
+      "text": "Bohara Trading Co.",
+      "label": "ORG",
+      "start_char": 9492,
+      "end_char": 9510
+    },
+    {
+      "text": "Dubai",
+      "label": "GPE",
+      "start_char": 9659,
+      "end_char": 9664
+    },
+    {
+      "text": "United Arab Emirates",
+      "label": "GPE",
+      "start_char": 9689,
+      "end_char": 9709
+    },
+    {
+      "text": "OSA.No.28 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 9791,
+      "end_char": 9808
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 9885,
+      "end_char": 9912
+    },
+    {
+      "text": "Bhawarlal Rakesh Bohara",
+      "label": "PETITIONER",
+      "start_char": 10485,
+      "end_char": 10508
+    },
+    {
+      "text": "Dubai",
+      "label": "GPE",
+      "start_char": 10696,
+      "end_char": 10701
+    },
+    {
+      "text": "United Arab Emirates",
+      "label": "GPE",
+      "start_char": 10724,
+      "end_char": 10744
+    },
+    {
+      "text": "1.Pradeep Stainless India Pvt",
+      "label": "RESPONDENT",
+      "start_char": 10868,
+      "end_char": 10897
+    },
+    {
+      "text": "B.Rameshchand",
+      "label": "OTHER_PERSON",
+      "start_char": 10943,
+      "end_char": 10956
+    },
+    {
+      "text": "Spezialstahl Middle East Fze",
+      "label": "RESPONDENT",
+      "start_char": 11169,
+      "end_char": 11197
+    },
+    {
+      "text": "3.Surajlal",
+      "label": "RESPONDENT",
+      "start_char": 11466,
+      "end_char": 11476
+    },
+    {
+      "text": "4.Bohara Trading Co.",
+      "label": "ORG",
+      "start_char": 11721,
+      "end_char": 11741
+    },
+    {
+      "text": "OSA.No.29 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 12186,
+      "end_char": 12203
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 12280,
+      "end_char": 12307
+    },
+    {
+      "text": "N.Vijayaraghavan",
+      "label": "LAWYER",
+      "start_char": 12726,
+      "end_char": 12742
+    },
+    {
+      "text": "Sharath Chandran",
+      "label": "LAWYER",
+      "start_char": 12877,
+      "end_char": 12893
+    },
+    {
+      "text": "N.P.Vijayakumar",
+      "label": "LAWYER",
+      "start_char": 12963,
+      "end_char": 12978
+    },
+    {
+      "text": "Arun Karthik Mohan",
+      "label": "LAWYER",
+      "start_char": 13044,
+      "end_char": 13062
+    },
+    {
+      "text": "K.Sukumaran",
+      "label": "LAWYER",
+      "start_char": 13192,
+      "end_char": 13203
+    },
+    {
+      "text": "M.R.Gokul Krishnan",
+      "label": "LAWYER",
+      "start_char": 13271,
+      "end_char": 13289
+    },
+    {
+      "text": "High Court of Madras",
+      "label": "COURT",
+      "start_char": 14043,
+      "end_char": 14063
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 14198,
+      "end_char": 14225
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 14402,
+      "end_char": 14429
+    },
+    {
+      "text": "02.07.2018",
+      "label": "DATE",
+      "start_char": 15195,
+      "end_char": 15205
+    },
+    {
+      "text": "Application Nos.10178 of 2018, 726 of 2019, 8040 and 8043 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 15305,
+      "end_char": 15370
+    },
+    {
+      "text": "11.11.2019",
+      "label": "DATE",
+      "start_char": 15539,
+      "end_char": 15549
+    },
+    {
+      "text": "OSA Nos.26 to 29 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 15613,
+      "end_char": 15637
+    },
+    {
+      "text": "25.11.2021",
+      "label": "DATE",
+      "start_char": 16127,
+      "end_char": 16137
+    },
+    {
+      "text": "N.Vijayaraghavan",
+      "label": "LAWYER",
+      "start_char": 16419,
+      "end_char": 16435
+    },
+    {
+      "text": "Sharath Chandran",
+      "label": "LAWYER",
+      "start_char": 16443,
+      "end_char": 16459
+    },
+    {
+      "text": "N.P.Vijaya Kumar",
+      "label": "OTHER_PERSON",
+      "start_char": 16495,
+      "end_char": 16511
+    },
+    {
+      "text": "Arun Karthik Mohan",
+      "label": "LAWYER",
+      "start_char": 16564,
+      "end_char": 16582
+    },
+    {
+      "text": "K.Sukumaran",
+      "label": "LAWYER",
+      "start_char": 16664,
+      "end_char": 16675
+    },
+    {
+      "text": "M.R.Gogulkrishnan",
+      "label": "LAWYER",
+      "start_char": 16711,
+      "end_char": 16728
+    },
+    {
+      "text": "S.Patrick",
+      "label": "LAWYER",
+      "start_char": 16736,
+      "end_char": 16745
+    },
+    {
+      "text": "N.Vijayaraghavan",
+      "label": "LAWYER",
+      "start_char": 16858,
+      "end_char": 16874
+    },
+    {
+      "text": "Sharath Chandran",
+      "label": "LAWYER",
+      "start_char": 16879,
+      "end_char": 16895
+    },
+    {
+      "text": "Arun Karthik Mohan",
+      "label": "LAWYER",
+      "start_char": 16904,
+      "end_char": 16922
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 17119,
+      "end_char": 17140
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 17298,
+      "end_char": 17319
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 17438,
+      "end_char": 17448
+    },
+    {
+      "text": "Subsection 2 of Section 13",
+      "label": "PROVISION",
+      "start_char": 17459,
+      "end_char": 17485
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 17493,
+      "end_char": 17514
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 17711,
+      "end_char": 17720
+    },
+    {
+      "text": "Commecial Courts Act 2015",
+      "label": "STATUTE",
+      "start_char": 17728,
+      "end_char": 17753
+    },
+    {
+      "text": "Hindustan Unilever Limited Ponds House v. S.Shanthi",
+      "label": "PRECEDENT",
+      "start_char": 17839,
+      "end_char": 17890
+    },
+    {
+      "text": "Hindustan Unilever Limited Ponds House v. S.Shanthi",
+      "label": "PRECEDENT",
+      "start_char": 18046,
+      "end_char": 18097
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 18318,
+      "end_char": 18339
+    },
+    {
+      "text": "Hindustan Unilever Limited Ponds House v. S.Shanthi",
+      "label": "PRECEDENT",
+      "start_char": 18820,
+      "end_char": 18871
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 19392,
+      "end_char": 19413
+    },
+    {
+      "text": "Section 4",
+      "label": "PROVISION",
+      "start_char": 19444,
+      "end_char": 19453
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 19461,
+      "end_char": 19482
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 20048,
+      "end_char": 20069
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 20207,
+      "end_char": 20228
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 20503,
+      "end_char": 20524
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 20565,
+      "end_char": 20575
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 21432,
+      "end_char": 21453
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 21608,
+      "end_char": 21618
+    },
+    {
+      "text": "K.Sukumaran",
+      "label": "LAWYER",
+      "start_char": 21713,
+      "end_char": 21724
+    },
+    {
+      "text": "Sub Clauses (i) to (xxi) of Sub Section (c) of Section 2",
+      "label": "PROVISION",
+      "start_char": 22055,
+      "end_char": 22111
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 22119,
+      "end_char": 22140
+    },
+    {
+      "text": "K.Sukumaran",
+      "label": "LAWYER",
+      "start_char": 22375,
+      "end_char": 22386
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 22643,
+      "end_char": 22664
+    },
+    {
+      "text": "K.Sukumaran",
+      "label": "LAWYER",
+      "start_char": 22669,
+      "end_char": 22680
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 23178,
+      "end_char": 23199
+    },
+    {
+      "text": "High Court of Judicature at Madras",
+      "label": "COURT",
+      "start_char": 23615,
+      "end_char": 23649
+    },
+    {
+      "text": "Small Cause Court at Madras",
+      "label": "COURT",
+      "start_char": 24457,
+      "end_char": 24484
+    },
+    {
+      "text": "High Court of Judicature at Madras",
+      "label": "COURT",
+      "start_char": 24803,
+      "end_char": 24837
+    },
+    {
+      "text": "Section 107",
+      "label": "PROVISION",
+      "start_char": 25323,
+      "end_char": 25334
+    },
+    {
+      "text": "Government of India Act",
+      "label": "STATUTE",
+      "start_char": 25342,
+      "end_char": 25365
+    },
+    {
+      "text": "Section 108",
+      "label": "PROVISION",
+      "start_char": 25495,
+      "end_char": 25506
+    },
+    {
+      "text": "Government of India Act",
+      "label": "STATUTE",
+      "start_char": 25514,
+      "end_char": 25537
+    },
+    {
+      "text": "Section 108",
+      "label": "PROVISION",
+      "start_char": 25739,
+      "end_char": 25750
+    },
+    {
+      "text": "Government of India Act",
+      "label": "STATUTE",
+      "start_char": 25758,
+      "end_char": 25781
+    },
+    {
+      "text": "1st day of February 1929",
+      "label": "DATE",
+      "start_char": 25804,
+      "end_char": 25828
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 26448,
+      "end_char": 26453
+    },
+    {
+      "text": "15th December 2003",
+      "label": "DATE",
+      "start_char": 26487,
+      "end_char": 26505
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 26540,
+      "end_char": 26561
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 26783,
+      "end_char": 26788
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 26993,
+      "end_char": 26998
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 27863,
+      "end_char": 27868
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 28048,
+      "end_char": 28053
+    },
+    {
+      "text": "USA",
+      "label": "GPE",
+      "start_char": 28168,
+      "end_char": 28171
+    },
+    {
+      "text": "UK",
+      "label": "GPE",
+      "start_char": 28175,
+      "end_char": 28177
+    },
+    {
+      "text": "NUTSHELL",
+      "label": "ORG",
+      "start_char": 28768,
+      "end_char": 28776
+    },
+    {
+      "text": "Indian Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 29107,
+      "end_char": 29152
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 29338,
+      "end_char": 29343
+    },
+    {
+      "text": "US",
+      "label": "GPE",
+      "start_char": 29485,
+      "end_char": 29487
+    },
+    {
+      "text": "UK",
+      "label": "GPE",
+      "start_char": 29492,
+      "end_char": 29494
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 30622,
+      "end_char": 30643
+    },
+    {
+      "text": "Law Commission of India",
+      "label": "ORG",
+      "start_char": 31226,
+      "end_char": 31249
+    },
+    {
+      "text": "Commercial Division of High Courts Bill, 2009",
+      "label": "STATUTE",
+      "start_char": 31367,
+      "end_char": 31412
+    },
+    {
+      "text": "Lok Sabha",
+      "label": "ORG",
+      "start_char": 31446,
+      "end_char": 31455
+    },
+    {
+      "text": "Rajya Sabha",
+      "label": "COURT",
+      "start_char": 31517,
+      "end_char": 31528
+    },
+    {
+      "text": "Law Commission of India",
+      "label": "ORG",
+      "start_char": 31623,
+      "end_char": 31646
+    },
+    {
+      "text": "Law Commission of India",
+      "label": "ORG",
+      "start_char": 31673,
+      "end_char": 31696
+    },
+    {
+      "text": "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Bill, 2015",
+      "label": "STATUTE",
+      "start_char": 32078,
+      "end_char": 32176
+    },
+    {
+      "text": "Rajya Sabha",
+      "label": "COURT",
+      "start_char": 32199,
+      "end_char": 32210
+    },
+    {
+      "text": "24th April, 2015",
+      "label": "DATE",
+      "start_char": 32214,
+      "end_char": 32230
+    },
+    {
+      "text": "Delhi High Court (Amendment) Act, 2015",
+      "label": "COURT",
+      "start_char": 32649,
+      "end_char": 32687
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 32731,
+      "end_char": 32747
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 32875,
+      "end_char": 32891
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 33124,
+      "end_char": 33140
+    },
+    {
+      "text": "High Court of Delhi",
+      "label": "COURT",
+      "start_char": 33215,
+      "end_char": 33234
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 33427,
+      "end_char": 33443
+    },
+    {
+      "text": "Amendment) Act, 2015",
+      "label": "STATUTE",
+      "start_char": 33502,
+      "end_char": 33522
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "start_char": 33658,
+      "end_char": 33668
+    },
+    {
+      "text": "High Courts Ordinance, 2015",
+      "label": "STATUTE",
+      "start_char": 33810,
+      "end_char": 33837
+    },
+    {
+      "text": "23rd October, 2015",
+      "label": "DATE",
+      "start_char": 33857,
+      "end_char": 33875
+    },
+    {
+      "text": "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Bill, 2015",
+      "label": "STATUTE",
+      "start_char": 33914,
+      "end_char": 34012
+    },
+    {
+      "text": "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Ordinance, 2015",
+      "label": "STATUTE",
+      "start_char": 34028,
+      "end_char": 34131
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 34975,
+      "end_char": 35004
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 35153,
+      "end_char": 35182
+    },
+    {
+      "text": "Commercial Courts Act 2015",
+      "label": "STATUTE",
+      "start_char": 35555,
+      "end_char": 35581
+    },
+    {
+      "text": "Section 2(c)",
+      "label": "PROVISION",
+      "start_char": 35598,
+      "end_char": 35610
+    },
+    {
+      "text": "commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 35618,
+      "end_char": 35639
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 35721,
+      "end_char": 35730
+    },
+    {
+      "text": "Section 3(A)",
+      "label": "PROVISION",
+      "start_char": 35779,
+      "end_char": 35791
+    },
+    {
+      "text": "Section 4",
+      "label": "PROVISION",
+      "start_char": 35985,
+      "end_char": 35994
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 36632,
+      "end_char": 36641
+    },
+    {
+      "text": "sub-section (4) of section 22",
+      "label": "PROVISION",
+      "start_char": 37450,
+      "end_char": 37479
+    },
+    {
+      "text": "Designs Act, 2000 (16 of 2000) or",
+      "label": "STATUTE",
+      "start_char": 37487,
+      "end_char": 37520
+    },
+    {
+      "text": "section 104",
+      "label": "PROVISION",
+      "start_char": 37521,
+      "end_char": 37532
+    },
+    {
+      "text": "Patents Act, 1970 (39 of 1970)",
+      "label": "STATUTE",
+      "start_char": 37540,
+      "end_char": 37570
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 37796,
+      "end_char": 37806
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 38694,
+      "end_char": 38705
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 38713,
+      "end_char": 38754
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 38839,
+      "end_char": 38849
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 38857,
+      "end_char": 38908
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 39307,
+      "end_char": 39328
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 39470,
+      "end_char": 39493
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 39809,
+      "end_char": 39822
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 40133,
+      "end_char": 40154
+    },
+    {
+      "text": "Section 4",
+      "label": "PROVISION",
+      "start_char": 40156,
+      "end_char": 40165
+    },
+    {
+      "text": "Constitution of Commercial Division of High Courts",
+      "label": "STATUTE",
+      "start_char": 40176,
+      "end_char": 40226
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 40341,
+      "end_char": 40350
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 40573,
+      "end_char": 40583
+    },
+    {
+      "text": "Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 40665,
+      "end_char": 40679
+    },
+    {
+      "text": "Sub Section (1) of Section 13",
+      "label": "PROVISION",
+      "start_char": 40866,
+      "end_char": 40895
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 40971,
+      "end_char": 40982
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 40990,
+      "end_char": 41013
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 41018,
+      "end_char": 41028
+    },
+    {
+      "text": "Arbitration and Conciliation Act 1996",
+      "label": "STATUTE",
+      "start_char": 41036,
+      "end_char": 41073
+    },
+    {
+      "text": "Subsection 2 of Section 13",
+      "label": "PROVISION",
+      "start_char": 41136,
+      "end_char": 41162
+    },
+    {
+      "text": "parliament",
+      "label": "ORG",
+      "start_char": 41520,
+      "end_char": 41530
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 41665,
+      "end_char": 41674
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 41746,
+      "end_char": 41756
+    },
+    {
+      "text": "Section12(3)",
+      "label": "PROVISION",
+      "start_char": 41813,
+      "end_char": 41825
+    },
+    {
+      "text": "Section 115",
+      "label": "PROVISION",
+      "start_char": 41859,
+      "end_char": 41870
+    },
+    {
+      "text": "parliament",
+      "label": "ORG",
+      "start_char": 41986,
+      "end_char": 41996
+    },
+    {
+      "text": "Shah Babulal Khimji v",
+      "label": "PRECEDENT",
+      "start_char": 42135,
+      "end_char": 42156
+    },
+    {
+      "text": "Jayaben D. Kania",
+      "label": "OTHER_PERSON",
+      "start_char": 42159,
+      "end_char": 42175
+    },
+    {
+      "text": "1981 (4) SCC 8",
+      "label": "CASE_NUMBER",
+      "start_char": 42201,
+      "end_char": 42215
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 42229,
+      "end_char": 42242
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 42338,
+      "end_char": 42361
+    },
+    {
+      "text": "Order XLIII Rule (1)",
+      "label": "PROVISION",
+      "start_char": 42513,
+      "end_char": 42533
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 42619,
+      "end_char": 42632
+    },
+    {
+      "text": "Subsection 2 of Section 13",
+      "label": "PROVISION",
+      "start_char": 42662,
+      "end_char": 42688
+    },
+    {
+      "text": "P.S.Sathappan(dead)by",
+      "label": "OTHER_PERSON",
+      "start_char": 42818,
+      "end_char": 42839
+    },
+    {
+      "text": "Andhra Bank Ltd",
+      "label": "RESPONDENT",
+      "start_char": 42848,
+      "end_char": 42863
+    },
+    {
+      "text": "2004(11) SCC 672",
+      "label": "PRECEDENT",
+      "start_char": 42888,
+      "end_char": 42904
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 42918,
+      "end_char": 42931
+    },
+    {
+      "text": "Section 104 (2)",
+      "label": "PROVISION",
+      "start_char": 42964,
+      "end_char": 42979
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 42987,
+      "end_char": 43010
+    },
+    {
+      "text": "Section 13(2)",
+      "label": "PROVISION",
+      "start_char": 43217,
+      "end_char": 43230
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 43238,
+      "end_char": 43259
+    },
+    {
+      "text": "Iridium India Telecom Ltd v. Motorola Inc, reported in 2005 (2) SCC 145",
+      "label": "PRECEDENT",
+      "start_char": 43269,
+      "end_char": 43340
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 43354,
+      "end_char": 43367
+    },
+    {
+      "text": "Rule 1 of Order VIII",
+      "label": "PROVISION",
+      "start_char": 43457,
+      "end_char": 43477
+    },
+    {
+      "text": "Section 129",
+      "label": "PROVISION",
+      "start_char": 43566,
+      "end_char": 43577
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 43585,
+      "end_char": 43608
+    },
+    {
+      "text": "Section 129",
+      "label": "PROVISION",
+      "start_char": 43731,
+      "end_char": 43742
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 43750,
+      "end_char": 43773
+    },
+    {
+      "text": "Subsection 3 of Section 16",
+      "label": "PROVISION",
+      "start_char": 43889,
+      "end_char": 43915
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 43923,
+      "end_char": 43944
+    },
+    {
+      "text": "Subsection 3 of Section 16",
+      "label": "PROVISION",
+      "start_char": 43946,
+      "end_char": 43972
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 43980,
+      "end_char": 44001
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 44106,
+      "end_char": 44129
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 44148,
+      "end_char": 44169
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 44215,
+      "end_char": 44238
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 44257,
+      "end_char": 44278
+    },
+    {
+      "text": "Rule 1 of Order VIII",
+      "label": "PROVISION",
+      "start_char": 44280,
+      "end_char": 44300
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 44325,
+      "end_char": 44346
+    },
+    {
+      "text": "Sub-section 3 of Section 16",
+      "label": "PROVISION",
+      "start_char": 44437,
+      "end_char": 44464
+    },
+    {
+      "text": "Rule 1 of Order VIII",
+      "label": "PROVISION",
+      "start_char": 44471,
+      "end_char": 44491
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 44510,
+      "end_char": 44531
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "start_char": 44620,
+      "end_char": 44630
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 44765,
+      "end_char": 44778
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 44889,
+      "end_char": 44910
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "start_char": 45072,
+      "end_char": 45082
+    },
+    {
+      "text": "Section 4",
+      "label": "PROVISION",
+      "start_char": 45546,
+      "end_char": 45555
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 45720,
+      "end_char": 45729
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 46107,
+      "end_char": 46116
+    },
+    {
+      "text": "Clause 16 of Rule 4 of Order I",
+      "label": "PROVISION",
+      "start_char": 46685,
+      "end_char": 46715
+    },
+    {
+      "text": "Rule I of Order III",
+      "label": "PROVISION",
+      "start_char": 46823,
+      "end_char": 46842
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 47184,
+      "end_char": 47205
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 47309,
+      "end_char": 47318
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 47658,
+      "end_char": 47667
+    },
+    {
+      "text": "Hindustan Unilever Limited Ponds House v. S.Shanthi",
+      "label": "PRECEDENT",
+      "start_char": 48386,
+      "end_char": 48437
+    },
+    {
+      "text": "OSA CAD Nos.24, 25, 26 and 27 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 48520,
+      "end_char": 48557
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 48632,
+      "end_char": 48649
+    },
+    {
+      "text": "Order XLIII Rule 1(A)",
+      "label": "PROVISION",
+      "start_char": 48677,
+      "end_char": 48698
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 48706,
+      "end_char": 48729
+    },
+    {
+      "text": "Order XLIX Rule 3",
+      "label": "PROVISION",
+      "start_char": 48846,
+      "end_char": 48863
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 48871,
+      "end_char": 48894
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 48896,
+      "end_char": 48913
+    },
+    {
+      "text": "R.P.O. Connor v. P.G.Sampath Kumar, reported in AIR 1953 Mad 897",
+      "label": "PRECEDENT",
+      "start_char": 49062,
+      "end_char": 49126
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 49167,
+      "end_char": 49178
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 49186,
+      "end_char": 49209
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 49318,
+      "end_char": 49329
+    },
+    {
+      "text": "Code of Civil",
+      "label": "STATUTE",
+      "start_char": 49337,
+      "end_char": 49350
+    },
+    {
+      "text": "Rule 1 of Order XLIII",
+      "label": "PROVISION",
+      "start_char": 49466,
+      "end_char": 49487
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 49495,
+      "end_char": 49518
+    },
+    {
+      "text": "K.Sukumaran",
+      "label": "LAWYER",
+      "start_char": 49809,
+      "end_char": 49820
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 49931,
+      "end_char": 49944
+    },
+    {
+      "text": "Vessel M.V.Polaris Galaxy v. Banque Cantonale De Geneve reported in 2022 SCC Online SC 1293",
+      "label": "PRECEDENT",
+      "start_char": 49985,
+      "end_char": 50076
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 50106,
+      "end_char": 50119
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 50188,
+      "end_char": 50209
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 50225,
+      "end_char": 50238
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 50262,
+      "end_char": 50283
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 50307,
+      "end_char": 50320
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 50347,
+      "end_char": 50360
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 50483,
+      "end_char": 50506
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 50590,
+      "end_char": 50601
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 50605,
+      "end_char": 50608
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 50666,
+      "end_char": 50687
+    },
+    {
+      "text": "section 14",
+      "label": "PROVISION",
+      "start_char": 50807,
+      "end_char": 50817
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "start_char": 51068,
+      "end_char": 51078
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 51095,
+      "end_char": 51116
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 51288,
+      "end_char": 51301
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 51324,
+      "end_char": 51334
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 51342,
+      "end_char": 51355
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 51487,
+      "end_char": 51500
+    },
+    {
+      "text": "Order XLIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 51631,
+      "end_char": 51649
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 51657,
+      "end_char": 51680
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 51693,
+      "end_char": 51703
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 51711,
+      "end_char": 51724
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 51735,
+      "end_char": 51745
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 51753,
+      "end_char": 51774
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 51793,
+      "end_char": 51806
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 52187,
+      "end_char": 52200
+    },
+    {
+      "text": "Order XLIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 52331,
+      "end_char": 52349
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 52357,
+      "end_char": 52380
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 52577,
+      "end_char": 52598
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 52658,
+      "end_char": 52679
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 52884,
+      "end_char": 52905
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 53099,
+      "end_char": 53108
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 53704,
+      "end_char": 53713
+    },
+    {
+      "text": "Commercial Courts Act 2015",
+      "label": "STATUTE",
+      "start_char": 53786,
+      "end_char": 53812
+    },
+    {
+      "text": "High Court of Madras",
+      "label": "COURT",
+      "start_char": 54063,
+      "end_char": 54083
+    },
+    {
+      "text": "Commercial Courts Act 2015",
+      "label": "STATUTE",
+      "start_char": 54208,
+      "end_char": 54234
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 54310,
+      "end_char": 54319
+    },
+    {
+      "text": "Commercial Courts Act 2015",
+      "label": "STATUTE",
+      "start_char": 54487,
+      "end_char": 54513
+    },
+    {
+      "text": "R.S.M.",
+      "label": "JUDGE",
+      "start_char": 55264,
+      "end_char": 55270
+    },
+    {
+      "text": "T.K.R.",
+      "label": "JUDGE",
+      "start_char": 55282,
+      "end_char": 55288
+    },
+    {
+      "text": "V.B.S.",
+      "label": "JUDGE",
+      "start_char": 55305,
+      "end_char": 55311
+    },
+    {
+      "text": "02.03.2023",
+      "label": "DATE",
+      "start_char": 55378,
+      "end_char": 55388
+    },
+    {
+      "text": "High Court of Madras",
+      "label": "COURT",
+      "start_char": 55710,
+      "end_char": 55730
+    },
+    {
+      "text": "R.SUBRAMANIAN",
+      "label": "JUDGE",
+      "start_char": 55879,
+      "end_char": 55892
+    },
+    {
+      "text": "RMT.TEEKAA RAMAN",
+      "label": "JUDGE",
+      "start_char": 55935,
+      "end_char": 55951
+    },
+    {
+      "text": "V.BHAVANI SUBBAROYAN",
+      "label": "JUDGE",
+      "start_char": 56048,
+      "end_char": 56068
+    }
+  ],
+  "precedent_clusters": {
+    "Surajlal vs Pradeep Stainless India Pvt. Ltd": [
+      "Surajlal vs Pradeep Stainless India Pvt. Ltd",
+      "Hindustan Unilever Limited Ponds House v. S.Shanthi",
+      "Hindustan Unilever Limited Ponds House v. S.Shanthi",
+      "Hindustan Unilever Limited Ponds House v. S.Shanthi",
+      "Shah Babulal Khimji v",
+      "Hindustan Unilever Limited Ponds House v. S.Shanthi"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Subsection 2 of Section 13",
+      "Commercial Courts Act",
+      "Subsection 2 of Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 7",
+      "Commecial Courts Act 2015",
+      "Section 7",
+      "Commecial Courts Act 2015"
+    ],
+    [
+      "Section 4",
+      "Commercial Courts Act",
+      "Section 4",
+      "Commercial Courts Act"
+    ],
+    [
+      "Sub Clauses (i) to (xxi) of Sub Section (c) of Section 2",
+      "Commercial Courts Act",
+      "Sub Clauses (i) to (xxi) of Sub Section (c) of Section 2",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 107",
+      "Government of India Act",
+      "Section 107",
+      "Government of India Act"
+    ],
+    [
+      "Section 108",
+      "Government of India Act",
+      "Section 108",
+      "Government of India Act"
+    ],
+    [
+      "Section 108",
+      "Government of India Act",
+      "Section 108",
+      "Government of India Act"
+    ],
+    [
+      "Section 2(c)",
+      "commercial Courts Act",
+      "Section 2(c)",
+      "commercial Courts Act"
+    ],
+    [
+      "sub-section (4) of section 22",
+      "Designs Act, 2000 (16 of 2000) or",
+      "sub-section (4) of section 22",
+      "Designs Act, 2000 (16 of 2000) or"
+    ],
+    [
+      "section 104",
+      "Patents Act, 1970 (39 of 1970)",
+      "section 104",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "section 37",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "section 37",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)"
+    ],
+    [
+      "Section 4",
+      "Constitution of Commercial Division of High Courts",
+      "Section 4",
+      "Constitution of Commercial Division of High Courts"
+    ],
+    [
+      "Order XLIII",
+      "Code of Civil Procedure",
+      "Order XLIII",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act 1996",
+      "Section 37",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "Section 104 (2)",
+      "Code of Civil Procedure",
+      "Section 104 (2)",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 13(2)",
+      "Commercial Courts Act",
+      "Section 13(2)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 129",
+      "Code of Civil Procedure",
+      "Section 129",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 129",
+      "Code of Civil Procedure",
+      "Section 129",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Subsection 3 of Section 16",
+      "Commercial Courts Act",
+      "Subsection 3 of Section 16",
+      "Commercial Courts Act"
+    ],
+    [
+      "Subsection 3 of Section 16",
+      "Commercial Courts Act",
+      "Subsection 3 of Section 16",
+      "Commercial Courts Act"
+    ],
+    [
+      "Rule 1 of Order VIII",
+      "Commercial Courts Act",
+      "Rule 1 of Order VIII",
+      "Commercial Courts Act"
+    ],
+    [
+      "Rule 1 of Order VIII",
+      "Commercial Courts Act",
+      "Rule 1 of Order VIII",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order XLIII Rule 1(A)",
+      "Code of Civil Procedure",
+      "Order XLIII Rule 1(A)",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Order XLIX Rule 3",
+      "Code of Civil Procedure",
+      "Order XLIX Rule 3",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 151",
+      "Code of Civil Procedure",
+      "Section 151",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 151",
+      "Code of Civil",
+      "Section 151",
+      "Code of Civil"
+    ],
+    [
+      "Rule 1 of Order XLIII",
+      "Code of Civil Procedure",
+      "Rule 1 of Order XLIII",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Order XLIII",
+      "CPC",
+      "Order XLIII",
+      "CPC"
+    ],
+    [
+      "Section 14",
+      "Admiralty Act",
+      "Section 14",
+      "Admiralty Act"
+    ],
+    [
+      "Order XLIII Rule 1",
+      "Code of Civil Procedure",
+      "Order XLIII Rule 1",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 12",
+      "Admiralty Act",
+      "Section 12",
+      "Admiralty Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order XLIII Rule 1",
+      "Code of Civil Procedure",
+      "Order XLIII Rule 1",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 7",
+      "Commercial Courts Act 2015",
+      "Section 7",
+      "Commercial Courts Act 2015"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 3(A)",
+      "commercial Courts Act",
+      "Section 3(A)",
+      "commercial Courts Act"
+    ],
+    [
+      "Section 4",
+      "Commercial Courts Act",
+      "Section 4",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 7",
+      "Commecial Courts Act 2015",
+      "Section 7",
+      "Commecial Courts Act 2015"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 7",
+      "Commecial Courts Act 2015",
+      "Section 7",
+      "Commecial Courts Act 2015"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13(1A)",
+      "Commercial Courts Act",
+      "Section 13(1A)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Sub Section (1) of Section 13",
+      "Commercial Courts Act",
+      "Sub Section (1) of Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Subsection 2 of Section 13",
+      "Commercial Courts Act",
+      "Subsection 2 of Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section12(3)",
+      "Admiralty Act",
+      "Section12(3)",
+      "Admiralty Act"
+    ],
+    [
+      "Subsection 2 of Section 13",
+      "Commercial Courts Act",
+      "Subsection 2 of Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Rule 1 of Order VIII",
+      "Commercial Courts Act",
+      "Rule 1 of Order VIII",
+      "Commercial Courts Act"
+    ],
+    [
+      "Sub-section 3 of Section 16",
+      "Commercial Courts Act",
+      "Sub-section 3 of Section 16",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 4",
+      "Commercial Courts Act",
+      "Section 4",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 7",
+      "Commecial Courts Act 2015",
+      "Section 7",
+      "Commecial Courts Act 2015"
+    ],
+    [
+      "Section 7",
+      "Commecial Courts Act 2015",
+      "Section 7",
+      "Commecial Courts Act 2015"
+    ],
+    [
+      "Section 7",
+      "Commecial Courts Act 2015",
+      "Section 7",
+      "Commecial Courts Act 2015"
+    ],
+    [
+      "Section 7",
+      "Commecial Courts Act 2015",
+      "Section 7",
+      "Commecial Courts Act 2015"
+    ],
+    [
+      "Order VII Rule 10",
+      "Commercial Courts Act",
+      "Order VII Rule 10",
+      "Commercial Courts Act"
+    ],
+    [
+      "section 14",
+      "Admiralty Act",
+      "section 14",
+      "Admiralty Act"
+    ],
+    [
+      "Section 7",
+      "Commecial Courts Act 2015",
+      "Section 7",
+      "Commecial Courts Act 2015"
+    ],
+    [
+      "Section 7",
+      "Commecial Courts Act 2015",
+      "Section 7",
+      "Commecial Courts Act 2015"
+    ],
+    [
+      "Section 3",
+      "commercial Courts Act",
+      "Section 3",
+      "commercial Courts Act"
+    ],
+    [
+      "Section 8",
+      "Arbitration and Conciliation Act 1996",
+      "Section 8",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "Section 115",
+      "Arbitration and Conciliation Act 1996",
+      "Section 115",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "Order XLIII Rule (1)",
+      "Code of Civil Procedure",
+      "Order XLIII Rule (1)",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Clause 16 of Rule 4 of Order I",
+      "Commercial Courts Act",
+      "Clause 16 of Rule 4 of Order I",
+      "Commercial Courts Act"
+    ],
+    [
+      "Rule I of Order III",
+      "Commercial Courts Act",
+      "Rule I of Order III",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order VII Rule 10",
+      "Commercial Courts Act",
+      "Order VII Rule 10",
+      "Commercial Courts Act"
+    ]
+  ],
+  "precedent_counts": {
+    "Surajlal vs Pradeep Stainless India Pvt. Ltd": 6
+  },
+  "provision_counts": {
+    "Subsection 2 of Section 13 of Commercial Courts Act": 3,
+    "Section 7 of Commecial Courts Act 2015": 9,
+    "Section 4 of Commercial Courts Act": 3,
+    "Sub Clauses (i) to (xxi) of Sub Section (c) of Section 2 of Commercial Courts Act": 1,
+    "Section 107 of Government of India Act": 1,
+    "Section 108 of Government of India Act": 2,
+    "Section 2(c) of commercial Courts Act": 1,
+    "sub-section (4) of section 22 of Designs Act, 2000 (16 of 2000) or": 1,
+    "section 104 of Patents Act, 1970 (39 of 1970)": 1,
+    "Order XLIII of Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "section 37 of Arbitration and Conciliation Act, 1996 (26 of 1996)": 1,
+    "Section 4 of Constitution of Commercial Division of High Courts": 1,
+    "Order XLIII of Code of Civil Procedure": 1,
+    "Section 37 of Arbitration and Conciliation Act 1996": 1,
+    "Section 104 (2) of Code of Civil Procedure": 1,
+    "Section 13(2) of Commercial Courts Act": 1,
+    "Section 129 of Code of Civil Procedure": 2,
+    "Subsection 3 of Section 16 of Commercial Courts Act": 2,
+    "Rule 1 of Order VIII of Commercial Courts Act": 3,
+    "Order XLIII Rule 1(A) of Code of Civil Procedure": 1,
+    "Order XLIX Rule 3 of Code of Civil Procedure": 1,
+    "Section 151 of Code of Civil Procedure": 1,
+    "Section 151 of Code of Civil": 1,
+    "Rule 1 of Order XLIII of Code of Civil Procedure": 1,
+    "Order XLIII of CPC": 1,
+    "Section 14 of Admiralty Act": 1,
+    "Order XLIII Rule 1 of Code of Civil Procedure": 2,
+    "Section 12 of Admiralty Act": 1,
+    "Section 13 of Commercial Courts Act": 7,
+    "Section 7 of Commercial Courts Act 2015": 1,
+    "Section 3(A) of commercial Courts Act": 1,
+    "Section 13(1A) of Commercial Courts Act": 1,
+    "Sub Section (1) of Section 13 of Commercial Courts Act": 1,
+    "Section12(3) of Admiralty Act": 1,
+    "Sub-section 3 of Section 16 of Commercial Courts Act": 1,
+    "Order VII Rule 10 of Commercial Courts Act": 2,
+    "section 14 of Admiralty Act": 1,
+    "Section 3 of commercial Courts Act": 1,
+    "Section 8 of Arbitration and Conciliation Act 1996": 1,
+    "Section 115 of Arbitration and Conciliation Act 1996": 1,
+    "Order XLIII Rule (1) of Code of Civil Procedure": 1,
+    "Clause 16 of Rule 4 of Order I of Commercial Courts Act": 1,
+    "Rule I of Order III of Commercial Courts Act": 1
+  },
+  "statute_counts": {
+    "Commercial Courts Act": 27,
+    "Commecial Courts Act 2015": 9,
+    "Government of India Act": 3,
+    "commercial Courts Act": 3,
+    "Designs Act, 2000 (16 of 2000) or": 1,
+    "Patents Act, 1970 (39 of 1970)": 1,
+    "Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Arbitration and Conciliation Act, 1996 (26 of 1996)": 1,
+    "Constitution of Commercial Division of High Courts": 1,
+    "Code of Civil Procedure": 11,
+    "Arbitration and Conciliation Act 1996": 3,
+    "Code of Civil": 1,
+    "CPC": 1,
+    "Admiralty Act": 4,
+    "Commercial Courts Act 2015": 1
+  }
+}

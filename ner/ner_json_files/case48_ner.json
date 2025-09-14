@@ -1,0 +1,2160 @@
+{
+  "entities": [
+    {
+      "text": "Madras High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 17
+    },
+    {
+      "text": "S.Indus Cityscapes Constructions",
+      "label": "PETITIONER",
+      "start_char": 20,
+      "end_char": 52
+    },
+    {
+      "text": "S.Karismaa Foundations Pvt.Ltd",
+      "label": "RESPONDENT",
+      "start_char": 62,
+      "end_char": 92
+    },
+    {
+      "text": "C.Saravanan",
+      "label": "LAWYER",
+      "start_char": 123,
+      "end_char": 134
+    },
+    {
+      "text": "R.Subbiah",
+      "label": "JUDGE",
+      "start_char": 142,
+      "end_char": 151
+    },
+    {
+      "text": "C.Saravanan",
+      "label": "LAWYER",
+      "start_char": 153,
+      "end_char": 164
+    },
+    {
+      "text": "High Court Of Judicature At Madras",
+      "label": "COURT",
+      "start_char": 290,
+      "end_char": 324
+    },
+    {
+      "text": "R.Subbiah",
+      "label": "JUDGE",
+      "start_char": 579,
+      "end_char": 588
+    },
+    {
+      "text": "C.Saravanan",
+      "label": "JUDGE",
+      "start_char": 700,
+      "end_char": 711
+    },
+    {
+      "text": "Ajay Lunawath",
+      "label": "PETITIONER",
+      "start_char": 1024,
+      "end_char": 1037
+    },
+    {
+      "text": "Karismaa Foundations Pvt.Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 1288,
+      "end_char": 1317
+    },
+    {
+      "text": "C.S.No.632 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 1884,
+      "end_char": 1902
+    },
+    {
+      "text": "B.Arvind Srevatsa",
+      "label": "LAWYER",
+      "start_char": 2095,
+      "end_char": 2112
+    },
+    {
+      "text": "Nithyaesh",
+      "label": "LAWYER",
+      "start_char": 2177,
+      "end_char": 2186
+    },
+    {
+      "text": "JUDGMENT C.SARAVANAN",
+      "label": "JUDGE",
+      "start_char": 2238,
+      "end_char": 2258
+    },
+    {
+      "text": "Section 2(c)(vi),(vii) and (xviii)",
+      "label": "PROVISION",
+      "start_char": 2587,
+      "end_char": 2621
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 2632,
+      "end_char": 2642
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 2643,
+      "end_char": 2670
+    },
+    {
+      "text": "Order XIV Rule 8",
+      "label": "PROVISION",
+      "start_char": 2751,
+      "end_char": 2767
+    },
+    {
+      "text": "O.S Rules",
+      "label": "STATUTE",
+      "start_char": 2771,
+      "end_char": 2780
+    },
+    {
+      "text": "Order 12 Rule 6",
+      "label": "PROVISION",
+      "start_char": 2785,
+      "end_char": 2800
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 2804,
+      "end_char": 2807
+    },
+    {
+      "text": "31.01.2019",
+      "label": "DATE",
+      "start_char": 2963,
+      "end_char": 2973
+    },
+    {
+      "text": "31.03.2013",
+      "label": "DATE",
+      "start_char": 3113,
+      "end_char": 3123
+    },
+    {
+      "text": "28.09.2013",
+      "label": "DATE",
+      "start_char": 3460,
+      "end_char": 3470
+    },
+    {
+      "text": "24.08.2009",
+      "label": "DATE",
+      "start_char": 3515,
+      "end_char": 3525
+    },
+    {
+      "text": "31.03.2013",
+      "label": "DATE",
+      "start_char": 3667,
+      "end_char": 3677
+    },
+    {
+      "text": "28.09.2013",
+      "label": "DATE",
+      "start_char": 3783,
+      "end_char": 3793
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 3839,
+      "end_char": 3857
+    },
+    {
+      "text": "24.08.2009",
+      "label": "DATE",
+      "start_char": 3973,
+      "end_char": 3983
+    },
+    {
+      "text": "31.03.2013",
+      "label": "DATE",
+      "start_char": 4371,
+      "end_char": 4381
+    },
+    {
+      "text": "Shreyans Lunwadh",
+      "label": "OTHER_PERSON",
+      "start_char": 4519,
+      "end_char": 4535
+    },
+    {
+      "text": "28.09.2013",
+      "label": "DATE",
+      "start_char": 4714,
+      "end_char": 4724
+    },
+    {
+      "text": "31.03.2013",
+      "label": "DATE",
+      "start_char": 5103,
+      "end_char": 5113
+    },
+    {
+      "text": "27.07.2016",
+      "label": "DATE",
+      "start_char": 5190,
+      "end_char": 5200
+    },
+    {
+      "text": "Section 433(e)",
+      "label": "PROVISION",
+      "start_char": 5207,
+      "end_char": 5221
+    },
+    {
+      "text": "Companies Act, 1956",
+      "label": "STATUTE",
+      "start_char": 5229,
+      "end_char": 5248
+    },
+    {
+      "text": "C.P.No.361 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 5445,
+      "end_char": 5463
+    },
+    {
+      "text": "20.09.2016",
+      "label": "DATE",
+      "start_char": 5485,
+      "end_char": 5495
+    },
+    {
+      "text": "National Company Law Tribunal, Chennai",
+      "label": "COURT",
+      "start_char": 5552,
+      "end_char": 5590
+    },
+    {
+      "text": "C.S.No.59 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 5701,
+      "end_char": 5718
+    },
+    {
+      "text": "22.09.2016",
+      "label": "DATE",
+      "start_char": 5722,
+      "end_char": 5732
+    },
+    {
+      "text": "C.S.No.59 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 6473,
+      "end_char": 6490
+    },
+    {
+      "text": "22.09.2016",
+      "label": "DATE",
+      "start_char": 6513,
+      "end_char": 6523
+    },
+    {
+      "text": "CP/355/(IB)/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 6566,
+      "end_char": 6582
+    },
+    {
+      "text": "National Company Law Tribunal Single Bench, Chennai",
+      "label": "COURT",
+      "start_char": 6617,
+      "end_char": 6668
+    },
+    {
+      "text": "C.S.No.59 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 6701,
+      "end_char": 6718
+    },
+    {
+      "text": "National Company Law Tribunal, Chennai",
+      "label": "COURT",
+      "start_char": 6724,
+      "end_char": 6762
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 6814,
+      "end_char": 6823
+    },
+    {
+      "text": "Insolvency and Bankruptcy Code 2016",
+      "label": "STATUTE",
+      "start_char": 6831,
+      "end_char": 6866
+    },
+    {
+      "text": "Rule 6",
+      "label": "PROVISION",
+      "start_char": 6877,
+      "end_char": 6883
+    },
+    {
+      "text": "Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016",
+      "label": "STATUTE",
+      "start_char": 6891,
+      "end_char": 6968
+    },
+    {
+      "text": "09.07.2018",
+      "label": "DATE",
+      "start_char": 6988,
+      "end_char": 6998
+    },
+    {
+      "text": "C.S.No.632 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 7074,
+      "end_char": 7092
+    },
+    {
+      "text": "C.S.No.632 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 7157,
+      "end_char": 7175
+    },
+    {
+      "text": "Application No.6948 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 7203,
+      "end_char": 7230
+    },
+    {
+      "text": "Order XII Rule 6",
+      "label": "PROVISION",
+      "start_char": 7237,
+      "end_char": 7253
+    },
+    {
+      "text": "CPC, 1908",
+      "label": "STATUTE",
+      "start_char": 7257,
+      "end_char": 7266
+    },
+    {
+      "text": "C.S.No.632 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 7401,
+      "end_char": 7419
+    },
+    {
+      "text": "Application No.6948 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 7452,
+      "end_char": 7479
+    },
+    {
+      "text": "Order 12 Rule 6",
+      "label": "PROVISION",
+      "start_char": 7541,
+      "end_char": 7556
+    },
+    {
+      "text": "CPC, 1908",
+      "label": "STATUTE",
+      "start_char": 7560,
+      "end_char": 7569
+    },
+    {
+      "text": "31.01.2019",
+      "label": "DATE",
+      "start_char": 7593,
+      "end_char": 7603
+    },
+    {
+      "text": "National Company Law Tribunal, Chennai",
+      "label": "COURT",
+      "start_char": 7914,
+      "end_char": 7952
+    },
+    {
+      "text": "Section 14 (1) (a)",
+      "label": "PROVISION",
+      "start_char": 8085,
+      "end_char": 8103
+    },
+    {
+      "text": "Insolvency and Bankruptcy Code 2016",
+      "label": "STATUTE",
+      "start_char": 8111,
+      "end_char": 8146
+    },
+    {
+      "text": "31.01.2019",
+      "label": "DATE",
+      "start_char": 8370,
+      "end_char": 8380
+    },
+    {
+      "text": "Section 14(1)(a)",
+      "label": "PROVISION",
+      "start_char": 8594,
+      "end_char": 8610
+    },
+    {
+      "text": "Insolvency and Bankruptcy Code, 2016",
+      "label": "STATUTE",
+      "start_char": 8614,
+      "end_char": 8650
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 9105,
+      "end_char": 9121
+    },
+    {
+      "text": "Power Grid Corporation of India Ltd. vs Jyothi Structures Ltd, 2017 SCC OnLine Del 12189",
+      "label": "PRECEDENT",
+      "start_char": 9125,
+      "end_char": 9213
+    },
+    {
+      "text": "Insolvency and Bankruptcy Code, 2016",
+      "label": "STATUTE",
+      "start_char": 9309,
+      "end_char": 9345
+    },
+    {
+      "text": "Insolvency and Bankruptcy Code, 2016",
+      "label": "STATUTE",
+      "start_char": 9617,
+      "end_char": 9653
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 9655,
+      "end_char": 9665
+    },
+    {
+      "text": "Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002",
+      "label": "STATUTE",
+      "start_char": 10446,
+      "end_char": 10557
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 10994,
+      "end_char": 11012
+    },
+    {
+      "text": "sub-section (1) of section 31",
+      "label": "PROVISION",
+      "start_char": 11365,
+      "end_char": 11394
+    },
+    {
+      "text": "section 33",
+      "label": "PROVISION",
+      "start_char": 11456,
+      "end_char": 11466
+    },
+    {
+      "text": "Insolvency and Bankruptcy Code",
+      "label": "STATUTE",
+      "start_char": 11623,
+      "end_char": 11653
+    },
+    {
+      "text": "Section 14 (1) (a)",
+      "label": "PROVISION",
+      "start_char": 11943,
+      "end_char": 11961
+    },
+    {
+      "text": "Insolvency and Bankruptcy Code, 2016",
+      "label": "STATUTE",
+      "start_char": 11969,
+      "end_char": 12005
+    },
+    {
+      "text": "Section 14 (1) (a)",
+      "label": "PROVISION",
+      "start_char": 12332,
+      "end_char": 12350
+    },
+    {
+      "text": "Insolvency and Bankruptcy Code 2016",
+      "label": "STATUTE",
+      "start_char": 12358,
+      "end_char": 12393
+    },
+    {
+      "text": "Insolvency and Bankruptcy Code, 2016",
+      "label": "STATUTE",
+      "start_char": 12568,
+      "end_char": 12604
+    },
+    {
+      "text": "Section 14 (1) (a)",
+      "label": "PROVISION",
+      "start_char": 12611,
+      "end_char": 12629
+    },
+    {
+      "text": "C.S.No.632 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 12763,
+      "end_char": 12781
+    },
+    {
+      "text": "C.S.No.632 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 12996,
+      "end_char": 13014
+    },
+    {
+      "text": "Order XII Rule 6",
+      "label": "PROVISION",
+      "start_char": 13444,
+      "end_char": 13460
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 13464,
+      "end_char": 13467
+    },
+    {
+      "text": "C.S.No.59 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 13524,
+      "end_char": 13541
+    },
+    {
+      "text": "C.S.No.59 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 13850,
+      "end_char": 13867
+    },
+    {
+      "text": "Order XII Rule 6",
+      "label": "PROVISION",
+      "start_char": 13984,
+      "end_char": 14000
+    },
+    {
+      "text": "CPC, 1908",
+      "label": "STATUTE",
+      "start_char": 14004,
+      "end_char": 14013
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 14288,
+      "end_char": 14306
+    },
+    {
+      "text": "31.03.2013",
+      "label": "DATE",
+      "start_char": 14704,
+      "end_char": 14714
+    },
+    {
+      "text": "31.03.2013",
+      "label": "DATE",
+      "start_char": 15109,
+      "end_char": 15119
+    },
+    {
+      "text": "Shreyans",
+      "label": "OTHER_PERSON",
+      "start_char": 15137,
+      "end_char": 15145
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 15518,
+      "end_char": 15528
+    },
+    {
+      "text": "Indian Evidence Act",
+      "label": "STATUTE",
+      "start_char": 15536,
+      "end_char": 15555
+    },
+    {
+      "text": "Jeevan Diesels and Electricals Ltd., vs Jasbir Singh Chadha and Others (2010) 6 SCC 601",
+      "label": "PRECEDENT",
+      "start_char": 16036,
+      "end_char": 16123
+    },
+    {
+      "text": "Union   of   India   vs   Ibrahim    Uddin",
+      "label": "PRECEDENT",
+      "start_char": 16161,
+      "end_char": 16203
+    },
+    {
+      "text": "SCC 148",
+      "label": "PROVISION",
+      "start_char": 16291,
+      "end_char": 16298
+    },
+    {
+      "text": "Himani Allots Ltd, vs Tata Steel Ltd (2011) 15 SCC 273",
+      "label": "PRECEDENT",
+      "start_char": 16306,
+      "end_char": 16360
+    },
+    {
+      "text": "S.M.Asif vs Virender Kumar Bajaj (2015) 9 SCC 287",
+      "label": "PRECEDENT",
+      "start_char": 16367,
+      "end_char": 16416
+    },
+    {
+      "text": "C.S.No.59 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 16494,
+      "end_char": 16511
+    },
+    {
+      "text": "Order XII Rule 6",
+      "label": "PROVISION",
+      "start_char": 16718,
+      "end_char": 16734
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 16738,
+      "end_char": 16741
+    },
+    {
+      "text": "Order XII Rule 6",
+      "label": "PROVISION",
+      "start_char": 17336,
+      "end_char": 17352
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 17356,
+      "end_char": 17359
+    },
+    {
+      "text": "31.03.2013",
+      "label": "DATE",
+      "start_char": 18019,
+      "end_char": 18029
+    },
+    {
+      "text": "31.03.2013",
+      "label": "DATE",
+      "start_char": 18203,
+      "end_char": 18213
+    },
+    {
+      "text": "O.S.A.No.274",
+      "label": "CASE_NUMBER",
+      "start_char": 18557,
+      "end_char": 18569
+    },
+    {
+      "text": "2018",
+      "label": "CASE_NUMBER",
+      "start_char": 18570,
+      "end_char": 18574
+    },
+    {
+      "text": "13.03.2019",
+      "label": "DATE",
+      "start_char": 18587,
+      "end_char": 18597
+    },
+    {
+      "text": "Indus Ind Bank vs M R. Selvakumar",
+      "label": "PRECEDENT",
+      "start_char": 18606,
+      "end_char": 18639
+    },
+    {
+      "text": "Indus Ind Bank vs M.R.Selvakumar admission of liability alone",
+      "label": "PRECEDENT",
+      "start_char": 18690,
+      "end_char": 18751
+    },
+    {
+      "text": "31.03.2013",
+      "label": "DATE",
+      "start_char": 18928,
+      "end_char": 18938
+    },
+    {
+      "text": "28.09.2013",
+      "label": "DATE",
+      "start_char": 19010,
+      "end_char": 19020
+    },
+    {
+      "text": "C.S.No.59 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 19083,
+      "end_char": 19100
+    },
+    {
+      "text": "27.07.2016",
+      "label": "DATE",
+      "start_char": 19360,
+      "end_char": 19370
+    },
+    {
+      "text": "C.P.No.361 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 19430,
+      "end_char": 19448
+    },
+    {
+      "text": "Companies Act, 1956",
+      "label": "STATUTE",
+      "start_char": 19531,
+      "end_char": 19550
+    },
+    {
+      "text": "20.09.2016",
+      "label": "DATE",
+      "start_char": 19554,
+      "end_char": 19564
+    },
+    {
+      "text": "C.S.No.59 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 19611,
+      "end_char": 19628
+    },
+    {
+      "text": "22.9.2016",
+      "label": "DATE",
+      "start_char": 19650,
+      "end_char": 19659
+    },
+    {
+      "text": "National Company Law Tribunal",
+      "label": "COURT",
+      "start_char": 19862,
+      "end_char": 19891
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 20215,
+      "end_char": 20231
+    },
+    {
+      "text": "P.C.Gulati vs Lajya Ram AIR 1969 Del 632",
+      "label": "PRECEDENT",
+      "start_char": 20235,
+      "end_char": 20275
+    },
+    {
+      "text": "31.03.2013",
+      "label": "DATE",
+      "start_char": 20592,
+      "end_char": 20602
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 20868,
+      "end_char": 20886
+    },
+    {
+      "text": "31.03.2013",
+      "label": "DATE",
+      "start_char": 21006,
+      "end_char": 21016
+    },
+    {
+      "text": "C.S.No.59 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 21165,
+      "end_char": 21182
+    },
+    {
+      "text": "Section 2(1)(c)",
+      "label": "PROVISION",
+      "start_char": 21354,
+      "end_char": 21369
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 21377,
+      "end_char": 21404
+    },
+    {
+      "text": "Order XII Rule 6",
+      "label": "PROVISION",
+      "start_char": 21501,
+      "end_char": 21517
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 21521,
+      "end_char": 21524
+    },
+    {
+      "text": "Order XII Rule 6, Order XV",
+      "label": "PROVISION",
+      "start_char": 21591,
+      "end_char": 21617
+    },
+    {
+      "text": "Order XXXVII",
+      "label": "PROVISION",
+      "start_char": 21628,
+      "end_char": 21640
+    },
+    {
+      "text": "Civil Procedure Code",
+      "label": "STATUTE",
+      "start_char": 21644,
+      "end_char": 21664
+    },
+    {
+      "text": "59.Order XIII-A",
+      "label": "PROVISION",
+      "start_char": 21718,
+      "end_char": 21733
+    },
+    {
+      "text": "Civil Procedure Code",
+      "label": "STATUTE",
+      "start_char": 21741,
+      "end_char": 21761
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 21785,
+      "end_char": 21812
+    },
+    {
+      "text": "Order XIII A",
+      "label": "PROVISION",
+      "start_char": 21977,
+      "end_char": 21989
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 21993,
+      "end_char": 21996
+    },
+    {
+      "text": "Order XXXVII",
+      "label": "PROVISION",
+      "start_char": 22026,
+      "end_char": 22038
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 22042,
+      "end_char": 22045
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 22119,
+      "end_char": 22146
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 22224,
+      "end_char": 22251
+    },
+    {
+      "text": "Order XII Rule 6",
+      "label": "PROVISION",
+      "start_char": 22274,
+      "end_char": 22290
+    },
+    {
+      "text": "Civil Procedure Code",
+      "label": "STATUTE",
+      "start_char": 22298,
+      "end_char": 22318
+    },
+    {
+      "text": "Civil Procedure Code",
+      "label": "STATUTE",
+      "start_char": 22367,
+      "end_char": 22387
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 22434,
+      "end_char": 22461
+    },
+    {
+      "text": "Order XII Rule 6",
+      "label": "PROVISION",
+      "start_char": 22491,
+      "end_char": 22507
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 22511,
+      "end_char": 22514
+    },
+    {
+      "text": "Order XII Rule 6",
+      "label": "PROVISION",
+      "start_char": 22563,
+      "end_char": 22579
+    },
+    {
+      "text": "Order XII Rule 6",
+      "label": "PROVISION",
+      "start_char": 22759,
+      "end_char": 22775
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 22779,
+      "end_char": 22782
+    },
+    {
+      "text": "Himani Alloys Ltd.",
+      "label": "ORG",
+      "start_char": 23139,
+      "end_char": 23157
+    },
+    {
+      "text": "Tata Steel Ltd., 2011 (3) Civil Court Cases 721",
+      "label": "PRECEDENT",
+      "start_char": 23161,
+      "end_char": 23208
+    },
+    {
+      "text": "Uttam Singh Duggal & Co. Ltd. vs. United Bank of India, 2000 (7) SCC 120",
+      "label": "PRECEDENT",
+      "start_char": 23327,
+      "end_char": 23399
+    },
+    {
+      "text": "Karam Kapahi vs. Lal Chand",
+      "label": "PRECEDENT",
+      "start_char": 23401,
+      "end_char": 23427
+    },
+    {
+      "text": "Public Charitable Trust, 2010 (4) SCC 753",
+      "label": "PRECEDENT",
+      "start_char": 23428,
+      "end_char": 23469
+    },
+    {
+      "text": "Jeevan Diesels and Electricals Ltd. vs. Jasbir Singh Chadha, 2010 (6) SCC 601]",
+      "label": "PRECEDENT",
+      "start_char": 23474,
+      "end_char": 23552
+    },
+    {
+      "text": "Nagubai Ammal and others vs. B. Shama Road and others, AIR 1956 SC 593",
+      "label": "PRECEDENT",
+      "start_char": 23589,
+      "end_char": 23659
+    },
+    {
+      "text": "Razia Begum vs. Sahebzadi Anwar Begum, 1958 SC 886",
+      "label": "PRECEDENT",
+      "start_char": 23956,
+      "end_char": 24006
+    },
+    {
+      "text": "Order XII Rule 6",
+      "label": "PROVISION",
+      "start_char": 24025,
+      "end_char": 24041
+    },
+    {
+      "text": "Rule 5 of Order VIII",
+      "label": "PROVISION",
+      "start_char": 24079,
+      "end_char": 24099
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 24103,
+      "end_char": 24106
+    },
+    {
+      "text": "Karam Kapahi & others vs. M/s Lal Chand Public Charitable & Another, (2010) 4 SCC 753",
+      "label": "PRECEDENT",
+      "start_char": 24275,
+      "end_char": 24360
+    },
+    {
+      "text": "Jessel",
+      "label": "OTHER_PERSON",
+      "start_char": 24391,
+      "end_char": 24397
+    },
+    {
+      "text": "Thorp vs Holdsworth [1876) 3 Ch D 637]",
+      "label": "PRECEDENT",
+      "start_char": 24423,
+      "end_char": 24461
+    },
+    {
+      "text": "Order XII Rule 6",
+      "label": "PROVISION",
+      "start_char": 24537,
+      "end_char": 24553
+    },
+    {
+      "text": "54th Law Commission",
+      "label": "ORG",
+      "start_char": 24790,
+      "end_char": 24809
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 25476,
+      "end_char": 25503
+    },
+    {
+      "text": "Order XII Rule 6",
+      "label": "PROVISION",
+      "start_char": 25600,
+      "end_char": 25616
+    },
+    {
+      "text": "XIII A",
+      "label": "PROVISION",
+      "start_char": 25645,
+      "end_char": 25651
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 25683,
+      "end_char": 25710
+    },
+    {
+      "text": "Rule 3 of Order XIII A",
+      "label": "PROVISION",
+      "start_char": 25746,
+      "end_char": 25768
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 25796,
+      "end_char": 25823
+    },
+    {
+      "text": "Order XIII-A Rule 3",
+      "label": "PROVISION",
+      "start_char": 26014,
+      "end_char": 26033
+    },
+    {
+      "text": "Rule 4 (1) of Order XIII-A",
+      "label": "PROVISION",
+      "start_char": 26624,
+      "end_char": 26650
+    },
+    {
+      "text": "74.Rule 4(2) of Order XIII-A",
+      "label": "PROVISION",
+      "start_char": 27636,
+      "end_char": 27664
+    },
+    {
+      "text": "Rule 4(3) of Order XIII-A",
+      "label": "PROVISION",
+      "start_char": 27917,
+      "end_char": 27942
+    },
+    {
+      "text": "Rule 6 of Order XIII- A",
+      "label": "PROVISION",
+      "start_char": 29254,
+      "end_char": 29277
+    },
+    {
+      "text": "rule 7 of Order XIII A",
+      "label": "PROVISION",
+      "start_char": 29522,
+      "end_char": 29544
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 29548,
+      "end_char": 29551
+    },
+    {
+      "text": "Order XV-A",
+      "label": "PROVISION",
+      "start_char": 29798,
+      "end_char": 29808
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 29816,
+      "end_char": 29819
+    },
+    {
+      "text": "Order XII Rule 6",
+      "label": "PROVISION",
+      "start_char": 30211,
+      "end_char": 30227
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 30231,
+      "end_char": 30234
+    },
+    {
+      "text": "Rule 7 of Order XIII -A,",
+      "label": "PROVISION",
+      "start_char": 30246,
+      "end_char": 30270
+    },
+    {
+      "text": "Rule 6(1)(b)",
+      "label": "PROVISION",
+      "start_char": 30376,
+      "end_char": 30388
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 31380,
+      "end_char": 31390
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 31398,
+      "end_char": 31425
+    },
+    {
+      "text": "Civil Procedure Code, 1908",
+      "label": "STATUTE",
+      "start_char": 31525,
+      "end_char": 31551
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 31660,
+      "end_char": 31670
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 31678,
+      "end_char": 31705
+    },
+    {
+      "text": "Civil Procedure Code, 1908",
+      "label": "STATUTE",
+      "start_char": 31820,
+      "end_char": 31846
+    },
+    {
+      "text": "Civil Procedure Code, 1908",
+      "label": "STATUTE",
+      "start_char": 31914,
+      "end_char": 31940
+    },
+    {
+      "text": "Civil Procedure Code, 1908",
+      "label": "STATUTE",
+      "start_char": 31988,
+      "end_char": 32014
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 32089,
+      "end_char": 32092
+    },
+    {
+      "text": "Civil Procedure Code,1908 as",
+      "label": "STATUTE",
+      "start_char": 32249,
+      "end_char": 32277
+    },
+    {
+      "text": "Civil Procedure Code",
+      "label": "STATUTE",
+      "start_char": 32329,
+      "end_char": 32349
+    },
+    {
+      "text": "Order XII Rule 6",
+      "label": "PROVISION",
+      "start_char": 32509,
+      "end_char": 32525
+    },
+    {
+      "text": "Civil Procedure Code, 1908",
+      "label": "STATUTE",
+      "start_char": 32533,
+      "end_char": 32559
+    },
+    {
+      "text": "Order XIII-A",
+      "label": "PROVISION",
+      "start_char": 32688,
+      "end_char": 32700
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 32704,
+      "end_char": 32707
+    },
+    {
+      "text": "Order XV-A",
+      "label": "PROVISION",
+      "start_char": 32724,
+      "end_char": 32734
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 32738,
+      "end_char": 32741
+    },
+    {
+      "text": "Civil Procedure Code, 1908",
+      "label": "STATUTE",
+      "start_char": 32758,
+      "end_char": 32784
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 32792,
+      "end_char": 32819
+    },
+    {
+      "text": "Order XV-A",
+      "label": "PROVISION",
+      "start_char": 32991,
+      "end_char": 33001
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 33005,
+      "end_char": 33008
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 33028,
+      "end_char": 33055
+    },
+    {
+      "text": "Order XV A",
+      "label": "PROVISION",
+      "start_char": 33483,
+      "end_char": 33493
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 33497,
+      "end_char": 33500
+    },
+    {
+      "text": "Commercial Courts Act,2015,",
+      "label": "STATUTE",
+      "start_char": 33520,
+      "end_char": 33547
+    },
+    {
+      "text": "order XIV",
+      "label": "PROVISION",
+      "start_char": 33850,
+      "end_char": 33859
+    },
+    {
+      "text": "Civil Procedure Code, 1908",
+      "label": "STATUTE",
+      "start_char": 33867,
+      "end_char": 33893
+    },
+    {
+      "text": "Rule 2 of Order X",
+      "label": "PROVISION",
+      "start_char": 34013,
+      "end_char": 34030
+    },
+    {
+      "text": "Order XV",
+      "label": "PROVISION",
+      "start_char": 34566,
+      "end_char": 34574
+    },
+    {
+      "text": "Order XV",
+      "label": "PROVISION",
+      "start_char": 34657,
+      "end_char": 34665
+    },
+    {
+      "text": "Rule of Order XV-A",
+      "label": "PROVISION",
+      "start_char": 34875,
+      "end_char": 34893
+    },
+    {
+      "text": "Order XV Rule 1",
+      "label": "PROVISION",
+      "start_char": 35014,
+      "end_char": 35029
+    },
+    {
+      "text": "Order XIII A",
+      "label": "PROVISION",
+      "start_char": 35117,
+      "end_char": 35129
+    },
+    {
+      "text": "Order XIII A",
+      "label": "PROVISION",
+      "start_char": 35245,
+      "end_char": 35257
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 35261,
+      "end_char": 35264
+    },
+    {
+      "text": "Order XVA",
+      "label": "PROVISION",
+      "start_char": 35297,
+      "end_char": 35306
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 35310,
+      "end_char": 35313
+    },
+    {
+      "text": "Rule 6 Order XV-A",
+      "label": "PROVISION",
+      "start_char": 35413,
+      "end_char": 35430
+    },
+    {
+      "text": "Order XIII-A",
+      "label": "PROVISION",
+      "start_char": 35603,
+      "end_char": 35615
+    },
+    {
+      "text": "Rule 2 of Order X",
+      "label": "PROVISION",
+      "start_char": 36012,
+      "end_char": 36029
+    },
+    {
+      "text": "Civil Procedure Code",
+      "label": "STATUTE",
+      "start_char": 37494,
+      "end_char": 37514
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 37522,
+      "end_char": 37549
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 37670,
+      "end_char": 37691
+    },
+    {
+      "text": "Civil Procedure Code, 1908",
+      "label": "STATUTE",
+      "start_char": 37702,
+      "end_char": 37728
+    },
+    {
+      "text": "Order XIII-A",
+      "label": "PROVISION",
+      "start_char": 37821,
+      "end_char": 37833
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 37837,
+      "end_char": 37840
+    },
+    {
+      "text": "Order XII Rule 6",
+      "label": "PROVISION",
+      "start_char": 37878,
+      "end_char": 37894
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 37898,
+      "end_char": 37901
+    },
+    {
+      "text": "Order XIII –A",
+      "label": "PROVISION",
+      "start_char": 38063,
+      "end_char": 38076
+    },
+    {
+      "text": "Civil Procedure Code, 1908",
+      "label": "STATUTE",
+      "start_char": 38084,
+      "end_char": 38110
+    },
+    {
+      "text": "Order XII Rule 6",
+      "label": "PROVISION",
+      "start_char": 38180,
+      "end_char": 38196
+    },
+    {
+      "text": "Civil Procedure Code, 1908",
+      "label": "STATUTE",
+      "start_char": 38200,
+      "end_char": 38226
+    },
+    {
+      "text": "Order XXXVII",
+      "label": "PROVISION",
+      "start_char": 38372,
+      "end_char": 38384
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 38388,
+      "end_char": 38391
+    },
+    {
+      "text": "Order XIII A",
+      "label": "PROVISION",
+      "start_char": 38467,
+      "end_char": 38479
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 38483,
+      "end_char": 38486
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 38505,
+      "end_char": 38532
+    },
+    {
+      "text": "Order XII Rule 6",
+      "label": "PROVISION",
+      "start_char": 38572,
+      "end_char": 38588
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 38592,
+      "end_char": 38595
+    },
+    {
+      "text": "Order XII Rule 12",
+      "label": "PROVISION",
+      "start_char": 38828,
+      "end_char": 38845
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 38849,
+      "end_char": 38852
+    },
+    {
+      "text": "central government",
+      "label": "ORG",
+      "start_char": 38960,
+      "end_char": 38978
+    },
+    {
+      "text": "Finance Act, 1994",
+      "label": "STATUTE",
+      "start_char": 39289,
+      "end_char": 39306
+    },
+    {
+      "text": "Civil Procedure Code",
+      "label": "STATUTE",
+      "start_char": 40201,
+      "end_char": 40221
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 40249,
+      "end_char": 40276
+    },
+    {
+      "text": "Order XII Rule 6",
+      "label": "PROVISION",
+      "start_char": 40537,
+      "end_char": 40553
+    },
+    {
+      "text": "C.S.No.632 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 40868,
+      "end_char": 40886
+    },
+    {
+      "text": "C.S.No.59 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 41010,
+      "end_char": 41027
+    },
+    {
+      "text": "C.S.No.632 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 41032,
+      "end_char": 41050
+    },
+    {
+      "text": "Civil Procedure Code",
+      "label": "STATUTE",
+      "start_char": 41173,
+      "end_char": 41193
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 41270,
+      "end_char": 41297
+    },
+    {
+      "text": "R.P.S.,J.",
+      "label": "JUDGE",
+      "start_char": 41751,
+      "end_char": 41760
+    },
+    {
+      "text": "C.S.N.,J.",
+      "label": "JUDGE",
+      "start_char": 41772,
+      "end_char": 41781
+    },
+    {
+      "text": "26.09.2019",
+      "label": "DATE",
+      "start_char": 41857,
+      "end_char": 41867
+    },
+    {
+      "text": "R.SUBBIAH",
+      "label": "JUDGE",
+      "start_char": 42080,
+      "end_char": 42089
+    },
+    {
+      "text": "C.SARAVANAN",
+      "label": "JUDGE",
+      "start_char": 42195,
+      "end_char": 42206
+    }
+  ],
+  "precedent_clusters": {
+    "Union   of   India   vs   Ibrahim    Uddin": [
+      "Union   of   India   vs   Ibrahim    Uddin",
+      "Indus Ind Bank vs M R. Selvakumar",
+      "Indus Ind Bank vs M.R.Selvakumar admission of liability alone",
+      "Karam Kapahi vs. Lal Chand"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 12",
+      "Commercial Courts Act, 2015",
+      "Section 12",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Order XIV Rule 8",
+      "O.S Rules",
+      "Order XIV Rule 8",
+      "O.S Rules"
+    ],
+    [
+      "Order 12 Rule 6",
+      "CPC",
+      "Order 12 Rule 6",
+      "CPC"
+    ],
+    [
+      "Section 433(e)",
+      "Companies Act, 1956",
+      "Section 433(e)",
+      "Companies Act, 1956"
+    ],
+    [
+      "Section 9",
+      "Insolvency and Bankruptcy Code 2016",
+      "Section 9",
+      "Insolvency and Bankruptcy Code 2016"
+    ],
+    [
+      "Rule 6",
+      "Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016",
+      "Rule 6",
+      "Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016"
+    ],
+    [
+      "Order XII Rule 6",
+      "CPC, 1908",
+      "Order XII Rule 6",
+      "CPC, 1908"
+    ],
+    [
+      "Order 12 Rule 6",
+      "CPC, 1908",
+      "Order 12 Rule 6",
+      "CPC, 1908"
+    ],
+    [
+      "Section 14 (1) (a)",
+      "Insolvency and Bankruptcy Code 2016",
+      "Section 14 (1) (a)",
+      "Insolvency and Bankruptcy Code 2016"
+    ],
+    [
+      "Section 14(1)(a)",
+      "Insolvency and Bankruptcy Code, 2016",
+      "Section 14(1)(a)",
+      "Insolvency and Bankruptcy Code, 2016"
+    ],
+    [
+      "Section 14 (1) (a)",
+      "Insolvency and Bankruptcy Code, 2016",
+      "Section 14 (1) (a)",
+      "Insolvency and Bankruptcy Code, 2016"
+    ],
+    [
+      "Section 14 (1) (a)",
+      "Insolvency and Bankruptcy Code 2016",
+      "Section 14 (1) (a)",
+      "Insolvency and Bankruptcy Code 2016"
+    ],
+    [
+      "Order XII Rule 6",
+      "CPC",
+      "Order XII Rule 6",
+      "CPC"
+    ],
+    [
+      "Order XII Rule 6",
+      "CPC, 1908",
+      "Order XII Rule 6",
+      "CPC, 1908"
+    ],
+    [
+      "Section 17",
+      "Indian Evidence Act",
+      "Section 17",
+      "Indian Evidence Act"
+    ],
+    [
+      "Order XII Rule 6",
+      "CPC",
+      "Order XII Rule 6",
+      "CPC"
+    ],
+    [
+      "Order XII Rule 6",
+      "CPC",
+      "Order XII Rule 6",
+      "CPC"
+    ],
+    [
+      "Section 2(1)(c)",
+      "Commercial Courts Act, 2015",
+      "Section 2(1)(c)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Order XII Rule 6",
+      "CPC",
+      "Order XII Rule 6",
+      "CPC"
+    ],
+    [
+      "Order XXXVII",
+      "Civil Procedure Code",
+      "Order XXXVII",
+      "Civil Procedure Code"
+    ],
+    [
+      "59.Order XIII-A",
+      "Civil Procedure Code",
+      "59.Order XIII-A",
+      "Civil Procedure Code"
+    ],
+    [
+      "Order XIII A",
+      "CPC",
+      "Order XIII A",
+      "CPC"
+    ],
+    [
+      "Order XXXVII",
+      "CPC",
+      "Order XXXVII",
+      "CPC"
+    ],
+    [
+      "Order XII Rule 6",
+      "Civil Procedure Code",
+      "Order XII Rule 6",
+      "Civil Procedure Code"
+    ],
+    [
+      "Order XII Rule 6",
+      "CPC",
+      "Order XII Rule 6",
+      "CPC"
+    ],
+    [
+      "Order XII Rule 6",
+      "CPC",
+      "Order XII Rule 6",
+      "CPC"
+    ],
+    [
+      "Rule 5 of Order VIII",
+      "CPC",
+      "Rule 5 of Order VIII",
+      "CPC"
+    ],
+    [
+      "XIII A",
+      "Commercial Courts Act, 2015",
+      "XIII A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Rule 3 of Order XIII A",
+      "Commercial Courts Act, 2015",
+      "Rule 3 of Order XIII A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "rule 7 of Order XIII A",
+      "CPC",
+      "rule 7 of Order XIII A",
+      "CPC"
+    ],
+    [
+      "Order XV-A",
+      "CPC",
+      "Order XV-A",
+      "CPC"
+    ],
+    [
+      "Order XII Rule 6",
+      "CPC",
+      "Order XII Rule 6",
+      "CPC"
+    ],
+    [
+      "Section 16",
+      "Commercial Courts Act, 2015",
+      "Section 16",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 16",
+      "Commercial Courts Act, 2015",
+      "Section 16",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Order XII Rule 6",
+      "Civil Procedure Code, 1908",
+      "Order XII Rule 6",
+      "Civil Procedure Code, 1908"
+    ],
+    [
+      "Order XIII-A",
+      "CPC",
+      "Order XIII-A",
+      "CPC"
+    ],
+    [
+      "Order XV-A",
+      "CPC",
+      "Order XV-A",
+      "CPC"
+    ],
+    [
+      "Order XV-A",
+      "CPC",
+      "Order XV-A",
+      "CPC"
+    ],
+    [
+      "Order XV A",
+      "CPC",
+      "Order XV A",
+      "CPC"
+    ],
+    [
+      "order XIV",
+      "Civil Procedure Code, 1908",
+      "order XIV",
+      "Civil Procedure Code, 1908"
+    ],
+    [
+      "Order XIII A",
+      "CPC",
+      "Order XIII A",
+      "CPC"
+    ],
+    [
+      "Order XVA",
+      "CPC",
+      "Order XVA",
+      "CPC"
+    ],
+    [
+      "Order XIII-A",
+      "CPC",
+      "Order XIII-A",
+      "CPC"
+    ],
+    [
+      "Order XII Rule 6",
+      "CPC",
+      "Order XII Rule 6",
+      "CPC"
+    ],
+    [
+      "Order XIII –A",
+      "Civil Procedure Code, 1908",
+      "Order XIII –A",
+      "Civil Procedure Code, 1908"
+    ],
+    [
+      "Order XII Rule 6",
+      "Civil Procedure Code, 1908",
+      "Order XII Rule 6",
+      "Civil Procedure Code, 1908"
+    ],
+    [
+      "Order XXXVII",
+      "CPC",
+      "Order XXXVII",
+      "CPC"
+    ],
+    [
+      "Order XIII A",
+      "CPC",
+      "Order XIII A",
+      "CPC"
+    ],
+    [
+      "Order XII Rule 6",
+      "CPC",
+      "Order XII Rule 6",
+      "CPC"
+    ],
+    [
+      "Order XII Rule 12",
+      "CPC",
+      "Order XII Rule 12",
+      "CPC"
+    ],
+    [
+      "Section 2(c)(vi),(vii) and (xviii)",
+      "Commercial Courts Act, 2015",
+      "Section 2(c)(vi),(vii) and (xviii)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 14",
+      "Insolvency and Bankruptcy Code, 2016",
+      "Section 14",
+      "Insolvency and Bankruptcy Code, 2016"
+    ],
+    [
+      "Section 14 (1) (a)",
+      "Insolvency and Bankruptcy Code, 2016",
+      "Section 14 (1) (a)",
+      "Insolvency and Bankruptcy Code, 2016"
+    ],
+    [
+      "Order XII Rule 6, Order XV",
+      "CPC",
+      "Order XII Rule 6, Order XV",
+      "CPC"
+    ],
+    [
+      "Order XII Rule 6",
+      "CPC",
+      "Order XII Rule 6",
+      "CPC"
+    ],
+    [
+      "Order XII Rule 6",
+      "CPC",
+      "Order XII Rule 6",
+      "CPC"
+    ],
+    [
+      "Order XII Rule 6",
+      "CPC",
+      "Order XII Rule 6",
+      "CPC"
+    ],
+    [
+      "Order XII Rule 6",
+      "CPC",
+      "Order XII Rule 6",
+      "CPC"
+    ],
+    [
+      "Rule 4 (1) of Order XIII-A",
+      "CPC",
+      "Rule 4 (1) of Order XIII-A",
+      "CPC"
+    ],
+    [
+      "74.Rule 4(2) of Order XIII-A",
+      "CPC",
+      "74.Rule 4(2) of Order XIII-A",
+      "CPC"
+    ],
+    [
+      "Rule 4(3) of Order XIII-A",
+      "CPC",
+      "Rule 4(3) of Order XIII-A",
+      "CPC"
+    ],
+    [
+      "Rule 6(1)(b)",
+      "Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016",
+      "Rule 6(1)(b)",
+      "Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016"
+    ],
+    [
+      "Order XV",
+      "Civil Procedure Code, 1908",
+      "Order XV",
+      "Civil Procedure Code, 1908"
+    ],
+    [
+      "Rule of Order XV-A",
+      "CPC",
+      "Rule of Order XV-A",
+      "CPC"
+    ],
+    [
+      "Order XIII A",
+      "CPC",
+      "Order XIII A",
+      "CPC"
+    ],
+    [
+      "Order XIII-A",
+      "CPC",
+      "Order XIII-A",
+      "CPC"
+    ],
+    [
+      "Rule 2 of Order X",
+      "Civil Procedure Code, 1908",
+      "Rule 2 of Order X",
+      "Civil Procedure Code, 1908"
+    ],
+    [
+      "Order XII Rule 6",
+      "Civil Procedure Code, 1908",
+      "Order XII Rule 6",
+      "Civil Procedure Code, 1908"
+    ],
+    [
+      "sub-section (1) of section 31",
+      "Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002",
+      "sub-section (1) of section 31",
+      "Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002"
+    ],
+    [
+      "section 33",
+      "Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002",
+      "section 33",
+      "Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002"
+    ],
+    [
+      "SCC 148",
+      "Indian Evidence Act",
+      "SCC 148",
+      "Indian Evidence Act"
+    ],
+    [
+      "Order XIII-A Rule 3",
+      "Commercial Courts Act, 2015",
+      "Order XIII-A Rule 3",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Rule 6 of Order XIII- A",
+      "Commercial Courts Act, 2015",
+      "Rule 6 of Order XIII- A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Rule 7 of Order XIII -A,",
+      "CPC",
+      "Rule 7 of Order XIII -A,",
+      "CPC"
+    ],
+    [
+      "Rule 2 of Order X",
+      "Civil Procedure Code, 1908",
+      "Rule 2 of Order X",
+      "Civil Procedure Code, 1908"
+    ],
+    [
+      "Order XV",
+      "Civil Procedure Code, 1908",
+      "Order XV",
+      "Civil Procedure Code, 1908"
+    ],
+    [
+      "Order XV Rule 1",
+      "Civil Procedure Code, 1908",
+      "Order XV Rule 1",
+      "Civil Procedure Code, 1908"
+    ],
+    [
+      "Rule 6 Order XV-A",
+      "CPC",
+      "Rule 6 Order XV-A",
+      "CPC"
+    ]
+  ],
+  "precedent_counts": {
+    "Union   of   India   vs   Ibrahim    Uddin": 4
+  },
+  "provision_counts": {
+    "Section 12 of Commercial Courts Act, 2015": 1,
+    "Order XIV Rule 8 of O.S Rules": 1,
+    "Order 12 Rule 6 of CPC": 1,
+    "Section 433(e) of Companies Act, 1956": 1,
+    "Section 9 of Insolvency and Bankruptcy Code 2016": 1,
+    "Rule 6 of Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016": 1,
+    "Order XII Rule 6 of CPC, 1908": 2,
+    "Order 12 Rule 6 of CPC, 1908": 1,
+    "Section 14 (1) (a) of Insolvency and Bankruptcy Code 2016": 2,
+    "Section 14(1)(a) of Insolvency and Bankruptcy Code, 2016": 1,
+    "Section 14 (1) (a) of Insolvency and Bankruptcy Code, 2016": 2,
+    "Order XII Rule 6 of CPC": 13,
+    "Section 17 of Indian Evidence Act": 1,
+    "Section 2(1)(c) of Commercial Courts Act, 2015": 1,
+    "Order XXXVII of Civil Procedure Code": 1,
+    "59.Order XIII-A of Civil Procedure Code": 1,
+    "Order XIII A of CPC": 4,
+    "Order XXXVII of CPC": 2,
+    "Order XII Rule 6 of Civil Procedure Code": 1,
+    "Rule 5 of Order VIII of CPC": 1,
+    "XIII A of Commercial Courts Act, 2015": 1,
+    "Rule 3 of Order XIII A of Commercial Courts Act, 2015": 1,
+    "rule 7 of Order XIII A of CPC": 1,
+    "Order XV-A of CPC": 3,
+    "Section 16 of Commercial Courts Act, 2015": 2,
+    "Order XII Rule 6 of Civil Procedure Code, 1908": 3,
+    "Order XIII-A of CPC": 3,
+    "Order XV A of CPC": 1,
+    "order XIV of Civil Procedure Code, 1908": 1,
+    "Order XVA of CPC": 1,
+    "Order XIII –A of Civil Procedure Code, 1908": 1,
+    "Order XII Rule 12 of CPC": 1,
+    "Section 2(c)(vi),(vii) and (xviii) of Commercial Courts Act, 2015": 1,
+    "Section 14 of Insolvency and Bankruptcy Code, 2016": 1,
+    "Order XII Rule 6, Order XV of CPC": 1,
+    "Rule 4 (1) of Order XIII-A of CPC": 1,
+    "74.Rule 4(2) of Order XIII-A of CPC": 1,
+    "Rule 4(3) of Order XIII-A of CPC": 1,
+    "Rule 6(1)(b) of Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016": 1,
+    "Order XV of Civil Procedure Code, 1908": 2,
+    "Rule of Order XV-A of CPC": 1,
+    "Rule 2 of Order X of Civil Procedure Code, 1908": 2,
+    "sub-section (1) of section 31 of Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002": 1,
+    "section 33 of Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002": 1,
+    "SCC 148 of Indian Evidence Act": 1,
+    "Order XIII-A Rule 3 of Commercial Courts Act, 2015": 1,
+    "Rule 6 of Order XIII- A of Commercial Courts Act, 2015": 1,
+    "Rule 7 of Order XIII -A, of CPC": 1,
+    "Order XV Rule 1 of Civil Procedure Code, 1908": 1,
+    "Rule 6 Order XV-A of CPC": 1
+  },
+  "statute_counts": {
+    "Commercial Courts Act, 2015": 9,
+    "O.S Rules": 1,
+    "CPC": 38,
+    "Companies Act, 1956": 1,
+    "Insolvency and Bankruptcy Code 2016": 3,
+    "Insolvency and Bankruptcy (Application to Adjudicating Authority) Rules, 2016": 2,
+    "CPC, 1908": 3,
+    "Insolvency and Bankruptcy Code, 2016": 4,
+    "Indian Evidence Act": 2,
+    "Civil Procedure Code": 3,
+    "Civil Procedure Code, 1908": 10,
+    "Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002": 2
+  }
+}

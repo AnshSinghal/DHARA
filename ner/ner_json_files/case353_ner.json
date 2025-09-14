@@ -1,0 +1,1486 @@
+{
+  "entities": [
+    {
+      "text": "Jharkhand High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 20
+    },
+    {
+      "text": "State Highways Authority",
+      "label": "PETITIONER",
+      "start_char": 25,
+      "end_char": 49
+    },
+    {
+      "text": "Rcm Infrastructure Limited",
+      "label": "RESPONDENT",
+      "start_char": 60,
+      "end_char": 86
+    },
+    {
+      "text": "Rajesh Shankar",
+      "label": "LAWYER",
+      "start_char": 114,
+      "end_char": 128
+    },
+    {
+      "text": "Rajesh Shankar",
+      "label": "JUDGE",
+      "start_char": 136,
+      "end_char": 150
+    },
+    {
+      "text": "High Court Of Jharkhand At Ranchi",
+      "label": "COURT",
+      "start_char": 199,
+      "end_char": 232
+    },
+    {
+      "text": "State Highways Authority of Jharkhand",
+      "label": "PETITIONER",
+      "start_char": 348,
+      "end_char": 385
+    },
+    {
+      "text": "Rcm Infrastructure Limited",
+      "label": "RESPONDENT",
+      "start_char": 574,
+      "end_char": 600
+    },
+    {
+      "text": "Rajesh Shankar",
+      "label": "JUDGE",
+      "start_char": 810,
+      "end_char": 824
+    },
+    {
+      "text": "Ashutosh Anand",
+      "label": "LAWYER",
+      "start_char": 879,
+      "end_char": 893
+    },
+    {
+      "text": "Sharad Kaushal",
+      "label": "LAWYER",
+      "start_char": 908,
+      "end_char": 922
+    },
+    {
+      "text": "Rishi Bharati",
+      "label": "LAWYER",
+      "start_char": 937,
+      "end_char": 950
+    },
+    {
+      "text": "Prashant Pallav",
+      "label": "LAWYER",
+      "start_char": 990,
+      "end_char": 1005
+    },
+    {
+      "text": "Shivani Jaluka",
+      "label": "LAWYER",
+      "start_char": 1020,
+      "end_char": 1034
+    },
+    {
+      "text": "Parth Jalan",
+      "label": "LAWYER",
+      "start_char": 1049,
+      "end_char": 1060
+    },
+    {
+      "text": "Commercial Case No. 09/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 1427,
+      "end_char": 1454
+    },
+    {
+      "text": "C.M.P No. 24 of 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 1741,
+      "end_char": 1761
+    },
+    {
+      "text": "Commercial Revocation Case No. 10/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 1893,
+      "end_char": 1931
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 1962,
+      "end_char": 1972
+    },
+    {
+      "text": "10.06.2019",
+      "label": "DATE",
+      "start_char": 2018,
+      "end_char": 2028
+    },
+    {
+      "text": "Prashant Pallav",
+      "label": "LAWYER",
+      "start_char": 2188,
+      "end_char": 2203
+    },
+    {
+      "text": "05.07.2022",
+      "label": "DATE",
+      "start_char": 2283,
+      "end_char": 2293
+    },
+    {
+      "text": "M/s Deepak Printers & Publishers Vs.",
+      "label": "PRECEDENT",
+      "start_char": 2360,
+      "end_char": 2396
+    },
+    {
+      "text": "Jharkhand Education Project Council, Ranchi",
+      "label": "ORG",
+      "start_char": 2421,
+      "end_char": 2464
+    },
+    {
+      "text": "Civil Revision No. 24 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 2467,
+      "end_char": 2496
+    },
+    {
+      "text": "Civil Revision No. 25 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 2502,
+      "end_char": 2531
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 2581,
+      "end_char": 2592
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 2600,
+      "end_char": 2621
+    },
+    {
+      "text": "Commercial Court, Ranchi",
+      "label": "COURT",
+      "start_char": 2655,
+      "end_char": 2679
+    },
+    {
+      "text": "Section 115",
+      "label": "PROVISION",
+      "start_char": 2965,
+      "end_char": 2976
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 2984,
+      "end_char": 3007
+    },
+    {
+      "text": "19.08.2019",
+      "label": "DATE",
+      "start_char": 3049,
+      "end_char": 3059
+    },
+    {
+      "text": "Commercial Court, Ranchi",
+      "label": "COURT",
+      "start_char": 3093,
+      "end_char": 3117
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 3182,
+      "end_char": 3193
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 3201,
+      "end_char": 3222
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 3313,
+      "end_char": 3324
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 3332,
+      "end_char": 3353
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 3675,
+      "end_char": 3702
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 3800,
+      "end_char": 3809
+    },
+    {
+      "text": "24th June, 2015",
+      "label": "DATE",
+      "start_char": 3937,
+      "end_char": 3952
+    },
+    {
+      "text": "Section 5(1)",
+      "label": "PROVISION",
+      "start_char": 4013,
+      "end_char": 4025
+    },
+    {
+      "text": "Commercial Court, Ranchi",
+      "label": "COURT",
+      "start_char": 4847,
+      "end_char": 4871
+    },
+    {
+      "text": "Section 115",
+      "label": "PROVISION",
+      "start_char": 5155,
+      "end_char": 5166
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 5174,
+      "end_char": 5197
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 5222,
+      "end_char": 5233
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 5241,
+      "end_char": 5262
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 5352,
+      "end_char": 5361
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 5476,
+      "end_char": 5485
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 5598,
+      "end_char": 5608
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 5970,
+      "end_char": 5979
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 6045,
+      "end_char": 6055
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 6103,
+      "end_char": 6112
+    },
+    {
+      "text": "section 115",
+      "label": "PROVISION",
+      "start_char": 6371,
+      "end_char": 6382
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 6390,
+      "end_char": 6419
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 6444,
+      "end_char": 6455
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 6463,
+      "end_char": 6484
+    },
+    {
+      "text": "High Court of Jharkhand Rules",
+      "label": "COURT",
+      "start_char": 6498,
+      "end_char": 6527
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 6639,
+      "end_char": 6648
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 6967,
+      "end_char": 6978
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 6986,
+      "end_char": 7007
+    },
+    {
+      "text": "Section 115",
+      "label": "PROVISION",
+      "start_char": 7337,
+      "end_char": 7348
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 7356,
+      "end_char": 7379
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 7404,
+      "end_char": 7415
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 7423,
+      "end_char": 7444
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 7485,
+      "end_char": 7494
+    },
+    {
+      "text": "Act, 2015",
+      "label": "STATUTE",
+      "start_char": 7502,
+      "end_char": 7511
+    },
+    {
+      "text": "Act, 2015",
+      "label": "STATUTE",
+      "start_char": 7602,
+      "end_char": 7611
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 7853,
+      "end_char": 7862
+    },
+    {
+      "text": "Section 4",
+      "label": "PROVISION",
+      "start_char": 8251,
+      "end_char": 8260
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 8505,
+      "end_char": 8514
+    },
+    {
+      "text": "subsection (1) of section 3",
+      "label": "PROVISION",
+      "start_char": 8905,
+      "end_char": 8932
+    },
+    {
+      "text": "sub-section (1) of section 4",
+      "label": "PROVISION",
+      "start_char": 8948,
+      "end_char": 8976
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 10174,
+      "end_char": 10185
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 10193,
+      "end_char": 10234
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 10262,
+      "end_char": 10272
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 10280,
+      "end_char": 10331
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 11145,
+      "end_char": 11156
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 11164,
+      "end_char": 11185
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 11390,
+      "end_char": 11401
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 11640,
+      "end_char": 11651
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 11659,
+      "end_char": 11680
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 11757,
+      "end_char": 11770
+    },
+    {
+      "text": "Shalini Shyam Shetty Vs.",
+      "label": "PRECEDENT",
+      "start_char": 11787,
+      "end_char": 11811
+    },
+    {
+      "text": "Rajendra Shankar Patil",
+      "label": "OTHER_PERSON",
+      "start_char": 11812,
+      "end_char": 11834
+    },
+    {
+      "text": "(2010) 8 SCC 329",
+      "label": "PRECEDENT",
+      "start_char": 11848,
+      "end_char": 11864
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 12021,
+      "end_char": 12032
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 12040,
+      "end_char": 12052
+    },
+    {
+      "text": "Article 226",
+      "label": "PROVISION",
+      "start_char": 12093,
+      "end_char": 12104
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 12112,
+      "end_char": 12124
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 12160,
+      "end_char": 12171
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 12301,
+      "end_char": 12312
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 12528,
+      "end_char": 12539
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 12668,
+      "end_char": 12679
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 12687,
+      "end_char": 12699
+    },
+    {
+      "text": "Waryam Singh",
+      "label": "OTHER_PERSON",
+      "start_char": 13313,
+      "end_char": 13325
+    },
+    {
+      "text": "AIR 1954 SC 215",
+      "label": "PRECEDENT",
+      "start_char": 13327,
+      "end_char": 13342
+    },
+    {
+      "text": "Waryam Singh",
+      "label": "OTHER_PERSON",
+      "start_char": 13366,
+      "end_char": 13378
+    },
+    {
+      "text": "AIR 1954 SC 215",
+      "label": "PRECEDENT",
+      "start_char": 13380,
+      "end_char": 13395
+    },
+    {
+      "text": "Waryam Singh [AIR 1954 SC 215]",
+      "label": "PRECEDENT",
+      "start_char": 13536,
+      "end_char": 13566
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 14685,
+      "end_char": 14696
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 14791,
+      "end_char": 14803
+    },
+    {
+      "text": "Constitution Bench",
+      "label": "COURT",
+      "start_char": 14811,
+      "end_char": 14829
+    },
+    {
+      "text": "L. Chandra Kumar v. Union of India [(1997) 3 SCC 261 : 1997 SCC (L&S) 577]",
+      "label": "PRECEDENT",
+      "start_char": 14847,
+      "end_char": 14921
+    },
+    {
+      "text": "Section 115",
+      "label": "PROVISION",
+      "start_char": 15083,
+      "end_char": 15094
+    },
+    {
+      "text": "Civil Procedure Code",
+      "label": "STATUTE",
+      "start_char": 15102,
+      "end_char": 15122
+    },
+    {
+      "text": "Civil Procedure Code (Amendment) Act, 1999",
+      "label": "STATUTE",
+      "start_char": 15130,
+      "end_char": 15172
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 15240,
+      "end_char": 15251
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 15410,
+      "end_char": 15421
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 15651,
+      "end_char": 15662
+    },
+    {
+      "text": "Article 226",
+      "label": "PROVISION",
+      "start_char": 16632,
+      "end_char": 16643
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 16720,
+      "end_char": 16731
+    },
+    {
+      "text": "State through Special Cell, New Delhi Vs.",
+      "label": "PRECEDENT",
+      "start_char": 17008,
+      "end_char": 17049
+    },
+    {
+      "text": "Navjot Sandhu @ Afshan Guru",
+      "label": "OTHER_PERSON",
+      "start_char": 17050,
+      "end_char": 17077
+    },
+    {
+      "text": "(2003) 6",
+      "label": "CASE_NUMBER",
+      "start_char": 17098,
+      "end_char": 17106
+    },
+    {
+      "text": "SCC 641",
+      "label": "CASE_NUMBER",
+      "start_char": 17107,
+      "end_char": 17114
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 17128,
+      "end_char": 17141
+    },
+    {
+      "text": "State of Gujarat Vs.",
+      "label": "PRECEDENT",
+      "start_char": 17176,
+      "end_char": 17196
+    },
+    {
+      "text": "Vakhatsinghji Vajesinghji Vaghela",
+      "label": "OTHER_PERSON",
+      "start_char": 17197,
+      "end_char": 17230
+    },
+    {
+      "text": "AIR 1968 SC 1481",
+      "label": "PRECEDENT",
+      "start_char": 17232,
+      "end_char": 17248
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 17266,
+      "end_char": 17277
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 17285,
+      "end_char": 17306
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 17791,
+      "end_char": 17807
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 17847,
+      "end_char": 17858
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 17866,
+      "end_char": 17887
+    },
+    {
+      "text": "FAO No. 232 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 18064,
+      "end_char": 18083
+    },
+    {
+      "text": "Delhi Tourism and Transportation Development Corporation Vs.",
+      "label": "PRECEDENT",
+      "start_char": 18092,
+      "end_char": 18152
+    },
+    {
+      "text": "Swadeshi Civil Infrastructure Pvt",
+      "label": "ORG",
+      "start_char": 18153,
+      "end_char": 18186
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 18296,
+      "end_char": 18323
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 18342,
+      "end_char": 18353
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 18361,
+      "end_char": 18382
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 18899,
+      "end_char": 18910
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 18918,
+      "end_char": 18939
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 19186,
+      "end_char": 19195
+    },
+    {
+      "text": "CM (M) No. 132/2021",
+      "label": "CASE_NUMBER",
+      "start_char": 19287,
+      "end_char": 19306
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 19351,
+      "end_char": 19362
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 19370,
+      "end_char": 19391
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 19410,
+      "end_char": 19431
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 19473,
+      "end_char": 19494
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 19612,
+      "end_char": 19623
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 19631,
+      "end_char": 19652
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 20043,
+      "end_char": 20054
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 20203,
+      "end_char": 20214
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 20352,
+      "end_char": 20355
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 20430,
+      "end_char": 20451
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 20576,
+      "end_char": 20597
+    },
+    {
+      "text": "Deepak Printers & Publishers",
+      "label": "PRECEDENT",
+      "start_char": 20779,
+      "end_char": 20807
+    },
+    {
+      "text": "section 227",
+      "label": "PROVISION",
+      "start_char": 20936,
+      "end_char": 20947
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 20955,
+      "end_char": 20976
+    },
+    {
+      "text": "Section 13(1)",
+      "label": "PROVISION",
+      "start_char": 21087,
+      "end_char": 21100
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 21142,
+      "end_char": 21153
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 21221,
+      "end_char": 21242
+    },
+    {
+      "text": "High Court of Jharkhand Rules, 2001",
+      "label": "COURT",
+      "start_char": 21284,
+      "end_char": 21319
+    },
+    {
+      "text": "rule 33(xi)",
+      "label": "PROVISION",
+      "start_char": 21326,
+      "end_char": 21337
+    },
+    {
+      "text": "Article 226 or 227",
+      "label": "PROVISION",
+      "start_char": 21377,
+      "end_char": 21395
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 21403,
+      "end_char": 21415
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 21674,
+      "end_char": 21685
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 21801,
+      "end_char": 21812
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 21820,
+      "end_char": 21832
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 21868,
+      "end_char": 21879
+    },
+    {
+      "text": "Commercial Court Act",
+      "label": "STATUTE",
+      "start_char": 21906,
+      "end_char": 21926
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 21962,
+      "end_char": 21971
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 22333,
+      "end_char": 22344
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 22352,
+      "end_char": 22373
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 22404,
+      "end_char": 22415
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 22423,
+      "end_char": 22435
+    },
+    {
+      "text": "Act, 2015",
+      "label": "STATUTE",
+      "start_char": 22672,
+      "end_char": 22681
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 22864,
+      "end_char": 22875
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 22883,
+      "end_char": 22904
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 23033,
+      "end_char": 23060
+    },
+    {
+      "text": "Rajesh Shankar",
+      "label": "JUDGE",
+      "start_char": 23309,
+      "end_char": 23323
+    },
+    {
+      "text": "Manish",
+      "label": "OTHER_PERSON",
+      "start_char": 23329,
+      "end_char": 23335
+    }
+  ],
+  "precedent_clusters": {
+    "M/s Deepak Printers & Publishers Vs.": [
+      "M/s Deepak Printers & Publishers Vs.",
+      "Shalini Shyam Shetty Vs.",
+      "State through Special Cell, New Delhi Vs.",
+      "State of Gujarat Vs.",
+      "Delhi Tourism and Transportation Development Corporation Vs.",
+      "Deepak Printers & Publishers"
+    ],
+    "Waryam Singh [AIR 1954 SC 215]": [
+      "AIR 1954 SC 215",
+      "AIR 1954 SC 215",
+      "Waryam Singh [AIR 1954 SC 215]"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Section 115",
+      "Code of Civil Procedure",
+      "Section 115",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Section 115",
+      "Code of Civil Procedure",
+      "Section 115",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "section 115",
+      "Code of Civil Procedure, 1908",
+      "section 115",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Section 115",
+      "Code of Civil Procedure",
+      "Section 115",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Section 5",
+      "Act, 2015",
+      "Section 5",
+      "Act, 2015"
+    ],
+    [
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "section 37",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "section 37",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "Article 226",
+      "Constitution",
+      "Article 226",
+      "Constitution"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "Section 115",
+      "Civil Procedure Code",
+      "Section 115",
+      "Civil Procedure Code"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Article 227",
+      "CPC",
+      "Article 227",
+      "CPC"
+    ],
+    [
+      "section 227",
+      "Constitution of India",
+      "section 227",
+      "Constitution of India"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Article 226 or 227",
+      "Constitution",
+      "Article 226 or 227",
+      "Constitution"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "Article 227",
+      "Commercial Court Act",
+      "Article 227",
+      "Commercial Court Act"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Section 5",
+      "Act, 2015",
+      "Section 5",
+      "Act, 2015"
+    ],
+    [
+      "Section 5(1)",
+      "Act, 2015",
+      "Section 5(1)",
+      "Act, 2015"
+    ],
+    [
+      "Section 5",
+      "Act, 2015",
+      "Section 5",
+      "Act, 2015"
+    ],
+    [
+      "Section 5",
+      "Act, 2015",
+      "Section 5",
+      "Act, 2015"
+    ],
+    [
+      "Section 13",
+      "Code of Civil Procedure",
+      "Section 13",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 8",
+      "Code of Civil Procedure",
+      "Section 8",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 5",
+      "Act, 2015",
+      "Section 5",
+      "Act, 2015"
+    ],
+    [
+      "Section 5",
+      "Act, 2015",
+      "Section 5",
+      "Act, 2015"
+    ],
+    [
+      "subsection (1) of section 3",
+      "Act, 2015",
+      "subsection (1) of section 3",
+      "Act, 2015"
+    ],
+    [
+      "sub-section (1) of section 4",
+      "Act, 2015",
+      "sub-section (1) of section 4",
+      "Act, 2015"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "Article 226",
+      "Constitution",
+      "Article 226",
+      "Constitution"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "Section 8",
+      "Code of Civil Procedure",
+      "Section 8",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Section 13(1)",
+      "Code of Civil Procedure",
+      "Section 13(1)",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "Section 5",
+      "Act, 2015",
+      "Section 5",
+      "Act, 2015"
+    ],
+    [
+      "Section 34",
+      "Constitution of India",
+      "Section 34",
+      "Constitution of India"
+    ],
+    [
+      "Section 13",
+      "Code of Civil Procedure",
+      "Section 13",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 8",
+      "Code of Civil Procedure",
+      "Section 8",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 3",
+      "Act, 2015",
+      "Section 3",
+      "Act, 2015"
+    ],
+    [
+      "Section 4",
+      "Act, 2015",
+      "Section 4",
+      "Act, 2015"
+    ],
+    [
+      "rule 33(xi)",
+      "Commercial Courts Act",
+      "rule 33(xi)",
+      "Commercial Courts Act"
+    ]
+  ],
+  "precedent_counts": {
+    "M/s Deepak Printers & Publishers Vs.": 6,
+    "Waryam Singh [AIR 1954 SC 215]": 3
+  },
+  "provision_counts": {
+    "Article 227 of Constitution of India": 20,
+    "Section 115 of Code of Civil Procedure": 3,
+    "section 115 of Code of Civil Procedure, 1908": 1,
+    "Section 5 of Act, 2015": 7,
+    "Order XLIII of Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "section 37 of Arbitration and Conciliation Act, 1996 (26 of 1996)": 1,
+    "Article 227 of Constitution": 13,
+    "Article 226 of Constitution": 2,
+    "Section 115 of Civil Procedure Code": 1,
+    "Article 227 of CPC": 1,
+    "section 227 of Constitution of India": 1,
+    "Article 226 or 227 of Constitution": 1,
+    "Article 227 of Commercial Court Act": 1,
+    "Section 5(1) of Act, 2015": 1,
+    "Section 13 of Code of Civil Procedure": 2,
+    "Section 8 of Code of Civil Procedure": 3,
+    "subsection (1) of section 3 of Act, 2015": 1,
+    "sub-section (1) of section 4 of Act, 2015": 1,
+    "Section 13(1) of Code of Civil Procedure": 1,
+    "Section 34 of Constitution of India": 1,
+    "Section 3 of Act, 2015": 1,
+    "Section 4 of Act, 2015": 1,
+    "rule 33(xi) of Commercial Courts Act": 1
+  },
+  "statute_counts": {
+    "Constitution of India": 22,
+    "Code of Civil Procedure": 9,
+    "Code of Civil Procedure, 1908": 1,
+    "Act, 2015": 12,
+    "Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Arbitration and Conciliation Act, 1996 (26 of 1996)": 1,
+    "Constitution": 16,
+    "Civil Procedure Code": 1,
+    "CPC": 1,
+    "Commercial Court Act": 1,
+    "Commercial Courts Act": 1
+  }
+}

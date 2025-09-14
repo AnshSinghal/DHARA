@@ -1,0 +1,3061 @@
+{
+  "entities": [
+    {
+      "text": "Rajasthan High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 20
+    },
+    {
+      "text": "Rajasthan State Cooperative Oilseed",
+      "label": "PETITIONER",
+      "start_char": 21,
+      "end_char": 56
+    },
+    {
+      "text": "Solcon Enginners Pvt Ltd",
+      "label": "RESPONDENT",
+      "start_char": 68,
+      "end_char": 92
+    },
+    {
+      "text": "Mohammad Rafiq",
+      "label": "JUDGE",
+      "start_char": 119,
+      "end_char": 133
+    },
+    {
+      "text": "Alok Sharma",
+      "label": "JUDGE",
+      "start_char": 135,
+      "end_char": 146
+    },
+    {
+      "text": "High Court Of Judicature For Rajasthan\n                    Bench At Jaipur",
+      "label": "COURT",
+      "start_char": 155,
+      "end_char": 229
+    },
+    {
+      "text": "Ess Kay Fincorp Limited",
+      "label": "PETITIONER",
+      "start_char": 285,
+      "end_char": 308
+    },
+    {
+      "text": "Suresh Choudhary",
+      "label": "RESPONDENT",
+      "start_char": 579,
+      "end_char": 595
+    },
+    {
+      "text": "Omprakash Jat",
+      "label": "RESPONDENT",
+      "start_char": 753,
+      "end_char": 766
+    },
+    {
+      "text": "D. B. Civil Misc",
+      "label": "RESPONDENT",
+      "start_char": 1013,
+      "end_char": 1029
+    },
+    {
+      "text": "Appeal No. 5890/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 1032,
+      "end_char": 1052
+    },
+    {
+      "text": "Equitas Small Finance Bank Ltd.",
+      "label": "ORG",
+      "start_char": 1053,
+      "end_char": 1084
+    },
+    {
+      "text": "Asopa Hospital",
+      "label": "ORG",
+      "start_char": 1220,
+      "end_char": 1234
+    },
+    {
+      "text": "Jaipur",
+      "label": "GPE",
+      "start_char": 1253,
+      "end_char": 1259
+    },
+    {
+      "text": "Hitesh Kumar Jain",
+      "label": "OTHER_PERSON",
+      "start_char": 1289,
+      "end_char": 1306
+    },
+    {
+      "text": "Kastoor Chand Jain",
+      "label": "OTHER_PERSON",
+      "start_char": 1319,
+      "end_char": 1337
+    },
+    {
+      "text": "Nadir",
+      "label": "OTHER_PERSON",
+      "start_char": 1413,
+      "end_char": 1418
+    },
+    {
+      "text": "Aabid",
+      "label": "OTHER_PERSON",
+      "start_char": 1431,
+      "end_char": 1436
+    },
+    {
+      "text": "Vijay Nagar Colony Distt",
+      "label": "GPE",
+      "start_char": 1466,
+      "end_char": 1490
+    },
+    {
+      "text": "Rajasthan",
+      "label": "OTHER_PERSON",
+      "start_char": 1504,
+      "end_char": 1513
+    },
+    {
+      "text": "Najama",
+      "label": "OTHER_PERSON",
+      "start_char": 1517,
+      "end_char": 1523
+    },
+    {
+      "text": "Ibad",
+      "label": "OTHER_PERSON",
+      "start_char": 1533,
+      "end_char": 1537
+    },
+    {
+      "text": "Vijay Nagar Colony",
+      "label": "GPE",
+      "start_char": 1567,
+      "end_char": 1585
+    },
+    {
+      "text": "Distt",
+      "label": "GPE",
+      "start_char": 1587,
+      "end_char": 1592
+    },
+    {
+      "text": "Rajasthan",
+      "label": "OTHER_PERSON",
+      "start_char": 1606,
+      "end_char": 1615
+    },
+    {
+      "text": "Amad",
+      "label": "OTHER_PERSON",
+      "start_char": 1619,
+      "end_char": 1623
+    },
+    {
+      "text": "Chamma Khan",
+      "label": "OTHER_PERSON",
+      "start_char": 1636,
+      "end_char": 1647
+    },
+    {
+      "text": "Guljar Bagwali Abadi Distt",
+      "label": "GPE",
+      "start_char": 1681,
+      "end_char": 1707
+    },
+    {
+      "text": "D. B. Civil Writ Petition",
+      "label": "RESPONDENT",
+      "start_char": 1767,
+      "end_char": 1792
+    },
+    {
+      "text": "No. 4379/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 1793,
+      "end_char": 1806
+    },
+    {
+      "text": "Rajasthan State Cooperative Oilseed Growers Federation Ltd",
+      "label": "ORG",
+      "start_char": 1807,
+      "end_char": 1865
+    },
+    {
+      "text": "Jaipur",
+      "label": "GPE",
+      "start_char": 1920,
+      "end_char": 1926
+    },
+    {
+      "text": "CMA-12/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 2019,
+      "end_char": 2030
+    },
+    {
+      "text": "Solcon Enginners",
+      "label": "ORG",
+      "start_char": 2039,
+      "end_char": 2055
+    },
+    {
+      "text": "Shivprasad Society, Panmala",
+      "label": "ORG",
+      "start_char": 2111,
+      "end_char": 2138
+    },
+    {
+      "text": "Pune-411030",
+      "label": "GPE",
+      "start_char": 2154,
+      "end_char": 2165
+    },
+    {
+      "text": "Shindewadi",
+      "label": "GPE",
+      "start_char": 2196,
+      "end_char": 2206
+    },
+    {
+      "text": "Pune",
+      "label": "GPE",
+      "start_char": 2224,
+      "end_char": 2228
+    },
+    {
+      "text": "Achyut B. Gokhale",
+      "label": "OTHER_PERSON",
+      "start_char": 2258,
+      "end_char": 2275
+    },
+    {
+      "text": "National Heavy Engineering Cooperative Limited",
+      "label": "ORG",
+      "start_char": 2281,
+      "end_char": 2327
+    },
+    {
+      "text": "Pune",
+      "label": "GPE",
+      "start_char": 2340,
+      "end_char": 2344
+    },
+    {
+      "text": "Himanshu Jain",
+      "label": "OTHER_PERSON",
+      "start_char": 2386,
+      "end_char": 2399
+    },
+    {
+      "text": "Appeal No. 12/2019 and 5890/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 2404,
+      "end_char": 2436
+    },
+    {
+      "text": "Alok Garg",
+      "label": "OTHER_PERSON",
+      "start_char": 2442,
+      "end_char": 2451
+    },
+    {
+      "text": "Writ Petition No. 4379/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 2456,
+      "end_char": 2483
+    },
+    {
+      "text": "Appeal No. 12/2019 and 5890/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 2538,
+      "end_char": 2570
+    },
+    {
+      "text": "Vikas Jain",
+      "label": "LAWYER",
+      "start_char": 2642,
+      "end_char": 2652
+    },
+    {
+      "text": "No. 4379/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 2687,
+      "end_char": 2700
+    },
+    {
+      "text": "MOHAMMAD RAFIQ",
+      "label": "JUDGE",
+      "start_char": 2724,
+      "end_char": 2738
+    },
+    {
+      "text": "JUSTICE ALOK SHARMA",
+      "label": "JUDGE",
+      "start_char": 2751,
+      "end_char": 2770
+    },
+    {
+      "text": "22/08/2019",
+      "label": "DATE",
+      "start_char": 2791,
+      "end_char": 2801
+    },
+    {
+      "text": "Mohammad Rafiq",
+      "label": "JUDGE",
+      "start_char": 2827,
+      "end_char": 2841
+    },
+    {
+      "text": "Court of District and Sessions Judge",
+      "label": "COURT",
+      "start_char": 3039,
+      "end_char": 3075
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 3094,
+      "end_char": 3109
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 3117,
+      "end_char": 3155
+    },
+    {
+      "text": "Section 3(1)",
+      "label": "PROVISION",
+      "start_char": 3232,
+      "end_char": 3244
+    },
+    {
+      "text": "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 3252,
+      "end_char": 3349
+    },
+    {
+      "text": "Section 2(b)",
+      "label": "PROVISION",
+      "start_char": 3408,
+      "end_char": 3420
+    },
+    {
+      "text": "CMA-12/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 3445,
+      "end_char": 3456
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 3550,
+      "end_char": 3565
+    },
+    {
+      "text": "Appeal No. 12/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 3681,
+      "end_char": 3699
+    },
+    {
+      "text": "Ess Kay Fincorp Limited",
+      "label": "PETITIONER",
+      "start_char": 3732,
+      "end_char": 3755
+    },
+    {
+      "text": "20.10.2018",
+      "label": "DATE",
+      "start_char": 3778,
+      "end_char": 3788
+    },
+    {
+      "text": "Commercial Court, Ajmer",
+      "label": "COURT",
+      "start_char": 3803,
+      "end_char": 3826
+    },
+    {
+      "text": "Execution Application No. 06/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 3874,
+      "end_char": 3907
+    },
+    {
+      "text": "12.03.2018",
+      "label": "DATE",
+      "start_char": 3945,
+      "end_char": 3955
+    },
+    {
+      "text": "26.02.2018",
+      "label": "DATE",
+      "start_char": 4129,
+      "end_char": 4139
+    },
+    {
+      "text": "Appeal No. 5890/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 4286,
+      "end_char": 4306
+    },
+    {
+      "text": "Equitas Small Finance Bank Limited",
+      "label": "PETITIONER",
+      "start_char": 4339,
+      "end_char": 4373
+    },
+    {
+      "text": "20.10.2018",
+      "label": "DATE",
+      "start_char": 4396,
+      "end_char": 4406
+    },
+    {
+      "text": "Commercial Court, Ajmer",
+      "label": "COURT",
+      "start_char": 4421,
+      "end_char": 4444
+    },
+    {
+      "text": "Execution Application No. 01/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 4492,
+      "end_char": 4525
+    },
+    {
+      "text": "CIS No. 145/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 4535,
+      "end_char": 4551
+    },
+    {
+      "text": "15.02.2018",
+      "label": "DATE",
+      "start_char": 4589,
+      "end_char": 4599
+    },
+    {
+      "text": "01.02.2018",
+      "label": "DATE",
+      "start_char": 4773,
+      "end_char": 4783
+    },
+    {
+      "text": "Writ Petition No. 4379/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 4891,
+      "end_char": 4918
+    },
+    {
+      "text": "21.12.2018",
+      "label": "DATE",
+      "start_char": 4950,
+      "end_char": 4960
+    },
+    {
+      "text": "Commercial Court No.1, Jaipur (Rajasthan)",
+      "label": "COURT",
+      "start_char": 4975,
+      "end_char": 5016
+    },
+    {
+      "text": "Solcon Engineers Private Limited",
+      "label": "ORG",
+      "start_char": 5082,
+      "end_char": 5114
+    },
+    {
+      "text": "Rajasthan State Cooperative Oilseed Growers Federation Limited",
+      "label": "ORG",
+      "start_char": 5182,
+      "end_char": 5244
+    },
+    {
+      "text": "National Heavy Engineering Cooperative Limited",
+      "label": "RESPONDENT",
+      "start_char": 5266,
+      "end_char": 5312
+    },
+    {
+      "text": "Court of Civil Judge, Senior Division, Pune (Maharashtra)",
+      "label": "COURT",
+      "start_char": 5320,
+      "end_char": 5377
+    },
+    {
+      "text": "24.07.2004",
+      "label": "DATE",
+      "start_char": 5692,
+      "end_char": 5702
+    },
+    {
+      "text": "District and Sessions Judge, Pune (Maharashtra)",
+      "label": "COURT",
+      "start_char": 5801,
+      "end_char": 5848
+    },
+    {
+      "text": "23.04.2008",
+      "label": "DATE",
+      "start_char": 5890,
+      "end_char": 5900
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 5946,
+      "end_char": 5956
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 5964,
+      "end_char": 5979
+    },
+    {
+      "text": "Court of District and Sessions Judge, Pune",
+      "label": "COURT",
+      "start_char": 6032,
+      "end_char": 6074
+    },
+    {
+      "text": "Court of District and Sessions Judge, Jaipur Metropolitan, Jaipur",
+      "label": "COURT",
+      "start_char": 6165,
+      "end_char": 6230
+    },
+    {
+      "text": "Commercial Court No.1, Jaipur",
+      "label": "COURT",
+      "start_char": 6264,
+      "end_char": 6293
+    },
+    {
+      "text": "Commercial Court No. 1, Jaipur",
+      "label": "COURT",
+      "start_char": 6357,
+      "end_char": 6387
+    },
+    {
+      "text": "28.11.2018",
+      "label": "DATE",
+      "start_char": 6405,
+      "end_char": 6415
+    },
+    {
+      "text": "Court of District and Sessions Judge, Jaipur Metropolitan, Jaipur",
+      "label": "COURT",
+      "start_char": 6461,
+      "end_char": 6526
+    },
+    {
+      "text": "Commercial Court No.1, Jaipur",
+      "label": "COURT",
+      "start_char": 6632,
+      "end_char": 6661
+    },
+    {
+      "text": "District and Sessions Judge, Jaipur Metropolitan",
+      "label": "COURT",
+      "start_char": 6681,
+      "end_char": 6729
+    },
+    {
+      "text": "14.12.2018",
+      "label": "DATE",
+      "start_char": 6820,
+      "end_char": 6830
+    },
+    {
+      "text": "21.12.2018",
+      "label": "DATE",
+      "start_char": 6873,
+      "end_char": 6883
+    },
+    {
+      "text": "21.12.2018",
+      "label": "DATE",
+      "start_char": 6897,
+      "end_char": 6907
+    },
+    {
+      "text": "CMA-12/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 7003,
+      "end_char": 7014
+    },
+    {
+      "text": "District Court, Jaipur Metropolitan, Jaipur",
+      "label": "COURT",
+      "start_char": 7052,
+      "end_char": 7095
+    },
+    {
+      "text": "12.12.2018",
+      "label": "DATE",
+      "start_char": 7116,
+      "end_char": 7126
+    },
+    {
+      "text": "Commercial Court No. 1, Jaipur",
+      "label": "COURT",
+      "start_char": 7260,
+      "end_char": 7290
+    },
+    {
+      "text": "Himanshu Sharma",
+      "label": "OTHER_PERSON",
+      "start_char": 7327,
+      "end_char": 7342
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 7498,
+      "end_char": 7508
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 7516,
+      "end_char": 7531
+    },
+    {
+      "text": "Section 10(3)",
+      "label": "PROVISION",
+      "start_char": 7540,
+      "end_char": 7553
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 7561,
+      "end_char": 7582
+    },
+    {
+      "text": "Section 15(2)",
+      "label": "PROVISION",
+      "start_char": 7691,
+      "end_char": 7704
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 7712,
+      "end_char": 7733
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 7827,
+      "end_char": 7842
+    },
+    {
+      "text": "Section 10(3) and 15(2)",
+      "label": "PROVISION",
+      "start_char": 8079,
+      "end_char": 8102
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 8110,
+      "end_char": 8131
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 8175,
+      "end_char": 8185
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 8193,
+      "end_char": 8208
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 8496,
+      "end_char": 8509
+    },
+    {
+      "text": "Sundaram Finance Limited",
+      "label": "ORG",
+      "start_char": 8513,
+      "end_char": 8537
+    },
+    {
+      "text": "J. Thilak",
+      "label": "OTHER_PERSON",
+      "start_char": 8553,
+      "end_char": 8562
+    },
+    {
+      "text": "Senior Manager (Legal) Vs.",
+      "label": "PRECEDENT",
+      "start_char": 8564,
+      "end_char": 8590
+    },
+    {
+      "text": "Abdul Samad and Another, (2018) 3 SCC 622",
+      "label": "PRECEDENT",
+      "start_char": 8591,
+      "end_char": 8632
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 8638,
+      "end_char": 8651
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 8797,
+      "end_char": 8807
+    },
+    {
+      "text": "CMA-12/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 8836,
+      "end_char": 8847
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 9028,
+      "end_char": 9041
+    },
+    {
+      "text": "State of West Bengal & Others Vs.",
+      "label": "PRECEDENT",
+      "start_char": 9045,
+      "end_char": 9078
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 9124,
+      "end_char": 9137
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 9161,
+      "end_char": 9171
+    },
+    {
+      "text": "Sundaram Finance Limited",
+      "label": "ORG",
+      "start_char": 9296,
+      "end_char": 9320
+    },
+    {
+      "text": "J. Thilak",
+      "label": "OTHER_PERSON",
+      "start_char": 9336,
+      "end_char": 9345
+    },
+    {
+      "text": "State of West Bengal & Others Vs.",
+      "label": "PRECEDENT",
+      "start_char": 9437,
+      "end_char": 9470
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 9536,
+      "end_char": 9546
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 9554,
+      "end_char": 9569
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 9714,
+      "end_char": 9729
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 9985,
+      "end_char": 9995
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 10003,
+      "end_char": 10018
+    },
+    {
+      "text": "Section 10(3)",
+      "label": "PROVISION",
+      "start_char": 10088,
+      "end_char": 10101
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 10109,
+      "end_char": 10130
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 10218,
+      "end_char": 10233
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 10304,
+      "end_char": 10314
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 10322,
+      "end_char": 10337
+    },
+    {
+      "text": "Section 10(3)",
+      "label": "PROVISION",
+      "start_char": 10405,
+      "end_char": 10418
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 10426,
+      "end_char": 10447
+    },
+    {
+      "text": "Gujarat High Court",
+      "label": "COURT",
+      "start_char": 10581,
+      "end_char": 10599
+    },
+    {
+      "text": "M/s. OCI Corporation Vs.",
+      "label": "PRECEDENT",
+      "start_char": 10603,
+      "end_char": 10627
+    },
+    {
+      "text": "Kandla Export Corporation",
+      "label": "ORG",
+      "start_char": 10652,
+      "end_char": 10677
+    },
+    {
+      "text": "Civil Application (For Transfer) No. 2969 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 10685,
+      "end_char": 10734
+    },
+    {
+      "text": "Civil Application No. 2977 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 10750,
+      "end_char": 10784
+    },
+    {
+      "text": "11.11.2016",
+      "label": "DATE",
+      "start_char": 10796,
+      "end_char": 10806
+    },
+    {
+      "text": "Gujarat High Court",
+      "label": "COURT",
+      "start_char": 10892,
+      "end_char": 10910
+    },
+    {
+      "text": "OCI Corporation",
+      "label": "PRECEDENT",
+      "start_char": 10919,
+      "end_char": 10934
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 10973,
+      "end_char": 10986
+    },
+    {
+      "text": "Petition for Special Leave to Appeal (C) No",
+      "label": "PRECEDENT",
+      "start_char": 11004,
+      "end_char": 11047
+    },
+    {
+      "text": "Kandla Export Corporation & Others Vs.",
+      "label": "PRECEDENT",
+      "start_char": 11060,
+      "end_char": 11098
+    },
+    {
+      "text": "OCI Corporation",
+      "label": "ORG",
+      "start_char": 11104,
+      "end_char": 11119
+    },
+    {
+      "text": "03.03.2017",
+      "label": "DATE",
+      "start_char": 11137,
+      "end_char": 11147
+    },
+    {
+      "text": "Vadodara Mahanag Seva Sadan Formaly",
+      "label": "PRECEDENT",
+      "start_char": 11149,
+      "end_char": 11184
+    },
+    {
+      "text": "Municipal Corporation Vs.",
+      "label": "PRECEDENT",
+      "start_char": 11194,
+      "end_char": 11219
+    },
+    {
+      "text": "M S Khurana Engineering Ltd.",
+      "label": "ORG",
+      "start_char": 11220,
+      "end_char": 11248
+    },
+    {
+      "text": "06.09.2018",
+      "label": "DATE",
+      "start_char": 11307,
+      "end_char": 11317
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 11332,
+      "end_char": 11349
+    },
+    {
+      "text": "Jet Airways (India) Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 11353,
+      "end_char": 11384
+    },
+    {
+      "text": "Subrata Roy Sahara",
+      "label": "OTHER_PERSON",
+      "start_char": 11385,
+      "end_char": 11403
+    },
+    {
+      "text": "High Court of Chhattisgarh at Bilaspur",
+      "label": "COURT",
+      "start_char": 11438,
+      "end_char": 11476
+    },
+    {
+      "text": "South Eastern Coal Fields Ltd.",
+      "label": "ORG",
+      "start_char": 11480,
+      "end_char": 11510
+    },
+    {
+      "text": "Tirupati Construction District Burhar",
+      "label": "ORG",
+      "start_char": 11520,
+      "end_char": 11557
+    },
+    {
+      "text": "TPC No. 4 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 11559,
+      "end_char": 11576
+    },
+    {
+      "text": "10.01.2018",
+      "label": "DATE",
+      "start_char": 11588,
+      "end_char": 11598
+    },
+    {
+      "text": "SCC Online Chh 63",
+      "label": "CASE_NUMBER",
+      "start_char": 11606,
+      "end_char": 11623
+    },
+    {
+      "text": "Vikas Jain",
+      "label": "LAWYER",
+      "start_char": 11630,
+      "end_char": 11640
+    },
+    {
+      "text": "Writ Petition No. 4379/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 11680,
+      "end_char": 11707
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 11800,
+      "end_char": 11815
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 11823,
+      "end_char": 11838
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 11861,
+      "end_char": 11874
+    },
+    {
+      "text": "State of Maharashtra",
+      "label": "GPE",
+      "start_char": 11878,
+      "end_char": 11898
+    },
+    {
+      "text": "Executive Engineer, Road Development Division No. 111, Panvel & Another Vs",
+      "label": "PRECEDENT",
+      "start_char": 11907,
+      "end_char": 11981
+    },
+    {
+      "text": "Atlanta Limited, (2014) 11 SCC 619",
+      "label": "PRECEDENT",
+      "start_char": 11983,
+      "end_char": 12017
+    },
+    {
+      "text": "Section 10",
+      "label": "PROVISION",
+      "start_char": 12090,
+      "end_char": 12100
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 12108,
+      "end_char": 12129
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 12131,
+      "end_char": 12141
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 12235,
+      "end_char": 12250
+    },
+    {
+      "text": "Commercial (8 of 19) [CMA-12/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 12322,
+      "end_char": 12355
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 12609,
+      "end_char": 12624
+    },
+    {
+      "text": "Gujarat High Court",
+      "label": "COURT",
+      "start_char": 12728,
+      "end_char": 12746
+    },
+    {
+      "text": "Vijay Cotton and Fiber Company Vs.",
+      "label": "PRECEDENT",
+      "start_char": 12750,
+      "end_char": 12784
+    },
+    {
+      "text": "Agarwal Cotton Spinning Private Limited",
+      "label": "ORG",
+      "start_char": 12785,
+      "end_char": 12824
+    },
+    {
+      "text": "R/Appeal No. 216 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 12826,
+      "end_char": 12850
+    },
+    {
+      "text": "11.02.2019",
+      "label": "DATE",
+      "start_char": 12862,
+      "end_char": 12872
+    },
+    {
+      "text": "OCI Corporation",
+      "label": "PRECEDENT",
+      "start_char": 12879,
+      "end_char": 12894
+    },
+    {
+      "text": "Vadodara Mahanag Seva Sadan Formaly",
+      "label": "ORG",
+      "start_char": 12904,
+      "end_char": 12939
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 12992,
+      "end_char": 13009
+    },
+    {
+      "text": "Sushila Singhania & Others Vs.",
+      "label": "PRECEDENT",
+      "start_char": 13013,
+      "end_char": 13043
+    },
+    {
+      "text": "Bharat Hari Singhania & Others, 2017 (3) ABR 357",
+      "label": "PRECEDENT",
+      "start_char": 13044,
+      "end_char": 13092
+    },
+    {
+      "text": "Alok Garg",
+      "label": "OTHER_PERSON",
+      "start_char": 13099,
+      "end_char": 13108
+    },
+    {
+      "text": "Writ Petition No. 4379/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 13167,
+      "end_char": 13194
+    },
+    {
+      "text": "Section 2",
+      "label": "PROVISION",
+      "start_char": 13207,
+      "end_char": 13216
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 13224,
+      "end_char": 13245
+    },
+    {
+      "text": "Section 15(2)",
+      "label": "PROVISION",
+      "start_char": 13353,
+      "end_char": 13366
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 13374,
+      "end_char": 13395
+    },
+    {
+      "text": "Sections 9 and 34",
+      "label": "PROVISION",
+      "start_char": 13521,
+      "end_char": 13538
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 13546,
+      "end_char": 13561
+    },
+    {
+      "text": "Court of District and Sessions Judge",
+      "label": "COURT",
+      "start_char": 13827,
+      "end_char": 13863
+    },
+    {
+      "text": "Commercial Court No. 1, Jaipur",
+      "label": "COURT",
+      "start_char": 13878,
+      "end_char": 13908
+    },
+    {
+      "text": "14.12.2018",
+      "label": "DATE",
+      "start_char": 13926,
+      "end_char": 13936
+    },
+    {
+      "text": "District and Sessions Judge, Jaipur Metropolitan",
+      "label": "COURT",
+      "start_char": 13997,
+      "end_char": 14045
+    },
+    {
+      "text": "CMA-12/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 14069,
+      "end_char": 14080
+    },
+    {
+      "text": "High Court of Chhattisgarh at Bilaspur",
+      "label": "COURT",
+      "start_char": 14320,
+      "end_char": 14358
+    },
+    {
+      "text": "South Easters Coalfields Limited (SECL) Through The Chief General Manager, SECL, Sohagpur Area, District Shahdol, Madhya Pradesh Vs.",
+      "label": "PRECEDENT",
+      "start_char": 14362,
+      "end_char": 14494
+    },
+    {
+      "text": "Padam Kumar Singhaniya",
+      "label": "OTHER_PERSON",
+      "start_char": 14495,
+      "end_char": 14517
+    },
+    {
+      "text": "TPC No. 59 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 14519,
+      "end_char": 14537
+    },
+    {
+      "text": "22.01.2018",
+      "label": "DATE",
+      "start_char": 14549,
+      "end_char": 14559
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 14622,
+      "end_char": 14635
+    },
+    {
+      "text": "14884/2018",
+      "label": "DATE",
+      "start_char": 14698,
+      "end_char": 14708
+    },
+    {
+      "text": "South Eastern Coal Fields Ltd. (SECL) Vs.",
+      "label": "PRECEDENT",
+      "start_char": 14709,
+      "end_char": 14750
+    },
+    {
+      "text": "Padam Kumar Singhaniya",
+      "label": "OTHER_PERSON",
+      "start_char": 14751,
+      "end_char": 14773
+    },
+    {
+      "text": "05.07.2018",
+      "label": "DATE",
+      "start_char": 14785,
+      "end_char": 14795
+    },
+    {
+      "text": "Ajmer",
+      "label": "OTHER_PERSON",
+      "start_char": 14958,
+      "end_char": 14963
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 15000,
+      "end_char": 15013
+    },
+    {
+      "text": "Sundaram Finance Limited",
+      "label": "ORG",
+      "start_char": 15017,
+      "end_char": 15041
+    },
+    {
+      "text": "J. Thilak",
+      "label": "OTHER_PERSON",
+      "start_char": 15057,
+      "end_char": 15066
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 15136,
+      "end_char": 15146
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 15154,
+      "end_char": 15169
+    },
+    {
+      "text": "Abdul Samad",
+      "label": "RESPONDENT",
+      "start_char": 15436,
+      "end_char": 15447
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 15626,
+      "end_char": 15639
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 15695,
+      "end_char": 15705
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 15713,
+      "end_char": 15728
+    },
+    {
+      "text": "CMA-12/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 15752,
+      "end_char": 15763
+    },
+    {
+      "text": "Morena",
+      "label": "GPE",
+      "start_char": 15825,
+      "end_char": 15831
+    },
+    {
+      "text": "Madhya Pradesh",
+      "label": "GPE",
+      "start_char": 15833,
+      "end_char": 15847
+    },
+    {
+      "text": "Section 47 read with Section 151 and Order 21 Rule 27",
+      "label": "PROVISION",
+      "start_char": 15854,
+      "end_char": 15907
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 15908,
+      "end_char": 15911
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 16156,
+      "end_char": 16169
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 16228,
+      "end_char": 16241
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 16549,
+      "end_char": 16552
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 16615,
+      "end_char": 16625
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 16633,
+      "end_char": 16648
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 16860,
+      "end_char": 16870
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 16878,
+      "end_char": 16893
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 16978,
+      "end_char": 16981
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 17057,
+      "end_char": 17070
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 17278,
+      "end_char": 17288
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 17296,
+      "end_char": 17311
+    },
+    {
+      "text": "Part I.",
+      "label": "PROVISION",
+      "start_char": 17385,
+      "end_char": 17392
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 17577,
+      "end_char": 17590
+    },
+    {
+      "text": "CMA-12/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 17634,
+      "end_char": 17645
+    },
+    {
+      "text": "Section 32",
+      "label": "PROVISION",
+      "start_char": 17669,
+      "end_char": 17679
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 17687,
+      "end_char": 17702
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 17947,
+      "end_char": 17957
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 17965,
+      "end_char": 17980
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 18091,
+      "end_char": 18104
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 18310,
+      "end_char": 18320
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 18328,
+      "end_char": 18343
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 18509,
+      "end_char": 18519
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 18527,
+      "end_char": 18542
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 18721,
+      "end_char": 18736
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 19067,
+      "end_char": 19080
+    },
+    {
+      "text": "Sundaram Finance Limited",
+      "label": "ORG",
+      "start_char": 19111,
+      "end_char": 19135
+    },
+    {
+      "text": "J. Thilak",
+      "label": "OTHER_PERSON",
+      "start_char": 19151,
+      "end_char": 19160
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 19246,
+      "end_char": 19256
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 19264,
+      "end_char": 19279
+    },
+    {
+      "text": "Sections 10(3) and 15(2)",
+      "label": "PROVISION",
+      "start_char": 19285,
+      "end_char": 19309
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 19317,
+      "end_char": 19338
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 19345,
+      "end_char": 19358
+    },
+    {
+      "text": "State of West Bengal & Others Vs.",
+      "label": "PRECEDENT",
+      "start_char": 19362,
+      "end_char": 19395
+    },
+    {
+      "text": "CMA-12/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 19463,
+      "end_char": 19474
+    },
+    {
+      "text": "Police Station Mal",
+      "label": "ORG",
+      "start_char": 19718,
+      "end_char": 19736
+    },
+    {
+      "text": "Jalpaiguri",
+      "label": "GPE",
+      "start_char": 19747,
+      "end_char": 19757
+    },
+    {
+      "text": "West Bengal",
+      "label": "GPE",
+      "start_char": 19759,
+      "end_char": 19770
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 19884,
+      "end_char": 19893
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 19901,
+      "end_char": 19916
+    },
+    {
+      "text": "High Court of Calcutta",
+      "label": "COURT",
+      "start_char": 19943,
+      "end_char": 19965
+    },
+    {
+      "text": "10.12.1998",
+      "label": "DATE",
+      "start_char": 20140,
+      "end_char": 20150
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 20221,
+      "end_char": 20231
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 20239,
+      "end_char": 20254
+    },
+    {
+      "text": "20.01.2000",
+      "label": "DATE",
+      "start_char": 20363,
+      "end_char": 20373
+    },
+    {
+      "text": "10.12.1998",
+      "label": "DATE",
+      "start_char": 20415,
+      "end_char": 20425
+    },
+    {
+      "text": "30.06.2004",
+      "label": "DATE",
+      "start_char": 20570,
+      "end_char": 20580
+    },
+    {
+      "text": "State of West Bengal",
+      "label": "ORG",
+      "start_char": 20586,
+      "end_char": 20606
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 20634,
+      "end_char": 20644
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 20652,
+      "end_char": 20667
+    },
+    {
+      "text": "Principal Civil Court of the learned District Judge at Jalpaiguri",
+      "label": "COURT",
+      "start_char": 20711,
+      "end_char": 20776
+    },
+    {
+      "text": "West Bengal",
+      "label": "GPE",
+      "start_char": 20778,
+      "end_char": 20789
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 20872,
+      "end_char": 20883
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 20891,
+      "end_char": 20903
+    },
+    {
+      "text": "Court of learned District Judge at Jalpaiguri",
+      "label": "COURT",
+      "start_char": 20940,
+      "end_char": 20985
+    },
+    {
+      "text": "High Court of Calcutta",
+      "label": "COURT",
+      "start_char": 21015,
+      "end_char": 21037
+    },
+    {
+      "text": "11.04.2005",
+      "label": "DATE",
+      "start_char": 21079,
+      "end_char": 21089
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 21095,
+      "end_char": 21108
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 21153,
+      "end_char": 21168
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 21186,
+      "end_char": 21196
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 21204,
+      "end_char": 21219
+    },
+    {
+      "text": "Section 2(c) and 31(4)",
+      "label": "PROVISION",
+      "start_char": 21262,
+      "end_char": 21284
+    },
+    {
+      "text": "Arbitration Act, 1940",
+      "label": "STATUTE",
+      "start_char": 21292,
+      "end_char": 21313
+    },
+    {
+      "text": "CMA-12/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 21342,
+      "end_char": 21353
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 21384,
+      "end_char": 21394
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 21697,
+      "end_char": 21707
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 21782,
+      "end_char": 21792
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 21911,
+      "end_char": 21917
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 21925,
+      "end_char": 21946
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 22074,
+      "end_char": 22084
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 22268,
+      "end_char": 22274
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 22305,
+      "end_char": 22315
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 22389,
+      "end_char": 22395
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 22477,
+      "end_char": 22487
+    },
+    {
+      "text": "Kumbha Mawji v. Dominion of India, AIR 1953 SC 313",
+      "label": "PRECEDENT",
+      "start_char": 22784,
+      "end_char": 22834
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 22872,
+      "end_char": 22885
+    },
+    {
+      "text": "Section 31(4)",
+      "label": "PROVISION",
+      "start_char": 22921,
+      "end_char": 22934
+    },
+    {
+      "text": "1940 Act",
+      "label": "STATUTE",
+      "start_char": 22942,
+      "end_char": 22950
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 23454,
+      "end_char": 23464
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 23604,
+      "end_char": 23619
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 23624,
+      "end_char": 23634
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 23642,
+      "end_char": 23663
+    },
+    {
+      "text": "CMA-12/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 23729,
+      "end_char": 23740
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 23770,
+      "end_char": 23780
+    },
+    {
+      "text": "Part I.\n(g) xxxxxxxx",
+      "label": "PROVISION",
+      "start_char": 23888,
+      "end_char": 23908
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 23953,
+      "end_char": 23966
+    },
+    {
+      "text": "Sundaram Finance Limited",
+      "label": "ORG",
+      "start_char": 23970,
+      "end_char": 23994
+    },
+    {
+      "text": "J. Thilak",
+      "label": "OTHER_PERSON",
+      "start_char": 24010,
+      "end_char": 24019
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 24106,
+      "end_char": 24119
+    },
+    {
+      "text": "State of West Bengal & Others Vs",
+      "label": "PRECEDENT",
+      "start_char": 24123,
+      "end_char": 24155
+    },
+    {
+      "text": "Section 10 and 15",
+      "label": "PROVISION",
+      "start_char": 24233,
+      "end_char": 24250
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 24258,
+      "end_char": 24279
+    },
+    {
+      "text": "State of West Bengal & Others Vs.",
+      "label": "PRECEDENT",
+      "start_char": 24372,
+      "end_char": 24405
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 24465,
+      "end_char": 24475
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 24483,
+      "end_char": 24498
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 24729,
+      "end_char": 24735
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 24743,
+      "end_char": 24758
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 24829,
+      "end_char": 24839
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 24847,
+      "end_char": 24862
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 24879,
+      "end_char": 24892
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 25072,
+      "end_char": 25078
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 25137,
+      "end_char": 25147
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 25155,
+      "end_char": 25170
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 25201,
+      "end_char": 25207
+    },
+    {
+      "text": "OCI Corporation",
+      "label": "PRECEDENT",
+      "start_char": 25253,
+      "end_char": 25268
+    },
+    {
+      "text": "OCI Corporation",
+      "label": "ORG",
+      "start_char": 25312,
+      "end_char": 25327
+    },
+    {
+      "text": "CMA-12/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 25358,
+      "end_char": 25369
+    },
+    {
+      "text": "Section 15(5)",
+      "label": "PROVISION",
+      "start_char": 25377,
+      "end_char": 25390
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 25398,
+      "end_char": 25419
+    },
+    {
+      "text": "Section 2(1)(e)(ii)",
+      "label": "PROVISION",
+      "start_char": 25430,
+      "end_char": 25449
+    },
+    {
+      "text": "Section 47",
+      "label": "PROVISION",
+      "start_char": 25454,
+      "end_char": 25464
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 25472,
+      "end_char": 25487
+    },
+    {
+      "text": "District Court, Gandhidham-Kutch",
+      "label": "COURT",
+      "start_char": 25590,
+      "end_char": 25622
+    },
+    {
+      "text": "High Court of Gujarat",
+      "label": "COURT",
+      "start_char": 25637,
+      "end_char": 25658
+    },
+    {
+      "text": "Sections 2(e), 47",
+      "label": "PROVISION",
+      "start_char": 25763,
+      "end_char": 25780
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 25788,
+      "end_char": 25803
+    },
+    {
+      "text": "Section 2(1)(i), Section 6, 10, 15",
+      "label": "PROVISION",
+      "start_char": 25808,
+      "end_char": 25842
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 25850,
+      "end_char": 25871
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 26225,
+      "end_char": 26263
+    },
+    {
+      "text": "High Court of Gujarat",
+      "label": "COURT",
+      "start_char": 26426,
+      "end_char": 26447
+    },
+    {
+      "text": "Arbitration and Conciliation (Amendment) Act, 2015",
+      "label": "STATUTE",
+      "start_char": 26645,
+      "end_char": 26695
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 27024,
+      "end_char": 27062
+    },
+    {
+      "text": "section 15",
+      "label": "PROVISION",
+      "start_char": 27261,
+      "end_char": 27271
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 27279,
+      "end_char": 27300
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 27353,
+      "end_char": 27391
+    },
+    {
+      "text": "High Court of Gujarat",
+      "label": "COURT",
+      "start_char": 27479,
+      "end_char": 27500
+    },
+    {
+      "text": "CMA-12/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 27516,
+      "end_char": 27527
+    },
+    {
+      "text": "Gujarat High Court",
+      "label": "COURT",
+      "start_char": 27540,
+      "end_char": 27558
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 27716,
+      "end_char": 27729
+    },
+    {
+      "text": "Kandla Export Corporation",
+      "label": "ORG",
+      "start_char": 27733,
+      "end_char": 27758
+    },
+    {
+      "text": "03.03.2017",
+      "label": "DATE",
+      "start_char": 27871,
+      "end_char": 27881
+    },
+    {
+      "text": "Gujarat High Court at Ahmedabad",
+      "label": "COURT",
+      "start_char": 27923,
+      "end_char": 27954
+    },
+    {
+      "text": "Vadodara Mahanag Seva Sadan Formaly",
+      "label": "ORG",
+      "start_char": 27958,
+      "end_char": 27993
+    },
+    {
+      "text": "Gujarat High Court",
+      "label": "COURT",
+      "start_char": 28059,
+      "end_char": 28077
+    },
+    {
+      "text": "OCI Corporation",
+      "label": "PRECEDENT",
+      "start_char": 28121,
+      "end_char": 28136
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 28287,
+      "end_char": 28302
+    },
+    {
+      "text": "Gujarat High Court",
+      "label": "COURT",
+      "start_char": 28328,
+      "end_char": 28346
+    },
+    {
+      "text": "Vijay Cotton and Fiber Company",
+      "label": "PRECEDENT",
+      "start_char": 28350,
+      "end_char": 28380
+    },
+    {
+      "text": "Gujarat Civil Courts Act",
+      "label": "STATUTE",
+      "start_char": 28541,
+      "end_char": 28565
+    },
+    {
+      "text": "Section 10(3) and 15(2)",
+      "label": "PROVISION",
+      "start_char": 28568,
+      "end_char": 28591
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 28599,
+      "end_char": 28620
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 29085,
+      "end_char": 29136
+    },
+    {
+      "text": "CMA-12/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 29252,
+      "end_char": 29263
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 29577,
+      "end_char": 29628
+    },
+    {
+      "text": "Section 10(3) and 15(2)",
+      "label": "PROVISION",
+      "start_char": 30153,
+      "end_char": 30176
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 30184,
+      "end_char": 30205
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 30247,
+      "end_char": 30257
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 30265,
+      "end_char": 30280
+    },
+    {
+      "text": "Section 10(3)",
+      "label": "PROVISION",
+      "start_char": 30705,
+      "end_char": 30718
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 30726,
+      "end_char": 30747
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 30879,
+      "end_char": 30889
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 30897,
+      "end_char": 30912
+    },
+    {
+      "text": "Section 15(3)",
+      "label": "PROVISION",
+      "start_char": 30944,
+      "end_char": 30957
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 30965,
+      "end_char": 30986
+    },
+    {
+      "text": "CMA-12/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 31182,
+      "end_char": 31193
+    },
+    {
+      "text": "Chattisgarh High Court",
+      "label": "COURT",
+      "start_char": 31295,
+      "end_char": 31317
+    },
+    {
+      "text": "South Eastern Coalfields Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 31321,
+      "end_char": 31357
+    },
+    {
+      "text": "Padam Kumar Singhaniya",
+      "label": "PRECEDENT",
+      "start_char": 31358,
+      "end_char": 31380
+    },
+    {
+      "text": "Alok Garg",
+      "label": "OTHER_PERSON",
+      "start_char": 31403,
+      "end_char": 31412
+    },
+    {
+      "text": "sub-section (2) of Section 15",
+      "label": "PROVISION",
+      "start_char": 31586,
+      "end_char": 31615
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 31623,
+      "end_char": 31644
+    },
+    {
+      "text": "Section 15(2)",
+      "label": "PROVISION",
+      "start_char": 31866,
+      "end_char": 31879
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 31887,
+      "end_char": 31908
+    },
+    {
+      "text": "Chhattisgarh High Court",
+      "label": "COURT",
+      "start_char": 31946,
+      "end_char": 31969
+    },
+    {
+      "text": "proviso to Section 15(2)",
+      "label": "PROVISION",
+      "start_char": 31986,
+      "end_char": 32010
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 32018,
+      "end_char": 32039
+    },
+    {
+      "text": "sub-section (1) or sub-section (2) of Section 15",
+      "label": "PROVISION",
+      "start_char": 32245,
+      "end_char": 32293
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 32301,
+      "end_char": 32322
+    },
+    {
+      "text": "Section 15(2)",
+      "label": "PROVISION",
+      "start_char": 32523,
+      "end_char": 32536
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 32544,
+      "end_char": 32565
+    },
+    {
+      "text": "CMA-12/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 32943,
+      "end_char": 32954
+    },
+    {
+      "text": "Section 3(i)",
+      "label": "PROVISION",
+      "start_char": 32991,
+      "end_char": 33003
+    },
+    {
+      "text": "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 33011,
+      "end_char": 33108
+    },
+    {
+      "text": "Section 2(b)",
+      "label": "PROVISION",
+      "start_char": 33124,
+      "end_char": 33136
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 33256,
+      "end_char": 33294
+    },
+    {
+      "text": "Court of District and Sessions Judge",
+      "label": "COURT",
+      "start_char": 33387,
+      "end_char": 33423
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 33441,
+      "end_char": 33456
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 33464,
+      "end_char": 33502
+    },
+    {
+      "text": "Appeals No. 12/2019 and 5890/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 33544,
+      "end_char": 33577
+    },
+    {
+      "text": "Writ petition No. 4379/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 33669,
+      "end_char": 33696
+    },
+    {
+      "text": "ALOK SHARMA),J",
+      "label": "JUDGE",
+      "start_char": 33943,
+      "end_char": 33957
+    },
+    {
+      "text": "MOHAMMAD RAFIQ),J",
+      "label": "JUDGE",
+      "start_char": 34004,
+      "end_char": 34021
+    },
+    {
+      "text": "MANOJ NARWANI",
+      "label": "JUDGE",
+      "start_char": 34057,
+      "end_char": 34070
+    }
+  ],
+  "precedent_clusters": {
+    "South Easters Coalfields Limited (SECL) Through The Chief General Manager, SECL, Sohagpur Area, District Shahdol, Madhya Pradesh Vs.": [
+      "Senior Manager (Legal) Vs.",
+      "State of West Bengal & Others Vs.",
+      "State of West Bengal & Others Vs.",
+      "M/s. OCI Corporation Vs.",
+      "Petition for Special Leave to Appeal (C) No",
+      "Kandla Export Corporation & Others Vs.",
+      "Vadodara Mahanag Seva Sadan Formaly",
+      "Municipal Corporation Vs.",
+      "Jet Airways (India) Limited Vs.",
+      "Executive Engineer, Road Development Division No. 111, Panvel & Another Vs",
+      "Vijay Cotton and Fiber Company Vs.",
+      "Sushila Singhania & Others Vs.",
+      "South Easters Coalfields Limited (SECL) Through The Chief General Manager, SECL, Sohagpur Area, District Shahdol, Madhya Pradesh Vs.",
+      "South Eastern Coal Fields Ltd. (SECL) Vs.",
+      "State of West Bengal & Others Vs.",
+      "State of West Bengal & Others Vs",
+      "State of West Bengal & Others Vs.",
+      "South Eastern Coalfields Limited Vs.",
+      "OCI Corporation",
+      "OCI Corporation",
+      "OCI Corporation",
+      "OCI Corporation",
+      "Vijay Cotton and Fiber Company"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 2(1)(e)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 2(1)(e)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 3(1)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 3(1)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act",
+      "Section 36",
+      "Arbitration Act"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act",
+      "Section 36",
+      "Arbitration Act"
+    ],
+    [
+      "Section 10(3)",
+      "Commercial Courts Act",
+      "Section 10(3)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 15(2)",
+      "Commercial Courts Act",
+      "Section 15(2)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 10(3) and 15(2)",
+      "Commercial Courts Act",
+      "Section 10(3) and 15(2)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act",
+      "Section 36",
+      "Arbitration Act"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act",
+      "Section 42",
+      "Arbitration Act"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act",
+      "Section 36",
+      "Arbitration Act"
+    ],
+    [
+      "Section 10(3)",
+      "Commercial Courts Act",
+      "Section 10(3)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act",
+      "Section 36",
+      "Arbitration Act"
+    ],
+    [
+      "Section 10(3)",
+      "Commercial Courts Act",
+      "Section 10(3)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Arbitration Act",
+      "Section 2(1)(e)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 10",
+      "Commercial Courts Act",
+      "Section 10",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 15",
+      "Arbitration Act",
+      "Section 15",
+      "Arbitration Act"
+    ],
+    [
+      "Section 2",
+      "Commercial Courts Act",
+      "Section 2",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 15(2)",
+      "Commercial Courts Act",
+      "Section 15(2)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Sections 9 and 34",
+      "Arbitration Act",
+      "Sections 9 and 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act",
+      "Section 36",
+      "Arbitration Act"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act",
+      "Section 36",
+      "Arbitration Act"
+    ],
+    [
+      "Section 47 read with Section 151 and Order 21 Rule 27",
+      "CPC",
+      "Section 47 read with Section 151 and Order 21 Rule 27",
+      "CPC"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act",
+      "Section 36",
+      "Arbitration Act"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act",
+      "Section 36",
+      "Arbitration Act"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act",
+      "Section 42",
+      "Arbitration Act"
+    ],
+    [
+      "Section 32",
+      "Arbitration Act",
+      "Section 32",
+      "Arbitration Act"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act",
+      "Section 42",
+      "Arbitration Act"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act",
+      "Section 36",
+      "Arbitration Act"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act",
+      "Section 36",
+      "Arbitration Act"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act",
+      "Section 36",
+      "Arbitration Act"
+    ],
+    [
+      "Sections 10(3) and 15(2)",
+      "Commercial Courts Act",
+      "Sections 10(3) and 15(2)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 11",
+      "Arbitration Act",
+      "Section 11",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act",
+      "Section 42",
+      "Arbitration Act"
+    ],
+    [
+      "Section 2(c) and 31(4)",
+      "Arbitration Act, 1940",
+      "Section 2(c) and 31(4)",
+      "Arbitration Act, 1940"
+    ],
+    [
+      "Part I",
+      "Arbitration Act, 1996",
+      "Part I",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 31(4)",
+      "1940 Act",
+      "Section 31(4)",
+      "1940 Act"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 10 and 15",
+      "Commercial Courts Act",
+      "Section 10 and 15",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act",
+      "Section 42",
+      "Arbitration Act"
+    ],
+    [
+      "Part I",
+      "Arbitration Act",
+      "Part I",
+      "Arbitration Act"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act",
+      "Section 42",
+      "Arbitration Act"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act",
+      "Section 36",
+      "Arbitration Act"
+    ],
+    [
+      "Section 15(5)",
+      "Commercial Courts Act",
+      "Section 15(5)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 47",
+      "Arbitration Act",
+      "Section 47",
+      "Arbitration Act"
+    ],
+    [
+      "Sections 2(e), 47",
+      "Arbitration Act",
+      "Sections 2(e), 47",
+      "Arbitration Act"
+    ],
+    [
+      "Section 2(1)(i), Section 6, 10, 15",
+      "Commercial Courts Act",
+      "Section 2(1)(i), Section 6, 10, 15",
+      "Commercial Courts Act"
+    ],
+    [
+      "section 15",
+      "Commercial Courts Act",
+      "section 15",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 10(3) and 15(2)",
+      "Commercial Courts Act",
+      "Section 10(3) and 15(2)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 10(3) and 15(2)",
+      "Commercial Courts Act",
+      "Section 10(3) and 15(2)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act",
+      "Section 36",
+      "Arbitration Act"
+    ],
+    [
+      "Section 10(3)",
+      "Commercial Courts Act",
+      "Section 10(3)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act",
+      "Section 36",
+      "Arbitration Act"
+    ],
+    [
+      "Section 15(3)",
+      "Commercial Courts Act",
+      "Section 15(3)",
+      "Commercial Courts Act"
+    ],
+    [
+      "sub-section (2) of Section 15",
+      "Commercial Courts Act",
+      "sub-section (2) of Section 15",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 15(2)",
+      "Commercial Courts Act",
+      "Section 15(2)",
+      "Commercial Courts Act"
+    ],
+    [
+      "proviso to Section 15(2)",
+      "Commercial Courts Act",
+      "proviso to Section 15(2)",
+      "Commercial Courts Act"
+    ],
+    [
+      "sub-section (1) or sub-section (2) of Section 15",
+      "Commercial Courts Act",
+      "sub-section (1) or sub-section (2) of Section 15",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 15(2)",
+      "Commercial Courts Act",
+      "Section 15(2)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 3(i)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 3(i)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 2(b)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 2(b)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 2(1)(e)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 2(b)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 2(b)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act",
+      "Section 42",
+      "Arbitration Act"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act",
+      "Section 42",
+      "Arbitration Act"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Commercial Courts Act",
+      "Section 2(1)(e)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act",
+      "Section 42",
+      "Arbitration Act"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act",
+      "Section 42",
+      "Arbitration Act"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act",
+      "Section 42",
+      "Arbitration Act"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act",
+      "Section 42",
+      "Arbitration Act"
+    ],
+    [
+      "Part I",
+      "Arbitration Act, 1996",
+      "Part I",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act",
+      "Section 42",
+      "Arbitration Act"
+    ],
+    [
+      "Part I",
+      "Arbitration Act, 1996",
+      "Part I",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act",
+      "Section 42",
+      "Arbitration Act"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act",
+      "Section 42",
+      "Arbitration Act"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Arbitration Act, 1940",
+      "Section 2(1)(e)",
+      "Arbitration Act, 1940"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Part I.\n(g) xxxxxxxx",
+      "Arbitration Act",
+      "Part I.\n(g) xxxxxxxx",
+      "Arbitration Act"
+    ],
+    [
+      "Part I",
+      "Arbitration Act, 1996",
+      "Part I",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Part I",
+      "Arbitration Act, 1996",
+      "Part I",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 2(1)(e)(ii)",
+      "Arbitration Act, 1940",
+      "Section 2(1)(e)(ii)",
+      "Arbitration Act, 1940"
+    ],
+    [
+      "Part I.",
+      "Arbitration Act",
+      "Part I.",
+      "Arbitration Act"
+    ]
+  ],
+  "precedent_counts": {
+    "South Easters Coalfields Limited (SECL) Through The Chief General Manager, SECL, Sohagpur Area, District Shahdol, Madhya Pradesh Vs.": 23
+  },
+  "provision_counts": {
+    "Section 2(1)(e) of Arbitration and Conciliation Act, 1996": 2,
+    "Section 3(1) of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 1,
+    "Section 36 of Arbitration Act": 15,
+    "Section 10(3) of Commercial Courts Act": 4,
+    "Section 15(2) of Commercial Courts Act": 4,
+    "Section 10(3) and 15(2) of Commercial Courts Act": 3,
+    "Section 42 of Arbitration Act": 15,
+    "Section 2(1)(e) of Arbitration Act": 1,
+    "Section 10 of Commercial Courts Act": 1,
+    "Section 15 of Arbitration Act": 1,
+    "Section 2 of Commercial Courts Act": 1,
+    "Sections 9 and 34 of Arbitration Act": 1,
+    "Section 47 read with Section 151 and Order 21 Rule 27 of CPC": 1,
+    "Section 32 of Arbitration Act": 1,
+    "Sections 10(3) and 15(2) of Commercial Courts Act": 1,
+    "Section 9 of Arbitration Act": 1,
+    "Section 11 of Arbitration Act": 1,
+    "Section 34 of Arbitration Act": 1,
+    "Article 227 of Constitution": 1,
+    "Section 2(c) and 31(4) of Arbitration Act, 1940": 1,
+    "Part I of Arbitration Act, 1996": 5,
+    "Section 31(4) of 1940 Act": 1,
+    "Section 42 of Arbitration Act, 1996": 2,
+    "Section 10 and 15 of Commercial Courts Act": 1,
+    "Part I of Arbitration Act": 1,
+    "Section 15(5) of Commercial Courts Act": 1,
+    "Section 47 of Arbitration Act": 1,
+    "Sections 2(e), 47 of Arbitration Act": 1,
+    "Section 2(1)(i), Section 6, 10, 15 of Commercial Courts Act": 1,
+    "section 15 of Commercial Courts Act": 1,
+    "Section 15(3) of Commercial Courts Act": 1,
+    "sub-section (2) of Section 15 of Commercial Courts Act": 1,
+    "proviso to Section 15(2) of Commercial Courts Act": 1,
+    "sub-section (1) or sub-section (2) of Section 15 of Commercial Courts Act": 1,
+    "Section 3(i) of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 1,
+    "Section 2(b) of Arbitration and Conciliation Act, 1996": 2,
+    "Section 2(1)(e) of Commercial Courts Act": 1,
+    "Section 2(1)(e) of Arbitration Act, 1940": 1,
+    "Part I.\n(g) xxxxxxxx of Arbitration Act": 1,
+    "Section 2(1)(e)(ii) of Arbitration Act, 1940": 1,
+    "Part I. of Arbitration Act": 1
+  },
+  "statute_counts": {
+    "Arbitration and Conciliation Act, 1996": 4,
+    "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 2,
+    "Arbitration Act": 42,
+    "Commercial Courts Act": 23,
+    "CPC": 1,
+    "Constitution": 1,
+    "Arbitration Act, 1940": 3,
+    "Arbitration Act, 1996": 7,
+    "1940 Act": 1
+  }
+}

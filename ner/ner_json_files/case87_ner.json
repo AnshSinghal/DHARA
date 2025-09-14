@@ -1,0 +1,1751 @@
+{
+  "entities": [
+    {
+      "text": "Karnataka High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 20
+    },
+    {
+      "text": "Supriya Shrinate",
+      "label": "PETITIONER",
+      "start_char": 25,
+      "end_char": 41
+    },
+    {
+      "text": "Music",
+      "label": "RESPONDENT",
+      "start_char": 53,
+      "end_char": 58
+    },
+    {
+      "text": "G.Narendar",
+      "label": "PETITIONER",
+      "start_char": 90,
+      "end_char": 100
+    },
+    {
+      "text": "P.N.Desai",
+      "label": "RESPONDENT",
+      "start_char": 102,
+      "end_char": 111
+    },
+    {
+      "text": "High Court Of Karnataka At Bengaluru",
+      "label": "COURT",
+      "start_char": 215,
+      "end_char": 251
+    },
+    {
+      "text": "G. Narendar",
+      "label": "JUDGE",
+      "start_char": 373,
+      "end_char": 384
+    },
+    {
+      "text": "P.N.Desai",
+      "label": "JUDGE",
+      "start_char": 455,
+      "end_char": 464
+    },
+    {
+      "text": "Supriya Shrinate",
+      "label": "PETITIONER",
+      "start_char": 525,
+      "end_char": 541
+    },
+    {
+      "text": "Abhishek Manu Singhvi",
+      "label": "LAWYER",
+      "start_char": 780,
+      "end_char": 801
+    },
+    {
+      "text": "Udaya Holla",
+      "label": "LAWYER",
+      "start_char": 808,
+      "end_char": 819
+    },
+    {
+      "text": "A.S Ponnanna",
+      "label": "LAWYER",
+      "start_char": 833,
+      "end_char": 845
+    },
+    {
+      "text": "Leela P.",
+      "label": "LAWYER",
+      "start_char": 877,
+      "end_char": 885
+    },
+    {
+      "text": "Music",
+      "label": "PETITIONER",
+      "start_char": 919,
+      "end_char": 924
+    },
+    {
+      "text": "Twitter Inc.",
+      "label": "RESPONDENT",
+      "start_char": 1096,
+      "end_char": 1108
+    },
+    {
+      "text": "Indian National Congress",
+      "label": "RESPONDENT",
+      "start_char": 1298,
+      "end_char": 1322
+    },
+    {
+      "text": "Jairam Ramesh",
+      "label": "LAWYER",
+      "start_char": 1618,
+      "end_char": 1631
+    },
+    {
+      "text": "Rahul Gandhi",
+      "label": "RESPONDENT",
+      "start_char": 1644,
+      "end_char": 1656
+    },
+    {
+      "text": "Ashok Kumar",
+      "label": "RESPONDENT",
+      "start_char": 1835,
+      "end_char": 1846
+    },
+    {
+      "text": "Srinivasa Raghavan .V",
+      "label": "LAWYER",
+      "start_char": 1914,
+      "end_char": 1935
+    },
+    {
+      "text": "Narasimhan S. Pranav",
+      "label": "LAWYER",
+      "start_char": 1966,
+      "end_char": 1986
+    },
+    {
+      "text": "G. Narendar",
+      "label": "JUDGE",
+      "start_char": 2921,
+      "end_char": 2932
+    },
+    {
+      "text": "Additional City Civil & Sessions Judge, Commercial Division, Bangalore(CCH-86)",
+      "label": "COURT",
+      "start_char": 3087,
+      "end_char": 3165
+    },
+    {
+      "text": "I.A. Nos.",
+      "label": "CASE_NUMBER",
+      "start_char": 3170,
+      "end_char": 3179
+    },
+    {
+      "text": "Commercial Original Suit No.1594/2022",
+      "label": "CASE_NUMBER",
+      "start_char": 3191,
+      "end_char": 3228
+    },
+    {
+      "text": "07.11.2022",
+      "label": "DATE",
+      "start_char": 3235,
+      "end_char": 3245
+    },
+    {
+      "text": "Indian National congress (@ INC India)",
+      "label": "ORG",
+      "start_char": 3418,
+      "end_char": 3456
+    },
+    {
+      "text": "Bharat Jodo Yatra",
+      "label": "ORG",
+      "start_char": 3461,
+      "end_char": 3478
+    },
+    {
+      "text": "Block Buster",
+      "label": "ORG",
+      "start_char": 4535,
+      "end_char": 4547
+    },
+    {
+      "text": "Bharat Jodo Yatra",
+      "label": "ORG",
+      "start_char": 4788,
+      "end_char": 4805
+    },
+    {
+      "text": "Indian National Congress",
+      "label": "ORG",
+      "start_char": 4828,
+      "end_char": 4852
+    },
+    {
+      "text": "Bharat Jodo",
+      "label": "ORG",
+      "start_char": 4991,
+      "end_char": 5002
+    },
+    {
+      "text": "Indian National Congress",
+      "label": "ORG",
+      "start_char": 5234,
+      "end_char": 5258
+    },
+    {
+      "text": "Indian National Congress",
+      "label": "ORG",
+      "start_char": 5349,
+      "end_char": 5373
+    },
+    {
+      "text": "Order 39 Rule 1 and 2 r/w 79",
+      "label": "PROVISION",
+      "start_char": 6024,
+      "end_char": 6052
+    },
+    {
+      "text": "IT Act",
+      "label": "STATUTE",
+      "start_char": 6060,
+      "end_char": 6066
+    },
+    {
+      "text": "Abhishek Manu Singhvi",
+      "label": "LAWYER",
+      "start_char": 6815,
+      "end_char": 6836
+    },
+    {
+      "text": "Udaya Holla",
+      "label": "LAWYER",
+      "start_char": 6869,
+      "end_char": 6880
+    },
+    {
+      "text": "A.S. Ponnanna",
+      "label": "OTHER_PERSON",
+      "start_char": 6890,
+      "end_char": 6903
+    },
+    {
+      "text": "Leela P.",
+      "label": "LAWYER",
+      "start_char": 6922,
+      "end_char": 6930
+    },
+    {
+      "text": "Srinivas V. Raghavan",
+      "label": "OTHER_PERSON",
+      "start_char": 6999,
+      "end_char": 7019
+    },
+    {
+      "text": "Narasimhan S. Pranav Kumar",
+      "label": "OTHER_PERSON",
+      "start_char": 7029,
+      "end_char": 7055
+    },
+    {
+      "text": "Kanyakumari",
+      "label": "GPE",
+      "start_char": 7952,
+      "end_char": 7963
+    },
+    {
+      "text": "Kashmir",
+      "label": "GPE",
+      "start_char": 7987,
+      "end_char": 7994
+    },
+    {
+      "text": "Twitter",
+      "label": "ORG",
+      "start_char": 8156,
+      "end_char": 8163
+    },
+    {
+      "text": "11th October, 2022",
+      "label": "DATE",
+      "start_char": 8722,
+      "end_char": 8740
+    },
+    {
+      "text": "2nd of November, 2022",
+      "label": "DATE",
+      "start_char": 8791,
+      "end_char": 8812
+    },
+    {
+      "text": "5th of November, 2022",
+      "label": "DATE",
+      "start_char": 8844,
+      "end_char": 8865
+    },
+    {
+      "text": "07.11.2022",
+      "label": "DATE",
+      "start_char": 8913,
+      "end_char": 8923
+    },
+    {
+      "text": "Rule 3 of Order XXXIX",
+      "label": "PROVISION",
+      "start_char": 9085,
+      "end_char": 9106
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 9114,
+      "end_char": 9120
+    },
+    {
+      "text": "Rule 3",
+      "label": "PROVISION",
+      "start_char": 9140,
+      "end_char": 9146
+    },
+    {
+      "text": "07.11.2022",
+      "label": "DATE",
+      "start_char": 9612,
+      "end_char": 9622
+    },
+    {
+      "text": "Rule 3 of Order XXXIX",
+      "label": "PROVISION",
+      "start_char": 10197,
+      "end_char": 10218
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 10226,
+      "end_char": 10232
+    },
+    {
+      "text": "2014 SCC OnLine Kar 7191",
+      "label": "PRECEDENT",
+      "start_char": 10304,
+      "end_char": 10328
+    },
+    {
+      "text": "Vedant Fashions Pvt",
+      "label": "ORG",
+      "start_char": 10330,
+      "end_char": 10349
+    },
+    {
+      "text": "Ltd., vs. Smt",
+      "label": "PRECEDENT",
+      "start_char": 10351,
+      "end_char": 10364
+    },
+    {
+      "text": "Rajul Devi",
+      "label": "OTHER_PERSON",
+      "start_char": 10366,
+      "end_char": 10376
+    },
+    {
+      "text": "Mr. R K Jain vs. P G Chacko reported in AIR 2013 Kar 142",
+      "label": "PRECEDENT",
+      "start_char": 10472,
+      "end_char": 10528
+    },
+    {
+      "text": "Paramvah Studios Pvt. Ltd., and another vs. Lahari Recording Company reported in ILR 2017 KAR 1795",
+      "label": "PRECEDENT",
+      "start_char": 10673,
+      "end_char": 10771
+    },
+    {
+      "text": "Venkatasubbiah",
+      "label": "OTHER_PERSON",
+      "start_char": 11464,
+      "end_char": 11478
+    },
+    {
+      "text": "Procter and Gamble Home Products Private Limited vs. Marico Ltd., and others",
+      "label": "PRECEDENT",
+      "start_char": 11715,
+      "end_char": 11791
+    },
+    {
+      "text": "MFA No.8990/2017",
+      "label": "CASE_NUMBER",
+      "start_char": 11796,
+      "end_char": 11812
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 11881,
+      "end_char": 11891
+    },
+    {
+      "text": "Kandla Export Corporation and another vs. OCI Corporation and another reported in (2018) 14 SCC 715",
+      "label": "PRECEDENT",
+      "start_char": 11907,
+      "end_char": 12006
+    },
+    {
+      "text": "Order 39 Rule 3",
+      "label": "PROVISION",
+      "start_char": 12650,
+      "end_char": 12665
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 12673,
+      "end_char": 12676
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 12854,
+      "end_char": 12864
+    },
+    {
+      "text": "A. Venkata Subbaiah Naidu v. S. Chellappan and Others, (2000) 7",
+      "label": "PRECEDENT",
+      "start_char": 12882,
+      "end_char": 12945
+    },
+    {
+      "text": "SCC 695",
+      "label": "PROVISION",
+      "start_char": 12946,
+      "end_char": 12953
+    },
+    {
+      "text": "section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 13160,
+      "end_char": 13174
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 13182,
+      "end_char": 13209
+    },
+    {
+      "text": "Rule 3A",
+      "label": "PROVISION",
+      "start_char": 13494,
+      "end_char": 13501
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 13635,
+      "end_char": 13645
+    },
+    {
+      "text": "Order 39 Rule 3A",
+      "label": "PROVISION",
+      "start_char": 13666,
+      "end_char": 13682
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 13690,
+      "end_char": 13696
+    },
+    {
+      "text": "Order XLI Rule 1",
+      "label": "PROVISION",
+      "start_char": 14096,
+      "end_char": 14112
+    },
+    {
+      "text": "Order XLIII R(1)(r)",
+      "label": "PROVISION",
+      "start_char": 14423,
+      "end_char": 14442
+    },
+    {
+      "text": "rule 1, rule 2 [rule 2A], rule 4 or rule 10 of Order XXXIX",
+      "label": "PROVISION",
+      "start_char": 14479,
+      "end_char": 14537
+    },
+    {
+      "text": "Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 14544,
+      "end_char": 14558
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 14566,
+      "end_char": 14593
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 15385,
+      "end_char": 15396
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 15404,
+      "end_char": 15445
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 15473,
+      "end_char": 15483
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 15491,
+      "end_char": 15542
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 15644,
+      "end_char": 15654
+    },
+    {
+      "text": "Kandla Export Corporation and Another v. OCI Corporation and Another, (2018) 14 Supreme Court Cases 715",
+      "label": "PRECEDENT",
+      "start_char": 15658,
+      "end_char": 15761
+    },
+    {
+      "text": "Procter & Gamble Home Products Private Limited v. Marico Limited and Ors",
+      "label": "PRECEDENT",
+      "start_char": 15814,
+      "end_char": 15886
+    },
+    {
+      "text": "MFA No.8990/2017",
+      "label": "CASE_NUMBER",
+      "start_char": 15891,
+      "end_char": 15907
+    },
+    {
+      "text": "30.11.2017",
+      "label": "DATE",
+      "start_char": 15914,
+      "end_char": 15924
+    },
+    {
+      "text": "A. Venkatasubbiah Naidu",
+      "label": "OTHER_PERSON",
+      "start_char": 15938,
+      "end_char": 15961
+    },
+    {
+      "text": "Kandla Export Corporation",
+      "label": "ORG",
+      "start_char": 16200,
+      "end_char": 16225
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 16394,
+      "end_char": 16404
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 16412,
+      "end_char": 16439
+    },
+    {
+      "text": "Kandla",
+      "label": "OTHER_PERSON",
+      "start_char": 16457,
+      "end_char": 16463
+    },
+    {
+      "text": "07-02-2018",
+      "label": "DATE",
+      "start_char": 16489,
+      "end_char": 16499
+    },
+    {
+      "text": "Section-13",
+      "label": "PROVISION",
+      "start_char": 16522,
+      "end_char": 16532
+    },
+    {
+      "text": "03-05-2018",
+      "label": "DATE",
+      "start_char": 16547,
+      "end_char": 16557
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 16564,
+      "end_char": 16574
+    },
+    {
+      "text": "Order 43",
+      "label": "PROVISION",
+      "start_char": 17091,
+      "end_char": 17099
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 17107,
+      "end_char": 17148
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 17176,
+      "end_char": 17186
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 17194,
+      "end_char": 17232
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 17512,
+      "end_char": 17522
+    },
+    {
+      "text": "Amendment Act (28 of 2018)",
+      "label": "STATUTE",
+      "start_char": 17535,
+      "end_char": 17561
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 18499,
+      "end_char": 18510
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 18518,
+      "end_char": 18559
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 18587,
+      "end_char": 18597
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 18605,
+      "end_char": 18656
+    },
+    {
+      "text": "Kandla Export Corporation",
+      "label": "ORG",
+      "start_char": 19151,
+      "end_char": 19176
+    },
+    {
+      "text": "Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 19351,
+      "end_char": 19365
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 19373,
+      "end_char": 19394
+    },
+    {
+      "text": "Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 19774,
+      "end_char": 19788
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 19796,
+      "end_char": 19817
+    },
+    {
+      "text": "Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 19961,
+      "end_char": 19975
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 19983,
+      "end_char": 20004
+    },
+    {
+      "text": "I.A.No.4/2022",
+      "label": "CASE_NUMBER",
+      "start_char": 20181,
+      "end_char": 20194
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 20539,
+      "end_char": 20549
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 20763,
+      "end_char": 20773
+    },
+    {
+      "text": "Samir Narain Bhojwani vs. Aurora Properties and Investments and Another, reported in (2018) 17 SCC 203",
+      "label": "PRECEDENT",
+      "start_char": 20789,
+      "end_char": 20891
+    },
+    {
+      "text": "Dorab Cawasji Warden v. Coomi Sorab Warden",
+      "label": "PRECEDENT",
+      "start_char": 21657,
+      "end_char": 21699
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 23689,
+      "end_char": 23699
+    },
+    {
+      "text": "Hammad Ahmed vs. Abdul Majeed and Others, reported in (2019) 14 SCC 1",
+      "label": "PRECEDENT",
+      "start_char": 23719,
+      "end_char": 23788
+    },
+    {
+      "text": "Samir Narain Bhojwani",
+      "label": "OTHER_PERSON",
+      "start_char": 23942,
+      "end_char": 23963
+    },
+    {
+      "text": "Deoraj v. State of Maharashtra",
+      "label": "PRECEDENT",
+      "start_char": 24381,
+      "end_char": 24411
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 26694,
+      "end_char": 26704
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 27181,
+      "end_char": 27193
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 27853,
+      "end_char": 27863
+    },
+    {
+      "text": "Order XXXIX Rule 3",
+      "label": "PROVISION",
+      "start_char": 28218,
+      "end_char": 28236
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 28244,
+      "end_char": 28247
+    },
+    {
+      "text": "Rule 3",
+      "label": "PROVISION",
+      "start_char": 28424,
+      "end_char": 28430
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 28438,
+      "end_char": 28441
+    },
+    {
+      "text": "Order XXXIX Rule 1 and 2",
+      "label": "PROVISION",
+      "start_char": 28542,
+      "end_char": 28566
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 28567,
+      "end_char": 28570
+    },
+    {
+      "text": "B.V.",
+      "label": "JUDGE",
+      "start_char": 28758,
+      "end_char": 28762
+    },
+    {
+      "text": "Nagarathna",
+      "label": "OTHER_PERSON",
+      "start_char": 28763,
+      "end_char": 28773
+    },
+    {
+      "text": "Vedant Fashions Pvt. Ltd., v. Smt",
+      "label": "PRECEDENT",
+      "start_char": 28807,
+      "end_char": 28840
+    },
+    {
+      "text": "Rajul Devi",
+      "label": "OTHER_PERSON",
+      "start_char": 28842,
+      "end_char": 28852
+    },
+    {
+      "text": "SCC Online Kar 7191",
+      "label": "CASE_NUMBER",
+      "start_char": 28860,
+      "end_char": 28879
+    },
+    {
+      "text": "Chickpet",
+      "label": "GPE",
+      "start_char": 29147,
+      "end_char": 29155
+    },
+    {
+      "text": "Bangalore",
+      "label": "GPE",
+      "start_char": 29157,
+      "end_char": 29166
+    },
+    {
+      "text": "order 39 rule 1 & 2",
+      "label": "PROVISION",
+      "start_char": 29495,
+      "end_char": 29514
+    },
+    {
+      "text": "Times of India",
+      "label": "ORG",
+      "start_char": 30131,
+      "end_char": 30145
+    },
+    {
+      "text": "25/04/2014",
+      "label": "DATE",
+      "start_char": 30152,
+      "end_char": 30162
+    },
+    {
+      "text": "Order 39 rule 3(A)",
+      "label": "PROVISION",
+      "start_char": 31438,
+      "end_char": 31456
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 31460,
+      "end_char": 31463
+    },
+    {
+      "text": "31.7.2014",
+      "label": "DATE",
+      "start_char": 31541,
+      "end_char": 31550
+    },
+    {
+      "text": "Order XXXIX Rules 1 and 2",
+      "label": "PROVISION",
+      "start_char": 31624,
+      "end_char": 31649
+    },
+    {
+      "text": "Order XXXIX of Rule 3",
+      "label": "PROVISION",
+      "start_char": 31764,
+      "end_char": 31785
+    },
+    {
+      "text": "01/02/1977",
+      "label": "DATE",
+      "start_char": 33288,
+      "end_char": 33298
+    },
+    {
+      "text": "Rule 3 of Order XXXIX",
+      "label": "PROVISION",
+      "start_char": 34693,
+      "end_char": 34714
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 34722,
+      "end_char": 34725
+    },
+    {
+      "text": "31.07.2014",
+      "label": "DATE",
+      "start_char": 34796,
+      "end_char": 34806
+    },
+    {
+      "text": "23/07/2014",
+      "label": "DATE",
+      "start_char": 34977,
+      "end_char": 34987
+    },
+    {
+      "text": "Mr. R.K. Jain v. Sri",
+      "label": "PRECEDENT",
+      "start_char": 35165,
+      "end_char": 35185
+    },
+    {
+      "text": "P.G. Chacko",
+      "label": "OTHER_PERSON",
+      "start_char": 35187,
+      "end_char": 35198
+    },
+    {
+      "text": "I.A. No. 1/2013",
+      "label": "CASE_NUMBER",
+      "start_char": 35321,
+      "end_char": 35336
+    },
+    {
+      "text": "Order 39, Rules 1 and 2",
+      "label": "PROVISION",
+      "start_char": 35344,
+      "end_char": 35367
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 35368,
+      "end_char": 35371
+    },
+    {
+      "text": "09.01.2013",
+      "label": "DATE",
+      "start_char": 35888,
+      "end_char": 35898
+    },
+    {
+      "text": "O. 39 Rules 1 and 2",
+      "label": "PROVISION",
+      "start_char": 36032,
+      "end_char": 36051
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 36055,
+      "end_char": 36058
+    },
+    {
+      "text": "Order 39, Rule 3",
+      "label": "PROVISION",
+      "start_char": 36862,
+      "end_char": 36878
+    },
+    {
+      "text": "13.03.2013",
+      "label": "DATE",
+      "start_char": 36971,
+      "end_char": 36981
+    },
+    {
+      "text": "Order 39, Rule 3",
+      "label": "PROVISION",
+      "start_char": 37011,
+      "end_char": 37027
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 37028,
+      "end_char": 37031
+    },
+    {
+      "text": "Act No. 1/1976",
+      "label": "STATUTE",
+      "start_char": 38263,
+      "end_char": 38277
+    },
+    {
+      "text": "United Commercial Bank v. Bank of India, (1981) 2 SCC 766",
+      "label": "PRECEDENT",
+      "start_char": 38717,
+      "end_char": 38774
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 38825,
+      "end_char": 38835
+    },
+    {
+      "text": "Order 39, Rules 1 and 2",
+      "label": "PROVISION",
+      "start_char": 39921,
+      "end_char": 39944
+    },
+    {
+      "text": "Bank of India",
+      "label": "ORG",
+      "start_char": 40497,
+      "end_char": 40510
+    },
+    {
+      "text": "Shiv Kumar Chadha v. Municipal Corporation of Delhi, (1993) 3 SCC 161",
+      "label": "PRECEDENT",
+      "start_char": 40730,
+      "end_char": 40799
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 40847,
+      "end_char": 40857
+    },
+    {
+      "text": "Rule 3 of Order 39",
+      "label": "PROVISION",
+      "start_char": 40956,
+      "end_char": 40974
+    },
+    {
+      "text": "Rule 3",
+      "label": "PROVISION",
+      "start_char": 41033,
+      "end_char": 41039
+    },
+    {
+      "text": "Rule 3",
+      "label": "PROVISION",
+      "start_char": 42124,
+      "end_char": 42130
+    },
+    {
+      "text": "Rule 3 of Order 39",
+      "label": "PROVISION",
+      "start_char": 42906,
+      "end_char": 42924
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "start_char": 42930,
+      "end_char": 42940
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "start_char": 43362,
+      "end_char": 43372
+    },
+    {
+      "text": "Rule 3",
+      "label": "PROVISION",
+      "start_char": 43417,
+      "end_char": 43423
+    },
+    {
+      "text": "Rule 3 of Order 39",
+      "label": "PROVISION",
+      "start_char": 43484,
+      "end_char": 43502
+    },
+    {
+      "text": "Taylor v. Taylor, (1875) 1 Ch",
+      "label": "PRECEDENT",
+      "start_char": 43719,
+      "end_char": 43748
+    },
+    {
+      "text": "Nazir Ahmed v. Emperor, AIR 1936 PC 253 (2)",
+      "label": "PRECEDENT",
+      "start_char": 43758,
+      "end_char": 43801
+    },
+    {
+      "text": "Bombay Tenancy and Agricultural Lands Act",
+      "label": "STATUTE",
+      "start_char": 43891,
+      "end_char": 43932
+    },
+    {
+      "text": "Ramachandra Keshav Adke v. Govind Joti Chavare, (1975) 1 SCC 559 : AIR 1975 SC 915",
+      "label": "PRECEDENT",
+      "start_char": 43948,
+      "end_char": 44030
+    },
+    {
+      "text": "Paramvah Studios Pvt. Ltd., and Another v. Lahari Recording Company, ILR 2017 KAR 1795",
+      "label": "PRECEDENT",
+      "start_char": 45418,
+      "end_char": 45504
+    },
+    {
+      "text": "Order XXXIX Rule 3",
+      "label": "PROVISION",
+      "start_char": 45589,
+      "end_char": 45607
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 45623,
+      "end_char": 45646
+    },
+    {
+      "text": "Order XXXIX Rule 3",
+      "label": "PROVISION",
+      "start_char": 46039,
+      "end_char": 46057
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 46065,
+      "end_char": 46088
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 46337,
+      "end_char": 46350
+    },
+    {
+      "text": "Morgan Stanley Mutual Fund v. Kartick Das [(1994) 4 SCC 225]",
+      "label": "PRECEDENT",
+      "start_char": 46366,
+      "end_char": 46426
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 47584,
+      "end_char": 47597
+    },
+    {
+      "text": "Order XXXIX Rule 3",
+      "label": "PROVISION",
+      "start_char": 47634,
+      "end_char": 47652
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 47656,
+      "end_char": 47679
+    },
+    {
+      "text": "Shiv Kumar Chadha v. Municipal Corporation of Delhi",
+      "label": "PRECEDENT",
+      "start_char": 47695,
+      "end_char": 47746
+    },
+    {
+      "text": "Rule 3 of Order 39",
+      "label": "PROVISION",
+      "start_char": 47875,
+      "end_char": 47893
+    },
+    {
+      "text": "Rule 3",
+      "label": "PROVISION",
+      "start_char": 47952,
+      "end_char": 47958
+    },
+    {
+      "text": "Rule 3",
+      "label": "PROVISION",
+      "start_char": 49042,
+      "end_char": 49048
+    },
+    {
+      "text": "Rule 3 of Order 39",
+      "label": "PROVISION",
+      "start_char": 49826,
+      "end_char": 49844
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "start_char": 49850,
+      "end_char": 49860
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "start_char": 50283,
+      "end_char": 50293
+    },
+    {
+      "text": "Rule 3",
+      "label": "PROVISION",
+      "start_char": 50338,
+      "end_char": 50344
+    },
+    {
+      "text": "Rule 3 of Order 39",
+      "label": "PROVISION",
+      "start_char": 50405,
+      "end_char": 50423
+    },
+    {
+      "text": "Taylor v. Taylor and Nazir Ahmed v. Emperor",
+      "label": "PRECEDENT",
+      "start_char": 50640,
+      "end_char": 50683
+    },
+    {
+      "text": "Bombay Tenancy and Agricultural Lands Act",
+      "label": "STATUTE",
+      "start_char": 50773,
+      "end_char": 50814
+    },
+    {
+      "text": "Ramchandra Keshav Adke V. Govind Joti Chavare",
+      "label": "PRECEDENT",
+      "start_char": 50830,
+      "end_char": 50875
+    },
+    {
+      "text": "Supreme Court Practice 1993, Vol. 1",
+      "label": "COURT",
+      "start_char": 51466,
+      "end_char": 51501
+    },
+    {
+      "text": "07.11.2022",
+      "label": "DATE",
+      "start_char": 51860,
+      "end_char": 51870
+    },
+    {
+      "text": "I.A. Nos.3 to 6",
+      "label": "CASE_NUMBER",
+      "start_char": 51881,
+      "end_char": 51896
+    },
+    {
+      "text": "Additional City Civil & Sessions Judge, Commercial Division, Bangalore(CCH-86)",
+      "label": "COURT",
+      "start_char": 51914,
+      "end_char": 51992
+    },
+    {
+      "text": "Commercial Original Suit No.1594/2022",
+      "label": "CASE_NUMBER",
+      "start_char": 51996,
+      "end_char": 52033
+    },
+    {
+      "text": "Abhishek Manu Singhvi",
+      "label": "LAWYER",
+      "start_char": 52306,
+      "end_char": 52327
+    },
+    {
+      "text": "09.11.2022",
+      "label": "DATE",
+      "start_char": 52435,
+      "end_char": 52445
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 53001,
+      "end_char": 53022
+    },
+    {
+      "text": "Abhishek Manu Singhvi",
+      "label": "LAWYER",
+      "start_char": 53090,
+      "end_char": 53111
+    },
+    {
+      "text": "07.11.2022",
+      "label": "DATE",
+      "start_char": 53958,
+      "end_char": 53968
+    },
+    {
+      "text": "I.A.Nos.3/2022, 4/2022, 5/2022 and 6/2022",
+      "label": "PRECEDENT",
+      "start_char": 53976,
+      "end_char": 54017
+    },
+    {
+      "text": "Additional City Civil & Sessions Judge, Commercial Division, Bangalore(CCH-86)",
+      "label": "COURT",
+      "start_char": 54035,
+      "end_char": 54113
+    },
+    {
+      "text": "Commercial Original Suit No.1594/2022",
+      "label": "CASE_NUMBER",
+      "start_char": 54117,
+      "end_char": 54154
+    },
+    {
+      "text": "YouTube",
+      "label": "GPE",
+      "start_char": 54333,
+      "end_char": 54340
+    },
+    {
+      "text": "Instagram",
+      "label": "GPE",
+      "start_char": 54345,
+      "end_char": 54354
+    },
+    {
+      "text": "6/2022",
+      "label": "DATE",
+      "start_char": 54421,
+      "end_char": 54427
+    }
+  ],
+  "precedent_clusters": {
+    "A. Venkata Subbaiah Naidu v. S. Chellappan and Others, (2000) 7": [
+      "Ltd., vs. Smt",
+      "Procter and Gamble Home Products Private Limited vs. Marico Ltd., and others",
+      "A. Venkata Subbaiah Naidu v. S. Chellappan and Others, (2000) 7",
+      "Procter & Gamble Home Products Private Limited v. Marico Limited and Ors",
+      "Dorab Cawasji Warden v. Coomi Sorab Warden",
+      "Deoraj v. State of Maharashtra",
+      "Vedant Fashions Pvt. Ltd., v. Smt",
+      "Mr. R.K. Jain v. Sri",
+      "Shiv Kumar Chadha v. Municipal Corporation of Delhi",
+      "Taylor v. Taylor and Nazir Ahmed v. Emperor",
+      "Ramchandra Keshav Adke V. Govind Joti Chavare",
+      "I.A.Nos.3/2022, 4/2022, 5/2022 and 6/2022"
+    ],
+    "Paramvah Studios Pvt. Ltd., and another vs. Lahari Recording Company reported in ILR 2017 KAR 1795": [
+      "Paramvah Studios Pvt. Ltd., and another vs. Lahari Recording Company reported in ILR 2017 KAR 1795",
+      "Paramvah Studios Pvt. Ltd., and Another v. Lahari Recording Company, ILR 2017 KAR 1795"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Order 39 Rule 1 and 2 r/w 79",
+      "IT Act",
+      "Order 39 Rule 1 and 2 r/w 79",
+      "IT Act"
+    ],
+    [
+      "Rule 3 of Order XXXIX",
+      "C.P.C.",
+      "Rule 3 of Order XXXIX",
+      "C.P.C."
+    ],
+    [
+      "Rule 3 of Order XXXIX",
+      "C.P.C.",
+      "Rule 3 of Order XXXIX",
+      "C.P.C."
+    ],
+    [
+      "Order 39 Rule 3",
+      "CPC",
+      "Order 39 Rule 3",
+      "CPC"
+    ],
+    [
+      "section 13(1A)",
+      "Commercial Courts Act, 2015",
+      "section 13(1A)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Order 39 Rule 3A",
+      "C.P.C.",
+      "Order 39 Rule 3A",
+      "C.P.C."
+    ],
+    [
+      "Section 13(1A)",
+      "Commercial Courts Act, 2015",
+      "Section 13(1A)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "section 37",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "section 37",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act, 2015",
+      "Section 13",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Order 43",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "Order 43",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 13",
+      "Amendment Act (28 of 2018)",
+      "Section 13",
+      "Amendment Act (28 of 2018)"
+    ],
+    [
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "section 37",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "section 37",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)"
+    ],
+    [
+      "Section 13(1A)",
+      "Commercial Courts Act",
+      "Section 13(1A)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13(1A)",
+      "Commercial Courts Act",
+      "Section 13(1A)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13(1A)",
+      "Commercial Courts Act",
+      "Section 13(1A)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order XXXIX Rule 3",
+      "CPC",
+      "Order XXXIX Rule 3",
+      "CPC"
+    ],
+    [
+      "Rule 3",
+      "CPC",
+      "Rule 3",
+      "CPC"
+    ],
+    [
+      "Order XXXIX Rule 1 and 2",
+      "CPC",
+      "Order XXXIX Rule 1 and 2",
+      "CPC"
+    ],
+    [
+      "Order 39 rule 3(A)",
+      "CPC",
+      "Order 39 rule 3(A)",
+      "CPC"
+    ],
+    [
+      "Rule 3 of Order XXXIX",
+      "CPC",
+      "Rule 3 of Order XXXIX",
+      "CPC"
+    ],
+    [
+      "Order 39, Rules 1 and 2",
+      "CPC",
+      "Order 39, Rules 1 and 2",
+      "CPC"
+    ],
+    [
+      "O. 39 Rules 1 and 2",
+      "CPC",
+      "O. 39 Rules 1 and 2",
+      "CPC"
+    ],
+    [
+      "Order 39, Rule 3",
+      "CPC",
+      "Order 39, Rule 3",
+      "CPC"
+    ],
+    [
+      "Order XXXIX Rule 3",
+      "Code of Civil Procedure",
+      "Order XXXIX Rule 3",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Order XXXIX Rule 3",
+      "Code of Civil Procedure",
+      "Order XXXIX Rule 3",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Order XXXIX Rule 3",
+      "Code of Civil Procedure",
+      "Order XXXIX Rule 3",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Rule 3",
+      "CPC",
+      "Rule 3",
+      "CPC"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act, 2015",
+      "Section 13",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "rule 1, rule 2 [rule 2A], rule 4 or rule 10 of Order XXXIX",
+      "C.P.C.",
+      "rule 1, rule 2 [rule 2A], rule 4 or rule 10 of Order XXXIX",
+      "C.P.C."
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act, 2015",
+      "Section 13",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Order XXXIX Rules 1 and 2",
+      "CPC",
+      "Order XXXIX Rules 1 and 2",
+      "CPC"
+    ],
+    [
+      "Order XXXIX of Rule 3",
+      "CPC",
+      "Order XXXIX of Rule 3",
+      "CPC"
+    ],
+    [
+      "Order 39, Rule 3",
+      "CPC",
+      "Order 39, Rule 3",
+      "CPC"
+    ],
+    [
+      "Order 39, Rules 1 and 2",
+      "CPC",
+      "Order 39, Rules 1 and 2",
+      "CPC"
+    ],
+    [
+      "Rule 3 of Order 39",
+      "CPC",
+      "Rule 3 of Order 39",
+      "CPC"
+    ],
+    [
+      "Rule 3",
+      "CPC",
+      "Rule 3",
+      "CPC"
+    ],
+    [
+      "Rule 3",
+      "CPC",
+      "Rule 3",
+      "CPC"
+    ],
+    [
+      "Rule 3 of Order 39",
+      "CPC",
+      "Rule 3 of Order 39",
+      "CPC"
+    ],
+    [
+      "Rule 3",
+      "CPC",
+      "Rule 3",
+      "CPC"
+    ],
+    [
+      "Rule 3 of Order 39",
+      "CPC",
+      "Rule 3 of Order 39",
+      "CPC"
+    ],
+    [
+      "Rule 3 of Order 39",
+      "CPC",
+      "Rule 3 of Order 39",
+      "CPC"
+    ],
+    [
+      "Rule 3",
+      "CPC",
+      "Rule 3",
+      "CPC"
+    ],
+    [
+      "Rule 3",
+      "CPC",
+      "Rule 3",
+      "CPC"
+    ],
+    [
+      "Rule 3 of Order 39",
+      "CPC",
+      "Rule 3 of Order 39",
+      "CPC"
+    ],
+    [
+      "Rule 3",
+      "CPC",
+      "Rule 3",
+      "CPC"
+    ],
+    [
+      "Rule 3 of Order 39",
+      "CPC",
+      "Rule 3 of Order 39",
+      "CPC"
+    ],
+    [
+      "SCC 695",
+      "CPC",
+      "SCC 695",
+      "CPC"
+    ],
+    [
+      "Rule 3A",
+      "Commercial Courts Act, 2015",
+      "Rule 3A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Order XLI Rule 1",
+      "C.P.C.",
+      "Order XLI Rule 1",
+      "C.P.C."
+    ],
+    [
+      "Order XLIII R(1)(r)",
+      "C.P.C.",
+      "Order XLIII R(1)(r)",
+      "C.P.C."
+    ],
+    [
+      "Section-13",
+      "Commercial Courts Act, 2015",
+      "Section-13",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "order 39 rule 1 & 2",
+      "CPC",
+      "order 39 rule 1 & 2",
+      "CPC"
+    ]
+  ],
+  "precedent_counts": {
+    "A. Venkata Subbaiah Naidu v. S. Chellappan and Others, (2000) 7": 12,
+    "Paramvah Studios Pvt. Ltd., and another vs. Lahari Recording Company reported in ILR 2017 KAR 1795": 2
+  },
+  "provision_counts": {
+    "Order 39 Rule 1 and 2 r/w 79 of IT Act": 1,
+    "Rule 3 of Order XXXIX of C.P.C.": 2,
+    "Order 39 Rule 3 of CPC": 1,
+    "section 13(1A) of Commercial Courts Act, 2015": 1,
+    "Order 39 Rule 3A of C.P.C.": 1,
+    "Section 13(1A) of Commercial Courts Act, 2015": 1,
+    "Order XLIII of Code of Civil Procedure, 1908 (5 of 1908)": 2,
+    "section 37 of Arbitration and Conciliation Act, 1996 (26 of 1996)": 2,
+    "Section 13 of Commercial Courts Act, 2015": 3,
+    "Order 43 of Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Section 37 of Arbitration and Conciliation Act, 1996": 1,
+    "Section 13 of Amendment Act (28 of 2018)": 1,
+    "Section 13(1A) of Commercial Courts Act": 3,
+    "Order XXXIX Rule 3 of CPC": 1,
+    "Rule 3 of CPC": 8,
+    "Order XXXIX Rule 1 and 2 of CPC": 1,
+    "Order 39 rule 3(A) of CPC": 1,
+    "Rule 3 of Order XXXIX of CPC": 1,
+    "Order 39, Rules 1 and 2 of CPC": 2,
+    "O. 39 Rules 1 and 2 of CPC": 1,
+    "Order 39, Rule 3 of CPC": 2,
+    "Order XXXIX Rule 3 of Code of Civil Procedure": 3,
+    "rule 1, rule 2 [rule 2A], rule 4 or rule 10 of Order XXXIX of C.P.C.": 1,
+    "Order XXXIX Rules 1 and 2 of CPC": 1,
+    "Order XXXIX of Rule 3 of CPC": 1,
+    "Rule 3 of Order 39 of CPC": 6,
+    "SCC 695 of CPC": 1,
+    "Rule 3A of Commercial Courts Act, 2015": 1,
+    "Order XLI Rule 1 of C.P.C.": 1,
+    "Order XLIII R(1)(r) of C.P.C.": 1,
+    "Section-13 of Commercial Courts Act, 2015": 1,
+    "order 39 rule 1 & 2 of CPC": 1
+  },
+  "statute_counts": {
+    "IT Act": 1,
+    "C.P.C.": 6,
+    "CPC": 28,
+    "Commercial Courts Act, 2015": 7,
+    "Code of Civil Procedure, 1908 (5 of 1908)": 3,
+    "Arbitration and Conciliation Act, 1996 (26 of 1996)": 2,
+    "Arbitration and Conciliation Act, 1996": 1,
+    "Amendment Act (28 of 2018)": 1,
+    "Commercial Courts Act": 3,
+    "Code of Civil Procedure": 3
+  }
+}

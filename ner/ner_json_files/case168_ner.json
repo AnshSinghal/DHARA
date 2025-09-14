@@ -1,0 +1,6171 @@
+{
+  "entities": [
+    {
+      "text": "Sikkim High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 17
+    },
+    {
+      "text": "Sikkim Power Development Corporation",
+      "label": "PETITIONER",
+      "start_char": 18,
+      "end_char": 54
+    },
+    {
+      "text": "Amalgamated Transpower(India) Ltd",
+      "label": "RESPONDENT",
+      "start_char": 66,
+      "end_char": 99
+    },
+    {
+      "text": "Bhaskar Raj Pradhan",
+      "label": "JUDGE",
+      "start_char": 138,
+      "end_char": 157
+    },
+    {
+      "text": "High Court Of Sikkim : Gangtok",
+      "label": "COURT",
+      "start_char": 164,
+      "end_char": 194
+    },
+    {
+      "text": "Biswanath Somadder",
+      "label": "JUDGE",
+      "start_char": 370,
+      "end_char": 388
+    },
+    {
+      "text": "Bhaskar Raj Pradhan",
+      "label": "JUDGE",
+      "start_char": 445,
+      "end_char": 464
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "PETITIONER",
+      "start_char": 605,
+      "end_char": 646
+    },
+    {
+      "text": "State of Sikkim",
+      "label": "PETITIONER",
+      "start_char": 766,
+      "end_char": 781
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 1044,
+      "end_char": 1079
+    },
+    {
+      "text": "Commercial Court, East                        Sikkim, Gangtok",
+      "label": "COURT",
+      "start_char": 1399,
+      "end_char": 1460
+    },
+    {
+      "text": "Jishnu Saha",
+      "label": "LAWYER",
+      "start_char": 1588,
+      "end_char": 1599
+    },
+    {
+      "text": "Tarun Johri",
+      "label": "LAWYER",
+      "start_char": 1626,
+      "end_char": 1637
+    },
+    {
+      "text": "Aarohi Bhalla",
+      "label": "LAWYER",
+      "start_char": 1643,
+      "end_char": 1656
+    },
+    {
+      "text": "Tamanna Chhetri",
+      "label": "LAWYER",
+      "start_char": 1664,
+      "end_char": 1679
+    },
+    {
+      "text": "Tenzing Thinlay Lepcha",
+      "label": "LAWYER",
+      "start_char": 1685,
+      "end_char": 1707
+    },
+    {
+      "text": "Vidhan Vyas",
+      "label": "LAWYER",
+      "start_char": 1713,
+      "end_char": 1724
+    },
+    {
+      "text": "Tanish Ganeriwala",
+      "label": "LAWYER",
+      "start_char": 1732,
+      "end_char": 1749
+    },
+    {
+      "text": "Vishwajeet Tyagi",
+      "label": "LAWYER",
+      "start_char": 1758,
+      "end_char": 1774
+    },
+    {
+      "text": "Prasanna Kumar Das",
+      "label": "OTHER_PERSON",
+      "start_char": 1816,
+      "end_char": 1834
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 2132,
+      "end_char": 2173
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 2185,
+      "end_char": 2220
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "PETITIONER",
+      "start_char": 2322,
+      "end_char": 2357
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 2366,
+      "end_char": 2407
+    },
+    {
+      "text": "Arbitration Appeal No. 1 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 2435,
+      "end_char": 2467
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "ORG",
+      "start_char": 2476,
+      "end_char": 2511
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 2634,
+      "end_char": 2643
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 2786,
+      "end_char": 2827
+    },
+    {
+      "text": "Gangtok",
+      "label": "GPE",
+      "start_char": 2908,
+      "end_char": 2915
+    },
+    {
+      "text": "Sikkim",
+      "label": "GPE",
+      "start_char": 2917,
+      "end_char": 2923
+    },
+    {
+      "text": "State of Sikkim",
+      "label": "ORG",
+      "start_char": 2948,
+      "end_char": 2963
+    },
+    {
+      "text": "Gangtok",
+      "label": "GPE",
+      "start_char": 3109,
+      "end_char": 3116
+    },
+    {
+      "text": "Sikkim",
+      "label": "GPE",
+      "start_char": 3118,
+      "end_char": 3124
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 3187,
+      "end_char": 3197
+    },
+    {
+      "text": "Arbitration & Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 3205,
+      "end_char": 3241
+    },
+    {
+      "text": "section 96",
+      "label": "PROVISION",
+      "start_char": 3254,
+      "end_char": 3264
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 3272,
+      "end_char": 3301
+    },
+    {
+      "text": "Prasanna Kumar Das",
+      "label": "OTHER_PERSON",
+      "start_char": 3388,
+      "end_char": 3406
+    },
+    {
+      "text": "Jishnu Saha",
+      "label": "LAWYER",
+      "start_char": 3470,
+      "end_char": 3481
+    },
+    {
+      "text": "Tarun Johri",
+      "label": "LAWYER",
+      "start_char": 3508,
+      "end_char": 3519
+    },
+    {
+      "text": "Aarohi Bhalla",
+      "label": "LAWYER",
+      "start_char": 3525,
+      "end_char": 3538
+    },
+    {
+      "text": "Tamanna Chhetri",
+      "label": "LAWYER",
+      "start_char": 3544,
+      "end_char": 3559
+    },
+    {
+      "text": "Tenzing Thinlay Lepcha",
+      "label": "LAWYER",
+      "start_char": 3565,
+      "end_char": 3587
+    },
+    {
+      "text": "Vidhan Vyas",
+      "label": "LAWYER",
+      "start_char": 3593,
+      "end_char": 3604
+    },
+    {
+      "text": "Tanish Ganeriwala",
+      "label": "LAWYER",
+      "start_char": 3610,
+      "end_char": 3627
+    },
+    {
+      "text": "Vishwajeet Tyagi",
+      "label": "LAWYER",
+      "start_char": 3636,
+      "end_char": 3652
+    },
+    {
+      "text": "Arbitration Appeal No. 1 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 4138,
+      "end_char": 4170
+    },
+    {
+      "text": "Sikkim Power Development Corporation Limited",
+      "label": "ORG",
+      "start_char": 4180,
+      "end_char": 4224
+    },
+    {
+      "text": "State of Sikkim",
+      "label": "ORG",
+      "start_char": 4240,
+      "end_char": 4255
+    },
+    {
+      "text": "Arbitration Appeal No. 1 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 4266,
+      "end_char": 4298
+    },
+    {
+      "text": "Amalgamated Transpower (India) Limited",
+      "label": "ORG",
+      "start_char": 4308,
+      "end_char": 4346
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 4445,
+      "end_char": 4455
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 4479,
+      "end_char": 4520
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 4532,
+      "end_char": 4567
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 4570,
+      "end_char": 4613
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 4614,
+      "end_char": 4655
+    },
+    {
+      "text": "Conciliation Act, 1996 (Arbitration Act)",
+      "label": "STATUTE",
+      "start_char": 4663,
+      "end_char": 4703
+    },
+    {
+      "text": "26.12.2019",
+      "label": "DATE",
+      "start_char": 4732,
+      "end_char": 4742
+    },
+    {
+      "text": "Commercial Court, East Sikkim",
+      "label": "COURT",
+      "start_char": 4785,
+      "end_char": 4814
+    },
+    {
+      "text": "Gangtok",
+      "label": "GPE",
+      "start_char": 4819,
+      "end_char": 4826
+    },
+    {
+      "text": "Arbitration Case No. 05 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 4853,
+      "end_char": 4884
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 4902,
+      "end_char": 4912
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 4920,
+      "end_char": 4935
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 4939,
+      "end_char": 4980
+    },
+    {
+      "text": "State of Sikkim",
+      "label": "ORG",
+      "start_char": 4996,
+      "end_char": 5011
+    },
+    {
+      "text": "Arbitration Appeal No. 1 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 5038,
+      "end_char": 5070
+    },
+    {
+      "text": "30.09.2017",
+      "label": "DATE",
+      "start_char": 5083,
+      "end_char": 5093
+    },
+    {
+      "text": "Amalgamated Transpower (India) Limited",
+      "label": "ORG",
+      "start_char": 5259,
+      "end_char": 5297
+    },
+    {
+      "text": "30.09.2017",
+      "label": "DATE",
+      "start_char": 5889,
+      "end_char": 5899
+    },
+    {
+      "text": "Arbitration Appeal No.1 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 6181,
+      "end_char": 6212
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 6214,
+      "end_char": 6218
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 6361,
+      "end_char": 6402
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 6414,
+      "end_char": 6449
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 6452,
+      "end_char": 6495
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 6496,
+      "end_char": 6537
+    },
+    {
+      "text": "Amalgamated Transpower (India) Limited",
+      "label": "ORG",
+      "start_char": 6553,
+      "end_char": 6591
+    },
+    {
+      "text": "Arbitration Appeal No. 1 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 6619,
+      "end_char": 6651
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 6699,
+      "end_char": 6703
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 6879,
+      "end_char": 6883
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 7136,
+      "end_char": 7140
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 7325,
+      "end_char": 7329
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 7539,
+      "end_char": 7543
+    },
+    {
+      "text": "28.12.2017",
+      "label": "DATE",
+      "start_char": 7556,
+      "end_char": 7566
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 7568,
+      "end_char": 7572
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 7612,
+      "end_char": 7622
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 7630,
+      "end_char": 7645
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 7654,
+      "end_char": 7658
+    },
+    {
+      "text": "22.12.1998",
+      "label": "DATE",
+      "start_char": 7786,
+      "end_char": 7796
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 7822,
+      "end_char": 7826
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 7935,
+      "end_char": 7939
+    },
+    {
+      "text": "05.01.1999",
+      "label": "DATE",
+      "start_char": 7961,
+      "end_char": 7971
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 7993,
+      "end_char": 7997
+    },
+    {
+      "text": "11.03.1999",
+      "label": "DATE",
+      "start_char": 8025,
+      "end_char": 8035
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 8040,
+      "end_char": 8081
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 8093,
+      "end_char": 8128
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 8131,
+      "end_char": 8174
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 8175,
+      "end_char": 8216
+    },
+    {
+      "text": "18.04.1999",
+      "label": "DATE",
+      "start_char": 8364,
+      "end_char": 8374
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 8417,
+      "end_char": 8421
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 8435,
+      "end_char": 8439
+    },
+    {
+      "text": "Ralong",
+      "label": "GPE",
+      "start_char": 8555,
+      "end_char": 8561
+    },
+    {
+      "text": "Chakungchu",
+      "label": "GPE",
+      "start_char": 8598,
+      "end_char": 8608
+    },
+    {
+      "text": "Sikkim",
+      "label": "GPE",
+      "start_char": 8730,
+      "end_char": 8736
+    },
+    {
+      "text": "03.07.1999",
+      "label": "DATE",
+      "start_char": 9046,
+      "end_char": 9056
+    },
+    {
+      "text": "22.01.2002",
+      "label": "DATE",
+      "start_char": 9260,
+      "end_char": 9270
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 9272,
+      "end_char": 9276
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 9339,
+      "end_char": 9343
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 9480,
+      "end_char": 9484
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 9557,
+      "end_char": 9561
+    },
+    {
+      "text": "21.12.2002",
+      "label": "DATE",
+      "start_char": 9573,
+      "end_char": 9583
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 9745,
+      "end_char": 9786
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 9798,
+      "end_char": 9833
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 9836,
+      "end_char": 9879
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 9880,
+      "end_char": 9921
+    },
+    {
+      "text": "Ralong",
+      "label": "WITNESS",
+      "start_char": 10330,
+      "end_char": 10336
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 10387,
+      "end_char": 10391
+    },
+    {
+      "text": "19.02.2003",
+      "label": "DATE",
+      "start_char": 10396,
+      "end_char": 10406
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 10777,
+      "end_char": 10781
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 11031,
+      "end_char": 11035
+    },
+    {
+      "text": "02.09.2003",
+      "label": "DATE",
+      "start_char": 11074,
+      "end_char": 11084
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 11247,
+      "end_char": 11251
+    },
+    {
+      "text": "Rolep",
+      "label": "OTHER_PERSON",
+      "start_char": 11287,
+      "end_char": 11292
+    },
+    {
+      "text": "Ralong",
+      "label": "WITNESS",
+      "start_char": 11294,
+      "end_char": 11300
+    },
+    {
+      "text": "Chakungchu",
+      "label": "WITNESS",
+      "start_char": 11305,
+      "end_char": 11315
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 11442,
+      "end_char": 11446
+    },
+    {
+      "text": "Rolep HEP",
+      "label": "ORG",
+      "start_char": 11474,
+      "end_char": 11483
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 11522,
+      "end_char": 11563
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 11575,
+      "end_char": 11610
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 11613,
+      "end_char": 11656
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 11657,
+      "end_char": 11698
+    },
+    {
+      "text": "06.05.2003",
+      "label": "DATE",
+      "start_char": 11742,
+      "end_char": 11752
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 12022,
+      "end_char": 12026
+    },
+    {
+      "text": "Ralong",
+      "label": "WITNESS",
+      "start_char": 12146,
+      "end_char": 12152
+    },
+    {
+      "text": "Chakungchu",
+      "label": "WITNESS",
+      "start_char": 12161,
+      "end_char": 12171
+    },
+    {
+      "text": "Rolep HEP",
+      "label": "ORG",
+      "start_char": 12216,
+      "end_char": 12225
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 12243,
+      "end_char": 12247
+    },
+    {
+      "text": "Rolep",
+      "label": "GPE",
+      "start_char": 12305,
+      "end_char": 12310
+    },
+    {
+      "text": "29.05.2004",
+      "label": "DATE",
+      "start_char": 12338,
+      "end_char": 12348
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 12436,
+      "end_char": 12440
+    },
+    {
+      "text": "21.08.2003",
+      "label": "DATE",
+      "start_char": 12655,
+      "end_char": 12665
+    },
+    {
+      "text": "14.11.2003",
+      "label": "DATE",
+      "start_char": 12667,
+      "end_char": 12677
+    },
+    {
+      "text": "09.03.2004",
+      "label": "DATE",
+      "start_char": 12679,
+      "end_char": 12689
+    },
+    {
+      "text": "26.04.2004",
+      "label": "DATE",
+      "start_char": 12691,
+      "end_char": 12701
+    },
+    {
+      "text": "23.07.2004",
+      "label": "DATE",
+      "start_char": 12703,
+      "end_char": 12713
+    },
+    {
+      "text": "15.10.2004",
+      "label": "DATE",
+      "start_char": 12719,
+      "end_char": 12729
+    },
+    {
+      "text": "09.03.2004",
+      "label": "DATE",
+      "start_char": 13024,
+      "end_char": 13034
+    },
+    {
+      "text": "15.10.2004",
+      "label": "DATE",
+      "start_char": 13039,
+      "end_char": 13049
+    },
+    {
+      "text": "Larsen and Toubro Limited",
+      "label": "ORG",
+      "start_char": 13102,
+      "end_char": 13127
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 13394,
+      "end_char": 13435
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 13447,
+      "end_char": 13482
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 13485,
+      "end_char": 13528
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 13529,
+      "end_char": 13570
+    },
+    {
+      "text": "22.06.2006",
+      "label": "DATE",
+      "start_char": 13694,
+      "end_char": 13704
+    },
+    {
+      "text": "SoS",
+      "label": "ORG",
+      "start_char": 13706,
+      "end_char": 13709
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 13735,
+      "end_char": 13739
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 13867,
+      "end_char": 13871
+    },
+    {
+      "text": "31.07.2006",
+      "label": "DATE",
+      "start_char": 13962,
+      "end_char": 13972
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 14011,
+      "end_char": 14015
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 14087,
+      "end_char": 14091
+    },
+    {
+      "text": "10.07.2006",
+      "label": "DATE",
+      "start_char": 14096,
+      "end_char": 14106
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 14128,
+      "end_char": 14132
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 14255,
+      "end_char": 14259
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 14447,
+      "end_char": 14451
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 14502,
+      "end_char": 14506
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 14603,
+      "end_char": 14607
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 14657,
+      "end_char": 14661
+    },
+    {
+      "text": "10.07.2006",
+      "label": "DATE",
+      "start_char": 14665,
+      "end_char": 14675
+    },
+    {
+      "text": "31.07.2006",
+      "label": "DATE",
+      "start_char": 14734,
+      "end_char": 14744
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 14802,
+      "end_char": 14806
+    },
+    {
+      "text": "02.05.2008",
+      "label": "DATE",
+      "start_char": 14862,
+      "end_char": 14872
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 14891,
+      "end_char": 14895
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 14956,
+      "end_char": 14960
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 15112,
+      "end_char": 15125
+    },
+    {
+      "text": "05.12.2011",
+      "label": "DATE",
+      "start_char": 15159,
+      "end_char": 15169
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 15172,
+      "end_char": 15213
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 15225,
+      "end_char": 15260
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 15263,
+      "end_char": 15306
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 15307,
+      "end_char": 15348
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 15427,
+      "end_char": 15431
+    },
+    {
+      "text": "08.06.2012",
+      "label": "DATE",
+      "start_char": 15465,
+      "end_char": 15475
+    },
+    {
+      "text": "09.09.2012",
+      "label": "DATE",
+      "start_char": 15480,
+      "end_char": 15490
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 15492,
+      "end_char": 15496
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 15557,
+      "end_char": 15561
+    },
+    {
+      "text": "24.11.2012",
+      "label": "DATE",
+      "start_char": 15585,
+      "end_char": 15595
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 15597,
+      "end_char": 15601
+    },
+    {
+      "text": "08.06.2013",
+      "label": "DATE",
+      "start_char": 15641,
+      "end_char": 15651
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 15656,
+      "end_char": 15660
+    },
+    {
+      "text": "24.08.2013",
+      "label": "DATE",
+      "start_char": 15682,
+      "end_char": 15692
+    },
+    {
+      "text": "13.09.2017",
+      "label": "DATE",
+      "start_char": 15718,
+      "end_char": 15728
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 15730,
+      "end_char": 15734
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 15783,
+      "end_char": 15793
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 15801,
+      "end_char": 15816
+    },
+    {
+      "text": "26.12.2019",
+      "label": "DATE",
+      "start_char": 15921,
+      "end_char": 15931
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 16007,
+      "end_char": 16011
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 16088,
+      "end_char": 16092
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 16207,
+      "end_char": 16211
+    },
+    {
+      "text": "15.10.2004",
+      "label": "DATE",
+      "start_char": 16256,
+      "end_char": 16266
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 16425,
+      "end_char": 16429
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 16611,
+      "end_char": 16615
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 16688,
+      "end_char": 16692
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 16784,
+      "end_char": 16788
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 16902,
+      "end_char": 16943
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 16955,
+      "end_char": 16990
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 16993,
+      "end_char": 17036
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 17037,
+      "end_char": 17078
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 17468,
+      "end_char": 17472
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 17733,
+      "end_char": 17737
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 17766,
+      "end_char": 17770
+    },
+    {
+      "text": "02.05.2008",
+      "label": "DATE",
+      "start_char": 17966,
+      "end_char": 17976
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 18177,
+      "end_char": 18181
+    },
+    {
+      "text": "09.03.2004",
+      "label": "DATE",
+      "start_char": 18231,
+      "end_char": 18241
+    },
+    {
+      "text": "26.04.2004",
+      "label": "DATE",
+      "start_char": 18246,
+      "end_char": 18256
+    },
+    {
+      "text": "15.10.2004",
+      "label": "DATE",
+      "start_char": 18325,
+      "end_char": 18335
+    },
+    {
+      "text": "09.03.2004",
+      "label": "DATE",
+      "start_char": 18460,
+      "end_char": 18470
+    },
+    {
+      "text": "26.04.2004",
+      "label": "DATE",
+      "start_char": 18472,
+      "end_char": 18482
+    },
+    {
+      "text": "15.10.2004",
+      "label": "DATE",
+      "start_char": 18487,
+      "end_char": 18497
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 18646,
+      "end_char": 18650
+    },
+    {
+      "text": "section 63",
+      "label": "PROVISION",
+      "start_char": 18720,
+      "end_char": 18730
+    },
+    {
+      "text": "Indian Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 18738,
+      "end_char": 18786
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 18798,
+      "end_char": 18833
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 18836,
+      "end_char": 18879
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 18880,
+      "end_char": 18921
+    },
+    {
+      "text": "Contract Act, 1872",
+      "label": "STATUTE",
+      "start_char": 18929,
+      "end_char": 18947
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 18979,
+      "end_char": 18983
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 19038,
+      "end_char": 19042
+    },
+    {
+      "text": "Rolep",
+      "label": "OTHER_PERSON",
+      "start_char": 19087,
+      "end_char": 19092
+    },
+    {
+      "text": "Chakungchu",
+      "label": "WITNESS",
+      "start_char": 19097,
+      "end_char": 19107
+    },
+    {
+      "text": "09.03.2004",
+      "label": "DATE",
+      "start_char": 19184,
+      "end_char": 19194
+    },
+    {
+      "text": "26.04.2004",
+      "label": "DATE",
+      "start_char": 19199,
+      "end_char": 19209
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 19271,
+      "end_char": 19275
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 19341,
+      "end_char": 19345
+    },
+    {
+      "text": "15.10.2004",
+      "label": "DATE",
+      "start_char": 19434,
+      "end_char": 19444
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 19550,
+      "end_char": 19554
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 19858,
+      "end_char": 19862
+    },
+    {
+      "text": "Rolep Hydro Electric Power Co. Ltd.",
+      "label": "ORG",
+      "start_char": 19970,
+      "end_char": 20005
+    },
+    {
+      "text": "Velankani Renewable Energy Pvt. Ltd.",
+      "label": "ORG",
+      "start_char": 20010,
+      "end_char": 20046
+    },
+    {
+      "text": "22.06.2006",
+      "label": "DATE",
+      "start_char": 20183,
+      "end_char": 20193
+    },
+    {
+      "text": "02.05.2008",
+      "label": "DATE",
+      "start_char": 20215,
+      "end_char": 20225
+    },
+    {
+      "text": "09.03.2004",
+      "label": "DATE",
+      "start_char": 20397,
+      "end_char": 20407
+    },
+    {
+      "text": "26.04.2004",
+      "label": "DATE",
+      "start_char": 20409,
+      "end_char": 20419
+    },
+    {
+      "text": "15.10.2004",
+      "label": "DATE",
+      "start_char": 20424,
+      "end_char": 20434
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 20469,
+      "end_char": 20510
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 20522,
+      "end_char": 20557
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 20560,
+      "end_char": 20603
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 20604,
+      "end_char": 20645
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 21161,
+      "end_char": 21165
+    },
+    {
+      "text": "09.03.2004",
+      "label": "DATE",
+      "start_char": 21262,
+      "end_char": 21272
+    },
+    {
+      "text": "26.04.2004",
+      "label": "DATE",
+      "start_char": 21274,
+      "end_char": 21284
+    },
+    {
+      "text": "15.10.2004",
+      "label": "DATE",
+      "start_char": 21289,
+      "end_char": 21299
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 21353,
+      "end_char": 21357
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 21414,
+      "end_char": 21418
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 21503,
+      "end_char": 21507
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 21564,
+      "end_char": 21568
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 22251,
+      "end_char": 22292
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 22304,
+      "end_char": 22339
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 22342,
+      "end_char": 22385
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 22386,
+      "end_char": 22427
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 22638,
+      "end_char": 22642
+    },
+    {
+      "text": "02.05.2008",
+      "label": "DATE",
+      "start_char": 22737,
+      "end_char": 22747
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 22841,
+      "end_char": 22845
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 23048,
+      "end_char": 23052
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 23179,
+      "end_char": 23189
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 23197,
+      "end_char": 23212
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 23226,
+      "end_char": 23230
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 23303,
+      "end_char": 23307
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 23321,
+      "end_char": 23325
+    },
+    {
+      "text": "21.12.2002",
+      "label": "DATE",
+      "start_char": 23329,
+      "end_char": 23339
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 23540,
+      "end_char": 23544
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 23687,
+      "end_char": 23691
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 23705,
+      "end_char": 23709
+    },
+    {
+      "text": "Rolep",
+      "label": "OTHER_PERSON",
+      "start_char": 23840,
+      "end_char": 23845
+    },
+    {
+      "text": "Ralong",
+      "label": "WITNESS",
+      "start_char": 23847,
+      "end_char": 23853
+    },
+    {
+      "text": "Chakungchu",
+      "label": "WITNESS",
+      "start_char": 23858,
+      "end_char": 23868
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 23898,
+      "end_char": 23939
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 23951,
+      "end_char": 23986
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 23989,
+      "end_char": 24032
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 24033,
+      "end_char": 24074
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 24146,
+      "end_char": 24150
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 24954,
+      "end_char": 24958
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 25176,
+      "end_char": 25180
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 25349,
+      "end_char": 25353
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 25509,
+      "end_char": 25513
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 25610,
+      "end_char": 25614
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 25637,
+      "end_char": 25678
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 25690,
+      "end_char": 25725
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 25728,
+      "end_char": 25771
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 25772,
+      "end_char": 25813
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 25833,
+      "end_char": 25837
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 25896,
+      "end_char": 25900
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 25967,
+      "end_char": 25971
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 26028,
+      "end_char": 26032
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 26131,
+      "end_char": 26135
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 26144,
+      "end_char": 26148
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 26260,
+      "end_char": 26264
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 26274,
+      "end_char": 26278
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 26350,
+      "end_char": 26354
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 26445,
+      "end_char": 26449
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 26497,
+      "end_char": 26501
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 26638,
+      "end_char": 26642
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 26671,
+      "end_char": 26675
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 26788,
+      "end_char": 26792
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 26837,
+      "end_char": 26841
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 26932,
+      "end_char": 26936
+    },
+    {
+      "text": "Government of Sikkim",
+      "label": "ORG",
+      "start_char": 27023,
+      "end_char": 27043
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 27168,
+      "end_char": 27172
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 27197,
+      "end_char": 27201
+    },
+    {
+      "text": "Government of India",
+      "label": "ORG",
+      "start_char": 27260,
+      "end_char": 27279
+    },
+    {
+      "text": "Sikkim",
+      "label": "GPE",
+      "start_char": 27307,
+      "end_char": 27313
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 27319,
+      "end_char": 27323
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 27375,
+      "end_char": 27416
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 27428,
+      "end_char": 27463
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 27466,
+      "end_char": 27509
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 27510,
+      "end_char": 27551
+    },
+    {
+      "text": "ATPL",
+      "label": "COURT",
+      "start_char": 27567,
+      "end_char": 27571
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 28003,
+      "end_char": 28007
+    },
+    {
+      "text": "Ralong",
+      "label": "GPE",
+      "start_char": 28970,
+      "end_char": 28976
+    },
+    {
+      "text": "Jishnu Saha",
+      "label": "LAWYER",
+      "start_char": 29700,
+      "end_char": 29711
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 29751,
+      "end_char": 29755
+    },
+    {
+      "text": "sections 34",
+      "label": "PROVISION",
+      "start_char": 29800,
+      "end_char": 29811
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 29816,
+      "end_char": 29857
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 29869,
+      "end_char": 29904
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 29907,
+      "end_char": 29950
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 29951,
+      "end_char": 29992
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 30010,
+      "end_char": 30025
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 30068,
+      "end_char": 30081
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 30514,
+      "end_char": 30518
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 30577,
+      "end_char": 30582
+    },
+    {
+      "text": "Saha",
+      "label": "LAWYER",
+      "start_char": 30812,
+      "end_char": 30816
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 30967,
+      "end_char": 30971
+    },
+    {
+      "text": "sections 16, 21(1) and (2)",
+      "label": "PROVISION",
+      "start_char": 31049,
+      "end_char": 31075
+    },
+    {
+      "text": "Specific Relief Act, 1963",
+      "label": "STATUTE",
+      "start_char": 31083,
+      "end_char": 31108
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 31202,
+      "end_char": 31206
+    },
+    {
+      "text": "P. K. Das",
+      "label": "OTHER_PERSON",
+      "start_char": 31304,
+      "end_char": 31313
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 31336,
+      "end_char": 31340
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 31558,
+      "end_char": 31562
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 31721,
+      "end_char": 31725
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 31743,
+      "end_char": 31784
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 31796,
+      "end_char": 31831
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 31834,
+      "end_char": 31877
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 31878,
+      "end_char": 31919
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 31976,
+      "end_char": 31980
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 32027,
+      "end_char": 32031
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 32323,
+      "end_char": 32327
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 32348,
+      "end_char": 32352
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 32369,
+      "end_char": 32373
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 32729,
+      "end_char": 32733
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 32792,
+      "end_char": 32796
+    },
+    {
+      "text": "09.03.2004",
+      "label": "DATE",
+      "start_char": 32972,
+      "end_char": 32982
+    },
+    {
+      "text": "26.04.2004",
+      "label": "DATE",
+      "start_char": 32984,
+      "end_char": 32994
+    },
+    {
+      "text": "15.10.2004",
+      "label": "DATE",
+      "start_char": 32999,
+      "end_char": 33009
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 33191,
+      "end_char": 33195
+    },
+    {
+      "text": "ATPL",
+      "label": "COURT",
+      "start_char": 33363,
+      "end_char": 33367
+    },
+    {
+      "text": "Das",
+      "label": "OTHER_PERSON",
+      "start_char": 33405,
+      "end_char": 33408
+    },
+    {
+      "text": "02.05.2008",
+      "label": "DATE",
+      "start_char": 33515,
+      "end_char": 33525
+    },
+    {
+      "text": "02.05.2012",
+      "label": "DATE",
+      "start_char": 33572,
+      "end_char": 33582
+    },
+    {
+      "text": "CEA/CWC",
+      "label": "STATUTE",
+      "start_char": 33606,
+      "end_char": 33613
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 33673,
+      "end_char": 33714
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 33726,
+      "end_char": 33761
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 33764,
+      "end_char": 33807
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 33808,
+      "end_char": 33849
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 33883,
+      "end_char": 33887
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 33946,
+      "end_char": 33950
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 33970,
+      "end_char": 33974
+    },
+    {
+      "text": "Das",
+      "label": "OTHER_PERSON",
+      "start_char": 34121,
+      "end_char": 34124
+    },
+    {
+      "text": "Arbitration & Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 34332,
+      "end_char": 34362
+    },
+    {
+      "text": "Sections 34 and 37",
+      "label": "PROVISION",
+      "start_char": 34367,
+      "end_char": 34385
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 34393,
+      "end_char": 34408
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 35697,
+      "end_char": 35702
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 35825,
+      "end_char": 35830
+    },
+    {
+      "text": "section 75 or section 81",
+      "label": "PROVISION",
+      "start_char": 35941,
+      "end_char": 35965
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 36552,
+      "end_char": 36593
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 36605,
+      "end_char": 36640
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 36643,
+      "end_char": 36686
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 36687,
+      "end_char": 36728
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 37388,
+      "end_char": 37398
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 37543,
+      "end_char": 37556
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 37595,
+      "end_char": 37608
+    },
+    {
+      "text": "Renusagar Power Co. Ltd. vs. General Electric Co.",
+      "label": "PRECEDENT",
+      "start_char": 37612,
+      "end_char": 37661
+    },
+    {
+      "text": "section 7(1)(b)(ii)",
+      "label": "PROVISION",
+      "start_char": 37705,
+      "end_char": 37724
+    },
+    {
+      "text": "Foreign Awards (Recognition and Enforcement) Act, 1961",
+      "label": "STATUTE",
+      "start_char": 37732,
+      "end_char": 37786
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 37890,
+      "end_char": 37895
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 38010,
+      "end_char": 38015
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 38027,
+      "end_char": 38037
+    },
+    {
+      "text": "Arbitration & Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 38045,
+      "end_char": 38081
+    },
+    {
+      "text": "Oil & Natural Gas Corporation Ltd. vs. Saw Pipes Ltd.2",
+      "label": "PRECEDENT",
+      "start_char": 38093,
+      "end_char": 38147
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 38161,
+      "end_char": 38174
+    },
+    {
+      "text": "India‖",
+      "label": "GPE",
+      "start_char": 38223,
+      "end_char": 38229
+    },
+    {
+      "text": "section 34(2)(b)(ii)",
+      "label": "PROVISION",
+      "start_char": 38243,
+      "end_char": 38263
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 38271,
+      "end_char": 38292
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 38415,
+      "end_char": 38420
+    },
+    {
+      "text": "Supp (1) SCC 644 (2003) 5 SCC 705",
+      "label": "CASE_NUMBER",
+      "start_char": 38507,
+      "end_char": 38540
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 38541,
+      "end_char": 38582
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.\n& Amalgamated Transpower (India) Ltd. vs. M/s Sikkim Power Development Corporation Ltd. & Anr",
+      "label": "PRECEDENT",
+      "start_char": 38594,
+      "end_char": 38723
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 39098,
+      "end_char": 39111
+    },
+    {
+      "text": "McDermott International Inc. vs. Burn Standard Co. Ltd. & Others",
+      "label": "PRECEDENT",
+      "start_char": 39115,
+      "end_char": 39179
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 39194,
+      "end_char": 39209
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 39926,
+      "end_char": 39939
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 40075,
+      "end_char": 40085
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 40093,
+      "end_char": 40108
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 40220,
+      "end_char": 40230
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 40238,
+      "end_char": 40253
+    },
+    {
+      "text": "(2006) 11 SCC 181",
+      "label": "PRECEDENT",
+      "start_char": 40282,
+      "end_char": 40299
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 40300,
+      "end_char": 40341
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 40353,
+      "end_char": 40388
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 40391,
+      "end_char": 40434
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 40435,
+      "end_char": 40476
+    },
+    {
+      "text": "Associate Builders vs. Delhi Development Authority 4",
+      "label": "PRECEDENT",
+      "start_char": 40496,
+      "end_char": 40548
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 40562,
+      "end_char": 40575
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 40585,
+      "end_char": 40595
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 40603,
+      "end_char": 40618
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 40786,
+      "end_char": 40791
+    },
+    {
+      "text": "(2015) 3 SCC 49",
+      "label": "PRECEDENT",
+      "start_char": 42143,
+      "end_char": 42158
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 42159,
+      "end_char": 42200
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 42212,
+      "end_char": 42247
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 42250,
+      "end_char": 42293
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 42294,
+      "end_char": 42335
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 42506,
+      "end_char": 42519
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 42632,
+      "end_char": 42637
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 42714,
+      "end_char": 42727
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 42873,
+      "end_char": 42886
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 42963,
+      "end_char": 42968
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 43151,
+      "end_char": 43166
+    },
+    {
+      "text": "section 28(3)",
+      "label": "PROVISION",
+      "start_char": 43231,
+      "end_char": 43244
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 43252,
+      "end_char": 43267
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 44178,
+      "end_char": 44219
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 44231,
+      "end_char": 44266
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 44269,
+      "end_char": 44312
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 44313,
+      "end_char": 44354
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 44446,
+      "end_char": 44451
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 44479,
+      "end_char": 44484
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 44848,
+      "end_char": 44853
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 44876,
+      "end_char": 44891
+    },
+    {
+      "text": "Maharashtra State Electricity Distribution Co. Ltd. vs. Datar Switch Gear Ltd. & Others",
+      "label": "PRECEDENT",
+      "start_char": 44951,
+      "end_char": 45038
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 45053,
+      "end_char": 45066
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 45099,
+      "end_char": 45109
+    },
+    {
+      "text": "Ssangyong Engineering & Construction Co. Ltd. vs. National Highways Authority of India (NHAI)",
+      "label": "PRECEDENT",
+      "start_char": 45155,
+      "end_char": 45248
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 45263,
+      "end_char": 45276
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 45599,
+      "end_char": 45612
+    },
+    {
+      "text": "(2018) 3 SCC 133 (2019) 15 SCC 131",
+      "label": "CASE_NUMBER",
+      "start_char": 46002,
+      "end_char": 46036
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 46037,
+      "end_char": 46078
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.\n& Amalgamated Transpower (India) Ltd. vs. M/s Sikkim Power Development Corporation Ltd. & Anr",
+      "label": "PRECEDENT",
+      "start_char": 46090,
+      "end_char": 46219
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 46563,
+      "end_char": 46568
+    },
+    {
+      "text": "section 31(3)",
+      "label": "PROVISION",
+      "start_char": 46717,
+      "end_char": 46730
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 46738,
+      "end_char": 46753
+    },
+    {
+      "text": "section 34(2-A)",
+      "label": "PROVISION",
+      "start_char": 47318,
+      "end_char": 47333
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 47813,
+      "end_char": 47854
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 47866,
+      "end_char": 47901
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 47904,
+      "end_char": 47947
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 47948,
+      "end_char": 47989
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 48018,
+      "end_char": 48031
+    },
+    {
+      "text": "MMTC Ltd. vs. Vedanta Ltd.7",
+      "label": "PRECEDENT",
+      "start_char": 48035,
+      "end_char": 48062
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 48075,
+      "end_char": 48085
+    },
+    {
+      "text": "PSA Sical Terminals Pvt",
+      "label": "ORG",
+      "start_char": 48171,
+      "end_char": 48194
+    },
+    {
+      "text": "V.O. Chidambranar Port Trust Tuticorin",
+      "label": "ORG",
+      "start_char": 48226,
+      "end_char": 48264
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 48291,
+      "end_char": 48304
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 48383,
+      "end_char": 48393
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 48550,
+      "end_char": 48560
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 48568,
+      "end_char": 48583
+    },
+    {
+      "text": "India‖",
+      "label": "GPE",
+      "start_char": 48676,
+      "end_char": 48682
+    },
+    {
+      "text": "section 18 and 34(2)(a)(iii)",
+      "label": "PROVISION",
+      "start_char": 48915,
+      "end_char": 48943
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 48951,
+      "end_char": 48966
+    },
+    {
+      "text": "(2019) 4 SCC 163 2021 SCC Online SC 508",
+      "label": "PRECEDENT",
+      "start_char": 49634,
+      "end_char": 49673
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 49674,
+      "end_char": 49715
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 49727,
+      "end_char": 49762
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 49765,
+      "end_char": 49808
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 49809,
+      "end_char": 49850
+    },
+    {
+      "text": "India‖",
+      "label": "GPE",
+      "start_char": 50046,
+      "end_char": 50052
+    },
+    {
+      "text": "State of Chhattisgarh & Another vs. Sal Udyog Private Limited9",
+      "label": "PRECEDENT",
+      "start_char": 50507,
+      "end_char": 50569
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 50583,
+      "end_char": 50596
+    },
+    {
+      "text": "Indian Oil Corporation Ltd. vs. Shree Ganesh Petroleum Rajgurunagar10",
+      "label": "PRECEDENT",
+      "start_char": 50819,
+      "end_char": 50888
+    },
+    {
+      "text": "Delhi Airport Metro Express Private Limited vs. Delhi Metro Rail Corporation Limited11",
+      "label": "PRECEDENT",
+      "start_char": 50893,
+      "end_char": 50979
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 50993,
+      "end_char": 51006
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 51112,
+      "end_char": 51122
+    },
+    {
+      "text": "Arbitration & Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 51130,
+      "end_char": 51166
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 51225,
+      "end_char": 51235
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 51243,
+      "end_char": 51258
+    },
+    {
+      "text": "Punjab State Civil Supplies Corporation Ltd. and Another vs. Ramesh Kumar and Company and (2022) 2 SCC 275 (2022) 4 SCC 463 (2022) 1 SCC 131",
+      "label": "PRECEDENT",
+      "start_char": 51263,
+      "end_char": 51403
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 51404,
+      "end_char": 51445
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 51457,
+      "end_char": 51492
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 51495,
+      "end_char": 51538
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 51539,
+      "end_char": 51580
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 51609,
+      "end_char": 51622
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 51766,
+      "end_char": 51776
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 51784,
+      "end_char": 51799
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 51876,
+      "end_char": 51886
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 52019,
+      "end_char": 52029
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 52037,
+      "end_char": 52052
+    },
+    {
+      "text": "Haryana Tourism Ltd. vs. Kandhari Beverages Ltd.13",
+      "label": "PRECEDENT",
+      "start_char": 52115,
+      "end_char": 52165
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 52179,
+      "end_char": 52192
+    },
+    {
+      "text": "section 34/37",
+      "label": "PROVISION",
+      "start_char": 52236,
+      "end_char": 52249
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 52257,
+      "end_char": 52272
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 52375,
+      "end_char": 52380
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 52508,
+      "end_char": 52518
+    },
+    {
+      "text": "Dr. A. Parthasarathy and Others vs. E. Springs Avenues Pvt. Ltd. and others",
+      "label": "PRECEDENT",
+      "start_char": 52575,
+      "end_char": 52650
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 52665,
+      "end_char": 52678
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 52701,
+      "end_char": 52711
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 52719,
+      "end_char": 52734
+    },
+    {
+      "text": "Kinnari Mullick vs. Ghanshyam Das Damani",
+      "label": "PRECEDENT",
+      "start_char": 52878,
+      "end_char": 52918
+    },
+    {
+      "text": "I-Pay Clearing Services Pvt",
+      "label": "PRECEDENT",
+      "start_char": 52923,
+      "end_char": 52950
+    },
+    {
+      "text": "ICICI Bank Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 52961,
+      "end_char": 52976
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 53065,
+      "end_char": 53075
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 53083,
+      "end_char": 53098
+    },
+    {
+      "text": "2021 SCC OnLine SC 1056 (2022)",
+      "label": "PRECEDENT",
+      "start_char": 53175,
+      "end_char": 53205
+    },
+    {
+      "text": "SCC 237 (2022)",
+      "label": "CASE_NUMBER",
+      "start_char": 53208,
+      "end_char": 53222
+    },
+    {
+      "text": "SCC OnLine SC 719 (2018) 11 SCC 328 (2022)",
+      "label": "CASE_NUMBER",
+      "start_char": 53223,
+      "end_char": 53265
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 53282,
+      "end_char": 53323
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 53335,
+      "end_char": 53370
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 53373,
+      "end_char": 53416
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 53417,
+      "end_char": 53458
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 53598,
+      "end_char": 53608
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 53616,
+      "end_char": 53631
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 53652,
+      "end_char": 53656
+    },
+    {
+      "text": "21.12.2002",
+      "label": "DATE",
+      "start_char": 54485,
+      "end_char": 54495
+    },
+    {
+      "text": "02.05.2008",
+      "label": "DATE",
+      "start_char": 54821,
+      "end_char": 54831
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 55853,
+      "end_char": 55894
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 55906,
+      "end_char": 55941
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 55944,
+      "end_char": 55987
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 55988,
+      "end_char": 56029
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 56919,
+      "end_char": 56923
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 56957,
+      "end_char": 56961
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 57001,
+      "end_char": 57005
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 57330,
+      "end_char": 57334
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 57808,
+      "end_char": 57812
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 57849,
+      "end_char": 57853
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 57897,
+      "end_char": 57938
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 57950,
+      "end_char": 57985
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 57988,
+      "end_char": 58031
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 58032,
+      "end_char": 58073
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 58158,
+      "end_char": 58162
+    },
+    {
+      "text": "SPDCL",
+      "label": "ORG",
+      "start_char": 58580,
+      "end_char": 58585
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 58611,
+      "end_char": 58615
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 58953,
+      "end_char": 58957
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 59202,
+      "end_char": 59206
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 59345,
+      "end_char": 59349
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 59564,
+      "end_char": 59568
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 59684,
+      "end_char": 59697
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 59698,
+      "end_char": 59739
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 59751,
+      "end_char": 59786
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s Sikkim Power Development Corporation Ltd. & Anr",
+      "label": "PRECEDENT",
+      "start_char": 59789,
+      "end_char": 59880
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 60000,
+      "end_char": 60013
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 60483,
+      "end_char": 60487
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 60633,
+      "end_char": 60637
+    },
+    {
+      "text": "section 21",
+      "label": "PROVISION",
+      "start_char": 60798,
+      "end_char": 60808
+    },
+    {
+      "text": "Specific Relief Act, 1963",
+      "label": "STATUTE",
+      "start_char": 60816,
+      "end_char": 60841
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 61163,
+      "end_char": 61167
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 61238,
+      "end_char": 61242
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 61512,
+      "end_char": 61553
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 61565,
+      "end_char": 61600
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 61603,
+      "end_char": 61646
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 61647,
+      "end_char": 61688
+    },
+    {
+      "text": "section 36",
+      "label": "PROVISION",
+      "start_char": 61710,
+      "end_char": 61720
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 61728,
+      "end_char": 61743
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 61828,
+      "end_char": 61857
+    },
+    {
+      "text": "section 36",
+      "label": "PROVISION",
+      "start_char": 62124,
+      "end_char": 62134
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 62142,
+      "end_char": 62157
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 62520,
+      "end_char": 62524
+    },
+    {
+      "text": "02.05.2008",
+      "label": "DATE",
+      "start_char": 63097,
+      "end_char": 63107
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 63145,
+      "end_char": 63149
+    },
+    {
+      "text": "02.05.2008",
+      "label": "DATE",
+      "start_char": 63251,
+      "end_char": 63261
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 63273,
+      "end_char": 63314
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 63326,
+      "end_char": 63361
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 63364,
+      "end_char": 63407
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 63408,
+      "end_char": 63449
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 63460,
+      "end_char": 63464
+    },
+    {
+      "text": "02.05.2008",
+      "label": "DATE",
+      "start_char": 63574,
+      "end_char": 63584
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 63616,
+      "end_char": 63620
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 63823,
+      "end_char": 63827
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 63944,
+      "end_char": 63948
+    },
+    {
+      "text": "Chakungchu",
+      "label": "WITNESS",
+      "start_char": 64068,
+      "end_char": 64078
+    },
+    {
+      "text": "Ralong",
+      "label": "WITNESS",
+      "start_char": 64083,
+      "end_char": 64089
+    },
+    {
+      "text": "ATPIL",
+      "label": "ORG",
+      "start_char": 64257,
+      "end_char": 64262
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 64628,
+      "end_char": 64632
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 64715,
+      "end_char": 64719
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 64781,
+      "end_char": 64785
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 64914,
+      "end_char": 64918
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 65027,
+      "end_char": 65031
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 65054,
+      "end_char": 65058
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 65136,
+      "end_char": 65177
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.\n& Amalgamated Transpower (India) Ltd. vs. M/s Sikkim Power Development Corporation Ltd. & Anr",
+      "label": "PRECEDENT",
+      "start_char": 65189,
+      "end_char": 65318
+    },
+    {
+      "text": "15.10.2004",
+      "label": "DATE",
+      "start_char": 65335,
+      "end_char": 65345
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 65471,
+      "end_char": 65475
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 65579,
+      "end_char": 65583
+    },
+    {
+      "text": "15.10.2004",
+      "label": "DATE",
+      "start_char": 65646,
+      "end_char": 65656
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 65859,
+      "end_char": 65863
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 65913,
+      "end_char": 65917
+    },
+    {
+      "text": "15.10.2004",
+      "label": "DATE",
+      "start_char": 66098,
+      "end_char": 66108
+    },
+    {
+      "text": "21.12.2002.‖",
+      "label": "DATE",
+      "start_char": 66169,
+      "end_char": 66181
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 66259,
+      "end_char": 66263
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 66607,
+      "end_char": 66611
+    },
+    {
+      "text": "15.10.2004",
+      "label": "DATE",
+      "start_char": 66672,
+      "end_char": 66682
+    },
+    {
+      "text": "15.10.2004",
+      "label": "DATE",
+      "start_char": 66810,
+      "end_char": 66820
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 66850,
+      "end_char": 66854
+    },
+    {
+      "text": "Larsen & Toubro",
+      "label": "ORG",
+      "start_char": 66859,
+      "end_char": 66874
+    },
+    {
+      "text": "Second Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 66916,
+      "end_char": 66964
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 66976,
+      "end_char": 67011
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 67014,
+      "end_char": 67057
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 67058,
+      "end_char": 67099
+    },
+    {
+      "text": "L&T",
+      "label": "ORG",
+      "start_char": 67186,
+      "end_char": 67189
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 67362,
+      "end_char": 67366
+    },
+    {
+      "text": "L&T",
+      "label": "ORG",
+      "start_char": 67396,
+      "end_char": 67399
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 67479,
+      "end_char": 67483
+    },
+    {
+      "text": "SPV",
+      "label": "ORG",
+      "start_char": 67548,
+      "end_char": 67551
+    },
+    {
+      "text": "Chakungchu",
+      "label": "WITNESS",
+      "start_char": 67685,
+      "end_char": 67695
+    },
+    {
+      "text": "Ralong",
+      "label": "WITNESS",
+      "start_char": 67700,
+      "end_char": 67706
+    },
+    {
+      "text": "SPV",
+      "label": "ORG",
+      "start_char": 67811,
+      "end_char": 67814
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 68026,
+      "end_char": 68030
+    },
+    {
+      "text": "15.10.2004",
+      "label": "DATE",
+      "start_char": 68308,
+      "end_char": 68318
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 68404,
+      "end_char": 68408
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 68410,
+      "end_char": 68414
+    },
+    {
+      "text": "L&T",
+      "label": "ORG",
+      "start_char": 68419,
+      "end_char": 68422
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 68502,
+      "end_char": 68506
+    },
+    {
+      "text": "L&T.",
+      "label": "ORG",
+      "start_char": 68511,
+      "end_char": 68515
+    },
+    {
+      "text": "L&T",
+      "label": "ORG",
+      "start_char": 68586,
+      "end_char": 68589
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 68635,
+      "end_char": 68639
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 68700,
+      "end_char": 68704
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 68867,
+      "end_char": 68908
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 68920,
+      "end_char": 68955
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 68958,
+      "end_char": 69001
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 69002,
+      "end_char": 69043
+    },
+    {
+      "text": "15.10.2004",
+      "label": "DATE",
+      "start_char": 69083,
+      "end_char": 69093
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 69097,
+      "end_char": 69101
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 69127,
+      "end_char": 69131
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 69298,
+      "end_char": 69302
+    },
+    {
+      "text": "09.03.2004",
+      "label": "DATE",
+      "start_char": 69425,
+      "end_char": 69435
+    },
+    {
+      "text": "09.03.2004",
+      "label": "DATE",
+      "start_char": 69473,
+      "end_char": 69483
+    },
+    {
+      "text": "L&T",
+      "label": "ORG",
+      "start_char": 69632,
+      "end_char": 69635
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 69640,
+      "end_char": 69644
+    },
+    {
+      "text": "L&T",
+      "label": "ORG",
+      "start_char": 69709,
+      "end_char": 69712
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 69716,
+      "end_char": 69720
+    },
+    {
+      "text": "SPDCL",
+      "label": "ORG",
+      "start_char": 70053,
+      "end_char": 70058
+    },
+    {
+      "text": "26.4.2004",
+      "label": "DATE",
+      "start_char": 70179,
+      "end_char": 70188
+    },
+    {
+      "text": "26.04.2004",
+      "label": "DATE",
+      "start_char": 70229,
+      "end_char": 70239
+    },
+    {
+      "text": "section 63",
+      "label": "PROVISION",
+      "start_char": 70426,
+      "end_char": 70436
+    },
+    {
+      "text": "Indian Contract Act, 1872",
+      "label": "STATUTE",
+      "start_char": 70444,
+      "end_char": 70469
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 70550,
+      "end_char": 70591
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 70603,
+      "end_char": 70638
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 70641,
+      "end_char": 70684
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 70685,
+      "end_char": 70726
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 71258,
+      "end_char": 71262
+    },
+    {
+      "text": "15.10.2004",
+      "label": "DATE",
+      "start_char": 71471,
+      "end_char": 71481
+    },
+    {
+      "text": "Article 166 and 299",
+      "label": "PROVISION",
+      "start_char": 71957,
+      "end_char": 71976
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 71984,
+      "end_char": 72005
+    },
+    {
+      "text": "State of Sikkim",
+      "label": "GPE",
+      "start_char": 72054,
+      "end_char": 72069
+    },
+    {
+      "text": "Article 299",
+      "label": "PROVISION",
+      "start_char": 72071,
+      "end_char": 72082
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 72359,
+      "end_char": 72400
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 72412,
+      "end_char": 72447
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 72450,
+      "end_char": 72493
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 72494,
+      "end_char": 72535
+    },
+    {
+      "text": "Chatturbhuj Vithaldas Jasani vs. Moreshwar Parashram and others 17",
+      "label": "PRECEDENT",
+      "start_char": 72546,
+      "end_char": 72612
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 72626,
+      "end_char": 72639
+    },
+    {
+      "text": "Article 299",
+      "label": "PROVISION",
+      "start_char": 72650,
+      "end_char": 72661
+    },
+    {
+      "text": "Article 299",
+      "label": "PROVISION",
+      "start_char": 72921,
+      "end_char": 72932
+    },
+    {
+      "text": "Article 299",
+      "label": "PROVISION",
+      "start_char": 73179,
+      "end_char": 73190
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 73198,
+      "end_char": 73219
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 73428,
+      "end_char": 73432
+    },
+    {
+      "text": "Rolep",
+      "label": "OTHER_PERSON",
+      "start_char": 73506,
+      "end_char": 73511
+    },
+    {
+      "text": "Chakungchu",
+      "label": "WITNESS",
+      "start_char": 73513,
+      "end_char": 73523
+    },
+    {
+      "text": "Ralong",
+      "label": "WITNESS",
+      "start_char": 73528,
+      "end_char": 73534
+    },
+    {
+      "text": "15.10.2004",
+      "label": "DATE",
+      "start_char": 73654,
+      "end_char": 73664
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 73771,
+      "end_char": 73775
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 73977,
+      "end_char": 73981
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 74101,
+      "end_char": 74142
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 74154,
+      "end_char": 74189
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 74192,
+      "end_char": 74235
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 74236,
+      "end_char": 74277
+    },
+    {
+      "text": "Chakungchu",
+      "label": "GPE",
+      "start_char": 74346,
+      "end_char": 74356
+    },
+    {
+      "text": "Ralong",
+      "label": "GPE",
+      "start_char": 74391,
+      "end_char": 74397
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 74503,
+      "end_char": 74507
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 74589,
+      "end_char": 74593
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 74676,
+      "end_char": 74680
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 74878,
+      "end_char": 74882
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 74918,
+      "end_char": 74922
+    },
+    {
+      "text": "19.02.2002",
+      "label": "DATE",
+      "start_char": 75289,
+      "end_char": 75299
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 75372,
+      "end_char": 75376
+    },
+    {
+      "text": "19.02.2002",
+      "label": "DATE",
+      "start_char": 75514,
+      "end_char": 75524
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 75526,
+      "end_char": 75530
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 75753,
+      "end_char": 75757
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 75833,
+      "end_char": 75837
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 75960,
+      "end_char": 76001
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 76013,
+      "end_char": 76048
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 76051,
+      "end_char": 76094
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 76095,
+      "end_char": 76136
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 76283,
+      "end_char": 76287
+    },
+    {
+      "text": "09.03.2004",
+      "label": "DATE",
+      "start_char": 76393,
+      "end_char": 76403
+    },
+    {
+      "text": "26.04.2004",
+      "label": "DATE",
+      "start_char": 76405,
+      "end_char": 76415
+    },
+    {
+      "text": "15.10.2004",
+      "label": "DATE",
+      "start_char": 76420,
+      "end_char": 76430
+    },
+    {
+      "text": "15.10.2004",
+      "label": "DATE",
+      "start_char": 76476,
+      "end_char": 76486
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 76488,
+      "end_char": 76492
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 76554,
+      "end_char": 76558
+    },
+    {
+      "text": "15.04.2004",
+      "label": "DATE",
+      "start_char": 77471,
+      "end_char": 77481
+    },
+    {
+      "text": "L&T",
+      "label": "ORG",
+      "start_char": 77506,
+      "end_char": 77509
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 77600,
+      "end_char": 77604
+    },
+    {
+      "text": "15.04.2004",
+      "label": "DATE",
+      "start_char": 77671,
+      "end_char": 77681
+    },
+    {
+      "text": "L&T",
+      "label": "ORG",
+      "start_char": 77750,
+      "end_char": 77753
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 77847,
+      "end_char": 77888
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 77900,
+      "end_char": 77935
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 77938,
+      "end_char": 77981
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 77982,
+      "end_char": 78023
+    },
+    {
+      "text": "Article 299",
+      "label": "PROVISION",
+      "start_char": 78196,
+      "end_char": 78207
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 78215,
+      "end_char": 78236
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 78417,
+      "end_char": 78421
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 78535,
+      "end_char": 78539
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 78549,
+      "end_char": 78553
+    },
+    {
+      "text": "15.10.2004",
+      "label": "DATE",
+      "start_char": 78821,
+      "end_char": 78831
+    },
+    {
+      "text": "L&T",
+      "label": "ORG",
+      "start_char": 78837,
+      "end_char": 78840
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 78884,
+      "end_char": 78888
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 79198,
+      "end_char": 79202
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 79689,
+      "end_char": 79693
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 79720,
+      "end_char": 79761
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 79773,
+      "end_char": 79808
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 79811,
+      "end_char": 79854
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 79855,
+      "end_char": 79896
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 79960,
+      "end_char": 79964
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 80043,
+      "end_char": 80047
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 80255,
+      "end_char": 80259
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 80273,
+      "end_char": 80277
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 80353,
+      "end_char": 80357
+    },
+    {
+      "text": "Rolep",
+      "label": "GPE",
+      "start_char": 80393,
+      "end_char": 80398
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 80424,
+      "end_char": 80428
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 80434,
+      "end_char": 80438
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 80497,
+      "end_char": 80501
+    },
+    {
+      "text": "Chakungchu",
+      "label": "WITNESS",
+      "start_char": 80537,
+      "end_char": 80547
+    },
+    {
+      "text": "Ralong",
+      "label": "WITNESS",
+      "start_char": 80551,
+      "end_char": 80557
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 80727,
+      "end_char": 80731
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 80937,
+      "end_char": 80941
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 80957,
+      "end_char": 80961
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 80984,
+      "end_char": 80988
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 81105,
+      "end_char": 81109
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 81199,
+      "end_char": 81203
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 81272,
+      "end_char": 81276
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 81290,
+      "end_char": 81294
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 81344,
+      "end_char": 81348
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 81490,
+      "end_char": 81494
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 81529,
+      "end_char": 81533
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 81538,
+      "end_char": 81579
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 81591,
+      "end_char": 81626
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 81629,
+      "end_char": 81672
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 81673,
+      "end_char": 81714
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 81803,
+      "end_char": 81807
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 81861,
+      "end_char": 81865
+    },
+    {
+      "text": "02.09.2003",
+      "label": "DATE",
+      "start_char": 81951,
+      "end_char": 81961
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 81969,
+      "end_char": 81973
+    },
+    {
+      "text": "02.09.2003",
+      "label": "DATE",
+      "start_char": 82059,
+      "end_char": 82069
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 82289,
+      "end_char": 82293
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 82498,
+      "end_char": 82502
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 83005,
+      "end_char": 83009
+    },
+    {
+      "text": "15.10.2004",
+      "label": "DATE",
+      "start_char": 83346,
+      "end_char": 83356
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 83377,
+      "end_char": 83418
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 83430,
+      "end_char": 83465
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 83468,
+      "end_char": 83511
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 83512,
+      "end_char": 83553
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 83593,
+      "end_char": 83597
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 83774,
+      "end_char": 83778
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 83833,
+      "end_char": 83837
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 83874,
+      "end_char": 83878
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 84444,
+      "end_char": 84448
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 84485,
+      "end_char": 84495
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 84503,
+      "end_char": 84518
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 84585,
+      "end_char": 84589
+    },
+    {
+      "text": "15.10.2004",
+      "label": "DATE",
+      "start_char": 84761,
+      "end_char": 84771
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 85163,
+      "end_char": 85167
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 85256,
+      "end_char": 85297
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 85309,
+      "end_char": 85344
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 85347,
+      "end_char": 85390
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 85391,
+      "end_char": 85432
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 85509,
+      "end_char": 85522
+    },
+    {
+      "text": "C. Haridasan vs. Anappath Parakkattu Vasudeva Kurup & Others",
+      "label": "PRECEDENT",
+      "start_char": 85526,
+      "end_char": 85586
+    },
+    {
+      "text": "section 16",
+      "label": "PROVISION",
+      "start_char": 85607,
+      "end_char": 85617
+    },
+    {
+      "text": "Specific Relief Act, 1963",
+      "label": "STATUTE",
+      "start_char": 85625,
+      "end_char": 85650
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 85876,
+      "end_char": 85886
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 86547,
+      "end_char": 86551
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 86746,
+      "end_char": 86750
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 86811,
+      "end_char": 86815
+    },
+    {
+      "text": "(2023) SCC Online 36",
+      "label": "PRECEDENT",
+      "start_char": 87015,
+      "end_char": 87035
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 87036,
+      "end_char": 87077
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 87089,
+      "end_char": 87124
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 87127,
+      "end_char": 87170
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 87171,
+      "end_char": 87212
+    },
+    {
+      "text": "section 21",
+      "label": "PROVISION",
+      "start_char": 87220,
+      "end_char": 87230
+    },
+    {
+      "text": "Specific Relief Act, 1963",
+      "label": "STATUTE",
+      "start_char": 87238,
+      "end_char": 87263
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 87278,
+      "end_char": 87282
+    },
+    {
+      "text": "Kanshi Ram vs. Om Prakash Jawal & Others19",
+      "label": "PRECEDENT",
+      "start_char": 87303,
+      "end_char": 87345
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 87359,
+      "end_char": 87372
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 87603,
+      "end_char": 87607
+    },
+    {
+      "text": "section 63",
+      "label": "PROVISION",
+      "start_char": 87677,
+      "end_char": 87687
+    },
+    {
+      "text": "Indian Contract Act, 1872",
+      "label": "STATUTE",
+      "start_char": 87695,
+      "end_char": 87720
+    },
+    {
+      "text": "Section 63",
+      "label": "PROVISION",
+      "start_char": 87793,
+      "end_char": 87803
+    },
+    {
+      "text": "section 63",
+      "label": "PROVISION",
+      "start_char": 88329,
+      "end_char": 88339
+    },
+    {
+      "text": "Indian Contract Act, 1872",
+      "label": "STATUTE",
+      "start_char": 88347,
+      "end_char": 88372
+    },
+    {
+      "text": "(1996) 4 SCC 593",
+      "label": "PRECEDENT",
+      "start_char": 88757,
+      "end_char": 88773
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 88774,
+      "end_char": 88815
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 88827,
+      "end_char": 88862
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 88865,
+      "end_char": 88908
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 88909,
+      "end_char": 88950
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 89082,
+      "end_char": 89086
+    },
+    {
+      "text": "26.02.2006",
+      "label": "DATE",
+      "start_char": 89771,
+      "end_char": 89781
+    },
+    {
+      "text": "02.05.2008",
+      "label": "DATE",
+      "start_char": 89803,
+      "end_char": 89813
+    },
+    {
+      "text": "02.05.2008",
+      "label": "DATE",
+      "start_char": 89938,
+      "end_char": 89948
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 89992,
+      "end_char": 89996
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 90388,
+      "end_char": 90392
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 90643,
+      "end_char": 90684
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 90696,
+      "end_char": 90731
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 90734,
+      "end_char": 90777
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 90778,
+      "end_char": 90819
+    },
+    {
+      "text": "Rajasthan Breweries Limited vs. The Stroh Brewery Company",
+      "label": "PRECEDENT",
+      "start_char": 91014,
+      "end_char": 91071
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 91094,
+      "end_char": 91110
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 91551,
+      "end_char": 91555
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 91805,
+      "end_char": 91809
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 91831,
+      "end_char": 91835
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 92106,
+      "end_char": 92110
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 92170,
+      "end_char": 92174
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 92266,
+      "end_char": 92270
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 92423,
+      "end_char": 92427
+    },
+    {
+      "text": "2000 SCC Online Del 481",
+      "label": "PRECEDENT",
+      "start_char": 92454,
+      "end_char": 92477
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 92478,
+      "end_char": 92519
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 92531,
+      "end_char": 92566
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 92569,
+      "end_char": 92612
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 92613,
+      "end_char": 92654
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 93255,
+      "end_char": 93259
+    },
+    {
+      "text": "22.06.2006",
+      "label": "DATE",
+      "start_char": 93611,
+      "end_char": 93621
+    },
+    {
+      "text": "02.05.2008",
+      "label": "DATE",
+      "start_char": 93670,
+      "end_char": 93680
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 93980,
+      "end_char": 93984
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 94136,
+      "end_char": 94140
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 94328,
+      "end_char": 94332
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 94456,
+      "end_char": 94497
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 94509,
+      "end_char": 94544
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 94547,
+      "end_char": 94590
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 94591,
+      "end_char": 94632
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 94742,
+      "end_char": 94746
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 94771,
+      "end_char": 94775
+    },
+    {
+      "text": "Chakungchu",
+      "label": "WITNESS",
+      "start_char": 94828,
+      "end_char": 94838
+    },
+    {
+      "text": "Ralong",
+      "label": "WITNESS",
+      "start_char": 94843,
+      "end_char": 94849
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 94916,
+      "end_char": 94920
+    },
+    {
+      "text": "L&T",
+      "label": "ORG",
+      "start_char": 95107,
+      "end_char": 95110
+    },
+    {
+      "text": "15.10.2004",
+      "label": "DATE",
+      "start_char": 95114,
+      "end_char": 95124
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 95171,
+      "end_char": 95175
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 95551,
+      "end_char": 95555
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 95661,
+      "end_char": 95665
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 96024,
+      "end_char": 96028
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 96162,
+      "end_char": 96203
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 96215,
+      "end_char": 96250
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 96253,
+      "end_char": 96296
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 96297,
+      "end_char": 96338
+    },
+    {
+      "text": "21.12.2002",
+      "label": "DATE",
+      "start_char": 96696,
+      "end_char": 96706
+    },
+    {
+      "text": "02.05.2008",
+      "label": "DATE",
+      "start_char": 96712,
+      "end_char": 96722
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 97136,
+      "end_char": 97140
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 97187,
+      "end_char": 97191
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 97259,
+      "end_char": 97263
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 97369,
+      "end_char": 97373
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 97403,
+      "end_char": 97407
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 97891,
+      "end_char": 97895
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 97983,
+      "end_char": 97987
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 98038,
+      "end_char": 98079
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 98091,
+      "end_char": 98126
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 98129,
+      "end_char": 98172
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 98173,
+      "end_char": 98214
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 98243,
+      "end_char": 98247
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 98358,
+      "end_char": 98362
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 98474,
+      "end_char": 98478
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 98554,
+      "end_char": 98558
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 98718,
+      "end_char": 98722
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 98769,
+      "end_char": 98773
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 99033,
+      "end_char": 99037
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 99331,
+      "end_char": 99335
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 99416,
+      "end_char": 99420
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 99497,
+      "end_char": 99501
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 99593,
+      "end_char": 99597
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 99832,
+      "end_char": 99873
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 99885,
+      "end_char": 99920
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 99923,
+      "end_char": 99966
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 99967,
+      "end_char": 100008
+    },
+    {
+      "text": "19.02.2003",
+      "label": "DATE",
+      "start_char": 100059,
+      "end_char": 100069
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 100074,
+      "end_char": 100078
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 100090,
+      "end_char": 100094
+    },
+    {
+      "text": "19.02.2003",
+      "label": "DATE",
+      "start_char": 100288,
+      "end_char": 100298
+    },
+    {
+      "text": "19.02.2003",
+      "label": "DATE",
+      "start_char": 100566,
+      "end_char": 100576
+    },
+    {
+      "text": "18th April, 1999",
+      "label": "DATE",
+      "start_char": 100806,
+      "end_char": 100822
+    },
+    {
+      "text": "Nationalized Bank Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 102547,
+      "end_char": 102606
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 102618,
+      "end_char": 102653
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 102656,
+      "end_char": 102699
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 102700,
+      "end_char": 102741
+    },
+    {
+      "text": "Central Bank of India).‖",
+      "label": "ORG",
+      "start_char": 102811,
+      "end_char": 102835
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 102894,
+      "end_char": 102898
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 102911,
+      "end_char": 102915
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 103085,
+      "end_char": 103089
+    },
+    {
+      "text": "SPDC",
+      "label": "STATUTE",
+      "start_char": 103157,
+      "end_char": 103161
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 103308,
+      "end_char": 103312
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 103965,
+      "end_char": 103969
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 103974,
+      "end_char": 103978
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 104503,
+      "end_char": 104544
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 104556,
+      "end_char": 104591
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 104594,
+      "end_char": 104637
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 104638,
+      "end_char": 104679
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 104727,
+      "end_char": 104731
+    },
+    {
+      "text": "Government of Sikkim",
+      "label": "ORG",
+      "start_char": 104740,
+      "end_char": 104760
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 104783,
+      "end_char": 104787
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 104877,
+      "end_char": 104881
+    },
+    {
+      "text": "Trustee Bank (Central Bank of India",
+      "label": "ORG",
+      "start_char": 104894,
+      "end_char": 104929
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 105057,
+      "end_char": 105061
+    },
+    {
+      "text": "18.04.1999",
+      "label": "DATE",
+      "start_char": 105179,
+      "end_char": 105189
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 105284,
+      "end_char": 105288
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 105527,
+      "end_char": 105531
+    },
+    {
+      "text": "15.10.2004",
+      "label": "DATE",
+      "start_char": 105977,
+      "end_char": 105987
+    },
+    {
+      "text": "L&T.",
+      "label": "ORG",
+      "start_char": 105993,
+      "end_char": 105997
+    },
+    {
+      "text": "15.10.2004",
+      "label": "DATE",
+      "start_char": 106098,
+      "end_char": 106108
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 106129,
+      "end_char": 106133
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 106286,
+      "end_char": 106290
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 106383,
+      "end_char": 106424
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 106436,
+      "end_char": 106471
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 106474,
+      "end_char": 106517
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 106518,
+      "end_char": 106559
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 106671,
+      "end_char": 106675
+    },
+    {
+      "text": "15.10.2004",
+      "label": "DATE",
+      "start_char": 106885,
+      "end_char": 106895
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 107016,
+      "end_char": 107020
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 107624,
+      "end_char": 107628
+    },
+    {
+      "text": "Rolep Hydro Electric Power Co. Ltd.",
+      "label": "ORG",
+      "start_char": 107660,
+      "end_char": 107695
+    },
+    {
+      "text": "Velankani Renewable Energy Private Limited",
+      "label": "ORG",
+      "start_char": 107700,
+      "end_char": 107742
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 107973,
+      "end_char": 108014
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 108026,
+      "end_char": 108061
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 108064,
+      "end_char": 108107
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 108108,
+      "end_char": 108149
+    },
+    {
+      "text": "02.05.2008",
+      "label": "DATE",
+      "start_char": 108337,
+      "end_char": 108347
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 108494,
+      "end_char": 108498
+    },
+    {
+      "text": "02.05.2008",
+      "label": "DATE",
+      "start_char": 108707,
+      "end_char": 108717
+    },
+    {
+      "text": "09.03.2004",
+      "label": "DATE",
+      "start_char": 108932,
+      "end_char": 108942
+    },
+    {
+      "text": "26.04.2004",
+      "label": "DATE",
+      "start_char": 108944,
+      "end_char": 108954
+    },
+    {
+      "text": "15.10.2004",
+      "label": "DATE",
+      "start_char": 108959,
+      "end_char": 108969
+    },
+    {
+      "text": "09.03.2004",
+      "label": "DATE",
+      "start_char": 109345,
+      "end_char": 109355
+    },
+    {
+      "text": "26.04.2004",
+      "label": "DATE",
+      "start_char": 109357,
+      "end_char": 109367
+    },
+    {
+      "text": "15.10.2004",
+      "label": "DATE",
+      "start_char": 109372,
+      "end_char": 109382
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 109652,
+      "end_char": 109656
+    },
+    {
+      "text": "09.03.2004",
+      "label": "DATE",
+      "start_char": 109742,
+      "end_char": 109752
+    },
+    {
+      "text": "26.04.2004",
+      "label": "DATE",
+      "start_char": 109754,
+      "end_char": 109764
+    },
+    {
+      "text": "15.10.2004",
+      "label": "DATE",
+      "start_char": 109769,
+      "end_char": 109779
+    },
+    {
+      "text": "ATPL",
+      "label": "COURT",
+      "start_char": 109883,
+      "end_char": 109887
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 109926,
+      "end_char": 109967
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 109979,
+      "end_char": 110014
+    },
+    {
+      "text": "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "label": "PRECEDENT",
+      "start_char": 110017,
+      "end_char": 110060
+    },
+    {
+      "text": "Sikkim Power Development Corporation Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 110061,
+      "end_char": 110102
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 110216,
+      "end_char": 110220
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 110265,
+      "end_char": 110269
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 110361,
+      "end_char": 110365
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 110582,
+      "end_char": 110586
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 110731,
+      "end_char": 110735
+    },
+    {
+      "text": "Arbitration Appeal No. 1 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 110863,
+      "end_char": 110895
+    },
+    {
+      "text": "Arbitration Appeal No. 1 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 110934,
+      "end_char": 110966
+    },
+    {
+      "text": "ATPL",
+      "label": "ORG",
+      "start_char": 110980,
+      "end_char": 110984
+    },
+    {
+      "text": "SPDC",
+      "label": "ORG",
+      "start_char": 111046,
+      "end_char": 111050
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 111096,
+      "end_char": 111109
+    },
+    {
+      "text": "14.10.2022",
+      "label": "DATE",
+      "start_char": 111116,
+      "end_char": 111126
+    },
+    {
+      "text": "Special Leave Petition (Civil) No. 18211-18212 of 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 111130,
+      "end_char": 111184
+    },
+    {
+      "text": "Biswanath Somadder",
+      "label": "JUDGE",
+      "start_char": 111343,
+      "end_char": 111361
+    },
+    {
+      "text": "Bhaskar Raj Pradhan",
+      "label": "JUDGE",
+      "start_char": 111399,
+      "end_char": 111418
+    }
+  ],
+  "precedent_clusters": {
+    "Amalgamated Transpower (India) Ltd.\n& Amalgamated Transpower (India) Ltd. vs. M/s Sikkim Power Development Corporation Ltd. & Anr": [
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Renusagar Power Co. Ltd. vs. General Electric Co.",
+      "Oil & Natural Gas Corporation Ltd. vs. Saw Pipes Ltd.2",
+      "Amalgamated Transpower (India) Ltd.\n& Amalgamated Transpower (India) Ltd. vs. M/s Sikkim Power Development Corporation Ltd. & Anr",
+      "McDermott International Inc. vs. Burn Standard Co. Ltd. & Others",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Associate Builders vs. Delhi Development Authority 4",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd.",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Maharashtra State Electricity Distribution Co. Ltd. vs. Datar Switch Gear Ltd. & Others",
+      "Ssangyong Engineering & Construction Co. Ltd. vs. National Highways Authority of India (NHAI)",
+      "Amalgamated Transpower (India) Ltd.\n& Amalgamated Transpower (India) Ltd. vs. M/s Sikkim Power Development Corporation Ltd. & Anr",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "MMTC Ltd. vs. Vedanta Ltd.7",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "State of Chhattisgarh & Another vs. Sal Udyog Private Limited9",
+      "Indian Oil Corporation Ltd. vs. Shree Ganesh Petroleum Rajgurunagar10",
+      "Delhi Airport Metro Express Private Limited vs. Delhi Metro Rail Corporation Limited11",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Haryana Tourism Ltd. vs. Kandhari Beverages Ltd.13",
+      "Dr. A. Parthasarathy and Others vs. E. Springs Avenues Pvt. Ltd. and others",
+      "Kinnari Mullick vs. Ghanshyam Das Damani",
+      "I-Pay Clearing Services Pvt",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd.",
+      "Amalgamated Transpower (India) Ltd. vs. M/s Sikkim Power Development Corporation Ltd. & Anr",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd.\n& Amalgamated Transpower (India) Ltd. vs. M/s Sikkim Power Development Corporation Ltd. & Anr",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd.",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Chatturbhuj Vithaldas Jasani vs. Moreshwar Parashram and others 17",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "C. Haridasan vs. Anappath Parakkattu Vasudeva Kurup & Others",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Kanshi Ram vs. Om Prakash Jawal & Others19",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Rajasthan Breweries Limited vs. The Stroh Brewery Company",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s",
+      "Amalgamated Transpower (India) Ltd. vs. M/s"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "section 37",
+      "Arbitration & Conciliation Act, 1996",
+      "section 37",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "section 96",
+      "Code of Civil Procedure, 1908",
+      "section 96",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "sections 16, 21(1) and (2)",
+      "Specific Relief Act, 1963",
+      "sections 16, 21(1) and (2)",
+      "Specific Relief Act, 1963"
+    ],
+    [
+      "Sections 34 and 37",
+      "Arbitration Act",
+      "Sections 34 and 37",
+      "Arbitration Act"
+    ],
+    [
+      "section 7(1)(b)(ii)",
+      "Foreign Awards (Recognition and Enforcement) Act, 1961",
+      "section 7(1)(b)(ii)",
+      "Foreign Awards (Recognition and Enforcement) Act, 1961"
+    ],
+    [
+      "Section 34",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "section 34(2)(b)(ii)",
+      "Arbitration Act, 1996",
+      "section 34(2)(b)(ii)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 28(3)",
+      "Arbitration Act",
+      "section 28(3)",
+      "Arbitration Act"
+    ],
+    [
+      "section 31(3)",
+      "Arbitration Act",
+      "section 31(3)",
+      "Arbitration Act"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 18 and 34(2)(a)(iii)",
+      "Arbitration Act",
+      "section 18 and 34(2)(a)(iii)",
+      "Arbitration Act"
+    ],
+    [
+      "section 37",
+      "Arbitration & Conciliation Act, 1996",
+      "section 37",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "section 37",
+      "Arbitration Act",
+      "section 37",
+      "Arbitration Act"
+    ],
+    [
+      "section 37",
+      "Arbitration Act",
+      "section 37",
+      "Arbitration Act"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 34/37",
+      "Arbitration Act",
+      "section 34/37",
+      "Arbitration Act"
+    ],
+    [
+      "section 37",
+      "Arbitration Act",
+      "section 37",
+      "Arbitration Act"
+    ],
+    [
+      "section 37",
+      "Arbitration Act",
+      "section 37",
+      "Arbitration Act"
+    ],
+    [
+      "section 37",
+      "Arbitration Act",
+      "section 37",
+      "Arbitration Act"
+    ],
+    [
+      "section 21",
+      "Specific Relief Act, 1963",
+      "section 21",
+      "Specific Relief Act, 1963"
+    ],
+    [
+      "section 36",
+      "Arbitration Act",
+      "section 36",
+      "Arbitration Act"
+    ],
+    [
+      "section 36",
+      "Arbitration Act",
+      "section 36",
+      "Arbitration Act"
+    ],
+    [
+      "section 63",
+      "Indian Contract Act, 1872",
+      "section 63",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "Article 166 and 299",
+      "Constitution of India",
+      "Article 166 and 299",
+      "Constitution of India"
+    ],
+    [
+      "Article 299",
+      "Constitution of India",
+      "Article 299",
+      "Constitution of India"
+    ],
+    [
+      "Article 299",
+      "Constitution of India",
+      "Article 299",
+      "Constitution of India"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 16",
+      "Specific Relief Act, 1963",
+      "section 16",
+      "Specific Relief Act, 1963"
+    ],
+    [
+      "section 21",
+      "Specific Relief Act, 1963",
+      "section 21",
+      "Specific Relief Act, 1963"
+    ],
+    [
+      "section 63",
+      "Indian Contract Act, 1872",
+      "section 63",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "section 63",
+      "Indian Contract Act, 1872",
+      "section 63",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "section 37",
+      "Arbitration & Conciliation Act, 1996",
+      "section 37",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "section 63",
+      "Indian Contract Act, 1872",
+      "section 63",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "sections 34",
+      "Arbitration Act",
+      "sections 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 34(2-A)",
+      "Arbitration Act",
+      "section 34(2-A)",
+      "Arbitration Act"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 37",
+      "Arbitration Act",
+      "section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Article 299",
+      "Constitution of India",
+      "Article 299",
+      "Constitution of India"
+    ],
+    [
+      "Article 299",
+      "Constitution of India",
+      "Article 299",
+      "Constitution of India"
+    ],
+    [
+      "Article 299",
+      "Constitution of India",
+      "Article 299",
+      "Constitution of India"
+    ],
+    [
+      "Section 16",
+      "Specific Relief Act, 1963",
+      "Section 16",
+      "Specific Relief Act, 1963"
+    ],
+    [
+      "Section 63",
+      "Indian Contract Act, 1872",
+      "Section 63",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "section 75 or section 81",
+      "Arbitration Act",
+      "section 75 or section 81",
+      "Arbitration Act"
+    ]
+  ],
+  "precedent_counts": {
+    "Amalgamated Transpower (India) Ltd.\n& Amalgamated Transpower (India) Ltd. vs. M/s Sikkim Power Development Corporation Ltd. & Anr": 78
+  },
+  "provision_counts": {
+    "section 37 of Arbitration & Conciliation Act, 1996": 3,
+    "section 96 of Code of Civil Procedure, 1908": 1,
+    "section 34 of Arbitration Act": 14,
+    "sections 16, 21(1) and (2) of Specific Relief Act, 1963": 1,
+    "Sections 34 and 37 of Arbitration Act": 1,
+    "section 7(1)(b)(ii) of Foreign Awards (Recognition and Enforcement) Act, 1961": 1,
+    "Section 34 of Arbitration & Conciliation Act, 1996": 1,
+    "section 34(2)(b)(ii) of Arbitration Act, 1996": 1,
+    "Section 34 of Arbitration Act": 1,
+    "section 28(3) of Arbitration Act": 1,
+    "section 31(3) of Arbitration Act": 1,
+    "section 18 and 34(2)(a)(iii) of Arbitration Act": 1,
+    "section 37 of Arbitration Act": 6,
+    "section 34/37 of Arbitration Act": 1,
+    "section 21 of Specific Relief Act, 1963": 2,
+    "section 36 of Arbitration Act": 2,
+    "section 63 of Indian Contract Act, 1872": 4,
+    "Article 166 and 299 of Constitution of India": 1,
+    "Article 299 of Constitution of India": 5,
+    "section 16 of Specific Relief Act, 1963": 1,
+    "sections 34 of Arbitration Act": 1,
+    "section 34(2-A) of Arbitration Act": 1,
+    "Section 16 of Specific Relief Act, 1963": 1,
+    "Section 63 of Indian Contract Act, 1872": 1,
+    "section 75 or section 81 of Arbitration Act": 1
+  },
+  "statute_counts": {
+    "Arbitration & Conciliation Act, 1996": 4,
+    "Code of Civil Procedure, 1908": 1,
+    "Arbitration Act": 31,
+    "Specific Relief Act, 1963": 5,
+    "Foreign Awards (Recognition and Enforcement) Act, 1961": 1,
+    "Arbitration Act, 1996": 1,
+    "Indian Contract Act, 1872": 5,
+    "Constitution of India": 6
+  }
+}

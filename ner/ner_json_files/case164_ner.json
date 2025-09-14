@@ -1,0 +1,3463 @@
+{
+  "entities": [
+    {
+      "text": "Jharkhand High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 20
+    },
+    {
+      "text": "Bharat Coking Coal Limited",
+      "label": "PETITIONER",
+      "start_char": 21,
+      "end_char": 47
+    },
+    {
+      "text": "At-Libra Bpl (Jv)",
+      "label": "RESPONDENT",
+      "start_char": 56,
+      "end_char": 73
+    },
+    {
+      "text": "High Court Of Jharkhand At Ranchi",
+      "label": "COURT",
+      "start_char": 110,
+      "end_char": 143
+    },
+    {
+      "text": "Bharat Coking Coal Limited",
+      "label": "PETITIONER",
+      "start_char": 235,
+      "end_char": 261
+    },
+    {
+      "text": "Director (Technical), Operation, Bharat Coking Coal Limited, Koyla Bhawan, P.O.- Koyla Nagar, P.S.- Saraidhela, District - Dhanbad, Pin 826005 (Jharkhand)",
+      "label": "RESPONDENT",
+      "start_char": 747,
+      "end_char": 901
+    },
+    {
+      "text": "General Manager, Contact Management Cell, Bharat Coking Coal Limited, Koyla Bhawan, P.O. -Koyla Nagar, P.S.- Saraidhela, District Dhanbad, Pin 826005 (Jharkhand)",
+      "label": "RESPONDENT",
+      "start_char": 905,
+      "end_char": 1066
+    },
+    {
+      "text": "General Manager, Bastascolla Area, Bharat Coking Coal Limited, P.O. - Dhansar, P.S.- Jahria, District Dhanbad, Pin 828106 (Jharkhand)",
+      "label": "RESPONDENT",
+      "start_char": 1070,
+      "end_char": 1203
+    },
+    {
+      "text": "Project Officer/Engineer Incharge, Gocp/Kocp, Kuiya Colliery, Bastacola Area, Bharat Coking Coal Limited, P.O.- Dhansar, P.S. Jharia, District- Dhanbad, Pin 828106 (Jharkhand)",
+      "label": "RESPONDENT",
+      "start_char": 1207,
+      "end_char": 1382
+    },
+    {
+      "text": "Libra Hyundai",
+      "label": "ORG",
+      "start_char": 1451,
+      "end_char": 1464
+    },
+    {
+      "text": "K. Bank More",
+      "label": "ORG",
+      "start_char": 1466,
+      "end_char": 1478
+    },
+    {
+      "text": "Dhanbad",
+      "label": "GPE",
+      "start_char": 1480,
+      "end_char": 1487
+    },
+    {
+      "text": "Jharkhand",
+      "label": "GPE",
+      "start_char": 1489,
+      "end_char": 1498
+    },
+    {
+      "text": "Rahul Singh",
+      "label": "WITNESS",
+      "start_char": 1543,
+      "end_char": 1554
+    },
+    {
+      "text": "Sheo Narain Singh",
+      "label": "OTHER_PERSON",
+      "start_char": 1565,
+      "end_char": 1582
+    },
+    {
+      "text": "Jharia",
+      "label": "GPE",
+      "start_char": 1631,
+      "end_char": 1637
+    },
+    {
+      "text": "P.S.- Jharia",
+      "label": "ORG",
+      "start_char": 1648,
+      "end_char": 1660
+    },
+    {
+      "text": "Dhanbad",
+      "label": "GPE",
+      "start_char": 1672,
+      "end_char": 1679
+    },
+    {
+      "text": "Jharkhand",
+      "label": "GPE",
+      "start_char": 1681,
+      "end_char": 1690
+    },
+    {
+      "text": "ARUN KUMAR RAI",
+      "label": "JUDGE",
+      "start_char": 1780,
+      "end_char": 1794
+    },
+    {
+      "text": "Amit Kr",
+      "label": "OTHER_PERSON",
+      "start_char": 1827,
+      "end_char": 1834
+    },
+    {
+      "text": "Das",
+      "label": "OTHER_PERSON",
+      "start_char": 1836,
+      "end_char": 1839
+    },
+    {
+      "text": "S.B. Upadhyay",
+      "label": "OTHER_PERSON",
+      "start_char": 1854,
+      "end_char": 1867
+    },
+    {
+      "text": "Parijat Kishore",
+      "label": "LAWYER",
+      "start_char": 1886,
+      "end_char": 1901
+    },
+    {
+      "text": "Abhishek Goel",
+      "label": "LAWYER",
+      "start_char": 1916,
+      "end_char": 1929
+    },
+    {
+      "text": "M.A. Niyazi",
+      "label": "OTHER_PERSON",
+      "start_char": 1965,
+      "end_char": 1976
+    },
+    {
+      "text": "Shailesh Kr",
+      "label": "OTHER_PERSON",
+      "start_char": 1991,
+      "end_char": 2002
+    },
+    {
+      "text": "Pankaj Prasad",
+      "label": "LAWYER",
+      "start_char": 2024,
+      "end_char": 2037
+    },
+    {
+      "text": "Sujit Narayan Prasad",
+      "label": "JUDGE",
+      "start_char": 2224,
+      "end_char": 2244
+    },
+    {
+      "text": "section 13",
+      "label": "PROVISION",
+      "start_char": 2282,
+      "end_char": 2292
+    },
+    {
+      "text": "Commercial Courts",
+      "label": "STATUTE",
+      "start_char": 2300,
+      "end_char": 2317
+    },
+    {
+      "text": "08.05.2023",
+      "label": "DATE",
+      "start_char": 2368,
+      "end_char": 2378
+    },
+    {
+      "text": "District Judge-III-cum-Presiding Officer, Commercial Court No. III, Dhanbad",
+      "label": "COURT",
+      "start_char": 2393,
+      "end_char": 2468
+    },
+    {
+      "text": "Original Suit No. 09 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 2473,
+      "end_char": 2501
+    },
+    {
+      "text": "08.02.2012",
+      "label": "DATE",
+      "start_char": 2819,
+      "end_char": 2829
+    },
+    {
+      "text": "BCCL/BA- IX/KOCP/64",
+      "label": "CASE_NUMBER",
+      "start_char": 3025,
+      "end_char": 3044
+    },
+    {
+      "text": "30.03.2018",
+      "label": "DATE",
+      "start_char": 3052,
+      "end_char": 3062
+    },
+    {
+      "text": "02.04.2018",
+      "label": "DATE",
+      "start_char": 3073,
+      "end_char": 3083
+    },
+    {
+      "text": "HPC",
+      "label": "STATUTE",
+      "start_char": 3349,
+      "end_char": 3352
+    },
+    {
+      "text": "08th May 2023",
+      "label": "DATE",
+      "start_char": 3353,
+      "end_char": 3366
+    },
+    {
+      "text": "District Judge-cum- Presiding Officer Commercial Court No.-III, Dhanbad",
+      "label": "COURT",
+      "start_char": 3401,
+      "end_char": 3472
+    },
+    {
+      "text": "Original Suit No.-09/2019 CNR",
+      "label": "CASE_NUMBER",
+      "start_char": 3473,
+      "end_char": 3502
+    },
+    {
+      "text": "JHDH01-002164-2019",
+      "label": "DATE",
+      "start_char": 3509,
+      "end_char": 3527
+    },
+    {
+      "text": "s 26",
+      "label": "PROVISION",
+      "start_char": 3531,
+      "end_char": 3535
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 3536,
+      "end_char": 3542
+    },
+    {
+      "text": "Commercial Court Act",
+      "label": "STATUTE",
+      "start_char": 3559,
+      "end_char": 3579
+    },
+    {
+      "text": "No. 09 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 4288,
+      "end_char": 4302
+    },
+    {
+      "text": "AT-Libra BPL",
+      "label": "ORG",
+      "start_char": 4379,
+      "end_char": 4391
+    },
+    {
+      "text": "No. 09 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 4458,
+      "end_char": 4472
+    },
+    {
+      "text": "Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 4613,
+      "end_char": 4645
+    },
+    {
+      "text": "s 26",
+      "label": "PROVISION",
+      "start_char": 4666,
+      "end_char": 4670
+    },
+    {
+      "text": "Civil Procedure Code",
+      "label": "STATUTE",
+      "start_char": 4674,
+      "end_char": 4694
+    },
+    {
+      "text": "Sections 6 & 12",
+      "label": "PROVISION",
+      "start_char": 4700,
+      "end_char": 4715
+    },
+    {
+      "text": "Commercial Court Act 2015",
+      "label": "STATUTE",
+      "start_char": 4719,
+      "end_char": 4744
+    },
+    {
+      "text": "Golukdih NC Project",
+      "label": "ORG",
+      "start_char": 5187,
+      "end_char": 5206
+    },
+    {
+      "text": "Bastacolla",
+      "label": "GPE",
+      "start_char": 5241,
+      "end_char": 5251
+    },
+    {
+      "text": "07.11.2011",
+      "label": "DATE",
+      "start_char": 5423,
+      "end_char": 5433
+    },
+    {
+      "text": "Golukdih NC",
+      "label": "ORG",
+      "start_char": 5682,
+      "end_char": 5693
+    },
+    {
+      "text": "Bastacolla",
+      "label": "GPE",
+      "start_char": 5736,
+      "end_char": 5746
+    },
+    {
+      "text": "07.11.2011",
+      "label": "DATE",
+      "start_char": 6039,
+      "end_char": 6049
+    },
+    {
+      "text": "28.11.2011",
+      "label": "DATE",
+      "start_char": 6147,
+      "end_char": 6157
+    },
+    {
+      "text": "29.09.2018",
+      "label": "DATE",
+      "start_char": 6163,
+      "end_char": 6173
+    },
+    {
+      "text": "08.02.2012",
+      "label": "DATE",
+      "start_char": 6232,
+      "end_char": 6242
+    },
+    {
+      "text": "39.61/",
+      "label": "DATE",
+      "start_char": 6533,
+      "end_char": 6539
+    },
+    {
+      "text": "Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 6655,
+      "end_char": 6687
+    },
+    {
+      "text": "January 31,2018.",
+      "label": "DATE",
+      "start_char": 6864,
+      "end_char": 6880
+    },
+    {
+      "text": "02.04.2014",
+      "label": "DATE",
+      "start_char": 6884,
+      "end_char": 6894
+    },
+    {
+      "text": "17.01.2018",
+      "label": "DATE",
+      "start_char": 7272,
+      "end_char": 7282
+    },
+    {
+      "text": "25.10.2019",
+      "label": "DATE",
+      "start_char": 7385,
+      "end_char": 7395
+    },
+    {
+      "text": "31.01.2018",
+      "label": "DATE",
+      "start_char": 7442,
+      "end_char": 7452
+    },
+    {
+      "text": "19.02.2018",
+      "label": "DATE",
+      "start_char": 7644,
+      "end_char": 7654
+    },
+    {
+      "text": "23.02.2018",
+      "label": "DATE",
+      "start_char": 7924,
+      "end_char": 7934
+    },
+    {
+      "text": "CBI",
+      "label": "ORG",
+      "start_char": 7986,
+      "end_char": 7989
+    },
+    {
+      "text": "C.B.I",
+      "label": "ORG",
+      "start_char": 8282,
+      "end_char": 8287
+    },
+    {
+      "text": "BCCL",
+      "label": "ORG",
+      "start_char": 8520,
+      "end_char": 8524
+    },
+    {
+      "text": "GPC",
+      "label": "STATUTE",
+      "start_char": 8704,
+      "end_char": 8707
+    },
+    {
+      "text": "4 Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 8738,
+      "end_char": 8772
+    },
+    {
+      "text": "CMPDIL",
+      "label": "ORG",
+      "start_char": 9074,
+      "end_char": 9080
+    },
+    {
+      "text": "CBI",
+      "label": "ORG",
+      "start_char": 9085,
+      "end_char": 9088
+    },
+    {
+      "text": "CMPDIL",
+      "label": "ORG",
+      "start_char": 9506,
+      "end_char": 9512
+    },
+    {
+      "text": "30.03.2018",
+      "label": "DATE",
+      "start_char": 10249,
+      "end_char": 10259
+    },
+    {
+      "text": "Dhanbad",
+      "label": "GPE",
+      "start_char": 10653,
+      "end_char": 10660
+    },
+    {
+      "text": "Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 10860,
+      "end_char": 10892
+    },
+    {
+      "text": "04.05.2018",
+      "label": "DATE",
+      "start_char": 11004,
+      "end_char": 11014
+    },
+    {
+      "text": "12.10.2018",
+      "label": "DATE",
+      "start_char": 11121,
+      "end_char": 11131
+    },
+    {
+      "text": "30.03.2018/02.04.2018",
+      "label": "DATE",
+      "start_char": 11267,
+      "end_char": 11288
+    },
+    {
+      "text": "01.02.2018",
+      "label": "DATE",
+      "start_char": 11340,
+      "end_char": 11350
+    },
+    {
+      "text": "10.04.2018",
+      "label": "DATE",
+      "start_char": 11529,
+      "end_char": 11539
+    },
+    {
+      "text": "31.01.2018",
+      "label": "DATE",
+      "start_char": 11640,
+      "end_char": 11650
+    },
+    {
+      "text": "NIT",
+      "label": "ORG",
+      "start_char": 12018,
+      "end_char": 12021
+    },
+    {
+      "text": "18.06.2018",
+      "label": "DATE",
+      "start_char": 12049,
+      "end_char": 12059
+    },
+    {
+      "text": "Hyderabad",
+      "label": "GPE",
+      "start_char": 12082,
+      "end_char": 12091
+    },
+    {
+      "text": "BGR Mining",
+      "label": "ORG",
+      "start_char": 12118,
+      "end_char": 12128
+    },
+    {
+      "text": "Infra Limited",
+      "label": "ORG",
+      "start_char": 12133,
+      "end_char": 12146
+    },
+    {
+      "text": "Bastacolla",
+      "label": "GPE",
+      "start_char": 12374,
+      "end_char": 12384
+    },
+    {
+      "text": "BCCL",
+      "label": "ORG",
+      "start_char": 12393,
+      "end_char": 12397
+    },
+    {
+      "text": "06.10.2018",
+      "label": "DATE",
+      "start_char": 12459,
+      "end_char": 12469
+    },
+    {
+      "text": "CMD BCCL",
+      "label": "ORG",
+      "start_char": 12525,
+      "end_char": 12533
+    },
+    {
+      "text": "05.11.2018",
+      "label": "DATE",
+      "start_char": 12563,
+      "end_char": 12573
+    },
+    {
+      "text": "6 Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 12874,
+      "end_char": 12908
+    },
+    {
+      "text": "31.01.2018",
+      "label": "DATE",
+      "start_char": 13200,
+      "end_char": 13210
+    },
+    {
+      "text": "18.05.2018",
+      "label": "DATE",
+      "start_char": 13307,
+      "end_char": 13317
+    },
+    {
+      "text": "29.05.2019",
+      "label": "DATE",
+      "start_char": 13346,
+      "end_char": 13356
+    },
+    {
+      "text": "2,10,01,161/-",
+      "label": "DATE",
+      "start_char": 13472,
+      "end_char": 13485
+    },
+    {
+      "text": "Original Suit No.09 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 13620,
+      "end_char": 13647
+    },
+    {
+      "text": "08.02.2012",
+      "label": "DATE",
+      "start_char": 13846,
+      "end_char": 13856
+    },
+    {
+      "text": "30.03.2018",
+      "label": "DATE",
+      "start_char": 14088,
+      "end_char": 14098
+    },
+    {
+      "text": "02.04.2018",
+      "label": "DATE",
+      "start_char": 14109,
+      "end_char": 14119
+    },
+    {
+      "text": "HPC",
+      "label": "STATUTE",
+      "start_char": 14745,
+      "end_char": 14748
+    },
+    {
+      "text": "Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 14783,
+      "end_char": 14815
+    },
+    {
+      "text": "CIMFR",
+      "label": "ORG",
+      "start_char": 15561,
+      "end_char": 15566
+    },
+    {
+      "text": "Dhanbad",
+      "label": "GPE",
+      "start_char": 15568,
+      "end_char": 15575
+    },
+    {
+      "text": "24.03.2018",
+      "label": "DATE",
+      "start_char": 16361,
+      "end_char": 16371
+    },
+    {
+      "text": "Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 16639,
+      "end_char": 16671
+    },
+    {
+      "text": "23.03.2018",
+      "label": "DATE",
+      "start_char": 18370,
+      "end_char": 18380
+    },
+    {
+      "text": "Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 18569,
+      "end_char": 18601
+    },
+    {
+      "text": "Golukdih",
+      "label": "GPE",
+      "start_char": 19792,
+      "end_char": 19800
+    },
+    {
+      "text": "Bastacolla",
+      "label": "GPE",
+      "start_char": 19846,
+      "end_char": 19856
+    },
+    {
+      "text": "AT Libra BPL",
+      "label": "RESPONDENT",
+      "start_char": 19972,
+      "end_char": 19984
+    },
+    {
+      "text": "07.11.2011",
+      "label": "DATE",
+      "start_char": 20072,
+      "end_char": 20082
+    },
+    {
+      "text": "08.02.2012",
+      "label": "DATE",
+      "start_char": 20390,
+      "end_char": 20400
+    },
+    {
+      "text": "31.01.2018",
+      "label": "DATE",
+      "start_char": 20580,
+      "end_char": 20590
+    },
+    {
+      "text": "02.04.2014",
+      "label": "DATE",
+      "start_char": 20621,
+      "end_char": 20631
+    },
+    {
+      "text": "10 Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 20636,
+      "end_char": 20671
+    },
+    {
+      "text": "17.01.2018",
+      "label": "DATE",
+      "start_char": 20998,
+      "end_char": 21008
+    },
+    {
+      "text": "25.10.2019",
+      "label": "DATE",
+      "start_char": 21110,
+      "end_char": 21120
+    },
+    {
+      "text": "23.02.2018",
+      "label": "DATE",
+      "start_char": 21297,
+      "end_char": 21307
+    },
+    {
+      "text": "CBI",
+      "label": "ORG",
+      "start_char": 21359,
+      "end_char": 21362
+    },
+    {
+      "text": "30.03.2018",
+      "label": "DATE",
+      "start_char": 21831,
+      "end_char": 21841
+    },
+    {
+      "text": "10.04.2018",
+      "label": "DATE",
+      "start_char": 22196,
+      "end_char": 22206
+    },
+    {
+      "text": "31.01.2018",
+      "label": "DATE",
+      "start_char": 22307,
+      "end_char": 22317
+    },
+    {
+      "text": "BGR Mining",
+      "label": "ORG",
+      "start_char": 22540,
+      "end_char": 22550
+    },
+    {
+      "text": "Infra Limited",
+      "label": "ORG",
+      "start_char": 22555,
+      "end_char": 22568
+    },
+    {
+      "text": "Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 22574,
+      "end_char": 22606
+    },
+    {
+      "text": "2,10,01,161/-",
+      "label": "DATE",
+      "start_char": 23538,
+      "end_char": 23551
+    },
+    {
+      "text": "08.02.2012",
+      "label": "DATE",
+      "start_char": 23850,
+      "end_char": 23860
+    },
+    {
+      "text": "30.03.2018",
+      "label": "DATE",
+      "start_char": 24061,
+      "end_char": 24071
+    },
+    {
+      "text": "02.04.2018",
+      "label": "DATE",
+      "start_char": 24082,
+      "end_char": 24092
+    },
+    {
+      "text": "Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 24704,
+      "end_char": 24736
+    },
+    {
+      "text": "23.03.2018",
+      "label": "DATE",
+      "start_char": 25423,
+      "end_char": 25433
+    },
+    {
+      "text": "Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 26748,
+      "end_char": 26780
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 26962,
+      "end_char": 26972
+    },
+    {
+      "text": "Commercial Courts Act 2015",
+      "label": "STATUTE",
+      "start_char": 26976,
+      "end_char": 27002
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 27045,
+      "end_char": 27055
+    },
+    {
+      "text": "Arbitration and Conciliation Act,1996 against",
+      "label": "STATUTE",
+      "start_char": 27063,
+      "end_char": 27108
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 27186,
+      "end_char": 27209
+    },
+    {
+      "text": "Section 13(1-A)",
+      "label": "PROVISION",
+      "start_char": 27263,
+      "end_char": 27278
+    },
+    {
+      "text": "Deoraj Singh vs. CCL, 2023 SCC Online Jhar 1558",
+      "label": "PRECEDENT",
+      "start_char": 27497,
+      "end_char": 27544
+    },
+    {
+      "text": "NIT",
+      "label": "COURT",
+      "start_char": 28093,
+      "end_char": 28096
+    },
+    {
+      "text": "Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 28654,
+      "end_char": 28686
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 30102,
+      "end_char": 30112
+    },
+    {
+      "text": "Kishor Kirtilal Mehta",
+      "label": "OTHER_PERSON",
+      "start_char": 30128,
+      "end_char": 30149
+    },
+    {
+      "text": "Lilavati Kirtilal Mehta Medical Trust and Ors, 2007 (10) SCC 21",
+      "label": "PRECEDENT",
+      "start_char": 30161,
+      "end_char": 30224
+    },
+    {
+      "text": "Bachhaj Nahar v Nilima Mandal and Anr",
+      "label": "PRECEDENT",
+      "start_char": 30229,
+      "end_char": 30266
+    },
+    {
+      "text": "Section 73",
+      "label": "PROVISION",
+      "start_char": 30518,
+      "end_char": 30528
+    },
+    {
+      "text": "Contract Act, 1872",
+      "label": "STATUTE",
+      "start_char": 30536,
+      "end_char": 30554
+    },
+    {
+      "text": "Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 30613,
+      "end_char": 30645
+    },
+    {
+      "text": "Section 73",
+      "label": "PROVISION",
+      "start_char": 30739,
+      "end_char": 30749
+    },
+    {
+      "text": "Sections 34, 64, 65(g), and 102",
+      "label": "PROVISION",
+      "start_char": 31200,
+      "end_char": 31231
+    },
+    {
+      "text": "Evidence Act",
+      "label": "STATUTE",
+      "start_char": 31239,
+      "end_char": 31251
+    },
+    {
+      "text": "Sections 34, 64, 65(g), and 102",
+      "label": "PROVISION",
+      "start_char": 31508,
+      "end_char": 31539
+    },
+    {
+      "text": "Evidence Act",
+      "label": "STATUTE",
+      "start_char": 31547,
+      "end_char": 31559
+    },
+    {
+      "text": "12/13.05.2021",
+      "label": "DATE",
+      "start_char": 31806,
+      "end_char": 31819
+    },
+    {
+      "text": "Section 2(b) and Section 3(b)",
+      "label": "PROVISION",
+      "start_char": 31891,
+      "end_char": 31920
+    },
+    {
+      "text": "Interest Act",
+      "label": "STATUTE",
+      "start_char": 31928,
+      "end_char": 31940
+    },
+    {
+      "text": "Rule 2A of Order VII",
+      "label": "PROVISION",
+      "start_char": 31945,
+      "end_char": 31965
+    },
+    {
+      "text": "CPC, 1908",
+      "label": "STATUTE",
+      "start_char": 31967,
+      "end_char": 31976
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 32004,
+      "end_char": 32031
+    },
+    {
+      "text": "Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 32317,
+      "end_char": 32349
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 32712,
+      "end_char": 32733
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 32783,
+      "end_char": 32810
+    },
+    {
+      "text": "Section 96",
+      "label": "PROVISION",
+      "start_char": 32987,
+      "end_char": 32997
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 33001,
+      "end_char": 33030
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 33098,
+      "end_char": 33119
+    },
+    {
+      "text": "Section 13(1) and 13(1-A)",
+      "label": "PROVISION",
+      "start_char": 33277,
+      "end_char": 33302
+    },
+    {
+      "text": "Order VI rule 3-A",
+      "label": "PROVISION",
+      "start_char": 33402,
+      "end_char": 33419
+    },
+    {
+      "text": "Order VII and VIII",
+      "label": "PROVISION",
+      "start_char": 33606,
+      "end_char": 33624
+    },
+    {
+      "text": "Order VIII (3-A)",
+      "label": "PROVISION",
+      "start_char": 33711,
+      "end_char": 33727
+    },
+    {
+      "text": "sub-rules (2), (3), (4) and (5)",
+      "label": "PROVISION",
+      "start_char": 33878,
+      "end_char": 33909
+    },
+    {
+      "text": "sub-rules (2), (3) and (4) and (5)",
+      "label": "PROVISION",
+      "start_char": 33949,
+      "end_char": 33983
+    },
+    {
+      "text": "Order VIII",
+      "label": "PROVISION",
+      "start_char": 34202,
+      "end_char": 34212
+    },
+    {
+      "text": "Rule, 3-A 17",
+      "label": "PROVISION",
+      "start_char": 34228,
+      "end_char": 34240
+    },
+    {
+      "text": "Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 34241,
+      "end_char": 34273
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 34333,
+      "end_char": 34343
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 34351,
+      "end_char": 34372
+    },
+    {
+      "text": "sub-rules (2), (3), (4) and (5)",
+      "label": "PROVISION",
+      "start_char": 34564,
+      "end_char": 34595
+    },
+    {
+      "text": "Rule 5",
+      "label": "PROVISION",
+      "start_char": 35470,
+      "end_char": 35476
+    },
+    {
+      "text": "sub-rule (1)",
+      "label": "PROVISION",
+      "start_char": 35481,
+      "end_char": 35493
+    },
+    {
+      "text": "Rule 3A",
+      "label": "PROVISION",
+      "start_char": 35678,
+      "end_char": 35685
+    },
+    {
+      "text": "Order XI (4)(3)",
+      "label": "PROVISION",
+      "start_char": 35818,
+      "end_char": 35833
+    },
+    {
+      "text": "Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 36637,
+      "end_char": 36669
+    },
+    {
+      "text": "s 51 and 52, 54, 67,70 and 73",
+      "label": "PROVISION",
+      "start_char": 37508,
+      "end_char": 37537
+    },
+    {
+      "text": "Contract Act, 1872",
+      "label": "STATUTE",
+      "start_char": 37545,
+      "end_char": 37563
+    },
+    {
+      "text": "Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 38368,
+      "end_char": 38400
+    },
+    {
+      "text": "Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 40280,
+      "end_char": 40312
+    },
+    {
+      "text": "Order 31 Rule 21 Commercial Appeal No. 18 of 2023",
+      "label": "PROVISION",
+      "start_char": 42210,
+      "end_char": 42259
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 43634,
+      "end_char": 43644
+    },
+    {
+      "text": "Commercial Courts Act 2015",
+      "label": "STATUTE",
+      "start_char": 43648,
+      "end_char": 43674
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 43717,
+      "end_char": 43727
+    },
+    {
+      "text": "Arbitration and Conciliation Act,1996 against",
+      "label": "STATUTE",
+      "start_char": 43735,
+      "end_char": 43780
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 43879,
+      "end_char": 43902
+    },
+    {
+      "text": "Section 13(1-A)",
+      "label": "PROVISION",
+      "start_char": 43963,
+      "end_char": 43978
+    },
+    {
+      "text": "Deoraj Singh vs. CCL(supra)",
+      "label": "PRECEDENT",
+      "start_char": 44198,
+      "end_char": 44225
+    },
+    {
+      "text": "Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 44231,
+      "end_char": 44263
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 44681,
+      "end_char": 44708
+    },
+    {
+      "text": "s 96",
+      "label": "PROVISION",
+      "start_char": 44885,
+      "end_char": 44889
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 44893,
+      "end_char": 44922
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 45011,
+      "end_char": 45038
+    },
+    {
+      "text": "Chapter IV",
+      "label": "PROVISION",
+      "start_char": 45442,
+      "end_char": 45452
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 45458,
+      "end_char": 45468
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 45490,
+      "end_char": 45500
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 46307,
+      "end_char": 46318
+    },
+    {
+      "text": "Civil Procedure Code, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 46326,
+      "end_char": 46364
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 46392,
+      "end_char": 46402
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996).] (2)",
+      "label": "STATUTE",
+      "start_char": 46410,
+      "end_char": 46467
+    },
+    {
+      "text": "Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 46740,
+      "end_char": 46772
+    },
+    {
+      "text": "Sub-section (1) of section 13",
+      "label": "PROVISION",
+      "start_char": 46773,
+      "end_char": 46802
+    },
+    {
+      "text": "Sub-section (2) of Section 13",
+      "label": "PROVISION",
+      "start_char": 47376,
+      "end_char": 47405
+    },
+    {
+      "text": "sub-section (2) of Section 13",
+      "label": "PROVISION",
+      "start_char": 47742,
+      "end_char": 47771
+    },
+    {
+      "text": "sub-section (2) of Section 13",
+      "label": "PROVISION",
+      "start_char": 48012,
+      "end_char": 48041
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 48308,
+      "end_char": 48335
+    },
+    {
+      "text": "sub-section (2) of Section 13",
+      "label": "PROVISION",
+      "start_char": 48359,
+      "end_char": 48388
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 48819,
+      "end_char": 48846
+    },
+    {
+      "text": "Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 48852,
+      "end_char": 48884
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 48928,
+      "end_char": 48955
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 49112,
+      "end_char": 49122
+    },
+    {
+      "text": "Jaycee Housing Private Limited and Ors v. Registrar (general), Orissa High Court, Cuttack and Ors, (2023) 1",
+      "label": "PRECEDENT",
+      "start_char": 49138,
+      "end_char": 49245
+    },
+    {
+      "text": "SCC 549",
+      "label": "PROVISION",
+      "start_char": 49246,
+      "end_char": 49253
+    },
+    {
+      "text": "Kandla Export Corporation",
+      "label": "ORG",
+      "start_char": 49277,
+      "end_char": 49302
+    },
+    {
+      "text": "OCI Corporation",
+      "label": "RESPONDENT",
+      "start_char": 49315,
+      "end_char": 49330
+    },
+    {
+      "text": "04.10.2023",
+      "label": "DATE",
+      "start_char": 49628,
+      "end_char": 49638
+    },
+    {
+      "text": "Commercial Appeal 02/2020",
+      "label": "CASE_NUMBER",
+      "start_char": 49689,
+      "end_char": 49714
+    },
+    {
+      "text": "Deoraj Singh versus CCL",
+      "label": "PRECEDENT",
+      "start_char": 49729,
+      "end_char": 49752
+    },
+    {
+      "text": "Section 13(I-A)",
+      "label": "PROVISION",
+      "start_char": 50169,
+      "end_char": 50184
+    },
+    {
+      "text": "Indicon Westfalia Ltd. vs Yogendra Nath Tiwary 2023 SCC Online Jhar 558",
+      "label": "PRECEDENT",
+      "start_char": 50751,
+      "end_char": 50822
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 50930,
+      "end_char": 50933
+    },
+    {
+      "text": "section 13",
+      "label": "PROVISION",
+      "start_char": 51023,
+      "end_char": 51033
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 51037,
+      "end_char": 51058
+    },
+    {
+      "text": "Section 96",
+      "label": "PROVISION",
+      "start_char": 51069,
+      "end_char": 51079
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 51083,
+      "end_char": 51086
+    },
+    {
+      "text": "section 13(2)",
+      "label": "PROVISION",
+      "start_char": 51111,
+      "end_char": 51124
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 51128,
+      "end_char": 51149
+    },
+    {
+      "text": "Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 51169,
+      "end_char": 51201
+    },
+    {
+      "text": "section 96",
+      "label": "PROVISION",
+      "start_char": 51516,
+      "end_char": 51526
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 51530,
+      "end_char": 51533
+    },
+    {
+      "text": "Limitation Act, 1963",
+      "label": "STATUTE",
+      "start_char": 51604,
+      "end_char": 51624
+    },
+    {
+      "text": "section 96",
+      "label": "PROVISION",
+      "start_char": 51824,
+      "end_char": 51834
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 51838,
+      "end_char": 51841
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 51875,
+      "end_char": 51896
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 51992,
+      "end_char": 51995
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 52057,
+      "end_char": 52086
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 52234,
+      "end_char": 52257
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 52453,
+      "end_char": 52474
+    },
+    {
+      "text": "Order XIII-A",
+      "label": "PROVISION",
+      "start_char": 52510,
+      "end_char": 52522
+    },
+    {
+      "text": "Rule 3-A of Order VIII",
+      "label": "PROVISION",
+      "start_char": 52568,
+      "end_char": 52590
+    },
+    {
+      "text": "Order XI",
+      "label": "PROVISION",
+      "start_char": 52719,
+      "end_char": 52727
+    },
+    {
+      "text": "Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 53277,
+      "end_char": 53309
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 53856,
+      "end_char": 53877
+    },
+    {
+      "text": "Order XI(4).Further,",
+      "label": "PROVISION",
+      "start_char": 53991,
+      "end_char": 54011
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 54193,
+      "end_char": 54214
+    },
+    {
+      "text": "Order XI",
+      "label": "PROVISION",
+      "start_char": 54401,
+      "end_char": 54409
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 54413,
+      "end_char": 54416
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 54436,
+      "end_char": 54457
+    },
+    {
+      "text": "Sections 62 and 63",
+      "label": "PROVISION",
+      "start_char": 54622,
+      "end_char": 54640
+    },
+    {
+      "text": "Evidence Act",
+      "label": "STATUTE",
+      "start_char": 54644,
+      "end_char": 54656
+    },
+    {
+      "text": "Sections 64 and 65",
+      "label": "PROVISION",
+      "start_char": 54690,
+      "end_char": 54708
+    },
+    {
+      "text": "Section 65",
+      "label": "PROVISION",
+      "start_char": 55010,
+      "end_char": 55020
+    },
+    {
+      "text": "Evidence Act",
+      "label": "STATUTE",
+      "start_char": 55028,
+      "end_char": 55040
+    },
+    {
+      "text": "29.07",
+      "label": "DATE",
+      "start_char": 55187,
+      "end_char": 55192
+    },
+    {
+      "text": "2022",
+      "label": "DATE",
+      "start_char": 55193,
+      "end_char": 55197
+    },
+    {
+      "text": "27 Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 55402,
+      "end_char": 55437
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 55470,
+      "end_char": 55491
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 55499,
+      "end_char": 55502
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 55508,
+      "end_char": 55518
+    },
+    {
+      "text": "Deoraj Singh",
+      "label": "PRECEDENT",
+      "start_char": 55682,
+      "end_char": 55694
+    },
+    {
+      "text": "Section 13(I-A)",
+      "label": "PROVISION",
+      "start_char": 56116,
+      "end_char": 56131
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 57124,
+      "end_char": 57134
+    },
+    {
+      "text": "Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 57327,
+      "end_char": 57359
+    },
+    {
+      "text": "Deoraj Singh",
+      "label": "PRECEDENT",
+      "start_char": 57390,
+      "end_char": 57402
+    },
+    {
+      "text": "NIT",
+      "label": "COURT",
+      "start_char": 58064,
+      "end_char": 58067
+    },
+    {
+      "text": "29 Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 59345,
+      "end_char": 59380
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 60214,
+      "end_char": 60224
+    },
+    {
+      "text": "Kishore Kirtilal Mehta",
+      "label": "PRECEDENT",
+      "start_char": 60240,
+      "end_char": 60262
+    },
+    {
+      "text": "Bachhaj Nahar v Nilima Mandal",
+      "label": "PRECEDENT",
+      "start_char": 60275,
+      "end_char": 60304
+    },
+    {
+      "text": "30 Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 61331,
+      "end_char": 61366
+    },
+    {
+      "text": "31 Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 63431,
+      "end_char": 63466
+    },
+    {
+      "text": "Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 65429,
+      "end_char": 65461
+    },
+    {
+      "text": "Arvind Kr",
+      "label": "WITNESS",
+      "start_char": 65744,
+      "end_char": 65753
+    },
+    {
+      "text": "Mahto",
+      "label": "OTHER_PERSON",
+      "start_char": 65755,
+      "end_char": 65760
+    },
+    {
+      "text": "Suryever",
+      "label": "OTHER_PERSON",
+      "start_char": 65762,
+      "end_char": 65770
+    },
+    {
+      "text": "BCCL",
+      "label": "ORG",
+      "start_char": 65772,
+      "end_char": 65776
+    },
+    {
+      "text": "BCCL",
+      "label": "ORG",
+      "start_char": 66377,
+      "end_char": 66381
+    },
+    {
+      "text": "29-01-2020",
+      "label": "DATE",
+      "start_char": 66432,
+      "end_char": 66442
+    },
+    {
+      "text": "29- 08-2020",
+      "label": "DATE",
+      "start_char": 66447,
+      "end_char": 66458
+    },
+    {
+      "text": "BCCL",
+      "label": "ORG",
+      "start_char": 66469,
+      "end_char": 66473
+    },
+    {
+      "text": "29-01-2020",
+      "label": "DATE",
+      "start_char": 66833,
+      "end_char": 66843
+    },
+    {
+      "text": "29-08-2020",
+      "label": "DATE",
+      "start_char": 66848,
+      "end_char": 66858
+    },
+    {
+      "text": "29-7-2022",
+      "label": "DATE",
+      "start_char": 66940,
+      "end_char": 66949
+    },
+    {
+      "text": "Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 68037,
+      "end_char": 68069
+    },
+    {
+      "text": "BCCL",
+      "label": "ORG",
+      "start_char": 68424,
+      "end_char": 68428
+    },
+    {
+      "text": "BCCL",
+      "label": "ORG",
+      "start_char": 68610,
+      "end_char": 68614
+    },
+    {
+      "text": "23 rd March, 2018",
+      "label": "DATE",
+      "start_char": 68703,
+      "end_char": 68720
+    },
+    {
+      "text": "Order VII Rule 11",
+      "label": "PROVISION",
+      "start_char": 69825,
+      "end_char": 69842
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 69843,
+      "end_char": 69846
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 70123,
+      "end_char": 70133
+    },
+    {
+      "text": "Eldeco Housing and 34 Commercial Appeal No. 18 of 2023 Industries Limited vs. Ashok Vidyarthi and Ors, 2023 SCC Online SC 1612",
+      "label": "PRECEDENT",
+      "start_char": 70137,
+      "end_char": 70263
+    },
+    {
+      "text": "27.03.2018",
+      "label": "DATE",
+      "start_char": 70505,
+      "end_char": 70515
+    },
+    {
+      "text": "10.04.2018",
+      "label": "DATE",
+      "start_char": 70688,
+      "end_char": 70698
+    },
+    {
+      "text": "BCCL",
+      "label": "ORG",
+      "start_char": 70761,
+      "end_char": 70765
+    },
+    {
+      "text": "30.03.2018",
+      "label": "DATE",
+      "start_char": 70810,
+      "end_char": 70820
+    },
+    {
+      "text": "02.04.2018",
+      "label": "DATE",
+      "start_char": 70861,
+      "end_char": 70871
+    },
+    {
+      "text": "NIT",
+      "label": "ORG",
+      "start_char": 71185,
+      "end_char": 71188
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 71577,
+      "end_char": 71587
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 71852,
+      "end_char": 71862
+    },
+    {
+      "text": "Bhagwati Prasad versus Chandramaul (1966)2 SCR 286",
+      "label": "PRECEDENT",
+      "start_char": 71866,
+      "end_char": 71916
+    },
+    {
+      "text": "Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 72440,
+      "end_char": 72472
+    },
+    {
+      "text": "Bhagwati Prasad",
+      "label": "PRECEDENT",
+      "start_char": 74909,
+      "end_char": 74924
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 74946,
+      "end_char": 74956
+    },
+    {
+      "text": "Ram Sarup Gupta versus Bishun Narain Inter College and Ors",
+      "label": "PRECEDENT",
+      "start_char": 74960,
+      "end_char": 75018
+    },
+    {
+      "text": "1987 2 SCC 555",
+      "label": "CASE_NUMBER",
+      "start_char": 75020,
+      "end_char": 75034
+    },
+    {
+      "text": "36 Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 76032,
+      "end_char": 76067
+    },
+    {
+      "text": "Bhagwati Prasad v. Shri Chandramaul, [1956] 1 SCR 286",
+      "label": "PRECEDENT",
+      "start_char": 76369,
+      "end_char": 76422
+    },
+    {
+      "text": "Constitution Bench",
+      "label": "COURT",
+      "start_char": 76423,
+      "end_char": 76441
+    },
+    {
+      "text": "Ram Sarup Gupta versus Bishun Narain",
+      "label": "PRECEDENT",
+      "start_char": 76516,
+      "end_char": 76552
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 76587,
+      "end_char": 76597
+    },
+    {
+      "text": "Mohammed Abdul Wahid versus Nilofer (2024) 2 SCC 144",
+      "label": "PRECEDENT",
+      "start_char": 76617,
+      "end_char": 76669
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 76791,
+      "end_char": 76801
+    },
+    {
+      "text": "Bachhaj Nahar vs Nilima Mandal",
+      "label": "PRECEDENT",
+      "start_char": 76805,
+      "end_char": 76835
+    },
+    {
+      "text": "Bhagwati Pd",
+      "label": "PRECEDENT",
+      "start_char": 76860,
+      "end_char": 76871
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 76997,
+      "end_char": 77007
+    },
+    {
+      "text": "Bhagwati Prasad",
+      "label": "PRECEDENT",
+      "start_char": 77011,
+      "end_char": 77026
+    },
+    {
+      "text": "Bhagwati Prasad",
+      "label": "PRECEDENT",
+      "start_char": 77066,
+      "end_char": 77081
+    },
+    {
+      "text": "Bachhaj Nahar",
+      "label": "PRECEDENT",
+      "start_char": 77225,
+      "end_char": 77238
+    },
+    {
+      "text": "Bachhaj Nahar",
+      "label": "OTHER_PERSON",
+      "start_char": 77301,
+      "end_char": 77314
+    },
+    {
+      "text": "Bachhaj Nahar",
+      "label": "OTHER_PERSON",
+      "start_char": 77576,
+      "end_char": 77589
+    },
+    {
+      "text": "37 Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 78264,
+      "end_char": 78299
+    },
+    {
+      "text": "Order 39 Rule 1 & 2",
+      "label": "PROVISION",
+      "start_char": 79202,
+      "end_char": 79221
+    },
+    {
+      "text": "27.04.2012",
+      "label": "DATE",
+      "start_char": 80372,
+      "end_char": 80382
+    },
+    {
+      "text": "38 Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 80384,
+      "end_char": 80419
+    },
+    {
+      "text": "BCCL",
+      "label": "ORG",
+      "start_char": 81088,
+      "end_char": 81092
+    },
+    {
+      "text": "39 Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 82432,
+      "end_char": 82467
+    },
+    {
+      "text": "27.04.2012",
+      "label": "DATE",
+      "start_char": 82529,
+      "end_char": 82539
+    },
+    {
+      "text": "01.02.2018",
+      "label": "DATE",
+      "start_char": 82647,
+      "end_char": 82657
+    },
+    {
+      "text": "25.10.2019",
+      "label": "DATE",
+      "start_char": 82663,
+      "end_char": 82673
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 84554,
+      "end_char": 84564
+    },
+    {
+      "text": "BSNL and Anr v. BPL Mobile Cellular Ltd.\n40 Commercial Appeal No. 18 of 2023 and Ors., (2008) 13 SCC 597",
+      "label": "PRECEDENT",
+      "start_char": 84568,
+      "end_char": 84672
+    },
+    {
+      "text": "DDA case [(2008) 2 SCC 672]",
+      "label": "PRECEDENT",
+      "start_char": 84767,
+      "end_char": 84794
+    },
+    {
+      "text": "DDA",
+      "label": "ORG",
+      "start_char": 84837,
+      "end_char": 84840
+    },
+    {
+      "text": "Section 60",
+      "label": "PROVISION",
+      "start_char": 85247,
+      "end_char": 85257
+    },
+    {
+      "text": "Contract Act",
+      "label": "STATUTE",
+      "start_char": 85265,
+      "end_char": 85277
+    },
+    {
+      "text": "DDA",
+      "label": "ORG",
+      "start_char": 85409,
+      "end_char": 85412
+    },
+    {
+      "text": "Section 29",
+      "label": "PROVISION",
+      "start_char": 86207,
+      "end_char": 86217
+    },
+    {
+      "text": "Contract Act",
+      "label": "STATUTE",
+      "start_char": 86225,
+      "end_char": 86237
+    },
+    {
+      "text": "New India Assurance Co. Ltd. v. Nusli Neville Wadia [(2008) 3 SCC 279 : (2007) 14 Scale 556]",
+      "label": "PRECEDENT",
+      "start_char": 86751,
+      "end_char": 86843
+    },
+    {
+      "text": "41 Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 87984,
+      "end_char": 88019
+    },
+    {
+      "text": "NIT",
+      "label": "ORG",
+      "start_char": 88647,
+      "end_char": 88650
+    },
+    {
+      "text": "BCCL",
+      "label": "ORG",
+      "start_char": 88804,
+      "end_char": 88808
+    },
+    {
+      "text": "clause 8) of",
+      "label": "PROVISION",
+      "start_char": 88862,
+      "end_char": 88874
+    },
+    {
+      "text": "GTC",
+      "label": "STATUTE",
+      "start_char": 88875,
+      "end_char": 88878
+    },
+    {
+      "text": "BCCL",
+      "label": "ORG",
+      "start_char": 89136,
+      "end_char": 89140
+    },
+    {
+      "text": "42 Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 90242,
+      "end_char": 90277
+    },
+    {
+      "text": "Arulvelu and Another v. State represented by the Public Prosecutor and Another [(2009) 10 SCC 206]",
+      "label": "PRECEDENT",
+      "start_char": 90577,
+      "end_char": 90675
+    },
+    {
+      "text": "Stroud",
+      "label": "OTHER_PERSON",
+      "start_char": 91537,
+      "end_char": 91543
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 91773,
+      "end_char": 91783
+    },
+    {
+      "text": "Kuldeep Singh v. Commissioner of Police and Others [(1999) 2 SCC 10]",
+      "label": "PRECEDENT",
+      "start_char": 91820,
+      "end_char": 91888
+    },
+    {
+      "text": "H.B. Gandhi, Excise and Taxation Officer-cum Assessing Authority, Karnal and Others v. M/s Gopi Nath & Sons and Others [1992 Supp (2) SCC 312]",
+      "label": "PRECEDENT",
+      "start_char": 92507,
+      "end_char": 92649
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 92687,
+      "end_char": 92697
+    },
+    {
+      "text": "43 Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 92722,
+      "end_char": 92757
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 93700,
+      "end_char": 93710
+    },
+    {
+      "text": "Life Insurance Corporation of India",
+      "label": "ORG",
+      "start_char": 93724,
+      "end_char": 93759
+    },
+    {
+      "text": "A. Masilamani",
+      "label": "OTHER_PERSON",
+      "start_char": 93771,
+      "end_char": 93784
+    },
+    {
+      "text": "(2013) 6 SCC 530",
+      "label": "PRECEDENT",
+      "start_char": 93786,
+      "end_char": 93802
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 93862,
+      "end_char": 93872
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 94622,
+      "end_char": 94632
+    },
+    {
+      "text": "44 Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 95142,
+      "end_char": 95177
+    },
+    {
+      "text": "08.05.2023",
+      "label": "DATE",
+      "start_char": 95241,
+      "end_char": 95251
+    },
+    {
+      "text": "08.05.2023",
+      "label": "DATE",
+      "start_char": 95336,
+      "end_char": 95346
+    },
+    {
+      "text": "Coal India Limited",
+      "label": "ORG",
+      "start_char": 96697,
+      "end_char": 96715
+    },
+    {
+      "text": "Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 97421,
+      "end_char": 97453
+    },
+    {
+      "text": "27.03.2018",
+      "label": "DATE",
+      "start_char": 98008,
+      "end_char": 98018
+    },
+    {
+      "text": "30.03.2018",
+      "label": "DATE",
+      "start_char": 98046,
+      "end_char": 98056
+    },
+    {
+      "text": "06.10.2018",
+      "label": "DATE",
+      "start_char": 98092,
+      "end_char": 98102
+    },
+    {
+      "text": "05.11.2018",
+      "label": "DATE",
+      "start_char": 98107,
+      "end_char": 98117
+    },
+    {
+      "text": "10.04.18",
+      "label": "DATE",
+      "start_char": 98154,
+      "end_char": 98162
+    },
+    {
+      "text": "30.03.18",
+      "label": "DATE",
+      "start_char": 98183,
+      "end_char": 98191
+    },
+    {
+      "text": "section 49-53",
+      "label": "PROVISION",
+      "start_char": 99109,
+      "end_char": 99122
+    },
+    {
+      "text": "Indian Contract Act 1872",
+      "label": "STATUTE",
+      "start_char": 99130,
+      "end_char": 99154
+    },
+    {
+      "text": "section 73",
+      "label": "PROVISION",
+      "start_char": 99359,
+      "end_char": 99369
+    },
+    {
+      "text": "Contract Act",
+      "label": "STATUTE",
+      "start_char": 99377,
+      "end_char": 99389
+    },
+    {
+      "text": "HDFC Bank",
+      "label": "ORG",
+      "start_char": 100509,
+      "end_char": 100518
+    },
+    {
+      "text": "HDFC Bank",
+      "label": "ORG",
+      "start_char": 100612,
+      "end_char": 100621
+    },
+    {
+      "text": "Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 100735,
+      "end_char": 100767
+    },
+    {
+      "text": "16-10-2019",
+      "label": "DATE",
+      "start_char": 103423,
+      "end_char": 103433
+    },
+    {
+      "text": "25-10-2019",
+      "label": "DATE",
+      "start_char": 103528,
+      "end_char": 103538
+    },
+    {
+      "text": "23-03- 2018",
+      "label": "DATE",
+      "start_char": 103655,
+      "end_char": 103666
+    },
+    {
+      "text": "23-03-2018",
+      "label": "DATE",
+      "start_char": 103935,
+      "end_char": 103945
+    },
+    {
+      "text": "Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 104480,
+      "end_char": 104512
+    },
+    {
+      "text": "BCCL",
+      "label": "ORG",
+      "start_char": 104564,
+      "end_char": 104568
+    },
+    {
+      "text": "29.10.2019",
+      "label": "DATE",
+      "start_char": 104986,
+      "end_char": 104996
+    },
+    {
+      "text": "BCCL",
+      "label": "ORG",
+      "start_char": 105164,
+      "end_char": 105168
+    },
+    {
+      "text": "29-10-2019",
+      "label": "DATE",
+      "start_char": 106041,
+      "end_char": 106051
+    },
+    {
+      "text": "48 Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 107739,
+      "end_char": 107774
+    },
+    {
+      "text": "SBI",
+      "label": "ORG",
+      "start_char": 109683,
+      "end_char": 109686
+    },
+    {
+      "text": "NC Patch Kuya",
+      "label": "OTHER_PERSON",
+      "start_char": 110074,
+      "end_char": 110087
+    },
+    {
+      "text": "31.01.2018",
+      "label": "DATE",
+      "start_char": 110122,
+      "end_char": 110132
+    },
+    {
+      "text": "18.05.2018",
+      "label": "DATE",
+      "start_char": 110205,
+      "end_char": 110215
+    },
+    {
+      "text": "29.05.2019",
+      "label": "DATE",
+      "start_char": 110237,
+      "end_char": 110247
+    },
+    {
+      "text": "Rahul Singh",
+      "label": "WITNESS",
+      "start_char": 110403,
+      "end_char": 110414
+    },
+    {
+      "text": "Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 110922,
+      "end_char": 110954
+    },
+    {
+      "text": "SBI Bank",
+      "label": "ORG",
+      "start_char": 111672,
+      "end_char": 111680
+    },
+    {
+      "text": "18.05.2018",
+      "label": "DATE",
+      "start_char": 111726,
+      "end_char": 111736
+    },
+    {
+      "text": "2,10,01,161/-",
+      "label": "DATE",
+      "start_char": 111741,
+      "end_char": 111754
+    },
+    {
+      "text": "15.04.2019",
+      "label": "DATE",
+      "start_char": 111792,
+      "end_char": 111802
+    },
+    {
+      "text": "27-07-2019",
+      "label": "DATE",
+      "start_char": 112017,
+      "end_char": 112027
+    },
+    {
+      "text": "CBI",
+      "label": "ORG",
+      "start_char": 112129,
+      "end_char": 112132
+    },
+    {
+      "text": "03.01.2019",
+      "label": "DATE",
+      "start_char": 112170,
+      "end_char": 112180
+    },
+    {
+      "text": "BCCL",
+      "label": "ORG",
+      "start_char": 112389,
+      "end_char": 112393
+    },
+    {
+      "text": "State Bank of India",
+      "label": "ORG",
+      "start_char": 112507,
+      "end_char": 112526
+    },
+    {
+      "text": "10.04.2019",
+      "label": "DATE",
+      "start_char": 112551,
+      "end_char": 112561
+    },
+    {
+      "text": "BCCL Accounts",
+      "label": "ORG",
+      "start_char": 112656,
+      "end_char": 112669
+    },
+    {
+      "text": "02.04.2019",
+      "label": "DATE",
+      "start_char": 112739,
+      "end_char": 112749
+    },
+    {
+      "text": "State Bank of India",
+      "label": "ORG",
+      "start_char": 112817,
+      "end_char": 112836
+    },
+    {
+      "text": "25.04.2019",
+      "label": "DATE",
+      "start_char": 112856,
+      "end_char": 112866
+    },
+    {
+      "text": "CBI",
+      "label": "ORG",
+      "start_char": 113067,
+      "end_char": 113070
+    },
+    {
+      "text": "CBI",
+      "label": "ORG",
+      "start_char": 113144,
+      "end_char": 113147
+    },
+    {
+      "text": "special Court, Dhanbad",
+      "label": "COURT",
+      "start_char": 113159,
+      "end_char": 113181
+    },
+    {
+      "text": "CBI",
+      "label": "ORG",
+      "start_char": 113246,
+      "end_char": 113249
+    },
+    {
+      "text": "BCCL",
+      "label": "ORG",
+      "start_char": 113422,
+      "end_char": 113426
+    },
+    {
+      "text": "CBI",
+      "label": "ORG",
+      "start_char": 113506,
+      "end_char": 113509
+    },
+    {
+      "text": "BCCL",
+      "label": "ORG",
+      "start_char": 113642,
+      "end_char": 113646
+    },
+    {
+      "text": "50 Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 114765,
+      "end_char": 114800
+    },
+    {
+      "text": "Arvind Kumar Mahato",
+      "label": "WITNESS",
+      "start_char": 115164,
+      "end_char": 115183
+    },
+    {
+      "text": "Sanjiv Kashyap",
+      "label": "WITNESS",
+      "start_char": 115197,
+      "end_char": 115211
+    },
+    {
+      "text": "Section 2(b) and Section 3(b)",
+      "label": "PROVISION",
+      "start_char": 116736,
+      "end_char": 116765
+    },
+    {
+      "text": "Interest Act",
+      "label": "STATUTE",
+      "start_char": 116773,
+      "end_char": 116785
+    },
+    {
+      "text": "Rule 2A of Order VII",
+      "label": "PROVISION",
+      "start_char": 116796,
+      "end_char": 116816
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 116845,
+      "end_char": 116872
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 116950,
+      "end_char": 116971
+    },
+    {
+      "text": "Rule 2-A (3) of Order VII",
+      "label": "PROVISION",
+      "start_char": 117158,
+      "end_char": 117183
+    },
+    {
+      "text": "51 Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 117368,
+      "end_char": 117403
+    },
+    {
+      "text": "Commercial Court Act",
+      "label": "STATUTE",
+      "start_char": 117476,
+      "end_char": 117496
+    },
+    {
+      "text": "Rule 2-A.",
+      "label": "PROVISION",
+      "start_char": 117535,
+      "end_char": 117544
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 117646,
+      "end_char": 117656
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 117881,
+      "end_char": 117891
+    },
+    {
+      "text": "Dalchand vs., Municipal Corporation, Bhopal & Anr., (1984) 2",
+      "label": "PRECEDENT",
+      "start_char": 117907,
+      "end_char": 117967
+    },
+    {
+      "text": "SCC 486",
+      "label": "CASE_NUMBER",
+      "start_char": 117968,
+      "end_char": 117975
+    },
+    {
+      "text": "Rule 9(j)",
+      "label": "PROVISION",
+      "start_char": 119497,
+      "end_char": 119506
+    },
+    {
+      "text": "Prevention of Food Adulteration Act",
+      "label": "STATUTE",
+      "start_char": 119514,
+      "end_char": 119549
+    },
+    {
+      "text": "Central 52 Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 120493,
+      "end_char": 120536
+    },
+    {
+      "text": "Rule 9(j)",
+      "label": "PROVISION",
+      "start_char": 120734,
+      "end_char": 120743
+    },
+    {
+      "text": "Prevention of Food Adulteration Rules",
+      "label": "STATUTE",
+      "start_char": 120751,
+      "end_char": 120788
+    },
+    {
+      "text": "Public Prosecutor v. Murlidhar [1977 Cr LJ 1634 (AP) : 1977",
+      "label": "PRECEDENT",
+      "start_char": 120839,
+      "end_char": 120898
+    },
+    {
+      "text": "Bhola Nath v. State [1977 Cr LJ 154 (Cal) : (1977) 1 FAC 38]",
+      "label": "PRECEDENT",
+      "start_char": 120936,
+      "end_char": 120996
+    },
+    {
+      "text": "Rule 9(j)",
+      "label": "PROVISION",
+      "start_char": 121031,
+      "end_char": 121040
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 121128,
+      "end_char": 121138
+    },
+    {
+      "text": "Patil Automation (P) Ltd.",
+      "label": "ORG",
+      "start_char": 121154,
+      "end_char": 121179
+    },
+    {
+      "text": "Rakheja Engineers (P) Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 121191,
+      "end_char": 121217
+    },
+    {
+      "text": "(2022) 10 SCC 1",
+      "label": "CASE_NUMBER",
+      "start_char": 121219,
+      "end_char": 121234
+    },
+    {
+      "text": "Bhikraj Jaipuria v. Union of India [Bhikraj Jaipuria v. Union of India, AIR 1962 SC 113]",
+      "label": "PRECEDENT",
+      "start_char": 121293,
+      "end_char": 121381
+    },
+    {
+      "text": "Section 175(3)",
+      "label": "PROVISION",
+      "start_char": 121454,
+      "end_char": 121468
+    },
+    {
+      "text": "Government of India Act, 1935",
+      "label": "STATUTE",
+      "start_char": 121476,
+      "end_char": 121505
+    },
+    {
+      "text": "Government of India",
+      "label": "ORG",
+      "start_char": 121891,
+      "end_char": 121910
+    },
+    {
+      "text": "Section 175(3)",
+      "label": "PROVISION",
+      "start_char": 121912,
+      "end_char": 121926
+    },
+    {
+      "text": "Government of India",
+      "label": "ORG",
+      "start_char": 121976,
+      "end_char": 121995
+    },
+    {
+      "text": "Maxwell",
+      "label": "OTHER_PERSON",
+      "start_char": 122693,
+      "end_char": 122700
+    },
+    {
+      "text": "Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 123650,
+      "end_char": 123682
+    },
+    {
+      "text": "Liverpool Borough Bank v. Turner [Liverpool Borough Bank v. Turner, (1860) 30 LJ Ch 379 : 45 ER 715]",
+      "label": "PRECEDENT",
+      "start_char": 123700,
+      "end_char": 123800
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 124194,
+      "end_char": 124204
+    },
+    {
+      "text": "Bhavnagar University vs. Palitana Sugar Mill (P) Ltd. and Others, (2003) 2",
+      "label": "PRECEDENT",
+      "start_char": 124220,
+      "end_char": 124294
+    },
+    {
+      "text": "SCC 111",
+      "label": "CASE_NUMBER",
+      "start_char": 124295,
+      "end_char": 124302
+    },
+    {
+      "text": "Sutherland",
+      "label": "OTHER_PERSON",
+      "start_char": 124708,
+      "end_char": 124718
+    },
+    {
+      "text": "54 Commercial Appeal No. 18 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 126342,
+      "end_char": 126377
+    },
+    {
+      "text": "Sujit Narayan Prasad",
+      "label": "JUDGE",
+      "start_char": 126863,
+      "end_char": 126883
+    },
+    {
+      "text": "Arun Kumar Rai",
+      "label": "JUDGE",
+      "start_char": 126910,
+      "end_char": 126924
+    },
+    {
+      "text": "Arun Kumar Rai",
+      "label": "JUDGE",
+      "start_char": 126950,
+      "end_char": 126964
+    },
+    {
+      "text": "Saurabh",
+      "label": "RESPONDENT",
+      "start_char": 126972,
+      "end_char": 126979
+    }
+  ],
+  "precedent_clusters": {
+    "Indicon Westfalia Ltd. vs Yogendra Nath Tiwary 2023 SCC Online Jhar 558": [
+      "Deoraj Singh vs. CCL, 2023 SCC Online Jhar 1558",
+      "Indicon Westfalia Ltd. vs Yogendra Nath Tiwary 2023 SCC Online Jhar 558"
+    ],
+    "Jaycee Housing Private Limited and Ors v. Registrar (general), Orissa High Court, Cuttack and Ors, (2023) 1": [
+      "Bachhaj Nahar v Nilima Mandal and Anr",
+      "Deoraj Singh vs. CCL(supra)",
+      "Jaycee Housing Private Limited and Ors v. Registrar (general), Orissa High Court, Cuttack and Ors, (2023) 1",
+      "Deoraj Singh versus CCL",
+      "Bachhaj Nahar v Nilima Mandal",
+      "Ram Sarup Gupta versus Bishun Narain Inter College and Ors",
+      "Ram Sarup Gupta versus Bishun Narain",
+      "Bachhaj Nahar vs Nilima Mandal",
+      "Dalchand vs., Municipal Corporation, Bhopal & Anr., (1984) 2",
+      "Bhavnagar University vs. Palitana Sugar Mill (P) Ltd. and Others, (2003) 2",
+      "Deoraj Singh",
+      "Deoraj Singh",
+      "Bachhaj Nahar"
+    ],
+    "Bhagwati Prasad versus Chandramaul (1966)2 SCR 286": [
+      "Bhagwati Prasad versus Chandramaul (1966)2 SCR 286",
+      "Bhagwati Prasad"
+    ],
+    "Bhagwati Prasad v. Shri Chandramaul, [1956] 1 SCR 286": [
+      "Bhagwati Prasad v. Shri Chandramaul, [1956] 1 SCR 286",
+      "Bhagwati Prasad",
+      "Bhagwati Prasad"
+    ],
+    "Bhola Nath v. State [1977 Cr LJ 154 (Cal) : (1977) 1 FAC 38]": [
+      "Public Prosecutor v. Murlidhar [1977 Cr LJ 1634 (AP) : 1977",
+      "Bhola Nath v. State [1977 Cr LJ 154 (Cal) : (1977) 1 FAC 38]"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "section 13",
+      "Commercial Courts",
+      "section 13",
+      "Commercial Courts"
+    ],
+    [
+      "s 26",
+      "C.P.C.",
+      "s 26",
+      "C.P.C."
+    ],
+    [
+      "s 26",
+      "Civil Procedure Code",
+      "s 26",
+      "Civil Procedure Code"
+    ],
+    [
+      "Sections 6 & 12",
+      "Commercial Court Act 2015",
+      "Sections 6 & 12",
+      "Commercial Court Act 2015"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act 2015",
+      "Section 13",
+      "Commercial Courts Act 2015"
+    ],
+    [
+      "section 34",
+      "Arbitration and Conciliation Act,1996 against",
+      "section 34",
+      "Arbitration and Conciliation Act,1996 against"
+    ],
+    [
+      "Section 73",
+      "Contract Act, 1872",
+      "Section 73",
+      "Contract Act, 1872"
+    ],
+    [
+      "Sections 34, 64, 65(g), and 102",
+      "Evidence Act",
+      "Sections 34, 64, 65(g), and 102",
+      "Evidence Act"
+    ],
+    [
+      "Sections 34, 64, 65(g), and 102",
+      "Evidence Act",
+      "Sections 34, 64, 65(g), and 102",
+      "Evidence Act"
+    ],
+    [
+      "Section 2(b) and Section 3(b)",
+      "Interest Act",
+      "Section 2(b) and Section 3(b)",
+      "Interest Act"
+    ],
+    [
+      "Rule 2A of Order VII",
+      "CPC, 1908",
+      "Rule 2A of Order VII",
+      "CPC, 1908"
+    ],
+    [
+      "Section 96",
+      "Code of Civil Procedure, 1908",
+      "Section 96",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 16",
+      "Commercial Courts Act",
+      "Section 16",
+      "Commercial Courts Act"
+    ],
+    [
+      "s 51 and 52, 54, 67,70 and 73",
+      "Contract Act, 1872",
+      "s 51 and 52, 54, 67,70 and 73",
+      "Contract Act, 1872"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act 2015",
+      "Section 13",
+      "Commercial Courts Act 2015"
+    ],
+    [
+      "section 34",
+      "Arbitration and Conciliation Act,1996 against",
+      "section 34",
+      "Arbitration and Conciliation Act,1996 against"
+    ],
+    [
+      "s 96",
+      "Code of Civil Procedure, 1908",
+      "s 96",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order XLIII",
+      "Civil Procedure Code, 1908 (5 of 1908)",
+      "Order XLIII",
+      "Civil Procedure Code, 1908 (5 of 1908)"
+    ],
+    [
+      "section 37",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996).] (2)",
+      "section 37",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996).] (2)"
+    ],
+    [
+      "sub-section (2) of Section 13",
+      "Commercial Courts Act, 2015",
+      "sub-section (2) of Section 13",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "section 13",
+      "Commercial Courts Act",
+      "section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 96",
+      "CPC",
+      "Section 96",
+      "CPC"
+    ],
+    [
+      "section 13(2)",
+      "Commercial Courts Act",
+      "section 13(2)",
+      "Commercial Courts Act"
+    ],
+    [
+      "section 96",
+      "CPC",
+      "section 96",
+      "CPC"
+    ],
+    [
+      "section 96",
+      "CPC",
+      "section 96",
+      "CPC"
+    ],
+    [
+      "Order XI(4).Further,",
+      "Commercial Courts Act",
+      "Order XI(4).Further,",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order XI",
+      "CPC",
+      "Order XI",
+      "CPC"
+    ],
+    [
+      "Sections 62 and 63",
+      "Evidence Act",
+      "Sections 62 and 63",
+      "Evidence Act"
+    ],
+    [
+      "Section 65",
+      "Evidence Act",
+      "Section 65",
+      "Evidence Act"
+    ],
+    [
+      "Order VII Rule 11",
+      "CPC",
+      "Order VII Rule 11",
+      "CPC"
+    ],
+    [
+      "Section 60",
+      "Contract Act",
+      "Section 60",
+      "Contract Act"
+    ],
+    [
+      "Section 29",
+      "Contract Act",
+      "Section 29",
+      "Contract Act"
+    ],
+    [
+      "clause 8) of",
+      "GTC",
+      "clause 8) of",
+      "GTC"
+    ],
+    [
+      "section 49-53",
+      "Indian Contract Act 1872",
+      "section 49-53",
+      "Indian Contract Act 1872"
+    ],
+    [
+      "section 73",
+      "Contract Act",
+      "section 73",
+      "Contract Act"
+    ],
+    [
+      "Section 2(b) and Section 3(b)",
+      "Interest Act",
+      "Section 2(b) and Section 3(b)",
+      "Interest Act"
+    ],
+    [
+      "Rule 2A of Order VII",
+      "Commercial Courts Act, 2015",
+      "Rule 2A of Order VII",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Rule 2-A (3) of Order VII",
+      "Commercial Court Act",
+      "Rule 2-A (3) of Order VII",
+      "Commercial Court Act"
+    ],
+    [
+      "Rule 9(j)",
+      "Prevention of Food Adulteration Act",
+      "Rule 9(j)",
+      "Prevention of Food Adulteration Act"
+    ],
+    [
+      "Rule 9(j)",
+      "Prevention of Food Adulteration Rules",
+      "Rule 9(j)",
+      "Prevention of Food Adulteration Rules"
+    ],
+    [
+      "Section 175(3)",
+      "Government of India Act, 1935",
+      "Section 175(3)",
+      "Government of India Act, 1935"
+    ],
+    [
+      "Section 13(1-A)",
+      "Commercial Courts Act 2015",
+      "Section 13(1-A)",
+      "Commercial Courts Act 2015"
+    ],
+    [
+      "Section 73",
+      "Contract Act, 1872",
+      "Section 73",
+      "Contract Act, 1872"
+    ],
+    [
+      "Section 13(1) and 13(1-A)",
+      "Commercial Courts Act 2015",
+      "Section 13(1) and 13(1-A)",
+      "Commercial Courts Act 2015"
+    ],
+    [
+      "Order VII and VIII",
+      "CPC, 1908",
+      "Order VII and VIII",
+      "CPC, 1908"
+    ],
+    [
+      "sub-rules (2), (3) and (4) and (5)",
+      "Commercial Courts Act",
+      "sub-rules (2), (3) and (4) and (5)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order VIII",
+      "Commercial Courts Act",
+      "Order VIII",
+      "Commercial Courts Act"
+    ],
+    [
+      "sub-rules (2), (3), (4) and (5)",
+      "Commercial Courts Act",
+      "sub-rules (2), (3), (4) and (5)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order XI (4)(3)",
+      "Commercial Courts Act",
+      "Order XI (4)(3)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13(1-A)",
+      "Commercial Courts Act 2015",
+      "Section 13(1-A)",
+      "Commercial Courts Act 2015"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act 2015",
+      "Section 13",
+      "Commercial Courts Act 2015"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act 2015",
+      "Section 13",
+      "Commercial Courts Act 2015"
+    ],
+    [
+      "Sub-section (1) of section 13",
+      "Commercial Courts Act 2015",
+      "Sub-section (1) of section 13",
+      "Commercial Courts Act 2015"
+    ],
+    [
+      "Sub-section (2) of Section 13",
+      "Commercial Courts Act 2015",
+      "Sub-section (2) of Section 13",
+      "Commercial Courts Act 2015"
+    ],
+    [
+      "sub-section (2) of Section 13",
+      "Commercial Courts Act 2015",
+      "sub-section (2) of Section 13",
+      "Commercial Courts Act 2015"
+    ],
+    [
+      "sub-section (2) of Section 13",
+      "Commercial Courts Act, 2015",
+      "sub-section (2) of Section 13",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 13(I-A)",
+      "Commercial Courts Act, 2015",
+      "Section 13(I-A)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Rule 3-A of Order VIII",
+      "Commercial Courts Act",
+      "Rule 3-A of Order VIII",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order XI",
+      "Commercial Courts Act",
+      "Order XI",
+      "Commercial Courts Act"
+    ],
+    [
+      "Sections 64 and 65",
+      "Evidence Act",
+      "Sections 64 and 65",
+      "Evidence Act"
+    ],
+    [
+      "Section 16",
+      "Commercial Courts Act",
+      "Section 16",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13(I-A)",
+      "Commercial Courts Act",
+      "Section 13(I-A)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Rule 9(j)",
+      "Prevention of Food Adulteration Act",
+      "Rule 9(j)",
+      "Prevention of Food Adulteration Act"
+    ],
+    [
+      "Section 175(3)",
+      "Government of India Act, 1935",
+      "Section 175(3)",
+      "Government of India Act, 1935"
+    ],
+    [
+      "Order VI rule 3-A",
+      "Commercial Courts Act",
+      "Order VI rule 3-A",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order VIII (3-A)",
+      "Commercial Courts Act",
+      "Order VIII (3-A)",
+      "Commercial Courts Act"
+    ],
+    [
+      "sub-rules (2), (3), (4) and (5)",
+      "Commercial Courts Act",
+      "sub-rules (2), (3), (4) and (5)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Rule, 3-A 17",
+      "Commercial Courts Act",
+      "Rule, 3-A 17",
+      "Commercial Courts Act"
+    ],
+    [
+      "Rule 5",
+      "Commercial Courts Act",
+      "Rule 5",
+      "Commercial Courts Act"
+    ],
+    [
+      "sub-rule (1)",
+      "Commercial Courts Act",
+      "sub-rule (1)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Rule 3A",
+      "Commercial Courts Act",
+      "Rule 3A",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order 31 Rule 21 Commercial Appeal No. 18 of 2023",
+      "Contract Act, 1872",
+      "Order 31 Rule 21 Commercial Appeal No. 18 of 2023",
+      "Contract Act, 1872"
+    ],
+    [
+      "Chapter IV",
+      "Commercial Courts Act, 2015",
+      "Chapter IV",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "SCC 549",
+      "Commercial Courts Act, 2015",
+      "SCC 549",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Order XIII-A",
+      "Commercial Courts Act",
+      "Order XIII-A",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order 39 Rule 1 & 2",
+      "CPC",
+      "Order 39 Rule 1 & 2",
+      "CPC"
+    ],
+    [
+      "Rule 2-A.",
+      "Commercial Court Act",
+      "Rule 2-A.",
+      "Commercial Court Act"
+    ]
+  ],
+  "precedent_counts": {
+    "Indicon Westfalia Ltd. vs Yogendra Nath Tiwary 2023 SCC Online Jhar 558": 2,
+    "Jaycee Housing Private Limited and Ors v. Registrar (general), Orissa High Court, Cuttack and Ors, (2023) 1": 13,
+    "Bhagwati Prasad versus Chandramaul (1966)2 SCR 286": 2,
+    "Bhagwati Prasad v. Shri Chandramaul, [1956] 1 SCR 286": 3,
+    "Bhola Nath v. State [1977 Cr LJ 154 (Cal) : (1977) 1 FAC 38]": 2
+  },
+  "provision_counts": {
+    "section 13 of Commercial Courts": 1,
+    "s 26 of C.P.C.": 1,
+    "s 26 of Civil Procedure Code": 1,
+    "Sections 6 & 12 of Commercial Court Act 2015": 1,
+    "Section 13 of Commercial Courts Act 2015": 4,
+    "section 34 of Arbitration and Conciliation Act,1996 against": 2,
+    "Section 73 of Contract Act, 1872": 2,
+    "Sections 34, 64, 65(g), and 102 of Evidence Act": 2,
+    "Section 2(b) and Section 3(b) of Interest Act": 2,
+    "Rule 2A of Order VII of CPC, 1908": 1,
+    "Section 96 of Code of Civil Procedure, 1908": 1,
+    "Section 16 of Commercial Courts Act": 2,
+    "s 51 and 52, 54, 67,70 and 73 of Contract Act, 1872": 1,
+    "s 96 of Code of Civil Procedure, 1908": 1,
+    "Order XLIII of Civil Procedure Code, 1908 (5 of 1908)": 1,
+    "section 37 of Arbitration and Conciliation Act, 1996 (26 of 1996).] (2)": 1,
+    "sub-section (2) of Section 13 of Commercial Courts Act, 2015": 2,
+    "section 13 of Commercial Courts Act": 1,
+    "Section 96 of CPC": 1,
+    "section 13(2) of Commercial Courts Act": 1,
+    "section 96 of CPC": 2,
+    "Order XI(4).Further, of Commercial Courts Act": 1,
+    "Order XI of CPC": 1,
+    "Sections 62 and 63 of Evidence Act": 1,
+    "Section 65 of Evidence Act": 1,
+    "Order VII Rule 11 of CPC": 1,
+    "Section 60 of Contract Act": 1,
+    "Section 29 of Contract Act": 1,
+    "clause 8) of of GTC": 1,
+    "section 49-53 of Indian Contract Act 1872": 1,
+    "section 73 of Contract Act": 1,
+    "Rule 2A of Order VII of Commercial Courts Act, 2015": 1,
+    "Rule 2-A (3) of Order VII of Commercial Court Act": 1,
+    "Rule 9(j) of Prevention of Food Adulteration Act": 2,
+    "Rule 9(j) of Prevention of Food Adulteration Rules": 1,
+    "Section 175(3) of Government of India Act, 1935": 2,
+    "Section 13(1-A) of Commercial Courts Act 2015": 2,
+    "Section 13(1) and 13(1-A) of Commercial Courts Act 2015": 1,
+    "Order VII and VIII of CPC, 1908": 1,
+    "sub-rules (2), (3) and (4) and (5) of Commercial Courts Act": 1,
+    "Order VIII of Commercial Courts Act": 1,
+    "sub-rules (2), (3), (4) and (5) of Commercial Courts Act": 2,
+    "Order XI (4)(3) of Commercial Courts Act": 1,
+    "Sub-section (1) of section 13 of Commercial Courts Act 2015": 1,
+    "Sub-section (2) of Section 13 of Commercial Courts Act 2015": 1,
+    "sub-section (2) of Section 13 of Commercial Courts Act 2015": 1,
+    "Section 13(I-A) of Commercial Courts Act, 2015": 1,
+    "Rule 3-A of Order VIII of Commercial Courts Act": 1,
+    "Order XI of Commercial Courts Act": 1,
+    "Sections 64 and 65 of Evidence Act": 1,
+    "Section 13(I-A) of Commercial Courts Act": 1,
+    "Section 13 of Commercial Courts Act": 1,
+    "Order VI rule 3-A of Commercial Courts Act": 1,
+    "Order VIII (3-A) of Commercial Courts Act": 1,
+    "Rule, 3-A 17 of Commercial Courts Act": 1,
+    "Rule 5 of Commercial Courts Act": 1,
+    "sub-rule (1) of Commercial Courts Act": 1,
+    "Rule 3A of Commercial Courts Act": 1,
+    "Order 31 Rule 21 Commercial Appeal No. 18 of 2023 of Contract Act, 1872": 1,
+    "Chapter IV of Commercial Courts Act, 2015": 1,
+    "SCC 549 of Commercial Courts Act, 2015": 1,
+    "Order XIII-A of Commercial Courts Act": 1,
+    "Order 39 Rule 1 & 2 of CPC": 1,
+    "Rule 2-A. of Commercial Court Act": 1
+  },
+  "statute_counts": {
+    "Commercial Courts": 1,
+    "C.P.C.": 1,
+    "Civil Procedure Code": 1,
+    "Commercial Court Act 2015": 1,
+    "Commercial Courts Act 2015": 10,
+    "Arbitration and Conciliation Act,1996 against": 2,
+    "Contract Act, 1872": 4,
+    "Evidence Act": 5,
+    "Interest Act": 2,
+    "CPC, 1908": 2,
+    "Code of Civil Procedure, 1908": 2,
+    "Commercial Courts Act": 21,
+    "Civil Procedure Code, 1908 (5 of 1908)": 1,
+    "Arbitration and Conciliation Act, 1996 (26 of 1996).] (2)": 1,
+    "Commercial Courts Act, 2015": 6,
+    "CPC": 6,
+    "Contract Act": 3,
+    "GTC": 1,
+    "Indian Contract Act 1872": 1,
+    "Commercial Court Act": 2,
+    "Prevention of Food Adulteration Act": 2,
+    "Prevention of Food Adulteration Rules": 1,
+    "Government of India Act, 1935": 2
+  }
+}

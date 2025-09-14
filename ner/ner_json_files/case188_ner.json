@@ -1,0 +1,2931 @@
+{
+  "entities": [
+    {
+      "text": "Karnataka High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 20
+    },
+    {
+      "text": "M.B. Patil Constructions Ltd",
+      "label": "PETITIONER",
+      "start_char": 25,
+      "end_char": 53
+    },
+    {
+      "text": "Executive Engineer",
+      "label": "RESPONDENT",
+      "start_char": 61,
+      "end_char": 79
+    },
+    {
+      "text": "S.Vishwajith Shetty",
+      "label": "LAWYER",
+      "start_char": 105,
+      "end_char": 124
+    },
+    {
+      "text": "S.Vishwajith Shetty",
+      "label": "JUDGE",
+      "start_char": 132,
+      "end_char": 151
+    },
+    {
+      "text": "High Court Of Karnataka\n                    Kalaburagi Bench",
+      "label": "COURT",
+      "start_char": 266,
+      "end_char": 326
+    },
+    {
+      "text": "S.Vishwajith Shetty",
+      "label": "JUDGE",
+      "start_char": 443,
+      "end_char": 462
+    },
+    {
+      "text": "M.B.Patil Constructions Ltd.",
+      "label": "PETITIONER",
+      "start_char": 686,
+      "end_char": 714
+    },
+    {
+      "text": "M.S.Mallikarjuna",
+      "label": "LAWYER",
+      "start_char": 883,
+      "end_char": 899
+    },
+    {
+      "text": "Ameet Kumar Deshpande",
+      "label": "LAWYER",
+      "start_char": 1155,
+      "end_char": 1176
+    },
+    {
+      "text": "Ganesh S.Kalburgi",
+      "label": "LAWYER",
+      "start_char": 1202,
+      "end_char": 1219
+    },
+    {
+      "text": "Executive Engineer,\n       Pwp & Iwtd Division,\n       Raichur Division,\n       Raichur District - 584 101",
+      "label": "RESPONDENT",
+      "start_char": 1282,
+      "end_char": 1388
+    },
+    {
+      "text": "Arun Chowdapurkar",
+      "label": "RESPONDENT",
+      "start_char": 1402,
+      "end_char": 1419
+    },
+    {
+      "text": "Dhyan Chinnappa",
+      "label": "LAWYER",
+      "start_char": 1609,
+      "end_char": 1624
+    },
+    {
+      "text": "Krupa Sagar Patil",
+      "label": "LAWYER",
+      "start_char": 1642,
+      "end_char": 1659
+    },
+    {
+      "text": "Chittapur",
+      "label": "GPE",
+      "start_char": 3690,
+      "end_char": 3699
+    },
+    {
+      "text": "Gulbarga District",
+      "label": "GPE",
+      "start_char": 3703,
+      "end_char": 3720
+    },
+    {
+      "text": "CMP Nos.20005- 20009/2014",
+      "label": "CASE_NUMBER",
+      "start_char": 3845,
+      "end_char": 3870
+    },
+    {
+      "text": "19.01.2015",
+      "label": "DATE",
+      "start_char": 3910,
+      "end_char": 3920
+    },
+    {
+      "text": "30.10.2018",
+      "label": "DATE",
+      "start_char": 4244,
+      "end_char": 4254
+    },
+    {
+      "text": "Principal District & Sessions Judge, Kalaburagi",
+      "label": "COURT",
+      "start_char": 4369,
+      "end_char": 4416
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 4475,
+      "end_char": 4485
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 4493,
+      "end_char": 4531
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 4637,
+      "end_char": 4646
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 4654,
+      "end_char": 4668
+    },
+    {
+      "text": "30.01.2020",
+      "label": "DATE",
+      "start_char": 4818,
+      "end_char": 4828
+    },
+    {
+      "text": "Ameet Kumar Deshpande",
+      "label": "LAWYER",
+      "start_char": 5003,
+      "end_char": 5024
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 5119,
+      "end_char": 5129
+    },
+    {
+      "text": "Section 34(3)",
+      "label": "PROVISION",
+      "start_char": 5329,
+      "end_char": 5342
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 5978,
+      "end_char": 5988
+    },
+    {
+      "text": "30.10.2018",
+      "label": "DATE",
+      "start_char": 6053,
+      "end_char": 6063
+    },
+    {
+      "text": "06.02.2019",
+      "label": "DATE",
+      "start_char": 6096,
+      "end_char": 6106
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 6154,
+      "end_char": 6164
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 6271,
+      "end_char": 6281
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 6469,
+      "end_char": 6479
+    },
+    {
+      "text": "Section 34(1)",
+      "label": "PROVISION",
+      "start_char": 6574,
+      "end_char": 6587
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 6725,
+      "end_char": 6735
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 6796,
+      "end_char": 6806
+    },
+    {
+      "text": "MUK LTD",
+      "label": "ORG",
+      "start_char": 7135,
+      "end_char": 7142
+    },
+    {
+      "text": "D.M.JAWHAR MERICAN VS ENGINEERS              INDIA LTD. - (DLH) 2009 (3) 129",
+      "label": "PRECEDENT",
+      "start_char": 7215,
+      "end_char": 7291
+    },
+    {
+      "text": "SIMPLEX INFRASTRUCTURE VS UNION              OF INDIA - (2019)2 SCC 455",
+      "label": "PRECEDENT",
+      "start_char": 7308,
+      "end_char": 7379
+    },
+    {
+      "text": "IRCON INTERNATIONAL LTD",
+      "label": "RESPONDENT",
+      "start_char": 7396,
+      "end_char": 7419
+    },
+    {
+      "text": "BUDHRAJ",
+      "label": "OTHER_PERSON",
+      "start_char": 7421,
+      "end_char": 7428
+    },
+    {
+      "text": "UNION OF INDIA",
+      "label": "PETITIONER",
+      "start_char": 7511,
+      "end_char": 7525
+    },
+    {
+      "text": "SABOO MINERALS",
+      "label": "RESPONDENT",
+      "start_char": 7529,
+      "end_char": 7543
+    },
+    {
+      "text": "Dhyan   Chinnappa",
+      "label": "LAWYER",
+      "start_char": 7628,
+      "end_char": 7645
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 7776,
+      "end_char": 7786
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 7954,
+      "end_char": 7964
+    },
+    {
+      "text": "08.03.2019",
+      "label": "DATE",
+      "start_char": 8078,
+      "end_char": 8088
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 8159,
+      "end_char": 8169
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 8284,
+      "end_char": 8294
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 8587,
+      "end_char": 8597
+    },
+    {
+      "text": "08.03.2019",
+      "label": "DATE",
+      "start_char": 8657,
+      "end_char": 8667
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 8699,
+      "end_char": 8709
+    },
+    {
+      "text": "09.07.2019",
+      "label": "DATE",
+      "start_char": 8770,
+      "end_char": 8780
+    },
+    {
+      "text": "Section 34(3)",
+      "label": "PROVISION",
+      "start_char": 8831,
+      "end_char": 8844
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 9055,
+      "end_char": 9065
+    },
+    {
+      "text": "MUK Ltd.",
+      "label": "ORG",
+      "start_char": 9254,
+      "end_char": 9262
+    },
+    {
+      "text": "Ircon International Ltd.",
+      "label": "ORG",
+      "start_char": 9288,
+      "end_char": 9312
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 9412,
+      "end_char": 9422
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 9611,
+      "end_char": 9621
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 9799,
+      "end_char": 9809
+    },
+    {
+      "text": "VED PRAKASH VS UNION OF INDIA",
+      "label": "PRECEDENT",
+      "start_char": 9917,
+      "end_char": 9946
+    },
+    {
+      "text": "STATE OF HIMACHAL PRADESH",
+      "label": "RESPONDENT",
+      "start_char": 9997,
+      "end_char": 10022
+    },
+    {
+      "text": "HIMACHAL TECHNO ENGINEERS",
+      "label": "RESPONDENT",
+      "start_char": 10048,
+      "end_char": 10073
+    },
+    {
+      "text": "(2010)12 SCC 210",
+      "label": "PRECEDENT",
+      "start_char": 10097,
+      "end_char": 10113
+    },
+    {
+      "text": "BOKARO & RAMGUR LTD",
+      "label": "ORG",
+      "start_char": 10131,
+      "end_char": 10150
+    },
+    {
+      "text": "MIRZAPUR",
+      "label": "STATUTE",
+      "start_char": 10253,
+      "end_char": 10261
+    },
+    {
+      "text": "MIRZAPUR ELECT",
+      "label": "RESPONDENT",
+      "start_char": 10285,
+      "end_char": 10299
+    },
+    {
+      "text": "AIR 1990 SC 2273",
+      "label": "PRECEDENT",
+      "start_char": 10331,
+      "end_char": 10347
+    },
+    {
+      "text": "RAFIQUE BIBI",
+      "label": "RESPONDENT",
+      "start_char": 10363,
+      "end_char": 10375
+    },
+    {
+      "text": "(2004)1 SCC 287",
+      "label": "PRECEDENT",
+      "start_char": 10457,
+      "end_char": 10472
+    },
+    {
+      "text": "30.10.2018",
+      "label": "DATE",
+      "start_char": 10828,
+      "end_char": 10838
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 10933,
+      "end_char": 10943
+    },
+    {
+      "text": "06.02.2019",
+      "label": "DATE",
+      "start_char": 10975,
+      "end_char": 10985
+    },
+    {
+      "text": "08.03.2019",
+      "label": "DATE",
+      "start_char": 11141,
+      "end_char": 11151
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 11214,
+      "end_char": 11224
+    },
+    {
+      "text": "06.07.2019",
+      "label": "DATE",
+      "start_char": 11247,
+      "end_char": 11257
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 11488,
+      "end_char": 11498
+    },
+    {
+      "text": "08.03.2019",
+      "label": "DATE",
+      "start_char": 11550,
+      "end_char": 11560
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 11603,
+      "end_char": 11613
+    },
+    {
+      "text": "Section 34(3)",
+      "label": "PROVISION",
+      "start_char": 11797,
+      "end_char": 11810
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 12095,
+      "end_char": 12105
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 12175,
+      "end_char": 12185
+    },
+    {
+      "text": "Chapter VII",
+      "label": "PROVISION",
+      "start_char": 12276,
+      "end_char": 12287
+    },
+    {
+      "text": "Arbitration and Conciliation Act of 1996",
+      "label": "STATUTE",
+      "start_char": 12295,
+      "end_char": 12335
+    },
+    {
+      "text": "Section 34(1)",
+      "label": "PROVISION",
+      "start_char": 12382,
+      "end_char": 12395
+    },
+    {
+      "text": "Sub-section (2) of Section 34",
+      "label": "PROVISION",
+      "start_char": 12601,
+      "end_char": 12630
+    },
+    {
+      "text": "sub-section 3 of Section 34",
+      "label": "PROVISION",
+      "start_char": 12733,
+      "end_char": 12760
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 12850,
+      "end_char": 12860
+    },
+    {
+      "text": "Section 34(3)",
+      "label": "PROVISION",
+      "start_char": 12886,
+      "end_char": 12899
+    },
+    {
+      "text": "section 33",
+      "label": "PROVISION",
+      "start_char": 13147,
+      "end_char": 13157
+    },
+    {
+      "text": "Section 34(3)",
+      "label": "PROVISION",
+      "start_char": 13532,
+      "end_char": 13545
+    },
+    {
+      "text": "Section 34(3)",
+      "label": "PROVISION",
+      "start_char": 13740,
+      "end_char": 13753
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 14107,
+      "end_char": 14117
+    },
+    {
+      "text": "Section 34(3)",
+      "label": "PROVISION",
+      "start_char": 14390,
+      "end_char": 14403
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 14481,
+      "end_char": 14491
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 14657,
+      "end_char": 14667
+    },
+    {
+      "text": "Section 31",
+      "label": "PROVISION",
+      "start_char": 16476,
+      "end_char": 16486
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 16638,
+      "end_char": 16648
+    },
+    {
+      "text": "Section 33(7)",
+      "label": "PROVISION",
+      "start_char": 17089,
+      "end_char": 17102
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 17161,
+      "end_char": 17171
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 17347,
+      "end_char": 17363
+    },
+    {
+      "text": "MKU Limited vs. Union of India1",
+      "label": "PRECEDENT",
+      "start_char": 17379,
+      "end_char": 17410
+    },
+    {
+      "text": "Section 33(1)",
+      "label": "PROVISION",
+      "start_char": 17531,
+      "end_char": 17544
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 17692,
+      "end_char": 17702
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 17973,
+      "end_char": 17983
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 18206,
+      "end_char": 18216
+    },
+    {
+      "text": "12.02.2016",
+      "label": "DATE",
+      "start_char": 18313,
+      "end_char": 18323
+    },
+    {
+      "text": "Ircon International Ltd., vs Budhraja Mining2",
+      "label": "PRECEDENT",
+      "start_char": 18476,
+      "end_char": 18521
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 18599,
+      "end_char": 18615
+    },
+    {
+      "text": "Sub-section (3) of Section 33 also 2007 (4) ARBLR 159",
+      "label": "PROVISION",
+      "start_char": 19044,
+      "end_char": 19097
+    },
+    {
+      "text": "Sub-section (2) of Section 33",
+      "label": "PROVISION",
+      "start_char": 19234,
+      "end_char": 19263
+    },
+    {
+      "text": "Sub-section (6) of Section 33",
+      "label": "PROVISION",
+      "start_char": 20673,
+      "end_char": 20702
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 20838,
+      "end_char": 20848
+    },
+    {
+      "text": "Sub- section (3) of Section 33",
+      "label": "PROVISION",
+      "start_char": 21517,
+      "end_char": 21547
+    },
+    {
+      "text": "Section 33(6)",
+      "label": "PROVISION",
+      "start_char": 21805,
+      "end_char": 21818
+    },
+    {
+      "text": "Section 33(1)(a)",
+      "label": "PROVISION",
+      "start_char": 22214,
+      "end_char": 22230
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 22299,
+      "end_char": 22308
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 22316,
+      "end_char": 22330
+    },
+    {
+      "text": "MKU Limited",
+      "label": "PRECEDENT",
+      "start_char": 22491,
+      "end_char": 22502
+    },
+    {
+      "text": "Ircon International Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 22535,
+      "end_char": 22559
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 22594,
+      "end_char": 22610
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 22667,
+      "end_char": 22677
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 22955,
+      "end_char": 22965
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 23223,
+      "end_char": 23233
+    },
+    {
+      "text": "MKU Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 23297,
+      "end_char": 23305
+    },
+    {
+      "text": "Ircon International Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 23318,
+      "end_char": 23342
+    },
+    {
+      "text": "D.M.Jawhar Merican vs Engineers India Limited3",
+      "label": "PRECEDENT",
+      "start_char": 23422,
+      "end_char": 23468
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 23474,
+      "end_char": 23490
+    },
+    {
+      "text": "Section 34(3)",
+      "label": "PROVISION",
+      "start_char": 23582,
+      "end_char": 23595
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 23647,
+      "end_char": 23657
+    },
+    {
+      "text": "Section FAO (OS) No.445/2008",
+      "label": "PROVISION",
+      "start_char": 23727,
+      "end_char": 23755
+    },
+    {
+      "text": "30.03.2009",
+      "label": "DATE",
+      "start_char": 23758,
+      "end_char": 23768
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 23840,
+      "end_char": 23850
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 24054,
+      "end_char": 24070
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 24246,
+      "end_char": 24256
+    },
+    {
+      "text": "Section 34(4)",
+      "label": "PROVISION",
+      "start_char": 24340,
+      "end_char": 24353
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 24736,
+      "end_char": 24746
+    },
+    {
+      "text": "12.02.2005",
+      "label": "DATE",
+      "start_char": 24764,
+      "end_char": 24774
+    },
+    {
+      "text": "18.01.2005",
+      "label": "DATE",
+      "start_char": 25070,
+      "end_char": 25080
+    },
+    {
+      "text": "23.04.2004",
+      "label": "DATE",
+      "start_char": 25599,
+      "end_char": 25609
+    },
+    {
+      "text": "16th September, 2002",
+      "label": "DATE",
+      "start_char": 25696,
+      "end_char": 25716
+    },
+    {
+      "text": "16th September, 2002",
+      "label": "DATE",
+      "start_char": 26082,
+      "end_char": 26102
+    },
+    {
+      "text": "9th April, 2003",
+      "label": "DATE",
+      "start_char": 26393,
+      "end_char": 26408
+    },
+    {
+      "text": "9th April, 2003",
+      "label": "DATE",
+      "start_char": 26805,
+      "end_char": 26820
+    },
+    {
+      "text": "18.01.2005",
+      "label": "DATE",
+      "start_char": 27333,
+      "end_char": 27343
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 27351,
+      "end_char": 27361
+    },
+    {
+      "text": "Arbitration & Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 27369,
+      "end_char": 27405
+    },
+    {
+      "text": "18.01.2005",
+      "label": "DATE",
+      "start_char": 27636,
+      "end_char": 27646
+    },
+    {
+      "text": "D.M.Jawhar Merican",
+      "label": "PRECEDENT",
+      "start_char": 27658,
+      "end_char": 27676
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 27696,
+      "end_char": 27712
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 27753,
+      "end_char": 27763
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 27970,
+      "end_char": 27980
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 28196,
+      "end_char": 28206
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 28259,
+      "end_char": 28269
+    },
+    {
+      "text": "Section 34(3)",
+      "label": "PROVISION",
+      "start_char": 28353,
+      "end_char": 28366
+    },
+    {
+      "text": "High Court of Delhi",
+      "label": "COURT",
+      "start_char": 28404,
+      "end_char": 28423
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 28477,
+      "end_char": 28487
+    },
+    {
+      "text": "M/s Simplex Infrastructure Ltd. vs Union of India4",
+      "label": "PRECEDENT",
+      "start_char": 28672,
+      "end_char": 28722
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 28759,
+      "end_char": 28772
+    },
+    {
+      "text": "proviso to Section 34",
+      "label": "PROVISION",
+      "start_char": 28848,
+      "end_char": 28869
+    },
+    {
+      "text": "sub- section (2) of Section 34",
+      "label": "PROVISION",
+      "start_char": 28970,
+      "end_char": 29000
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 29116,
+      "end_char": 29129
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 29326,
+      "end_char": 29336
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 29344,
+      "end_char": 29358
+    },
+    {
+      "text": "proviso to Section 34",
+      "label": "PROVISION",
+      "start_char": 29540,
+      "end_char": 29561
+    },
+    {
+      "text": "31 October 2014",
+      "label": "DATE",
+      "start_char": 29745,
+      "end_char": 29760
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 29856,
+      "end_char": 29866
+    },
+    {
+      "text": "1996 Act",
+      "label": "STATUTE",
+      "start_char": 29874,
+      "end_char": 29882
+    },
+    {
+      "text": "District Judge, Port Blair",
+      "label": "COURT",
+      "start_char": 29894,
+      "end_char": 29920
+    },
+    {
+      "text": "30 January 2015",
+      "label": "DATE",
+      "start_char": 29924,
+      "end_char": 29939
+    },
+    {
+      "text": "12 February 2016",
+      "label": "DATE",
+      "start_char": 29944,
+      "end_char": 29960
+    },
+    {
+      "text": "28 March 2016",
+      "label": "DATE",
+      "start_char": 30039,
+      "end_char": 30052
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 30118,
+      "end_char": 30128
+    },
+    {
+      "text": "1996 Act",
+      "label": "STATUTE",
+      "start_char": 30136,
+      "end_char": 30144
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 30544,
+      "end_char": 30554
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 30562,
+      "end_char": 30576
+    },
+    {
+      "text": "District Judge, Port Blair",
+      "label": "COURT",
+      "start_char": 30647,
+      "end_char": 30673
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 30694,
+      "end_char": 30704
+    },
+    {
+      "text": "Simplex Infrastructure Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 30785,
+      "end_char": 30812
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 30835,
+      "end_char": 30848
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 30906,
+      "end_char": 30916
+    },
+    {
+      "text": "Union of India (Uoi) Another vs Saboo Minerals Pvt",
+      "label": "PRECEDENT",
+      "start_char": 31116,
+      "end_char": 31166
+    },
+    {
+      "text": "High Court of Delhi",
+      "label": "COURT",
+      "start_char": 31179,
+      "end_char": 31198
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 31250,
+      "end_char": 31260
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 31516,
+      "end_char": 31526
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 31604,
+      "end_char": 31614
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 31690,
+      "end_char": 31706
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 31791,
+      "end_char": 31801
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 31842,
+      "end_char": 31852
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 31941,
+      "end_char": 31951
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 32123,
+      "end_char": 32133
+    },
+    {
+      "text": "VAD Delhi 623",
+      "label": "CASE_NUMBER",
+      "start_char": 32176,
+      "end_char": 32189
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 32322,
+      "end_char": 32332
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 32398,
+      "end_char": 32408
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 32605,
+      "end_char": 32615
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 32808,
+      "end_char": 32818
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 32863,
+      "end_char": 32873
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 33044,
+      "end_char": 33054
+    },
+    {
+      "text": "Section 34(3)",
+      "label": "PROVISION",
+      "start_char": 33147,
+      "end_char": 33160
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 33304,
+      "end_char": 33314
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 33820,
+      "end_char": 33830
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 33938,
+      "end_char": 33948
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 34038,
+      "end_char": 34048
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 34139,
+      "end_char": 34149
+    },
+    {
+      "text": "06.07.2019",
+      "label": "DATE",
+      "start_char": 34210,
+      "end_char": 34220
+    },
+    {
+      "text": "30.01.2020",
+      "label": "DATE",
+      "start_char": 34263,
+      "end_char": 34273
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 34376,
+      "end_char": 34386
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 34667,
+      "end_char": 34680
+    },
+    {
+      "text": "Ved Prakash Mithal and Sons vs Union of India6",
+      "label": "PRECEDENT",
+      "start_char": 34684,
+      "end_char": 34730
+    },
+    {
+      "text": "2018 SCC OnLine SC 3181",
+      "label": "PRECEDENT",
+      "start_char": 34750,
+      "end_char": 34773
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 34812,
+      "end_char": 34822
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 34909,
+      "end_char": 34919
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 34984,
+      "end_char": 34994
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 35131,
+      "end_char": 35141
+    },
+    {
+      "text": "Section 34(3)",
+      "label": "PROVISION",
+      "start_char": 35223,
+      "end_char": 35236
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 35402,
+      "end_char": 35412
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 35485,
+      "end_char": 35495
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 35693,
+      "end_char": 35703
+    },
+    {
+      "text": "Section 34(3)",
+      "label": "PROVISION",
+      "start_char": 35845,
+      "end_char": 35858
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 35970,
+      "end_char": 35980
+    },
+    {
+      "text": "Section 34(3)",
+      "label": "PROVISION",
+      "start_char": 36315,
+      "end_char": 36328
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 36395,
+      "end_char": 36405
+    },
+    {
+      "text": "Section 34(3)",
+      "label": "PROVISION",
+      "start_char": 36470,
+      "end_char": 36483
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 36516,
+      "end_char": 36526
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 36756,
+      "end_char": 36766
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 37030,
+      "end_char": 37040
+    },
+    {
+      "text": "Bokaro",
+      "label": "OTHER_PERSON",
+      "start_char": 37076,
+      "end_char": 37082
+    },
+    {
+      "text": "Ramgur Ltd.",
+      "label": "ORG",
+      "start_char": 37087,
+      "end_char": 37098
+    },
+    {
+      "text": "Prasun Kumar Banerjee",
+      "label": "RESPONDENT",
+      "start_char": 37102,
+      "end_char": 37123
+    },
+    {
+      "text": "Patna High Court",
+      "label": "COURT",
+      "start_char": 37149,
+      "end_char": 37165
+    },
+    {
+      "text": "Article 1175",
+      "label": "PROVISION",
+      "start_char": 37319,
+      "end_char": 37331
+    },
+    {
+      "text": "England",
+      "label": "GPE",
+      "start_char": 37366,
+      "end_char": 37373
+    },
+    {
+      "text": "Article 1177",
+      "label": "PROVISION",
+      "start_char": 38106,
+      "end_char": 38118
+    },
+    {
+      "text": "AIR 1968 Pat 150",
+      "label": "PRECEDENT",
+      "start_char": 38534,
+      "end_char": 38550
+    },
+    {
+      "text": "Nagar Palika, Mirzapur vs The Mirzapur Elect",
+      "label": "PRECEDENT",
+      "start_char": 38771,
+      "end_char": 38815
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 38845,
+      "end_char": 38858
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 39720,
+      "end_char": 39733
+    },
+    {
+      "text": "AIR 1990 SC 2273",
+      "label": "PRECEDENT",
+      "start_char": 39741,
+      "end_char": 39757
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 40065,
+      "end_char": 40075
+    },
+    {
+      "text": "08.03.2019",
+      "label": "DATE",
+      "start_char": 40117,
+      "end_char": 40127
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 40167,
+      "end_char": 40177
+    },
+    {
+      "text": "Section 34(3)",
+      "label": "PROVISION",
+      "start_char": 40287,
+      "end_char": 40300
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 40371,
+      "end_char": 40381
+    },
+    {
+      "text": "Section 34(1)",
+      "label": "PROVISION",
+      "start_char": 40529,
+      "end_char": 40542
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 40666,
+      "end_char": 40676
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 41029,
+      "end_char": 41039
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 41745,
+      "end_char": 41758
+    },
+    {
+      "text": "Rafique Bibi (Dead) by LRs vs Syed Waliuddin (Dead) by LRs and others9",
+      "label": "PRECEDENT",
+      "start_char": 41774,
+      "end_char": 41844
+    },
+    {
+      "text": "Vasudev Dhanjibhai Modi v. Rajabhai Abdul Rehman & Ors",
+      "label": "PRECEDENT",
+      "start_char": 42607,
+      "end_char": 42661
+    },
+    {
+      "text": "[1970] 1 SCC 670",
+      "label": "PRECEDENT",
+      "start_char": 42664,
+      "end_char": 42680
+    },
+    {
+      "text": "(2004) 1 Supreme Court Cases 287",
+      "label": "PRECEDENT",
+      "start_char": 43303,
+      "end_char": 43335
+    },
+    {
+      "text": "Delhi and Ajmer Act",
+      "label": "STATUTE",
+      "start_char": 43667,
+      "end_char": 43686
+    },
+    {
+      "text": "Rajasthan Act",
+      "label": "STATUTE",
+      "start_char": 43704,
+      "end_char": 43717
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 45162,
+      "end_char": 45172
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 45716,
+      "end_char": 45726
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 45983,
+      "end_char": 45996
+    },
+    {
+      "text": "Hindusthan Commercial Bank Ltd vs Punnu Sahu",
+      "label": "PRECEDENT",
+      "start_char": 46012,
+      "end_char": 46056
+    },
+    {
+      "text": "AIR 1970 Supreme Court 1384",
+      "label": "PRECEDENT",
+      "start_char": 46169,
+      "end_char": 46196
+    },
+    {
+      "text": "Nusli Neville Wadia vs. Ivory Properties and Others11",
+      "label": "PRECEDENT",
+      "start_char": 46245,
+      "end_char": 46298
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 46312,
+      "end_char": 46325
+    },
+    {
+      "text": "AIR 2019 Supreme Court 5125 court",
+      "label": "PRECEDENT",
+      "start_char": 47708,
+      "end_char": 47741
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 49954,
+      "end_char": 49964
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 50092,
+      "end_char": 50102
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 50418,
+      "end_char": 50428
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 50590,
+      "end_char": 50600
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 50732,
+      "end_char": 50742
+    },
+    {
+      "text": "Commercial Act",
+      "label": "STATUTE",
+      "start_char": 50773,
+      "end_char": 50787
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 50948,
+      "end_char": 50958
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 51149,
+      "end_char": 51162
+    },
+    {
+      "text": "Rafique Bibi",
+      "label": "PRECEDENT",
+      "start_char": 51178,
+      "end_char": 51190
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 51288,
+      "end_char": 51298
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 51446,
+      "end_char": 51456
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 51545,
+      "end_char": 51555
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 51627,
+      "end_char": 51637
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 51772,
+      "end_char": 51782
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 51878,
+      "end_char": 51888
+    },
+    {
+      "text": "State of Himachal Pradesh and another vs Himachal Techno Engineers and another12",
+      "label": "PRECEDENT",
+      "start_char": 52061,
+      "end_char": 52141
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 52155,
+      "end_char": 52168
+    },
+    {
+      "text": "section 34(3)",
+      "label": "PROVISION",
+      "start_char": 52277,
+      "end_char": 52290
+    },
+    {
+      "text": "(2010) 12 Supreme Court Cases 210 15",
+      "label": "PRECEDENT",
+      "start_char": 52809,
+      "end_char": 52845
+    },
+    {
+      "text": "Sub-section (3) of Section 34",
+      "label": "PROVISION",
+      "start_char": 52847,
+      "end_char": 52876
+    },
+    {
+      "text": "Section 3(35)",
+      "label": "PROVISION",
+      "start_char": 53650,
+      "end_char": 53663
+    },
+    {
+      "text": "General Clauses Act, 1897",
+      "label": "STATUTE",
+      "start_char": 53671,
+      "end_char": 53696
+    },
+    {
+      "text": "Dodds v. Walker - (1981) 2 All ER 609 (HL)",
+      "label": "PRECEDENT",
+      "start_char": 53786,
+      "end_char": 53828
+    },
+    {
+      "text": "Bibi Salma Khatoon v. State of Bihar - (2001) 7",
+      "label": "PRECEDENT",
+      "start_char": 54235,
+      "end_char": 54282
+    },
+    {
+      "text": "SCC 197",
+      "label": "PROVISION",
+      "start_char": 54283,
+      "end_char": 54290
+    },
+    {
+      "text": "12.11.2007",
+      "label": "DATE",
+      "start_char": 54692,
+      "end_char": 54702
+    },
+    {
+      "text": "Section 12(1)",
+      "label": "PROVISION",
+      "start_char": 54817,
+      "end_char": 54830
+    },
+    {
+      "text": "Limitation Act, 1963",
+      "label": "STATUTE",
+      "start_char": 54834,
+      "end_char": 54854
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 54859,
+      "end_char": 54868
+    },
+    {
+      "text": "General Clauses Act, 1897",
+      "label": "STATUTE",
+      "start_char": 54872,
+      "end_char": 54897
+    },
+    {
+      "text": "13.11.2007",
+      "label": "DATE",
+      "start_char": 54956,
+      "end_char": 54966
+    },
+    {
+      "text": "12.2.2008",
+      "label": "DATE",
+      "start_char": 54987,
+      "end_char": 54996
+    },
+    {
+      "text": "12.2.2008",
+      "label": "DATE",
+      "start_char": 55015,
+      "end_char": 55024
+    },
+    {
+      "text": "13.2.2008",
+      "label": "DATE",
+      "start_char": 55069,
+      "end_char": 55078
+    },
+    {
+      "text": "13.3.2008",
+      "label": "DATE",
+      "start_char": 55149,
+      "end_char": 55158
+    },
+    {
+      "text": "11.3.2008",
+      "label": "DATE",
+      "start_char": 55192,
+      "end_char": 55201
+    },
+    {
+      "text": "30.10.2018",
+      "label": "DATE",
+      "start_char": 55313,
+      "end_char": 55323
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 55347,
+      "end_char": 55357
+    },
+    {
+      "text": "06.02.2019",
+      "label": "DATE",
+      "start_char": 55390,
+      "end_char": 55400
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 55421,
+      "end_char": 55431
+    },
+    {
+      "text": "08.03.2009",
+      "label": "DATE",
+      "start_char": 55491,
+      "end_char": 55501
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 55550,
+      "end_char": 55560
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 55702,
+      "end_char": 55712
+    },
+    {
+      "text": "09.03.2019",
+      "label": "DATE",
+      "start_char": 55786,
+      "end_char": 55796
+    },
+    {
+      "text": "08.06.2019",
+      "label": "DATE",
+      "start_char": 55826,
+      "end_char": 55836
+    },
+    {
+      "text": "Section 34(3)",
+      "label": "PROVISION",
+      "start_char": 55885,
+      "end_char": 55898
+    },
+    {
+      "text": "09.03.2019",
+      "label": "DATE",
+      "start_char": 55952,
+      "end_char": 55962
+    },
+    {
+      "text": "08.07.2019",
+      "label": "DATE",
+      "start_char": 55986,
+      "end_char": 55996
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 56020,
+      "end_char": 56030
+    },
+    {
+      "text": "06.07.2019",
+      "label": "DATE",
+      "start_char": 56091,
+      "end_char": 56101
+    },
+    {
+      "text": "Section 34(3)",
+      "label": "PROVISION",
+      "start_char": 56190,
+      "end_char": 56203
+    },
+    {
+      "text": "Section 34(3)",
+      "label": "PROVISION",
+      "start_char": 56296,
+      "end_char": 56309
+    },
+    {
+      "text": "Section 33",
+      "label": "PROVISION",
+      "start_char": 56462,
+      "end_char": 56472
+    }
+  ],
+  "precedent_clusters": {
+    "D.M.JAWHAR MERICAN VS ENGINEERS              INDIA LTD. - (DLH) 2009 (3) 129": [
+      "D.M.JAWHAR MERICAN VS ENGINEERS              INDIA LTD. - (DLH) 2009 (3) 129",
+      "VED PRAKASH VS UNION OF INDIA",
+      "MKU Limited vs. Union of India1",
+      "Ircon International Ltd., vs Budhraja Mining2",
+      "D.M.Jawhar Merican vs Engineers India Limited3",
+      "M/s Simplex Infrastructure Ltd. vs Union of India4",
+      "Union of India (Uoi) Another vs Saboo Minerals Pvt",
+      "Ved Prakash Mithal and Sons vs Union of India6",
+      "Nagar Palika, Mirzapur vs The Mirzapur Elect",
+      "Rafique Bibi (Dead) by LRs vs Syed Waliuddin (Dead) by LRs and others9",
+      "Vasudev Dhanjibhai Modi v. Rajabhai Abdul Rehman & Ors",
+      "Hindusthan Commercial Bank Ltd vs Punnu Sahu",
+      "Nusli Neville Wadia vs. Ivory Properties and Others11",
+      "State of Himachal Pradesh and another vs Himachal Techno Engineers and another12",
+      "Bibi Salma Khatoon v. State of Bihar - (2001) 7",
+      "MKU Limited",
+      "Ircon International Ltd.",
+      "Ircon International Ltd.",
+      "D.M.Jawhar Merican",
+      "Simplex Infrastructure Ltd.",
+      "Rafique Bibi"
+    ],
+    "AIR 1990 SC 2273": [
+      "AIR 1990 SC 2273",
+      "AIR 1990 SC 2273"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 5",
+      "Limitation Act",
+      "Section 5",
+      "Limitation Act"
+    ],
+    [
+      "Chapter VII",
+      "Arbitration and Conciliation Act of 1996",
+      "Chapter VII",
+      "Arbitration and Conciliation Act of 1996"
+    ],
+    [
+      "Section 5",
+      "Limitation Act",
+      "Section 5",
+      "Limitation Act"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 34",
+      "1996 Act",
+      "Section 34",
+      "1996 Act"
+    ],
+    [
+      "Section 34",
+      "1996 Act",
+      "Section 34",
+      "1996 Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 34",
+      "Commercial Act",
+      "Section 34",
+      "Commercial Act"
+    ],
+    [
+      "Section 3(35)",
+      "General Clauses Act, 1897",
+      "Section 3(35)",
+      "General Clauses Act, 1897"
+    ],
+    [
+      "Section 12(1)",
+      "Limitation Act, 1963",
+      "Section 12(1)",
+      "Limitation Act, 1963"
+    ],
+    [
+      "Section 9",
+      "General Clauses Act, 1897",
+      "Section 9",
+      "General Clauses Act, 1897"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34(3)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34(3)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 34(1)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34(1)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34(3)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34(3)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 34(3)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34(3)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 34(1)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34(1)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Sub-section (2) of Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Sub-section (2) of Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "sub-section 3 of Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "sub-section 3 of Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34(3)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34(3)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 34(3)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34(3)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34(3)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34(3)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34(3)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34(3)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33(7)",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33(7)",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33(1)",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33(1)",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Sub-section (2) of Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Sub-section (2) of Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Sub-section (6) of Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Sub-section (6) of Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Sub- section (3) of Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Sub- section (3) of Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33(6)",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33(6)",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33(1)(a)",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33(1)(a)",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 34(3)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34(3)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 34(4)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34(4)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34(3)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34(3)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "proviso to Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "proviso to Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "sub- section (2) of Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "sub- section (2) of Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "proviso to Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "proviso to Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "1996 Act",
+      "Section 34",
+      "1996 Act"
+    ],
+    [
+      "Section 34",
+      "1996 Act",
+      "Section 34",
+      "1996 Act"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "1996 Act",
+      "Section 34",
+      "1996 Act"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "1996 Act",
+      "Section 34",
+      "1996 Act"
+    ],
+    [
+      "Section 34",
+      "1996 Act",
+      "Section 34",
+      "1996 Act"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 34(3)",
+      "1996 Act",
+      "Section 34(3)",
+      "1996 Act"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "1996 Act",
+      "Section 34",
+      "1996 Act"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "1996 Act",
+      "Section 34",
+      "1996 Act"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "1996 Act",
+      "Section 34",
+      "1996 Act"
+    ],
+    [
+      "Section 34",
+      "1996 Act",
+      "Section 34",
+      "1996 Act"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 34(3)",
+      "1996 Act",
+      "Section 34(3)",
+      "1996 Act"
+    ],
+    [
+      "Section 34",
+      "1996 Act",
+      "Section 34",
+      "1996 Act"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "1996 Act",
+      "Section 34",
+      "1996 Act"
+    ],
+    [
+      "Section 34(3)",
+      "1996 Act",
+      "Section 34(3)",
+      "1996 Act"
+    ],
+    [
+      "Section 34",
+      "1996 Act",
+      "Section 34",
+      "1996 Act"
+    ],
+    [
+      "Section 34(3)",
+      "1996 Act",
+      "Section 34(3)",
+      "1996 Act"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 34(3)",
+      "1996 Act",
+      "Section 34(3)",
+      "1996 Act"
+    ],
+    [
+      "Section 34",
+      "1996 Act",
+      "Section 34",
+      "1996 Act"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "1996 Act",
+      "Section 34",
+      "1996 Act"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 34(3)",
+      "1996 Act",
+      "Section 34(3)",
+      "1996 Act"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 34(1)",
+      "1996 Act",
+      "Section 34(1)",
+      "1996 Act"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "1996 Act",
+      "Section 34",
+      "1996 Act"
+    ],
+    [
+      "Section 34",
+      "1996 Act",
+      "Section 34",
+      "1996 Act"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "section 34(3)",
+      "1996 Act",
+      "section 34(3)",
+      "1996 Act"
+    ],
+    [
+      "Sub-section (3) of Section 34",
+      "1996 Act",
+      "Sub-section (3) of Section 34",
+      "1996 Act"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "1996 Act",
+      "Section 34",
+      "1996 Act"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 34(3)",
+      "1996 Act",
+      "Section 34(3)",
+      "1996 Act"
+    ],
+    [
+      "Section 34",
+      "1996 Act",
+      "Section 34",
+      "1996 Act"
+    ],
+    [
+      "Section 34(3)",
+      "1996 Act",
+      "Section 34(3)",
+      "1996 Act"
+    ],
+    [
+      "Section 34(3)",
+      "1996 Act",
+      "Section 34(3)",
+      "1996 Act"
+    ],
+    [
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 33",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 31",
+      "Arbitration and Conciliation Act of 1996",
+      "Section 31",
+      "Arbitration and Conciliation Act of 1996"
+    ],
+    [
+      "Sub-section (3) of Section 33 also 2007 (4) ARBLR 159",
+      "Arbitration and Conciliation Act of 1996",
+      "Sub-section (3) of Section 33 also 2007 (4) ARBLR 159",
+      "Arbitration and Conciliation Act of 1996"
+    ],
+    [
+      "Section FAO (OS) No.445/2008",
+      "Limitation Act",
+      "Section FAO (OS) No.445/2008",
+      "Limitation Act"
+    ],
+    [
+      "Article 1175",
+      "Arbitration and Conciliation Act, 1996",
+      "Article 1175",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Article 1177",
+      "Arbitration and Conciliation Act, 1996",
+      "Article 1177",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "SCC 197",
+      "General Clauses Act, 1897",
+      "SCC 197",
+      "General Clauses Act, 1897"
+    ]
+  ],
+  "precedent_counts": {
+    "D.M.JAWHAR MERICAN VS ENGINEERS              INDIA LTD. - (DLH) 2009 (3) 129": 21,
+    "AIR 1990 SC 2273": 2
+  },
+  "provision_counts": {
+    "Section 34 of Arbitration and Conciliation Act, 1996": 11,
+    "Section 5 of Limitation Act": 2,
+    "Chapter VII of Arbitration and Conciliation Act of 1996": 1,
+    "Section 33 of Arbitration & Conciliation Act, 1996": 75,
+    "Section 14 of Limitation Act": 2,
+    "Section 34 of 1996 Act": 20,
+    "Section 34 of Commercial Act": 1,
+    "Section 3(35) of General Clauses Act, 1897": 1,
+    "Section 12(1) of Limitation Act, 1963": 1,
+    "Section 9 of General Clauses Act, 1897": 1,
+    "Section 34(3) of Arbitration and Conciliation Act, 1996": 9,
+    "Section 34(1) of Arbitration and Conciliation Act, 1996": 2,
+    "Sub-section (2) of Section 34 of Arbitration and Conciliation Act, 1996": 1,
+    "sub-section 3 of Section 34 of Arbitration and Conciliation Act, 1996": 1,
+    "section 33 of Arbitration & Conciliation Act, 1996": 1,
+    "Section 33(7) of Arbitration & Conciliation Act, 1996": 1,
+    "Section 33(1) of Arbitration & Conciliation Act, 1996": 1,
+    "Sub-section (2) of Section 33 of Arbitration & Conciliation Act, 1996": 1,
+    "Sub-section (6) of Section 33 of Arbitration & Conciliation Act, 1996": 1,
+    "Sub- section (3) of Section 33 of Arbitration & Conciliation Act, 1996": 1,
+    "Section 33(6) of Arbitration & Conciliation Act, 1996": 1,
+    "Section 33(1)(a) of Arbitration & Conciliation Act, 1996": 1,
+    "Section 34(4) of Arbitration and Conciliation Act, 1996": 1,
+    "proviso to Section 34 of Arbitration and Conciliation Act, 1996": 2,
+    "sub- section (2) of Section 34 of Arbitration and Conciliation Act, 1996": 1,
+    "Section 34(3) of 1996 Act": 9,
+    "Section 34(1) of 1996 Act": 1,
+    "section 34(3) of 1996 Act": 1,
+    "Sub-section (3) of Section 34 of 1996 Act": 1,
+    "Section 31 of Arbitration and Conciliation Act of 1996": 1,
+    "Sub-section (3) of Section 33 also 2007 (4) ARBLR 159 of Arbitration and Conciliation Act of 1996": 1,
+    "Section FAO (OS) No.445/2008 of Limitation Act": 1,
+    "Article 1175 of Arbitration and Conciliation Act, 1996": 1,
+    "Article 1177 of Arbitration and Conciliation Act, 1996": 1,
+    "SCC 197 of General Clauses Act, 1897": 1
+  },
+  "statute_counts": {
+    "Arbitration and Conciliation Act, 1996": 30,
+    "Limitation Act": 5,
+    "Arbitration and Conciliation Act of 1996": 3,
+    "Arbitration & Conciliation Act, 1996": 83,
+    "1996 Act": 32,
+    "Commercial Act": 1,
+    "General Clauses Act, 1897": 3,
+    "Limitation Act, 1963": 1
+  }
+}

@@ -1,0 +1,3727 @@
+{
+  "entities": [
+    {
+      "text": "Banque Cantonale De Geneve",
+      "label": "RESPONDENT",
+      "start_char": 67,
+      "end_char": 93
+    },
+    {
+      "text": "Indira Banerjee",
+      "label": "LAWYER",
+      "start_char": 124,
+      "end_char": 139
+    },
+    {
+      "text": "A. S. Bopanna",
+      "label": "JUDGE",
+      "start_char": 147,
+      "end_char": 160
+    },
+    {
+      "text": "Indira Banerjee",
+      "label": "LAWYER",
+      "start_char": 162,
+      "end_char": 177
+    },
+    {
+      "text": "Supreme Court Of India",
+      "label": "COURT",
+      "start_char": 313,
+      "end_char": 335
+    },
+    {
+      "text": "Banque Cantonale De Geneve",
+      "label": "RESPONDENT",
+      "start_char": 772,
+      "end_char": 798
+    },
+    {
+      "text": "Indira Banerjee",
+      "label": "JUDGE",
+      "start_char": 912,
+      "end_char": 927
+    },
+    {
+      "text": "28 th October 2021",
+      "label": "DATE",
+      "start_char": 1004,
+      "end_char": 1022
+    },
+    {
+      "text": "High Court of Judicature at Madras",
+      "label": "COURT",
+      "start_char": 1074,
+      "end_char": 1108
+    },
+    {
+      "text": "O.S.A (CAD) No.88 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 1142,
+      "end_char": 1167
+    },
+    {
+      "text": "24 th September 2021",
+      "label": "DATE",
+      "start_char": 1226,
+      "end_char": 1246
+    },
+    {
+      "text": "Gulf Petroleum FZC",
+      "label": "ORG",
+      "start_char": 1322,
+      "end_char": 1340
+    },
+    {
+      "text": "Banque Nationale De Geneve",
+      "label": "ORG",
+      "start_char": 1401,
+      "end_char": 1427
+    },
+    {
+      "text": "CS (Commercial Division) No.96 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 1434,
+      "end_char": 1472
+    },
+    {
+      "text": "Galaxy Marine Services Limited",
+      "label": "PETITIONER",
+      "start_char": 1497,
+      "end_char": 1527
+    },
+    {
+      "text": "M. V. Polaris Galaxy",
+      "label": "ORG",
+      "start_char": 1567,
+      "end_char": 1587
+    },
+    {
+      "text": "Liberia",
+      "label": "GPE",
+      "start_char": 1632,
+      "end_char": 1639
+    },
+    {
+      "text": "Polaris Marine Services",
+      "label": "ORG",
+      "start_char": 1700,
+      "end_char": 1723
+    },
+    {
+      "text": "Galaxy Marine Services",
+      "label": "ORG",
+      "start_char": 1762,
+      "end_char": 1784
+    },
+    {
+      "text": "Profitable Wealth Inc.",
+      "label": "ORG",
+      "start_char": 1829,
+      "end_char": 1851
+    },
+    {
+      "text": "British Virgin Islands",
+      "label": "GPE",
+      "start_char": 1881,
+      "end_char": 1903
+    },
+    {
+      "text": "Wirana Shipping Corporation Private Limited",
+      "label": "ORG",
+      "start_char": 1920,
+      "end_char": 1963
+    },
+    {
+      "text": "Singapore",
+      "label": "GPE",
+      "start_char": 2005,
+      "end_char": 2014
+    },
+    {
+      "text": "Profitable Wealth Inc.",
+      "label": "ORG",
+      "start_char": 2045,
+      "end_char": 2067
+    },
+    {
+      "text": "Profitable Wealth Inc.",
+      "label": "ORG",
+      "start_char": 2068,
+      "end_char": 2090
+    },
+    {
+      "text": "Gulf Petroleum FZC",
+      "label": "ORG",
+      "start_char": 2127,
+      "end_char": 2145
+    },
+    {
+      "text": "6th May 2020",
+      "label": "DATE",
+      "start_char": 2195,
+      "end_char": 2207
+    },
+    {
+      "text": "Gulf Petroleum FZC",
+      "label": "ORG",
+      "start_char": 2209,
+      "end_char": 2227
+    },
+    {
+      "text": "Indian Oil Corporation Limited",
+      "label": "ORG",
+      "start_char": 2315,
+      "end_char": 2345
+    },
+    {
+      "text": "Kandla",
+      "label": "GPE",
+      "start_char": 2382,
+      "end_char": 2388
+    },
+    {
+      "text": "Fujairah",
+      "label": "GPE",
+      "start_char": 2412,
+      "end_char": 2420
+    },
+    {
+      "text": "Gulf Petroleum FZC",
+      "label": "ORG",
+      "start_char": 2426,
+      "end_char": 2444
+    },
+    {
+      "text": "Banque Cantonale de Geneve",
+      "label": "ORG",
+      "start_char": 2471,
+      "end_char": 2497
+    },
+    {
+      "text": "IOC",
+      "label": "ORG",
+      "start_char": 2620,
+      "end_char": 2623
+    },
+    {
+      "text": "Gulf Petroleum FZC",
+      "label": "ORG",
+      "start_char": 2625,
+      "end_char": 2643
+    },
+    {
+      "text": "Aramaco",
+      "label": "ORG",
+      "start_char": 2710,
+      "end_char": 2717
+    },
+    {
+      "text": "Fujairah",
+      "label": "GPE",
+      "start_char": 2734,
+      "end_char": 2742
+    },
+    {
+      "text": "11th May 2020",
+      "label": "DATE",
+      "start_char": 2782,
+      "end_char": 2795
+    },
+    {
+      "text": "Gulf Petroleum FZC",
+      "label": "ORG",
+      "start_char": 2827,
+      "end_char": 2845
+    },
+    {
+      "text": "Gulf Petroleum FZC",
+      "label": "ORG",
+      "start_char": 2893,
+      "end_char": 2911
+    },
+    {
+      "text": "Aramco",
+      "label": "ORG",
+      "start_char": 2916,
+      "end_char": 2922
+    },
+    {
+      "text": "11th May 2020",
+      "label": "DATE",
+      "start_char": 2985,
+      "end_char": 2998
+    },
+    {
+      "text": "Gulf Petroleum FZC",
+      "label": "ORG",
+      "start_char": 3000,
+      "end_char": 3018
+    },
+    {
+      "text": "Aramco",
+      "label": "ORG",
+      "start_char": 3023,
+      "end_char": 3029
+    },
+    {
+      "text": "Fujairah",
+      "label": "GPE",
+      "start_char": 3094,
+      "end_char": 3102
+    },
+    {
+      "text": "23-30 May 2020",
+      "label": "DATE",
+      "start_char": 3111,
+      "end_char": 3125
+    },
+    {
+      "text": "12th May 2020",
+      "label": "DATE",
+      "start_char": 3186,
+      "end_char": 3199
+    },
+    {
+      "text": "Gulf Petroleum FZC",
+      "label": "ORG",
+      "start_char": 3237,
+      "end_char": 3255
+    },
+    {
+      "text": "Aramco",
+      "label": "ORG",
+      "start_char": 3260,
+      "end_char": 3266
+    },
+    {
+      "text": "IOC",
+      "label": "ORG",
+      "start_char": 3431,
+      "end_char": 3434
+    },
+    {
+      "text": "15th May 2020",
+      "label": "DATE",
+      "start_char": 3640,
+      "end_char": 3653
+    },
+    {
+      "text": "Gulf Petroleum FZC",
+      "label": "ORG",
+      "start_char": 3655,
+      "end_char": 3673
+    },
+    {
+      "text": "Fujairah",
+      "label": "GPE",
+      "start_char": 3773,
+      "end_char": 3781
+    },
+    {
+      "text": "Singapore",
+      "label": "GPE",
+      "start_char": 3785,
+      "end_char": 3794
+    },
+    {
+      "text": "15th May 2020",
+      "label": "DATE",
+      "start_char": 3881,
+      "end_char": 3894
+    },
+    {
+      "text": "Gulf Petroleum FZC",
+      "label": "ORG",
+      "start_char": 3896,
+      "end_char": 3914
+    },
+    {
+      "text": "Aramco",
+      "label": "ORG",
+      "start_char": 3919,
+      "end_char": 3925
+    },
+    {
+      "text": "Fujairah",
+      "label": "GPE",
+      "start_char": 4002,
+      "end_char": 4010
+    },
+    {
+      "text": "Singapore",
+      "label": "GPE",
+      "start_char": 4014,
+      "end_char": 4023
+    },
+    {
+      "text": "17th May 2020",
+      "label": "DATE",
+      "start_char": 4028,
+      "end_char": 4041
+    },
+    {
+      "text": "Gulf Petroleum FZC",
+      "label": "ORG",
+      "start_char": 4043,
+      "end_char": 4061
+    },
+    {
+      "text": "18th May 2020",
+      "label": "DATE",
+      "start_char": 4144,
+      "end_char": 4157
+    },
+    {
+      "text": "Fujairah",
+      "label": "GPE",
+      "start_char": 4247,
+      "end_char": 4255
+    },
+    {
+      "text": "Singapore",
+      "label": "GPE",
+      "start_char": 4259,
+      "end_char": 4268
+    },
+    {
+      "text": "21st May 2020",
+      "label": "DATE",
+      "start_char": 4278,
+      "end_char": 4291
+    },
+    {
+      "text": "Gulf Petrochem FZC",
+      "label": "ORG",
+      "start_char": 4487,
+      "end_char": 4505
+    },
+    {
+      "text": "Singapore",
+      "label": "GPE",
+      "start_char": 4536,
+      "end_char": 4545
+    },
+    {
+      "text": "Gulf Petroleum FZC",
+      "label": "ORG",
+      "start_char": 4564,
+      "end_char": 4582
+    },
+    {
+      "text": "Chevron Singapore Private Limited",
+      "label": "ORG",
+      "start_char": 4657,
+      "end_char": 4690
+    },
+    {
+      "text": "Singapore",
+      "label": "GPE",
+      "start_char": 4757,
+      "end_char": 4766
+    },
+    {
+      "text": "24th May 2020",
+      "label": "DATE",
+      "start_char": 4776,
+      "end_char": 4789
+    },
+    {
+      "text": "Profitable Wealth Inc.",
+      "label": "ORG",
+      "start_char": 4791,
+      "end_char": 4813
+    },
+    {
+      "text": "Polaris Marine Services",
+      "label": "ORG",
+      "start_char": 4844,
+      "end_char": 4867
+    },
+    {
+      "text": "Gulf Petroleum FZC",
+      "label": "ORG",
+      "start_char": 4869,
+      "end_char": 4887
+    },
+    {
+      "text": "Profitable Wealth Inc.",
+      "label": "ORG",
+      "start_char": 4926,
+      "end_char": 4948
+    },
+    {
+      "text": "IOC",
+      "label": "ORG",
+      "start_char": 4953,
+      "end_char": 4956
+    },
+    {
+      "text": "27 th May 2020",
+      "label": "DATE",
+      "start_char": 4981,
+      "end_char": 4995
+    },
+    {
+      "text": "Gulf Petroleum FZC",
+      "label": "ORG",
+      "start_char": 5020,
+      "end_char": 5038
+    },
+    {
+      "text": "IOC",
+      "label": "ORG",
+      "start_char": 5078,
+      "end_char": 5081
+    },
+    {
+      "text": "Gulf Petroleum FZC",
+      "label": "ORG",
+      "start_char": 5086,
+      "end_char": 5104
+    },
+    {
+      "text": "IOC",
+      "label": "ORG",
+      "start_char": 5165,
+      "end_char": 5168
+    },
+    {
+      "text": "31st May 2020",
+      "label": "DATE",
+      "start_char": 5217,
+      "end_char": 5230
+    },
+    {
+      "text": "Singapore",
+      "label": "GPE",
+      "start_char": 5279,
+      "end_char": 5288
+    },
+    {
+      "text": "Gulf Petroleum FZC",
+      "label": "ORG",
+      "start_char": 5353,
+      "end_char": 5371
+    },
+    {
+      "text": "2nd June 2020",
+      "label": "DATE",
+      "start_char": 5391,
+      "end_char": 5404
+    },
+    {
+      "text": "Gulf Petroleum FZC",
+      "label": "ORG",
+      "start_char": 5406,
+      "end_char": 5424
+    },
+    {
+      "text": "Chevron",
+      "label": "ORG",
+      "start_char": 5479,
+      "end_char": 5486
+    },
+    {
+      "text": "9 th June 2020",
+      "label": "DATE",
+      "start_char": 5537,
+      "end_char": 5551
+    },
+    {
+      "text": "10th June 2020",
+      "label": "DATE",
+      "start_char": 5556,
+      "end_char": 5570
+    },
+    {
+      "text": "Singapore",
+      "label": "GPE",
+      "start_char": 5617,
+      "end_char": 5626
+    },
+    {
+      "text": "11th June 2020",
+      "label": "DATE",
+      "start_char": 5636,
+      "end_char": 5650
+    },
+    {
+      "text": "Gulf Petroleum FZC",
+      "label": "ORG",
+      "start_char": 5652,
+      "end_char": 5670
+    },
+    {
+      "text": "Aramco",
+      "label": "ORG",
+      "start_char": 5712,
+      "end_char": 5718
+    },
+    {
+      "text": "Aramco",
+      "label": "ORG",
+      "start_char": 5746,
+      "end_char": 5752
+    },
+    {
+      "text": "10th August 2020",
+      "label": "DATE",
+      "start_char": 5786,
+      "end_char": 5802
+    },
+    {
+      "text": "15th June 2020",
+      "label": "DATE",
+      "start_char": 5892,
+      "end_char": 5906
+    },
+    {
+      "text": "Gulf Petroleum FZC",
+      "label": "ORG",
+      "start_char": 5908,
+      "end_char": 5926
+    },
+    {
+      "text": "Gulf Petroleum FZC",
+      "label": "ORG",
+      "start_char": 5993,
+      "end_char": 6011
+    },
+    {
+      "text": "Aramco",
+      "label": "ORG",
+      "start_char": 6015,
+      "end_char": 6021
+    },
+    {
+      "text": "20th July 2020",
+      "label": "DATE",
+      "start_char": 6026,
+      "end_char": 6040
+    },
+    {
+      "text": "GP Global Group",
+      "label": "ORG",
+      "start_char": 6042,
+      "end_char": 6057
+    },
+    {
+      "text": "Gulf Petroleum FZC",
+      "label": "ORG",
+      "start_char": 6098,
+      "end_char": 6116
+    },
+    {
+      "text": "Gulf Petroleum FZC",
+      "label": "ORG",
+      "start_char": 6184,
+      "end_char": 6202
+    },
+    {
+      "text": "GP Global Group",
+      "label": "ORG",
+      "start_char": 6285,
+      "end_char": 6300
+    },
+    {
+      "text": "Gulf Petroleum FZC",
+      "label": "ORG",
+      "start_char": 6338,
+      "end_char": 6356
+    },
+    {
+      "text": "Gulf Petroleum FZC",
+      "label": "ORG",
+      "start_char": 6358,
+      "end_char": 6376
+    },
+    {
+      "text": "Gulf Petroleum FZC",
+      "label": "ORG",
+      "start_char": 6938,
+      "end_char": 6956
+    },
+    {
+      "text": "Chevron",
+      "label": "ORG",
+      "start_char": 6960,
+      "end_char": 6967
+    },
+    {
+      "text": "Gulf Petrol Supplies LLC",
+      "label": "ORG",
+      "start_char": 7037,
+      "end_char": 7061
+    },
+    {
+      "text": "Gulf Petroleum FZC",
+      "label": "ORG",
+      "start_char": 7101,
+      "end_char": 7119
+    },
+    {
+      "text": "Gulf Petroleum FZC",
+      "label": "ORG",
+      "start_char": 7242,
+      "end_char": 7260
+    },
+    {
+      "text": "Gulf Petrol Supplies LLC",
+      "label": "ORG",
+      "start_char": 7330,
+      "end_char": 7354
+    },
+    {
+      "text": "8th March 2021",
+      "label": "DATE",
+      "start_char": 7404,
+      "end_char": 7418
+    },
+    {
+      "text": "No. 96 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 7503,
+      "end_char": 7517
+    },
+    {
+      "text": "Madras High Court",
+      "label": "COURT",
+      "start_char": 7556,
+      "end_char": 7573
+    },
+    {
+      "text": "section 4(1)(f)",
+      "label": "PROVISION",
+      "start_char": 7833,
+      "end_char": 7848
+    },
+    {
+      "text": "Admiralty (Jurisdiction and Settlement of Maritime Claims) Act, 2017",
+      "label": "STATUTE",
+      "start_char": 7856,
+      "end_char": 7924
+    },
+    {
+      "text": "21st May 2020",
+      "label": "DATE",
+      "start_char": 8401,
+      "end_char": 8414
+    },
+    {
+      "text": "Kandla",
+      "label": "GPE",
+      "start_char": 8510,
+      "end_char": 8516
+    },
+    {
+      "text": "Singapore",
+      "label": "GPE",
+      "start_char": 8520,
+      "end_char": 8529
+    },
+    {
+      "text": "8th May 2020",
+      "label": "DATE",
+      "start_char": 9241,
+      "end_char": 9253
+    },
+    {
+      "text": "Gulf Petrochem FZC",
+      "label": "ORG",
+      "start_char": 9259,
+      "end_char": 9277
+    },
+    {
+      "text": "Indian Oil Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 9371,
+      "end_char": 9398
+    },
+    {
+      "text": "Aramco Trading Fujairah FZE",
+      "label": "ORG",
+      "start_char": 9442,
+      "end_char": 9469
+    },
+    {
+      "text": "Aramco",
+      "label": "GPE",
+      "start_char": 9472,
+      "end_char": 9478
+    },
+    {
+      "text": "IOCL",
+      "label": "ORG",
+      "start_char": 9557,
+      "end_char": 9561
+    },
+    {
+      "text": "Armco",
+      "label": "ORG",
+      "start_char": 9626,
+      "end_char": 9631
+    },
+    {
+      "text": "Kandla",
+      "label": "GPE",
+      "start_char": 9694,
+      "end_char": 9700
+    },
+    {
+      "text": "Fujairah",
+      "label": "GPE",
+      "start_char": 9733,
+      "end_char": 9741
+    },
+    {
+      "text": "IOCL",
+      "label": "ORG",
+      "start_char": 9809,
+      "end_char": 9813
+    },
+    {
+      "text": "Aramco",
+      "label": "ORG",
+      "start_char": 9903,
+      "end_char": 9909
+    },
+    {
+      "text": "Aramco",
+      "label": "ORG",
+      "start_char": 9971,
+      "end_char": 9977
+    },
+    {
+      "text": "Aramco",
+      "label": "ORG",
+      "start_char": 10079,
+      "end_char": 10085
+    },
+    {
+      "text": "Aramco",
+      "label": "ORG",
+      "start_char": 10123,
+      "end_char": 10129
+    },
+    {
+      "text": "Aramco",
+      "label": "ORG",
+      "start_char": 10205,
+      "end_char": 10211
+    },
+    {
+      "text": "Aramco",
+      "label": "ORG",
+      "start_char": 10916,
+      "end_char": 10922
+    },
+    {
+      "text": "Aramco",
+      "label": "ORG",
+      "start_char": 11210,
+      "end_char": 11216
+    },
+    {
+      "text": "8 May 2020",
+      "label": "DATE",
+      "start_char": 11467,
+      "end_char": 11477
+    },
+    {
+      "text": "IOCL",
+      "label": "ORG",
+      "start_char": 11544,
+      "end_char": 11548
+    },
+    {
+      "text": "12 May 2020",
+      "label": "DATE",
+      "start_char": 11565,
+      "end_char": 11576
+    },
+    {
+      "text": "IOCL",
+      "label": "ORG",
+      "start_char": 11664,
+      "end_char": 11668
+    },
+    {
+      "text": "Aramco",
+      "label": "ORG",
+      "start_char": 11737,
+      "end_char": 11743
+    },
+    {
+      "text": "Fujairah",
+      "label": "GPE",
+      "start_char": 11797,
+      "end_char": 11805
+    },
+    {
+      "text": "Singapore",
+      "label": "GPE",
+      "start_char": 11809,
+      "end_char": 11818
+    },
+    {
+      "text": "17 May 2020",
+      "label": "DATE",
+      "start_char": 11864,
+      "end_char": 11875
+    },
+    {
+      "text": "18 May 2020",
+      "label": "DATE",
+      "start_char": 11965,
+      "end_char": 11976
+    },
+    {
+      "text": "IOCL",
+      "label": "ORG",
+      "start_char": 12081,
+      "end_char": 12085
+    },
+    {
+      "text": "IOCL",
+      "label": "ORG",
+      "start_char": 12180,
+      "end_char": 12184
+    },
+    {
+      "text": "10 August 2020",
+      "label": "DATE",
+      "start_char": 12562,
+      "end_char": 12576
+    },
+    {
+      "text": "Aramco",
+      "label": "ORG",
+      "start_char": 12601,
+      "end_char": 12607
+    },
+    {
+      "text": "Aramco",
+      "label": "ORG",
+      "start_char": 13049,
+      "end_char": 13055
+    },
+    {
+      "text": "10 August 2020",
+      "label": "DATE",
+      "start_char": 13095,
+      "end_char": 13109
+    },
+    {
+      "text": "11 June 2020",
+      "label": "DATE",
+      "start_char": 13200,
+      "end_char": 13212
+    },
+    {
+      "text": "Aramco",
+      "label": "ORG",
+      "start_char": 13223,
+      "end_char": 13229
+    },
+    {
+      "text": "9th March 2021",
+      "label": "DATE",
+      "start_char": 13501,
+      "end_char": 13515
+    },
+    {
+      "text": "Madras High Court",
+      "label": "COURT",
+      "start_char": 13544,
+      "end_char": 13561
+    },
+    {
+      "text": "26th March 2021",
+      "label": "DATE",
+      "start_char": 13642,
+      "end_char": 13657
+    },
+    {
+      "text": "Application No.1494 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 13688,
+      "end_char": 13715
+    },
+    {
+      "text": "Order XIV Rule 8 and Order XIIIA",
+      "label": "PROVISION",
+      "start_char": 13771,
+      "end_char": 13803
+    },
+    {
+      "text": "Civil Procedure Code 1908",
+      "label": "STATUTE",
+      "start_char": 13811,
+      "end_char": 13836
+    },
+    {
+      "text": "Commercial Courts Act 2015",
+      "label": "STATUTE",
+      "start_char": 13856,
+      "end_char": 13882
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 13912,
+      "end_char": 13933
+    },
+    {
+      "text": "Madras High Court",
+      "label": "COURT",
+      "start_char": 14017,
+      "end_char": 14034
+    },
+    {
+      "text": "6 th July 2021",
+      "label": "DATE",
+      "start_char": 14177,
+      "end_char": 14191
+    },
+    {
+      "text": "16th July 2021",
+      "label": "DATE",
+      "start_char": 14339,
+      "end_char": 14353
+    },
+    {
+      "text": "Application No.1494 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 14421,
+      "end_char": 14448
+    },
+    {
+      "text": "Order XIV Rule 8 and Order XIIA",
+      "label": "PROVISION",
+      "start_char": 14506,
+      "end_char": 14537
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 14545,
+      "end_char": 14568
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 14587,
+      "end_char": 14608
+    },
+    {
+      "text": "Gulf Petrochem",
+      "label": "ORG",
+      "start_char": 14699,
+      "end_char": 14713
+    },
+    {
+      "text": "Gulf Petrochem",
+      "label": "ORG",
+      "start_char": 15070,
+      "end_char": 15084
+    },
+    {
+      "text": "Gulf Petrochem",
+      "label": "ORG",
+      "start_char": 15162,
+      "end_char": 15176
+    },
+    {
+      "text": "13th August 2021",
+      "label": "DATE",
+      "start_char": 15188,
+      "end_char": 15204
+    },
+    {
+      "text": "24 th September 2021",
+      "label": "DATE",
+      "start_char": 15491,
+      "end_char": 15511
+    },
+    {
+      "text": "Gulf Petroleum FZC",
+      "label": "ORG",
+      "start_char": 15577,
+      "end_char": 15595
+    },
+    {
+      "text": "Singapore",
+      "label": "GPE",
+      "start_char": 15861,
+      "end_char": 15870
+    },
+    {
+      "text": "21.05.2020",
+      "label": "DATE",
+      "start_char": 16056,
+      "end_char": 16066
+    },
+    {
+      "text": "Gulf Petrochem",
+      "label": "ORG",
+      "start_char": 16074,
+      "end_char": 16088
+    },
+    {
+      "text": "Singapore",
+      "label": "GPE",
+      "start_char": 16158,
+      "end_char": 16167
+    },
+    {
+      "text": "Gulf Petrochem",
+      "label": "ORG",
+      "start_char": 16458,
+      "end_char": 16472
+    },
+    {
+      "text": "Gulf Petrochem",
+      "label": "ORG",
+      "start_char": 16672,
+      "end_char": 16686
+    },
+    {
+      "text": "Singapore",
+      "label": "GPE",
+      "start_char": 16805,
+      "end_char": 16814
+    },
+    {
+      "text": "IOCL",
+      "label": "ORG",
+      "start_char": 16834,
+      "end_char": 16838
+    },
+    {
+      "text": "Singapore",
+      "label": "GPE",
+      "start_char": 17042,
+      "end_char": 17051
+    },
+    {
+      "text": "Singapore",
+      "label": "GPE",
+      "start_char": 17095,
+      "end_char": 17104
+    },
+    {
+      "text": "24.05.2020",
+      "label": "DATE",
+      "start_char": 17149,
+      "end_char": 17159
+    },
+    {
+      "text": "Profitable Wealth INC",
+      "label": "ORG",
+      "start_char": 17169,
+      "end_char": 17190
+    },
+    {
+      "text": "Singapore",
+      "label": "GPE",
+      "start_char": 17192,
+      "end_char": 17201
+    },
+    {
+      "text": "12.05.2020",
+      "label": "DATE",
+      "start_char": 17248,
+      "end_char": 17258
+    },
+    {
+      "text": "Gulf Petrochem",
+      "label": "ORG",
+      "start_char": 17512,
+      "end_char": 17526
+    },
+    {
+      "text": "OSA (CAD) No.88 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 17767,
+      "end_char": 17790
+    },
+    {
+      "text": "24 th September 2021",
+      "label": "DATE",
+      "start_char": 17821,
+      "end_char": 17841
+    },
+    {
+      "text": "Commercial Appellate Division of the High Court (Division Bench)",
+      "label": "COURT",
+      "start_char": 17850,
+      "end_char": 17914
+    },
+    {
+      "text": "Section 13(1)",
+      "label": "PROVISION",
+      "start_char": 17922,
+      "end_char": 17935
+    },
+    {
+      "text": "Commercial Courts Act 2015",
+      "label": "STATUTE",
+      "start_char": 17943,
+      "end_char": 17969
+    },
+    {
+      "text": "28th October 2021",
+      "label": "DATE",
+      "start_char": 18003,
+      "end_char": 18020
+    },
+    {
+      "text": "Singapore",
+      "label": "GPE",
+      "start_char": 18657,
+      "end_char": 18666
+    },
+    {
+      "text": "May 21, 2020",
+      "label": "DATE",
+      "start_char": 18808,
+      "end_char": 18820
+    },
+    {
+      "text": "Gulf Petrochem",
+      "label": "ORG",
+      "start_char": 18831,
+      "end_char": 18845
+    },
+    {
+      "text": "Gulf Petrochem",
+      "label": "ORG",
+      "start_char": 19038,
+      "end_char": 19052
+    },
+    {
+      "text": "Gulf Petrochem",
+      "label": "ORG",
+      "start_char": 19271,
+      "end_char": 19285
+    },
+    {
+      "text": "Singapore",
+      "label": "GPE",
+      "start_char": 19403,
+      "end_char": 19412
+    },
+    {
+      "text": "IOCL",
+      "label": "ORG",
+      "start_char": 19431,
+      "end_char": 19435
+    },
+    {
+      "text": "Singapore",
+      "label": "GPE",
+      "start_char": 19643,
+      "end_char": 19652
+    },
+    {
+      "text": "Singapore",
+      "label": "GPE",
+      "start_char": 19696,
+      "end_char": 19705
+    },
+    {
+      "text": "24.05.2020",
+      "label": "DATE",
+      "start_char": 19750,
+      "end_char": 19760
+    },
+    {
+      "text": "Profitable Wealth Inc.",
+      "label": "ORG",
+      "start_char": 19770,
+      "end_char": 19792
+    },
+    {
+      "text": "Singapore",
+      "label": "GPE",
+      "start_char": 19793,
+      "end_char": 19802
+    },
+    {
+      "text": "12.05.2020",
+      "label": "DATE",
+      "start_char": 19849,
+      "end_char": 19859
+    },
+    {
+      "text": "Gulf Petrochem",
+      "label": "ORG",
+      "start_char": 20413,
+      "end_char": 20427
+    },
+    {
+      "text": "May 24, 2020",
+      "label": "DATE",
+      "start_char": 21805,
+      "end_char": 21817
+    },
+    {
+      "text": "Profitable Wealth Inc.",
+      "label": "ORG",
+      "start_char": 21828,
+      "end_char": 21850
+    },
+    {
+      "text": "Profitable Wealth Inc.",
+      "label": "ORG",
+      "start_char": 22091,
+      "end_char": 22113
+    },
+    {
+      "text": "Profitable Wealth Inc.",
+      "label": "ORG",
+      "start_char": 22258,
+      "end_char": 22280
+    },
+    {
+      "text": "Profitable Wealth Inc.",
+      "label": "ORG",
+      "start_char": 22318,
+      "end_char": 22340
+    },
+    {
+      "text": "Wealth Inc.",
+      "label": "ORG",
+      "start_char": 22377,
+      "end_char": 22388
+    },
+    {
+      "text": "Gulf Petrochem",
+      "label": "ORG",
+      "start_char": 22392,
+      "end_char": 22406
+    },
+    {
+      "text": "Gaipajama",
+      "label": "GPE",
+      "start_char": 22431,
+      "end_char": 22440
+    },
+    {
+      "text": "Gulf Petrochem",
+      "label": "ORG",
+      "start_char": 22511,
+      "end_char": 22525
+    },
+    {
+      "text": "Profitable Wealth Inc.",
+      "label": "ORG",
+      "start_char": 22529,
+      "end_char": 22551
+    },
+    {
+      "text": "Gulf petrochem",
+      "label": "ORG",
+      "start_char": 23246,
+      "end_char": 23260
+    },
+    {
+      "text": "Gulf Petrochem",
+      "label": "ORG",
+      "start_char": 23278,
+      "end_char": 23292
+    },
+    {
+      "text": "Indian Oil Corporation",
+      "label": "ORG",
+      "start_char": 23297,
+      "end_char": 23319
+    },
+    {
+      "text": "Gulf Petrochem",
+      "label": "ORG",
+      "start_char": 23341,
+      "end_char": 23355
+    },
+    {
+      "text": "Aramco",
+      "label": "ORG",
+      "start_char": 23360,
+      "end_char": 23366
+    },
+    {
+      "text": "Gulf Petrochem Inc.",
+      "label": "ORG",
+      "start_char": 23800,
+      "end_char": 23819
+    },
+    {
+      "text": "Singapore",
+      "label": "GPE",
+      "start_char": 24395,
+      "end_char": 24404
+    },
+    {
+      "text": "Profitable Wealth Inc.",
+      "label": "ORG",
+      "start_char": 24606,
+      "end_char": 24628
+    },
+    {
+      "text": "September 24, 2021",
+      "label": "DATE",
+      "start_char": 25040,
+      "end_char": 25058
+    },
+    {
+      "text": "OSA (CAD) No.88 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 25259,
+      "end_char": 25282
+    },
+    {
+      "text": "CMP No.16921 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 25359,
+      "end_char": 25379
+    },
+    {
+      "text": "Hague Rules",
+      "label": "STATUTE",
+      "start_char": 26740,
+      "end_char": 26751
+    },
+    {
+      "text": "Hague",
+      "label": "GPE",
+      "start_char": 26779,
+      "end_char": 26784
+    },
+    {
+      "text": "Carriage of Goods by Sea Act, 1971",
+      "label": "STATUTE",
+      "start_char": 26833,
+      "end_char": 26867
+    },
+    {
+      "text": "Hague",
+      "label": "GPE",
+      "start_char": 26873,
+      "end_char": 26878
+    },
+    {
+      "text": "United Nations",
+      "label": "ORG",
+      "start_char": 26952,
+      "end_char": 26966
+    },
+    {
+      "text": "Hamburg Rules",
+      "label": "STATUTE",
+      "start_char": 27085,
+      "end_char": 27098
+    },
+    {
+      "text": "Hague",
+      "label": "GPE",
+      "start_char": 27242,
+      "end_char": 27247
+    },
+    {
+      "text": "United Nations Convention on Contracts for the International Carriage of Goods Wholly or Partly by Sea",
+      "label": "STATUTE",
+      "start_char": 27307,
+      "end_char": 27409
+    },
+    {
+      "text": "Carriage of Goods by Sea Act 1971",
+      "label": "STATUTE",
+      "start_char": 28794,
+      "end_char": 28827
+    },
+    {
+      "text": "Richard Aikens",
+      "label": "OTHER_PERSON",
+      "start_char": 29980,
+      "end_char": 29994
+    },
+    {
+      "text": "Bills of Lading Act",
+      "label": "STATUTE",
+      "start_char": 30132,
+      "end_char": 30151
+    },
+    {
+      "text": "Cho Yang Shipping Co. Ltd. v. Coral (UK) Ltd. 1",
+      "label": "PRECEDENT",
+      "start_char": 31465,
+      "end_char": 31512
+    },
+    {
+      "text": "Chevron",
+      "label": "ORG",
+      "start_char": 32498,
+      "end_char": 32505
+    },
+    {
+      "text": "Gulf Petrochem",
+      "label": "ORG",
+      "start_char": 32758,
+      "end_char": 32772
+    },
+    {
+      "text": "Gulf Petrochem",
+      "label": "ORG",
+      "start_char": 33159,
+      "end_char": 33173
+    },
+    {
+      "text": "Gulf Petrochem",
+      "label": "ORG",
+      "start_char": 33298,
+      "end_char": 33312
+    },
+    {
+      "text": "Gaipajama",
+      "label": "GPE",
+      "start_char": 33380,
+      "end_char": 33389
+    },
+    {
+      "text": "Gulf Petrochem",
+      "label": "ORG",
+      "start_char": 33681,
+      "end_char": 33695
+    },
+    {
+      "text": "Gulf Petrochem",
+      "label": "ORG",
+      "start_char": 33846,
+      "end_char": 33860
+    },
+    {
+      "text": "Admiralty (Jurisdiction and Settlement of Maritime Claims) Act, 2017",
+      "label": "STATUTE",
+      "start_char": 34266,
+      "end_char": 34334
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 34368,
+      "end_char": 34381
+    },
+    {
+      "text": "Gulf Petroleum FZC",
+      "label": "ORG",
+      "start_char": 34785,
+      "end_char": 34803
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 34866,
+      "end_char": 34879
+    },
+    {
+      "text": "Sections 4 and 5",
+      "label": "PROVISION",
+      "start_char": 34988,
+      "end_char": 35004
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 35300,
+      "end_char": 35318
+    },
+    {
+      "text": "Section 2",
+      "label": "PROVISION",
+      "start_char": 35413,
+      "end_char": 35422
+    },
+    {
+      "text": "Territorial Waters, Continental Shelf, Exclusive Economic Zone and Other Maritime Zones Act, 1976(80 of 1976)",
+      "label": "STATUTE",
+      "start_char": 35430,
+      "end_char": 35539
+    },
+    {
+      "text": "clause (a) of sub-section (1) of section 4",
+      "label": "PROVISION",
+      "start_char": 36825,
+      "end_char": 36867
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 36921,
+      "end_char": 36930
+    },
+    {
+      "text": "clauses (a) to (w) of sub- section (1) of section 4",
+      "label": "PROVISION",
+      "start_char": 37053,
+      "end_char": 37104
+    },
+    {
+      "text": "Code of Civil Procedure.-",
+      "label": "STATUTE",
+      "start_char": 37132,
+      "end_char": 37157
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 37180,
+      "end_char": 37221
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 37681,
+      "end_char": 37691
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 37699,
+      "end_char": 37712
+    },
+    {
+      "text": "Code of Civil Procedure 1908",
+      "label": "STATUTE",
+      "start_char": 37755,
+      "end_char": 37783
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 37812,
+      "end_char": 37815
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 37880,
+      "end_char": 37893
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 37975,
+      "end_char": 37988
+    },
+    {
+      "text": "Order 1 Rule 10(2)",
+      "label": "PROVISION",
+      "start_char": 38023,
+      "end_char": 38041
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 38049,
+      "end_char": 38052
+    },
+    {
+      "text": "Order 1 Rule 10(2)",
+      "label": "PROVISION",
+      "start_char": 38692,
+      "end_char": 38710
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 38736,
+      "end_char": 38749
+    },
+    {
+      "text": "Order 1 Rule 10(2)",
+      "label": "PROVISION",
+      "start_char": 38751,
+      "end_char": 38769
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 38777,
+      "end_char": 38780
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 38845,
+      "end_char": 38858
+    },
+    {
+      "text": "Order 1 Rule 10 (2)",
+      "label": "PROVISION",
+      "start_char": 38860,
+      "end_char": 38879
+    },
+    {
+      "text": "Order I Rule 10(2)",
+      "label": "PROVISION",
+      "start_char": 39202,
+      "end_char": 39220
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 39271,
+      "end_char": 39298
+    },
+    {
+      "text": "Section 2(c)",
+      "label": "PROVISION",
+      "start_char": 39660,
+      "end_char": 39672
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 39680,
+      "end_char": 39701
+    },
+    {
+      "text": "Sections 7, 13, 14, 16 and 21",
+      "label": "PROVISION",
+      "start_char": 39761,
+      "end_char": 39790
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 39798,
+      "end_char": 39819
+    },
+    {
+      "text": "sub-section (4) of Section 22",
+      "label": "PROVISION",
+      "start_char": 40552,
+      "end_char": 40581
+    },
+    {
+      "text": "Designs Act, 2000 (16 of 2000)",
+      "label": "STATUTE",
+      "start_char": 40589,
+      "end_char": 40619
+    },
+    {
+      "text": "Section 104",
+      "label": "PROVISION",
+      "start_char": 40623,
+      "end_char": 40634
+    },
+    {
+      "text": "Patents Act, 1970 (39 of 1970)",
+      "label": "STATUTE",
+      "start_char": 40642,
+      "end_char": 40672
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 41620,
+      "end_char": 41631
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 41639,
+      "end_char": 41680
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 41708,
+      "end_char": 41718
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996).] (2)",
+      "label": "STATUTE",
+      "start_char": 41726,
+      "end_char": 41783
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 42311,
+      "end_char": 42340
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 42410,
+      "end_char": 42451
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 42691,
+      "end_char": 42732
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 42932,
+      "end_char": 42973
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 43041,
+      "end_char": 43082
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 43130,
+      "end_char": 43153
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 43535,
+      "end_char": 43545
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 43553,
+      "end_char": 43566
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 43597,
+      "end_char": 43600
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 43649,
+      "end_char": 43659
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 43667,
+      "end_char": 43688
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 43730,
+      "end_char": 43733
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 43769,
+      "end_char": 43790
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 43857,
+      "end_char": 43878
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 44403,
+      "end_char": 44413
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 44421,
+      "end_char": 44442
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 44454,
+      "end_char": 44464
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 44472,
+      "end_char": 44485
+    },
+    {
+      "text": "Proviso 2 of Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 44492,
+      "end_char": 44519
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 44527,
+      "end_char": 44548
+    },
+    {
+      "text": "Order 43",
+      "label": "PROVISION",
+      "start_char": 44751,
+      "end_char": 44759
+    },
+    {
+      "text": "Code of Civil Procedure 1908",
+      "label": "STATUTE",
+      "start_char": 44767,
+      "end_char": 44795
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 44814,
+      "end_char": 44835
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 44840,
+      "end_char": 44850
+    },
+    {
+      "text": "Arbitration and Conciliation Act 1996",
+      "label": "STATUTE",
+      "start_char": 44858,
+      "end_char": 44895
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 44906,
+      "end_char": 44927
+    },
+    {
+      "text": "Order 43 Rule 1",
+      "label": "PROVISION",
+      "start_char": 44943,
+      "end_char": 44958
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 44966,
+      "end_char": 44969
+    },
+    {
+      "text": "Section 104",
+      "label": "PROVISION",
+      "start_char": 45081,
+      "end_char": 45092
+    },
+    {
+      "text": "Rule 10 of Order VII",
+      "label": "PROVISION",
+      "start_char": 45122,
+      "end_char": 45142
+    },
+    {
+      "text": "Rule 10-A of Order VII",
+      "label": "PROVISION",
+      "start_char": 45238,
+      "end_char": 45260
+    },
+    {
+      "text": "Rule 9 of Order IX",
+      "label": "PROVISION",
+      "start_char": 45309,
+      "end_char": 45327
+    },
+    {
+      "text": "Rule 13 of Order IX",
+      "label": "PROVISION",
+      "start_char": 45450,
+      "end_char": 45469
+    },
+    {
+      "text": "Rule 21 of Order XI",
+      "label": "PROVISION",
+      "start_char": 45603,
+      "end_char": 45622
+    },
+    {
+      "text": "Rule 34 of Order XXI",
+      "label": "PROVISION",
+      "start_char": 45663,
+      "end_char": 45683
+    },
+    {
+      "text": "Rule 72 or Rule 92 of Order XXI",
+      "label": "PROVISION",
+      "start_char": 45768,
+      "end_char": 45799
+    },
+    {
+      "text": "sub-rule (1) of Rule 106 of Order XXI",
+      "label": "PROVISION",
+      "start_char": 45897,
+      "end_char": 45934
+    },
+    {
+      "text": "sub-rule (1) of Rule 105",
+      "label": "PROVISION",
+      "start_char": 46035,
+      "end_char": 46059
+    },
+    {
+      "text": "Rule 9 of Order XXII",
+      "label": "PROVISION",
+      "start_char": 46108,
+      "end_char": 46128
+    },
+    {
+      "text": "Rule 10 of Order XXII",
+      "label": "PROVISION",
+      "start_char": 46208,
+      "end_char": 46229
+    },
+    {
+      "text": "Rule 2 of Order XXV",
+      "label": "PROVISION",
+      "start_char": 46293,
+      "end_char": 46312
+    },
+    {
+      "text": "Rule 5 or Rule 7 of Order XXXIII",
+      "label": "PROVISION",
+      "start_char": 46436,
+      "end_char": 46468
+    },
+    {
+      "text": "Rule 3, Rule 4 or Rule 6 of Order XXXV",
+      "label": "PROVISION",
+      "start_char": 46587,
+      "end_char": 46625
+    },
+    {
+      "text": "Rule 2, Rule 3 or Rule 6 of Order XXXVIII",
+      "label": "PROVISION",
+      "start_char": 46646,
+      "end_char": 46687
+    },
+    {
+      "text": "Rule 1, Rule 2, [Rule 2-A], Rule 4 or Rule 10 of Order XXXIX",
+      "label": "PROVISION",
+      "start_char": 46708,
+      "end_char": 46768
+    },
+    {
+      "text": "Rule 1 or Rule 4 of Order XL",
+      "label": "PROVISION",
+      "start_char": 46789,
+      "end_char": 46817
+    },
+    {
+      "text": "Rule 19 of Order XLI",
+      "label": "PROVISION",
+      "start_char": 46849,
+      "end_char": 46869
+    },
+    {
+      "text": "Rule 21 of Order XLI",
+      "label": "PROVISION",
+      "start_char": 46891,
+      "end_char": 46911
+    },
+    {
+      "text": "Rule 23",
+      "label": "PROVISION",
+      "start_char": 46953,
+      "end_char": 46960
+    },
+    {
+      "text": "Rule 23-A]",
+      "label": "PROVISION",
+      "start_char": 46965,
+      "end_char": 46975
+    },
+    {
+      "text": "Order XLI",
+      "label": "PROVISION",
+      "start_char": 46979,
+      "end_char": 46988
+    },
+    {
+      "text": "Rule 4 of Order XLVII",
+      "label": "PROVISION",
+      "start_char": 47104,
+      "end_char": 47125
+    },
+    {
+      "text": "Sub-section (2) of Section 13",
+      "label": "PROVISION",
+      "start_char": 47168,
+      "end_char": 47197
+    },
+    {
+      "text": "Sub-section (2) of Section 13",
+      "label": "PROVISION",
+      "start_char": 47335,
+      "end_char": 47364
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 47372,
+      "end_char": 47393
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 47540,
+      "end_char": 47561
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 47587,
+      "end_char": 47597
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 47605,
+      "end_char": 47618
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 47860,
+      "end_char": 47873
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 47924,
+      "end_char": 47934
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 47942,
+      "end_char": 47963
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 47968,
+      "end_char": 47978
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 47986,
+      "end_char": 47999
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 48074,
+      "end_char": 48084
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 48092,
+      "end_char": 48105
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 48334,
+      "end_char": 48347
+    },
+    {
+      "text": "Section 13(2)",
+      "label": "PROVISION",
+      "start_char": 48424,
+      "end_char": 48437
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 48445,
+      "end_char": 48466
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 48822,
+      "end_char": 48843
+    },
+    {
+      "text": "Order 43",
+      "label": "PROVISION",
+      "start_char": 48894,
+      "end_char": 48902
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 48910,
+      "end_char": 48913
+    },
+    {
+      "text": "Vishwanathan",
+      "label": "OTHER_PERSON",
+      "start_char": 50369,
+      "end_char": 50381
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 50447,
+      "end_char": 50457
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 50545,
+      "end_char": 50558
+    },
+    {
+      "text": "MV Elizabeth v. Harwan Investment and Trading Pvt",
+      "label": "PRECEDENT",
+      "start_char": 50894,
+      "end_char": 50943
+    },
+    {
+      "text": "Commercial Courts Bill, 2015",
+      "label": "STATUTE",
+      "start_char": 50999,
+      "end_char": 51027
+    },
+    {
+      "text": "Commercial Courts Bill",
+      "label": "STATUTE",
+      "start_char": 51047,
+      "end_char": 51069
+    },
+    {
+      "text": "Admiralty (Jurisdiction and Settlement of Maritime Claims) Bill, 2016",
+      "label": "STATUTE",
+      "start_char": 51668,
+      "end_char": 51737
+    },
+    {
+      "text": "2 1993 Supp (2) SCC 433 Admiralty Bill",
+      "label": "PRECEDENT",
+      "start_char": 52048,
+      "end_char": 52086
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 52356,
+      "end_char": 52359
+    },
+    {
+      "text": "Section 2(1) (c)(iii)",
+      "label": "PROVISION",
+      "start_char": 52676,
+      "end_char": 52697
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 52705,
+      "end_char": 52726
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 52728,
+      "end_char": 52738
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 52746,
+      "end_char": 52767
+    },
+    {
+      "text": "Kandla Corporation v. OCI Corp.3",
+      "label": "PRECEDENT",
+      "start_char": 52845,
+      "end_char": 52877
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 52942,
+      "end_char": 52953
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 52961,
+      "end_char": 52964
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 53179,
+      "end_char": 53190
+    },
+    {
+      "text": "Code of Civil Procedure Code, 1908",
+      "label": "STATUTE",
+      "start_char": 53198,
+      "end_char": 53232
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 53234,
+      "end_char": 53244
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 53252,
+      "end_char": 53267
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 53351,
+      "end_char": 53362
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 53370,
+      "end_char": 53373
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 53445,
+      "end_char": 53455
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 53463,
+      "end_char": 53478
+    },
+    {
+      "text": "Vishwanathan",
+      "label": "OTHER_PERSON",
+      "start_char": 53578,
+      "end_char": 53590
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 53636,
+      "end_char": 53657
+    },
+    {
+      "text": "Madras High Court",
+      "label": "COURT",
+      "start_char": 53663,
+      "end_char": 53680
+    },
+    {
+      "text": "Notification No. 48 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 53692,
+      "end_char": 53719
+    },
+    {
+      "text": "section 18 of the 3 (2018)",
+      "label": "PROVISION",
+      "start_char": 53762,
+      "end_char": 53788
+    },
+    {
+      "text": "14 SCC 715 Act",
+      "label": "STATUTE",
+      "start_char": 53789,
+      "end_char": 53803
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 54074,
+      "end_char": 54085
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 54093,
+      "end_char": 54096
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 54109,
+      "end_char": 54119
+    },
+    {
+      "text": "Section 13(2)",
+      "label": "PROVISION",
+      "start_char": 54353,
+      "end_char": 54366
+    },
+    {
+      "text": "Indira Banerjee",
+      "label": "JUDGE",
+      "start_char": 54443,
+      "end_char": 54458
+    },
+    {
+      "text": "Madras High Court",
+      "label": "COURT",
+      "start_char": 54488,
+      "end_char": 54505
+    },
+    {
+      "text": "Magic Frames v. Radiance Media P Ltd",
+      "label": "PRECEDENT",
+      "start_char": 54537,
+      "end_char": 54573
+    },
+    {
+      "text": "Vishwanathan",
+      "label": "OTHER_PERSON",
+      "start_char": 54597,
+      "end_char": 54609
+    },
+    {
+      "text": "Madras High Court",
+      "label": "COURT",
+      "start_char": 54615,
+      "end_char": 54632
+    },
+    {
+      "text": "Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 54673,
+      "end_char": 54687
+    },
+    {
+      "text": "Magic Frames",
+      "label": "ORG",
+      "start_char": 54791,
+      "end_char": 54803
+    },
+    {
+      "text": "Radiance Media",
+      "label": "ORG",
+      "start_char": 54891,
+      "end_char": 54905
+    },
+    {
+      "text": "Section 18",
+      "label": "PROVISION",
+      "start_char": 55081,
+      "end_char": 55091
+    },
+    {
+      "text": "Commercial Courts, Commercial Division",
+      "label": "STATUTE",
+      "start_char": 55099,
+      "end_char": 55137
+    },
+    {
+      "text": "Commercial Appellate Division of High Courts Act, 2015 (Act 4 of 2016)",
+      "label": "STATUTE",
+      "start_char": 55142,
+      "end_char": 55212
+    },
+    {
+      "text": "section 9(2), section 13 and Section 15(5)",
+      "label": "PROVISION",
+      "start_char": 55575,
+      "end_char": 55617
+    },
+    {
+      "text": "Section 9(1) of Act 4 of 2016",
+      "label": "PROVISION",
+      "start_char": 55970,
+      "end_char": 55999
+    },
+    {
+      "text": "section 13(1)",
+      "label": "PROVISION",
+      "start_char": 56241,
+      "end_char": 56254
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 56262,
+      "end_char": 56283
+    },
+    {
+      "text": "Order 43",
+      "label": "PROVISION",
+      "start_char": 56390,
+      "end_char": 56398
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 56406,
+      "end_char": 56409
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 56415,
+      "end_char": 56425
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 56433,
+      "end_char": 56471
+    },
+    {
+      "text": "Magic Frames",
+      "label": "PRECEDENT",
+      "start_char": 56610,
+      "end_char": 56622
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 57005,
+      "end_char": 57018
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 57027,
+      "end_char": 57048
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 57079,
+      "end_char": 57092
+    },
+    {
+      "text": "section 14",
+      "label": "PROVISION",
+      "start_char": 57208,
+      "end_char": 57218
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 57226,
+      "end_char": 57239
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 57339,
+      "end_char": 57368
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 57394,
+      "end_char": 57407
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 57429,
+      "end_char": 57432
+    },
+    {
+      "text": "Order 43",
+      "label": "PROVISION",
+      "start_char": 57483,
+      "end_char": 57491
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 57499,
+      "end_char": 57502
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 57518,
+      "end_char": 57528
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 57536,
+      "end_char": 57557
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 57573,
+      "end_char": 57586
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 57591,
+      "end_char": 57612
+    },
+    {
+      "text": "Ashoka Marketing Ltd. v. Punjab National Bank 5",
+      "label": "PRECEDENT",
+      "start_char": 57634,
+      "end_char": 57681
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 58290,
+      "end_char": 58311
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 58413,
+      "end_char": 58426
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "start_char": 58756,
+      "end_char": 58766
+    },
+    {
+      "text": "CTO vs. Binani Cements6",
+      "label": "PRECEDENT",
+      "start_char": 58905,
+      "end_char": 58928
+    },
+    {
+      "text": "5 (1990) 4 SCC 406 6 2014 SCC Online SC 140",
+      "label": "PRECEDENT",
+      "start_char": 58948,
+      "end_char": 58991
+    },
+    {
+      "text": "Vepa P. Sarathi",
+      "label": "OTHER_PERSON",
+      "start_char": 59477,
+      "end_char": 59492
+    },
+    {
+      "text": "N. S. Bindra",
+      "label": "OTHER_PERSON",
+      "start_char": 59553,
+      "end_char": 59565
+    },
+    {
+      "text": "G.P. Singh",
+      "label": "JUDGE",
+      "start_char": 59697,
+      "end_char": 59707
+    },
+    {
+      "text": "Daniel Greenberg",
+      "label": "OTHER_PERSON",
+      "start_char": 59794,
+      "end_char": 59810
+    },
+    {
+      "text": "Thomson Sweet",
+      "label": "OTHER_PERSON",
+      "start_char": 59821,
+      "end_char": 59834
+    },
+    {
+      "text": "Maxwell",
+      "label": "OTHER_PERSON",
+      "start_char": 59846,
+      "end_char": 59853
+    },
+    {
+      "text": "Corpus Juris Secundum",
+      "label": "OTHER_PERSON",
+      "start_char": 60120,
+      "end_char": 60141
+    },
+    {
+      "text": "Edmond v. U.S., 520 U.S. 651",
+      "label": "PRECEDENT",
+      "start_char": 60897,
+      "end_char": 60925
+    },
+    {
+      "text": "Warden v. Marrero, 417 U.S. 653",
+      "label": "PRECEDENT",
+      "start_char": 60927,
+      "end_char": 60958
+    },
+    {
+      "text": "England",
+      "label": "GPE",
+      "start_char": 61077,
+      "end_char": 61084
+    },
+    {
+      "text": "Seward v. Owner of \"The Vera Cruz\", (1884) 10 App Gas 59",
+      "label": "PRECEDENT",
+      "start_char": 61187,
+      "end_char": 61243
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "start_char": 61367,
+      "end_char": 61377
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "start_char": 62021,
+      "end_char": 62031
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 62197,
+      "end_char": 62220
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 62247,
+      "end_char": 62258
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 62262,
+      "end_char": 62265
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 62323,
+      "end_char": 62344
+    },
+    {
+      "text": "section 14",
+      "label": "PROVISION",
+      "start_char": 62464,
+      "end_char": 62474
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "start_char": 62725,
+      "end_char": 62735
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 62752,
+      "end_char": 62773
+    },
+    {
+      "text": "Order 1 Rule 10(2)",
+      "label": "PROVISION",
+      "start_char": 62970,
+      "end_char": 62988
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 62996,
+      "end_char": 62999
+    },
+    {
+      "text": "section 14",
+      "label": "PROVISION",
+      "start_char": 63024,
+      "end_char": 63034
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 63042,
+      "end_char": 63055
+    },
+    {
+      "text": "Gulf Petrochem",
+      "label": "ORG",
+      "start_char": 63057,
+      "end_char": 63071
+    },
+    {
+      "text": "Gulf Petrochem",
+      "label": "ORG",
+      "start_char": 63201,
+      "end_char": 63215
+    },
+    {
+      "text": "Anil Kumar Singh vs. Shivnath Mishra7",
+      "label": "PRECEDENT",
+      "start_char": 63328,
+      "end_char": 63365
+    },
+    {
+      "text": "(1995) 3 SCC 147",
+      "label": "CASE_NUMBER",
+      "start_char": 63567,
+      "end_char": 63583
+    },
+    {
+      "text": "Gulf Petrochem",
+      "label": "ORG",
+      "start_char": 63849,
+      "end_char": 63863
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 63998,
+      "end_char": 64008
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 64016,
+      "end_char": 64029
+    },
+    {
+      "text": "Vishwanathan",
+      "label": "OTHER_PERSON",
+      "start_char": 64048,
+      "end_char": 64060
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 64196,
+      "end_char": 64209
+    },
+    {
+      "text": "Order 43, Rule 1",
+      "label": "PROVISION",
+      "start_char": 64317,
+      "end_char": 64333
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 64341,
+      "end_char": 64364
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 64376,
+      "end_char": 64386
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 64394,
+      "end_char": 64407
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 64418,
+      "end_char": 64428
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 64436,
+      "end_char": 64457
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 64534,
+      "end_char": 64544
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 64556,
+      "end_char": 64566
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 64574,
+      "end_char": 64587
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 64589,
+      "end_char": 64599
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 64607,
+      "end_char": 64620
+    },
+    {
+      "text": "Sections 12 and 14",
+      "label": "PROVISION",
+      "start_char": 64761,
+      "end_char": 64779
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 64787,
+      "end_char": 64800
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 64806,
+      "end_char": 64816
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 64824,
+      "end_char": 64845
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 64879,
+      "end_char": 64892
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 64999,
+      "end_char": 65012
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 65043,
+      "end_char": 65056
+    },
+    {
+      "text": "Order 43, Rule 1",
+      "label": "PROVISION",
+      "start_char": 65094,
+      "end_char": 65110
+    },
+    {
+      "text": "Barucha",
+      "label": "OTHER_PERSON",
+      "start_char": 65145,
+      "end_char": 65152
+    },
+    {
+      "text": "Section 14 read with Section 12",
+      "label": "PROVISION",
+      "start_char": 65169,
+      "end_char": 65200
+    },
+    {
+      "text": "Admiralty Act, 2017",
+      "label": "STATUTE",
+      "start_char": 65208,
+      "end_char": 65227
+    },
+    {
+      "text": "Barucha",
+      "label": "OTHER_PERSON",
+      "start_char": 65508,
+      "end_char": 65515
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 65603,
+      "end_char": 65616
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 65661,
+      "end_char": 65671
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 65679,
+      "end_char": 65692
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 65780,
+      "end_char": 65793
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 65862,
+      "end_char": 65875
+    },
+    {
+      "text": "Admiralty Act",
+      "label": "STATUTE",
+      "start_char": 66385,
+      "end_char": 66398
+    },
+    {
+      "text": "Gulf Petroleum",
+      "label": "ORG",
+      "start_char": 66564,
+      "end_char": 66578
+    },
+    {
+      "text": "INDIRA BANERJEE",
+      "label": "JUDGE",
+      "start_char": 66765,
+      "end_char": 66780
+    },
+    {
+      "text": "A. S. BOPANNA",
+      "label": "JUDGE",
+      "start_char": 66806,
+      "end_char": 66819
+    },
+    {
+      "text": "NEW DELHI",
+      "label": "GPE",
+      "start_char": 66822,
+      "end_char": 66831
+    },
+    {
+      "text": "SEPTEMBER 23, 2022",
+      "label": "DATE",
+      "start_char": 66833,
+      "end_char": 66851
+    }
+  ],
+  "precedent_clusters": {
+    "Cho Yang Shipping Co. Ltd. v. Coral (UK) Ltd. 1": [
+      "Cho Yang Shipping Co. Ltd. v. Coral (UK) Ltd. 1",
+      "MV Elizabeth v. Harwan Investment and Trading Pvt",
+      "Kandla Corporation v. OCI Corp.3",
+      "Magic Frames v. Radiance Media P Ltd",
+      "Ashoka Marketing Ltd. v. Punjab National Bank 5",
+      "CTO vs. Binani Cements6",
+      "Anil Kumar Singh vs. Shivnath Mishra7",
+      "Magic Frames"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "section 4(1)(f)",
+      "Admiralty (Jurisdiction and Settlement of Maritime Claims) Act, 2017",
+      "section 4(1)(f)",
+      "Admiralty (Jurisdiction and Settlement of Maritime Claims) Act, 2017"
+    ],
+    [
+      "Order XIV Rule 8 and Order XIIIA",
+      "Civil Procedure Code 1908",
+      "Order XIV Rule 8 and Order XIIIA",
+      "Civil Procedure Code 1908"
+    ],
+    [
+      "Order XIV Rule 8 and Order XIIA",
+      "Code of Civil Procedure",
+      "Order XIV Rule 8 and Order XIIA",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 13(1)",
+      "Commercial Courts Act 2015",
+      "Section 13(1)",
+      "Commercial Courts Act 2015"
+    ],
+    [
+      "Section 2",
+      "Territorial Waters, Continental Shelf, Exclusive Economic Zone and Other Maritime Zones Act, 1976(80 of 1976)",
+      "Section 2",
+      "Territorial Waters, Continental Shelf, Exclusive Economic Zone and Other Maritime Zones Act, 1976(80 of 1976)"
+    ],
+    [
+      "Section 12",
+      "Admiralty Act",
+      "Section 12",
+      "Admiralty Act"
+    ],
+    [
+      "Order 1 Rule 10(2)",
+      "CPC",
+      "Order 1 Rule 10(2)",
+      "CPC"
+    ],
+    [
+      "Order 1 Rule 10(2)",
+      "Admiralty Act",
+      "Order 1 Rule 10(2)",
+      "Admiralty Act"
+    ],
+    [
+      "Order 1 Rule 10(2)",
+      "CPC",
+      "Order 1 Rule 10(2)",
+      "CPC"
+    ],
+    [
+      "Section 2(c)",
+      "Commercial Courts Act",
+      "Section 2(c)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Sections 7, 13, 14, 16 and 21",
+      "Commercial Courts Act",
+      "Sections 7, 13, 14, 16 and 21",
+      "Commercial Courts Act"
+    ],
+    [
+      "sub-section (4) of Section 22",
+      "Designs Act, 2000 (16 of 2000)",
+      "sub-section (4) of Section 22",
+      "Designs Act, 2000 (16 of 2000)"
+    ],
+    [
+      "Section 104",
+      "Patents Act, 1970 (39 of 1970)",
+      "Section 104",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996).] (2)",
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996).] (2)"
+    ],
+    [
+      "Section 12",
+      "Admiralty Act",
+      "Section 12",
+      "Admiralty Act"
+    ],
+    [
+      "Section 16",
+      "Commercial Courts Act",
+      "Section 16",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 14",
+      "Admiralty Act",
+      "Section 14",
+      "Admiralty Act"
+    ],
+    [
+      "Proviso 2 of Section 13(1A)",
+      "Commercial Courts Act",
+      "Proviso 2 of Section 13(1A)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order 43",
+      "Code of Civil Procedure 1908",
+      "Order 43",
+      "Code of Civil Procedure 1908"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act 1996",
+      "Section 37",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "Order 43 Rule 1",
+      "CPC",
+      "Order 43 Rule 1",
+      "CPC"
+    ],
+    [
+      "Sub-section (2) of Section 13",
+      "Commercial Courts Act",
+      "Sub-section (2) of Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 14",
+      "Admiralty Act",
+      "Section 14",
+      "Admiralty Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 14",
+      "Admiralty Act",
+      "Section 14",
+      "Admiralty Act"
+    ],
+    [
+      "Section 14",
+      "Admiralty Act",
+      "Section 14",
+      "Admiralty Act"
+    ],
+    [
+      "Section 13(2)",
+      "Commercial Courts Act",
+      "Section 13(2)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order 43",
+      "CPC",
+      "Order 43",
+      "CPC"
+    ],
+    [
+      "Section 14",
+      "Admiralty Act",
+      "Section 14",
+      "Admiralty Act"
+    ],
+    [
+      "Section 2(1) (c)(iii)",
+      "Commercial Courts Act",
+      "Section 2(1) (c)(iii)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order XLIII",
+      "CPC",
+      "Order XLIII",
+      "CPC"
+    ],
+    [
+      "Order XLIII",
+      "Code of Civil Procedure Code, 1908",
+      "Order XLIII",
+      "Code of Civil Procedure Code, 1908"
+    ],
+    [
+      "section 37",
+      "Arbitration Act",
+      "section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Order XLIII",
+      "CPC",
+      "Order XLIII",
+      "CPC"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Order XLIII",
+      "CPC",
+      "Order XLIII",
+      "CPC"
+    ],
+    [
+      "Section 18",
+      "Commercial Courts, Commercial Division",
+      "Section 18",
+      "Commercial Courts, Commercial Division"
+    ],
+    [
+      "section 13(1)",
+      "Commercial Courts Act",
+      "section 13(1)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order 43",
+      "CPC",
+      "Order 43",
+      "CPC"
+    ],
+    [
+      "section 37",
+      "Arbitration and Conciliation Act, 1996",
+      "section 37",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 14",
+      "Admiralty Act",
+      "section 14",
+      "Admiralty Act"
+    ],
+    [
+      "Order 43",
+      "CPC",
+      "Order 43",
+      "CPC"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order XLIII",
+      "CPC",
+      "Order XLIII",
+      "CPC"
+    ],
+    [
+      "Order 1 Rule 10(2)",
+      "CPC",
+      "Order 1 Rule 10(2)",
+      "CPC"
+    ],
+    [
+      "section 14",
+      "Admiralty Act",
+      "section 14",
+      "Admiralty Act"
+    ],
+    [
+      "Section 14",
+      "Admiralty Act",
+      "Section 14",
+      "Admiralty Act"
+    ],
+    [
+      "Order 43, Rule 1",
+      "Code of Civil Procedure",
+      "Order 43, Rule 1",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 12",
+      "Admiralty Act",
+      "Section 12",
+      "Admiralty Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 12",
+      "Admiralty Act",
+      "Section 12",
+      "Admiralty Act"
+    ],
+    [
+      "Section 12",
+      "Admiralty Act",
+      "Section 12",
+      "Admiralty Act"
+    ],
+    [
+      "Sections 12 and 14",
+      "Admiralty Act",
+      "Sections 12 and 14",
+      "Admiralty Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 14 read with Section 12",
+      "Admiralty Act, 2017",
+      "Section 14 read with Section 12",
+      "Admiralty Act, 2017"
+    ],
+    [
+      "Section 14",
+      "Admiralty Act",
+      "Section 14",
+      "Admiralty Act"
+    ],
+    [
+      "Sections 4 and 5",
+      "Admiralty (Jurisdiction and Settlement of Maritime Claims) Act, 2017",
+      "Sections 4 and 5",
+      "Admiralty (Jurisdiction and Settlement of Maritime Claims) Act, 2017"
+    ],
+    [
+      "clause (a) of sub-section (1) of section 4",
+      "Admiralty (Jurisdiction and Settlement of Maritime Claims) Act, 2017",
+      "clause (a) of sub-section (1) of section 4",
+      "Admiralty (Jurisdiction and Settlement of Maritime Claims) Act, 2017"
+    ],
+    [
+      "Section 7",
+      "Commercial Courts Act",
+      "Section 7",
+      "Commercial Courts Act"
+    ],
+    [
+      "clauses (a) to (w) of sub- section (1) of section 4",
+      "Admiralty (Jurisdiction and Settlement of Maritime Claims) Act, 2017",
+      "clauses (a) to (w) of sub- section (1) of section 4",
+      "Admiralty (Jurisdiction and Settlement of Maritime Claims) Act, 2017"
+    ],
+    [
+      "Order 1 Rule 10 (2)",
+      "CPC",
+      "Order 1 Rule 10 (2)",
+      "CPC"
+    ],
+    [
+      "Section 104",
+      "Patents Act, 1970 (39 of 1970)",
+      "Section 104",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "Rule 10-A of Order VII",
+      "CPC",
+      "Rule 10-A of Order VII",
+      "CPC"
+    ],
+    [
+      "Rule 13 of Order IX",
+      "CPC",
+      "Rule 13 of Order IX",
+      "CPC"
+    ],
+    [
+      "Rule 72 or Rule 92 of Order XXI",
+      "CPC",
+      "Rule 72 or Rule 92 of Order XXI",
+      "CPC"
+    ],
+    [
+      "sub-rule (1) of Rule 106 of Order XXI",
+      "CPC",
+      "sub-rule (1) of Rule 106 of Order XXI",
+      "CPC"
+    ],
+    [
+      "Rule 10 of Order XXII",
+      "CPC",
+      "Rule 10 of Order XXII",
+      "CPC"
+    ],
+    [
+      "Rule 21 of Order XLI",
+      "CPC",
+      "Rule 21 of Order XLI",
+      "CPC"
+    ],
+    [
+      "Order XLI",
+      "CPC",
+      "Order XLI",
+      "CPC"
+    ],
+    [
+      "Sub-section (2) of Section 13",
+      "Commercial Courts Act",
+      "Sub-section (2) of Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13(2)",
+      "Commercial Courts Act",
+      "Section 13(2)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13(1A)",
+      "Commercial Courts Act",
+      "Section 13(1A)",
+      "Commercial Courts Act"
+    ],
+    [
+      "section 9(2), section 13 and Section 15(5)",
+      "Commercial Courts Act",
+      "section 9(2), section 13 and Section 15(5)",
+      "Commercial Courts Act"
+    ],
+    [
+      "section 14",
+      "Admiralty Act",
+      "section 14",
+      "Admiralty Act"
+    ],
+    [
+      "Section 14",
+      "Admiralty Act",
+      "Section 14",
+      "Admiralty Act"
+    ],
+    [
+      "Order 43, Rule 1",
+      "Code of Civil Procedure",
+      "Order 43, Rule 1",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Order I Rule 10(2)",
+      "Admiralty Act",
+      "Order I Rule 10(2)",
+      "Admiralty Act"
+    ],
+    [
+      "Rule 10 of Order VII",
+      "CPC",
+      "Rule 10 of Order VII",
+      "CPC"
+    ],
+    [
+      "Rule 9 of Order IX",
+      "CPC",
+      "Rule 9 of Order IX",
+      "CPC"
+    ],
+    [
+      "Rule 21 of Order XI",
+      "CPC",
+      "Rule 21 of Order XI",
+      "CPC"
+    ],
+    [
+      "Rule 34 of Order XXI",
+      "CPC",
+      "Rule 34 of Order XXI",
+      "CPC"
+    ],
+    [
+      "sub-rule (1) of Rule 105",
+      "CPC",
+      "sub-rule (1) of Rule 105",
+      "CPC"
+    ],
+    [
+      "Rule 9 of Order XXII",
+      "CPC",
+      "Rule 9 of Order XXII",
+      "CPC"
+    ],
+    [
+      "Rule 2 of Order XXV",
+      "CPC",
+      "Rule 2 of Order XXV",
+      "CPC"
+    ],
+    [
+      "Rule 5 or Rule 7 of Order XXXIII",
+      "CPC",
+      "Rule 5 or Rule 7 of Order XXXIII",
+      "CPC"
+    ],
+    [
+      "Rule 3, Rule 4 or Rule 6 of Order XXXV",
+      "CPC",
+      "Rule 3, Rule 4 or Rule 6 of Order XXXV",
+      "CPC"
+    ],
+    [
+      "Rule 2, Rule 3 or Rule 6 of Order XXXVIII",
+      "CPC",
+      "Rule 2, Rule 3 or Rule 6 of Order XXXVIII",
+      "CPC"
+    ],
+    [
+      "Rule 1, Rule 2, [Rule 2-A], Rule 4 or Rule 10 of Order XXXIX",
+      "CPC",
+      "Rule 1, Rule 2, [Rule 2-A], Rule 4 or Rule 10 of Order XXXIX",
+      "CPC"
+    ],
+    [
+      "Rule 1 or Rule 4 of Order XL",
+      "CPC",
+      "Rule 1 or Rule 4 of Order XL",
+      "CPC"
+    ],
+    [
+      "Rule 19 of Order XLI",
+      "CPC",
+      "Rule 19 of Order XLI",
+      "CPC"
+    ],
+    [
+      "Rule 23",
+      "CPC",
+      "Rule 23",
+      "CPC"
+    ],
+    [
+      "Rule 23-A]",
+      "CPC",
+      "Rule 23-A]",
+      "CPC"
+    ],
+    [
+      "Rule 4 of Order XLVII",
+      "CPC",
+      "Rule 4 of Order XLVII",
+      "CPC"
+    ],
+    [
+      "section 18 of the 3 (2018)",
+      "Commercial Courts Act",
+      "section 18 of the 3 (2018)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 9(1) of Act 4 of 2016",
+      "Commercial Appellate Division of High Courts Act, 2015 (Act 4 of 2016)",
+      "Section 9(1) of Act 4 of 2016",
+      "Commercial Appellate Division of High Courts Act, 2015 (Act 4 of 2016)"
+    ]
+  ],
+  "precedent_counts": {
+    "Cho Yang Shipping Co. Ltd. v. Coral (UK) Ltd. 1": 8
+  },
+  "provision_counts": {
+    "section 4(1)(f) of Admiralty (Jurisdiction and Settlement of Maritime Claims) Act, 2017": 1,
+    "Order XIV Rule 8 and Order XIIIA of Civil Procedure Code 1908": 1,
+    "Order XIV Rule 8 and Order XIIA of Code of Civil Procedure": 1,
+    "Section 13(1) of Commercial Courts Act 2015": 1,
+    "Section 2 of Territorial Waters, Continental Shelf, Exclusive Economic Zone and Other Maritime Zones Act, 1976(80 of 1976)": 1,
+    "Section 12 of Admiralty Act": 5,
+    "Order 1 Rule 10(2) of CPC": 3,
+    "Order 1 Rule 10(2) of Admiralty Act": 1,
+    "Section 2(c) of Commercial Courts Act": 1,
+    "Sections 7, 13, 14, 16 and 21 of Commercial Courts Act": 1,
+    "sub-section (4) of Section 22 of Designs Act, 2000 (16 of 2000)": 1,
+    "Section 104 of Patents Act, 1970 (39 of 1970)": 2,
+    "Order XLIII of Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Section 37 of Arbitration and Conciliation Act, 1996 (26 of 1996).] (2)": 1,
+    "Section 16 of Commercial Courts Act": 1,
+    "Section 13 of Commercial Courts Act": 7,
+    "Section 14 of Admiralty Act": 8,
+    "Proviso 2 of Section 13(1A) of Commercial Courts Act": 1,
+    "Order 43 of Code of Civil Procedure 1908": 1,
+    "Section 37 of Arbitration and Conciliation Act 1996": 1,
+    "Order 43 Rule 1 of CPC": 1,
+    "Sub-section (2) of Section 13 of Commercial Courts Act": 2,
+    "Section 13(2) of Commercial Courts Act": 2,
+    "Order 43 of CPC": 3,
+    "Section 2(1) (c)(iii) of Commercial Courts Act": 1,
+    "Order XLIII of CPC": 4,
+    "Order XLIII of Code of Civil Procedure Code, 1908": 1,
+    "section 37 of Arbitration Act": 1,
+    "Section 37 of Arbitration Act": 1,
+    "Section 18 of Commercial Courts, Commercial Division": 1,
+    "section 13(1) of Commercial Courts Act": 1,
+    "section 37 of Arbitration and Conciliation Act, 1996": 1,
+    "section 14 of Admiralty Act": 3,
+    "Order 43, Rule 1 of Code of Civil Procedure": 2,
+    "Sections 12 and 14 of Admiralty Act": 1,
+    "Section 14 read with Section 12 of Admiralty Act, 2017": 1,
+    "Sections 4 and 5 of Admiralty (Jurisdiction and Settlement of Maritime Claims) Act, 2017": 1,
+    "clause (a) of sub-section (1) of section 4 of Admiralty (Jurisdiction and Settlement of Maritime Claims) Act, 2017": 1,
+    "Section 7 of Commercial Courts Act": 1,
+    "clauses (a) to (w) of sub- section (1) of section 4 of Admiralty (Jurisdiction and Settlement of Maritime Claims) Act, 2017": 1,
+    "Order 1 Rule 10 (2) of CPC": 1,
+    "Rule 10-A of Order VII of CPC": 1,
+    "Rule 13 of Order IX of CPC": 1,
+    "Rule 72 or Rule 92 of Order XXI of CPC": 1,
+    "sub-rule (1) of Rule 106 of Order XXI of CPC": 1,
+    "Rule 10 of Order XXII of CPC": 1,
+    "Rule 21 of Order XLI of CPC": 1,
+    "Order XLI of CPC": 1,
+    "Section 13(1A) of Commercial Courts Act": 1,
+    "section 9(2), section 13 and Section 15(5) of Commercial Courts Act": 1,
+    "Order I Rule 10(2) of Admiralty Act": 1,
+    "Rule 10 of Order VII of CPC": 1,
+    "Rule 9 of Order IX of CPC": 1,
+    "Rule 21 of Order XI of CPC": 1,
+    "Rule 34 of Order XXI of CPC": 1,
+    "sub-rule (1) of Rule 105 of CPC": 1,
+    "Rule 9 of Order XXII of CPC": 1,
+    "Rule 2 of Order XXV of CPC": 1,
+    "Rule 5 or Rule 7 of Order XXXIII of CPC": 1,
+    "Rule 3, Rule 4 or Rule 6 of Order XXXV of CPC": 1,
+    "Rule 2, Rule 3 or Rule 6 of Order XXXVIII of CPC": 1,
+    "Rule 1, Rule 2, [Rule 2-A], Rule 4 or Rule 10 of Order XXXIX of CPC": 1,
+    "Rule 1 or Rule 4 of Order XL of CPC": 1,
+    "Rule 19 of Order XLI of CPC": 1,
+    "Rule 23 of CPC": 1,
+    "Rule 23-A] of CPC": 1,
+    "Rule 4 of Order XLVII of CPC": 1,
+    "section 18 of the 3 (2018) of Commercial Courts Act": 1,
+    "Section 9(1) of Act 4 of 2016 of Commercial Appellate Division of High Courts Act, 2015 (Act 4 of 2016)": 1
+  },
+  "statute_counts": {
+    "Admiralty (Jurisdiction and Settlement of Maritime Claims) Act, 2017": 4,
+    "Civil Procedure Code 1908": 1,
+    "Code of Civil Procedure": 3,
+    "Commercial Courts Act 2015": 1,
+    "Territorial Waters, Continental Shelf, Exclusive Economic Zone and Other Maritime Zones Act, 1976(80 of 1976)": 1,
+    "Admiralty Act": 19,
+    "CPC": 35,
+    "Commercial Courts Act": 21,
+    "Designs Act, 2000 (16 of 2000)": 1,
+    "Patents Act, 1970 (39 of 1970)": 2,
+    "Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Arbitration and Conciliation Act, 1996 (26 of 1996).] (2)": 1,
+    "Code of Civil Procedure 1908": 1,
+    "Arbitration and Conciliation Act 1996": 1,
+    "Code of Civil Procedure Code, 1908": 1,
+    "Arbitration Act": 2,
+    "Commercial Courts, Commercial Division": 1,
+    "Arbitration and Conciliation Act, 1996": 1,
+    "Admiralty Act, 2017": 1,
+    "Commercial Appellate Division of High Courts Act, 2015 (Act 4 of 2016)": 1
+  }
+}

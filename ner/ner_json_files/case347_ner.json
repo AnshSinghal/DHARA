@@ -1,0 +1,963 @@
+{
+  "entities": [
+    {
+      "text": "Madhya Pradesh High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 25
+    },
+    {
+      "text": "Anil Kumar Tripathi",
+      "label": "JUDGE",
+      "start_char": 26,
+      "end_char": 45
+    },
+    {
+      "text": "Proprietor vs Doorsanchar Nigam Ltd. (Bsnl)",
+      "label": "PRECEDENT",
+      "start_char": 56,
+      "end_char": 99
+    },
+    {
+      "text": "8 April, 2022",
+      "label": "DATE",
+      "start_char": 103,
+      "end_char": 116
+    },
+    {
+      "text": "Anand Pathak",
+      "label": "JUDGE",
+      "start_char": 145,
+      "end_char": 157
+    },
+    {
+      "text": "HIGH COURT OF MADHYA PRADESH                           BENCH AT GWALIOR",
+      "label": "COURT",
+      "start_char": 253,
+      "end_char": 324
+    },
+    {
+      "text": "ANAND PATHAK",
+      "label": "JUDGE",
+      "start_char": 401,
+      "end_char": 413
+    },
+    {
+      "text": "Anil Kumar Tripathi",
+      "label": "PETITIONER",
+      "start_char": 481,
+      "end_char": 500
+    },
+    {
+      "text": "Doorsanchar Nigam Ltd.",
+      "label": "ORG",
+      "start_char": 588,
+      "end_char": 610
+    },
+    {
+      "text": "Akarsh Chaturvedi",
+      "label": "OTHER_PERSON",
+      "start_char": 708,
+      "end_char": 725
+    },
+    {
+      "text": "Rajendra Bhargav",
+      "label": "OTHER_PERSON",
+      "start_char": 769,
+      "end_char": 785
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 1333,
+      "end_char": 1343
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 1351,
+      "end_char": 1389
+    },
+    {
+      "text": "Girish Chandra Dubey",
+      "label": "OTHER_PERSON",
+      "start_char": 1571,
+      "end_char": 1591
+    },
+    {
+      "text": "Bharat Sanchar Nigam Limited",
+      "label": "RESPONDENT",
+      "start_char": 1651,
+      "end_char": 1679
+    },
+    {
+      "text": "Article 12",
+      "label": "PROVISION",
+      "start_char": 1814,
+      "end_char": 1824
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 1832,
+      "end_char": 1853
+    },
+    {
+      "text": "8.7.2003",
+      "label": "DATE",
+      "start_char": 2108,
+      "end_char": 2116
+    },
+    {
+      "text": "9.5.2011",
+      "label": "DATE",
+      "start_char": 2195,
+      "end_char": 2203
+    },
+    {
+      "text": "M.N. Singh",
+      "label": "OTHER_PERSON",
+      "start_char": 2241,
+      "end_char": 2251
+    },
+    {
+      "text": "Bhopal",
+      "label": "GPE",
+      "start_char": 2297,
+      "end_char": 2303
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 2472,
+      "end_char": 2482
+    },
+    {
+      "text": "Seventh Additional Sessions Judge, Gwalior",
+      "label": "COURT",
+      "start_char": 2505,
+      "end_char": 2547
+    },
+    {
+      "text": "30.11.2011",
+      "label": "DATE",
+      "start_char": 2566,
+      "end_char": 2576
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 2596,
+      "end_char": 2606
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 2671,
+      "end_char": 2681
+    },
+    {
+      "text": "Arbitration Appeal No.01/2012",
+      "label": "CASE_NUMBER",
+      "start_char": 2748,
+      "end_char": 2777
+    },
+    {
+      "text": "BSNL",
+      "label": "ORG",
+      "start_char": 2795,
+      "end_char": 2799
+    },
+    {
+      "text": "Anil Kumar Tripathi",
+      "label": "OTHER_PERSON",
+      "start_char": 2804,
+      "end_char": 2823
+    },
+    {
+      "text": "22.04.2016",
+      "label": "DATE",
+      "start_char": 2843,
+      "end_char": 2853
+    },
+    {
+      "text": "30.11.2011",
+      "label": "DATE",
+      "start_char": 2908,
+      "end_char": 2918
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 3076,
+      "end_char": 3086
+    },
+    {
+      "text": "18.10.2016",
+      "label": "DATE",
+      "start_char": 3180,
+      "end_char": 3190
+    },
+    {
+      "text": "9.5.2011",
+      "label": "DATE",
+      "start_char": 3238,
+      "end_char": 3246
+    },
+    {
+      "text": "Arbitration Appeal No.3/2016 (Anil Kumar Tripathi Vs.",
+      "label": "PRECEDENT",
+      "start_char": 3475,
+      "end_char": 3528
+    },
+    {
+      "text": "Mahaprabhandak",
+      "label": "OTHER_PERSON",
+      "start_char": 3529,
+      "end_char": 3543
+    },
+    {
+      "text": "Doorsanchar Nigam Limited",
+      "label": "ORG",
+      "start_char": 3545,
+      "end_char": 3570
+    },
+    {
+      "text": "11.2.2019",
+      "label": "DATE",
+      "start_char": 3633,
+      "end_char": 3642
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 3692,
+      "end_char": 3705
+    },
+    {
+      "text": "Kinnari Mullick and Another vs. Ghanshyam Das Damani, 2018 (11) SCC 328",
+      "label": "PRECEDENT",
+      "start_char": 3721,
+      "end_char": 3792
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 3827,
+      "end_char": 3840
+    },
+    {
+      "text": "Mcdermott International Inc.",
+      "label": "ORG",
+      "start_char": 3841,
+      "end_char": 3869
+    },
+    {
+      "text": "Burn Standard Co. Ltd and Others, 2006 (11) SCC 181",
+      "label": "PRECEDENT",
+      "start_char": 3874,
+      "end_char": 3925
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 4029,
+      "end_char": 4039
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 4244,
+      "end_char": 4254
+    },
+    {
+      "text": "Sub-Section (4) of Section 34",
+      "label": "PROVISION",
+      "start_char": 4387,
+      "end_char": 4416
+    },
+    {
+      "text": "6.1.2022",
+      "label": "DATE",
+      "start_char": 4958,
+      "end_char": 4966
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 5100,
+      "end_char": 5110
+    },
+    {
+      "text": "6.1.2022",
+      "label": "DATE",
+      "start_char": 5158,
+      "end_char": 5166
+    },
+    {
+      "text": "Article 226/227",
+      "label": "PROVISION",
+      "start_char": 5252,
+      "end_char": 5267
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 5275,
+      "end_char": 5296
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 5727,
+      "end_char": 5740
+    },
+    {
+      "text": "I-Pay Clearing Services Private Limited vs. ICICI Bank Limited, reported in 2022 (3) SCC 121",
+      "label": "PRECEDENT",
+      "start_char": 5756,
+      "end_char": 5848
+    },
+    {
+      "text": "6.1.2022",
+      "label": "DATE",
+      "start_char": 6619,
+      "end_char": 6627
+    },
+    {
+      "text": "Commercial Court, Gwalior",
+      "label": "COURT",
+      "start_char": 6638,
+      "end_char": 6663
+    },
+    {
+      "text": "Section 34 (4)",
+      "label": "PROVISION",
+      "start_char": 6924,
+      "end_char": 6938
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 6983,
+      "end_char": 6993
+    },
+    {
+      "text": "Kinnari Mullick",
+      "label": "PRECEDENT",
+      "start_char": 7009,
+      "end_char": 7024
+    },
+    {
+      "text": "ICICI Bank Limited",
+      "label": "PRECEDENT",
+      "start_char": 7037,
+      "end_char": 7055
+    },
+    {
+      "text": "Section 34 (4)",
+      "label": "PROVISION",
+      "start_char": 7192,
+      "end_char": 7206
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 7270,
+      "end_char": 7280
+    },
+    {
+      "text": "sub-section 4 of Section 34",
+      "label": "PROVISION",
+      "start_char": 7416,
+      "end_char": 7443
+    },
+    {
+      "text": "11.2.2019",
+      "label": "DATE",
+      "start_char": 7524,
+      "end_char": 7533
+    },
+    {
+      "text": "Arbitration Appeal No.3/2016",
+      "label": "CASE_NUMBER",
+      "start_char": 7537,
+      "end_char": 7565
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 7706,
+      "end_char": 7716
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 8030,
+      "end_char": 8040
+    },
+    {
+      "text": "22.04.2016",
+      "label": "DATE",
+      "start_char": 8082,
+      "end_char": 8092
+    },
+    {
+      "text": "BSNL",
+      "label": "ORG",
+      "start_char": 8193,
+      "end_char": 8197
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 8443,
+      "end_char": 8453
+    },
+    {
+      "text": "sub-section (4) of Section 34",
+      "label": "PROVISION",
+      "start_char": 8593,
+      "end_char": 8622
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 9150,
+      "end_char": 9160
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 9395,
+      "end_char": 9405
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 9613,
+      "end_char": 9626
+    },
+    {
+      "text": "ICICI Bank Limited",
+      "label": "PRECEDENT",
+      "start_char": 9642,
+      "end_char": 9660
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 9674,
+      "end_char": 9684
+    },
+    {
+      "text": "Section 34 (4)",
+      "label": "PROVISION",
+      "start_char": 9839,
+      "end_char": 9853
+    },
+    {
+      "text": "Article 34 (4)",
+      "label": "PROVISION",
+      "start_char": 9902,
+      "end_char": 9916
+    },
+    {
+      "text": "Singapore Court of Appeals",
+      "label": "COURT",
+      "start_char": 10094,
+      "end_char": 10120
+    },
+    {
+      "text": "Kinnari Mullick",
+      "label": "OTHER_PERSON",
+      "start_char": 10180,
+      "end_char": 10195
+    },
+    {
+      "text": "Ghanshyam Das Damani",
+      "label": "RESPONDENT",
+      "start_char": 10208,
+      "end_char": 10228
+    },
+    {
+      "text": "Section 34 (4)",
+      "label": "PROVISION",
+      "start_char": 10339,
+      "end_char": 10353
+    },
+    {
+      "text": "Section 34 (4)",
+      "label": "PROVISION",
+      "start_char": 10614,
+      "end_char": 10628
+    },
+    {
+      "text": "Dyna Technologies Pvt. Ltd. v.\nCrompton Greaves Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 10825,
+      "end_char": 10877
+    },
+    {
+      "text": "Section 34 (4)",
+      "label": "PROVISION",
+      "start_char": 10926,
+      "end_char": 10940
+    },
+    {
+      "text": "Section 34 (4)",
+      "label": "PROVISION",
+      "start_char": 11032,
+      "end_char": 11046
+    },
+    {
+      "text": "Section 34 (1)",
+      "label": "PROVISION",
+      "start_char": 11488,
+      "end_char": 11502
+    },
+    {
+      "text": "Som Datt Builders Limited v. State of Kerala",
+      "label": "PRECEDENT",
+      "start_char": 11527,
+      "end_char": 11571
+    },
+    {
+      "text": "Section 34 (4)",
+      "label": "PROVISION",
+      "start_char": 11702,
+      "end_char": 11716
+    },
+    {
+      "text": "Section 34 (4)",
+      "label": "PROVISION",
+      "start_char": 12174,
+      "end_char": 12188
+    },
+    {
+      "text": "Section 34(4)",
+      "label": "PROVISION",
+      "start_char": 12234,
+      "end_char": 12247
+    },
+    {
+      "text": "Income Tax Officer, A Ward, Sitapur v. Murlidhar Bhagwan Das",
+      "label": "PRECEDENT",
+      "start_char": 12549,
+      "end_char": 12609
+    },
+    {
+      "text": "J. Ashoka v. University of Agricultural Sciences and Ors",
+      "label": "PRECEDENT",
+      "start_char": 12733,
+      "end_char": 12789
+    },
+    {
+      "text": "Section 34 (4)",
+      "label": "PROVISION",
+      "start_char": 13496,
+      "end_char": 13510
+    },
+    {
+      "text": "Section 34 (4)",
+      "label": "PROVISION",
+      "start_char": 13882,
+      "end_char": 13896
+    },
+    {
+      "text": "Section 34 (1)",
+      "label": "PROVISION",
+      "start_char": 13998,
+      "end_char": 14012
+    },
+    {
+      "text": "Section 34 (4)",
+      "label": "PROVISION",
+      "start_char": 14146,
+      "end_char": 14160
+    },
+    {
+      "text": "Section 34 (4)",
+      "label": "PROVISION",
+      "start_char": 14240,
+      "end_char": 14254
+    },
+    {
+      "text": "Section 34 (4)",
+      "label": "PROVISION",
+      "start_char": 14413,
+      "end_char": 14427
+    },
+    {
+      "text": "Section 31, 34 (1), 34 (2A) and 34 (4)",
+      "label": "PROVISION",
+      "start_char": 15279,
+      "end_char": 15317
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 15325,
+      "end_char": 15363
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 16376,
+      "end_char": 16389
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 16419,
+      "end_char": 16429
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 16516,
+      "end_char": 16526
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 18340,
+      "end_char": 18345
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 18474,
+      "end_char": 18479
+    },
+    {
+      "text": "Section 34 (2) (a)",
+      "label": "PROVISION",
+      "start_char": 20725,
+      "end_char": 20743
+    },
+    {
+      "text": "Section 34 (1) and (4)",
+      "label": "PROVISION",
+      "start_char": 21495,
+      "end_char": 21517
+    },
+    {
+      "text": "Anand Pathak",
+      "label": "JUDGE",
+      "start_char": 21590,
+      "end_char": 21602
+    },
+    {
+      "text": "ANAND KUMAR",
+      "label": "OTHER_PERSON",
+      "start_char": 21615,
+      "end_char": 21626
+    },
+    {
+      "text": "2022.04.08",
+      "label": "DATE",
+      "start_char": 21627,
+      "end_char": 21637
+    }
+  ],
+  "precedent_clusters": {
+    "Income Tax Officer, A Ward, Sitapur v. Murlidhar Bhagwan Das": [
+      "Proprietor vs Doorsanchar Nigam Ltd. (Bsnl)",
+      "Arbitration Appeal No.3/2016 (Anil Kumar Tripathi Vs.",
+      "Dyna Technologies Pvt. Ltd. v.\nCrompton Greaves Ltd.",
+      "Som Datt Builders Limited v. State of Kerala",
+      "Income Tax Officer, A Ward, Sitapur v. Murlidhar Bhagwan Das",
+      "J. Ashoka v. University of Agricultural Sciences and Ors"
+    ],
+    "Kinnari Mullick and Another vs. Ghanshyam Das Damani, 2018 (11) SCC 328": [
+      "Kinnari Mullick and Another vs. Ghanshyam Das Damani, 2018 (11) SCC 328",
+      "Kinnari Mullick"
+    ],
+    "I-Pay Clearing Services Private Limited vs. ICICI Bank Limited, reported in 2022 (3) SCC 121": [
+      "I-Pay Clearing Services Private Limited vs. ICICI Bank Limited, reported in 2022 (3) SCC 121",
+      "ICICI Bank Limited",
+      "ICICI Bank Limited"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Article 12",
+      "Constitution of India",
+      "Article 12",
+      "Constitution of India"
+    ],
+    [
+      "Article 226/227",
+      "Constitution of India",
+      "Article 226/227",
+      "Constitution of India"
+    ],
+    [
+      "Section 31, 34 (1), 34 (2A) and 34 (4)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 31, 34 (1), 34 (2A) and 34 (4)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Sub-Section (4) of Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Sub-Section (4) of Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34 (4)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34 (4)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34 (4)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34 (4)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "sub-section 4 of Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "sub-section 4 of Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "sub-section (4) of Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "sub-section (4) of Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34 (4)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34 (4)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Article 34 (4)",
+      "Arbitration and Conciliation Act, 1996",
+      "Article 34 (4)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34 (4)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34 (4)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34 (4)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34 (4)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34 (4)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34 (4)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34 (4)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34 (4)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34 (1)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34 (1)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34 (4)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34 (4)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34 (4)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34 (4)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34(4)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34(4)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34 (4)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34 (4)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34 (4)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34 (4)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34 (1)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34 (1)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34 (4)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34 (4)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34 (4)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34 (4)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34 (4)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34 (4)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34 (2) (a)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34 (2) (a)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34 (1) and (4)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34 (1) and (4)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996"
+    ]
+  ],
+  "precedent_counts": {
+    "Income Tax Officer, A Ward, Sitapur v. Murlidhar Bhagwan Das": 6,
+    "Kinnari Mullick and Another vs. Ghanshyam Das Damani, 2018 (11) SCC 328": 2,
+    "I-Pay Clearing Services Private Limited vs. ICICI Bank Limited, reported in 2022 (3) SCC 121": 3
+  },
+  "provision_counts": {
+    "Section 34 of Arbitration and Conciliation Act, 1996": 15,
+    "Article 12 of Constitution of India": 1,
+    "Article 226/227 of Constitution of India": 1,
+    "Section 31, 34 (1), 34 (2A) and 34 (4) of Arbitration and Conciliation Act, 1996": 1,
+    "Sub-Section (4) of Section 34 of Arbitration and Conciliation Act, 1996": 1,
+    "Section 34 (4) of Arbitration and Conciliation Act, 1996": 14,
+    "sub-section 4 of Section 34 of Arbitration and Conciliation Act, 1996": 1,
+    "sub-section (4) of Section 34 of Arbitration and Conciliation Act, 1996": 1,
+    "Article 34 (4) of Arbitration and Conciliation Act, 1996": 1,
+    "Section 34 (1) of Arbitration and Conciliation Act, 1996": 2,
+    "Section 34(4) of Arbitration and Conciliation Act, 1996": 1,
+    "Section 34 (2) (a) of Arbitration and Conciliation Act, 1996": 1,
+    "Section 34 (1) and (4) of Arbitration and Conciliation Act, 1996": 1,
+    "Section 37 of Arbitration and Conciliation Act, 1996": 1
+  },
+  "statute_counts": {
+    "Arbitration and Conciliation Act, 1996": 40,
+    "Constitution of India": 2
+  }
+}

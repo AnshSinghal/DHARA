@@ -1,0 +1,5283 @@
+{
+  "entities": [
+    {
+      "text": "O.S.As",
+      "label": "PETITIONER",
+      "start_char": 40,
+      "end_char": 46
+    },
+    {
+      "text": "S.Kodak Polychrome Graphics Asia",
+      "label": "RESPONDENT",
+      "start_char": 52,
+      "end_char": 84
+    },
+    {
+      "text": "R.Subbiah",
+      "label": "JUDGE",
+      "start_char": 112,
+      "end_char": 121
+    },
+    {
+      "text": "R.Subbiah",
+      "label": "JUDGE",
+      "start_char": 129,
+      "end_char": 138
+    },
+    {
+      "text": "High Court Of Judicature At Madras",
+      "label": "COURT",
+      "start_char": 248,
+      "end_char": 282
+    },
+    {
+      "text": "R.Subbiah",
+      "label": "JUDGE",
+      "start_char": 472,
+      "end_char": 481
+    },
+    {
+      "text": "C.Saravanan",
+      "label": "JUDGE",
+      "start_char": 546,
+      "end_char": 557
+    },
+    {
+      "text": "Kapoor Imaging Private Limited",
+      "label": "PETITIONER",
+      "start_char": 762,
+      "end_char": 792
+    },
+    {
+      "text": "Kodak Polychrome Graphics Asia",
+      "label": "RESPONDENT",
+      "start_char": 1204,
+      "end_char": 1234
+    },
+    {
+      "text": "Export Pvt. Ltd.",
+      "label": "PETITIONER",
+      "start_char": 1332,
+      "end_char": 1348
+    },
+    {
+      "text": "Kodak (India) Private Limited",
+      "label": "RESPONDENT",
+      "start_char": 1459,
+      "end_char": 1488
+    },
+    {
+      "text": "Kodak (Singapore) Pte Limited",
+      "label": "RESPONDENT",
+      "start_char": 1709,
+      "end_char": 1738
+    },
+    {
+      "text": "R.Parthasarathy",
+      "label": "LAWYER",
+      "start_char": 2668,
+      "end_char": 2683
+    },
+    {
+      "text": "S.Arjun Suresh",
+      "label": "LAWYER",
+      "start_char": 2731,
+      "end_char": 2745
+    },
+    {
+      "text": "R.Subbiah",
+      "label": "JUDGE",
+      "start_char": 2808,
+      "end_char": 2817
+    },
+    {
+      "text": "Application No.6384 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 3094,
+      "end_char": 3121
+    },
+    {
+      "text": "C.S.No.220 of 2009",
+      "label": "CASE_NUMBER",
+      "start_char": 3125,
+      "end_char": 3143
+    },
+    {
+      "text": "Application No.6383 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 3229,
+      "end_char": 3256
+    },
+    {
+      "text": "C.S.No.220 of 2009",
+      "label": "CASE_NUMBER",
+      "start_char": 3260,
+      "end_char": 3278
+    },
+    {
+      "text": "Section 65- B",
+      "label": "PROVISION",
+      "start_char": 3390,
+      "end_char": 3403
+    },
+    {
+      "text": "Indian Evidence Act, 1872",
+      "label": "STATUTE",
+      "start_char": 3411,
+      "end_char": 3436
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "RESPONDENT",
+      "start_char": 3585,
+      "end_char": 3614
+    },
+    {
+      "text": "27.06.2014",
+      "label": "DATE",
+      "start_char": 4385,
+      "end_char": 4395
+    },
+    {
+      "text": "24.07.2014",
+      "label": "DATE",
+      "start_char": 4673,
+      "end_char": 4683
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 4756,
+      "end_char": 4785
+    },
+    {
+      "text": "High Court of Madras",
+      "label": "COURT",
+      "start_char": 4793,
+      "end_char": 4813
+    },
+    {
+      "text": "Sunil Kapoor",
+      "label": "OTHER_PERSON",
+      "start_char": 4893,
+      "end_char": 4905
+    },
+    {
+      "text": "05.12.2016",
+      "label": "DATE",
+      "start_char": 4966,
+      "end_char": 4976
+    },
+    {
+      "text": "08.12.2016",
+      "label": "DATE",
+      "start_char": 5061,
+      "end_char": 5071
+    },
+    {
+      "text": "A.No.1243 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 5291,
+      "end_char": 5308
+    },
+    {
+      "text": "A.No.1243 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 5451,
+      "end_char": 5468
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 5943,
+      "end_char": 5972
+    },
+    {
+      "text": "A.No.1243 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 6031,
+      "end_char": 6048
+    },
+    {
+      "text": "30.06.2017",
+      "label": "DATE",
+      "start_char": 6052,
+      "end_char": 6062
+    },
+    {
+      "text": "Section 65",
+      "label": "PROVISION",
+      "start_char": 6781,
+      "end_char": 6791
+    },
+    {
+      "text": "Indian Evidence Act",
+      "label": "STATUTE",
+      "start_char": 6799,
+      "end_char": 6818
+    },
+    {
+      "text": "A.No.6383 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 6933,
+      "end_char": 6950
+    },
+    {
+      "text": "30.10.2006",
+      "label": "DATE",
+      "start_char": 7024,
+      "end_char": 7034
+    },
+    {
+      "text": "11.12.2006",
+      "label": "DATE",
+      "start_char": 7036,
+      "end_char": 7046
+    },
+    {
+      "text": "20.04.2008",
+      "label": "DATE",
+      "start_char": 7051,
+      "end_char": 7061
+    },
+    {
+      "text": "15.11.2008",
+      "label": "DATE",
+      "start_char": 7080,
+      "end_char": 7090
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 7229,
+      "end_char": 7258
+    },
+    {
+      "text": "A.No.6384 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 7274,
+      "end_char": 7291
+    },
+    {
+      "text": "R.Rajagopalan",
+      "label": "OTHER_PERSON",
+      "start_char": 7334,
+      "end_char": 7347
+    },
+    {
+      "text": "08.12.2016",
+      "label": "DATE",
+      "start_char": 7456,
+      "end_char": 7466
+    },
+    {
+      "text": "Section 65-B",
+      "label": "PROVISION",
+      "start_char": 7486,
+      "end_char": 7498
+    },
+    {
+      "text": "Indian Evidence Act, 1872",
+      "label": "STATUTE",
+      "start_char": 7506,
+      "end_char": 7531
+    },
+    {
+      "text": "A.Nos.6383 and 6384 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 7617,
+      "end_char": 7644
+    },
+    {
+      "text": "C.S.No.220 of 2009",
+      "label": "CASE_NUMBER",
+      "start_char": 7648,
+      "end_char": 7666
+    },
+    {
+      "text": "Section 65",
+      "label": "PROVISION",
+      "start_char": 8296,
+      "end_char": 8306
+    },
+    {
+      "text": "Indian Evidence Act",
+      "label": "STATUTE",
+      "start_char": 8314,
+      "end_char": 8333
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 8489,
+      "end_char": 8518
+    },
+    {
+      "text": "11.08.2018",
+      "label": "DATE",
+      "start_char": 8858,
+      "end_char": 8868
+    },
+    {
+      "text": "A.Nos.6383 and 6384 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 8879,
+      "end_char": 8906
+    },
+    {
+      "text": "C.S.No.220 of 2009",
+      "label": "CASE_NUMBER",
+      "start_char": 8910,
+      "end_char": 8928
+    },
+    {
+      "text": "30.06.2017",
+      "label": "DATE",
+      "start_char": 9221,
+      "end_char": 9231
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 9930,
+      "end_char": 9959
+    },
+    {
+      "text": "A.Nos.6383 and 6384 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 10801,
+      "end_char": 10828
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 11393,
+      "end_char": 11422
+    },
+    {
+      "text": "11.8.2018",
+      "label": "DATE",
+      "start_char": 11648,
+      "end_char": 11657
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 11748,
+      "end_char": 11758
+    },
+    {
+      "text": "Commercial Courts, Commercial Division",
+      "label": "STATUTE",
+      "start_char": 11766,
+      "end_char": 11804
+    },
+    {
+      "text": "Commercial Appellate Division of High Courts Act, 2015 (Act 4 of 2016)",
+      "label": "STATUTE",
+      "start_char": 11809,
+      "end_char": 11879
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 12254,
+      "end_char": 12264
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 12272,
+      "end_char": 12275
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 12372,
+      "end_char": 12382
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 12390,
+      "end_char": 12393
+    },
+    {
+      "text": "Commercial O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 12535,
+      "end_char": 12575
+    },
+    {
+      "text": "Madras High Court",
+      "label": "COURT",
+      "start_char": 12592,
+      "end_char": 12609
+    },
+    {
+      "text": "Tamil Nadu Government Gazzette No.381",
+      "label": "COURT",
+      "start_char": 12630,
+      "end_char": 12667
+    },
+    {
+      "text": "Part VI, Section 1",
+      "label": "PROVISION",
+      "start_char": 12671,
+      "end_char": 12689
+    },
+    {
+      "text": "R.O.C.No.3233/A/2016/G4",
+      "label": "CASE_NUMBER",
+      "start_char": 12693,
+      "end_char": 12716
+    },
+    {
+      "text": "29.11.2017",
+      "label": "DATE",
+      "start_char": 12724,
+      "end_char": 12734
+    },
+    {
+      "text": "Application No.1243 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 12744,
+      "end_char": 12771
+    },
+    {
+      "text": "Applications Nos.6383 and 6384 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 12945,
+      "end_char": 12983
+    },
+    {
+      "text": "C.S.No.220 of 2009",
+      "label": "CASE_NUMBER",
+      "start_char": 12987,
+      "end_char": 13005
+    },
+    {
+      "text": "11.08.2018",
+      "label": "DATE",
+      "start_char": 13205,
+      "end_char": 13215
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020 (ii)",
+      "label": "CASE_NUMBER",
+      "start_char": 13851,
+      "end_char": 13885
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 13991,
+      "end_char": 13994
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 14299,
+      "end_char": 14302
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 14361,
+      "end_char": 14364
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 14686,
+      "end_char": 14689
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 14835,
+      "end_char": 14845
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 14853,
+      "end_char": 14856
+    },
+    {
+      "text": "scenario (iv)",
+      "label": "PROVISION",
+      "start_char": 14893,
+      "end_char": 14906
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 14951,
+      "end_char": 14961
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 14962,
+      "end_char": 14965
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 14986,
+      "end_char": 15015
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 15088,
+      "end_char": 15098
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 15106,
+      "end_char": 15109
+    },
+    {
+      "text": "Scenarios (ii) and (iii)",
+      "label": "PROVISION",
+      "start_char": 15149,
+      "end_char": 15173
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 15265,
+      "end_char": 15275
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 15283,
+      "end_char": 15286
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 16077,
+      "end_char": 16090
+    },
+    {
+      "text": "Garikapati Vs.",
+      "label": "PRECEDENT",
+      "start_char": 16094,
+      "end_char": 16108
+    },
+    {
+      "text": "Subbiah Choudhry",
+      "label": "OTHER_PERSON",
+      "start_char": 16109,
+      "end_char": 16125
+    },
+    {
+      "text": "AIR 1957 SC 540",
+      "label": "PRECEDENT",
+      "start_char": 16139,
+      "end_char": 16154
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 16244,
+      "end_char": 16273
+    },
+    {
+      "text": "Hitendra Vishnu Thakur and others Vs.",
+      "label": "PRECEDENT",
+      "start_char": 17407,
+      "end_char": 17444
+    },
+    {
+      "text": "State of Maharashtra",
+      "label": "ORG",
+      "start_char": 17445,
+      "end_char": 17465
+    },
+    {
+      "text": "1994 (4) SCC 602",
+      "label": "PRECEDENT",
+      "start_char": 17479,
+      "end_char": 17495
+    },
+    {
+      "text": "TADA Act",
+      "label": "STATUTE",
+      "start_char": 17595,
+      "end_char": 17603
+    },
+    {
+      "text": "Amendment Act No.43 of 1993",
+      "label": "STATUTE",
+      "start_char": 17623,
+      "end_char": 17650
+    },
+    {
+      "text": "22-5-1993",
+      "label": "DATE",
+      "start_char": 17668,
+      "end_char": 17677
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 17680,
+      "end_char": 17709
+    },
+    {
+      "text": "TADA",
+      "label": "STATUTE",
+      "start_char": 17776,
+      "end_char": 17780
+    },
+    {
+      "text": "clause (bb) to sub- section (4) of Section 20",
+      "label": "PROVISION",
+      "start_char": 17889,
+      "end_char": 17934
+    },
+    {
+      "text": "Amendment Act No. 43 of 1993",
+      "label": "STATUTE",
+      "start_char": 18032,
+      "end_char": 18060
+    },
+    {
+      "text": "22-5-1993",
+      "label": "DATE",
+      "start_char": 18244,
+      "end_char": 18253
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 18353,
+      "end_char": 18366
+    },
+    {
+      "text": "Hitendra Vishnu Thakur",
+      "label": "OTHER_PERSON",
+      "start_char": 18388,
+      "end_char": 18410
+    },
+    {
+      "text": "Amendment Act 43",
+      "label": "STATUTE",
+      "start_char": 18489,
+      "end_char": 18505
+    },
+    {
+      "text": "clause (bb) to sub-section (4) of Section 20",
+      "label": "PROVISION",
+      "start_char": 18580,
+      "end_char": 18624
+    },
+    {
+      "text": "Khanwilkar",
+      "label": "OTHER_PERSON",
+      "start_char": 18742,
+      "end_char": 18752
+    },
+    {
+      "text": "clause (bb) of sub-section (4) of Section 20",
+      "label": "PROVISION",
+      "start_char": 18782,
+      "end_char": 18826
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 18997,
+      "end_char": 19026
+    },
+    {
+      "text": "clause (b) of Section 20(4)",
+      "label": "PROVISION",
+      "start_char": 19121,
+      "end_char": 19148
+    },
+    {
+      "text": "Amendment Act 43 of 1993",
+      "label": "STATUTE",
+      "start_char": 19219,
+      "end_char": 19243
+    },
+    {
+      "text": "TADA",
+      "label": "STATUTE",
+      "start_char": 19340,
+      "end_char": 19344
+    },
+    {
+      "text": "22-5-1993",
+      "label": "DATE",
+      "start_char": 19461,
+      "end_char": 19470
+    },
+    {
+      "text": "Section 20(4)",
+      "label": "PROVISION",
+      "start_char": 19632,
+      "end_char": 19645
+    },
+    {
+      "text": "Section 20(8)",
+      "label": "PROVISION",
+      "start_char": 19920,
+      "end_char": 19933
+    },
+    {
+      "text": "Section 20(4)",
+      "label": "PROVISION",
+      "start_char": 19975,
+      "end_char": 19988
+    },
+    {
+      "text": "TADA",
+      "label": "STATUTE",
+      "start_char": 19992,
+      "end_char": 19996
+    },
+    {
+      "text": "Section 20(4)",
+      "label": "PROVISION",
+      "start_char": 20509,
+      "end_char": 20522
+    },
+    {
+      "text": "clause (b) of Section 20(4)",
+      "label": "PROVISION",
+      "start_char": 20712,
+      "end_char": 20739
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 20775,
+      "end_char": 20804
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 21567,
+      "end_char": 21577
+    },
+    {
+      "text": "Videocon International Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 21581,
+      "end_char": 21615
+    },
+    {
+      "text": "Securities and Exchange Board of India",
+      "label": "ORG",
+      "start_char": 21616,
+      "end_char": 21654
+    },
+    {
+      "text": "2015 (4) SCC 33",
+      "label": "CASE_NUMBER",
+      "start_char": 21668,
+      "end_char": 21683
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 21699,
+      "end_char": 21712
+    },
+    {
+      "text": "Section 15-Z",
+      "label": "PROVISION",
+      "start_char": 22158,
+      "end_char": 22170
+    },
+    {
+      "text": "SEBI Act",
+      "label": "STATUTE",
+      "start_char": 22178,
+      "end_char": 22186
+    },
+    {
+      "text": "Section 15-Z",
+      "label": "PROVISION",
+      "start_char": 22208,
+      "end_char": 22220
+    },
+    {
+      "text": "Securities Appellate Tribunal",
+      "label": "COURT",
+      "start_char": 22293,
+      "end_char": 22322
+    },
+    {
+      "text": "Section 15-Z",
+      "label": "PROVISION",
+      "start_char": 22429,
+      "end_char": 22441
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 22478,
+      "end_char": 22507
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 22535,
+      "end_char": 22548
+    },
+    {
+      "text": "Section 15-Z",
+      "label": "PROVISION",
+      "start_char": 22882,
+      "end_char": 22894
+    },
+    {
+      "text": "SEBI Act",
+      "label": "STATUTE",
+      "start_char": 22953,
+      "end_char": 22961
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 23947,
+      "end_char": 23960
+    },
+    {
+      "text": "2015 (4) SCC 33",
+      "label": "PRECEDENT",
+      "start_char": 23964,
+      "end_char": 23979
+    },
+    {
+      "text": "Garikapati Veeraya Vs.",
+      "label": "PRECEDENT",
+      "start_char": 24026,
+      "end_char": 24048
+    },
+    {
+      "text": "Subbiah Choudhry",
+      "label": "OTHER_PERSON",
+      "start_char": 24049,
+      "end_char": 24065
+    },
+    {
+      "text": "AIR 1957 SC 540",
+      "label": "PRECEDENT",
+      "start_char": 24089,
+      "end_char": 24104
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 24202,
+      "end_char": 24231
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 26255,
+      "end_char": 26284
+    },
+    {
+      "text": "Colonial Sugar Refining Company Vs.",
+      "label": "PRECEDENT",
+      "start_char": 26356,
+      "end_char": 26391
+    },
+    {
+      "text": "Irving (1905) AC 369",
+      "label": "PRECEDENT",
+      "start_char": 26392,
+      "end_char": 26412
+    },
+    {
+      "text": "Macnaghten",
+      "label": "OTHER_PERSON",
+      "start_char": 26472,
+      "end_char": 26482
+    },
+    {
+      "text": "Coke",
+      "label": "OTHER_PERSON",
+      "start_char": 26552,
+      "end_char": 26556
+    },
+    {
+      "text": "Coke",
+      "label": "OTHER_PERSON",
+      "start_char": 26716,
+      "end_char": 26720
+    },
+    {
+      "text": "Gloucester",
+      "label": "GPE",
+      "start_char": 26754,
+      "end_char": 26764
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "start_char": 26946,
+      "end_char": 26956
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 28006,
+      "end_char": 28035
+    },
+    {
+      "text": "Section 96",
+      "label": "PROVISION",
+      "start_char": 28256,
+      "end_char": 28266
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 28274,
+      "end_char": 28297
+    },
+    {
+      "text": "Section 100",
+      "label": "PROVISION",
+      "start_char": 28501,
+      "end_char": 28512
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 28520,
+      "end_char": 28543
+    },
+    {
+      "text": "Section 96",
+      "label": "PROVISION",
+      "start_char": 28706,
+      "end_char": 28716
+    },
+    {
+      "text": "Sections 96 and 100",
+      "label": "PROVISION",
+      "start_char": 28871,
+      "end_char": 28890
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 28898,
+      "end_char": 28921
+    },
+    {
+      "text": "Sections 109 and 110",
+      "label": "PROVISION",
+      "start_char": 28985,
+      "end_char": 29005
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 29013,
+      "end_char": 29036
+    },
+    {
+      "text": "Section 96 or Section 100",
+      "label": "PROVISION",
+      "start_char": 29237,
+      "end_char": 29262
+    },
+    {
+      "text": "Section 96",
+      "label": "PROVISION",
+      "start_char": 30046,
+      "end_char": 30056
+    },
+    {
+      "text": "Code of Civil O.S.A.Nos.235 and 239 of 2020",
+      "label": "STATUTE",
+      "start_char": 30064,
+      "end_char": 30107
+    },
+    {
+      "text": "Colonial Sugar Refining Company Vs.",
+      "label": "PRECEDENT",
+      "start_char": 30735,
+      "end_char": 30770
+    },
+    {
+      "text": "Irving (1905) AC 369",
+      "label": "PRECEDENT",
+      "start_char": 30771,
+      "end_char": 30791
+    },
+    {
+      "text": "Colonial Sugar Refining Company Vs.",
+      "label": "PRECEDENT",
+      "start_char": 30870,
+      "end_char": 30905
+    },
+    {
+      "text": "(1905) AC 369",
+      "label": "PRECEDENT",
+      "start_char": 30913,
+      "end_char": 30926
+    },
+    {
+      "text": "Sadar Ali Vs.",
+      "label": "PRECEDENT",
+      "start_char": 30955,
+      "end_char": 30968
+    },
+    {
+      "text": "Dalimuddin (1929) ILR 56 Cal 512",
+      "label": "PRECEDENT",
+      "start_char": 30969,
+      "end_char": 31001
+    },
+    {
+      "text": "CCA",
+      "label": "COURT",
+      "start_char": 31236,
+      "end_char": 31239
+    },
+    {
+      "text": "Madras",
+      "label": "GPE",
+      "start_char": 31256,
+      "end_char": 31262
+    },
+    {
+      "text": "24.07.2014",
+      "label": "DATE",
+      "start_char": 31406,
+      "end_char": 31416
+    },
+    {
+      "text": "08.12.2016",
+      "label": "DATE",
+      "start_char": 31476,
+      "end_char": 31486
+    },
+    {
+      "text": "Sunil Kapoor",
+      "label": "OTHER_PERSON",
+      "start_char": 31517,
+      "end_char": 31529
+    },
+    {
+      "text": "Section 65-B",
+      "label": "PROVISION",
+      "start_char": 31536,
+      "end_char": 31548
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 31549,
+      "end_char": 31578
+    },
+    {
+      "text": "Indian Evidence Act",
+      "label": "STATUTE",
+      "start_char": 31586,
+      "end_char": 31605
+    },
+    {
+      "text": "30.06.2017",
+      "label": "DATE",
+      "start_char": 31652,
+      "end_char": 31662
+    },
+    {
+      "text": "Commercial Courts Act (CCA)",
+      "label": "STATUTE",
+      "start_char": 32048,
+      "end_char": 32075
+    },
+    {
+      "text": "29.11.2017",
+      "label": "DATE",
+      "start_char": 32247,
+      "end_char": 32257
+    },
+    {
+      "text": "Section 4",
+      "label": "PROVISION",
+      "start_char": 32271,
+      "end_char": 32280
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 32288,
+      "end_char": 32291
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 32435,
+      "end_char": 32448
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 32570,
+      "end_char": 32573
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 32823,
+      "end_char": 32826
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 32906,
+      "end_char": 32935
+    },
+    {
+      "text": "Rubinetterie Bresciane Bonomi SPA vs. Lehry Instrumentation and Values Private Limited, reported in 2019 (4) CTC 188",
+      "label": "PRECEDENT",
+      "start_char": 33190,
+      "end_char": 33306
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 33505,
+      "end_char": 33508
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 33539,
+      "end_char": 33549
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 33557,
+      "end_char": 33560
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 33629,
+      "end_char": 33645
+    },
+    {
+      "text": "Eros Resorts and Hotels vs. Explorer Associates, reported in 2018 SCC Online Delhi 8945",
+      "label": "PRECEDENT",
+      "start_char": 33654,
+      "end_char": 33741
+    },
+    {
+      "text": "Bhramos vs. Fiitjee Limited, reported in 2019 SCC Online Delhi 7282",
+      "label": "PRECEDENT",
+      "start_char": 33754,
+      "end_char": 33821
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 33940,
+      "end_char": 33950
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 33958,
+      "end_char": 33961
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 34257,
+      "end_char": 34286
+    },
+    {
+      "text": "Magic Frames and others vs. Radiance Media Private Limited, reported in 2019 (4) CTC 497 = 2019 (3) LW 385 = 2019 (5) MLJ 479",
+      "label": "PRECEDENT",
+      "start_char": 34485,
+      "end_char": 34610
+    },
+    {
+      "text": "R. Subbiah",
+      "label": "JUDGE",
+      "start_char": 34632,
+      "end_char": 34642
+    },
+    {
+      "text": "Order 13 A",
+      "label": "PROVISION",
+      "start_char": 34882,
+      "end_char": 34892
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 34900,
+      "end_char": 34923
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 34943,
+      "end_char": 34946
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 35075,
+      "end_char": 35078
+    },
+    {
+      "text": "Section 4",
+      "label": "PROVISION",
+      "start_char": 35195,
+      "end_char": 35204
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 35212,
+      "end_char": 35215
+    },
+    {
+      "text": "O.S.A.Nos.13 to 15 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 35539,
+      "end_char": 35565
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 35573,
+      "end_char": 35602
+    },
+    {
+      "text": "05.02.2020",
+      "label": "DATE",
+      "start_char": 35603,
+      "end_char": 35613
+    },
+    {
+      "text": "Kapoor Imaging Private Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 35619,
+      "end_char": 35653
+    },
+    {
+      "text": "Kodak (India) Private Limited",
+      "label": "ORG",
+      "start_char": 35658,
+      "end_char": 35687
+    },
+    {
+      "text": "CDJ 2020 MHC 1737",
+      "label": "CASE_NUMBER",
+      "start_char": 35702,
+      "end_char": 35719
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 35790,
+      "end_char": 35803
+    },
+    {
+      "text": "Garikapati Vs.",
+      "label": "PRECEDENT",
+      "start_char": 35819,
+      "end_char": 35833
+    },
+    {
+      "text": "Subbiah Choudhry",
+      "label": "OTHER_PERSON",
+      "start_char": 35834,
+      "end_char": 35850
+    },
+    {
+      "text": "AIR 1957 SC 540",
+      "label": "PRECEDENT",
+      "start_char": 35874,
+      "end_char": 35889
+    },
+    {
+      "text": "Videocon International Limitaed Vs.",
+      "label": "PRECEDENT",
+      "start_char": 35901,
+      "end_char": 35936
+    },
+    {
+      "text": "Securities and Exchange Board of India",
+      "label": "ORG",
+      "start_char": 35937,
+      "end_char": 35975
+    },
+    {
+      "text": "2015 (4) SCC 33",
+      "label": "CASE_NUMBER",
+      "start_char": 35989,
+      "end_char": 36004
+    },
+    {
+      "text": "16.08.2019",
+      "label": "DATE",
+      "start_char": 36139,
+      "end_char": 36149
+    },
+    {
+      "text": "17.09.2019",
+      "label": "DATE",
+      "start_char": 36176,
+      "end_char": 36186
+    },
+    {
+      "text": "Order VII Rule 14 (4)",
+      "label": "PROVISION",
+      "start_char": 36332,
+      "end_char": 36353
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 36357,
+      "end_char": 36360
+    },
+    {
+      "text": "17.09.2019",
+      "label": "DATE",
+      "start_char": 36364,
+      "end_char": 36374
+    },
+    {
+      "text": "Order IX",
+      "label": "PROVISION",
+      "start_char": 36424,
+      "end_char": 36432
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 36436,
+      "end_char": 36439
+    },
+    {
+      "text": "CCA",
+      "label": "ORG",
+      "start_char": 36459,
+      "end_char": 36462
+    },
+    {
+      "text": "Order IX",
+      "label": "PROVISION",
+      "start_char": 36482,
+      "end_char": 36490
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 36494,
+      "end_char": 36497
+    },
+    {
+      "text": "CCA",
+      "label": "ORG",
+      "start_char": 36513,
+      "end_char": 36516
+    },
+    {
+      "text": "order VII Rule 14",
+      "label": "PROVISION",
+      "start_char": 36599,
+      "end_char": 36616
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 36617,
+      "end_char": 36620
+    },
+    {
+      "text": "Order IX Rule 7",
+      "label": "PROVISION",
+      "start_char": 36649,
+      "end_char": 36664
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 36676,
+      "end_char": 36679
+    },
+    {
+      "text": "O.S.A.Nos.13 to 15 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 36759,
+      "end_char": 36785
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 36839,
+      "end_char": 36862
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 36879,
+      "end_char": 36908
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 37024,
+      "end_char": 37034
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 37042,
+      "end_char": 37045
+    },
+    {
+      "text": "Shah Babulal Khimji Vs.",
+      "label": "PRECEDENT",
+      "start_char": 37556,
+      "end_char": 37579
+    },
+    {
+      "text": "Jayaben D.Kania",
+      "label": "OTHER_PERSON",
+      "start_char": 37580,
+      "end_char": 37595
+    },
+    {
+      "text": "1981 (4) SCC 8",
+      "label": "PRECEDENT",
+      "start_char": 37621,
+      "end_char": 37635
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 37721,
+      "end_char": 37744
+    },
+    {
+      "text": "sub-s. (2) of S.2",
+      "label": "PROVISION",
+      "start_char": 37804,
+      "end_char": 37821
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 38212,
+      "end_char": 38235
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 38462,
+      "end_char": 38491
+    },
+    {
+      "text": "clauses (a) to (w) of Order 43 Rule 1",
+      "label": "PROVISION",
+      "start_char": 38796,
+      "end_char": 38833
+    },
+    {
+      "text": "O.43 R.1",
+      "label": "PROVISION",
+      "start_char": 39016,
+      "end_char": 39024
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 40429,
+      "end_char": 40458
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 41514,
+      "end_char": 41527
+    },
+    {
+      "text": "Shah Babulal Khimji",
+      "label": "OTHER_PERSON",
+      "start_char": 41543,
+      "end_char": 41562
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 41698,
+      "end_char": 41727
+    },
+    {
+      "text": "R.V.E.Venkatachala Gounder Vs.",
+      "label": "PRECEDENT",
+      "start_char": 41953,
+      "end_char": 41983
+    },
+    {
+      "text": "Arumigh Visweswaraswami",
+      "label": "OTHER_PERSON",
+      "start_char": 41984,
+      "end_char": 42007
+    },
+    {
+      "text": "V.P. Temple",
+      "label": "OTHER_PERSON",
+      "start_char": 42012,
+      "end_char": 42023
+    },
+    {
+      "text": "2003 (8) SCC 752",
+      "label": "CASE_NUMBER",
+      "start_char": 42049,
+      "end_char": 42065
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 43514,
+      "end_char": 43543
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 44981,
+      "end_char": 44994
+    },
+    {
+      "text": "Shah Babulal Khimji",
+      "label": "OTHER_PERSON",
+      "start_char": 44998,
+      "end_char": 45017
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 45136,
+      "end_char": 45165
+    },
+    {
+      "text": "Order 43",
+      "label": "PROVISION",
+      "start_char": 45796,
+      "end_char": 45804
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 45812,
+      "end_char": 45815
+    },
+    {
+      "text": "Section 65(c)",
+      "label": "PROVISION",
+      "start_char": 46257,
+      "end_char": 46270
+    },
+    {
+      "text": "Indian Evidence Act",
+      "label": "STATUTE",
+      "start_char": 46278,
+      "end_char": 46297
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 46412,
+      "end_char": 46422
+    },
+    {
+      "text": "2020 SCC Online SC 606 O.S.A.Nos.235 and 239 of 2020",
+      "label": "PRECEDENT",
+      "start_char": 46435,
+      "end_char": 46487
+    },
+    {
+      "text": "Dhanpat Vs.",
+      "label": "PRECEDENT",
+      "start_char": 46489,
+      "end_char": 46500
+    },
+    {
+      "text": "Sheo Ram",
+      "label": "OTHER_PERSON",
+      "start_char": 46501,
+      "end_char": 46509
+    },
+    {
+      "text": "Section 65(c)",
+      "label": "PROVISION",
+      "start_char": 46642,
+      "end_char": 46655
+    },
+    {
+      "text": "Evidence Act",
+      "label": "STATUTE",
+      "start_char": 46663,
+      "end_char": 46675
+    },
+    {
+      "text": "Section 65(c)",
+      "label": "PROVISION",
+      "start_char": 47246,
+      "end_char": 47259
+    },
+    {
+      "text": "Indian Evidence Act",
+      "label": "STATUTE",
+      "start_char": 47267,
+      "end_char": 47286
+    },
+    {
+      "text": "08.12.2016",
+      "label": "DATE",
+      "start_char": 47344,
+      "end_char": 47354
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 47782,
+      "end_char": 47811
+    },
+    {
+      "text": "Section 65",
+      "label": "PROVISION",
+      "start_char": 47995,
+      "end_char": 48005
+    },
+    {
+      "text": "Indian Evidence Act",
+      "label": "STATUTE",
+      "start_char": 48013,
+      "end_char": 48032
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 48731,
+      "end_char": 48744
+    },
+    {
+      "text": "2020 (7) SCC 1 = 2020",
+      "label": "PRECEDENT",
+      "start_char": 48757,
+      "end_char": 48778
+    },
+    {
+      "text": "SCC Online SC 571 (Arjun Panditrao Khotkara Vs.",
+      "label": "PRECEDENT",
+      "start_char": 48779,
+      "end_char": 48826
+    },
+    {
+      "text": "Kailash Kushanrao Gorantyal",
+      "label": "OTHER_PERSON",
+      "start_char": 48827,
+      "end_char": 48854
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 49102,
+      "end_char": 49131
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 49263,
+      "end_char": 49276
+    },
+    {
+      "text": "Sections 91 or 311",
+      "label": "PROVISION",
+      "start_char": 49808,
+      "end_char": 49826
+    },
+    {
+      "text": "CrPC",
+      "label": "STATUTE",
+      "start_char": 49827,
+      "end_char": 49831
+    },
+    {
+      "text": "Section 165",
+      "label": "PROVISION",
+      "start_char": 49835,
+      "end_char": 49846
+    },
+    {
+      "text": "Evidence Act",
+      "label": "STATUTE",
+      "start_char": 49854,
+      "end_char": 49866
+    },
+    {
+      "text": "Section 39",
+      "label": "PROVISION",
+      "start_char": 50527,
+      "end_char": 50537
+    },
+    {
+      "text": "Evidence Act",
+      "label": "STATUTE",
+      "start_char": 50545,
+      "end_char": 50557
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 50912,
+      "end_char": 50941
+    },
+    {
+      "text": "Section 67-C",
+      "label": "PROVISION",
+      "start_char": 51022,
+      "end_char": 51034
+    },
+    {
+      "text": "Information Technology Act",
+      "label": "STATUTE",
+      "start_char": 51042,
+      "end_char": 51068
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 51297,
+      "end_char": 51315
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 52004,
+      "end_char": 52014
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 52022,
+      "end_char": 52025
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 52166,
+      "end_char": 52195
+    },
+    {
+      "text": "Shah Babulal Khimji Vs.",
+      "label": "PRECEDENT",
+      "start_char": 52761,
+      "end_char": 52784
+    },
+    {
+      "text": "Jayaben D.Kania",
+      "label": "PRECEDENT",
+      "start_char": 52785,
+      "end_char": 52800
+    },
+    {
+      "text": "Division O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 53503,
+      "end_char": 53541
+    },
+    {
+      "text": "Rubinetterie Bresciane Bonomi SpA Vs.",
+      "label": "PRECEDENT",
+      "start_char": 53587,
+      "end_char": 53624
+    },
+    {
+      "text": "Lehry Instrumentation and Valves Private Limited",
+      "label": "ORG",
+      "start_char": 53625,
+      "end_char": 53673
+    },
+    {
+      "text": "2019 (2) MLJ 257",
+      "label": "CASE_NUMBER",
+      "start_char": 53687,
+      "end_char": 53703
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 54865,
+      "end_char": 54894
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 55104,
+      "end_char": 55114
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 55122,
+      "end_char": 55125
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 55161,
+      "end_char": 55170
+    },
+    {
+      "text": "CCA, 2015",
+      "label": "STATUTE",
+      "start_char": 55178,
+      "end_char": 55187
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 55396,
+      "end_char": 55405
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 55413,
+      "end_char": 55416
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 55443,
+      "end_char": 55452
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 55833,
+      "end_char": 55843
+    },
+    {
+      "text": "Section 13(1) and 13(1-A)",
+      "label": "PROVISION",
+      "start_char": 56014,
+      "end_char": 56039
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 56047,
+      "end_char": 56050
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 56121,
+      "end_char": 56150
+    },
+    {
+      "text": "proviso to Section 13(1) and 13 (1-A)",
+      "label": "PROVISION",
+      "start_char": 56282,
+      "end_char": 56319
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 56327,
+      "end_char": 56330
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 56492,
+      "end_char": 56503
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 56511,
+      "end_char": 56552
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 56580,
+      "end_char": 56590
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 56598,
+      "end_char": 56649
+    },
+    {
+      "text": "Order 43 Rule 1",
+      "label": "PROVISION",
+      "start_char": 56732,
+      "end_char": 56747
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 56751,
+      "end_char": 56754
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 56796,
+      "end_char": 56806
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 56814,
+      "end_char": 56829
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 56870,
+      "end_char": 56879
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 56887,
+      "end_char": 56890
+    },
+    {
+      "text": "Section 13(1-A)",
+      "label": "PROVISION",
+      "start_char": 56906,
+      "end_char": 56921
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 56929,
+      "end_char": 56932
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 57022,
+      "end_char": 57025
+    },
+    {
+      "text": "31.01.2018",
+      "label": "DATE",
+      "start_char": 57147,
+      "end_char": 57157
+    },
+    {
+      "text": "Section 18",
+      "label": "PROVISION",
+      "start_char": 57253,
+      "end_char": 57263
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 57271,
+      "end_char": 57274
+    },
+    {
+      "text": "Sections 13(1-A) and 15(3)",
+      "label": "PROVISION",
+      "start_char": 57308,
+      "end_char": 57334
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 57342,
+      "end_char": 57345
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 57412,
+      "end_char": 57441
+    },
+    {
+      "text": "CCA, 2015",
+      "label": "STATUTE",
+      "start_char": 57581,
+      "end_char": 57590
+    },
+    {
+      "text": "Section 15(3)",
+      "label": "PROVISION",
+      "start_char": 57732,
+      "end_char": 57745
+    },
+    {
+      "text": "CCA, 2015",
+      "label": "STATUTE",
+      "start_char": 57753,
+      "end_char": 57762
+    },
+    {
+      "text": "CCA, 2015",
+      "label": "CASE_NUMBER",
+      "start_char": 57819,
+      "end_char": 57828
+    },
+    {
+      "text": "Order 41 Rule 27-1-A",
+      "label": "PROVISION",
+      "start_char": 58165,
+      "end_char": 58185
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 58186,
+      "end_char": 58189
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 58686,
+      "end_char": 58715
+    },
+    {
+      "text": "Section 65",
+      "label": "PROVISION",
+      "start_char": 58716,
+      "end_char": 58726
+    },
+    {
+      "text": "Indian Evidence Act",
+      "label": "STATUTE",
+      "start_char": 58734,
+      "end_char": 58753
+    },
+    {
+      "text": "Section 65(a),(c) and (d)",
+      "label": "PROVISION",
+      "start_char": 58923,
+      "end_char": 58948
+    },
+    {
+      "text": "Indian Evidence Act",
+      "label": "STATUTE",
+      "start_char": 58956,
+      "end_char": 58975
+    },
+    {
+      "text": "Section 65(a),(c) and (d)",
+      "label": "PROVISION",
+      "start_char": 59123,
+      "end_char": 59148
+    },
+    {
+      "text": "Indian Evidence Act",
+      "label": "STATUTE",
+      "start_char": 59156,
+      "end_char": 59175
+    },
+    {
+      "text": "Section 65",
+      "label": "PROVISION",
+      "start_char": 59202,
+      "end_char": 59212
+    },
+    {
+      "text": "section 66",
+      "label": "PROVISION",
+      "start_char": 59704,
+      "end_char": 59714
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 60040,
+      "end_char": 60069
+    },
+    {
+      "text": "Section 65",
+      "label": "PROVISION",
+      "start_char": 60199,
+      "end_char": 60209
+    },
+    {
+      "text": "Evidence Act",
+      "label": "STATUTE",
+      "start_char": 60217,
+      "end_char": 60229
+    },
+    {
+      "text": "A.No.6383 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 60249,
+      "end_char": 60266
+    },
+    {
+      "text": "sub-clause of Section 65",
+      "label": "PROVISION",
+      "start_char": 60403,
+      "end_char": 60427
+    },
+    {
+      "text": "Indian Evidence Act",
+      "label": "STATUTE",
+      "start_char": 60435,
+      "end_char": 60454
+    },
+    {
+      "text": "30.10.2006",
+      "label": "DATE",
+      "start_char": 60787,
+      "end_char": 60797
+    },
+    {
+      "text": "11.12.2006",
+      "label": "DATE",
+      "start_char": 60799,
+      "end_char": 60809
+    },
+    {
+      "text": "20.04.2008",
+      "label": "DATE",
+      "start_char": 60814,
+      "end_char": 60824
+    },
+    {
+      "text": "15.11.2008",
+      "label": "DATE",
+      "start_char": 60843,
+      "end_char": 60853
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 61177,
+      "end_char": 61190
+    },
+    {
+      "text": "2007 (5) O.S.A.Nos.235 and 239 of 2020 SCC 730 (J.Yashoda Vs.",
+      "label": "PRECEDENT",
+      "start_char": 61203,
+      "end_char": 61264
+    },
+    {
+      "text": "K.Shohana Rani",
+      "label": "OTHER_PERSON",
+      "start_char": 61265,
+      "end_char": 61279
+    },
+    {
+      "text": "Section 65",
+      "label": "PROVISION",
+      "start_char": 61324,
+      "end_char": 61334
+    },
+    {
+      "text": "2007 (2) LW 211 (Sivamalai Viswakarma Samuthaya Nala Sangam Vs.",
+      "label": "PRECEDENT",
+      "start_char": 61923,
+      "end_char": 61986
+    },
+    {
+      "text": "Natarajab",
+      "label": "PETITIONER",
+      "start_char": 61987,
+      "end_char": 61996
+    },
+    {
+      "text": "Section 65(c)",
+      "label": "PROVISION",
+      "start_char": 62130,
+      "end_char": 62143
+    },
+    {
+      "text": "Indian Evidence Act",
+      "label": "STATUTE",
+      "start_char": 62151,
+      "end_char": 62170
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 62395,
+      "end_char": 62424
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 62948,
+      "end_char": 62958
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 62966,
+      "end_char": 62969
+    },
+    {
+      "text": "O.S.As",
+      "label": "ORG",
+      "start_char": 63234,
+      "end_char": 63240
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 63441,
+      "end_char": 63451
+    },
+    {
+      "text": "CCA Act",
+      "label": "STATUTE",
+      "start_char": 63459,
+      "end_char": 63466
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 63571,
+      "end_char": 63581
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 63629,
+      "end_char": 63658
+    },
+    {
+      "text": "29.11.2017",
+      "label": "DATE",
+      "start_char": 63872,
+      "end_char": 63882
+    },
+    {
+      "text": "29.11.2017",
+      "label": "DATE",
+      "start_char": 63924,
+      "end_char": 63934
+    },
+    {
+      "text": "Nos.6383 and 6384 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 63961,
+      "end_char": 63986
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 64161,
+      "end_char": 64184
+    },
+    {
+      "text": "11.08.2018",
+      "label": "DATE",
+      "start_char": 64223,
+      "end_char": 64233
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 64403,
+      "end_char": 64413
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 64417,
+      "end_char": 64420
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 64447,
+      "end_char": 64457
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 65136,
+      "end_char": 65165
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 65259,
+      "end_char": 65270
+    },
+    {
+      "text": "Code of civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 65278,
+      "end_char": 65319
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 65347,
+      "end_char": 65357
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996) (2)",
+      "label": "STATUTE",
+      "start_char": 65365,
+      "end_char": 65420
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 65694,
+      "end_char": 65704
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 65712,
+      "end_char": 65715
+    },
+    {
+      "text": "Sections 13 (1) and 13 (1A)",
+      "label": "PROVISION",
+      "start_char": 65811,
+      "end_char": 65838
+    },
+    {
+      "text": "proviso to Sections 13(1) and 13(1-A)",
+      "label": "PROVISION",
+      "start_char": 66035,
+      "end_char": 66072
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 66076,
+      "end_char": 66079
+    },
+    {
+      "text": "i) Order 43",
+      "label": "PROVISION",
+      "start_char": 66250,
+      "end_char": 66261
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 66265,
+      "end_char": 66268
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 66287,
+      "end_char": 66308
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 66318,
+      "end_char": 66328
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 66336,
+      "end_char": 66374
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 66445,
+      "end_char": 66474
+    },
+    {
+      "text": "Section 15 (1)",
+      "label": "PROVISION",
+      "start_char": 66675,
+      "end_char": 66689
+    },
+    {
+      "text": "CCA, 2015",
+      "label": "STATUTE",
+      "start_char": 66697,
+      "end_char": 66706
+    },
+    {
+      "text": "Order 43 Rule 1",
+      "label": "PROVISION",
+      "start_char": 66886,
+      "end_char": 66901
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 66905,
+      "end_char": 66908
+    },
+    {
+      "text": "Order 36 Rule 1",
+      "label": "PROVISION",
+      "start_char": 66934,
+      "end_char": 66949
+    },
+    {
+      "text": "Garikapati",
+      "label": "OTHER_PERSON",
+      "start_char": 67069,
+      "end_char": 67079
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 67273,
+      "end_char": 67282
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 67290,
+      "end_char": 67293
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 67400,
+      "end_char": 67409
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 67417,
+      "end_char": 67420
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 67444,
+      "end_char": 67453
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 67834,
+      "end_char": 67844
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 67855,
+      "end_char": 67884
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 68043,
+      "end_char": 68053
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 68061,
+      "end_char": 68064
+    },
+    {
+      "text": "Sections 8 and 13(1-A)",
+      "label": "PROVISION",
+      "start_char": 68286,
+      "end_char": 68308
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 68316,
+      "end_char": 68319
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 68409,
+      "end_char": 68412
+    },
+    {
+      "text": "31.01.2018",
+      "label": "DATE",
+      "start_char": 68485,
+      "end_char": 68495
+    },
+    {
+      "text": "Madras High Court",
+      "label": "COURT",
+      "start_char": 68602,
+      "end_char": 68619
+    },
+    {
+      "text": "Section 18",
+      "label": "PROVISION",
+      "start_char": 68693,
+      "end_char": 68703
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 68711,
+      "end_char": 68714
+    },
+    {
+      "text": "Section 13(2) of Act 4 of 2016",
+      "label": "PROVISION",
+      "start_char": 68939,
+      "end_char": 68969
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 68977,
+      "end_char": 68980
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 69054,
+      "end_char": 69083
+    },
+    {
+      "text": "Order 43",
+      "label": "PROVISION",
+      "start_char": 69292,
+      "end_char": 69300
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 69308,
+      "end_char": 69311
+    },
+    {
+      "text": "Section 21",
+      "label": "PROVISION",
+      "start_char": 69327,
+      "end_char": 69337
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 69345,
+      "end_char": 69348
+    },
+    {
+      "text": "Section 21",
+      "label": "PROVISION",
+      "start_char": 69378,
+      "end_char": 69388
+    },
+    {
+      "text": "Section 21",
+      "label": "PROVISION",
+      "start_char": 69409,
+      "end_char": 69419
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 69955,
+      "end_char": 69958
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 70253,
+      "end_char": 70282
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 70300,
+      "end_char": 70310
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 70318,
+      "end_char": 70321
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 70366,
+      "end_char": 70376
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 70384,
+      "end_char": 70387
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 70401,
+      "end_char": 70411
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 70419,
+      "end_char": 70422
+    },
+    {
+      "text": "Chapter V",
+      "label": "PROVISION",
+      "start_char": 70460,
+      "end_char": 70469
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 70684,
+      "end_char": 70694
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 70702,
+      "end_char": 70705
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 70719,
+      "end_char": 70729
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 70824,
+      "end_char": 70875
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 71120,
+      "end_char": 71171
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 71698,
+      "end_char": 71730
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020 1996 (26 of 1996)",
+      "label": "CASE_NUMBER",
+      "start_char": 71732,
+      "end_char": 71779
+    },
+    {
+      "text": "Order XV-A",
+      "label": "PROVISION",
+      "start_char": 72383,
+      "end_char": 72393
+    },
+    {
+      "text": "Order XIV-A",
+      "label": "PROVISION",
+      "start_char": 72441,
+      "end_char": 72452
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908):",
+      "label": "STATUTE",
+      "start_char": 72482,
+      "end_char": 72524
+    },
+    {
+      "text": "proviso to sub-rule (1) of rule 1 of Order V",
+      "label": "PROVISION",
+      "start_char": 72543,
+      "end_char": 72587
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 72595,
+      "end_char": 72636
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 73410,
+      "end_char": 73420
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239",
+      "label": "PROVISION",
+      "start_char": 73428,
+      "end_char": 73449
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 73458,
+      "end_char": 73461
+    },
+    {
+      "text": "CCA, 2015",
+      "label": "STATUTE",
+      "start_char": 73695,
+      "end_char": 73704
+    },
+    {
+      "text": "CCA,. 2015",
+      "label": "STATUTE",
+      "start_char": 73854,
+      "end_char": 73864
+    },
+    {
+      "text": "Section 15(3)",
+      "label": "PROVISION",
+      "start_char": 74078,
+      "end_char": 74091
+    },
+    {
+      "text": "CCA, 2015",
+      "label": "STATUTE",
+      "start_char": 74099,
+      "end_char": 74108
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 74750,
+      "end_char": 74779
+    },
+    {
+      "text": "Shah Babulal Khimji",
+      "label": "OTHER_PERSON",
+      "start_char": 74836,
+      "end_char": 74855
+    },
+    {
+      "text": "Order 43 Rule.1",
+      "label": "PROVISION",
+      "start_char": 74979,
+      "end_char": 74994
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 75002,
+      "end_char": 75005
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 76141,
+      "end_char": 76170
+    },
+    {
+      "text": "Shah Babulal Khimji",
+      "label": "OTHER_PERSON",
+      "start_char": 76518,
+      "end_char": 76537
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 77407,
+      "end_char": 77436
+    },
+    {
+      "text": "High Court of Judicature at Madras",
+      "label": "COURT",
+      "start_char": 77610,
+      "end_char": 77644
+    },
+    {
+      "text": "Sec.107",
+      "label": "PROVISION",
+      "start_char": 78072,
+      "end_char": 78079
+    },
+    {
+      "text": "Government of India Act",
+      "label": "STATUTE",
+      "start_char": 78087,
+      "end_char": 78110
+    },
+    {
+      "text": "Sec.108",
+      "label": "PROVISION",
+      "start_char": 78241,
+      "end_char": 78248
+    },
+    {
+      "text": "Government of India Act",
+      "label": "STATUTE",
+      "start_char": 78256,
+      "end_char": 78279
+    },
+    {
+      "text": "Section 108",
+      "label": "PROVISION",
+      "start_char": 78481,
+      "end_char": 78492
+    },
+    {
+      "text": "Government of India Act",
+      "label": "STATUTE",
+      "start_char": 78500,
+      "end_char": 78523
+    },
+    {
+      "text": "1st day of February 1929",
+      "label": "DATE",
+      "start_char": 78546,
+      "end_char": 78570
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 79054,
+      "end_char": 79083
+    },
+    {
+      "text": "Section 65-B",
+      "label": "PROVISION",
+      "start_char": 79797,
+      "end_char": 79809
+    },
+    {
+      "text": "Indian Evidence Act",
+      "label": "STATUTE",
+      "start_char": 79817,
+      "end_char": 79836
+    },
+    {
+      "text": "Order 41 Rule 27(1)(a)",
+      "label": "PROVISION",
+      "start_char": 80288,
+      "end_char": 80310
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 80318,
+      "end_char": 80321
+    },
+    {
+      "text": "Order 41 Rule 27(1)(a)",
+      "label": "PROVISION",
+      "start_char": 80368,
+      "end_char": 80390
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 80394,
+      "end_char": 80397
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 80411,
+      "end_char": 80440
+    },
+    {
+      "text": "Order 41",
+      "label": "PROVISION",
+      "start_char": 80441,
+      "end_char": 80449
+    },
+    {
+      "text": "Union of India vs. Ibrahim Uddin and another, reported in 2012 (8) SCC 148",
+      "label": "PRECEDENT",
+      "start_char": 81427,
+      "end_char": 81501
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 81518,
+      "end_char": 81547
+    },
+    {
+      "text": "Order 41 Rule 27",
+      "label": "PROVISION",
+      "start_char": 81587,
+      "end_char": 81603
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 81604,
+      "end_char": 81607
+    },
+    {
+      "text": "Vide Lala Pancham",
+      "label": "OTHER_PERSON",
+      "start_char": 82303,
+      "end_char": 82320
+    },
+    {
+      "text": "Lala Pancham - AIR 1965 SC 1008)",
+      "label": "PRECEDENT",
+      "start_char": 82362,
+      "end_char": 82394
+    },
+    {
+      "text": "Vide State of U.P. Vs.",
+      "label": "PRECEDENT",
+      "start_char": 82997,
+      "end_char": 83019
+    },
+    {
+      "text": "Manbodhan Lal Srivastava (AIR 1957 SC 912)",
+      "label": "PRECEDENT",
+      "start_char": 83020,
+      "end_char": 83062
+    },
+    {
+      "text": "S.Rajagopal Vs.",
+      "label": "PRECEDENT",
+      "start_char": 83067,
+      "end_char": 83082
+    },
+    {
+      "text": "C.M.Arumugam (AIR 1969 SC 101)",
+      "label": "PRECEDENT",
+      "start_char": 83083,
+      "end_char": 83113
+    },
+    {
+      "text": "sub-rule (2)",
+      "label": "PROVISION",
+      "start_char": 83229,
+      "end_char": 83241
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 83357,
+      "end_char": 83386
+    },
+    {
+      "text": "Sections 13 and 15",
+      "label": "PROVISION",
+      "start_char": 84140,
+      "end_char": 84158
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 84162,
+      "end_char": 84165
+    },
+    {
+      "text": "CCA",
+      "label": "COURT",
+      "start_char": 84365,
+      "end_char": 84368
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 84375,
+      "end_char": 84378
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 84383,
+      "end_char": 84386
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 84526,
+      "end_char": 84529
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 84534,
+      "end_char": 84537
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 84690,
+      "end_char": 84719
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 84920,
+      "end_char": 84933
+    },
+    {
+      "text": "Sections 13 and 15",
+      "label": "PROVISION",
+      "start_char": 85120,
+      "end_char": 85138
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 85146,
+      "end_char": 85149
+    },
+    {
+      "text": "24.01.2018",
+      "label": "DATE",
+      "start_char": 85443,
+      "end_char": 85453
+    },
+    {
+      "text": "CCA",
+      "label": "ORG",
+      "start_char": 85569,
+      "end_char": 85572
+    },
+    {
+      "text": "Order 43",
+      "label": "PROVISION",
+      "start_char": 85624,
+      "end_char": 85632
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 85636,
+      "end_char": 85639
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 85643,
+      "end_char": 85653
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 85661,
+      "end_char": 85693
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 85758,
+      "end_char": 85768
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 85776,
+      "end_char": 85779
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 85833,
+      "end_char": 85846
+    },
+    {
+      "text": "Shah Babulal Khimji",
+      "label": "OTHER_PERSON",
+      "start_char": 85850,
+      "end_char": 85869
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 86044,
+      "end_char": 86073
+    },
+    {
+      "text": "Shah Babulal Khimji",
+      "label": "OTHER_PERSON",
+      "start_char": 86211,
+      "end_char": 86230
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 86259,
+      "end_char": 86272
+    },
+    {
+      "text": "Section 2(9)",
+      "label": "PROVISION",
+      "start_char": 86515,
+      "end_char": 86527
+    },
+    {
+      "text": "Shah Babulal Khimji",
+      "label": "OTHER_PERSON",
+      "start_char": 86715,
+      "end_char": 86734
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 86741,
+      "end_char": 86751
+    },
+    {
+      "text": "Order 43 Rule 1",
+      "label": "PROVISION",
+      "start_char": 87423,
+      "end_char": 87438
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239",
+      "label": "PROVISION",
+      "start_char": 87624,
+      "end_char": 87645
+    },
+    {
+      "text": "Order XLIX Rule 3",
+      "label": "PROVISION",
+      "start_char": 87764,
+      "end_char": 87781
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 87785,
+      "end_char": 87788
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 87820,
+      "end_char": 87823
+    },
+    {
+      "text": "Order XVIII",
+      "label": "PROVISION",
+      "start_char": 88102,
+      "end_char": 88113
+    },
+    {
+      "text": "Rule 7 of Order XXXIII",
+      "label": "PROVISION",
+      "start_char": 88153,
+      "end_char": 88175
+    },
+    {
+      "text": "Rule 35 of Order XLI",
+      "label": "PROVISION",
+      "start_char": 88231,
+      "end_char": 88251
+    },
+    {
+      "text": "Order XLIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 88344,
+      "end_char": 88362
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 88366,
+      "end_char": 88369
+    },
+    {
+      "text": "Order XLIX Rule 3",
+      "label": "PROVISION",
+      "start_char": 88413,
+      "end_char": 88430
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 88434,
+      "end_char": 88437
+    },
+    {
+      "text": "Rules 5, 6, 8, 9, 10, 11, 13, 14, 15 and 16 of Order XVIII",
+      "label": "PROVISION",
+      "start_char": 88439,
+      "end_char": 88497
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 88501,
+      "end_char": 88504
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 88746,
+      "end_char": 88775
+    },
+    {
+      "text": "Order XVIII",
+      "label": "PROVISION",
+      "start_char": 88790,
+      "end_char": 88801
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 88809,
+      "end_char": 88812
+    },
+    {
+      "text": "Section 104 and Order XLIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 88908,
+      "end_char": 88942
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 88946,
+      "end_char": 88949
+    },
+    {
+      "text": "Section 104",
+      "label": "PROVISION",
+      "start_char": 88991,
+      "end_char": 89002
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 89006,
+      "end_char": 89009
+    },
+    {
+      "text": "Order XLIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 89010,
+      "end_char": 89028
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 89032,
+      "end_char": 89035
+    },
+    {
+      "text": "section 104",
+      "label": "PROVISION",
+      "start_char": 89195,
+      "end_char": 89206
+    },
+    {
+      "text": "rule 10 of Order VII",
+      "label": "PROVISION",
+      "start_char": 89269,
+      "end_char": 89289
+    },
+    {
+      "text": "rule 10A of Order VII",
+      "label": "PROVISION",
+      "start_char": 89470,
+      "end_char": 89491
+    },
+    {
+      "text": "section (c)",
+      "label": "PROVISION",
+      "start_char": 89590,
+      "end_char": 89601
+    },
+    {
+      "text": "rule 9 of Order IX 35A",
+      "label": "PROVISION",
+      "start_char": 89617,
+      "end_char": 89639
+    },
+    {
+      "text": "section 92",
+      "label": "PROVISION",
+      "start_char": 89779,
+      "end_char": 89789
+    },
+    {
+      "text": "rule 13 of Order IX",
+      "label": "PROVISION",
+      "start_char": 89851,
+      "end_char": 89870
+    },
+    {
+      "text": "section 92",
+      "label": "PROVISION",
+      "start_char": 89951,
+      "end_char": 89961
+    },
+    {
+      "text": "section 95",
+      "label": "PROVISION",
+      "start_char": 90063,
+      "end_char": 90073
+    },
+    {
+      "text": "rule 21 of Order XI",
+      "label": "PROVISION",
+      "start_char": 90147,
+      "end_char": 90166
+    },
+    {
+      "text": "Section 104",
+      "label": "PROVISION",
+      "start_char": 90414,
+      "end_char": 90425
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 90429,
+      "end_char": 90432
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 90472,
+      "end_char": 90475
+    },
+    {
+      "text": "sub-rule (l) of rule 105",
+      "label": "PROVISION",
+      "start_char": 91304,
+      "end_char": 91328
+    },
+    {
+      "text": "rule 9 of Order XXII",
+      "label": "PROVISION",
+      "start_char": 91421,
+      "end_char": 91441
+    },
+    {
+      "text": "rule 10 of Order XXII",
+      "label": "PROVISION",
+      "start_char": 91564,
+      "end_char": 91585
+    },
+    {
+      "text": "rule 2 of Order XXV",
+      "label": "PROVISION",
+      "start_char": 91653,
+      "end_char": 91672
+    },
+    {
+      "text": "rule 5 or rule 7 of Order XXXIII",
+      "label": "PROVISION",
+      "start_char": 91796,
+      "end_char": 91828
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 92053,
+      "end_char": 92056
+    },
+    {
+      "text": "rule 23 or rule 23A",
+      "label": "PROVISION",
+      "start_char": 92499,
+      "end_char": 92518
+    },
+    {
+      "text": "Order XLI",
+      "label": "PROVISION",
+      "start_char": 92522,
+      "end_char": 92531
+    },
+    {
+      "text": "rule 4 of Order XLVII",
+      "label": "PROVISION",
+      "start_char": 92649,
+      "end_char": 92670
+    },
+    {
+      "text": "Shah Babulal Khimji",
+      "label": "PRECEDENT",
+      "start_char": 92715,
+      "end_char": 92734
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 92776,
+      "end_char": 92789
+    },
+    {
+      "text": "Section 104",
+      "label": "PROVISION",
+      "start_char": 92801,
+      "end_char": 92812
+    },
+    {
+      "text": "Order XLIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 92823,
+      "end_char": 92841
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 92842,
+      "end_char": 92845
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 92963,
+      "end_char": 92992
+    },
+    {
+      "text": "Section 104",
+      "label": "PROVISION",
+      "start_char": 93306,
+      "end_char": 93317
+    },
+    {
+      "text": "Rule 1",
+      "label": "PROVISION",
+      "start_char": 93371,
+      "end_char": 93377
+    },
+    {
+      "text": "Order 43, Rule 1",
+      "label": "PROVISION",
+      "start_char": 93477,
+      "end_char": 93493
+    },
+    {
+      "text": "Shah Babulal Khimji",
+      "label": "OTHER_PERSON",
+      "start_char": 93776,
+      "end_char": 93795
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 93806,
+      "end_char": 93819
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 93998,
+      "end_char": 94021
+    },
+    {
+      "text": "Section 104",
+      "label": "PROVISION",
+      "start_char": 94036,
+      "end_char": 94047
+    },
+    {
+      "text": "Shah Babulal Khimji",
+      "label": "OTHER_PERSON",
+      "start_char": 94146,
+      "end_char": 94165
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 94176,
+      "end_char": 94189
+    },
+    {
+      "text": "Section 104",
+      "label": "PROVISION",
+      "start_char": 94392,
+      "end_char": 94403
+    },
+    {
+      "text": "Order 43 Rule 1",
+      "label": "PROVISION",
+      "start_char": 94414,
+      "end_char": 94429
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 94446,
+      "end_char": 94475
+    },
+    {
+      "text": "Section 104",
+      "label": "PROVISION",
+      "start_char": 94606,
+      "end_char": 94617
+    },
+    {
+      "text": "Order 43 Rule 1",
+      "label": "PROVISION",
+      "start_char": 94628,
+      "end_char": 94643
+    },
+    {
+      "text": "Order 43 Rule 1",
+      "label": "PROVISION",
+      "start_char": 94773,
+      "end_char": 94788
+    },
+    {
+      "text": "Order 43 Rule 1",
+      "label": "PROVISION",
+      "start_char": 94999,
+      "end_char": 95014
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 95457,
+      "end_char": 95480
+    },
+    {
+      "text": "Shah Babulal Khimji",
+      "label": "OTHER_PERSON",
+      "start_char": 95628,
+      "end_char": 95647
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 95658,
+      "end_char": 95671
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 95780,
+      "end_char": 95809
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 95826,
+      "end_char": 95839
+    },
+    {
+      "text": "Order 37",
+      "label": "PROVISION",
+      "start_char": 96517,
+      "end_char": 96525
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 96534,
+      "end_char": 96557
+    },
+    {
+      "text": "Section 80",
+      "label": "PROVISION",
+      "start_char": 96796,
+      "end_char": 96806
+    },
+    {
+      "text": "Order 12 Rule 6",
+      "label": "PROVISION",
+      "start_char": 96974,
+      "end_char": 96989
+    },
+    {
+      "text": "SSction 92",
+      "label": "PROVISION",
+      "start_char": 97055,
+      "end_char": 97065
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 97073,
+      "end_char": 97096
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 97413,
+      "end_char": 97442
+    },
+    {
+      "text": "Section 10",
+      "label": "PROVISION",
+      "start_char": 97498,
+      "end_char": 97508
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 97516,
+      "end_char": 97539
+    },
+    {
+      "text": "Shah Babulal Khimji",
+      "label": "OTHER_PERSON",
+      "start_char": 97712,
+      "end_char": 97731
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 97742,
+      "end_char": 97755
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 98444,
+      "end_char": 98473
+    },
+    {
+      "text": "Section 104 and Order XLIII",
+      "label": "PROVISION",
+      "start_char": 98546,
+      "end_char": 98573
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 98581,
+      "end_char": 98584
+    },
+    {
+      "text": "Section 104",
+      "label": "PROVISION",
+      "start_char": 98879,
+      "end_char": 98890
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 98895,
+      "end_char": 98906
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 98914,
+      "end_char": 98917
+    },
+    {
+      "text": "Order XLIII Rule 1(a) to (f) and Section 104",
+      "label": "PROVISION",
+      "start_char": 99155,
+      "end_char": 99199
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 99203,
+      "end_char": 99206
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 99235,
+      "end_char": 99262
+    },
+    {
+      "text": "Section 13(1-A)",
+      "label": "PROVISION",
+      "start_char": 99451,
+      "end_char": 99466
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 99474,
+      "end_char": 99501
+    },
+    {
+      "text": "03.05.2018",
+      "label": "DATE",
+      "start_char": 99554,
+      "end_char": 99564
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 99640,
+      "end_char": 99669
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 99844,
+      "end_char": 99855
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 99863,
+      "end_char": 99892
+    },
+    {
+      "text": "29.11.2017",
+      "label": "DATE",
+      "start_char": 99932,
+      "end_char": 99942
+    },
+    {
+      "text": "Section 4 and Section 5",
+      "label": "PROVISION",
+      "start_char": 99982,
+      "end_char": 100005
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 100220,
+      "end_char": 100230
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 100825,
+      "end_char": 100854
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 100927,
+      "end_char": 100940
+    },
+    {
+      "text": "Shah Babulal Khimji",
+      "label": "OTHER_PERSON",
+      "start_char": 100956,
+      "end_char": 100975
+    },
+    {
+      "text": "Order 43 Rule 1",
+      "label": "PROVISION",
+      "start_char": 101349,
+      "end_char": 101364
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 101368,
+      "end_char": 101371
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 101413,
+      "end_char": 101423
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 101431,
+      "end_char": 101446
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 101487,
+      "end_char": 101496
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 101504,
+      "end_char": 101507
+    },
+    {
+      "text": "Section 13(1-A)",
+      "label": "PROVISION",
+      "start_char": 101523,
+      "end_char": 101538
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 101546,
+      "end_char": 101549
+    },
+    {
+      "text": "CCA",
+      "label": "STATUTE",
+      "start_char": 101644,
+      "end_char": 101647
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 101942,
+      "end_char": 101955
+    },
+    {
+      "text": "Shah Babulal Khimji",
+      "label": "OTHER_PERSON",
+      "start_char": 101991,
+      "end_char": 102010
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 102091,
+      "end_char": 102120
+    },
+    {
+      "text": "15.03.2021",
+      "label": "DATE",
+      "start_char": 102197,
+      "end_char": 102207
+    },
+    {
+      "text": "High Court, Madras",
+      "label": "COURT",
+      "start_char": 102293,
+      "end_char": 102311
+    },
+    {
+      "text": "R.SUBBIAH",
+      "label": "JUDGE",
+      "start_char": 102344,
+      "end_char": 102353
+    },
+    {
+      "text": "C.SARAVANAN",
+      "label": "JUDGE",
+      "start_char": 102361,
+      "end_char": 102372
+    },
+    {
+      "text": "O.S.A.Nos.235 and 239 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 102405,
+      "end_char": 102434
+    },
+    {
+      "text": "15.03.2021",
+      "label": "DATE",
+      "start_char": 102457,
+      "end_char": 102467
+    }
+  ],
+  "precedent_clusters": {
+    "SCC Online SC 571 (Arjun Panditrao Khotkara Vs.": [
+      "Garikapati Vs.",
+      "Hitendra Vishnu Thakur and others Vs.",
+      "Videocon International Limited Vs.",
+      "Garikapati Veeraya Vs.",
+      "Colonial Sugar Refining Company Vs.",
+      "Colonial Sugar Refining Company Vs.",
+      "Colonial Sugar Refining Company Vs.",
+      "Sadar Ali Vs.",
+      "Kapoor Imaging Private Limited Vs.",
+      "Garikapati Vs.",
+      "Videocon International Limitaed Vs.",
+      "Shah Babulal Khimji Vs.",
+      "R.V.E.Venkatachala Gounder Vs.",
+      "Dhanpat Vs.",
+      "SCC Online SC 571 (Arjun Panditrao Khotkara Vs.",
+      "Shah Babulal Khimji Vs.",
+      "Rubinetterie Bresciane Bonomi SpA Vs.",
+      "Vide State of U.P. Vs.",
+      "S.Rajagopal Vs.",
+      "Shah Babulal Khimji"
+    ],
+    "AIR 1957 SC 540": [
+      "AIR 1957 SC 540",
+      "AIR 1957 SC 540",
+      "AIR 1957 SC 540"
+    ],
+    "Irving (1905) AC 369": [
+      "Irving (1905) AC 369",
+      "Irving (1905) AC 369",
+      "(1905) AC 369"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 65- B",
+      "Indian Evidence Act, 1872",
+      "Section 65- B",
+      "Indian Evidence Act, 1872"
+    ],
+    [
+      "Section 65",
+      "Indian Evidence Act",
+      "Section 65",
+      "Indian Evidence Act"
+    ],
+    [
+      "Section 65-B",
+      "Indian Evidence Act, 1872",
+      "Section 65-B",
+      "Indian Evidence Act, 1872"
+    ],
+    [
+      "Section 65",
+      "Indian Evidence Act",
+      "Section 65",
+      "Indian Evidence Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts, Commercial Division",
+      "Section 13",
+      "Commercial Courts, Commercial Division"
+    ],
+    [
+      "Section 13",
+      "CCA",
+      "Section 13",
+      "CCA"
+    ],
+    [
+      "Section 13",
+      "CCA",
+      "Section 13",
+      "CCA"
+    ],
+    [
+      "Section 13",
+      "CCA",
+      "Section 13",
+      "CCA"
+    ],
+    [
+      "Section 13",
+      "CCA",
+      "Section 13",
+      "CCA"
+    ],
+    [
+      "Section 13",
+      "CCA",
+      "Section 13",
+      "CCA"
+    ],
+    [
+      "Section 13",
+      "CCA",
+      "Section 13",
+      "CCA"
+    ],
+    [
+      "Section 20(4)",
+      "TADA",
+      "Section 20(4)",
+      "TADA"
+    ],
+    [
+      "Section 15-Z",
+      "SEBI Act",
+      "Section 15-Z",
+      "SEBI Act"
+    ],
+    [
+      "Section 15-Z",
+      "SEBI Act",
+      "Section 15-Z",
+      "SEBI Act"
+    ],
+    [
+      "Section 96",
+      "Code of Civil Procedure",
+      "Section 96",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 100",
+      "Code of Civil Procedure",
+      "Section 100",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Sections 96 and 100",
+      "Code of Civil Procedure",
+      "Sections 96 and 100",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Sections 109 and 110",
+      "Code of Civil Procedure",
+      "Sections 109 and 110",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 96",
+      "Code of Civil O.S.A.Nos.235 and 239 of 2020",
+      "Section 96",
+      "Code of Civil O.S.A.Nos.235 and 239 of 2020"
+    ],
+    [
+      "Section 65-B",
+      "Indian Evidence Act",
+      "Section 65-B",
+      "Indian Evidence Act"
+    ],
+    [
+      "Section 4",
+      "CCA",
+      "Section 4",
+      "CCA"
+    ],
+    [
+      "Section 13",
+      "CCA",
+      "Section 13",
+      "CCA"
+    ],
+    [
+      "Section 13",
+      "CCA",
+      "Section 13",
+      "CCA"
+    ],
+    [
+      "Order 13 A",
+      "Code of Civil Procedure",
+      "Order 13 A",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 4",
+      "CCA",
+      "Section 4",
+      "CCA"
+    ],
+    [
+      "Order VII Rule 14 (4)",
+      "CPC",
+      "Order VII Rule 14 (4)",
+      "CPC"
+    ],
+    [
+      "Order IX",
+      "CPC",
+      "Order IX",
+      "CPC"
+    ],
+    [
+      "Order IX",
+      "CPC",
+      "Order IX",
+      "CPC"
+    ],
+    [
+      "order VII Rule 14",
+      "CPC",
+      "order VII Rule 14",
+      "CPC"
+    ],
+    [
+      "Order IX Rule 7",
+      "CPC",
+      "Order IX Rule 7",
+      "CPC"
+    ],
+    [
+      "Section 13",
+      "CCA",
+      "Section 13",
+      "CCA"
+    ],
+    [
+      "Order 43",
+      "CPC",
+      "Order 43",
+      "CPC"
+    ],
+    [
+      "Section 65(c)",
+      "Indian Evidence Act",
+      "Section 65(c)",
+      "Indian Evidence Act"
+    ],
+    [
+      "Section 65(c)",
+      "Evidence Act",
+      "Section 65(c)",
+      "Evidence Act"
+    ],
+    [
+      "Section 65(c)",
+      "Indian Evidence Act",
+      "Section 65(c)",
+      "Indian Evidence Act"
+    ],
+    [
+      "Section 65",
+      "Indian Evidence Act",
+      "Section 65",
+      "Indian Evidence Act"
+    ],
+    [
+      "Sections 91 or 311",
+      "CrPC",
+      "Sections 91 or 311",
+      "CrPC"
+    ],
+    [
+      "Section 165",
+      "Evidence Act",
+      "Section 165",
+      "Evidence Act"
+    ],
+    [
+      "Section 39",
+      "Evidence Act",
+      "Section 39",
+      "Evidence Act"
+    ],
+    [
+      "Section 67-C",
+      "Information Technology Act",
+      "Section 67-C",
+      "Information Technology Act"
+    ],
+    [
+      "Section 13",
+      "CCA",
+      "Section 13",
+      "CCA"
+    ],
+    [
+      "Section 13",
+      "CCA",
+      "Section 13",
+      "CCA"
+    ],
+    [
+      "Section 8",
+      "CCA, 2015",
+      "Section 8",
+      "CCA, 2015"
+    ],
+    [
+      "Section 8",
+      "CCA",
+      "Section 8",
+      "CCA"
+    ],
+    [
+      "Section 13(1) and 13(1-A)",
+      "CCA",
+      "Section 13(1) and 13(1-A)",
+      "CCA"
+    ],
+    [
+      "proviso to Section 13(1) and 13 (1-A)",
+      "CCA",
+      "proviso to Section 13(1) and 13 (1-A)",
+      "CCA"
+    ],
+    [
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "Order XLIII",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)"
+    ],
+    [
+      "Order 43 Rule 1",
+      "CPC",
+      "Order 43 Rule 1",
+      "CPC"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 8",
+      "CCA",
+      "Section 8",
+      "CCA"
+    ],
+    [
+      "Section 13(1-A)",
+      "CCA",
+      "Section 13(1-A)",
+      "CCA"
+    ],
+    [
+      "Section 18",
+      "CCA",
+      "Section 18",
+      "CCA"
+    ],
+    [
+      "Sections 13(1-A) and 15(3)",
+      "CCA",
+      "Sections 13(1-A) and 15(3)",
+      "CCA"
+    ],
+    [
+      "Section 15(3)",
+      "CCA, 2015",
+      "Section 15(3)",
+      "CCA, 2015"
+    ],
+    [
+      "Order 41 Rule 27-1-A",
+      "CPC",
+      "Order 41 Rule 27-1-A",
+      "CPC"
+    ],
+    [
+      "Section 65",
+      "Indian Evidence Act",
+      "Section 65",
+      "Indian Evidence Act"
+    ],
+    [
+      "Section 65(a),(c) and (d)",
+      "Indian Evidence Act",
+      "Section 65(a),(c) and (d)",
+      "Indian Evidence Act"
+    ],
+    [
+      "Section 65(a),(c) and (d)",
+      "Indian Evidence Act",
+      "Section 65(a),(c) and (d)",
+      "Indian Evidence Act"
+    ],
+    [
+      "Section 65",
+      "Evidence Act",
+      "Section 65",
+      "Evidence Act"
+    ],
+    [
+      "sub-clause of Section 65",
+      "Indian Evidence Act",
+      "sub-clause of Section 65",
+      "Indian Evidence Act"
+    ],
+    [
+      "Section 65(c)",
+      "Indian Evidence Act",
+      "Section 65(c)",
+      "Indian Evidence Act"
+    ],
+    [
+      "Section 13",
+      "CCA",
+      "Section 13",
+      "CCA"
+    ],
+    [
+      "Section 13",
+      "CCA Act",
+      "Section 13",
+      "CCA Act"
+    ],
+    [
+      "Section 13",
+      "CCA",
+      "Section 13",
+      "CCA"
+    ],
+    [
+      "Order XLIII",
+      "Code of civil Procedure, 1908 (5 of 1908)",
+      "Order XLIII",
+      "Code of civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996) (2)",
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996) (2)"
+    ],
+    [
+      "Section 13",
+      "CCA",
+      "Section 13",
+      "CCA"
+    ],
+    [
+      "proviso to Sections 13(1) and 13(1-A)",
+      "CCA",
+      "proviso to Sections 13(1) and 13(1-A)",
+      "CCA"
+    ],
+    [
+      "i) Order 43",
+      "CPC",
+      "i) Order 43",
+      "CPC"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 15 (1)",
+      "CCA, 2015",
+      "Section 15 (1)",
+      "CCA, 2015"
+    ],
+    [
+      "Order 43 Rule 1",
+      "CPC",
+      "Order 43 Rule 1",
+      "CPC"
+    ],
+    [
+      "Section 8",
+      "CCA",
+      "Section 8",
+      "CCA"
+    ],
+    [
+      "Section 8",
+      "CCA",
+      "Section 8",
+      "CCA"
+    ],
+    [
+      "Section 13",
+      "CCA",
+      "Section 13",
+      "CCA"
+    ],
+    [
+      "Sections 8 and 13(1-A)",
+      "CCA",
+      "Sections 8 and 13(1-A)",
+      "CCA"
+    ],
+    [
+      "Section 18",
+      "CCA",
+      "Section 18",
+      "CCA"
+    ],
+    [
+      "Section 13(2) of Act 4 of 2016",
+      "CCA",
+      "Section 13(2) of Act 4 of 2016",
+      "CCA"
+    ],
+    [
+      "Order 43",
+      "CPC",
+      "Order 43",
+      "CPC"
+    ],
+    [
+      "Section 21",
+      "CCA",
+      "Section 21",
+      "CCA"
+    ],
+    [
+      "Section 13",
+      "CCA",
+      "Section 13",
+      "CCA"
+    ],
+    [
+      "Section 13",
+      "CCA",
+      "Section 13",
+      "CCA"
+    ],
+    [
+      "Section 15",
+      "CCA",
+      "Section 15",
+      "CCA"
+    ],
+    [
+      "Section 15",
+      "CCA",
+      "Section 15",
+      "CCA"
+    ],
+    [
+      "Order XIV-A",
+      "Code of Civil Procedure, 1908 (5 of 1908):",
+      "Order XIV-A",
+      "Code of Civil Procedure, 1908 (5 of 1908):"
+    ],
+    [
+      "proviso to sub-rule (1) of rule 1 of Order V",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "proviso to sub-rule (1) of rule 1 of Order V",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "O.S.A.Nos.235 and 239",
+      "CCA",
+      "O.S.A.Nos.235 and 239",
+      "CCA"
+    ],
+    [
+      "Section 15",
+      "CCA, 2015",
+      "Section 15",
+      "CCA, 2015"
+    ],
+    [
+      "Section 15(3)",
+      "CCA, 2015",
+      "Section 15(3)",
+      "CCA, 2015"
+    ],
+    [
+      "Order 43 Rule.1",
+      "CPC",
+      "Order 43 Rule.1",
+      "CPC"
+    ],
+    [
+      "Sec.107",
+      "Government of India Act",
+      "Sec.107",
+      "Government of India Act"
+    ],
+    [
+      "Sec.108",
+      "Government of India Act",
+      "Sec.108",
+      "Government of India Act"
+    ],
+    [
+      "Section 108",
+      "Government of India Act",
+      "Section 108",
+      "Government of India Act"
+    ],
+    [
+      "Section 65-B",
+      "Indian Evidence Act",
+      "Section 65-B",
+      "Indian Evidence Act"
+    ],
+    [
+      "Order 41 Rule 27(1)(a)",
+      "CPC",
+      "Order 41 Rule 27(1)(a)",
+      "CPC"
+    ],
+    [
+      "Order 41 Rule 27(1)(a)",
+      "CPC",
+      "Order 41 Rule 27(1)(a)",
+      "CPC"
+    ],
+    [
+      "Order 41 Rule 27",
+      "CPC",
+      "Order 41 Rule 27",
+      "CPC"
+    ],
+    [
+      "Sections 13 and 15",
+      "CCA",
+      "Sections 13 and 15",
+      "CCA"
+    ],
+    [
+      "Sections 13 and 15",
+      "CCA",
+      "Sections 13 and 15",
+      "CCA"
+    ],
+    [
+      "Order 43",
+      "CPC",
+      "Order 43",
+      "CPC"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act",
+      "Section 37",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 13",
+      "CCA",
+      "Section 13",
+      "CCA"
+    ],
+    [
+      "Order XLIX Rule 3",
+      "CPC",
+      "Order XLIX Rule 3",
+      "CPC"
+    ],
+    [
+      "Order XLIII Rule 1",
+      "CPC",
+      "Order XLIII Rule 1",
+      "CPC"
+    ],
+    [
+      "Order XLIX Rule 3",
+      "CPC",
+      "Order XLIX Rule 3",
+      "CPC"
+    ],
+    [
+      "Rules 5, 6, 8, 9, 10, 11, 13, 14, 15 and 16 of Order XVIII",
+      "CPC",
+      "Rules 5, 6, 8, 9, 10, 11, 13, 14, 15 and 16 of Order XVIII",
+      "CPC"
+    ],
+    [
+      "Order XVIII",
+      "CPC",
+      "Order XVIII",
+      "CPC"
+    ],
+    [
+      "Section 104 and Order XLIII Rule 1",
+      "CPC",
+      "Section 104 and Order XLIII Rule 1",
+      "CPC"
+    ],
+    [
+      "Section 104",
+      "CPC",
+      "Section 104",
+      "CPC"
+    ],
+    [
+      "Order XLIII Rule 1",
+      "CPC",
+      "Order XLIII Rule 1",
+      "CPC"
+    ],
+    [
+      "Section 104",
+      "CPC",
+      "Section 104",
+      "CPC"
+    ],
+    [
+      "Order XLIII Rule 1",
+      "CPC",
+      "Order XLIII Rule 1",
+      "CPC"
+    ],
+    [
+      "Order 37",
+      "Code of Civil Procedure",
+      "Order 37",
+      "Code of Civil Procedure"
+    ],
+    [
+      "SSction 92",
+      "Code of Civil Procedure",
+      "SSction 92",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 10",
+      "Code of Civil Procedure",
+      "Section 10",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 104 and Order XLIII",
+      "CPC",
+      "Section 104 and Order XLIII",
+      "CPC"
+    ],
+    [
+      "Order XLIII",
+      "CPC",
+      "Order XLIII",
+      "CPC"
+    ],
+    [
+      "Order XLIII Rule 1(a) to (f) and Section 104",
+      "CPC",
+      "Order XLIII Rule 1(a) to (f) and Section 104",
+      "CPC"
+    ],
+    [
+      "Section 13(1-A)",
+      "Commercial Courts Act, 2015",
+      "Section 13(1-A)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Order XLIII",
+      "Code of Civil Procedure, 1908",
+      "Order XLIII",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order 43 Rule 1",
+      "CPC",
+      "Order 43 Rule 1",
+      "CPC"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 8",
+      "CCA",
+      "Section 8",
+      "CCA"
+    ],
+    [
+      "Section 13(1-A)",
+      "CCA",
+      "Section 13(1-A)",
+      "CCA"
+    ],
+    [
+      "clause (bb) to sub- section (4) of Section 20",
+      "TADA Act",
+      "clause (bb) to sub- section (4) of Section 20",
+      "TADA Act"
+    ],
+    [
+      "clause (bb) to sub-section (4) of Section 20",
+      "TADA Act",
+      "clause (bb) to sub-section (4) of Section 20",
+      "TADA Act"
+    ],
+    [
+      "clause (bb) of sub-section (4) of Section 20",
+      "TADA Act",
+      "clause (bb) of sub-section (4) of Section 20",
+      "TADA Act"
+    ],
+    [
+      "clause (b) of Section 20(4)",
+      "TADA Act",
+      "clause (b) of Section 20(4)",
+      "TADA Act"
+    ],
+    [
+      "Section 20(4)",
+      "TADA",
+      "Section 20(4)",
+      "TADA"
+    ],
+    [
+      "Section 20(8)",
+      "TADA",
+      "Section 20(8)",
+      "TADA"
+    ],
+    [
+      "Section 20(4)",
+      "TADA",
+      "Section 20(4)",
+      "TADA"
+    ],
+    [
+      "clause (b) of Section 20(4)",
+      "TADA",
+      "clause (b) of Section 20(4)",
+      "TADA"
+    ],
+    [
+      "Section 15-Z",
+      "SEBI Act",
+      "Section 15-Z",
+      "SEBI Act"
+    ],
+    [
+      "Section 15-Z",
+      "SEBI Act",
+      "Section 15-Z",
+      "SEBI Act"
+    ],
+    [
+      "Section 96",
+      "Code of Civil Procedure",
+      "Section 96",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 96 or Section 100",
+      "Code of Civil Procedure",
+      "Section 96 or Section 100",
+      "Code of Civil Procedure"
+    ],
+    [
+      "clauses (a) to (w) of Order 43 Rule 1",
+      "CPC",
+      "clauses (a) to (w) of Order 43 Rule 1",
+      "CPC"
+    ],
+    [
+      "Section 8",
+      "CCA",
+      "Section 8",
+      "CCA"
+    ],
+    [
+      "Section 13",
+      "CCA",
+      "Section 13",
+      "CCA"
+    ],
+    [
+      "Section 65",
+      "Indian Evidence Act",
+      "Section 65",
+      "Indian Evidence Act"
+    ],
+    [
+      "Section 65",
+      "Indian Evidence Act",
+      "Section 65",
+      "Indian Evidence Act"
+    ],
+    [
+      "Section 13",
+      "CCA Act",
+      "Section 13",
+      "CCA Act"
+    ],
+    [
+      "Section 13",
+      "CCA",
+      "Section 13",
+      "CCA"
+    ],
+    [
+      "Sections 13 (1) and 13 (1A)",
+      "CCA",
+      "Sections 13 (1) and 13 (1A)",
+      "CCA"
+    ],
+    [
+      "Section 8",
+      "CCA",
+      "Section 8",
+      "CCA"
+    ],
+    [
+      "Section 13",
+      "CCA",
+      "Section 13",
+      "CCA"
+    ],
+    [
+      "Section 21",
+      "CCA",
+      "Section 21",
+      "CCA"
+    ],
+    [
+      "Section 21",
+      "CCA",
+      "Section 21",
+      "CCA"
+    ],
+    [
+      "Section 15",
+      "CCA",
+      "Section 15",
+      "CCA"
+    ],
+    [
+      "Order 43 Rule 1",
+      "CPC",
+      "Order 43 Rule 1",
+      "CPC"
+    ],
+    [
+      "O.S.A.Nos.235 and 239",
+      "CCA",
+      "O.S.A.Nos.235 and 239",
+      "CCA"
+    ],
+    [
+      "Order XVIII",
+      "CPC",
+      "Order XVIII",
+      "CPC"
+    ],
+    [
+      "section 104",
+      "CPC",
+      "section 104",
+      "CPC"
+    ],
+    [
+      "rule 10A of Order VII",
+      "CPC",
+      "rule 10A of Order VII",
+      "CPC"
+    ],
+    [
+      "section (c)",
+      "Indian Evidence Act",
+      "section (c)",
+      "Indian Evidence Act"
+    ],
+    [
+      "rule 13 of Order IX",
+      "CPC",
+      "rule 13 of Order IX",
+      "CPC"
+    ],
+    [
+      "section 92",
+      "CPC",
+      "section 92",
+      "CPC"
+    ],
+    [
+      "rule 10 of Order XXII",
+      "CPC",
+      "rule 10 of Order XXII",
+      "CPC"
+    ],
+    [
+      "rule 5 or rule 7 of Order XXXIII",
+      "CPC",
+      "rule 5 or rule 7 of Order XXXIII",
+      "CPC"
+    ],
+    [
+      "Order XLI",
+      "CPC",
+      "Order XLI",
+      "CPC"
+    ],
+    [
+      "Section 104",
+      "CPC",
+      "Section 104",
+      "CPC"
+    ],
+    [
+      "Section 104",
+      "CPC",
+      "Section 104",
+      "CPC"
+    ],
+    [
+      "Order 43, Rule 1",
+      "CPC",
+      "Order 43, Rule 1",
+      "CPC"
+    ],
+    [
+      "Section 104",
+      "CPC",
+      "Section 104",
+      "CPC"
+    ],
+    [
+      "Section 104",
+      "CPC",
+      "Section 104",
+      "CPC"
+    ],
+    [
+      "Order 43 Rule 1",
+      "CPC",
+      "Order 43 Rule 1",
+      "CPC"
+    ],
+    [
+      "Section 104",
+      "CPC",
+      "Section 104",
+      "CPC"
+    ],
+    [
+      "Order 43 Rule 1",
+      "CPC",
+      "Order 43 Rule 1",
+      "CPC"
+    ],
+    [
+      "Order 43 Rule 1",
+      "CPC",
+      "Order 43 Rule 1",
+      "CPC"
+    ],
+    [
+      "Order 43 Rule 1",
+      "CPC",
+      "Order 43 Rule 1",
+      "CPC"
+    ],
+    [
+      "Section 104",
+      "CPC",
+      "Section 104",
+      "CPC"
+    ],
+    [
+      "Section 4 and Section 5",
+      "CCA",
+      "Section 4 and Section 5",
+      "CCA"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act, 2015",
+      "Section 13",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Part VI, Section 1",
+      "CCA",
+      "Part VI, Section 1",
+      "CCA"
+    ],
+    [
+      "scenario (iv)",
+      "CCA",
+      "scenario (iv)",
+      "CCA"
+    ],
+    [
+      "Scenarios (ii) and (iii)",
+      "CCA",
+      "Scenarios (ii) and (iii)",
+      "CCA"
+    ],
+    [
+      "sub-s. (2) of S.2",
+      "Code of Civil Procedure",
+      "sub-s. (2) of S.2",
+      "Code of Civil Procedure"
+    ],
+    [
+      "O.43 R.1",
+      "Code of Civil Procedure",
+      "O.43 R.1",
+      "Code of Civil Procedure"
+    ],
+    [
+      "section 66",
+      "Indian Evidence Act",
+      "section 66",
+      "Indian Evidence Act"
+    ],
+    [
+      "Order 36 Rule 1",
+      "CPC",
+      "Order 36 Rule 1",
+      "CPC"
+    ],
+    [
+      "Chapter V",
+      "CCA",
+      "Chapter V",
+      "CCA"
+    ],
+    [
+      "Order XV-A",
+      "Arbitration and Conciliation Act",
+      "Order XV-A",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Order 41",
+      "CPC",
+      "Order 41",
+      "CPC"
+    ],
+    [
+      "sub-rule (2)",
+      "CPC",
+      "sub-rule (2)",
+      "CPC"
+    ],
+    [
+      "Section 2(9)",
+      "CCA",
+      "Section 2(9)",
+      "CCA"
+    ],
+    [
+      "Rule 7 of Order XXXIII",
+      "CPC",
+      "Rule 7 of Order XXXIII",
+      "CPC"
+    ],
+    [
+      "Rule 35 of Order XLI",
+      "CPC",
+      "Rule 35 of Order XLI",
+      "CPC"
+    ],
+    [
+      "rule 10 of Order VII",
+      "CPC",
+      "rule 10 of Order VII",
+      "CPC"
+    ],
+    [
+      "rule 9 of Order IX 35A",
+      "CPC",
+      "rule 9 of Order IX 35A",
+      "CPC"
+    ],
+    [
+      "section 92",
+      "CPC",
+      "section 92",
+      "CPC"
+    ],
+    [
+      "section 95",
+      "CPC",
+      "section 95",
+      "CPC"
+    ],
+    [
+      "rule 21 of Order XI",
+      "CPC",
+      "rule 21 of Order XI",
+      "CPC"
+    ],
+    [
+      "sub-rule (l) of rule 105",
+      "CPC",
+      "sub-rule (l) of rule 105",
+      "CPC"
+    ],
+    [
+      "rule 9 of Order XXII",
+      "CPC",
+      "rule 9 of Order XXII",
+      "CPC"
+    ],
+    [
+      "rule 2 of Order XXV",
+      "CPC",
+      "rule 2 of Order XXV",
+      "CPC"
+    ],
+    [
+      "rule 23 or rule 23A",
+      "CPC",
+      "rule 23 or rule 23A",
+      "CPC"
+    ],
+    [
+      "rule 4 of Order XLVII",
+      "CPC",
+      "rule 4 of Order XLVII",
+      "CPC"
+    ],
+    [
+      "Rule 1",
+      "CPC",
+      "Rule 1",
+      "CPC"
+    ],
+    [
+      "Section 80",
+      "Code of Civil Procedure",
+      "Section 80",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Order 12 Rule 6",
+      "Code of Civil Procedure",
+      "Order 12 Rule 6",
+      "Code of Civil Procedure"
+    ]
+  ],
+  "precedent_counts": {
+    "SCC Online SC 571 (Arjun Panditrao Khotkara Vs.": 20,
+    "AIR 1957 SC 540": 3,
+    "Irving (1905) AC 369": 3
+  },
+  "provision_counts": {
+    "Section 65- B of Indian Evidence Act, 1872": 1,
+    "Section 65 of Indian Evidence Act": 6,
+    "Section 65-B of Indian Evidence Act, 1872": 1,
+    "Section 13 of Commercial Courts, Commercial Division": 1,
+    "Section 13 of CCA": 21,
+    "Section 20(4) of TADA": 3,
+    "Section 15-Z of SEBI Act": 4,
+    "Section 96 of Code of Civil Procedure": 2,
+    "Section 100 of Code of Civil Procedure": 1,
+    "Sections 96 and 100 of Code of Civil Procedure": 1,
+    "Sections 109 and 110 of Code of Civil Procedure": 1,
+    "Section 96 of Code of Civil O.S.A.Nos.235 and 239 of 2020": 1,
+    "Section 65-B of Indian Evidence Act": 2,
+    "Section 4 of CCA": 2,
+    "Order 13 A of Code of Civil Procedure": 1,
+    "Order VII Rule 14 (4) of CPC": 1,
+    "Order IX of CPC": 2,
+    "order VII Rule 14 of CPC": 1,
+    "Order IX Rule 7 of CPC": 1,
+    "Order 43 of CPC": 3,
+    "Section 65(c) of Indian Evidence Act": 3,
+    "Section 65(c) of Evidence Act": 1,
+    "Sections 91 or 311 of CrPC": 1,
+    "Section 165 of Evidence Act": 1,
+    "Section 39 of Evidence Act": 1,
+    "Section 67-C of Information Technology Act": 1,
+    "Section 8 of CCA, 2015": 1,
+    "Section 8 of CCA": 7,
+    "Section 13(1) and 13(1-A) of CCA": 1,
+    "proviso to Section 13(1) and 13 (1-A) of CCA": 1,
+    "Order XLIII of Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Section 37 of Arbitration and Conciliation Act, 1996 (26 of 1996)": 1,
+    "Order 43 Rule 1 of CPC": 8,
+    "Section 37 of Arbitration Act": 2,
+    "Section 13(1-A) of CCA": 2,
+    "Section 18 of CCA": 2,
+    "Sections 13(1-A) and 15(3) of CCA": 1,
+    "Section 15(3) of CCA, 2015": 2,
+    "Order 41 Rule 27-1-A of CPC": 1,
+    "Section 65(a),(c) and (d) of Indian Evidence Act": 2,
+    "Section 65 of Evidence Act": 1,
+    "sub-clause of Section 65 of Indian Evidence Act": 1,
+    "Section 13 of CCA Act": 2,
+    "Order XLIII of Code of civil Procedure, 1908 (5 of 1908)": 1,
+    "Section 37 of Arbitration and Conciliation Act, 1996 (26 of 1996) (2)": 1,
+    "proviso to Sections 13(1) and 13(1-A) of CCA": 1,
+    "i) Order 43 of CPC": 1,
+    "Section 37 of Arbitration and Conciliation Act, 1996": 1,
+    "Section 15 (1) of CCA, 2015": 1,
+    "Sections 8 and 13(1-A) of CCA": 1,
+    "Section 13(2) of Act 4 of 2016 of CCA": 1,
+    "Section 21 of CCA": 3,
+    "Section 15 of CCA": 3,
+    "Order XIV-A of Code of Civil Procedure, 1908 (5 of 1908):": 1,
+    "proviso to sub-rule (1) of rule 1 of Order V of Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "O.S.A.Nos.235 and 239 of CCA": 2,
+    "Section 15 of CCA, 2015": 1,
+    "Order 43 Rule.1 of CPC": 1,
+    "Sec.107 of Government of India Act": 1,
+    "Sec.108 of Government of India Act": 1,
+    "Section 108 of Government of India Act": 1,
+    "Order 41 Rule 27(1)(a) of CPC": 2,
+    "Order 41 Rule 27 of CPC": 1,
+    "Sections 13 and 15 of CCA": 2,
+    "Section 37 of Arbitration and Conciliation Act": 1,
+    "Order XLIX Rule 3 of CPC": 2,
+    "Order XLIII Rule 1 of CPC": 3,
+    "Rules 5, 6, 8, 9, 10, 11, 13, 14, 15 and 16 of Order XVIII of CPC": 1,
+    "Order XVIII of CPC": 2,
+    "Section 104 and Order XLIII Rule 1 of CPC": 1,
+    "Section 104 of CPC": 8,
+    "Order 37 of Code of Civil Procedure": 1,
+    "SSction 92 of Code of Civil Procedure": 1,
+    "Section 10 of Code of Civil Procedure": 1,
+    "Section 104 and Order XLIII of CPC": 1,
+    "Order XLIII of CPC": 1,
+    "Order XLIII Rule 1(a) to (f) and Section 104 of CPC": 1,
+    "Section 13(1-A) of Commercial Courts Act, 2015": 1,
+    "Order XLIII of Code of Civil Procedure, 1908": 1,
+    "clause (bb) to sub- section (4) of Section 20 of TADA Act": 1,
+    "clause (bb) to sub-section (4) of Section 20 of TADA Act": 1,
+    "clause (bb) of sub-section (4) of Section 20 of TADA Act": 1,
+    "clause (b) of Section 20(4) of TADA Act": 1,
+    "Section 20(8) of TADA": 1,
+    "clause (b) of Section 20(4) of TADA": 1,
+    "Section 96 or Section 100 of Code of Civil Procedure": 1,
+    "clauses (a) to (w) of Order 43 Rule 1 of CPC": 1,
+    "Sections 13 (1) and 13 (1A) of CCA": 1,
+    "section 104 of CPC": 1,
+    "rule 10A of Order VII of CPC": 1,
+    "section (c) of Indian Evidence Act": 1,
+    "rule 13 of Order IX of CPC": 1,
+    "section 92 of CPC": 2,
+    "rule 10 of Order XXII of CPC": 1,
+    "rule 5 or rule 7 of Order XXXIII of CPC": 1,
+    "Order XLI of CPC": 1,
+    "Order 43, Rule 1 of CPC": 1,
+    "Section 4 and Section 5 of CCA": 1,
+    "Section 13 of Commercial Courts Act, 2015": 1,
+    "Part VI, Section 1 of CCA": 1,
+    "scenario (iv) of CCA": 1,
+    "Scenarios (ii) and (iii) of CCA": 1,
+    "sub-s. (2) of S.2 of Code of Civil Procedure": 1,
+    "O.43 R.1 of Code of Civil Procedure": 1,
+    "section 66 of Indian Evidence Act": 1,
+    "Order 36 Rule 1 of CPC": 1,
+    "Chapter V of CCA": 1,
+    "Order XV-A of Arbitration and Conciliation Act": 1,
+    "Order 41 of CPC": 1,
+    "sub-rule (2) of CPC": 1,
+    "Section 2(9) of CCA": 1,
+    "Rule 7 of Order XXXIII of CPC": 1,
+    "Rule 35 of Order XLI of CPC": 1,
+    "rule 10 of Order VII of CPC": 1,
+    "rule 9 of Order IX 35A of CPC": 1,
+    "section 95 of CPC": 1,
+    "rule 21 of Order XI of CPC": 1,
+    "sub-rule (l) of rule 105 of CPC": 1,
+    "rule 9 of Order XXII of CPC": 1,
+    "rule 2 of Order XXV of CPC": 1,
+    "rule 23 or rule 23A of CPC": 1,
+    "rule 4 of Order XLVII of CPC": 1,
+    "Rule 1 of CPC": 1,
+    "Section 80 of Code of Civil Procedure": 1,
+    "Order 12 Rule 6 of Code of Civil Procedure": 1
+  },
+  "statute_counts": {
+    "Indian Evidence Act, 1872": 2,
+    "Indian Evidence Act": 16,
+    "Commercial Courts, Commercial Division": 1,
+    "CCA": 57,
+    "TADA": 5,
+    "SEBI Act": 4,
+    "Code of Civil Procedure": 14,
+    "Code of Civil O.S.A.Nos.235 and 239 of 2020": 1,
+    "CPC": 67,
+    "Evidence Act": 4,
+    "CrPC": 1,
+    "Information Technology Act": 1,
+    "CCA, 2015": 5,
+    "Code of Civil Procedure, 1908 (5 of 1908)": 2,
+    "Arbitration and Conciliation Act, 1996 (26 of 1996)": 1,
+    "Arbitration Act": 2,
+    "CCA Act": 2,
+    "Code of civil Procedure, 1908 (5 of 1908)": 1,
+    "Arbitration and Conciliation Act, 1996 (26 of 1996) (2)": 1,
+    "Arbitration and Conciliation Act, 1996": 1,
+    "Code of Civil Procedure, 1908 (5 of 1908):": 1,
+    "Government of India Act": 3,
+    "Arbitration and Conciliation Act": 2,
+    "Commercial Courts Act, 2015": 2,
+    "Code of Civil Procedure, 1908": 1,
+    "TADA Act": 4
+  }
+}

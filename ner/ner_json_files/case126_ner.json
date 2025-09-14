@@ -1,0 +1,4282 @@
+{
+  "entities": [
+    {
+      "text": "Karan Paper Mills",
+      "label": "PETITIONER",
+      "start_char": 23,
+      "end_char": 40
+    },
+    {
+      "text": "Shah Paper Pack Industries",
+      "label": "RESPONDENT",
+      "start_char": 48,
+      "end_char": 74
+    },
+    {
+      "text": "11 November, 2022",
+      "label": "DATE",
+      "start_char": 78,
+      "end_char": 95
+    },
+    {
+      "text": "Sonia Gokani",
+      "label": "JUDGE",
+      "start_char": 104,
+      "end_char": 116
+    },
+    {
+      "text": "Sonia Gokani",
+      "label": "JUDGE",
+      "start_char": 124,
+      "end_char": 136
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 207,
+      "end_char": 217
+    },
+    {
+      "text": "HIGH COURT OF GUJARAT AT AHMEDABAD",
+      "label": "COURT",
+      "start_char": 240,
+      "end_char": 274
+    },
+    {
+      "text": "NO. 21687 of 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 319,
+      "end_char": 336
+    },
+    {
+      "text": "SONIA GOKANI",
+      "label": "JUDGE",
+      "start_char": 388,
+      "end_char": 400
+    },
+    {
+      "text": "NISHA M. THAKORE",
+      "label": "JUDGE",
+      "start_char": 428,
+      "end_char": 444
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 1021,
+      "end_char": 1033
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 1060,
+      "end_char": 1065
+    },
+    {
+      "text": "KARAN PAPER MILLS",
+      "label": "PETITIONER",
+      "start_char": 1219,
+      "end_char": 1236
+    },
+    {
+      "text": "SHAH PAPER PACK INDUSTRIES",
+      "label": "RESPONDENT",
+      "start_char": 1307,
+      "end_char": 1333
+    },
+    {
+      "text": "ANSIN DESAI",
+      "label": "OTHER_PERSON",
+      "start_char": 1464,
+      "end_char": 1475
+    },
+    {
+      "text": "NIRAV THAKKAR",
+      "label": "OTHER_PERSON",
+      "start_char": 1538,
+      "end_char": 1551
+    },
+    {
+      "text": "DIGANT M POPAT(5385",
+      "label": "OTHER_PERSON",
+      "start_char": 1560,
+      "end_char": 1579
+    },
+    {
+      "text": "SONIA GOKANI",
+      "label": "JUDGE",
+      "start_char": 1730,
+      "end_char": 1742
+    },
+    {
+      "text": "NISHA M. THAKORE",
+      "label": "JUDGE",
+      "start_char": 1790,
+      "end_char": 1806
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 1837,
+      "end_char": 1847
+    },
+    {
+      "text": "JUSTICE SONIA GOKANI",
+      "label": "OTHER_PERSON",
+      "start_char": 1906,
+      "end_char": 1926
+    },
+    {
+      "text": "10.08.2022",
+      "label": "DATE",
+      "start_char": 2007,
+      "end_char": 2017
+    },
+    {
+      "text": "City Civil Court, Ahmedabad",
+      "label": "COURT",
+      "start_char": 2060,
+      "end_char": 2087
+    },
+    {
+      "text": "C/SCA/21687/2022 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 2108,
+      "end_char": 2137
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 2145,
+      "end_char": 2155
+    },
+    {
+      "text": "Application No. 167 of 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 2156,
+      "end_char": 2183
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 2196,
+      "end_char": 2206
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 2214,
+      "end_char": 2252
+    },
+    {
+      "text": "09.06.2022",
+      "label": "DATE",
+      "start_char": 2292,
+      "end_char": 2302
+    },
+    {
+      "text": "High Court of Gujarat",
+      "label": "COURT",
+      "start_char": 2358,
+      "end_char": 2379
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 2464,
+      "end_char": 2474
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 2482,
+      "end_char": 2514
+    },
+    {
+      "text": "No. A-058 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 2569,
+      "end_char": 2586
+    },
+    {
+      "text": "Section 18(3)",
+      "label": "PROVISION",
+      "start_char": 2696,
+      "end_char": 2709
+    },
+    {
+      "text": "Micro, Small and Medium Enterprise Development Act, 2006",
+      "label": "STATUTE",
+      "start_char": 2717,
+      "end_char": 2773
+    },
+    {
+      "text": "MSME Act",
+      "label": "STATUTE",
+      "start_char": 2775,
+      "end_char": 2783
+    },
+    {
+      "text": "Section 19",
+      "label": "PROVISION",
+      "start_char": 2924,
+      "end_char": 2934
+    },
+    {
+      "text": "MSME Act",
+      "label": "STATUTE",
+      "start_char": 2942,
+      "end_char": 2950
+    },
+    {
+      "text": "Article 226/227",
+      "label": "PROVISION",
+      "start_char": 3119,
+      "end_char": 3134
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 3142,
+      "end_char": 3163
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 3220,
+      "end_char": 3230
+    },
+    {
+      "text": "C/SCA/21687/2022 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 3349,
+      "end_char": 3378
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 3386,
+      "end_char": 3396
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 3428,
+      "end_char": 3438
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 3456,
+      "end_char": 3466
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 3607,
+      "end_char": 3617
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 3808,
+      "end_char": 3818
+    },
+    {
+      "text": "30.09.2013",
+      "label": "DATE",
+      "start_char": 4291,
+      "end_char": 4301
+    },
+    {
+      "text": "19.10.2013",
+      "label": "DATE",
+      "start_char": 4303,
+      "end_char": 4313
+    },
+    {
+      "text": "21.01.2013",
+      "label": "DATE",
+      "start_char": 4318,
+      "end_char": 4328
+    },
+    {
+      "text": "09.11.2013",
+      "label": "DATE",
+      "start_char": 4333,
+      "end_char": 4343
+    },
+    {
+      "text": "C/SCA/21687/2022 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 4476,
+      "end_char": 4505
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 4513,
+      "end_char": 4523
+    },
+    {
+      "text": "2.1",
+      "label": "DATE",
+      "start_char": 4524,
+      "end_char": 4527
+    },
+    {
+      "text": "09.11.2013",
+      "label": "DATE",
+      "start_char": 4705,
+      "end_char": 4715
+    },
+    {
+      "text": "08.01.2014",
+      "label": "DATE",
+      "start_char": 4792,
+      "end_char": 4802
+    },
+    {
+      "text": "Micro and Small Enterprise Facilitation Council (MSEFC Council)",
+      "label": "ORG",
+      "start_char": 4889,
+      "end_char": 4952
+    },
+    {
+      "text": "29.09.2017",
+      "label": "DATE",
+      "start_char": 4956,
+      "end_char": 4966
+    },
+    {
+      "text": "MSEFC Council",
+      "label": "ORG",
+      "start_char": 4987,
+      "end_char": 5000
+    },
+    {
+      "text": "Section 18(2)",
+      "label": "PROVISION",
+      "start_char": 5047,
+      "end_char": 5060
+    },
+    {
+      "text": "MSME Act",
+      "label": "STATUTE",
+      "start_char": 5068,
+      "end_char": 5076
+    },
+    {
+      "text": "31.03.2017",
+      "label": "DATE",
+      "start_char": 5312,
+      "end_char": 5322
+    },
+    {
+      "text": "MSEFC Council",
+      "label": "ORG",
+      "start_char": 5350,
+      "end_char": 5363
+    },
+    {
+      "text": "26.10.2017",
+      "label": "DATE",
+      "start_char": 5462,
+      "end_char": 5472
+    },
+    {
+      "text": "20.01.2018",
+      "label": "DATE",
+      "start_char": 5539,
+      "end_char": 5549
+    },
+    {
+      "text": ",",
+      "label": "DATE",
+      "start_char": 5549,
+      "end_char": 5550
+    },
+    {
+      "text": "24.05.2018",
+      "label": "DATE",
+      "start_char": 5551,
+      "end_char": 5561
+    },
+    {
+      "text": ",",
+      "label": "DATE",
+      "start_char": 5561,
+      "end_char": 5562
+    },
+    {
+      "text": "24.07.2018",
+      "label": "DATE",
+      "start_char": 5563,
+      "end_char": 5573
+    },
+    {
+      "text": ",",
+      "label": "DATE",
+      "start_char": 5573,
+      "end_char": 5574
+    },
+    {
+      "text": "30.07.2018",
+      "label": "DATE",
+      "start_char": 5575,
+      "end_char": 5585
+    },
+    {
+      "text": "MSEFC Council",
+      "label": "ORG",
+      "start_char": 5628,
+      "end_char": 5641
+    },
+    {
+      "text": "11.09.2018",
+      "label": "DATE",
+      "start_char": 5706,
+      "end_char": 5716
+    },
+    {
+      "text": "Gujarat Chamber of Commerce and Industry",
+      "label": "ORG",
+      "start_char": 5745,
+      "end_char": 5785
+    },
+    {
+      "text": "Section 18(3)",
+      "label": "PROVISION",
+      "start_char": 5792,
+      "end_char": 5805
+    },
+    {
+      "text": "MSME Act",
+      "label": "STATUTE",
+      "start_char": 5813,
+      "end_char": 5821
+    },
+    {
+      "text": "C/SCA/21687/2022 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 5824,
+      "end_char": 5853
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 5861,
+      "end_char": 5871
+    },
+    {
+      "text": "2.2",
+      "label": "DATE",
+      "start_char": 5872,
+      "end_char": 5875
+    },
+    {
+      "text": "Gujarat Chamber of Commerce and Industry",
+      "label": "ORG",
+      "start_char": 5881,
+      "end_char": 5921
+    },
+    {
+      "text": "19.06.2019",
+      "label": "DATE",
+      "start_char": 5956,
+      "end_char": 5966
+    },
+    {
+      "text": "Gujarat Chamber of Commerce and Industry",
+      "label": "ORG",
+      "start_char": 6141,
+      "end_char": 6181
+    },
+    {
+      "text": "21.08.2021",
+      "label": "DATE",
+      "start_char": 6208,
+      "end_char": 6218
+    },
+    {
+      "text": "27.08.2021",
+      "label": "DATE",
+      "start_char": 6383,
+      "end_char": 6393
+    },
+    {
+      "text": "15.09.2021",
+      "label": "DATE",
+      "start_char": 6419,
+      "end_char": 6429
+    },
+    {
+      "text": "09.10.2021",
+      "label": "DATE",
+      "start_char": 6503,
+      "end_char": 6513
+    },
+    {
+      "text": "09.10.2021",
+      "label": "DATE",
+      "start_char": 6533,
+      "end_char": 6543
+    },
+    {
+      "text": "31.10.2021",
+      "label": "DATE",
+      "start_char": 6851,
+      "end_char": 6861
+    },
+    {
+      "text": "C/SCA/21687/2022 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 6948,
+      "end_char": 6977
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 6985,
+      "end_char": 6995
+    },
+    {
+      "text": "04.12.2021",
+      "label": "DATE",
+      "start_char": 7097,
+      "end_char": 7107
+    },
+    {
+      "text": "18.12.2021",
+      "label": "DATE",
+      "start_char": 7150,
+      "end_char": 7160
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 7288,
+      "end_char": 7298
+    },
+    {
+      "text": "23.12.2021",
+      "label": "DATE",
+      "start_char": 7302,
+      "end_char": 7312
+    },
+    {
+      "text": "Limitation Act, 1963",
+      "label": "STATUTE",
+      "start_char": 7514,
+      "end_char": 7534
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 7657,
+      "end_char": 7667
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 7795,
+      "end_char": 7805
+    },
+    {
+      "text": "09.06.2022",
+      "label": "DATE",
+      "start_char": 7904,
+      "end_char": 7914
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 7965,
+      "end_char": 7975
+    },
+    {
+      "text": "C/SCA/21687/2022 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 8110,
+      "end_char": 8139
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 8147,
+      "end_char": 8157
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 8255,
+      "end_char": 8265
+    },
+    {
+      "text": "04.08.2022",
+      "label": "DATE",
+      "start_char": 8280,
+      "end_char": 8290
+    },
+    {
+      "text": "10.08.2022",
+      "label": "DATE",
+      "start_char": 8359,
+      "end_char": 8369
+    },
+    {
+      "text": "06.09.2022",
+      "label": "DATE",
+      "start_char": 8499,
+      "end_char": 8509
+    },
+    {
+      "text": "Commercial Civil Misc",
+      "label": "STATUTE",
+      "start_char": 8724,
+      "end_char": 8745
+    },
+    {
+      "text": "Application No. 167 of 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 8747,
+      "end_char": 8774
+    },
+    {
+      "text": "10.08.2022",
+      "label": "DATE",
+      "start_char": 9109,
+      "end_char": 9119
+    },
+    {
+      "text": "City Civil Court at Ahmedabad",
+      "label": "COURT",
+      "start_char": 9160,
+      "end_char": 9189
+    },
+    {
+      "text": "Application No. 167 of 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 9216,
+      "end_char": 9243
+    },
+    {
+      "text": "C/SCA/21687/2022 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 9420,
+      "end_char": 9449
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 9457,
+      "end_char": 9467
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 9538,
+      "end_char": 9547
+    },
+    {
+      "text": "Commercial Civil Misc",
+      "label": "STATUTE",
+      "start_char": 9580,
+      "end_char": 9601
+    },
+    {
+      "text": "Application No. 167 of 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 9603,
+      "end_char": 9630
+    },
+    {
+      "text": "Nirav Thakkar",
+      "label": "OTHER_PERSON",
+      "start_char": 9880,
+      "end_char": 9893
+    },
+    {
+      "text": "Digant Popat",
+      "label": "OTHER_PERSON",
+      "start_char": 9930,
+      "end_char": 9942
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 10165,
+      "end_char": 10176
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 10184,
+      "end_char": 10205
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 10279,
+      "end_char": 10289
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 10297,
+      "end_char": 10329
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 10463,
+      "end_char": 10473
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 10560,
+      "end_char": 10570
+    },
+    {
+      "text": "Section 2(1)(c)",
+      "label": "PROVISION",
+      "start_char": 10708,
+      "end_char": 10723
+    },
+    {
+      "text": "C/SCA/21687/2022 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 10754,
+      "end_char": 10783
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 10791,
+      "end_char": 10801
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 10877,
+      "end_char": 10887
+    },
+    {
+      "text": "Article 226",
+      "label": "PROVISION",
+      "start_char": 11126,
+      "end_char": 11137
+    },
+    {
+      "text": "Indian Farmers Fertilizer Co-operative Limited vs. Bhadra Products [2018 (0) AIJEL-SC 61552]",
+      "label": "PRECEDENT",
+      "start_char": 11247,
+      "end_char": 11339
+    },
+    {
+      "text": "Pandurang Dhondi Chougule vs. Maruti Hari Jadhav [1965(0) GLHEL-SC 20644",
+      "label": "PRECEDENT",
+      "start_char": 11345,
+      "end_char": 11417
+    },
+    {
+      "text": "Babasaheb Ambedkar Open University vs. Abhinav Knowledge Services Private Limited",
+      "label": "PRECEDENT",
+      "start_char": 11430,
+      "end_char": 11511
+    },
+    {
+      "text": "First Appeal No. 1632/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 11557,
+      "end_char": 11583
+    },
+    {
+      "text": "08.07.2019",
+      "label": "DATE",
+      "start_char": 11591,
+      "end_char": 11601
+    },
+    {
+      "text": "C/SCA/21687/2022 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 11820,
+      "end_char": 11849
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 11857,
+      "end_char": 11867
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 11886,
+      "end_char": 11896
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 11904,
+      "end_char": 11919
+    },
+    {
+      "text": "MSEFC Council",
+      "label": "ORG",
+      "start_char": 12053,
+      "end_char": 12066
+    },
+    {
+      "text": "Section 18",
+      "label": "PROVISION",
+      "start_char": 12073,
+      "end_char": 12083
+    },
+    {
+      "text": "MSME Act",
+      "label": "STATUTE",
+      "start_char": 12091,
+      "end_char": 12099
+    },
+    {
+      "text": "Anshin Desai",
+      "label": "OTHER_PERSON",
+      "start_char": 12286,
+      "end_char": 12298
+    },
+    {
+      "text": "Parth Contractor",
+      "label": "OTHER_PERSON",
+      "start_char": 12325,
+      "end_char": 12341
+    },
+    {
+      "text": "Article 226",
+      "label": "PROVISION",
+      "start_char": 12413,
+      "end_char": 12424
+    },
+    {
+      "text": "CMA",
+      "label": "COURT",
+      "start_char": 12459,
+      "end_char": 12462
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 12764,
+      "end_char": 12774
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 12846,
+      "end_char": 12856
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 13026,
+      "end_char": 13036
+    },
+    {
+      "text": "C/SCA/21687/2022 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 13044,
+      "end_char": 13073
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 13081,
+      "end_char": 13091
+    },
+    {
+      "text": "09.06.2022",
+      "label": "DATE",
+      "start_char": 13139,
+      "end_char": 13149
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 13163,
+      "end_char": 13173
+    },
+    {
+      "text": "Section 16(5)",
+      "label": "PROVISION",
+      "start_char": 13357,
+      "end_char": 13370
+    },
+    {
+      "text": "Section 16(6)",
+      "label": "PROVISION",
+      "start_char": 13381,
+      "end_char": 13394
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 13549,
+      "end_char": 13559
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 13587,
+      "end_char": 13597
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 13891,
+      "end_char": 13901
+    },
+    {
+      "text": "Section 2(ca)",
+      "label": "PROVISION",
+      "start_char": 13972,
+      "end_char": 13985
+    },
+    {
+      "text": "Section 18(3)",
+      "label": "PROVISION",
+      "start_char": 14047,
+      "end_char": 14060
+    },
+    {
+      "text": "MSME Act",
+      "label": "STATUTE",
+      "start_char": 14068,
+      "end_char": 14076
+    },
+    {
+      "text": "Section 19",
+      "label": "PROVISION",
+      "start_char": 14168,
+      "end_char": 14178
+    },
+    {
+      "text": "MSME Act",
+      "label": "STATUTE",
+      "start_char": 14186,
+      "end_char": 14194
+    },
+    {
+      "text": "C/SCA/21687/2022 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 14227,
+      "end_char": 14256
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 14264,
+      "end_char": 14274
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 14570,
+      "end_char": 14580
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 14739,
+      "end_char": 14749
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 14815,
+      "end_char": 14825
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 14951,
+      "end_char": 14961
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 15193,
+      "end_char": 15202
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 15362,
+      "end_char": 15372
+    },
+    {
+      "text": "C/SCA/21687/2022 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 15529,
+      "end_char": 15558
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 15566,
+      "end_char": 15576
+    },
+    {
+      "text": "No. A-058 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 15994,
+      "end_char": 16011
+    },
+    {
+      "text": "MSEFC Council",
+      "label": "ORG",
+      "start_char": 16284,
+      "end_char": 16297
+    },
+    {
+      "text": "29.09.2019",
+      "label": "DATE",
+      "start_char": 16301,
+      "end_char": 16311
+    },
+    {
+      "text": "Section 18(2)",
+      "label": "PROVISION",
+      "start_char": 16378,
+      "end_char": 16391
+    },
+    {
+      "text": "MSME Act",
+      "label": "STATUTE",
+      "start_char": 16399,
+      "end_char": 16407
+    },
+    {
+      "text": "MSEFC Council",
+      "label": "ORG",
+      "start_char": 16454,
+      "end_char": 16467
+    },
+    {
+      "text": "Gujarat Chamber of Commerce and Industry",
+      "label": "ORG",
+      "start_char": 16555,
+      "end_char": 16595
+    },
+    {
+      "text": "Section 18(3)",
+      "label": "PROVISION",
+      "start_char": 16602,
+      "end_char": 16615
+    },
+    {
+      "text": "MSME Act",
+      "label": "STATUTE",
+      "start_char": 16623,
+      "end_char": 16631
+    },
+    {
+      "text": "C/SCA/21687/2022 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 16707,
+      "end_char": 16736
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 16744,
+      "end_char": 16754
+    },
+    {
+      "text": "18.12.2021",
+      "label": "DATE",
+      "start_char": 17146,
+      "end_char": 17156
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 17224,
+      "end_char": 17234
+    },
+    {
+      "text": "23.12.2021",
+      "label": "DATE",
+      "start_char": 17249,
+      "end_char": 17259
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 17478,
+      "end_char": 17492
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 17521,
+      "end_char": 17531
+    },
+    {
+      "text": "Indian Farmers Fertilizers Co-operative Limited vs. Bhadra Products [2018 (0) AIJEL-SC 61552]",
+      "label": "PRECEDENT",
+      "start_char": 17543,
+      "end_char": 17636
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 17830,
+      "end_char": 17840
+    },
+    {
+      "text": "C/SCA/21687/2022 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 17962,
+      "end_char": 17991
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 17999,
+      "end_char": 18009
+    },
+    {
+      "text": "Section 2(1)(c)",
+      "label": "PROVISION",
+      "start_char": 18111,
+      "end_char": 18126
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 18233,
+      "end_char": 18243
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 18373,
+      "end_char": 18383
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 18857,
+      "end_char": 18867
+    },
+    {
+      "text": "Section 16(5) and 16(6)",
+      "label": "PROVISION",
+      "start_char": 18905,
+      "end_char": 18928
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "start_char": 18975,
+      "end_char": 18985
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 19011,
+      "end_char": 19021
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 19140,
+      "end_char": 19150
+    },
+    {
+      "text": "C/SCA/21687/2022 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 19318,
+      "end_char": 19347
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 19355,
+      "end_char": 19365
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 19609,
+      "end_char": 19619
+    },
+    {
+      "text": "English Act",
+      "label": "STATUTE",
+      "start_char": 19954,
+      "end_char": 19965
+    },
+    {
+      "text": "Section 47",
+      "label": "PROVISION",
+      "start_char": 20094,
+      "end_char": 20104
+    },
+    {
+      "text": "English Act",
+      "label": "STATUTE",
+      "start_char": 20112,
+      "end_char": 20123
+    },
+    {
+      "text": "Exmar BV v National Iranian Tanker Co. [1992] 1 Lloyd's Rep. 169",
+      "label": "PRECEDENT",
+      "start_char": 20227,
+      "end_char": 20291
+    },
+    {
+      "text": "McDermott International Inc. v. Burn Standard Co. Ltd. (2006) 11 SCC 181",
+      "label": "PRECEDENT",
+      "start_char": 20752,
+      "end_char": 20824
+    },
+    {
+      "text": "Section 2(c)",
+      "label": "PROVISION",
+      "start_char": 21043,
+      "end_char": 21055
+    },
+    {
+      "text": "Sub-section (6) of Section 31",
+      "label": "PROVISION",
+      "start_char": 21085,
+      "end_char": 21114
+    },
+    {
+      "text": "C/SCA/21687/2022 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 21163,
+      "end_char": 21192
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 21200,
+      "end_char": 21210
+    },
+    {
+      "text": "ONGC",
+      "label": "ORG",
+      "start_char": 21803,
+      "end_char": 21807
+    },
+    {
+      "text": "Section 2(c)",
+      "label": "PROVISION",
+      "start_char": 22113,
+      "end_char": 22125
+    },
+    {
+      "text": "BSCL",
+      "label": "ORG",
+      "start_char": 22266,
+      "end_char": 22270
+    },
+    {
+      "text": "BSCL",
+      "label": "ORG",
+      "start_char": 22363,
+      "end_char": 22367
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 22542,
+      "end_char": 22552
+    },
+    {
+      "text": "Mitra",
+      "label": "OTHER_PERSON",
+      "start_char": 22632,
+      "end_char": 22637
+    },
+    {
+      "text": "C/SCA/21687/2022",
+      "label": "CASE_NUMBER",
+      "start_char": 23236,
+      "end_char": 23252
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 23273,
+      "end_char": 23283
+    },
+    {
+      "text": "BSCL",
+      "label": "ORG",
+      "start_char": 23372,
+      "end_char": 23376
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 23506,
+      "end_char": 23516
+    },
+    {
+      "text": "Section 16(1) to (4)",
+      "label": "PROVISION",
+      "start_char": 23738,
+      "end_char": 23758
+    },
+    {
+      "text": "Article 16",
+      "label": "PROVISION",
+      "start_char": 23772,
+      "end_char": 23782
+    },
+    {
+      "text": "UNCITRAL Model Law",
+      "label": "STATUTE",
+      "start_char": 23790,
+      "end_char": 23808
+    },
+    {
+      "text": "Section 16(1)",
+      "label": "PROVISION",
+      "start_char": 24045,
+      "end_char": 24058
+    },
+    {
+      "text": "23 rd July, 2015",
+      "label": "DATE",
+      "start_char": 24340,
+      "end_char": 24356
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 24462,
+      "end_char": 24472
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 24596,
+      "end_char": 24606
+    },
+    {
+      "text": "Section 16(5) and (6)",
+      "label": "PROVISION",
+      "start_char": 24645,
+      "end_char": 24666
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "start_char": 24721,
+      "end_char": 24731
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 24754,
+      "end_char": 24764
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 24884,
+      "end_char": 24894
+    },
+    {
+      "text": "C/SCA/21687/2022 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 25046,
+      "end_char": 25075
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 25083,
+      "end_char": 25093
+    },
+    {
+      "text": "7.1",
+      "label": "DATE",
+      "start_char": 25094,
+      "end_char": 25097
+    },
+    {
+      "text": "Pandurang Dhondi Chougule vs. Maruti Hari Jadhav [1965(0) GLHEL-SC 20644]",
+      "label": "PRECEDENT",
+      "start_char": 25110,
+      "end_char": 25183
+    },
+    {
+      "text": "Section 115",
+      "label": "PROVISION",
+      "start_char": 25232,
+      "end_char": 25243
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 25299,
+      "end_char": 25309
+    },
+    {
+      "text": "Bombay Agricultural Debtor Relief Act",
+      "label": "STATUTE",
+      "start_char": 25317,
+      "end_char": 25354
+    },
+    {
+      "text": "section 115",
+      "label": "PROVISION",
+      "start_char": 25494,
+      "end_char": 25505
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 25509,
+      "end_char": 25512
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 25536,
+      "end_char": 25549
+    },
+    {
+      "text": "Section 115",
+      "label": "PROVISION",
+      "start_char": 25695,
+      "end_char": 25706
+    },
+    {
+      "text": "s. 115",
+      "label": "PROVISION",
+      "start_char": 25744,
+      "end_char": 25750
+    },
+    {
+      "text": "s. 115",
+      "label": "PROVISION",
+      "start_char": 25866,
+      "end_char": 25872
+    },
+    {
+      "text": "clauses (a), (b) and (c) of s. 115",
+      "label": "PROVISION",
+      "start_char": 26085,
+      "end_char": 26119
+    },
+    {
+      "text": "C/SCA/21687/2022",
+      "label": "CASE_NUMBER",
+      "start_char": 26735,
+      "end_char": 26751
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 26772,
+      "end_char": 26782
+    },
+    {
+      "text": "s. 115",
+      "label": "PROVISION",
+      "start_char": 27045,
+      "end_char": 27051
+    },
+    {
+      "text": "under 115",
+      "label": "PROVISION",
+      "start_char": 27249,
+      "end_char": 27258
+    },
+    {
+      "text": "Babasaheb Ambedkar Open University vs. Abhinav Knowledge Services Private Limited [Civil Application",
+      "label": "PRECEDENT",
+      "start_char": 27288,
+      "end_char": 27388
+    },
+    {
+      "text": "First Appeal No. 1632/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 27415,
+      "end_char": 27441
+    },
+    {
+      "text": "08.07.2019",
+      "label": "DATE",
+      "start_char": 27449,
+      "end_char": 27459
+    },
+    {
+      "text": "Section 34(5) and 34(6)",
+      "label": "PROVISION",
+      "start_char": 27839,
+      "end_char": 27862
+    },
+    {
+      "text": "C/SCA/21687/2022 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 28121,
+      "end_char": 28150
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 28158,
+      "end_char": 28168
+    },
+    {
+      "text": "section 16",
+      "label": "PROVISION",
+      "start_char": 28325,
+      "end_char": 28335
+    },
+    {
+      "text": "MSME council",
+      "label": "ORG",
+      "start_char": 28447,
+      "end_char": 28459
+    },
+    {
+      "text": "MSMED Act",
+      "label": "STATUTE",
+      "start_char": 29095,
+      "end_char": 29104
+    },
+    {
+      "text": "MSMED Act",
+      "label": "STATUTE",
+      "start_char": 29197,
+      "end_char": 29206
+    },
+    {
+      "text": "Section 2(4)",
+      "label": "PROVISION",
+      "start_char": 29300,
+      "end_char": 29312
+    },
+    {
+      "text": "Section 43",
+      "label": "PROVISION",
+      "start_char": 29323,
+      "end_char": 29333
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 29341,
+      "end_char": 29356
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 29469,
+      "end_char": 29479
+    },
+    {
+      "text": "Arbitration C/SCA/21687/2022 CAV JUDGMENT",
+      "label": "STATUTE",
+      "start_char": 29487,
+      "end_char": 29528
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 29536,
+      "end_char": 29546
+    },
+    {
+      "text": "Parth Contractor",
+      "label": "OTHER_PERSON",
+      "start_char": 30007,
+      "end_char": 30023
+    },
+    {
+      "text": "MSME Act",
+      "label": "STATUTE",
+      "start_char": 30448,
+      "end_char": 30456
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 30525,
+      "end_char": 30535
+    },
+    {
+      "text": "M/S. Silpi Industries vs. Kerala State Road Transport Corporation and Another [Civil Appeal Nos.1570-1578 of 2021",
+      "label": "PRECEDENT",
+      "start_char": 30547,
+      "end_char": 30660
+    },
+    {
+      "text": "C/SCA/21687/2022 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 30811,
+      "end_char": 30840
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 30848,
+      "end_char": 30858
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 30859,
+      "end_char": 30869
+    },
+    {
+      "text": "Silpi Industries",
+      "label": "PRECEDENT",
+      "start_char": 30889,
+      "end_char": 30905
+    },
+    {
+      "text": "Indian Limitation Act, 1963",
+      "label": "STATUTE",
+      "start_char": 31074,
+      "end_char": 31101
+    },
+    {
+      "text": "Section 18(3)",
+      "label": "PROVISION",
+      "start_char": 31159,
+      "end_char": 31172
+    },
+    {
+      "text": "Micro, Small and Medium Enterprises Development Act, 2006",
+      "label": "STATUTE",
+      "start_char": 31176,
+      "end_char": 31233
+    },
+    {
+      "text": "Limitation Act, 1963",
+      "label": "STATUTE",
+      "start_char": 31377,
+      "end_char": 31397
+    },
+    {
+      "text": "Micro, Small and Medium Enterprises Development Act, 2006",
+      "label": "STATUTE",
+      "start_char": 31459,
+      "end_char": 31516
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 31581,
+      "end_char": 31591
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 31828,
+      "end_char": 31838
+    },
+    {
+      "text": "Sections 17 and 18",
+      "label": "PROVISION",
+      "start_char": 31991,
+      "end_char": 32009
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 32086,
+      "end_char": 32096
+    },
+    {
+      "text": "Micro and Small Enterprises Facilitation Council",
+      "label": "ORG",
+      "start_char": 32140,
+      "end_char": 32188
+    },
+    {
+      "text": "Section 18(2)",
+      "label": "PROVISION",
+      "start_char": 32500,
+      "end_char": 32513
+    },
+    {
+      "text": "Section 18(3)",
+      "label": "PROVISION",
+      "start_char": 32560,
+      "end_char": 32573
+    },
+    {
+      "text": "C/SCA/21687/2022 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 32712,
+      "end_char": 32741
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 32749,
+      "end_char": 32759
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 32851,
+      "end_char": 32889
+    },
+    {
+      "text": "sub-section (1) of Section 7",
+      "label": "PROVISION",
+      "start_char": 33001,
+      "end_char": 33029
+    },
+    {
+      "text": "Limitation Act, 1963",
+      "label": "STATUTE",
+      "start_char": 33064,
+      "end_char": 33084
+    },
+    {
+      "text": "Section 43",
+      "label": "PROVISION",
+      "start_char": 33119,
+      "end_char": 33129
+    },
+    {
+      "text": "Andhra Pradesh Power Coordination Committee",
+      "label": "ORG",
+      "start_char": 33249,
+      "end_char": 33292
+    },
+    {
+      "text": "Lanco Kondapalli Power Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 33303,
+      "end_char": 33330
+    },
+    {
+      "text": "Limitation Act, 1963",
+      "label": "STATUTE",
+      "start_char": 33357,
+      "end_char": 33377
+    },
+    {
+      "text": "(2016) 3 SCC 468",
+      "label": "CASE_NUMBER",
+      "start_char": 33392,
+      "end_char": 33408
+    },
+    {
+      "text": "Section 18(3)",
+      "label": "PROVISION",
+      "start_char": 33440,
+      "end_char": 33453
+    },
+    {
+      "text": "Section 43",
+      "label": "PROVISION",
+      "start_char": 33484,
+      "end_char": 33494
+    },
+    {
+      "text": "Limitation Act, 1963",
+      "label": "STATUTE",
+      "start_char": 33526,
+      "end_char": 33546
+    },
+    {
+      "text": "Section 18",
+      "label": "PROVISION",
+      "start_char": 33708,
+      "end_char": 33718
+    },
+    {
+      "text": "Micro and Small Enterprises Facilitation Council",
+      "label": "ORG",
+      "start_char": 33753,
+      "end_char": 33801
+    },
+    {
+      "text": "Section 18(3)",
+      "label": "PROVISION",
+      "start_char": 33850,
+      "end_char": 33863
+    },
+    {
+      "text": "Arbitration and Conciliation Act 1996",
+      "label": "STATUTE",
+      "start_char": 33988,
+      "end_char": 34025
+    },
+    {
+      "text": "sub-section (1) of Section 7",
+      "label": "PROVISION",
+      "start_char": 34101,
+      "end_char": 34129
+    },
+    {
+      "text": "Limitation Act, 1963",
+      "label": "STATUTE",
+      "start_char": 34211,
+      "end_char": 34231
+    },
+    {
+      "text": "Section 43",
+      "label": "PROVISION",
+      "start_char": 34255,
+      "end_char": 34265
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 34273,
+      "end_char": 34311
+    },
+    {
+      "text": "Andhra Pradesh Power Coordination Committee3",
+      "label": "ORG",
+      "start_char": 34402,
+      "end_char": 34446
+    },
+    {
+      "text": "Limitation Act, 1963",
+      "label": "STATUTE",
+      "start_char": 34461,
+      "end_char": 34481
+    },
+    {
+      "text": "Section 18(3)",
+      "label": "PROVISION",
+      "start_char": 34533,
+      "end_char": 34546
+    },
+    {
+      "text": "Limitation Act, 1963",
+      "label": "STATUTE",
+      "start_char": 34679,
+      "end_char": 34699
+    },
+    {
+      "text": "Section 18(3)",
+      "label": "PROVISION",
+      "start_char": 34742,
+      "end_char": 34755
+    },
+    {
+      "text": "C/SCA/21687/2022 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 34952,
+      "end_char": 34981
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 34989,
+      "end_char": 34999
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 35641,
+      "end_char": 35651
+    },
+    {
+      "text": "IFFCO vs. Bhadra Products",
+      "label": "PRECEDENT",
+      "start_char": 35663,
+      "end_char": 35688
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 35908,
+      "end_char": 35918
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 35965,
+      "end_char": 35975
+    },
+    {
+      "text": "C/SCA/21687/2022",
+      "label": "CASE_NUMBER",
+      "start_char": 36109,
+      "end_char": 36125
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 36235,
+      "end_char": 36245
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 36359,
+      "end_char": 36369
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 36474,
+      "end_char": 36484
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 36586,
+      "end_char": 36596
+    },
+    {
+      "text": "Section 16(5) and 16(6)",
+      "label": "PROVISION",
+      "start_char": 36634,
+      "end_char": 36657
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "start_char": 36715,
+      "end_char": 36725
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 36748,
+      "end_char": 36758
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 36862,
+      "end_char": 36872
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 37076,
+      "end_char": 37086
+    },
+    {
+      "text": "Section 16,need",
+      "label": "PROVISION",
+      "start_char": 37393,
+      "end_char": 37408
+    },
+    {
+      "text": "Section 16(5) and 16(6)",
+      "label": "PROVISION",
+      "start_char": 37444,
+      "end_char": 37467
+    },
+    {
+      "text": "C/SCA/21687/2022 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 37475,
+      "end_char": 37504
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 37512,
+      "end_char": 37522
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 37625,
+      "end_char": 37635
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 37753,
+      "end_char": 37763
+    },
+    {
+      "text": "Special Civil Application No. 3913 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 37835,
+      "end_char": 37877
+    },
+    {
+      "text": "Special Civil Application No. 4441 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 37883,
+      "end_char": 37925
+    },
+    {
+      "text": "11.03.2020",
+      "label": "DATE",
+      "start_char": 37939,
+      "end_char": 37949
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 38242,
+      "end_char": 38252
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 38268,
+      "end_char": 38278
+    },
+    {
+      "text": "Special Civil Application No. 3913 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 38350,
+      "end_char": 38392
+    },
+    {
+      "text": "12.02.2020",
+      "label": "DATE",
+      "start_char": 38405,
+      "end_char": 38415
+    },
+    {
+      "text": "C/SCA/21687/2022 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 38713,
+      "end_char": 38742
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 38750,
+      "end_char": 38760
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 39185,
+      "end_char": 39195
+    },
+    {
+      "text": "Special Leave Petition (Diary) No. 5800 of 2020",
+      "label": "CASE_NUMBER",
+      "start_char": 39199,
+      "end_char": 39246
+    },
+    {
+      "text": "Deep Industries Limited vs. Oil and Natural Gas Corporation Limited and Another [(2020) 15",
+      "label": "PRECEDENT",
+      "start_char": 39577,
+      "end_char": 39667
+    },
+    {
+      "text": "SCC 706]",
+      "label": "CASE_NUMBER",
+      "start_char": 39668,
+      "end_char": 39676
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 39703,
+      "end_char": 39713
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 39749,
+      "end_char": 39759
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 39837,
+      "end_char": 39847
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 39862,
+      "end_char": 39872
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 39946,
+      "end_char": 39957
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 39965,
+      "end_char": 39986
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 40008,
+      "end_char": 40018
+    },
+    {
+      "text": "C/SCA/21687/2022 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 40019,
+      "end_char": 40048
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 40056,
+      "end_char": 40066
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 40314,
+      "end_char": 40324
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 40341,
+      "end_char": 40351
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 40456,
+      "end_char": 40466
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 40555,
+      "end_char": 40565
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 40573,
+      "end_char": 40588
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 40624,
+      "end_char": 40634
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 40743,
+      "end_char": 40753
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 40875,
+      "end_char": 40885
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 40988,
+      "end_char": 40998
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 41185,
+      "end_char": 41200
+    },
+    {
+      "text": "Fuerst Day Lawson Limited",
+      "label": "PRECEDENT",
+      "start_char": 41284,
+      "end_char": 41309
+    },
+    {
+      "text": "Arbitration Act, 1940",
+      "label": "STATUTE",
+      "start_char": 41387,
+      "end_char": 41408
+    },
+    {
+      "text": "P.S. Sathappan v. Andha Bank Ltd., (2004)",
+      "label": "PRECEDENT",
+      "start_char": 41459,
+      "end_char": 41500
+    },
+    {
+      "text": "SCC 672",
+      "label": "PROVISION",
+      "start_char": 41504,
+      "end_char": 41511
+    },
+    {
+      "text": "Arbitration Act, 1940",
+      "label": "STATUTE",
+      "start_char": 41562,
+      "end_char": 41583
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 41653,
+      "end_char": 41663
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 41712,
+      "end_char": 41750
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 41950,
+      "end_char": 41965
+    },
+    {
+      "text": "Tulzapurkar",
+      "label": "JUDGE",
+      "start_char": 42065,
+      "end_char": 42076
+    },
+    {
+      "text": "article 227",
+      "label": "PROVISION",
+      "start_char": 42625,
+      "end_char": 42636
+    },
+    {
+      "text": "Fuerst Day Lawson Limited",
+      "label": "PRECEDENT",
+      "start_char": 42832,
+      "end_char": 42857
+    },
+    {
+      "text": "article 227",
+      "label": "PROVISION",
+      "start_char": 42988,
+      "end_char": 42999
+    },
+    {
+      "text": "Rohatgi",
+      "label": "OTHER_PERSON",
+      "start_char": 43054,
+      "end_char": 43061
+    },
+    {
+      "text": "Section 115",
+      "label": "PROVISION",
+      "start_char": 43206,
+      "end_char": 43217
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 43218,
+      "end_char": 43224
+    },
+    {
+      "text": "article 227",
+      "label": "PROVISION",
+      "start_char": 43309,
+      "end_char": 43320
+    },
+    {
+      "text": "Tek Singh vs. Shashi Verma and Another, 2019 SCC OnLine SC 168",
+      "label": "PRECEDENT",
+      "start_char": 43592,
+      "end_char": 43654
+    },
+    {
+      "text": "/SCA/21687/2022 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 43722,
+      "end_char": 43750
+    },
+    {
+      "text": "Section 115",
+      "label": "PROVISION",
+      "start_char": 43857,
+      "end_char": 43868
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 43869,
+      "end_char": 43872
+    },
+    {
+      "text": "Section 115",
+      "label": "PROVISION",
+      "start_char": 44002,
+      "end_char": 44013
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 44014,
+      "end_char": 44017
+    },
+    {
+      "text": "D.L.F. Housing & Construction Company Private Ltd., New Delhi v. Sarup Singh and Others (1970) 2 SCR 368",
+      "label": "PRECEDENT",
+      "start_char": 44101,
+      "end_char": 44205
+    },
+    {
+      "text": "Section 115",
+      "label": "PROVISION",
+      "start_char": 44318,
+      "end_char": 44329
+    },
+    {
+      "text": "Section 115",
+      "label": "PROVISION",
+      "start_char": 45699,
+      "end_char": 45710
+    },
+    {
+      "text": "C/SCA/21687/2022 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 45861,
+      "end_char": 45890
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 45898,
+      "end_char": 45908
+    },
+    {
+      "text": "Section 115",
+      "label": "PROVISION",
+      "start_char": 46050,
+      "end_char": 46061
+    },
+    {
+      "text": "BASF Styrenics Private Limited vs. Offshore Industrial Construction Private Limited and Another [2002(2) Mh.L.J.]",
+      "label": "PRECEDENT",
+      "start_char": 46371,
+      "end_char": 46484
+    },
+    {
+      "text": "Section 37(2)",
+      "label": "PROVISION",
+      "start_char": 46801,
+      "end_char": 46814
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 46885,
+      "end_char": 46917
+    },
+    {
+      "text": "sub-sections (5) C/SCA/21687/2022",
+      "label": "PROVISION",
+      "start_char": 47258,
+      "end_char": 47291
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 47312,
+      "end_char": 47322
+    },
+    {
+      "text": "sub-section (2) of Section 37",
+      "label": "PROVISION",
+      "start_char": 47546,
+      "end_char": 47575
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 47614,
+      "end_char": 47624
+    },
+    {
+      "text": "Babar Ali vs. Union of India and Others [(2002) 2 SCC 178]",
+      "label": "PRECEDENT",
+      "start_char": 47636,
+      "end_char": 47694
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 47733,
+      "end_char": 47743
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 48556,
+      "end_char": 48566
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 48573,
+      "end_char": 48583
+    },
+    {
+      "text": "sub-sections (2) and (3) of Section 16",
+      "label": "PROVISION",
+      "start_char": 48756,
+      "end_char": 48794
+    },
+    {
+      "text": "C/SCA/21687/2022 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 48891,
+      "end_char": 48920
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 48928,
+      "end_char": 48938
+    },
+    {
+      "text": "sub- sections (5) and (6) of Section 16",
+      "label": "PROVISION",
+      "start_char": 49356,
+      "end_char": 49395
+    },
+    {
+      "text": "Sub- section (2) of Section 37",
+      "label": "PROVISION",
+      "start_char": 49563,
+      "end_char": 49593
+    },
+    {
+      "text": "Babar Ali",
+      "label": "OTHER_PERSON",
+      "start_char": 49692,
+      "end_char": 49701
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 50013,
+      "end_char": 50023
+    },
+    {
+      "text": "sub- sections (5) and (6) of Section 16",
+      "label": "PROVISION",
+      "start_char": 50100,
+      "end_char": 50139
+    },
+    {
+      "text": "Section 37(2)",
+      "label": "PROVISION",
+      "start_char": 50239,
+      "end_char": 50252
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 50273,
+      "end_char": 50283
+    },
+    {
+      "text": "SBP & Company vs. Patel Engineering Limited and Another [(2005) 8",
+      "label": "PRECEDENT",
+      "start_char": 50295,
+      "end_char": 50360
+    },
+    {
+      "text": "SCC 618]",
+      "label": "CASE_NUMBER",
+      "start_char": 50361,
+      "end_char": 50369
+    },
+    {
+      "text": "C/SCA/21687/2022 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 50428,
+      "end_char": 50457
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 50465,
+      "end_char": 50475
+    },
+    {
+      "text": "Articles 226 and 227",
+      "label": "PROVISION",
+      "start_char": 50560,
+      "end_char": 50580
+    },
+    {
+      "text": "Section 37 or Section 34",
+      "label": "PROVISION",
+      "start_char": 50782,
+      "end_char": 50806
+    },
+    {
+      "text": "Section 37 and 34",
+      "label": "PROVISION",
+      "start_char": 51044,
+      "end_char": 51061
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 51193,
+      "end_char": 51203
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 51334,
+      "end_char": 51344
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 51463,
+      "end_char": 51473
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 51519,
+      "end_char": 51529
+    },
+    {
+      "text": "Bhaven Construction",
+      "label": "ORG",
+      "start_char": 51541,
+      "end_char": 51560
+    },
+    {
+      "text": "Premjibhai K. Shah vs. Executive Engineer, Sardar Sarovar Narmada Nigam Limited and Another [(2022) 1 SCC 75]",
+      "label": "PRECEDENT",
+      "start_char": 51590,
+      "end_char": 51699
+    },
+    {
+      "text": "Section 16(2)",
+      "label": "PROVISION",
+      "start_char": 52029,
+      "end_char": 52042
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 52050,
+      "end_char": 52082
+    },
+    {
+      "text": "Section 16(2)",
+      "label": "PROVISION",
+      "start_char": 52155,
+      "end_char": 52168
+    },
+    {
+      "text": "Article 226 and 227",
+      "label": "PROVISION",
+      "start_char": 52196,
+      "end_char": 52215
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 52223,
+      "end_char": 52235
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 52385,
+      "end_char": 52396
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 52432,
+      "end_char": 52443
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 52588,
+      "end_char": 52598
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 52892,
+      "end_char": 52902
+    },
+    {
+      "text": "C/SCA/21687/2022 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 52964,
+      "end_char": 52993
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 53001,
+      "end_char": 53011
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 53359,
+      "end_char": 53369
+    },
+    {
+      "text": "Articles 226 and 227",
+      "label": "PROVISION",
+      "start_char": 53465,
+      "end_char": 53485
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 53493,
+      "end_char": 53505
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 53786,
+      "end_char": 53795
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 53803,
+      "end_char": 53835
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 53999,
+      "end_char": 54031
+    },
+    {
+      "text": "C/SCA/21687/2022 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 54338,
+      "end_char": 54367
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 54375,
+      "end_char": 54385
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 54407,
+      "end_char": 54420
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 54510,
+      "end_char": 54526
+    },
+    {
+      "text": "I.T.I. Limited vs. Himachal Futuristic Communications [2008 (102) DRJ 443]",
+      "label": "PRECEDENT",
+      "start_char": 54538,
+      "end_char": 54612
+    },
+    {
+      "text": "Section 16(2)",
+      "label": "PROVISION",
+      "start_char": 54698,
+      "end_char": 54711
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 54719,
+      "end_char": 54751
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 54897,
+      "end_char": 54913
+    },
+    {
+      "text": "Section 16(6)",
+      "label": "PROVISION",
+      "start_char": 55094,
+      "end_char": 55107
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 55285,
+      "end_char": 55295
+    },
+    {
+      "text": "Section 16(2)",
+      "label": "PROVISION",
+      "start_char": 55380,
+      "end_char": 55393
+    },
+    {
+      "text": "Section 37(2)(a)",
+      "label": "PROVISION",
+      "start_char": 55525,
+      "end_char": 55541
+    },
+    {
+      "text": "C/SCA/21687/2022 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 55636,
+      "end_char": 55665
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 55673,
+      "end_char": 55683
+    },
+    {
+      "text": "Section 37(2)(a)",
+      "label": "PROVISION",
+      "start_char": 55697,
+      "end_char": 55713
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 55896,
+      "end_char": 55906
+    },
+    {
+      "text": "Sections 16(5) and 16(6)",
+      "label": "PROVISION",
+      "start_char": 55987,
+      "end_char": 56011
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 56052,
+      "end_char": 56062
+    },
+    {
+      "text": "Section 18",
+      "label": "PROVISION",
+      "start_char": 56690,
+      "end_char": 56700
+    },
+    {
+      "text": "MSME Act",
+      "label": "STATUTE",
+      "start_char": 56704,
+      "end_char": 56712
+    },
+    {
+      "text": "Section 37 and 46",
+      "label": "PROVISION",
+      "start_char": 56769,
+      "end_char": 56786
+    },
+    {
+      "text": "Arbitration Act, 1940",
+      "label": "STATUTE",
+      "start_char": 56790,
+      "end_char": 56811
+    },
+    {
+      "text": "Section 43 and 2(4)",
+      "label": "PROVISION",
+      "start_char": 56827,
+      "end_char": 56846
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 56850,
+      "end_char": 56871
+    },
+    {
+      "text": "Supreme C/SCA/21687/2022 CAV JUDGMENT",
+      "label": "COURT",
+      "start_char": 56905,
+      "end_char": 56942
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 56950,
+      "end_char": 56960
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 57023,
+      "end_char": 57037
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 57217,
+      "end_char": 57231
+    },
+    {
+      "text": "section 16",
+      "label": "PROVISION",
+      "start_char": 57385,
+      "end_char": 57395
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 57403,
+      "end_char": 57424
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 57488,
+      "end_char": 57498
+    },
+    {
+      "text": "Section 16(5) and 16(6)",
+      "label": "PROVISION",
+      "start_char": 57600,
+      "end_char": 57623
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 57631,
+      "end_char": 57646
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 57672,
+      "end_char": 57685
+    },
+    {
+      "text": "Gujarat High Court",
+      "label": "COURT",
+      "start_char": 57687,
+      "end_char": 57705
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 57710,
+      "end_char": 57726
+    },
+    {
+      "text": "C/SCA/21687/2022 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 58309,
+      "end_char": 58338
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 58346,
+      "end_char": 58356
+    },
+    {
+      "text": "Section 18",
+      "label": "PROVISION",
+      "start_char": 58448,
+      "end_char": 58458
+    },
+    {
+      "text": "MSME Act",
+      "label": "STATUTE",
+      "start_char": 58466,
+      "end_char": 58474
+    },
+    {
+      "text": "Section 18",
+      "label": "PROVISION",
+      "start_char": 58725,
+      "end_char": 58735
+    },
+    {
+      "text": "MSME Act",
+      "label": "STATUTE",
+      "start_char": 58743,
+      "end_char": 58751
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 59018,
+      "end_char": 59028
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 59220,
+      "end_char": 59231
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 59283,
+      "end_char": 59293
+    },
+    {
+      "text": "SBP & Company vs. Patel Engineering",
+      "label": "PRECEDENT",
+      "start_char": 59305,
+      "end_char": 59340
+    },
+    {
+      "text": "Section 16(5) and 16(6)",
+      "label": "PROVISION",
+      "start_char": 59463,
+      "end_char": 59486
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 59539,
+      "end_char": 59549
+    },
+    {
+      "text": "C/SCA/21687/2022 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 59602,
+      "end_char": 59631
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 59639,
+      "end_char": 59649
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 59697,
+      "end_char": 59707
+    },
+    {
+      "text": "Sections 16(5) and 16(6)",
+      "label": "PROVISION",
+      "start_char": 59746,
+      "end_char": 59770
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 59934,
+      "end_char": 59944
+    },
+    {
+      "text": "IFFCO",
+      "label": "COURT",
+      "start_char": 60021,
+      "end_char": 60026
+    },
+    {
+      "text": "Section 2(1)(c)",
+      "label": "PROVISION",
+      "start_char": 60215,
+      "end_char": 60230
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 60339,
+      "end_char": 60349
+    },
+    {
+      "text": "12.2",
+      "label": "DATE",
+      "start_char": 60362,
+      "end_char": 60366
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 60854,
+      "end_char": 60864
+    },
+    {
+      "text": "C/SCA/21687/2022 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 60878,
+      "end_char": 60907
+    },
+    {
+      "text": "11/11/2022",
+      "label": "DATE",
+      "start_char": 60915,
+      "end_char": 60925
+    },
+    {
+      "text": "SONIA GOKANI",
+      "label": "JUDGE",
+      "start_char": 61724,
+      "end_char": 61736
+    },
+    {
+      "text": "NISHA M. THAKORE",
+      "label": "JUDGE",
+      "start_char": 61742,
+      "end_char": 61758
+    },
+    {
+      "text": "Bhoomi",
+      "label": "PRECEDENT",
+      "start_char": 61762,
+      "end_char": 61768
+    }
+  ],
+  "precedent_clusters": {
+    "Indian Farmers Fertilizer Co-operative Limited vs. Bhadra Products [2018 (0) AIJEL-SC 61552]": [
+      "Indian Farmers Fertilizer Co-operative Limited vs. Bhadra Products [2018 (0) AIJEL-SC 61552]",
+      "Indian Farmers Fertilizers Co-operative Limited vs. Bhadra Products [2018 (0) AIJEL-SC 61552]"
+    ],
+    "Pandurang Dhondi Chougule vs. Maruti Hari Jadhav [1965(0) GLHEL-SC 20644]": [
+      "Pandurang Dhondi Chougule vs. Maruti Hari Jadhav [1965(0) GLHEL-SC 20644",
+      "Pandurang Dhondi Chougule vs. Maruti Hari Jadhav [1965(0) GLHEL-SC 20644]"
+    ],
+    "M/S. Silpi Industries vs. Kerala State Road Transport Corporation and Another [Civil Appeal Nos.1570-1578 of 2021": [
+      "Babasaheb Ambedkar Open University vs. Abhinav Knowledge Services Private Limited",
+      "Babasaheb Ambedkar Open University vs. Abhinav Knowledge Services Private Limited [Civil Application",
+      "M/S. Silpi Industries vs. Kerala State Road Transport Corporation and Another [Civil Appeal Nos.1570-1578 of 2021",
+      "IFFCO vs. Bhadra Products",
+      "Deep Industries Limited vs. Oil and Natural Gas Corporation Limited and Another [(2020) 15",
+      "P.S. Sathappan v. Andha Bank Ltd., (2004)",
+      "SBP & Company vs. Patel Engineering Limited and Another [(2005) 8",
+      "SBP & Company vs. Patel Engineering",
+      "Bhoomi",
+      "Silpi Industries"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 16",
+      "Arbitration and Conciliation Act",
+      "Section 16",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 18(3)",
+      "Micro, Small and Medium Enterprise Development Act, 2006",
+      "Section 18(3)",
+      "Micro, Small and Medium Enterprise Development Act, 2006"
+    ],
+    [
+      "Section 19",
+      "MSME Act",
+      "Section 19",
+      "MSME Act"
+    ],
+    [
+      "Article 226/227",
+      "Constitution of India",
+      "Article 226/227",
+      "Constitution of India"
+    ],
+    [
+      "Section 18(2)",
+      "MSME Act",
+      "Section 18(2)",
+      "MSME Act"
+    ],
+    [
+      "Section 18(3)",
+      "MSME Act",
+      "Section 18(3)",
+      "MSME Act"
+    ],
+    [
+      "Section 16",
+      "Limitation Act, 1963",
+      "Section 16",
+      "Limitation Act, 1963"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 16",
+      "Arbitration Act",
+      "Section 16",
+      "Arbitration Act"
+    ],
+    [
+      "Section 18",
+      "MSME Act",
+      "Section 18",
+      "MSME Act"
+    ],
+    [
+      "Section 18(3)",
+      "MSME Act",
+      "Section 18(3)",
+      "MSME Act"
+    ],
+    [
+      "Section 19",
+      "MSME Act",
+      "Section 19",
+      "MSME Act"
+    ],
+    [
+      "Section 18(2)",
+      "MSME Act",
+      "Section 18(2)",
+      "MSME Act"
+    ],
+    [
+      "Section 18(3)",
+      "MSME Act",
+      "Section 18(3)",
+      "MSME Act"
+    ],
+    [
+      "Section 16",
+      "Limitation Act",
+      "Section 16",
+      "Limitation Act"
+    ],
+    [
+      "Section 47",
+      "English Act",
+      "Section 47",
+      "English Act"
+    ],
+    [
+      "Article 16",
+      "UNCITRAL Model Law",
+      "Article 16",
+      "UNCITRAL Model Law"
+    ],
+    [
+      "Section 17",
+      "Bombay Agricultural Debtor Relief Act",
+      "Section 17",
+      "Bombay Agricultural Debtor Relief Act"
+    ],
+    [
+      "section 115",
+      "CPC",
+      "section 115",
+      "CPC"
+    ],
+    [
+      "Section 43",
+      "Arbitration Act",
+      "Section 43",
+      "Arbitration Act"
+    ],
+    [
+      "Section 16",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT",
+      "Section 16",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT"
+    ],
+    [
+      "Section 18(3)",
+      "Micro, Small and Medium Enterprises Development Act, 2006",
+      "Section 18(3)",
+      "Micro, Small and Medium Enterprises Development Act, 2006"
+    ],
+    [
+      "Section 43",
+      "Limitation Act, 1963",
+      "Section 43",
+      "Limitation Act, 1963"
+    ],
+    [
+      "Section 18(3)",
+      "Arbitration and Conciliation Act 1996",
+      "Section 18(3)",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "Section 43",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 43",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 115",
+      "C.P.C.",
+      "Section 115",
+      "C.P.C."
+    ],
+    [
+      "Section 115",
+      "CPC",
+      "Section 115",
+      "CPC"
+    ],
+    [
+      "Section 115",
+      "CPC",
+      "Section 115",
+      "CPC"
+    ],
+    [
+      "Section 16(2)",
+      "Arbitration and Conciliation Act",
+      "Section 16(2)",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Article 226 and 227",
+      "Constitution",
+      "Article 226 and 227",
+      "Constitution"
+    ],
+    [
+      "Articles 226 and 227",
+      "Constitution",
+      "Articles 226 and 227",
+      "Constitution"
+    ],
+    [
+      "Section 7",
+      "Arbitration and Conciliation Act",
+      "Section 7",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 16(2)",
+      "Arbitration and Conciliation Act",
+      "Section 16(2)",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 18",
+      "MSME Act",
+      "Section 18",
+      "MSME Act"
+    ],
+    [
+      "Section 37 and 46",
+      "Arbitration Act, 1940",
+      "Section 37 and 46",
+      "Arbitration Act, 1940"
+    ],
+    [
+      "Section 43 and 2(4)",
+      "Arbitration Act, 1996",
+      "Section 43 and 2(4)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "section 16",
+      "Arbitration Act, 1996",
+      "section 16",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 16(5) and 16(6)",
+      "Arbitration Act",
+      "Section 16(5) and 16(6)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 18",
+      "MSME Act",
+      "Section 18",
+      "MSME Act"
+    ],
+    [
+      "Section 18",
+      "MSME Act",
+      "Section 18",
+      "MSME Act"
+    ],
+    [
+      "Section 16",
+      "Arbitration and Conciliation Act",
+      "Section 16",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 16",
+      "Arbitration and Conciliation Act",
+      "Section 16",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 16",
+      "Arbitration and Conciliation Act",
+      "Section 16",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 16",
+      "Limitation Act, 1963",
+      "Section 16",
+      "Limitation Act, 1963"
+    ],
+    [
+      "Section 16",
+      "Limitation Act, 1963",
+      "Section 16",
+      "Limitation Act, 1963"
+    ],
+    [
+      "Section 16",
+      "Limitation Act, 1963",
+      "Section 16",
+      "Limitation Act, 1963"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 16",
+      "Limitation Act, 1963",
+      "Section 16",
+      "Limitation Act, 1963"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 2(1)(c)",
+      "Arbitration Act, 1996",
+      "Section 2(1)(c)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Article 226",
+      "Constitution of India",
+      "Article 226",
+      "Constitution of India"
+    ],
+    [
+      "Article 226",
+      "Constitution of India",
+      "Article 226",
+      "Constitution of India"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 16",
+      "Arbitration Act",
+      "Section 16",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 16",
+      "Arbitration Act",
+      "Section 16",
+      "Arbitration Act"
+    ],
+    [
+      "Section 16(5)",
+      "Arbitration Act",
+      "Section 16(5)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 16(6)",
+      "Arbitration Act",
+      "Section 16(6)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 16",
+      "Arbitration Act",
+      "Section 16",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 16",
+      "Arbitration Act",
+      "Section 16",
+      "Arbitration Act"
+    ],
+    [
+      "Section 2(ca)",
+      "Arbitration Act, 1996",
+      "Section 2(ca)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 16",
+      "Arbitration Act",
+      "Section 16",
+      "Arbitration Act"
+    ],
+    [
+      "Section 16",
+      "Arbitration Act",
+      "Section 16",
+      "Arbitration Act"
+    ],
+    [
+      "Section 16",
+      "Arbitration Act",
+      "Section 16",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 2(1)(c)",
+      "Arbitration Act, 1996",
+      "Section 2(1)(c)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 16",
+      "Limitation Act",
+      "Section 16",
+      "Limitation Act"
+    ],
+    [
+      "Section 16(5) and 16(6)",
+      "Limitation Act",
+      "Section 16(5) and 16(6)",
+      "Limitation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 16",
+      "Limitation Act",
+      "Section 16",
+      "Limitation Act"
+    ],
+    [
+      "Section 2(c)",
+      "Arbitration Act, 1996",
+      "Section 2(c)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 2(c)",
+      "Arbitration Act, 1996",
+      "Section 2(c)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 16(1) to (4)",
+      "Limitation Act",
+      "Section 16(1) to (4)",
+      "Limitation Act"
+    ],
+    [
+      "Section 16(1)",
+      "UNCITRAL Model Law",
+      "Section 16(1)",
+      "UNCITRAL Model Law"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 16",
+      "UNCITRAL Model Law",
+      "Section 16",
+      "UNCITRAL Model Law"
+    ],
+    [
+      "Section 16(5) and (6)",
+      "UNCITRAL Model Law",
+      "Section 16(5) and (6)",
+      "UNCITRAL Model Law"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 115",
+      "CPC",
+      "Section 115",
+      "CPC"
+    ],
+    [
+      "Section 115",
+      "CPC",
+      "Section 115",
+      "CPC"
+    ],
+    [
+      "s. 115",
+      "CPC",
+      "s. 115",
+      "CPC"
+    ],
+    [
+      "clauses (a), (b) and (c) of s. 115",
+      "CPC",
+      "clauses (a), (b) and (c) of s. 115",
+      "CPC"
+    ],
+    [
+      "s. 115",
+      "CPC",
+      "s. 115",
+      "CPC"
+    ],
+    [
+      "Section 34(5) and 34(6)",
+      "Arbitration and Conciliation Act",
+      "Section 34(5) and 34(6)",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "section 16",
+      "UNCITRAL Model Law",
+      "section 16",
+      "UNCITRAL Model Law"
+    ],
+    [
+      "Section 2(4)",
+      "Arbitration Act, 1996",
+      "Section 2(4)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 16",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT",
+      "Section 16",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT"
+    ],
+    [
+      "Sections 17 and 18",
+      "Micro, Small and Medium Enterprises Development Act, 2006",
+      "Sections 17 and 18",
+      "Micro, Small and Medium Enterprises Development Act, 2006"
+    ],
+    [
+      "Section 17",
+      "Bombay Agricultural Debtor Relief Act",
+      "Section 17",
+      "Bombay Agricultural Debtor Relief Act"
+    ],
+    [
+      "Section 18(2)",
+      "Micro, Small and Medium Enterprises Development Act, 2006",
+      "Section 18(2)",
+      "Micro, Small and Medium Enterprises Development Act, 2006"
+    ],
+    [
+      "Section 18(3)",
+      "Micro, Small and Medium Enterprises Development Act, 2006",
+      "Section 18(3)",
+      "Micro, Small and Medium Enterprises Development Act, 2006"
+    ],
+    [
+      "sub-section (1) of Section 7",
+      "Arbitration and Conciliation Act",
+      "sub-section (1) of Section 7",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 43",
+      "Arbitration Act",
+      "Section 43",
+      "Arbitration Act"
+    ],
+    [
+      "Section 18(3)",
+      "Micro, Small and Medium Enterprises Development Act, 2006",
+      "Section 18(3)",
+      "Micro, Small and Medium Enterprises Development Act, 2006"
+    ],
+    [
+      "Section 18",
+      "Micro, Small and Medium Enterprises Development Act, 2006",
+      "Section 18",
+      "Micro, Small and Medium Enterprises Development Act, 2006"
+    ],
+    [
+      "sub-section (1) of Section 7",
+      "Arbitration and Conciliation Act",
+      "sub-section (1) of Section 7",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 18(3)",
+      "Arbitration and Conciliation Act 1996",
+      "Section 18(3)",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "Section 18(3)",
+      "Arbitration and Conciliation Act 1996",
+      "Section 18(3)",
+      "Arbitration and Conciliation Act 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 16",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT",
+      "Section 16",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 16",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT",
+      "Section 16",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT"
+    ],
+    [
+      "Section 16(5) and 16(6)",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT",
+      "Section 16(5) and 16(6)",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 16,need",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT",
+      "Section 16,need",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT"
+    ],
+    [
+      "Section 16(5) and 16(6)",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT",
+      "Section 16(5) and 16(6)",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 16",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT",
+      "Section 16",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 16",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT",
+      "Section 16",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT"
+    ],
+    [
+      "Section 16",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT",
+      "Section 16",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT"
+    ],
+    [
+      "Section 16",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT",
+      "Section 16",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT"
+    ],
+    [
+      "Section 16",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT",
+      "Section 16",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT"
+    ],
+    [
+      "Section 16",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT",
+      "Section 16",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT"
+    ],
+    [
+      "Section 16",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT",
+      "Section 16",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT"
+    ],
+    [
+      "article 227",
+      "Constitution of India",
+      "article 227",
+      "Constitution of India"
+    ],
+    [
+      "article 227",
+      "Constitution of India",
+      "article 227",
+      "Constitution of India"
+    ],
+    [
+      "article 227",
+      "Constitution of India",
+      "article 227",
+      "Constitution of India"
+    ],
+    [
+      "Section 115",
+      "CPC",
+      "Section 115",
+      "CPC"
+    ],
+    [
+      "Section 115",
+      "CPC",
+      "Section 115",
+      "CPC"
+    ],
+    [
+      "Section 115",
+      "CPC",
+      "Section 115",
+      "CPC"
+    ],
+    [
+      "Section 37(2)",
+      "Arbitration Act, 1940",
+      "Section 37(2)",
+      "Arbitration Act, 1940"
+    ],
+    [
+      "sub-section (2) of Section 37",
+      "Arbitration Act, 1940",
+      "sub-section (2) of Section 37",
+      "Arbitration Act, 1940"
+    ],
+    [
+      "Section 16",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT",
+      "Section 16",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act, 1940",
+      "Section 37",
+      "Arbitration Act, 1940"
+    ],
+    [
+      "sub-sections (2) and (3) of Section 16",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT",
+      "sub-sections (2) and (3) of Section 16",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT"
+    ],
+    [
+      "sub- sections (5) and (6) of Section 16",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT",
+      "sub- sections (5) and (6) of Section 16",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT"
+    ],
+    [
+      "Sub- section (2) of Section 37",
+      "Arbitration Act, 1940",
+      "Sub- section (2) of Section 37",
+      "Arbitration Act, 1940"
+    ],
+    [
+      "sub- sections (5) and (6) of Section 16",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT",
+      "sub- sections (5) and (6) of Section 16",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT"
+    ],
+    [
+      "Section 37(2)",
+      "Arbitration Act, 1940",
+      "Section 37(2)",
+      "Arbitration Act, 1940"
+    ],
+    [
+      "Articles 226 and 227",
+      "Constitution of India",
+      "Articles 226 and 227",
+      "Constitution of India"
+    ],
+    [
+      "Section 37 or Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 37 or Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 37 and 34",
+      "Arbitration and Conciliation Act",
+      "Section 37 and 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 16",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT",
+      "Section 16",
+      "Arbitration C/SCA/21687/2022 CAV JUDGMENT"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act, 1940",
+      "Section 37",
+      "Arbitration Act, 1940"
+    ],
+    [
+      "Section 16(2)",
+      "Arbitration and Conciliation Act",
+      "Section 16(2)",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "Section 16",
+      "Arbitration and Conciliation Act",
+      "Section 16",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 16(6)",
+      "Arbitration and Conciliation Act",
+      "Section 16(6)",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 16(2)",
+      "Arbitration and Conciliation Act",
+      "Section 16(2)",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 37(2)(a)",
+      "Arbitration Act, 1940",
+      "Section 37(2)(a)",
+      "Arbitration Act, 1940"
+    ],
+    [
+      "Section 37(2)(a)",
+      "Arbitration Act, 1940",
+      "Section 37(2)(a)",
+      "Arbitration Act, 1940"
+    ],
+    [
+      "Section 16",
+      "Arbitration and Conciliation Act",
+      "Section 16",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Sections 16(5) and 16(6)",
+      "Arbitration and Conciliation Act",
+      "Sections 16(5) and 16(6)",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 16",
+      "Arbitration Act, 1996",
+      "Section 16",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "section 34",
+      "Arbitration and Conciliation Act",
+      "section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "Section 16(5) and 16(6)",
+      "Arbitration Act",
+      "Section 16(5) and 16(6)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 16",
+      "Arbitration Act",
+      "Section 16",
+      "Arbitration Act"
+    ],
+    [
+      "Sections 16(5) and 16(6)",
+      "Arbitration Act",
+      "Sections 16(5) and 16(6)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 2(1)(c)",
+      "Arbitration Act, 1996",
+      "Section 2(1)(c)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 5",
+      "MSME Act",
+      "Section 5",
+      "MSME Act"
+    ],
+    [
+      "Sub-section (6) of Section 31",
+      "English Act",
+      "Sub-section (6) of Section 31",
+      "English Act"
+    ],
+    [
+      "s. 115",
+      "CPC",
+      "s. 115",
+      "CPC"
+    ],
+    [
+      "under 115",
+      "CPC",
+      "under 115",
+      "CPC"
+    ],
+    [
+      "Section 15",
+      "Micro, Small and Medium Enterprises Development Act, 2006",
+      "Section 15",
+      "Micro, Small and Medium Enterprises Development Act, 2006"
+    ],
+    [
+      "SCC 672",
+      "Arbitration Act, 1940",
+      "SCC 672",
+      "Arbitration Act, 1940"
+    ],
+    [
+      "sub-sections (5) C/SCA/21687/2022",
+      "Arbitration and Conciliation Act",
+      "sub-sections (5) C/SCA/21687/2022",
+      "Arbitration and Conciliation Act"
+    ]
+  ],
+  "precedent_counts": {
+    "Indian Farmers Fertilizer Co-operative Limited vs. Bhadra Products [2018 (0) AIJEL-SC 61552]": 2,
+    "Pandurang Dhondi Chougule vs. Maruti Hari Jadhav [1965(0) GLHEL-SC 20644]": 2,
+    "M/S. Silpi Industries vs. Kerala State Road Transport Corporation and Another [Civil Appeal Nos.1570-1578 of 2021": 10
+  },
+  "provision_counts": {
+    "Section 34 of Arbitration and Conciliation Act, 1996": 4,
+    "Section 16 of Arbitration and Conciliation Act": 6,
+    "Section 18(3) of Micro, Small and Medium Enterprise Development Act, 2006": 1,
+    "Section 19 of MSME Act": 2,
+    "Article 226/227 of Constitution of India": 1,
+    "Section 18(2) of MSME Act": 2,
+    "Section 18(3) of MSME Act": 3,
+    "Section 16 of Limitation Act, 1963": 5,
+    "Article 227 of Constitution of India": 2,
+    "Section 34 of Arbitration and Conciliation Act": 31,
+    "Section 16 of Arbitration Act": 9,
+    "Section 18 of MSME Act": 4,
+    "Section 16 of Limitation Act": 3,
+    "Section 47 of English Act": 1,
+    "Article 16 of UNCITRAL Model Law": 1,
+    "Section 17 of Bombay Agricultural Debtor Relief Act": 2,
+    "section 115 of CPC": 1,
+    "Section 43 of Arbitration Act": 2,
+    "Section 16 of Arbitration C/SCA/21687/2022 CAV JUDGMENT": 13,
+    "Section 18(3) of Micro, Small and Medium Enterprises Development Act, 2006": 3,
+    "Section 43 of Limitation Act, 1963": 1,
+    "Section 18(3) of Arbitration and Conciliation Act 1996": 3,
+    "Section 43 of Arbitration and Conciliation Act, 1996": 1,
+    "Section 34 of Arbitration Act": 1,
+    "Section 115 of C.P.C.": 1,
+    "Section 115 of CPC": 7,
+    "Section 16(2) of Arbitration and Conciliation Act": 4,
+    "Article 226 and 227 of Constitution": 1,
+    "Articles 226 and 227 of Constitution": 1,
+    "Section 7 of Arbitration and Conciliation Act": 1,
+    "Section 37 and 46 of Arbitration Act, 1940": 1,
+    "Section 43 and 2(4) of Arbitration Act, 1996": 1,
+    "section 16 of Arbitration Act, 1996": 1,
+    "Section 16(5) and 16(6) of Arbitration Act": 2,
+    "Section 2(1)(c) of Arbitration Act, 1996": 3,
+    "Article 226 of Constitution of India": 2,
+    "Section 16(5) of Arbitration Act": 1,
+    "Section 16(6) of Arbitration Act": 1,
+    "Section 2(ca) of Arbitration Act, 1996": 1,
+    "Section 16(5) and 16(6) of Limitation Act": 1,
+    "Section 2(c) of Arbitration Act, 1996": 2,
+    "Section 16(1) to (4) of Limitation Act": 1,
+    "Section 16(1) of UNCITRAL Model Law": 1,
+    "Section 16 of UNCITRAL Model Law": 1,
+    "Section 16(5) and (6) of UNCITRAL Model Law": 1,
+    "s. 115 of CPC": 3,
+    "clauses (a), (b) and (c) of s. 115 of CPC": 1,
+    "Section 34(5) and 34(6) of Arbitration and Conciliation Act": 1,
+    "section 16 of UNCITRAL Model Law": 1,
+    "Section 2(4) of Arbitration Act, 1996": 1,
+    "Sections 17 and 18 of Micro, Small and Medium Enterprises Development Act, 2006": 1,
+    "Section 18(2) of Micro, Small and Medium Enterprises Development Act, 2006": 1,
+    "sub-section (1) of Section 7 of Arbitration and Conciliation Act": 2,
+    "Section 18 of Micro, Small and Medium Enterprises Development Act, 2006": 1,
+    "Section 16(5) and 16(6) of Arbitration C/SCA/21687/2022 CAV JUDGMENT": 2,
+    "Section 16,need of Arbitration C/SCA/21687/2022 CAV JUDGMENT": 1,
+    "article 227 of Constitution of India": 3,
+    "Section 37(2) of Arbitration Act, 1940": 2,
+    "sub-section (2) of Section 37 of Arbitration Act, 1940": 1,
+    "Section 37 of Arbitration Act, 1940": 2,
+    "sub-sections (2) and (3) of Section 16 of Arbitration C/SCA/21687/2022 CAV JUDGMENT": 1,
+    "sub- sections (5) and (6) of Section 16 of Arbitration C/SCA/21687/2022 CAV JUDGMENT": 2,
+    "Sub- section (2) of Section 37 of Arbitration Act, 1940": 1,
+    "Articles 226 and 227 of Constitution of India": 1,
+    "Section 37 or Section 34 of Arbitration and Conciliation Act": 1,
+    "Section 37 and 34 of Arbitration and Conciliation Act": 1,
+    "Article 227 of Constitution": 3,
+    "Section 16(6) of Arbitration and Conciliation Act": 1,
+    "Section 37(2)(a) of Arbitration Act, 1940": 2,
+    "Sections 16(5) and 16(6) of Arbitration and Conciliation Act": 1,
+    "Section 16 of Arbitration Act, 1996": 1,
+    "section 34 of Arbitration and Conciliation Act": 1,
+    "Sections 16(5) and 16(6) of Arbitration Act": 1,
+    "Section 5 of MSME Act": 1,
+    "Sub-section (6) of Section 31 of English Act": 1,
+    "under 115 of CPC": 1,
+    "Section 15 of Micro, Small and Medium Enterprises Development Act, 2006": 1,
+    "SCC 672 of Arbitration Act, 1940": 1,
+    "sub-sections (5) C/SCA/21687/2022 of Arbitration and Conciliation Act": 1
+  },
+  "statute_counts": {
+    "Arbitration and Conciliation Act, 1996": 5,
+    "Arbitration and Conciliation Act": 51,
+    "Micro, Small and Medium Enterprise Development Act, 2006": 1,
+    "MSME Act": 12,
+    "Constitution of India": 9,
+    "Limitation Act, 1963": 6,
+    "Arbitration Act": 17,
+    "Limitation Act": 5,
+    "English Act": 2,
+    "UNCITRAL Model Law": 5,
+    "Bombay Agricultural Debtor Relief Act": 2,
+    "CPC": 13,
+    "Arbitration C/SCA/21687/2022 CAV JUDGMENT": 19,
+    "Micro, Small and Medium Enterprises Development Act, 2006": 7,
+    "Arbitration and Conciliation Act 1996": 3,
+    "C.P.C.": 1,
+    "Constitution": 5,
+    "Arbitration Act, 1940": 10,
+    "Arbitration Act, 1996": 10
+  }
+}

@@ -1,0 +1,938 @@
+{
+  "entities": [
+    {
+      "text": "Gujarat High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 18
+    },
+    {
+      "text": "Kinjal Lalitbhai Dave vs Red Ribbon Entertainment Private",
+      "label": "PRECEDENT",
+      "start_char": 19,
+      "end_char": 76
+    },
+    {
+      "text": "Harsha Devani",
+      "label": "JUDGE",
+      "start_char": 151,
+      "end_char": 164
+    },
+    {
+      "text": "Harsha Devani",
+      "label": "JUDGE",
+      "start_char": 172,
+      "end_char": 185
+    },
+    {
+      "text": "A. P. Thaker",
+      "label": "JUDGE",
+      "start_char": 187,
+      "end_char": 199
+    },
+    {
+      "text": "HIGH COURT OF GUJARAT AT AHMEDABAD",
+      "label": "COURT",
+      "start_char": 280,
+      "end_char": 314
+    },
+    {
+      "text": "KINJAL LALITBHAI DAVE",
+      "label": "PETITIONER",
+      "start_char": 574,
+      "end_char": 595
+    },
+    {
+      "text": "RED RIBBON ENTERTAINMENT PRIVATE LIMITED",
+      "label": "RESPONDENT",
+      "start_char": 641,
+      "end_char": 681
+    },
+    {
+      "text": "HARSHIT TOLIA",
+      "label": "OTHER_PERSON",
+      "start_char": 794,
+      "end_char": 807
+    },
+    {
+      "text": "JV VAGHELA(5809",
+      "label": "OTHER_PERSON",
+      "start_char": 825,
+      "end_char": 840
+    },
+    {
+      "text": "SUNIT SHAH",
+      "label": "OTHER_PERSON",
+      "start_char": 894,
+      "end_char": 904
+    },
+    {
+      "text": "VIRENDRA R PATEL(3681",
+      "label": "OTHER_PERSON",
+      "start_char": 923,
+      "end_char": 944
+    },
+    {
+      "text": "RUSHVI SHAH",
+      "label": "OTHER_PERSON",
+      "start_char": 953,
+      "end_char": 964
+    },
+    {
+      "text": "HARSHA DEVANI",
+      "label": "JUDGE",
+      "start_char": 1123,
+      "end_char": 1136
+    },
+    {
+      "text": "A. P. THAKER",
+      "label": "JUDGE",
+      "start_char": 1179,
+      "end_char": 1191
+    },
+    {
+      "text": "24/01/2019",
+      "label": "DATE",
+      "start_char": 1226,
+      "end_char": 1236
+    },
+    {
+      "text": "HARSHA DEVANI",
+      "label": "JUDGE",
+      "start_char": 1301,
+      "end_char": 1314
+    },
+    {
+      "text": "Order XLIII rule 1",
+      "label": "PROVISION",
+      "start_char": 1351,
+      "end_char": 1369
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 1377,
+      "end_char": 1406
+    },
+    {
+      "text": "section 13",
+      "label": "PROVISION",
+      "start_char": 1457,
+      "end_char": 1467
+    },
+    {
+      "text": "Commercial Courts, Commercial Division",
+      "label": "STATUTE",
+      "start_char": 1475,
+      "end_char": 1513
+    },
+    {
+      "text": "Commercial Appellate Division of High Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 1518,
+      "end_char": 1572
+    },
+    {
+      "text": "Commercial Court, Ahmedabad",
+      "label": "COURT",
+      "start_char": 1659,
+      "end_char": 1686
+    },
+    {
+      "text": "Commercial Trademark Suit No.1 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 1733,
+      "end_char": 1771
+    },
+    {
+      "text": "Red Ribbon Entertainment Private Limited",
+      "label": "RESPONDENT",
+      "start_char": 1868,
+      "end_char": 1908
+    },
+    {
+      "text": "Kartik Patel",
+      "label": "OTHER_PERSON",
+      "start_char": 1960,
+      "end_char": 1972
+    },
+    {
+      "text": "Char Bangadi Wari Gaadi",
+      "label": "OTHER_PERSON",
+      "start_char": 2050,
+      "end_char": 2073
+    },
+    {
+      "text": "Kathiawadi Kings",
+      "label": "ORG",
+      "start_char": 2127,
+      "end_char": 2143
+    },
+    {
+      "text": "5 th September, 2016",
+      "label": "DATE",
+      "start_char": 2197,
+      "end_char": 2217
+    },
+    {
+      "text": "Kartik Patel",
+      "label": "OTHER_PERSON",
+      "start_char": 2223,
+      "end_char": 2235
+    },
+    {
+      "text": "29th September, 2016",
+      "label": "DATE",
+      "start_char": 2323,
+      "end_char": 2343
+    },
+    {
+      "text": "20th December, 2016",
+      "label": "DATE",
+      "start_char": 2348,
+      "end_char": 2367
+    },
+    {
+      "text": "20th December, 2016",
+      "label": "DATE",
+      "start_char": 2556,
+      "end_char": 2575
+    },
+    {
+      "text": "Kartik Patel",
+      "label": "OTHER_PERSON",
+      "start_char": 2633,
+      "end_char": 2645
+    },
+    {
+      "text": "18th April, 2017",
+      "label": "DATE",
+      "start_char": 2746,
+      "end_char": 2762
+    },
+    {
+      "text": "3rd January, 2017",
+      "label": "DATE",
+      "start_char": 2767,
+      "end_char": 2784
+    },
+    {
+      "text": "YouTube",
+      "label": "ORG",
+      "start_char": 2859,
+      "end_char": 2866
+    },
+    {
+      "text": "Kinjal Dave",
+      "label": "OTHER_PERSON",
+      "start_char": 3079,
+      "end_char": 3090
+    },
+    {
+      "text": "Manu Rabari",
+      "label": "OTHER_PERSON",
+      "start_char": 3145,
+      "end_char": 3156
+    },
+    {
+      "text": "23rd February, 2017",
+      "label": "DATE",
+      "start_char": 3161,
+      "end_char": 3180
+    },
+    {
+      "text": "7th March, 2017",
+      "label": "DATE",
+      "start_char": 3320,
+      "end_char": 3335
+    },
+    {
+      "text": "Commercial Trademark Suit No.1 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 4003,
+      "end_char": 4041
+    },
+    {
+      "text": "Order XXXIX rules 1 and 2",
+      "label": "PROVISION",
+      "start_char": 4080,
+      "end_char": 4105
+    },
+    {
+      "text": "14th November, 2018",
+      "label": "DATE",
+      "start_char": 4141,
+      "end_char": 4160
+    },
+    {
+      "text": "1st January, 2019",
+      "label": "DATE",
+      "start_char": 4236,
+      "end_char": 4253
+    },
+    {
+      "text": "Harshit Tolia",
+      "label": "OTHER_PERSON",
+      "start_char": 4325,
+      "end_char": 4338
+    },
+    {
+      "text": "J. V. Vaghela",
+      "label": "OTHER_PERSON",
+      "start_char": 4366,
+      "end_char": 4379
+    },
+    {
+      "text": "rule 3 of Order XXXIX",
+      "label": "PROVISION",
+      "start_char": 4495,
+      "end_char": 4516
+    },
+    {
+      "text": "rule 3 of Order XXXIX",
+      "label": "PROVISION",
+      "start_char": 5184,
+      "end_char": 5205
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 5270,
+      "end_char": 5283
+    },
+    {
+      "text": "Morgan Stanley Mutual Fund v. Kartick Das, (1994) 4",
+      "label": "PRECEDENT",
+      "start_char": 5287,
+      "end_char": 5338
+    },
+    {
+      "text": "SCC 225",
+      "label": "PROVISION",
+      "start_char": 5339,
+      "end_char": 5346
+    },
+    {
+      "text": "Shiv Kumar Chadha v. Municipal Corporation of Delhi, (1993) 3 SCC 161",
+      "label": "PRECEDENT",
+      "start_char": 5351,
+      "end_char": 5420
+    },
+    {
+      "text": "Order XXXIX rules 1 and 2",
+      "label": "PROVISION",
+      "start_char": 5911,
+      "end_char": 5936
+    },
+    {
+      "text": "1 st January, 2019",
+      "label": "DATE",
+      "start_char": 6160,
+      "end_char": 6178
+    },
+    {
+      "text": "Sunit Shah",
+      "label": "OTHER_PERSON",
+      "start_char": 6419,
+      "end_char": 6429
+    },
+    {
+      "text": "Virendra Patel",
+      "label": "OTHER_PERSON",
+      "start_char": 6456,
+      "end_char": 6470
+    },
+    {
+      "text": "1st January, 2019",
+      "label": "DATE",
+      "start_char": 6736,
+      "end_char": 6753
+    },
+    {
+      "text": "4th January, 2019",
+      "label": "DATE",
+      "start_char": 6807,
+      "end_char": 6824
+    },
+    {
+      "text": "22nd January, 2019",
+      "label": "DATE",
+      "start_char": 6886,
+      "end_char": 6904
+    },
+    {
+      "text": "J M S Labs v. Yusufali Eesmail Hadvaid, 1998 (2) GLR 1776",
+      "label": "PRECEDENT",
+      "start_char": 7105,
+      "end_char": 7162
+    },
+    {
+      "text": "23.12.2015",
+      "label": "DATE",
+      "start_char": 8126,
+      "end_char": 8136
+    },
+    {
+      "text": "Angur Foods Private Limited v. Patel Chaturbhai Ranchhodbhai and Co.",
+      "label": "PRECEDENT",
+      "start_char": 8192,
+      "end_char": 8260
+    },
+    {
+      "text": "Order No.373 of 2015",
+      "label": "CASE_NUMBER",
+      "start_char": 8285,
+      "end_char": 8305
+    },
+    {
+      "text": "24.11.2015",
+      "label": "DATE",
+      "start_char": 8441,
+      "end_char": 8451
+    },
+    {
+      "text": "19.12.2015",
+      "label": "DATE",
+      "start_char": 8483,
+      "end_char": 8493
+    },
+    {
+      "text": "28.11.2015",
+      "label": "DATE",
+      "start_char": 8806,
+      "end_char": 8816
+    },
+    {
+      "text": "19.12.2015",
+      "label": "DATE",
+      "start_char": 8897,
+      "end_char": 8907
+    },
+    {
+      "text": "22.12.2015",
+      "label": "DATE",
+      "start_char": 9015,
+      "end_char": 9025
+    },
+    {
+      "text": "20.12.2015",
+      "label": "DATE",
+      "start_char": 9097,
+      "end_char": 9107
+    },
+    {
+      "text": "rule 3 of Order XXXIX",
+      "label": "PROVISION",
+      "start_char": 9814,
+      "end_char": 9835
+    },
+    {
+      "text": "rule 3 of Order XXXIX",
+      "label": "PROVISION",
+      "start_char": 9937,
+      "end_char": 9958
+    },
+    {
+      "text": "rule 3 of Order XXXIX",
+      "label": "PROVISION",
+      "start_char": 11129,
+      "end_char": 11150
+    },
+    {
+      "text": "rule 3 of Order XXXIX",
+      "label": "PROVISION",
+      "start_char": 11961,
+      "end_char": 11982
+    },
+    {
+      "text": "Char Bangadi Wari Gadi",
+      "label": "OTHER_PERSON",
+      "start_char": 12729,
+      "end_char": 12751
+    },
+    {
+      "text": "22nd January, 2019",
+      "label": "DATE",
+      "start_char": 13092,
+      "end_char": 13110
+    },
+    {
+      "text": "Order 39 Rule 3",
+      "label": "PROVISION",
+      "start_char": 13755,
+      "end_char": 13770
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 13778,
+      "end_char": 13801
+    },
+    {
+      "text": "22nd January, 2019",
+      "label": "DATE",
+      "start_char": 14086,
+      "end_char": 14104
+    },
+    {
+      "text": "rule 3 of Order XXXIX",
+      "label": "PROVISION",
+      "start_char": 14898,
+      "end_char": 14919
+    },
+    {
+      "text": "Rule 3 of Order XXXIX",
+      "label": "PROVISION",
+      "start_char": 15128,
+      "end_char": 15149
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 15200,
+      "end_char": 15213
+    },
+    {
+      "text": "Shiv Kumar Chadha v. Municipal Corporation of Delhi",
+      "label": "PRECEDENT",
+      "start_char": 15217,
+      "end_char": 15268
+    },
+    {
+      "text": "Rule 3 of Order 39",
+      "label": "PROVISION",
+      "start_char": 15641,
+      "end_char": 15659
+    },
+    {
+      "text": "Civil Procedure Code (Amendment) Act, 1976",
+      "label": "STATUTE",
+      "start_char": 15917,
+      "end_char": 15959
+    },
+    {
+      "text": "Rule 3",
+      "label": "PROVISION",
+      "start_char": 17026,
+      "end_char": 17032
+    },
+    {
+      "text": "Rule 3 of Order 39",
+      "label": "PROVISION",
+      "start_char": 17391,
+      "end_char": 17409
+    },
+    {
+      "text": "Rule 3",
+      "label": "PROVISION",
+      "start_char": 17468,
+      "end_char": 17474
+    },
+    {
+      "text": "Rule 3",
+      "label": "PROVISION",
+      "start_char": 18560,
+      "end_char": 18566
+    },
+    {
+      "text": "Rule 3 of Order 39",
+      "label": "PROVISION",
+      "start_char": 19342,
+      "end_char": 19360
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "start_char": 19366,
+      "end_char": 19376
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "start_char": 19799,
+      "end_char": 19809
+    },
+    {
+      "text": "Rule 3",
+      "label": "PROVISION",
+      "start_char": 19854,
+      "end_char": 19860
+    },
+    {
+      "text": "Rule 3 of Order 39",
+      "label": "PROVISION",
+      "start_char": 19921,
+      "end_char": 19939
+    },
+    {
+      "text": "Taylor v. Taylor,(1875) 1 Ch. D. 426",
+      "label": "PRECEDENT",
+      "start_char": 20156,
+      "end_char": 20192
+    },
+    {
+      "text": "Nazir Ahmed v. Emperor, AIR 1936 PC 253",
+      "label": "PRECEDENT",
+      "start_char": 20197,
+      "end_char": 20236
+    },
+    {
+      "text": "Bombay Tenancy and Agricultural Lands Act",
+      "label": "STATUTE",
+      "start_char": 20326,
+      "end_char": 20367
+    },
+    {
+      "text": "Ramchandra Keshav Adke v. Govind Joti Chavare, AIR 1975 SC 915",
+      "label": "PRECEDENT",
+      "start_char": 20383,
+      "end_char": 20445
+    },
+    {
+      "text": "Supreme Court Practice 1993, Vol. 1",
+      "label": "COURT",
+      "start_char": 21036,
+      "end_char": 21071
+    },
+    {
+      "text": "Morgan Stanley Mutual Fund v. Kartick Das",
+      "label": "PRECEDENT",
+      "start_char": 21383,
+      "end_char": 21424
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 21438,
+      "end_char": 21451
+    },
+    {
+      "text": "7th March, 2017",
+      "label": "DATE",
+      "start_char": 23711,
+      "end_char": 23726
+    },
+    {
+      "text": "Kartik Patel",
+      "label": "OTHER_PERSON",
+      "start_char": 23760,
+      "end_char": 23772
+    },
+    {
+      "text": "18th April, 2017",
+      "label": "DATE",
+      "start_char": 23856,
+      "end_char": 23872
+    },
+    {
+      "text": "Commercial Trademark Suit No.1 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 24261,
+      "end_char": 24299
+    },
+    {
+      "text": "14th November, 2018",
+      "label": "DATE",
+      "start_char": 24398,
+      "end_char": 24417
+    },
+    {
+      "text": "1st January, 2019",
+      "label": "DATE",
+      "start_char": 24529,
+      "end_char": 24546
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 25879,
+      "end_char": 25892
+    },
+    {
+      "text": "rule 3 of Order XXXIX",
+      "label": "PROVISION",
+      "start_char": 25979,
+      "end_char": 26000
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "start_char": 27548,
+      "end_char": 27558
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "start_char": 27981,
+      "end_char": 27991
+    },
+    {
+      "text": "proviso to rule 3 of Order XXXIX",
+      "label": "PROVISION",
+      "start_char": 28096,
+      "end_char": 28128
+    },
+    {
+      "text": "rule 3 of Order XXXIX",
+      "label": "PROVISION",
+      "start_char": 29261,
+      "end_char": 29282
+    },
+    {
+      "text": "proviso to rule 3 of Order XXXIX",
+      "label": "PROVISION",
+      "start_char": 29709,
+      "end_char": 29741
+    },
+    {
+      "text": "rule 3 of Order XXXIX",
+      "label": "PROVISION",
+      "start_char": 30035,
+      "end_char": 30056
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 30105,
+      "end_char": 30118
+    },
+    {
+      "text": "1st January, 2019",
+      "label": "DATE",
+      "start_char": 30685,
+      "end_char": 30702
+    },
+    {
+      "text": "Commercial Court, Ahmedabad",
+      "label": "COURT",
+      "start_char": 30717,
+      "end_char": 30744
+    },
+    {
+      "text": "Commercial Trademark Suit No.1 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 30791,
+      "end_char": 30829
+    },
+    {
+      "text": "Civil Application No.1 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 31774,
+      "end_char": 31804
+    },
+    {
+      "text": "HARSHA DEVANI",
+      "label": "JUDGE",
+      "start_char": 31935,
+      "end_char": 31948
+    },
+    {
+      "text": "A. P. THAKER",
+      "label": "JUDGE",
+      "start_char": 31954,
+      "end_char": 31966
+    },
+    {
+      "text": "B.U. PARMAR",
+      "label": "JUDGE",
+      "start_char": 31971,
+      "end_char": 31982
+    }
+  ],
+  "precedent_clusters": {
+    "Morgan Stanley Mutual Fund v. Kartick Das, (1994) 4": [
+      "Kinjal Lalitbhai Dave vs Red Ribbon Entertainment Private",
+      "Morgan Stanley Mutual Fund v. Kartick Das, (1994) 4",
+      "Angur Foods Private Limited v. Patel Chaturbhai Ranchhodbhai and Co.",
+      "Shiv Kumar Chadha v. Municipal Corporation of Delhi",
+      "Morgan Stanley Mutual Fund v. Kartick Das"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Order XLIII rule 1",
+      "Code of Civil Procedure, 1908",
+      "Order XLIII rule 1",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "section 13",
+      "Commercial Courts, Commercial Division",
+      "section 13",
+      "Commercial Courts, Commercial Division"
+    ],
+    [
+      "Order 39 Rule 3",
+      "Code of Civil Procedure",
+      "Order 39 Rule 3",
+      "Code of Civil Procedure"
+    ],
+    [
+      "rule 3 of Order XXXIX",
+      "Commercial Appellate Division of High Courts Act, 2015",
+      "rule 3 of Order XXXIX",
+      "Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Order XXXIX rules 1 and 2",
+      "Commercial Appellate Division of High Courts Act, 2015",
+      "Order XXXIX rules 1 and 2",
+      "Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "rule 3 of Order XXXIX",
+      "Commercial Appellate Division of High Courts Act, 2015",
+      "rule 3 of Order XXXIX",
+      "Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "rule 3 of Order XXXIX",
+      "Commercial Appellate Division of High Courts Act, 2015",
+      "rule 3 of Order XXXIX",
+      "Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "rule 3 of Order XXXIX",
+      "Commercial Appellate Division of High Courts Act, 2015",
+      "rule 3 of Order XXXIX",
+      "Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "rule 3 of Order XXXIX",
+      "Commercial Appellate Division of High Courts Act, 2015",
+      "rule 3 of Order XXXIX",
+      "Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "rule 3 of Order XXXIX",
+      "Commercial Appellate Division of High Courts Act, 2015",
+      "rule 3 of Order XXXIX",
+      "Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Rule 3 of Order XXXIX",
+      "Commercial Appellate Division of High Courts Act, 2015",
+      "Rule 3 of Order XXXIX",
+      "Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Rule 3 of Order 39",
+      "Code of Civil Procedure",
+      "Rule 3 of Order 39",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Rule 3",
+      "Civil Procedure Code (Amendment) Act, 1976",
+      "Rule 3",
+      "Civil Procedure Code (Amendment) Act, 1976"
+    ],
+    [
+      "Rule 3",
+      "Civil Procedure Code (Amendment) Act, 1976",
+      "Rule 3",
+      "Civil Procedure Code (Amendment) Act, 1976"
+    ],
+    [
+      "Rule 3 of Order 39",
+      "Code of Civil Procedure",
+      "Rule 3 of Order 39",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Rule 3",
+      "Civil Procedure Code (Amendment) Act, 1976",
+      "Rule 3",
+      "Civil Procedure Code (Amendment) Act, 1976"
+    ],
+    [
+      "Rule 3 of Order 39",
+      "Code of Civil Procedure",
+      "Rule 3 of Order 39",
+      "Code of Civil Procedure"
+    ],
+    [
+      "rule 3 of Order XXXIX",
+      "Commercial Appellate Division of High Courts Act, 2015",
+      "rule 3 of Order XXXIX",
+      "Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "proviso to rule 3 of Order XXXIX",
+      "Commercial Appellate Division of High Courts Act, 2015",
+      "proviso to rule 3 of Order XXXIX",
+      "Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "rule 3 of Order XXXIX",
+      "Commercial Appellate Division of High Courts Act, 2015",
+      "rule 3 of Order XXXIX",
+      "Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "proviso to rule 3 of Order XXXIX",
+      "Commercial Appellate Division of High Courts Act, 2015",
+      "proviso to rule 3 of Order XXXIX",
+      "Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "rule 3 of Order XXXIX",
+      "Commercial Appellate Division of High Courts Act, 2015",
+      "rule 3 of Order XXXIX",
+      "Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Order XXXIX rules 1 and 2",
+      "Commercial Appellate Division of High Courts Act, 2015",
+      "Order XXXIX rules 1 and 2",
+      "Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "rule 3 of Order XXXIX",
+      "Commercial Appellate Division of High Courts Act, 2015",
+      "rule 3 of Order XXXIX",
+      "Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "SCC 225",
+      "Commercial Appellate Division of High Courts Act, 2015",
+      "SCC 225",
+      "Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Rule 3 of Order 39",
+      "Code of Civil Procedure",
+      "Rule 3 of Order 39",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Rule 3",
+      "Civil Procedure Code (Amendment) Act, 1976",
+      "Rule 3",
+      "Civil Procedure Code (Amendment) Act, 1976"
+    ]
+  ],
+  "precedent_counts": {
+    "Morgan Stanley Mutual Fund v. Kartick Das, (1994) 4": 5
+  },
+  "provision_counts": {
+    "Order XLIII rule 1 of Code of Civil Procedure, 1908": 1,
+    "section 13 of Commercial Courts, Commercial Division": 1,
+    "Order 39 Rule 3 of Code of Civil Procedure": 1,
+    "rule 3 of Order XXXIX of Commercial Appellate Division of High Courts Act, 2015": 10,
+    "Order XXXIX rules 1 and 2 of Commercial Appellate Division of High Courts Act, 2015": 2,
+    "Rule 3 of Order XXXIX of Commercial Appellate Division of High Courts Act, 2015": 1,
+    "Rule 3 of Order 39 of Code of Civil Procedure": 4,
+    "Rule 3 of Civil Procedure Code (Amendment) Act, 1976": 4,
+    "proviso to rule 3 of Order XXXIX of Commercial Appellate Division of High Courts Act, 2015": 2,
+    "SCC 225 of Commercial Appellate Division of High Courts Act, 2015": 1
+  },
+  "statute_counts": {
+    "Code of Civil Procedure, 1908": 1,
+    "Commercial Courts, Commercial Division": 1,
+    "Code of Civil Procedure": 5,
+    "Commercial Appellate Division of High Courts Act, 2015": 16,
+    "Civil Procedure Code (Amendment) Act, 1976": 4
+  }
+}

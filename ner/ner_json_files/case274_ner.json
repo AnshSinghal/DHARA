@@ -1,0 +1,1357 @@
+{
+  "entities": [
+    {
+      "text": "Tata Consumer Products Limited",
+      "label": "PETITIONER",
+      "start_char": 21,
+      "end_char": 51
+    },
+    {
+      "text": "Itc Limited",
+      "label": "RESPONDENT",
+      "start_char": 55,
+      "end_char": 66
+    },
+    {
+      "text": "P.Naveen Rao",
+      "label": "LAWYER",
+      "start_char": 93,
+      "end_char": 105
+    },
+    {
+      "text": "P Naveen Rao",
+      "label": "JUDGE",
+      "start_char": 113,
+      "end_char": 125
+    },
+    {
+      "text": "Nagesh Bheemapaka",
+      "label": "JUDGE",
+      "start_char": 127,
+      "end_char": 144
+    },
+    {
+      "text": "High Court For The State Of Telangana",
+      "label": "COURT",
+      "start_char": 161,
+      "end_char": 198
+    },
+    {
+      "text": "Tata Consumer Products Limited",
+      "label": "PETITIONER",
+      "start_char": 308,
+      "end_char": 338
+    },
+    {
+      "text": "Ranjit Saikia",
+      "label": "LAWYER",
+      "start_char": 460,
+      "end_char": 473
+    },
+    {
+      "text": "G.Ramamurthy",
+      "label": "RESPONDENT",
+      "start_char": 1039,
+      "end_char": 1051
+    },
+    {
+      "text": "P. Naveen Rao",
+      "label": "JUDGE",
+      "start_char": 1492,
+      "end_char": 1505
+    },
+    {
+      "text": "Nagesh Bheemapaka",
+      "label": "JUDGE",
+      "start_char": 1580,
+      "end_char": 1597
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 1997,
+      "end_char": 2000
+    },
+    {
+      "text": "P. NAVEEN RAO",
+      "label": "JUDGE",
+      "start_char": 2193,
+      "end_char": 2206
+    },
+    {
+      "text": "NAGESH BHEEMAPAKA",
+      "label": "JUDGE",
+      "start_char": 2287,
+      "end_char": 2304
+    },
+    {
+      "text": "TATA CONSUMER PRODUCTS LIMITED",
+      "label": "PETITIONER",
+      "start_char": 2390,
+      "end_char": 2420
+    },
+    {
+      "text": "Kolkata",
+      "label": "GPE",
+      "start_char": 2473,
+      "end_char": 2480
+    },
+    {
+      "text": "West Bengal",
+      "label": "GPE",
+      "start_char": 2482,
+      "end_char": 2493
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 2495,
+      "end_char": 2500
+    },
+    {
+      "text": "Ranjit Saikia",
+      "label": "LAWYER",
+      "start_char": 2543,
+      "end_char": 2556
+    },
+    {
+      "text": "Hyderabad",
+      "label": "GPE",
+      "start_char": 2647,
+      "end_char": 2656
+    },
+    {
+      "text": "Telangana",
+      "label": "GPE",
+      "start_char": 2658,
+      "end_char": 2667
+    },
+    {
+      "text": "ITC LIMITED",
+      "label": "ORG",
+      "start_char": 2855,
+      "end_char": 2866
+    },
+    {
+      "text": "Ashok Ram Kumar",
+      "label": "LAWYER",
+      "start_char": 3490,
+      "end_char": 3505
+    },
+    {
+      "text": "P.Satya                                        Venkateswara Rao",
+      "label": "LAWYER",
+      "start_char": 3514,
+      "end_char": 3577
+    },
+    {
+      "text": "Hemanth Singh",
+      "label": "LAWYER",
+      "start_char": 3617,
+      "end_char": 3630
+    },
+    {
+      "text": "M.Mallikarjun Reddy",
+      "label": "LAWYER",
+      "start_char": 3688,
+      "end_char": 3707
+    },
+    {
+      "text": "Commercial Appeal (L) No.11950 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 3764,
+      "end_char": 3802
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 3806,
+      "end_char": 3823
+    },
+    {
+      "text": "1.10.2021",
+      "label": "DATE",
+      "start_char": 3830,
+      "end_char": 3839
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 3915,
+      "end_char": 3918
+    },
+    {
+      "text": "NBK",
+      "label": "JUDGE",
+      "start_char": 3923,
+      "end_char": 3926
+    },
+    {
+      "text": "CMA No.69 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 4001,
+      "end_char": 4018
+    },
+    {
+      "text": "P.NAVEEN RAO",
+      "label": "JUDGE",
+      "start_char": 4103,
+      "end_char": 4115
+    },
+    {
+      "text": "NAGESH BHEEMAPAKA",
+      "label": "JUDGE",
+      "start_char": 4188,
+      "end_char": 4205
+    },
+    {
+      "text": "CIVIL MISCELLANEOUS APPEAL NO.69 OF 2023 JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 4220,
+      "end_char": 4269
+    },
+    {
+      "text": "P.Naveen Rao",
+      "label": "JUDGE",
+      "start_char": 4296,
+      "end_char": 4308
+    },
+    {
+      "text": "Joseph Grynbaum",
+      "label": "OTHER_PERSON",
+      "start_char": 4378,
+      "end_char": 4393
+    },
+    {
+      "text": "Joseph Grynbaum",
+      "label": "OTHER_PERSON",
+      "start_char": 4503,
+      "end_char": 4518
+    },
+    {
+      "text": "Ashok Ram Kumar",
+      "label": "LAWYER",
+      "start_char": 4622,
+      "end_char": 4637
+    },
+    {
+      "text": "P.Satya Venkateswara Rao",
+      "label": "LAWYER",
+      "start_char": 4646,
+      "end_char": 4670
+    },
+    {
+      "text": "Hemanth Singh",
+      "label": "LAWYER",
+      "start_char": 4717,
+      "end_char": 4730
+    },
+    {
+      "text": "M.Mallikarjun Reddy",
+      "label": "LAWYER",
+      "start_char": 4749,
+      "end_char": 4768
+    },
+    {
+      "text": "Companies Act, 2013",
+      "label": "STATUTE",
+      "start_char": 4916,
+      "end_char": 4935
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 5147,
+      "end_char": 5152
+    },
+    {
+      "text": "31.03.2022",
+      "label": "DATE",
+      "start_char": 5318,
+      "end_char": 5328
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 5350,
+      "end_char": 5355
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 5425,
+      "end_char": 5430
+    },
+    {
+      "text": "Business Today",
+      "label": "ORG",
+      "start_char": 5487,
+      "end_char": 5501
+    },
+    {
+      "text": "Forbes Magazine",
+      "label": "ORG",
+      "start_char": 5605,
+      "end_char": 5620
+    },
+    {
+      "text": "C.O.S.No.5 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 6911,
+      "end_char": 6929
+    },
+    {
+      "text": "Section 26",
+      "label": "PROVISION",
+      "start_char": 7066,
+      "end_char": 7076
+    },
+    {
+      "text": "Section 20, Order VII Rule 1 read with Section 151",
+      "label": "PROVISION",
+      "start_char": 7087,
+      "end_char": 7137
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 7141,
+      "end_char": 7170
+    },
+    {
+      "text": "Sections 29 and 135",
+      "label": "PROVISION",
+      "start_char": 7181,
+      "end_char": 7200
+    },
+    {
+      "text": "Trade Marks Act, 1999",
+      "label": "STATUTE",
+      "start_char": 7204,
+      "end_char": 7225
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 8566,
+      "end_char": 8569
+    },
+    {
+      "text": "NBK",
+      "label": "JUDGE",
+      "start_char": 8574,
+      "end_char": 8577
+    },
+    {
+      "text": "Order XXXIX Rules 1 and 2",
+      "label": "PROVISION",
+      "start_char": 10874,
+      "end_char": 10899
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 10903,
+      "end_char": 10906
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 11198,
+      "end_char": 11209
+    },
+    {
+      "text": "I.A.No.26 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 11232,
+      "end_char": 11249
+    },
+    {
+      "text": "Order XXXIX Rules 1 and 2",
+      "label": "PROVISION",
+      "start_char": 11256,
+      "end_char": 11281
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 11285,
+      "end_char": 11288
+    },
+    {
+      "text": "20.02.2023",
+      "label": "DATE",
+      "start_char": 12100,
+      "end_char": 12110
+    },
+    {
+      "text": "01.02.2023",
+      "label": "DATE",
+      "start_char": 12127,
+      "end_char": 12137
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 13207,
+      "end_char": 13210
+    },
+    {
+      "text": "NBK",
+      "label": "JUDGE",
+      "start_char": 13215,
+      "end_char": 13218
+    },
+    {
+      "text": "Section 12-A",
+      "label": "PROVISION",
+      "start_char": 13595,
+      "end_char": 13607
+    },
+    {
+      "text": "Commercial Courts Act, 2015 (Act, 2015)",
+      "label": "STATUTE",
+      "start_char": 13615,
+      "end_char": 13654
+    },
+    {
+      "text": "Section 12-A",
+      "label": "PROVISION",
+      "start_char": 15032,
+      "end_char": 15044
+    },
+    {
+      "text": "Section 12-A",
+      "label": "PROVISION",
+      "start_char": 15551,
+      "end_char": 15563
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 16255,
+      "end_char": 16258
+    },
+    {
+      "text": "NBK",
+      "label": "JUDGE",
+      "start_char": 16263,
+      "end_char": 16266
+    },
+    {
+      "text": "Section 12-A",
+      "label": "PROVISION",
+      "start_char": 16306,
+      "end_char": 16318
+    },
+    {
+      "text": "Act, 2015",
+      "label": "STATUTE",
+      "start_char": 16326,
+      "end_char": 16335
+    },
+    {
+      "text": "Section 12-A",
+      "label": "PROVISION",
+      "start_char": 16560,
+      "end_char": 16572
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 17793,
+      "end_char": 17796
+    },
+    {
+      "text": "NBK",
+      "label": "JUDGE",
+      "start_char": 17801,
+      "end_char": 17804
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 18036,
+      "end_char": 18041
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 18161,
+      "end_char": 18166
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 18211,
+      "end_char": 18216
+    },
+    {
+      "text": "Government of India",
+      "label": "ORG",
+      "start_char": 18323,
+      "end_char": 18342
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 18398,
+      "end_char": 18425
+    },
+    {
+      "text": "Amendment Act 28 of 2018",
+      "label": "STATUTE",
+      "start_char": 18683,
+      "end_char": 18707
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 18925,
+      "end_char": 18930
+    },
+    {
+      "text": "World Bank",
+      "label": "ORG",
+      "start_char": 18975,
+      "end_char": 18985
+    },
+    {
+      "text": "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 19733,
+      "end_char": 19830
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 19834,
+      "end_char": 19837
+    },
+    {
+      "text": "NBK",
+      "label": "JUDGE",
+      "start_char": 19842,
+      "end_char": 19845
+    },
+    {
+      "text": "Section 12-A",
+      "label": "PROVISION",
+      "start_char": 19923,
+      "end_char": 19935
+    },
+    {
+      "text": "Amendment Act 28 of 2018",
+      "label": "STATUTE",
+      "start_char": 19950,
+      "end_char": 19974
+    },
+    {
+      "text": "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 20121,
+      "end_char": 20218
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 20588,
+      "end_char": 20593
+    },
+    {
+      "text": "World Bank",
+      "label": "ORG",
+      "start_char": 20638,
+      "end_char": 20648
+    },
+    {
+      "text": "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 21396,
+      "end_char": 21493
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "start_char": 21502,
+      "end_char": 21512
+    },
+    {
+      "text": "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 21614,
+      "end_char": 21711
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 21732,
+      "end_char": 21737
+    },
+    {
+      "text": "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Ordinance, 2018",
+      "label": "STATUTE",
+      "start_char": 21810,
+      "end_char": 21925
+    },
+    {
+      "text": "3-5-2018",
+      "label": "DATE",
+      "start_char": 21929,
+      "end_char": 21937
+    },
+    {
+      "text": "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Bill, 2018",
+      "label": "STATUTE",
+      "start_char": 21975,
+      "end_char": 22085
+    },
+    {
+      "text": "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Ordinance, 2018",
+      "label": "STATUTE",
+      "start_char": 22101,
+      "end_char": 22216
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 22527,
+      "end_char": 22545
+    },
+    {
+      "text": "Legal Services Authorities Act, 1987",
+      "label": "STATUTE",
+      "start_char": 22597,
+      "end_char": 22633
+    },
+    {
+      "text": "Section 12-A",
+      "label": "PROVISION",
+      "start_char": 22712,
+      "end_char": 22724
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 23071,
+      "end_char": 23089
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 23100,
+      "end_char": 23118
+    },
+    {
+      "text": "Legal Services Authorities Act, 1987 (39 of 1987)",
+      "label": "STATUTE",
+      "start_char": 23189,
+      "end_char": 23238
+    },
+    {
+      "text": "Legal Services Authorities Act, 1987 (39 of 1987)",
+      "label": "STATUTE",
+      "start_char": 23334,
+      "end_char": 23383
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 23417,
+      "end_char": 23435
+    },
+    {
+      "text": "Limitation Act, 1963 (36 of 1963)",
+      "label": "STATUTE",
+      "start_char": 23914,
+      "end_char": 23947
+    },
+    {
+      "text": "sub-section (4) of section 30",
+      "label": "PROVISION",
+      "start_char": 24266,
+      "end_char": 24295
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 24303,
+      "end_char": 24354
+    },
+    {
+      "text": "PNR,J & NBK,J companies",
+      "label": "PETITIONER",
+      "start_char": 24729,
+      "end_char": 24752
+    },
+    {
+      "text": "Section 12-A",
+      "label": "PROVISION",
+      "start_char": 25839,
+      "end_char": 25851
+    },
+    {
+      "text": "M/s. Patil Automation Private Limited and others vs. Rakheja Engineers Private Limited1",
+      "label": "PRECEDENT",
+      "start_char": 26387,
+      "end_char": 26474
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 26484,
+      "end_char": 26497
+    },
+    {
+      "text": "Chapter III-A",
+      "label": "PROVISION",
+      "start_char": 26578,
+      "end_char": 26591
+    },
+    {
+      "text": "Section 12-A",
+      "label": "PROVISION",
+      "start_char": 26816,
+      "end_char": 26828
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 27357,
+      "end_char": 27362
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 27506,
+      "end_char": 27511
+    },
+    {
+      "text": "Section 12-A.",
+      "label": "PROVISION",
+      "start_char": 27586,
+      "end_char": 27599
+    },
+    {
+      "text": "Section 12-A",
+      "label": "PROVISION",
+      "start_char": 27641,
+      "end_char": 27653
+    },
+    {
+      "text": "Section 12-A",
+      "label": "PROVISION",
+      "start_char": 27723,
+      "end_char": 27735
+    },
+    {
+      "text": "Amending Act of 2018",
+      "label": "STATUTE",
+      "start_char": 27798,
+      "end_char": 27818
+    },
+    {
+      "text": "Limitation Act, 1963",
+      "label": "STATUTE",
+      "start_char": 28190,
+      "end_char": 28210
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 28283,
+      "end_char": 28288
+    },
+    {
+      "text": "Section 80CPC",
+      "label": "PROVISION",
+      "start_char": 28758,
+      "end_char": 28771
+    },
+    {
+      "text": "Section 69",
+      "label": "PROVISION",
+      "start_char": 28776,
+      "end_char": 28786
+    },
+    {
+      "text": "Partnership Act",
+      "label": "STATUTE",
+      "start_char": 28794,
+      "end_char": 28809
+    },
+    {
+      "text": "Section 12-A",
+      "label": "PROVISION",
+      "start_char": 28839,
+      "end_char": 28851
+    },
+    {
+      "text": "2022 (10) SCC 1",
+      "label": "PRECEDENT",
+      "start_char": 29036,
+      "end_char": 29051
+    },
+    {
+      "text": "Section 12-A",
+      "label": "PROVISION",
+      "start_char": 29556,
+      "end_char": 29568
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "start_char": 29652,
+      "end_char": 29662
+    },
+    {
+      "text": "Section 12-A",
+      "label": "PROVISION",
+      "start_char": 29976,
+      "end_char": 29988
+    },
+    {
+      "text": "Section 30(4)",
+      "label": "PROVISION",
+      "start_char": 30075,
+      "end_char": 30088
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 30096,
+      "end_char": 30111
+    },
+    {
+      "text": "Section 12-A",
+      "label": "PROVISION",
+      "start_char": 30676,
+      "end_char": 30688
+    },
+    {
+      "text": "Section 80(2)CPC permits",
+      "label": "PROVISION",
+      "start_char": 30817,
+      "end_char": 30841
+    },
+    {
+      "text": "proviso to Section 80(2)",
+      "label": "PROVISION",
+      "start_char": 30940,
+      "end_char": 30964
+    },
+    {
+      "text": "Section 12-A",
+      "label": "PROVISION",
+      "start_char": 31214,
+      "end_char": 31226
+    },
+    {
+      "text": "Deepak Raheja vs. Ganga Taro Vazirani2",
+      "label": "PRECEDENT",
+      "start_char": 31547,
+      "end_char": 31585
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 31591,
+      "end_char": 31608
+    },
+    {
+      "text": "Section 12-A",
+      "label": "PROVISION",
+      "start_char": 31735,
+      "end_char": 31747
+    },
+    {
+      "text": "Commercial Appeal (L) No.11950 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 32039,
+      "end_char": 32077
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 32081,
+      "end_char": 32098
+    },
+    {
+      "text": "1.10.2021",
+      "label": "DATE",
+      "start_char": 32105,
+      "end_char": 32114
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 32115,
+      "end_char": 32118
+    },
+    {
+      "text": "NBK",
+      "label": "JUDGE",
+      "start_char": 32123,
+      "end_char": 32126
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 32613,
+      "end_char": 32624
+    },
+    {
+      "text": "Section 12A.",
+      "label": "PROVISION",
+      "start_char": 32879,
+      "end_char": 32891
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 33006,
+      "end_char": 33017
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 33364,
+      "end_char": 33375
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 33905,
+      "end_char": 33916
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 34165,
+      "end_char": 34176
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 34286,
+      "end_char": 34297
+    },
+    {
+      "text": "section 12A",
+      "label": "PROVISION",
+      "start_char": 34593,
+      "end_char": 34604
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 34938,
+      "end_char": 34956
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 34996,
+      "end_char": 35007
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 35168,
+      "end_char": 35171
+    },
+    {
+      "text": "NBK",
+      "label": "JUDGE",
+      "start_char": 35176,
+      "end_char": 35179
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 35497,
+      "end_char": 35502
+    },
+    {
+      "text": "Government of India",
+      "label": "ORG",
+      "start_char": 35542,
+      "end_char": 35561
+    },
+    {
+      "text": "Indian Parliament",
+      "label": "ORG",
+      "start_char": 35698,
+      "end_char": 35715
+    },
+    {
+      "text": "Amendment Act, 28 of 2018",
+      "label": "STATUTE",
+      "start_char": 35778,
+      "end_char": 35803
+    },
+    {
+      "text": "TATA",
+      "label": "ORG",
+      "start_char": 36378,
+      "end_char": 36382
+    },
+    {
+      "text": "PNR",
+      "label": "JUDGE",
+      "start_char": 36749,
+      "end_char": 36752
+    },
+    {
+      "text": "NBK",
+      "label": "JUDGE",
+      "start_char": 36757,
+      "end_char": 36760
+    },
+    {
+      "text": "Section 12-A.",
+      "label": "PROVISION",
+      "start_char": 37375,
+      "end_char": 37388
+    },
+    {
+      "text": "Section 12-A",
+      "label": "PROVISION",
+      "start_char": 37752,
+      "end_char": 37764
+    },
+    {
+      "text": "P.NAVEEN RAO",
+      "label": "JUDGE",
+      "start_char": 37913,
+      "end_char": 37925
+    },
+    {
+      "text": "NAGESH BHEEMAPAKA",
+      "label": "JUDGE",
+      "start_char": 37955,
+      "end_char": 37972
+    },
+    {
+      "text": "Date:21.04.2023",
+      "label": "DATE",
+      "start_char": 37976,
+      "end_char": 37991
+    },
+    {
+      "text": "P.NAVEEN RAO",
+      "label": "JUDGE",
+      "start_char": 38067,
+      "end_char": 38079
+    },
+    {
+      "text": "NAGESH BHEEMAPAKA",
+      "label": "JUDGE",
+      "start_char": 38104,
+      "end_char": 38121
+    },
+    {
+      "text": "21.04.2023",
+      "label": "DATE",
+      "start_char": 38169,
+      "end_char": 38179
+    }
+  ],
+  "precedent_clusters": {
+    "M/s. Patil Automation Private Limited and others vs. Rakheja Engineers Private Limited1": [
+      "M/s. Patil Automation Private Limited and others vs. Rakheja Engineers Private Limited1",
+      "Deepak Raheja vs. Ganga Taro Vazirani2"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 20, Order VII Rule 1 read with Section 151",
+      "Code of Civil Procedure, 1908",
+      "Section 20, Order VII Rule 1 read with Section 151",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Sections 29 and 135",
+      "Trade Marks Act, 1999",
+      "Sections 29 and 135",
+      "Trade Marks Act, 1999"
+    ],
+    [
+      "Order XXXIX Rules 1 and 2",
+      "CPC",
+      "Order XXXIX Rules 1 and 2",
+      "CPC"
+    ],
+    [
+      "Order XXXIX Rules 1 and 2",
+      "CPC",
+      "Order XXXIX Rules 1 and 2",
+      "CPC"
+    ],
+    [
+      "Section 12-A",
+      "Commercial Courts Act, 2015 (Act, 2015)",
+      "Section 12-A",
+      "Commercial Courts Act, 2015 (Act, 2015)"
+    ],
+    [
+      "Section 12-A",
+      "Act, 2015",
+      "Section 12-A",
+      "Act, 2015"
+    ],
+    [
+      "Section 12-A",
+      "Amendment Act 28 of 2018",
+      "Section 12-A",
+      "Amendment Act 28 of 2018"
+    ],
+    [
+      "sub-section (4) of section 30",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "sub-section (4) of section 30",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)"
+    ],
+    [
+      "Section 69",
+      "Partnership Act",
+      "Section 69",
+      "Partnership Act"
+    ],
+    [
+      "Section 30(4)",
+      "Arbitration Act",
+      "Section 30(4)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 12-A",
+      "Commercial Courts Act, 2015 (Act, 2015)",
+      "Section 12-A",
+      "Commercial Courts Act, 2015 (Act, 2015)"
+    ],
+    [
+      "Section 12-A",
+      "Commercial Courts Act, 2015 (Act, 2015)",
+      "Section 12-A",
+      "Commercial Courts Act, 2015 (Act, 2015)"
+    ],
+    [
+      "Section 12-A",
+      "Act, 2015",
+      "Section 12-A",
+      "Act, 2015"
+    ],
+    [
+      "Section 12-A",
+      "Act, 2015",
+      "Section 12-A",
+      "Act, 2015"
+    ],
+    [
+      "Section 12-A",
+      "Act, 2015",
+      "Section 12-A",
+      "Act, 2015"
+    ],
+    [
+      "Section 12-A",
+      "Act, 2015",
+      "Section 12-A",
+      "Act, 2015"
+    ],
+    [
+      "Section 12-A",
+      "Act, 2015",
+      "Section 12-A",
+      "Act, 2015"
+    ],
+    [
+      "Section 12-A",
+      "Act, 2015",
+      "Section 12-A",
+      "Act, 2015"
+    ],
+    [
+      "Section 12-A",
+      "Act, 2015",
+      "Section 12-A",
+      "Act, 2015"
+    ],
+    [
+      "Section 12-A",
+      "Act, 2015",
+      "Section 12-A",
+      "Act, 2015"
+    ],
+    [
+      "Section 12-A",
+      "Act, 2015",
+      "Section 12-A",
+      "Act, 2015"
+    ],
+    [
+      "Section 12-A",
+      "Act, 2015",
+      "Section 12-A",
+      "Act, 2015"
+    ],
+    [
+      "proviso to Section 80(2)",
+      "Arbitration Act",
+      "proviso to Section 80(2)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 12-A",
+      "Act, 2015",
+      "Section 12-A",
+      "Act, 2015"
+    ],
+    [
+      "Section 12-A",
+      "Act, 2015",
+      "Section 12-A",
+      "Act, 2015"
+    ],
+    [
+      "Section 12A",
+      "CPC",
+      "Section 12A",
+      "CPC"
+    ],
+    [
+      "Section 12A",
+      "CPC",
+      "Section 12A",
+      "CPC"
+    ],
+    [
+      "Section 12A",
+      "CPC",
+      "Section 12A",
+      "CPC"
+    ],
+    [
+      "Section 12A",
+      "CPC",
+      "Section 12A",
+      "CPC"
+    ],
+    [
+      "Section 12A",
+      "CPC",
+      "Section 12A",
+      "CPC"
+    ],
+    [
+      "Section 12A",
+      "CPC",
+      "Section 12A",
+      "CPC"
+    ],
+    [
+      "section 12A",
+      "CPC",
+      "section 12A",
+      "CPC"
+    ],
+    [
+      "Section 12A",
+      "CPC",
+      "Section 12A",
+      "CPC"
+    ],
+    [
+      "Section 12-A.",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "Section 12-A.",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)"
+    ],
+    [
+      "Section 12-A",
+      "Act, 2015",
+      "Section 12-A",
+      "Act, 2015"
+    ],
+    [
+      "Section 26",
+      "Companies Act, 2013",
+      "Section 26",
+      "Companies Act, 2013"
+    ],
+    [
+      "Section 12A",
+      "CPC",
+      "Section 12A",
+      "CPC"
+    ],
+    [
+      "Chapter III-A",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "Chapter III-A",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)"
+    ],
+    [
+      "Section 12-A.",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "Section 12-A.",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)"
+    ],
+    [
+      "Section 80CPC",
+      "Limitation Act, 1963",
+      "Section 80CPC",
+      "Limitation Act, 1963"
+    ],
+    [
+      "Section 80(2)CPC permits",
+      "Arbitration Act",
+      "Section 80(2)CPC permits",
+      "Arbitration Act"
+    ],
+    [
+      "Section 12A.",
+      "Arbitration Act",
+      "Section 12A.",
+      "Arbitration Act"
+    ]
+  ],
+  "precedent_counts": {
+    "M/s. Patil Automation Private Limited and others vs. Rakheja Engineers Private Limited1": 2
+  },
+  "provision_counts": {
+    "Section 20, Order VII Rule 1 read with Section 151 of Code of Civil Procedure, 1908": 1,
+    "Sections 29 and 135 of Trade Marks Act, 1999": 1,
+    "Order XXXIX Rules 1 and 2 of CPC": 2,
+    "Section 12-A of Commercial Courts Act, 2015 (Act, 2015)": 3,
+    "Section 12-A of Act, 2015": 14,
+    "Section 12-A of Amendment Act 28 of 2018": 1,
+    "sub-section (4) of section 30 of Arbitration and Conciliation Act, 1996 (26 of 1996)": 1,
+    "Section 69 of Partnership Act": 1,
+    "Section 30(4) of Arbitration Act": 1,
+    "proviso to Section 80(2) of Arbitration Act": 1,
+    "Section 12A of CPC": 8,
+    "section 12A of CPC": 1,
+    "Section 12-A. of Arbitration and Conciliation Act, 1996 (26 of 1996)": 2,
+    "Section 26 of Companies Act, 2013": 1,
+    "Chapter III-A of Arbitration and Conciliation Act, 1996 (26 of 1996)": 1,
+    "Section 80CPC of Limitation Act, 1963": 1,
+    "Section 80(2)CPC permits of Arbitration Act": 1,
+    "Section 12A. of Arbitration Act": 1
+  },
+  "statute_counts": {
+    "Code of Civil Procedure, 1908": 1,
+    "Trade Marks Act, 1999": 1,
+    "CPC": 11,
+    "Commercial Courts Act, 2015 (Act, 2015)": 3,
+    "Act, 2015": 14,
+    "Amendment Act 28 of 2018": 1,
+    "Arbitration and Conciliation Act, 1996 (26 of 1996)": 4,
+    "Partnership Act": 1,
+    "Arbitration Act": 4,
+    "Companies Act, 2013": 1,
+    "Limitation Act, 1963": 1
+  }
+}

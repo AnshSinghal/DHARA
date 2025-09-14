@@ -1,0 +1,1906 @@
+{
+  "entities": [
+    {
+      "text": "U.P. Expressways Industrial",
+      "label": "PETITIONER",
+      "start_char": 21,
+      "end_char": 48
+    },
+    {
+      "text": "Sahakar Global Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 60,
+      "end_char": 79
+    },
+    {
+      "text": "High Court Of Judicature At Allahabad, Lucknow Bench",
+      "label": "COURT",
+      "start_char": 114,
+      "end_char": 166
+    },
+    {
+      "text": "U.P. Expressways Industrial Development Authority",
+      "label": "PETITIONER",
+      "start_char": 386,
+      "end_char": 435
+    },
+    {
+      "text": "Sahakar Global Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 485,
+      "end_char": 504
+    },
+    {
+      "text": "Brijesh Kumar",
+      "label": "LAWYER",
+      "start_char": 576,
+      "end_char": 589
+    },
+    {
+      "text": "Amal Rastogi",
+      "label": "LAWYER",
+      "start_char": 590,
+      "end_char": 602
+    },
+    {
+      "text": "Utkarsh Srivastava",
+      "label": "LAWYER",
+      "start_char": 603,
+      "end_char": 621
+    },
+    {
+      "text": "Pritish Kumar",
+      "label": "LAWYER",
+      "start_char": 650,
+      "end_char": 663
+    },
+    {
+      "text": "Attau Rahman Masoodi",
+      "label": "JUDGE",
+      "start_char": 677,
+      "end_char": 697
+    },
+    {
+      "text": "Om Prakash Shukla",
+      "label": "JUDGE",
+      "start_char": 711,
+      "end_char": 728
+    },
+    {
+      "text": "Om Prakash Shukla",
+      "label": "JUDGE",
+      "start_char": 745,
+      "end_char": 762
+    },
+    {
+      "text": "Brijesh Kumar Saxena",
+      "label": "OTHER_PERSON",
+      "start_char": 781,
+      "end_char": 801
+    },
+    {
+      "text": "UPEIDA",
+      "label": "ORG",
+      "start_char": 833,
+      "end_char": 839
+    },
+    {
+      "text": "Jaideep Narain Mathur",
+      "label": "OTHER_PERSON",
+      "start_char": 848,
+      "end_char": 869
+    },
+    {
+      "text": "Pritish Kumar",
+      "label": "LAWYER",
+      "start_char": 911,
+      "end_char": 924
+    },
+    {
+      "text": "Sahakar Global Ltd.",
+      "label": "ORG",
+      "start_char": 942,
+      "end_char": 961
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 1035,
+      "end_char": 1045
+    },
+    {
+      "text": "Arbitration & Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 1053,
+      "end_char": 1089
+    },
+    {
+      "text": "Uttar Pradesh Expressways industrial Development Authority",
+      "label": "ORG",
+      "start_char": 1110,
+      "end_char": 1168
+    },
+    {
+      "text": "12.09.2022",
+      "label": "DATE",
+      "start_char": 1234,
+      "end_char": 1244
+    },
+    {
+      "text": "section 9",
+      "label": "PROVISION",
+      "start_char": 1316,
+      "end_char": 1325
+    },
+    {
+      "text": "Arbitration & Conciliation Act, 19969",
+      "label": "STATUTE",
+      "start_char": 1333,
+      "end_char": 1370
+    },
+    {
+      "text": "Sahakar Global Ltd.",
+      "label": "ORG",
+      "start_char": 1597,
+      "end_char": 1616
+    },
+    {
+      "text": "Lucknow",
+      "label": "GPE",
+      "start_char": 1723,
+      "end_char": 1730
+    },
+    {
+      "text": "section 9",
+      "label": "PROVISION",
+      "start_char": 1915,
+      "end_char": 1924
+    },
+    {
+      "text": "section 9",
+      "label": "PROVISION",
+      "start_char": 2021,
+      "end_char": 2030
+    },
+    {
+      "text": "Arbitration & Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 2038,
+      "end_char": 2074
+    },
+    {
+      "text": "section 9",
+      "label": "PROVISION",
+      "start_char": 2329,
+      "end_char": 2338
+    },
+    {
+      "text": "section 9",
+      "label": "PROVISION",
+      "start_char": 2469,
+      "end_char": 2478
+    },
+    {
+      "text": "UPEIDA",
+      "label": "ORG",
+      "start_char": 2584,
+      "end_char": 2590
+    },
+    {
+      "text": "Sahakar Global Ltd.",
+      "label": "ORG",
+      "start_char": 2599,
+      "end_char": 2618
+    },
+    {
+      "text": "13.10.2020",
+      "label": "DATE",
+      "start_char": 2659,
+      "end_char": 2669
+    },
+    {
+      "text": "U.P. Toll Rules, 2020",
+      "label": "STATUTE",
+      "start_char": 2757,
+      "end_char": 2778
+    },
+    {
+      "text": "Agra",
+      "label": "GPE",
+      "start_char": 2828,
+      "end_char": 2832
+    },
+    {
+      "text": "Lucknow",
+      "label": "GPE",
+      "start_char": 2833,
+      "end_char": 2840
+    },
+    {
+      "text": "Sahakar Global Ltd.",
+      "label": "ORG",
+      "start_char": 2864,
+      "end_char": 2883
+    },
+    {
+      "text": "UPEIDA",
+      "label": "ORG",
+      "start_char": 3131,
+      "end_char": 3137
+    },
+    {
+      "text": "15.10.2020",
+      "label": "DATE",
+      "start_char": 3305,
+      "end_char": 3315
+    },
+    {
+      "text": "14.10.2022",
+      "label": "DATE",
+      "start_char": 3336,
+      "end_char": 3346
+    },
+    {
+      "text": "Sahakar Global Ltd",
+      "label": "ORG",
+      "start_char": 3401,
+      "end_char": 3419
+    },
+    {
+      "text": "January 31, 2023",
+      "label": "DATE",
+      "start_char": 3481,
+      "end_char": 3497
+    },
+    {
+      "text": "Sahakar global Ltd.",
+      "label": "ORG",
+      "start_char": 3687,
+      "end_char": 3706
+    },
+    {
+      "text": "UPEIDA",
+      "label": "ORG",
+      "start_char": 3993,
+      "end_char": 3999
+    },
+    {
+      "text": "13.10.2020",
+      "label": "DATE",
+      "start_char": 4129,
+      "end_char": 4139
+    },
+    {
+      "text": "Sahakar global Ltd",
+      "label": "ORG",
+      "start_char": 4214,
+      "end_char": 4232
+    },
+    {
+      "text": "Sahakar Global Ltd",
+      "label": "ORG",
+      "start_char": 4482,
+      "end_char": 4500
+    },
+    {
+      "text": "UPEIDA",
+      "label": "ORG",
+      "start_char": 4753,
+      "end_char": 4759
+    },
+    {
+      "text": "Sahakar global Ltd",
+      "label": "ORG",
+      "start_char": 5157,
+      "end_char": 5175
+    },
+    {
+      "text": "02.05.2021",
+      "label": "DATE",
+      "start_char": 5278,
+      "end_char": 5288
+    },
+    {
+      "text": "07.06.2021",
+      "label": "DATE",
+      "start_char": 5292,
+      "end_char": 5302
+    },
+    {
+      "text": "29.06.2021",
+      "label": "DATE",
+      "start_char": 5366,
+      "end_char": 5376
+    },
+    {
+      "text": "01.11.2021",
+      "label": "DATE",
+      "start_char": 5380,
+      "end_char": 5390
+    },
+    {
+      "text": "14,59,09,302",
+      "label": "DATE",
+      "start_char": 5412,
+      "end_char": 5424
+    },
+    {
+      "text": "04.01.2022",
+      "label": "DATE",
+      "start_char": 5457,
+      "end_char": 5467
+    },
+    {
+      "text": "08.08.2022",
+      "label": "DATE",
+      "start_char": 5471,
+      "end_char": 5481
+    },
+    {
+      "text": "UPEIDA",
+      "label": "ORG",
+      "start_char": 5528,
+      "end_char": 5534
+    },
+    {
+      "text": "02.05.2021",
+      "label": "DATE",
+      "start_char": 5613,
+      "end_char": 5623
+    },
+    {
+      "text": "07.06.2021",
+      "label": "DATE",
+      "start_char": 5627,
+      "end_char": 5637
+    },
+    {
+      "text": "Sahakar global Ltd",
+      "label": "ORG",
+      "start_char": 5817,
+      "end_char": 5835
+    },
+    {
+      "text": "UPEIDA",
+      "label": "ORG",
+      "start_char": 5841,
+      "end_char": 5847
+    },
+    {
+      "text": "UPEIDA",
+      "label": "ORG",
+      "start_char": 5962,
+      "end_char": 5968
+    },
+    {
+      "text": "section 9",
+      "label": "PROVISION",
+      "start_char": 6285,
+      "end_char": 6294
+    },
+    {
+      "text": "Arbitration Case No. 57 of 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 6334,
+      "end_char": 6365
+    },
+    {
+      "text": "27.08.2022",
+      "label": "DATE",
+      "start_char": 6369,
+      "end_char": 6379
+    },
+    {
+      "text": "commercial Court, Lucknow",
+      "label": "COURT",
+      "start_char": 6439,
+      "end_char": 6464
+    },
+    {
+      "text": "30.08.2022",
+      "label": "DATE",
+      "start_char": 6595,
+      "end_char": 6605
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 6622,
+      "end_char": 6632
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 6636,
+      "end_char": 6674
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 6748,
+      "end_char": 6758
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 6762,
+      "end_char": 6783
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 6794,
+      "end_char": 6804
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 6812,
+      "end_char": 6844
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 6856,
+      "end_char": 6867
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 6875,
+      "end_char": 6896
+    },
+    {
+      "text": "Commercial Court, Lucknow",
+      "label": "COURT",
+      "start_char": 6919,
+      "end_char": 6944
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 7066,
+      "end_char": 7075
+    },
+    {
+      "text": "Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 7099,
+      "end_char": 7121
+    },
+    {
+      "text": "5.9.2022",
+      "label": "DATE",
+      "start_char": 7162,
+      "end_char": 7170
+    },
+    {
+      "text": "5.9.2022",
+      "label": "DATE",
+      "start_char": 7376,
+      "end_char": 7384
+    },
+    {
+      "text": "05.09.2022",
+      "label": "DATE",
+      "start_char": 8031,
+      "end_char": 8041
+    },
+    {
+      "text": "12.09.2022",
+      "label": "DATE",
+      "start_char": 8202,
+      "end_char": 8212
+    },
+    {
+      "text": "section 9",
+      "label": "PROVISION",
+      "start_char": 8438,
+      "end_char": 8447
+    },
+    {
+      "text": "Learned Commercial Court, Lucknow",
+      "label": "COURT",
+      "start_char": 8468,
+      "end_char": 8501
+    },
+    {
+      "text": "13.10.2020",
+      "label": "DATE",
+      "start_char": 8532,
+      "end_char": 8542
+    },
+    {
+      "text": "13.10.2022",
+      "label": "DATE",
+      "start_char": 8659,
+      "end_char": 8669
+    },
+    {
+      "text": "04.11.2022",
+      "label": "DATE",
+      "start_char": 8715,
+      "end_char": 8725
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 9182,
+      "end_char": 9191
+    },
+    {
+      "text": "13.10.2020",
+      "label": "DATE",
+      "start_char": 9391,
+      "end_char": 9401
+    },
+    {
+      "text": "UPEIDA",
+      "label": "ORG",
+      "start_char": 9645,
+      "end_char": 9651
+    },
+    {
+      "text": "section 9",
+      "label": "PROVISION",
+      "start_char": 9728,
+      "end_char": 9737
+    },
+    {
+      "text": "Covid",
+      "label": "GPE",
+      "start_char": 10380,
+      "end_char": 10385
+    },
+    {
+      "text": "Ansal Engineering Projects Ltd. Vs.",
+      "label": "PRECEDENT",
+      "start_char": 11696,
+      "end_char": 11731
+    },
+    {
+      "text": "Tehri Hydro Development Corporation Ltd. (1996) 5 SCC Page 450",
+      "label": "PRECEDENT",
+      "start_char": 11732,
+      "end_char": 11794
+    },
+    {
+      "text": "Standard Chartered Bank Vs.",
+      "label": "PRECEDENT",
+      "start_char": 11799,
+      "end_char": 11826
+    },
+    {
+      "text": "Heavy Engineering Corporation Ltd. and others, (2020) 13 SCC Page 574",
+      "label": "PRECEDENT",
+      "start_char": 11827,
+      "end_char": 11896
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 11960,
+      "end_char": 11973
+    },
+    {
+      "text": "Swenska Handeksbanken V/s M/s. Indian Charge Chrome and others, (1994) 1 SCC Page 502",
+      "label": "PRECEDENT",
+      "start_char": 13094,
+      "end_char": 13179
+    },
+    {
+      "text": "U.P. State Sugar Corporation V/s Sumac International Ltd, (1997) 1 SCC Page 568",
+      "label": "PRECEDENT",
+      "start_char": 13187,
+      "end_char": 13266
+    },
+    {
+      "text": "Daewoo Motors India Ltd",
+      "label": "ORG",
+      "start_char": 13275,
+      "end_char": 13298
+    },
+    {
+      "text": "BSES Ltd",
+      "label": "ORG",
+      "start_char": 13359,
+      "end_char": 13367
+    },
+    {
+      "text": "Reliance Energy Ltd.",
+      "label": "ORG",
+      "start_char": 13374,
+      "end_char": 13394
+    },
+    {
+      "text": "Fenner India Ltd. and another, (2006) 2 SCC Page 728",
+      "label": "PRECEDENT",
+      "start_char": 13399,
+      "end_char": 13451
+    },
+    {
+      "text": "Vintec Electronics Private Ltd, Vs.",
+      "label": "PRECEDENT",
+      "start_char": 13457,
+      "end_char": 13492
+    },
+    {
+      "text": "HCL Infosystems Ltd., (2008) 1 SCC Page 544 (vi)",
+      "label": "PRECEDENT",
+      "start_char": 13493,
+      "end_char": 13541
+    },
+    {
+      "text": "Ansal Engineering Projects Ltd.",
+      "label": "ORG",
+      "start_char": 13542,
+      "end_char": 13573
+    },
+    {
+      "text": "Tehri Hydro Development Corporation Ltd, and another, (1996) 5 SCC Page 450",
+      "label": "PRECEDENT",
+      "start_char": 13578,
+      "end_char": 13653
+    },
+    {
+      "text": "General Electric Technical Services Company INC Vs.",
+      "label": "PRECEDENT",
+      "start_char": 13661,
+      "end_char": 13712
+    },
+    {
+      "text": "Punj Sons (P) Ltd",
+      "label": "ORG",
+      "start_char": 13713,
+      "end_char": 13730
+    },
+    {
+      "text": "Jaideep Narain Mathur",
+      "label": "OTHER_PERSON",
+      "start_char": 14799,
+      "end_char": 14820
+    },
+    {
+      "text": "Mathur",
+      "label": "OTHER_PERSON",
+      "start_char": 14919,
+      "end_char": 14925
+    },
+    {
+      "text": "Mathur",
+      "label": "OTHER_PERSON",
+      "start_char": 15021,
+      "end_char": 15027
+    },
+    {
+      "text": "08.12.2022",
+      "label": "DATE",
+      "start_char": 15177,
+      "end_char": 15187
+    },
+    {
+      "text": "section 9",
+      "label": "PROVISION",
+      "start_char": 15263,
+      "end_char": 15272
+    },
+    {
+      "text": "Essar House Pvt",
+      "label": "ORG",
+      "start_char": 15347,
+      "end_char": 15362
+    },
+    {
+      "text": "Ltd. v. Arcellor Mittal Nippon Steel India reported as AIR 2022 SC 4294",
+      "label": "PRECEDENT",
+      "start_char": 15364,
+      "end_char": 15435
+    },
+    {
+      "text": "section 9",
+      "label": "PROVISION",
+      "start_char": 15535,
+      "end_char": 15544
+    },
+    {
+      "text": "order 39",
+      "label": "PROVISION",
+      "start_char": 15619,
+      "end_char": 15627
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 15628,
+      "end_char": 15631
+    },
+    {
+      "text": "Mathur",
+      "label": "OTHER_PERSON",
+      "start_char": 16469,
+      "end_char": 16475
+    },
+    {
+      "text": "31.01.2023",
+      "label": "DATE",
+      "start_char": 17079,
+      "end_char": 17089
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 18535,
+      "end_char": 18551
+    },
+    {
+      "text": "Continental Construction Ltd. v. Satluj Jal VidyutNigam Ltd. reported as 2006 SCC OnLine Del 56",
+      "label": "PRECEDENT",
+      "start_char": 18562,
+      "end_char": 18657
+    },
+    {
+      "text": "Hindustan Construction Co Ltd.",
+      "label": "ORG",
+      "start_char": 18812,
+      "end_char": 18842
+    },
+    {
+      "text": "V. Satluj Jal Vidyut Nigam Ltd. reported as 2005 SCC OnLine Del 1249",
+      "label": "PRECEDENT",
+      "start_char": 18850,
+      "end_char": 18918
+    },
+    {
+      "text": "Union of India v. Millenium Delhi Broadcasts LLP, reported as AIR 2022 SC (Civil) 1682",
+      "label": "PRECEDENT",
+      "start_char": 19123,
+      "end_char": 19209
+    },
+    {
+      "text": "U.P. Cooperative Federation Ltd. v. Singh Consultants and Engineers (P) Ltd. (1988 (1) SCC 174)",
+      "label": "PRECEDENT",
+      "start_char": 20320,
+      "end_char": 20415
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 20549,
+      "end_char": 20562
+    },
+    {
+      "text": "Apex court",
+      "label": "COURT",
+      "start_char": 20711,
+      "end_char": 20721
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 21455,
+      "end_char": 21465
+    },
+    {
+      "text": "John Donaldson",
+      "label": "OTHER_PERSON",
+      "start_char": 21528,
+      "end_char": 21542
+    },
+    {
+      "text": "Bolivinter Oil SA v. Chase Manhattan Bank NA (1984 [1] AER 351 at 352):",
+      "label": "PRECEDENT",
+      "start_char": 21552,
+      "end_char": 21623
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 22241,
+      "end_char": 22251
+    },
+    {
+      "text": "Svenska Handelsbanken Vs Indian Charge Chrome (1994) 1",
+      "label": "PRECEDENT",
+      "start_char": 22434,
+      "end_char": 22488
+    },
+    {
+      "text": "SCC 502",
+      "label": "PROVISION",
+      "start_char": 22489,
+      "end_char": 22496
+    },
+    {
+      "text": "Apex court",
+      "label": "COURT",
+      "start_char": 22510,
+      "end_char": 22520
+    },
+    {
+      "text": "Itek Corporation V/s First National Bank of Boston 566",
+      "label": "PRECEDENT",
+      "start_char": 22797,
+      "end_char": 22851
+    },
+    {
+      "text": "State Trading Corporation of India Ltd.",
+      "label": "ORG",
+      "start_char": 23191,
+      "end_char": 23230
+    },
+    {
+      "text": "Supreme court",
+      "label": "COURT",
+      "start_char": 24239,
+      "end_char": 24252
+    },
+    {
+      "text": "U.P State Sugar Corporation Vs Sumac International Limited (1997) 1 SCC 568",
+      "label": "PRECEDENT",
+      "start_char": 24256,
+      "end_char": 24331
+    },
+    {
+      "text": "Hindustan Steel Workers Construction Ltd.",
+      "label": "ORG",
+      "start_char": 24500,
+      "end_char": 24541
+    },
+    {
+      "text": "G.S. Atwal & Co",
+      "label": "RESPONDENT",
+      "start_char": 24546,
+      "end_char": 24561
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 24689,
+      "end_char": 24699
+    },
+    {
+      "text": "Hindustan Steel Workers Construction Ltd.",
+      "label": "ORG",
+      "start_char": 25017,
+      "end_char": 25058
+    },
+    {
+      "text": "Tarapore & Co, 1996 (5) SCC 34",
+      "label": "PRECEDENT",
+      "start_char": 25063,
+      "end_char": 25093
+    },
+    {
+      "text": "Apex court",
+      "label": "COURT",
+      "start_char": 25107,
+      "end_char": 25117
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 25769,
+      "end_char": 25779
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 25969,
+      "end_char": 25982
+    },
+    {
+      "text": "Himadri Chemicals Industries Ltd. v. Coal Tar Refining Co.: (2007) 8 SCC 110",
+      "label": "PRECEDENT",
+      "start_char": 26107,
+      "end_char": 26183
+    },
+    {
+      "text": "Vintec Electronics Private Ltd, Vs.",
+      "label": "PRECEDENT",
+      "start_char": 27929,
+      "end_char": 27964
+    },
+    {
+      "text": "HCL Infosystems Ltd., (2008) 1 SCC 544",
+      "label": "PRECEDENT",
+      "start_char": 27965,
+      "end_char": 28003
+    },
+    {
+      "text": "U.P. State Sugar Corporation (1997) 1 SCC 568",
+      "label": "PRECEDENT",
+      "start_char": 28059,
+      "end_char": 28104
+    },
+    {
+      "text": "B.S.E.S. Ltd v. Fenner India Ltd, (2006) 2 SCC 728",
+      "label": "PRECEDENT",
+      "start_char": 28106,
+      "end_char": 28156
+    },
+    {
+      "text": "Himadri Chemicals (2007) 8 SCC 110",
+      "label": "PRECEDENT",
+      "start_char": 28158,
+      "end_char": 28192
+    },
+    {
+      "text": "Mahatma Gandhi Sahakara Sakkare Karkhane v. National Heavy Engineering Coop",
+      "label": "PRECEDENT",
+      "start_char": 28197,
+      "end_char": 28272
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 28307,
+      "end_char": 28320
+    },
+    {
+      "text": "U.P. State Sugar Corpn",
+      "label": "ORG",
+      "start_char": 28860,
+      "end_char": 28882
+    },
+    {
+      "text": "Sumac International Ltd., (1997) 1 SCC 568",
+      "label": "PRECEDENT",
+      "start_char": 28887,
+      "end_char": 28929
+    },
+    {
+      "text": "BSES Ltd. v. Fenner India Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 30906,
+      "end_char": 30936
+    },
+    {
+      "text": "(2006) 2 SCC 728]",
+      "label": "PRECEDENT",
+      "start_char": 30938,
+      "end_char": 30955
+    },
+    {
+      "text": "U.P. State Sugar Corpn",
+      "label": "ORG",
+      "start_char": 31616,
+      "end_char": 31638
+    },
+    {
+      "text": "Sumac International Ltd., (1997) 1 SCC 568",
+      "label": "PRECEDENT",
+      "start_char": 31643,
+      "end_char": 31685
+    },
+    {
+      "text": "Mahatma Gandhi Sahakra Sakkare Karkhane v. National Heavy Engg",
+      "label": "PRECEDENT",
+      "start_char": 31760,
+      "end_char": 31822
+    },
+    {
+      "text": "Gujarat Maritime Board v. Larsen and Toubro Infrastructure Development Projects Limited (2016) 10 SCC 46",
+      "label": "PRECEDENT",
+      "start_char": 33226,
+      "end_char": 33330
+    },
+    {
+      "text": "Standard Chartered Bank V/s Heavy Engineering Corporation Ltd.,(2020)13SCC 574",
+      "label": "PRECEDENT",
+      "start_char": 33338,
+      "end_char": 33416
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 33485,
+      "end_char": 33498
+    },
+    {
+      "text": "BG No. 495701GL0010720",
+      "label": "CASE_NUMBER",
+      "start_char": 33888,
+      "end_char": 33910
+    },
+    {
+      "text": "06.10.2020",
+      "label": "DATE",
+      "start_char": 33917,
+      "end_char": 33927
+    },
+    {
+      "text": "Union Bank of India",
+      "label": "ORG",
+      "start_char": 33938,
+      "end_char": 33957
+    },
+    {
+      "text": "Nariman Point",
+      "label": "GPE",
+      "start_char": 33981,
+      "end_char": 33994
+    },
+    {
+      "text": "Mumbai",
+      "label": "GPE",
+      "start_char": 33996,
+      "end_char": 34002
+    },
+    {
+      "text": "31.01.2023",
+      "label": "DATE",
+      "start_char": 34017,
+      "end_char": 34027
+    },
+    {
+      "text": "BG No. 26111GP00861220",
+      "label": "CASE_NUMBER",
+      "start_char": 34031,
+      "end_char": 34053
+    },
+    {
+      "text": "08.10.2020",
+      "label": "DATE",
+      "start_char": 34060,
+      "end_char": 34070
+    },
+    {
+      "text": "Bank of Baroda",
+      "label": "ORG",
+      "start_char": 34081,
+      "end_char": 34095
+    },
+    {
+      "text": "Kandivali",
+      "label": "GPE",
+      "start_char": 34128,
+      "end_char": 34137
+    },
+    {
+      "text": "Mumbai",
+      "label": "GPE",
+      "start_char": 34143,
+      "end_char": 34149
+    },
+    {
+      "text": "31.01.2023",
+      "label": "DATE",
+      "start_char": 34165,
+      "end_char": 34175
+    },
+    {
+      "text": "BG No. 495701GL0011220",
+      "label": "CASE_NUMBER",
+      "start_char": 34179,
+      "end_char": 34201
+    },
+    {
+      "text": "08.10.2020",
+      "label": "DATE",
+      "start_char": 34208,
+      "end_char": 34218
+    },
+    {
+      "text": "Union Bank of India",
+      "label": "ORG",
+      "start_char": 34229,
+      "end_char": 34248
+    },
+    {
+      "text": "Nariman Point",
+      "label": "GPE",
+      "start_char": 34272,
+      "end_char": 34285
+    },
+    {
+      "text": "Mumbai",
+      "label": "GPE",
+      "start_char": 34287,
+      "end_char": 34293
+    },
+    {
+      "text": "31.01.2023",
+      "label": "DATE",
+      "start_char": 34308,
+      "end_char": 34318
+    },
+    {
+      "text": "BG No. 00611LG006020",
+      "label": "CASE_NUMBER",
+      "start_char": 34322,
+      "end_char": 34342
+    },
+    {
+      "text": "09.10.2020",
+      "label": "DATE",
+      "start_char": 34349,
+      "end_char": 34359
+    },
+    {
+      "text": "Punjab National Bank",
+      "label": "ORG",
+      "start_char": 34370,
+      "end_char": 34390
+    },
+    {
+      "text": "Fort",
+      "label": "GPE",
+      "start_char": 34405,
+      "end_char": 34409
+    },
+    {
+      "text": "Mumbai",
+      "label": "GPE",
+      "start_char": 34411,
+      "end_char": 34417
+    },
+    {
+      "text": "31.01.2023",
+      "label": "DATE",
+      "start_char": 34432,
+      "end_char": 34442
+    },
+    {
+      "text": "BG No. 00611LG006120",
+      "label": "CASE_NUMBER",
+      "start_char": 34446,
+      "end_char": 34466
+    },
+    {
+      "text": "09.10.2020",
+      "label": "DATE",
+      "start_char": 34473,
+      "end_char": 34483
+    },
+    {
+      "text": "Punjab National Bank",
+      "label": "ORG",
+      "start_char": 34494,
+      "end_char": 34514
+    },
+    {
+      "text": "Fort",
+      "label": "GPE",
+      "start_char": 34529,
+      "end_char": 34533
+    },
+    {
+      "text": "Mumbai",
+      "label": "GPE",
+      "start_char": 34535,
+      "end_char": 34541
+    },
+    {
+      "text": "31.01.2023",
+      "label": "DATE",
+      "start_char": 34563,
+      "end_char": 34573
+    },
+    {
+      "text": "Union Bank of India",
+      "label": "ORG",
+      "start_char": 34841,
+      "end_char": 34860
+    },
+    {
+      "text": "Mumbai South",
+      "label": "GPE",
+      "start_char": 34882,
+      "end_char": 34894
+    },
+    {
+      "text": "Union Bank Bhavan, 239, Vidhan Bhavan",
+      "label": "ORG",
+      "start_char": 34937,
+      "end_char": 34974
+    },
+    {
+      "text": "Mumbai",
+      "label": "GPE",
+      "start_char": 34996,
+      "end_char": 35002
+    },
+    {
+      "text": "31.01.2024",
+      "label": "DATE",
+      "start_char": 35508,
+      "end_char": 35518
+    },
+    {
+      "text": "Union Bank of India",
+      "label": "ORG",
+      "start_char": 38570,
+      "end_char": 38589
+    },
+    {
+      "text": "Lucknow",
+      "label": "GPE",
+      "start_char": 38600,
+      "end_char": 38607
+    },
+    {
+      "text": "31.01.2023",
+      "label": "DATE",
+      "start_char": 39120,
+      "end_char": 39130
+    },
+    {
+      "text": "31.01.2024",
+      "label": "DATE",
+      "start_char": 39298,
+      "end_char": 39308
+    },
+    {
+      "text": "31.01.2024",
+      "label": "DATE",
+      "start_char": 39361,
+      "end_char": 39371
+    },
+    {
+      "text": "Vintec Electronics Private Ltd, Vs. HCL Infosystems Ltd., (2008) 1 SCC 544",
+      "label": "PRECEDENT",
+      "start_char": 39606,
+      "end_char": 39680
+    },
+    {
+      "text": "Supreme court",
+      "label": "COURT",
+      "start_char": 41589,
+      "end_char": 41602
+    },
+    {
+      "text": "Union of India Vs.",
+      "label": "PRECEDENT",
+      "start_char": 41651,
+      "end_char": 41669
+    },
+    {
+      "text": "Chaturbhai M. Patel & Co (1976) 1 SCC 747",
+      "label": "PRECEDENT",
+      "start_char": 41670,
+      "end_char": 41711
+    },
+    {
+      "text": "Atkin",
+      "label": "OTHER_PERSON",
+      "start_char": 41745,
+      "end_char": 41750
+    },
+    {
+      "text": "A.L.N. Narayanan Chettyar v. Official Assignee, High Court, Rangoon, AIR 1941 PC 93",
+      "label": "PRECEDENT",
+      "start_char": 41754,
+      "end_char": 41837
+    },
+    {
+      "text": "Supreme court",
+      "label": "COURT",
+      "start_char": 42206,
+      "end_char": 42219
+    },
+    {
+      "text": "Svenska Handelsbanken v. Indian Charge Chrome ( 1994) 1 SCC 502",
+      "label": "PRECEDENT",
+      "start_char": 42223,
+      "end_char": 42286
+    },
+    {
+      "text": "Apex court",
+      "label": "COURT",
+      "start_char": 46641,
+      "end_char": 46651
+    },
+    {
+      "text": "State Trading Corporation of India Ltd.",
+      "label": "ORG",
+      "start_char": 46655,
+      "end_char": 46694
+    },
+    {
+      "text": "Vs Jainsons Clothing corporation (1994) 6 SCC 597",
+      "label": "PRECEDENT",
+      "start_char": 46695,
+      "end_char": 46744
+    },
+    {
+      "text": "Order 39, Rules 1 and 2",
+      "label": "PROVISION",
+      "start_char": 46852,
+      "end_char": 46875
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 46877,
+      "end_char": 46880
+    },
+    {
+      "text": "Mahatma Gandhi Sahakra Sakkare Karkhane",
+      "label": "OTHER_PERSON",
+      "start_char": 47662,
+      "end_char": 47701
+    },
+    {
+      "text": "Mahatma Gandhi Sahakra Sakkare Karkhane",
+      "label": "OTHER_PERSON",
+      "start_char": 48794,
+      "end_char": 48833
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 48869,
+      "end_char": 48882
+    },
+    {
+      "text": "Vinitec Electronics",
+      "label": "ORG",
+      "start_char": 48887,
+      "end_char": 48906
+    },
+    {
+      "text": "10.10.2022",
+      "label": "DATE",
+      "start_char": 51125,
+      "end_char": 51135
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 53250,
+      "end_char": 53263
+    },
+    {
+      "text": "UP State Sugar Corporation1",
+      "label": "ORG",
+      "start_char": 53267,
+      "end_char": 53294
+    },
+    {
+      "text": "Svenska Handelsbanken",
+      "label": "OTHER_PERSON",
+      "start_char": 53302,
+      "end_char": 53323
+    },
+    {
+      "text": "section 9",
+      "label": "PROVISION",
+      "start_char": 55320,
+      "end_char": 55329
+    },
+    {
+      "text": "Arbitration & Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 55337,
+      "end_char": 55367
+    },
+    {
+      "text": "section 9",
+      "label": "PROVISION",
+      "start_char": 55537,
+      "end_char": 55546
+    },
+    {
+      "text": "section 9",
+      "label": "PROVISION",
+      "start_char": 56133,
+      "end_char": 56142
+    },
+    {
+      "text": "Arbitration & Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 56150,
+      "end_char": 56180
+    },
+    {
+      "text": "BG",
+      "label": "ORG",
+      "start_char": 57190,
+      "end_char": 57192
+    },
+    {
+      "text": "section 9",
+      "label": "PROVISION",
+      "start_char": 57407,
+      "end_char": 57416
+    },
+    {
+      "text": "Arbitration & conciliation Act",
+      "label": "STATUTE",
+      "start_char": 57424,
+      "end_char": 57454
+    },
+    {
+      "text": "section 9",
+      "label": "PROVISION",
+      "start_char": 57581,
+      "end_char": 57590
+    },
+    {
+      "text": "Arbitration & Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 57598,
+      "end_char": 57628
+    },
+    {
+      "text": "Mathur",
+      "label": "OTHER_PERSON",
+      "start_char": 57738,
+      "end_char": 57744
+    },
+    {
+      "text": "Continental Construction Ltd. v/s Sutluj Jal Vidyut Nigam Ltd. 2006 SCC Online Del 56",
+      "label": "PRECEDENT",
+      "start_char": 57789,
+      "end_char": 57874
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 57898,
+      "end_char": 57914
+    },
+    {
+      "text": "Delhi high Court",
+      "label": "COURT",
+      "start_char": 58164,
+      "end_char": 58180
+    },
+    {
+      "text": "Delhi high court",
+      "label": "COURT",
+      "start_char": 58366,
+      "end_char": 58382
+    },
+    {
+      "text": "Hindustan Construction Co. Ltd",
+      "label": "ORG",
+      "start_char": 58386,
+      "end_char": 58416
+    },
+    {
+      "text": "Sutlej Jal vidyut Nigam Ltd. 2005 SCC Online Del 1249",
+      "label": "PRECEDENT",
+      "start_char": 58428,
+      "end_char": 58481
+    },
+    {
+      "text": "Delhi high Court",
+      "label": "COURT",
+      "start_char": 58521,
+      "end_char": 58537
+    },
+    {
+      "text": "FAO(OS) 77/2006",
+      "label": "CASE_NUMBER",
+      "start_char": 58541,
+      "end_char": 58556
+    },
+    {
+      "text": "Satluj Jal Vidyut Vikas Nigam Ltd v. Hindustan Construction Co Ltd",
+      "label": "PRECEDENT",
+      "start_char": 58558,
+      "end_char": 58624
+    },
+    {
+      "text": "3rd April, 2006",
+      "label": "DATE",
+      "start_char": 58670,
+      "end_char": 58685
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 58694,
+      "end_char": 58707
+    },
+    {
+      "text": "SLP (C) 5456/2006",
+      "label": "CASE_NUMBER",
+      "start_char": 58711,
+      "end_char": 58728
+    },
+    {
+      "text": "Satluj Jal Vidyut Nigam Ltd v. Jai Prakash Hyundai Consortium",
+      "label": "PRECEDENT",
+      "start_char": 58730,
+      "end_char": 58791
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 58810,
+      "end_char": 58823
+    },
+    {
+      "text": "3rd April, 2006",
+      "label": "DATE",
+      "start_char": 58837,
+      "end_char": 58852
+    },
+    {
+      "text": "Satluj Jal Vidyut Vikas Nigam Ltd.",
+      "label": "ORG",
+      "start_char": 58893,
+      "end_char": 58927
+    },
+    {
+      "text": "Article 141",
+      "label": "PROVISION",
+      "start_char": 59034,
+      "end_char": 59045
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 59053,
+      "end_char": 59074
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 59122,
+      "end_char": 59138
+    },
+    {
+      "text": "Satluj Jal Vidyut Vikas Nigam Ltd",
+      "label": "ORG",
+      "start_char": 59142,
+      "end_char": 59175
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 59227,
+      "end_char": 59240
+    },
+    {
+      "text": "Mahatma Gandhi Sahakra Sakkare Karkhane",
+      "label": "OTHER_PERSON",
+      "start_char": 59244,
+      "end_char": 59283
+    },
+    {
+      "text": "Vinitec Electronics",
+      "label": "ORG",
+      "start_char": 59324,
+      "end_char": 59343
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 59665,
+      "end_char": 59681
+    },
+    {
+      "text": "Satluj Jal Vidyut Vikas Nigam Ltd.",
+      "label": "ORG",
+      "start_char": 59685,
+      "end_char": 59719
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 59748,
+      "end_char": 59764
+    },
+    {
+      "text": "Consortium of Deepak Cable India Limited & Abir Infrastructure Private Limited (DCIL-AIPL) v. Teestavalley Power Transmission Limited 2014 SCC Online Del 4741",
+      "label": "PRECEDENT",
+      "start_char": 59870,
+      "end_char": 60028
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 60764,
+      "end_char": 60777
+    },
+    {
+      "text": "Dwarikesh Sugar Industries Ltd.",
+      "label": "ORG",
+      "start_char": 60781,
+      "end_char": 60812
+    },
+    {
+      "text": "Prem Heavy Engineering Works (P) Ltd. (1997) 6",
+      "label": "PRECEDENT",
+      "start_char": 60817,
+      "end_char": 60863
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 61401,
+      "end_char": 61414
+    },
+    {
+      "text": "12.09.2022",
+      "label": "DATE",
+      "start_char": 61743,
+      "end_char": 61753
+    },
+    {
+      "text": "Commercial court, Lucknow",
+      "label": "COURT",
+      "start_char": 61768,
+      "end_char": 61793
+    },
+    {
+      "text": "Arbitration Case No. 57/2022",
+      "label": "CASE_NUMBER",
+      "start_char": 61797,
+      "end_char": 61825
+    },
+    {
+      "text": "Sahakar Global Company Ltd.",
+      "label": "ORG",
+      "start_char": 61831,
+      "end_char": 61858
+    },
+    {
+      "text": "U.P Expressway Industrial development Authority",
+      "label": "RESPONDENT",
+      "start_char": 61862,
+      "end_char": 61909
+    },
+    {
+      "text": "02.12.2022",
+      "label": "DATE",
+      "start_char": 61975,
+      "end_char": 61985
+    },
+    {
+      "text": "Lokesh Kumar",
+      "label": "OTHER_PERSON",
+      "start_char": 61986,
+      "end_char": 61998
+    }
+  ],
+  "precedent_clusters": {
+    "Prem Heavy Engineering Works (P) Ltd. (1997) 6": [
+      "Ansal Engineering Projects Ltd. Vs.",
+      "Standard Chartered Bank Vs.",
+      "Vintec Electronics Private Ltd, Vs.",
+      "General Electric Technical Services Company INC Vs.",
+      "Svenska Handelsbanken Vs Indian Charge Chrome (1994) 1",
+      "Itek Corporation V/s First National Bank of Boston 566",
+      "Vintec Electronics Private Ltd, Vs.",
+      "Mahatma Gandhi Sahakara Sakkare Karkhane v. National Heavy Engineering Coop",
+      "BSES Ltd. v. Fenner India Ltd.",
+      "Mahatma Gandhi Sahakra Sakkare Karkhane v. National Heavy Engg",
+      "Union of India Vs.",
+      "Satluj Jal Vidyut Vikas Nigam Ltd v. Hindustan Construction Co Ltd",
+      "Satluj Jal Vidyut Nigam Ltd v. Jai Prakash Hyundai Consortium",
+      "Prem Heavy Engineering Works (P) Ltd. (1997) 6"
+    ],
+    "Tehri Hydro Development Corporation Ltd, and another, (1996) 5 SCC Page 450": [
+      "Tehri Hydro Development Corporation Ltd. (1996) 5 SCC Page 450",
+      "Tehri Hydro Development Corporation Ltd, and another, (1996) 5 SCC Page 450"
+    ],
+    "Continental Construction Ltd. v/s Sutluj Jal Vidyut Nigam Ltd. 2006 SCC Online Del 56": [
+      "Continental Construction Ltd. v. Satluj Jal VidyutNigam Ltd. reported as 2006 SCC OnLine Del 56",
+      "Continental Construction Ltd. v/s Sutluj Jal Vidyut Nigam Ltd. 2006 SCC Online Del 56"
+    ],
+    "V. Satluj Jal Vidyut Nigam Ltd. reported as 2005 SCC OnLine Del 1249": [
+      "V. Satluj Jal Vidyut Nigam Ltd. reported as 2005 SCC OnLine Del 1249",
+      "Sutlej Jal vidyut Nigam Ltd. 2005 SCC Online Del 1249"
+    ],
+    "U.P State Sugar Corporation Vs Sumac International Limited (1997) 1 SCC 568": [
+      "U.P State Sugar Corporation Vs Sumac International Limited (1997) 1 SCC 568",
+      "U.P. State Sugar Corporation (1997) 1 SCC 568",
+      "Sumac International Ltd., (1997) 1 SCC 568",
+      "Sumac International Ltd., (1997) 1 SCC 568"
+    ],
+    "Himadri Chemicals Industries Ltd. v. Coal Tar Refining Co.: (2007) 8 SCC 110": [
+      "Himadri Chemicals Industries Ltd. v. Coal Tar Refining Co.: (2007) 8 SCC 110",
+      "Himadri Chemicals (2007) 8 SCC 110"
+    ],
+    "Vintec Electronics Private Ltd, Vs. HCL Infosystems Ltd., (2008) 1 SCC 544": [
+      "HCL Infosystems Ltd., (2008) 1 SCC 544",
+      "Vintec Electronics Private Ltd, Vs. HCL Infosystems Ltd., (2008) 1 SCC 544"
+    ],
+    "B.S.E.S. Ltd v. Fenner India Ltd, (2006) 2 SCC 728": [
+      "B.S.E.S. Ltd v. Fenner India Ltd, (2006) 2 SCC 728",
+      "(2006) 2 SCC 728]"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "section 37",
+      "Arbitration & Conciliation Act, 1996",
+      "section 37",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "section 9",
+      "Arbitration & Conciliation Act, 19969",
+      "section 9",
+      "Arbitration & Conciliation Act, 19969"
+    ],
+    [
+      "section 9",
+      "Arbitration & Conciliation Act, 1996",
+      "section 9",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act",
+      "Section 37",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Section 9",
+      "Conciliation Act, 1996",
+      "Section 9",
+      "Conciliation Act, 1996"
+    ],
+    [
+      "order 39",
+      "CPC",
+      "order 39",
+      "CPC"
+    ],
+    [
+      "Order 39, Rules 1 and 2",
+      "CPC",
+      "Order 39, Rules 1 and 2",
+      "CPC"
+    ],
+    [
+      "section 9",
+      "Arbitration & Conciliation Act",
+      "section 9",
+      "Arbitration & Conciliation Act"
+    ],
+    [
+      "section 9",
+      "Arbitration & Conciliation Act",
+      "section 9",
+      "Arbitration & Conciliation Act"
+    ],
+    [
+      "section 9",
+      "Arbitration & conciliation Act",
+      "section 9",
+      "Arbitration & conciliation Act"
+    ],
+    [
+      "section 9",
+      "Arbitration & Conciliation Act",
+      "section 9",
+      "Arbitration & Conciliation Act"
+    ],
+    [
+      "Article 141",
+      "Constitution of India",
+      "Article 141",
+      "Constitution of India"
+    ],
+    [
+      "section 9",
+      "Arbitration & Conciliation Act, 19969",
+      "section 9",
+      "Arbitration & Conciliation Act, 19969"
+    ],
+    [
+      "section 9",
+      "Arbitration & Conciliation Act, 1996",
+      "section 9",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "section 9",
+      "Arbitration & Conciliation Act, 1996",
+      "section 9",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "section 9",
+      "Arbitration & Conciliation Act, 1996",
+      "section 9",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "section 9",
+      "Conciliation Act, 1996",
+      "section 9",
+      "Conciliation Act, 1996"
+    ],
+    [
+      "Section 9",
+      "Conciliation Act, 1996",
+      "Section 9",
+      "Conciliation Act, 1996"
+    ],
+    [
+      "section 9",
+      "Conciliation Act, 1996",
+      "section 9",
+      "Conciliation Act, 1996"
+    ],
+    [
+      "section 9",
+      "Conciliation Act, 1996",
+      "section 9",
+      "Conciliation Act, 1996"
+    ],
+    [
+      "section 9",
+      "Conciliation Act, 1996",
+      "section 9",
+      "Conciliation Act, 1996"
+    ],
+    [
+      "section 9",
+      "Arbitration & Conciliation Act",
+      "section 9",
+      "Arbitration & Conciliation Act"
+    ],
+    [
+      "SCC 502",
+      "CPC",
+      "SCC 502",
+      "CPC"
+    ]
+  ],
+  "precedent_counts": {
+    "Prem Heavy Engineering Works (P) Ltd. (1997) 6": 14,
+    "Tehri Hydro Development Corporation Ltd, and another, (1996) 5 SCC Page 450": 2,
+    "Continental Construction Ltd. v/s Sutluj Jal Vidyut Nigam Ltd. 2006 SCC Online Del 56": 2,
+    "V. Satluj Jal Vidyut Nigam Ltd. reported as 2005 SCC OnLine Del 1249": 2,
+    "U.P State Sugar Corporation Vs Sumac International Limited (1997) 1 SCC 568": 4,
+    "Himadri Chemicals Industries Ltd. v. Coal Tar Refining Co.: (2007) 8 SCC 110": 2,
+    "Vintec Electronics Private Ltd, Vs. HCL Infosystems Ltd., (2008) 1 SCC 544": 2,
+    "B.S.E.S. Ltd v. Fenner India Ltd, (2006) 2 SCC 728": 2
+  },
+  "provision_counts": {
+    "section 37 of Arbitration & Conciliation Act, 1996": 1,
+    "section 9 of Arbitration & Conciliation Act, 19969": 2,
+    "section 9 of Arbitration & Conciliation Act, 1996": 4,
+    "Section 37 of Arbitration and Conciliation Act, 1996": 1,
+    "Section 13 of Commercial Courts Act": 1,
+    "Section 37 of Arbitration and Conciliation Act": 1,
+    "Article 227 of Constitution of India": 1,
+    "Section 9 of Conciliation Act, 1996": 2,
+    "order 39 of CPC": 1,
+    "Order 39, Rules 1 and 2 of CPC": 1,
+    "section 9 of Arbitration & Conciliation Act": 4,
+    "section 9 of Arbitration & conciliation Act": 1,
+    "Article 141 of Constitution of India": 1,
+    "section 9 of Conciliation Act, 1996": 4,
+    "SCC 502 of CPC": 1
+  },
+  "statute_counts": {
+    "Arbitration & Conciliation Act, 1996": 5,
+    "Arbitration & Conciliation Act, 19969": 2,
+    "Arbitration and Conciliation Act, 1996": 1,
+    "Commercial Courts Act": 1,
+    "Arbitration and Conciliation Act": 1,
+    "Constitution of India": 2,
+    "Conciliation Act, 1996": 6,
+    "CPC": 3,
+    "Arbitration & Conciliation Act": 4,
+    "Arbitration & conciliation Act": 1
+  }
+}

@@ -1,0 +1,2386 @@
+{
+  "entities": [
+    {
+      "text": "Vimal Electric Company",
+      "label": "PETITIONER",
+      "start_char": 19,
+      "end_char": 41
+    },
+    {
+      "text": "Vimal Agro Products Pvt Ltd",
+      "label": "RESPONDENT",
+      "start_char": 47,
+      "end_char": 74
+    },
+    {
+      "text": "M.R. Shah",
+      "label": "JUDGE",
+      "start_char": 100,
+      "end_char": 109
+    },
+    {
+      "text": "B.N. Karia",
+      "label": "JUDGE",
+      "start_char": 111,
+      "end_char": 121
+    },
+    {
+      "text": "HIGH COURT OF GUJARAT AT AHMEDABAD",
+      "label": "COURT",
+      "start_char": 273,
+      "end_char": 307
+    },
+    {
+      "text": "M.R. SHAH",
+      "label": "JUDGE",
+      "start_char": 454,
+      "end_char": 463
+    },
+    {
+      "text": "B.N. KARIA",
+      "label": "JUDGE",
+      "start_char": 539,
+      "end_char": 549
+    },
+    {
+      "text": "Constitution  of   India",
+      "label": "STATUTE",
+      "start_char": 1123,
+      "end_char": 1147
+    },
+    {
+      "text": "VIMAL ELECTRIC COMPANY",
+      "label": "PETITIONER",
+      "start_char": 1252,
+      "end_char": 1274
+    },
+    {
+      "text": "VIMAL AGRO PRODUCTS PVT LTD",
+      "label": "RESPONDENT",
+      "start_char": 1304,
+      "end_char": 1331
+    },
+    {
+      "text": "RR SHAH",
+      "label": "OTHER_PERSON",
+      "start_char": 1431,
+      "end_char": 1438
+    },
+    {
+      "text": "KALPESH C PATEL",
+      "label": "OTHER_PERSON",
+      "start_char": 1483,
+      "end_char": 1498
+    },
+    {
+      "text": "M.R. SHAH",
+      "label": "JUDGE",
+      "start_char": 1633,
+      "end_char": 1642
+    },
+    {
+      "text": "B.N. KARIA",
+      "label": "JUDGE",
+      "start_char": 1669,
+      "end_char": 1679
+    },
+    {
+      "text": "25/04/2017",
+      "label": "DATE",
+      "start_char": 1688,
+      "end_char": 1698
+    },
+    {
+      "text": "M.R. SHAH",
+      "label": "JUDGE",
+      "start_char": 1744,
+      "end_char": 1753
+    },
+    {
+      "text": "Commercial Court, Ahmedabad",
+      "label": "COURT",
+      "start_char": 1857,
+      "end_char": 1884
+    },
+    {
+      "text": "No. 155 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 1931,
+      "end_char": 1946
+    },
+    {
+      "text": "Wed Aug 16 05:49:33 IST 2017",
+      "label": "DATE",
+      "start_char": 2218,
+      "end_char": 2246
+    },
+    {
+      "text": "Civil   Suit   No.   272   of   ",
+      "label": "CASE_NUMBER",
+      "start_char": 2765,
+      "end_char": 2797
+    },
+    {
+      "text": "City   Civil   Court   at  Ahmedabad",
+      "label": "COURT",
+      "start_char": 2815,
+      "end_char": 2851
+    },
+    {
+      "text": "VIMAL GROUP",
+      "label": "ORG",
+      "start_char": 3840,
+      "end_char": 3851
+    },
+    {
+      "text": "Wed Aug 16 05:49:33 IST 2017",
+      "label": "DATE",
+      "start_char": 4285,
+      "end_char": 4313
+    },
+    {
+      "text": "C/AO/422/2016",
+      "label": "CASE_NUMBER",
+      "start_char": 4314,
+      "end_char": 4327
+    },
+    {
+      "text": "VIMAL  AGRO PRODUCTS PVT",
+      "label": "ORG",
+      "start_char": 4802,
+      "end_char": 4826
+    },
+    {
+      "text": "05.12.2014",
+      "label": "DATE",
+      "start_char": 6213,
+      "end_char": 6223
+    },
+    {
+      "text": "05.12.2014",
+      "label": "DATE",
+      "start_char": 6485,
+      "end_char": 6495
+    },
+    {
+      "text": "Wed Aug 16 05:49:33 IST 2017",
+      "label": "DATE",
+      "start_char": 6535,
+      "end_char": 6563
+    },
+    {
+      "text": "C/AO/422/2016",
+      "label": "CASE_NUMBER",
+      "start_char": 6564,
+      "end_char": 6577
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 6874,
+      "end_char": 6883
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 7190,
+      "end_char": 7199
+    },
+    {
+      "text": "Alka Stores",
+      "label": "ORG",
+      "start_char": 7256,
+      "end_char": 7267
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 7269,
+      "end_char": 7278
+    },
+    {
+      "text": "09012015",
+      "label": "DATE",
+      "start_char": 7333,
+      "end_char": 7341
+    },
+    {
+      "text": "Shree  Krushan   Dudh   Ghar",
+      "label": "OTHER_PERSON",
+      "start_char": 7350,
+      "end_char": 7378
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 7381,
+      "end_char": 7390
+    },
+    {
+      "text": "Mehsana",
+      "label": "GPE",
+      "start_char": 7508,
+      "end_char": 7515
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 7517,
+      "end_char": 7526
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 7635,
+      "end_char": 7644
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 8278,
+      "end_char": 8288
+    },
+    {
+      "text": "Trade Marks   Act, 1999",
+      "label": "STATUTE",
+      "start_char": 8296,
+      "end_char": 8319
+    },
+    {
+      "text": "section 20",
+      "label": "PROVISION",
+      "start_char": 8335,
+      "end_char": 8345
+    },
+    {
+      "text": "Code of Civil   Procedure,   1908",
+      "label": "STATUTE",
+      "start_char": 8353,
+      "end_char": 8386
+    },
+    {
+      "text": "03012015",
+      "label": "DATE",
+      "start_char": 8467,
+      "end_char": 8475
+    },
+    {
+      "text": "08012015",
+      "label": "DATE",
+      "start_char": 8636,
+      "end_char": 8644
+    },
+    {
+      "text": "09012015",
+      "label": "DATE",
+      "start_char": 8707,
+      "end_char": 8715
+    },
+    {
+      "text": "Order 7 Rule  10",
+      "label": "PROVISION",
+      "start_char": 8918,
+      "end_char": 8934
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 8942,
+      "end_char": 8965
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 8970,
+      "end_char": 8981
+    },
+    {
+      "text": "Wed Aug 16 05:49:33 IST 2017",
+      "label": "DATE",
+      "start_char": 9029,
+      "end_char": 9057
+    },
+    {
+      "text": "CAV JUDGMENT Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 9106,
+      "end_char": 9134
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 9602,
+      "end_char": 9611
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 9681,
+      "end_char": 9690
+    },
+    {
+      "text": "Civil Suit No.272  of   2015",
+      "label": "CASE_NUMBER",
+      "start_char": 9706,
+      "end_char": 9734
+    },
+    {
+      "text": "Commercial   Court   at  Ahmedabad",
+      "label": "COURT",
+      "start_char": 9775,
+      "end_char": 9809
+    },
+    {
+      "text": "Commercial Civil Suit No. 155  of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 9832,
+      "end_char": 9870
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 10052,
+      "end_char": 10061
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 10188,
+      "end_char": 10197
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 10283,
+      "end_char": 10292
+    },
+    {
+      "text": "Bardoli",
+      "label": "GPE",
+      "start_char": 10468,
+      "end_char": 10475
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 10550,
+      "end_char": 10559
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 10993,
+      "end_char": 11002
+    },
+    {
+      "text": "Wed Aug 16 05:49:33 IST 2017",
+      "label": "DATE",
+      "start_char": 11108,
+      "end_char": 11136
+    },
+    {
+      "text": "C/AO/422/2016",
+      "label": "CASE_NUMBER",
+      "start_char": 11137,
+      "end_char": 11150
+    },
+    {
+      "text": "CAV JUDGMENT",
+      "label": "ORG",
+      "start_char": 11185,
+      "end_char": 11197
+    },
+    {
+      "text": "Alka Stores",
+      "label": "ORG",
+      "start_char": 11281,
+      "end_char": 11292
+    },
+    {
+      "text": "Shree Krushna Dudh Ghar",
+      "label": "OTHER_PERSON",
+      "start_char": 11297,
+      "end_char": 11320
+    },
+    {
+      "text": "Ahmedabad   Court",
+      "label": "COURT",
+      "start_char": 11869,
+      "end_char": 11886
+    },
+    {
+      "text": "Section 134",
+      "label": "PROVISION",
+      "start_char": 12156,
+      "end_char": 12167
+    },
+    {
+      "text": "Trade Marks Act",
+      "label": "STATUTE",
+      "start_char": 12175,
+      "end_char": 12190
+    },
+    {
+      "text": "Section 64",
+      "label": "PROVISION",
+      "start_char": 12195,
+      "end_char": 12205
+    },
+    {
+      "text": "Copyright  Act",
+      "label": "STATUTE",
+      "start_char": 12213,
+      "end_char": 12227
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 12317,
+      "end_char": 12327
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 12335,
+      "end_char": 12358
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 12482,
+      "end_char": 12491
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 12621,
+      "end_char": 12630
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 12700,
+      "end_char": 12709
+    },
+    {
+      "text": "Bardoli",
+      "label": "GPE",
+      "start_char": 12892,
+      "end_char": 12899
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 13030,
+      "end_char": 13039
+    },
+    {
+      "text": "Wed Aug 16 05:49:33 IST 2017",
+      "label": "DATE",
+      "start_char": 13330,
+      "end_char": 13358
+    },
+    {
+      "text": "C/AO/422/2016                                                                             CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 13370,
+      "end_char": 13472
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 13748,
+      "end_char": 13757
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 13775,
+      "end_char": 13784
+    },
+    {
+      "text": "Alka  Stores",
+      "label": "ORG",
+      "start_char": 13981,
+      "end_char": 13993
+    },
+    {
+      "text": "Shree Krushna Dudh Ghar",
+      "label": "OTHER_PERSON",
+      "start_char": 14009,
+      "end_char": 14032
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 14050,
+      "end_char": 14059
+    },
+    {
+      "text": "Section 134",
+      "label": "PROVISION",
+      "start_char": 14121,
+      "end_char": 14132
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 14156,
+      "end_char": 14166
+    },
+    {
+      "text": "Code of  Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 14174,
+      "end_char": 14198
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 14290,
+      "end_char": 14299
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 14329,
+      "end_char": 14338
+    },
+    {
+      "text": "CAV JUDGMENT Court,   Ahmedabad",
+      "label": "COURT",
+      "start_char": 15426,
+      "end_char": 15457
+    },
+    {
+      "text": "R.R.   Shah",
+      "label": "OTHER_PERSON",
+      "start_char": 15595,
+      "end_char": 15606
+    },
+    {
+      "text": "Mitul   Shelat",
+      "label": "OTHER_PERSON",
+      "start_char": 15709,
+      "end_char": 15723
+    },
+    {
+      "text": "R.R.   Shah",
+      "label": "OTHER_PERSON",
+      "start_char": 15808,
+      "end_char": 15819
+    },
+    {
+      "text": "Rule   10",
+      "label": "PROVISION",
+      "start_char": 16114,
+      "end_char": 16123
+    },
+    {
+      "text": "Code   of   Civil   Procedure",
+      "label": "STATUTE",
+      "start_char": 16137,
+      "end_char": 16166
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 16203,
+      "end_char": 16212
+    },
+    {
+      "text": "R.R.   Shah",
+      "label": "OTHER_PERSON",
+      "start_char": 16316,
+      "end_char": 16327
+    },
+    {
+      "text": "Court at Ahmedabad",
+      "label": "COURT",
+      "start_char": 16455,
+      "end_char": 16473
+    },
+    {
+      "text": "R.R.   Shah",
+      "label": "OTHER_PERSON",
+      "start_char": 16729,
+      "end_char": 16740
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 16884,
+      "end_char": 16893
+    },
+    {
+      "text": "Shah",
+      "label": "JUDGE",
+      "start_char": 17138,
+      "end_char": 17142
+    },
+    {
+      "text": "Wed Aug 16 05:49:33 IST 2017",
+      "label": "DATE",
+      "start_char": 17221,
+      "end_char": 17249
+    },
+    {
+      "text": "CAV JUDGMENT",
+      "label": "PETITIONER",
+      "start_char": 17298,
+      "end_char": 17310
+    },
+    {
+      "text": "Pam Pharmaceuticals vs. Richardson Vicks  Inc & Ors reported in 2001(1) GLR 125",
+      "label": "PRECEDENT",
+      "start_char": 17406,
+      "end_char": 17485
+    },
+    {
+      "text": "Unilever PLC & Anr vs. Vesco Laboratories reported in AIR 2010  Gujarat 8",
+      "label": "PRECEDENT",
+      "start_char": 17513,
+      "end_char": 17586
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 18315,
+      "end_char": 18324
+    },
+    {
+      "text": "Alka Stores",
+      "label": "ORG",
+      "start_char": 18431,
+      "end_char": 18442
+    },
+    {
+      "text": "Shree Krushna Dudh Ghar",
+      "label": "OTHER_PERSON",
+      "start_char": 18447,
+      "end_char": 18470
+    },
+    {
+      "text": "Order 7 Rule 10 / Order 7 Rule  11",
+      "label": "PROVISION",
+      "start_char": 18660,
+      "end_char": 18694
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 18702,
+      "end_char": 18725
+    },
+    {
+      "text": "Shah",
+      "label": "JUDGE",
+      "start_char": 18871,
+      "end_char": 18875
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 18993,
+      "end_char": 19006
+    },
+    {
+      "text": "Saleembhai and others vs. State of  Maharashtra and others reported in AIR 2003 SC 759",
+      "label": "PRECEDENT",
+      "start_char": 19022,
+      "end_char": 19108
+    },
+    {
+      "text": "Shah",
+      "label": "JUDGE",
+      "start_char": 19148,
+      "end_char": 19152
+    },
+    {
+      "text": "Wed Aug 16 05:49:33 IST 2017",
+      "label": "DATE",
+      "start_char": 19203,
+      "end_char": 19231
+    },
+    {
+      "text": "C/AO/422/2016",
+      "label": "CASE_NUMBER",
+      "start_char": 19232,
+      "end_char": 19245
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 19591,
+      "end_char": 19600
+    },
+    {
+      "text": "Commercial Court,  Ahmedabad",
+      "label": "COURT",
+      "start_char": 19705,
+      "end_char": 19733
+    },
+    {
+      "text": "Mitul Shelat",
+      "label": "OTHER_PERSON",
+      "start_char": 20009,
+      "end_char": 20021
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 20362,
+      "end_char": 20371
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 20587,
+      "end_char": 20596
+    },
+    {
+      "text": "Shelat",
+      "label": "OTHER_PERSON",
+      "start_char": 20870,
+      "end_char": 20876
+    },
+    {
+      "text": "Wed Aug 16 05:49:33 IST 2017",
+      "label": "DATE",
+      "start_char": 21042,
+      "end_char": 21070
+    },
+    {
+      "text": "C/AO/422/2016",
+      "label": "CASE_NUMBER",
+      "start_char": 21071,
+      "end_char": 21084
+    },
+    {
+      "text": "Vimal Electric Company",
+      "label": "ORG",
+      "start_char": 21225,
+      "end_char": 21247
+    },
+    {
+      "text": "Vimal Oil and Foods Ltd",
+      "label": "PETITIONER",
+      "start_char": 21398,
+      "end_char": 21421
+    },
+    {
+      "text": "14.5.1994",
+      "label": "DATE",
+      "start_char": 21475,
+      "end_char": 21484
+    },
+    {
+      "text": "Mehsana",
+      "label": "GPE",
+      "start_char": 21557,
+      "end_char": 21564
+    },
+    {
+      "text": "Vimal",
+      "label": "OTHER_PERSON",
+      "start_char": 21651,
+      "end_char": 21656
+    },
+    {
+      "text": "14.10.1988",
+      "label": "DATE",
+      "start_char": 21860,
+      "end_char": 21870
+    },
+    {
+      "text": "Bardoli",
+      "label": "GPE",
+      "start_char": 22043,
+      "end_char": 22050
+    },
+    {
+      "text": "Bardoli",
+      "label": "GPE",
+      "start_char": 22137,
+      "end_char": 22144
+    },
+    {
+      "text": "Trade   Marks   Act",
+      "label": "STATUTE",
+      "start_char": 22268,
+      "end_char": 22287
+    },
+    {
+      "text": "Shelat",
+      "label": "OTHER_PERSON",
+      "start_char": 22379,
+      "end_char": 22385
+    },
+    {
+      "text": "Commercial   Court   at  Ahmedabad",
+      "label": "COURT",
+      "start_char": 22537,
+      "end_char": 22571
+    },
+    {
+      "text": "Section 134",
+      "label": "PROVISION",
+      "start_char": 22584,
+      "end_char": 22595
+    },
+    {
+      "text": "Trade Marks Act",
+      "label": "STATUTE",
+      "start_char": 22603,
+      "end_char": 22618
+    },
+    {
+      "text": "Section   20",
+      "label": "PROVISION",
+      "start_char": 22626,
+      "end_char": 22638
+    },
+    {
+      "text": "Code   of   Civil   Procedure",
+      "label": "STATUTE",
+      "start_char": 22652,
+      "end_char": 22681
+    },
+    {
+      "text": "Section   134",
+      "label": "PROVISION",
+      "start_char": 22731,
+      "end_char": 22744
+    },
+    {
+      "text": "Trade   Marks   Act",
+      "label": "STATUTE",
+      "start_char": 22758,
+      "end_char": 22777
+    },
+    {
+      "text": "Wed Aug 16 05:49:33 IST 2017",
+      "label": "DATE",
+      "start_char": 22830,
+      "end_char": 22858
+    },
+    {
+      "text": "C/AO/422/2016",
+      "label": "CASE_NUMBER",
+      "start_char": 22859,
+      "end_char": 22872
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 23211,
+      "end_char": 23221
+    },
+    {
+      "text": "Civil Procedure Code, 1908",
+      "label": "STATUTE",
+      "start_char": 23229,
+      "end_char": 23255
+    },
+    {
+      "text": "Shelat",
+      "label": "OTHER_PERSON",
+      "start_char": 23301,
+      "end_char": 23307
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 23381,
+      "end_char": 23397
+    },
+    {
+      "text": "Heinz India Pvt Ltd vs. Shrejee Remedies reported in 2013(55) PTC  542(Delhi)",
+      "label": "PRECEDENT",
+      "start_char": 23414,
+      "end_char": 23491
+    },
+    {
+      "text": "Shelat",
+      "label": "OTHER_PERSON",
+      "start_char": 23531,
+      "end_char": 23537
+    },
+    {
+      "text": "Court   /   Commercial   Court,  Ahmedabad",
+      "label": "COURT",
+      "start_char": 23683,
+      "end_char": 23725
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 24043,
+      "end_char": 24052
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 24400,
+      "end_char": 24413
+    },
+    {
+      "text": "Madras High Court",
+      "label": "COURT",
+      "start_char": 24426,
+      "end_char": 24443
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 24448,
+      "end_char": 24464
+    },
+    {
+      "text": "Wed Aug 16 05:49:33 IST 2017",
+      "label": "DATE",
+      "start_char": 24499,
+      "end_char": 24527
+    },
+    {
+      "text": "C/AO/422/2016",
+      "label": "CASE_NUMBER",
+      "start_char": 24528,
+      "end_char": 24541
+    },
+    {
+      "text": "Austin   Reed   Limited   vs.   Suntex   Garments   Others  reported in 2007 (35) PTC 774 (Mad)",
+      "label": "PRECEDENT",
+      "start_char": 24592,
+      "end_char": 24687
+    },
+    {
+      "text": "Premier   Distilleries     Pvt   Ltd   vs.   Sushi   Distilleries  reported in 2001 (21) PTC 907 (Mad)",
+      "label": "PRECEDENT",
+      "start_char": 24693,
+      "end_char": 24795
+    },
+    {
+      "text": "Lakhan Pal Shyam Kumar vs. Ram Prasad Gupta &  Anr reported in 2012(51) PTC 141 (Del)",
+      "label": "PRECEDENT",
+      "start_char": 24804,
+      "end_char": 24889
+    },
+    {
+      "text": "Dhodha House & Patel Field Marshal Industries vs. S.K.  Maingi & P.M Diesel Limited reported in AIR 2006 SC  5.5",
+      "label": "PRECEDENT",
+      "start_char": 24893,
+      "end_char": 25005
+    },
+    {
+      "text": "Shelat",
+      "label": "OTHER_PERSON",
+      "start_char": 25039,
+      "end_char": 25045
+    },
+    {
+      "text": "Shelat",
+      "label": "OTHER_PERSON",
+      "start_char": 25697,
+      "end_char": 25703
+    },
+    {
+      "text": "Supreme   Court",
+      "label": "COURT",
+      "start_char": 25769,
+      "end_char": 25784
+    },
+    {
+      "text": "Oil   and   Natural   Gas  Commission  vs. Utpal Kumar Basu and ors reported in (1994) 4  SCC 711",
+      "label": "PRECEDENT",
+      "start_char": 25810,
+      "end_char": 25907
+    },
+    {
+      "text": "Shelat",
+      "label": "OTHER_PERSON",
+      "start_char": 25947,
+      "end_char": 25953
+    },
+    {
+      "text": "Wed Aug 16 05:49:33 IST 2017",
+      "label": "DATE",
+      "start_char": 26213,
+      "end_char": 26241
+    },
+    {
+      "text": "C/AO/422/2016",
+      "label": "CASE_NUMBER",
+      "start_char": 26242,
+      "end_char": 26255
+    },
+    {
+      "text": "Shelat",
+      "label": "OTHER_PERSON",
+      "start_char": 26546,
+      "end_char": 26552
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 26646,
+      "end_char": 26662
+    },
+    {
+      "text": "Banyan Tree Holding (P) Limited vs. A. Murali Krishna  Reddy and Anr reported in 2010(42) PTC 361 (Del)",
+      "label": "PRECEDENT",
+      "start_char": 26669,
+      "end_char": 26772
+    },
+    {
+      "text": "Hydac Fluidtechnik Gmbh and Anr vs. Flutec Industries  reported in 2013(56) PTC 344 (Del)",
+      "label": "PRECEDENT",
+      "start_char": 26779,
+      "end_char": 26868
+    },
+    {
+      "text": "Alka Stores",
+      "label": "ORG",
+      "start_char": 26972,
+      "end_char": 26983
+    },
+    {
+      "text": "Shree Krushna Dudh  Ghar",
+      "label": "OTHER_PERSON",
+      "start_char": 26988,
+      "end_char": 27012
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 27266,
+      "end_char": 27275
+    },
+    {
+      "text": "Shelat",
+      "label": "OTHER_PERSON",
+      "start_char": 27326,
+      "end_char": 27332
+    },
+    {
+      "text": "Wed Aug 16 05:49:33 IST 2017",
+      "label": "DATE",
+      "start_char": 27962,
+      "end_char": 27990
+    },
+    {
+      "text": "C/AO/422/2016",
+      "label": "CASE_NUMBER",
+      "start_char": 28002,
+      "end_char": 28015
+    },
+    {
+      "text": "Wed Aug 16 05:49:33 IST 2017",
+      "label": "DATE",
+      "start_char": 29690,
+      "end_char": 29718
+    },
+    {
+      "text": "C/AO/422/2016",
+      "label": "CASE_NUMBER",
+      "start_char": 29730,
+      "end_char": 29743
+    },
+    {
+      "text": "5.12",
+      "label": "DATE",
+      "start_char": 30106,
+      "end_char": 30110
+    },
+    {
+      "text": "Shelat",
+      "label": "OTHER_PERSON",
+      "start_char": 30144,
+      "end_char": 30150
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 30547,
+      "end_char": 30560
+    },
+    {
+      "text": "Ruston & Hornsby Ltd vs. Zamindara  Engineering Co reported in (1969) 2 SCC 727",
+      "label": "PRECEDENT",
+      "start_char": 30573,
+      "end_char": 30652
+    },
+    {
+      "text": "Commercial Court at Ahmedabad",
+      "label": "COURT",
+      "start_char": 30955,
+      "end_char": 30984
+    },
+    {
+      "text": "Firm  Bhagwan  Das Ramji  Lal and  another  vs.  Watkins  Mayar and Co reported in AIR 1947 Lah 289",
+      "label": "PRECEDENT",
+      "start_char": 31270,
+      "end_char": 31369
+    },
+    {
+      "text": "Himachal   Pradesh  Horticulture   Produce   Marketing   and  HC-NIC",
+      "label": "ORG",
+      "start_char": 31375,
+      "end_char": 31443
+    },
+    {
+      "text": "Wed Aug 16 05:49:33 IST 2017",
+      "label": "DATE",
+      "start_char": 31469,
+      "end_char": 31497
+    },
+    {
+      "text": "CAV JUDGMENT Processing   Corporation   Limited   vs.   Mohan   Meaki  Breweries Limited reported in 1981(1) PTC 74 ( P & H)",
+      "label": "PRECEDENT",
+      "start_char": 31546,
+      "end_char": 31670
+    },
+    {
+      "text": "Gold   Seal   Engineering   Products   Pvt   Ltd   and   Ors   vs.  Hindustan Manufacturers and Ors reported in 1992(12)",
+      "label": "PRECEDENT",
+      "start_char": 31674,
+      "end_char": 31794
+    },
+    {
+      "text": "Archie Comic Publications, Inc vs. Purple Creations Pvt  Ltd & ors reported in 2008(37) PTC 279 (Del)",
+      "label": "PRECEDENT",
+      "start_char": 31813,
+      "end_char": 31914
+    },
+    {
+      "text": "2008 (38) PTC 243 (Del)",
+      "label": "PRECEDENT",
+      "start_char": 31997,
+      "end_char": 32020
+    },
+    {
+      "text": "F. Hoffmann­ La­ Roche Ltd vs. Intas Biopharmaceuticals  Limited reported in 2013(56) PTC 129 (Mad) (DB)",
+      "label": "PRECEDENT",
+      "start_char": 32026,
+      "end_char": 32130
+    },
+    {
+      "text": "Austin Reed Limited vs. Suntex Garments Ors reported in  2007 (35) PTC 774 (MAD)",
+      "label": "PRECEDENT",
+      "start_char": 32136,
+      "end_char": 32216
+    },
+    {
+      "text": "5.14",
+      "label": "DATE",
+      "start_char": 32219,
+      "end_char": 32223
+    },
+    {
+      "text": "Shelat",
+      "label": "OTHER_PERSON",
+      "start_char": 32257,
+      "end_char": 32263
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 32481,
+      "end_char": 32491
+    },
+    {
+      "text": "Code  of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 32499,
+      "end_char": 32523
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 32558,
+      "end_char": 32568
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 32577,
+      "end_char": 32600
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 32793,
+      "end_char": 32802
+    },
+    {
+      "text": "Bardoli",
+      "label": "GPE",
+      "start_char": 32847,
+      "end_char": 32854
+    },
+    {
+      "text": "Surat",
+      "label": "GPE",
+      "start_char": 32865,
+      "end_char": 32870
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 32946,
+      "end_char": 32955
+    },
+    {
+      "text": "5.15",
+      "label": "DATE",
+      "start_char": 32958,
+      "end_char": 32962
+    },
+    {
+      "text": "Wed Aug 16 05:49:33 IST 2017",
+      "label": "DATE",
+      "start_char": 33057,
+      "end_char": 33085
+    },
+    {
+      "text": "C/AO/422/2016",
+      "label": "CASE_NUMBER",
+      "start_char": 33086,
+      "end_char": 33099
+    },
+    {
+      "text": "CAV JUDGMENT",
+      "label": "ORG",
+      "start_char": 33134,
+      "end_char": 33146
+    },
+    {
+      "text": "Bardoli",
+      "label": "GPE",
+      "start_char": 33243,
+      "end_char": 33250
+    },
+    {
+      "text": "Surat",
+      "label": "GPE",
+      "start_char": 33265,
+      "end_char": 33270
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 33658,
+      "end_char": 33667
+    },
+    {
+      "text": "Shelat",
+      "label": "OTHER_PERSON",
+      "start_char": 33781,
+      "end_char": 33787
+    },
+    {
+      "text": "Patel",
+      "label": "OTHER_PERSON",
+      "start_char": 33873,
+      "end_char": 33878
+    },
+    {
+      "text": "Marshal   Industries   vs.  S.K. Maingi & P.M Diesel Limited reported in AIR 2006  SC 730",
+      "label": "PRECEDENT",
+      "start_char": 33889,
+      "end_char": 33978
+    },
+    {
+      "text": "Shaw Wallace and Co Ltd vs. M.P.Beer Product  Pvt Ltd  reported in 2009(39) PTC 157 (Del)",
+      "label": "PRECEDENT",
+      "start_char": 33984,
+      "end_char": 34073
+    },
+    {
+      "text": "SS Products of India vs. Star Plast reported in 2001(21)  PTC 835 (Del)",
+      "label": "PRECEDENT",
+      "start_char": 34079,
+      "end_char": 34150
+    },
+    {
+      "text": "5.16",
+      "label": "DATE",
+      "start_char": 34153,
+      "end_char": 34157
+    },
+    {
+      "text": "Shelat",
+      "label": "OTHER_PERSON",
+      "start_char": 34191,
+      "end_char": 34197
+    },
+    {
+      "text": "Commercial Court, Ahmedabad",
+      "label": "COURT",
+      "start_char": 34897,
+      "end_char": 34924
+    },
+    {
+      "text": "Wed Aug 16 05:49:33 IST 2017",
+      "label": "DATE",
+      "start_char": 34959,
+      "end_char": 34987
+    },
+    {
+      "text": "C/AO/422/2016",
+      "label": "CASE_NUMBER",
+      "start_char": 34988,
+      "end_char": 35001
+    },
+    {
+      "text": "CAV JUDGMENT",
+      "label": "OTHER_PERSON",
+      "start_char": 35036,
+      "end_char": 35048
+    },
+    {
+      "text": "5.17",
+      "label": "DATE",
+      "start_char": 35049,
+      "end_char": 35053
+    },
+    {
+      "text": "Shelat",
+      "label": "OTHER_PERSON",
+      "start_char": 35087,
+      "end_char": 35093
+    },
+    {
+      "text": "Order 7 Rule 10",
+      "label": "PROVISION",
+      "start_char": 35202,
+      "end_char": 35217
+    },
+    {
+      "text": "Shelat",
+      "label": "OTHER_PERSON",
+      "start_char": 35713,
+      "end_char": 35719
+    },
+    {
+      "text": "T.Arivandandam vs. T.V. Satypaal and Another reported  in (1997) 4 SCC 467",
+      "label": "PRECEDENT",
+      "start_char": 35804,
+      "end_char": 35878
+    },
+    {
+      "text": "Heinz   India   Pvt   Ltd   vs.   Shrejee   Remedies   reported   in  2013(55) PTC 542 (DEL)",
+      "label": "PRECEDENT",
+      "start_char": 35886,
+      "end_char": 35978
+    },
+    {
+      "text": "LTC Limited vs. Debts Recovery Appellate Tribunal And  others reported in (1998) 2 SCC 70",
+      "label": "PRECEDENT",
+      "start_char": 35986,
+      "end_char": 36075
+    },
+    {
+      "text": "Church   of   Christ   Charitable   Trust   and   Educational  Charitable   Society   vs.   Ponniamman   Educational   Trust  reported in (2012) 8",
+      "label": "PRECEDENT",
+      "start_char": 36083,
+      "end_char": 36229
+    },
+    {
+      "text": "SCC 707",
+      "label": "CASE_NUMBER",
+      "start_char": 36230,
+      "end_char": 36237
+    },
+    {
+      "text": "Piccadily and Industries Ltd vs. Ashok Narwal reported  in 2016(66)",
+      "label": "PRECEDENT",
+      "start_char": 36245,
+      "end_char": 36312
+    },
+    {
+      "text": "PTC 209 (Del)",
+      "label": "CASE_NUMBER",
+      "start_char": 36313,
+      "end_char": 36326
+    },
+    {
+      "text": "Supreme   Court",
+      "label": "COURT",
+      "start_char": 36405,
+      "end_char": 36420
+    },
+    {
+      "text": "Neon   Laboratories  Limited vs. Medical Technologies Ltd & Anr reported in (2016) 2  SCC 672",
+      "label": "PRECEDENT",
+      "start_char": 36446,
+      "end_char": 36539
+    },
+    {
+      "text": "Wed Aug 16 05:49:33 IST 2017",
+      "label": "DATE",
+      "start_char": 36614,
+      "end_char": 36642
+    },
+    {
+      "text": "Commercial   Court,   Ahmedabad",
+      "label": "COURT",
+      "start_char": 36911,
+      "end_char": 36942
+    },
+    {
+      "text": "Order 7 Rule 10",
+      "label": "PROVISION",
+      "start_char": 36978,
+      "end_char": 36993
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 37001,
+      "end_char": 37030
+    },
+    {
+      "text": "Commercial Court, Ahmedabad",
+      "label": "COURT",
+      "start_char": 37481,
+      "end_char": 37508
+    },
+    {
+      "text": "Section   134",
+      "label": "PROVISION",
+      "start_char": 37524,
+      "end_char": 37537
+    },
+    {
+      "text": "Trade   Marks   Act",
+      "label": "STATUTE",
+      "start_char": 37551,
+      "end_char": 37570
+    },
+    {
+      "text": "Section   20",
+      "label": "PROVISION",
+      "start_char": 37713,
+      "end_char": 37725
+    },
+    {
+      "text": "Bardoli",
+      "label": "GPE",
+      "start_char": 37862,
+      "end_char": 37869
+    },
+    {
+      "text": "Commercial   Court,   Ahmedabad",
+      "label": "COURT",
+      "start_char": 37876,
+      "end_char": 37907
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 38167,
+      "end_char": 38176
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 38234,
+      "end_char": 38243
+    },
+    {
+      "text": "Wed Aug 16 05:49:33 IST 2017",
+      "label": "DATE",
+      "start_char": 38441,
+      "end_char": 38469
+    },
+    {
+      "text": "Order 7 Rule 10",
+      "label": "PROVISION",
+      "start_char": 38962,
+      "end_char": 38977
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 38985,
+      "end_char": 39008
+    },
+    {
+      "text": "05.12.2014",
+      "label": "DATE",
+      "start_char": 40066,
+      "end_char": 40076
+    },
+    {
+      "text": "05.12.2014",
+      "label": "DATE",
+      "start_char": 40340,
+      "end_char": 40350
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 40609,
+      "end_char": 40618
+    },
+    {
+      "text": "Wed Aug 16 05:49:33 IST 2017",
+      "label": "DATE",
+      "start_char": 40830,
+      "end_char": 40858
+    },
+    {
+      "text": "C/AO/422/2016",
+      "label": "CASE_NUMBER",
+      "start_char": 40859,
+      "end_char": 40872
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 41047,
+      "end_char": 41056
+    },
+    {
+      "text": "Alka Stores",
+      "label": "ORG",
+      "start_char": 41113,
+      "end_char": 41124
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 41126,
+      "end_char": 41135
+    },
+    {
+      "text": "09012015",
+      "label": "DATE",
+      "start_char": 41190,
+      "end_char": 41198
+    },
+    {
+      "text": "Shree  Krushan   Dudh   Ghar",
+      "label": "OTHER_PERSON",
+      "start_char": 41207,
+      "end_char": 41235
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 41238,
+      "end_char": 41247
+    },
+    {
+      "text": "Mehsana",
+      "label": "GPE",
+      "start_char": 41365,
+      "end_char": 41372
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 41374,
+      "end_char": 41383
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 41492,
+      "end_char": 41501
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 42134,
+      "end_char": 42144
+    },
+    {
+      "text": "Trade Marks   Act, 1999",
+      "label": "STATUTE",
+      "start_char": 42152,
+      "end_char": 42175
+    },
+    {
+      "text": "section 20",
+      "label": "PROVISION",
+      "start_char": 42191,
+      "end_char": 42201
+    },
+    {
+      "text": "Code of Civil   Procedure,   1908",
+      "label": "STATUTE",
+      "start_char": 42209,
+      "end_char": 42242
+    },
+    {
+      "text": "03012015",
+      "label": "DATE",
+      "start_char": 42323,
+      "end_char": 42331
+    },
+    {
+      "text": "08012015",
+      "label": "DATE",
+      "start_char": 42492,
+      "end_char": 42500
+    },
+    {
+      "text": "09012015",
+      "label": "DATE",
+      "start_char": 42563,
+      "end_char": 42571
+    },
+    {
+      "text": "Bardoli",
+      "label": "GPE",
+      "start_char": 42815,
+      "end_char": 42822
+    },
+    {
+      "text": "Commercial Court, Ahmedabad",
+      "label": "COURT",
+      "start_char": 42872,
+      "end_char": 42899
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 43152,
+      "end_char": 43161
+    },
+    {
+      "text": "Wed Aug 16 05:49:33 IST 2017",
+      "label": "DATE",
+      "start_char": 43272,
+      "end_char": 43300
+    },
+    {
+      "text": "C/AO/422/2016",
+      "label": "CASE_NUMBER",
+      "start_char": 43301,
+      "end_char": 43314
+    },
+    {
+      "text": "CAV JUDGMENT",
+      "label": "PETITIONER",
+      "start_char": 43349,
+      "end_char": 43361
+    },
+    {
+      "text": "Commercial Court, Ahmedabad",
+      "label": "COURT",
+      "start_char": 43385,
+      "end_char": 43412
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 43980,
+      "end_char": 43989
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 44065,
+      "end_char": 44074
+    },
+    {
+      "text": "Shree   Krushna   Dudh   Ghar,   Ahmedabad",
+      "label": "ORG",
+      "start_char": 44155,
+      "end_char": 44197
+    },
+    {
+      "text": "Alka Stores",
+      "label": "PETITIONER",
+      "start_char": 44537,
+      "end_char": 44548
+    },
+    {
+      "text": "Krushna Dudh Ghar",
+      "label": "PETITIONER",
+      "start_char": 44558,
+      "end_char": 44575
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 44578,
+      "end_char": 44587
+    },
+    {
+      "text": "Alka Stores",
+      "label": "ORG",
+      "start_char": 44681,
+      "end_char": 44692
+    },
+    {
+      "text": "Krushna  Dudh Ghar",
+      "label": "PETITIONER",
+      "start_char": 44702,
+      "end_char": 44720
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 44722,
+      "end_char": 44731
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 45038,
+      "end_char": 45047
+    },
+    {
+      "text": "Wed Aug 16 05:49:33 IST 2017",
+      "label": "DATE",
+      "start_char": 45339,
+      "end_char": 45367
+    },
+    {
+      "text": "C/AO/422/2016",
+      "label": "CASE_NUMBER",
+      "start_char": 45368,
+      "end_char": 45381
+    },
+    {
+      "text": "CAV JUDGMENT",
+      "label": "OTHER_PERSON",
+      "start_char": 45416,
+      "end_char": 45428
+    },
+    {
+      "text": "Alka Stores",
+      "label": "ORG",
+      "start_char": 45457,
+      "end_char": 45468
+    },
+    {
+      "text": "Krushna Dudh Ghar",
+      "label": "PETITIONER",
+      "start_char": 45478,
+      "end_char": 45495
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 45498,
+      "end_char": 45507
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 45666,
+      "end_char": 45675
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 45851,
+      "end_char": 45860
+    },
+    {
+      "text": "Commercial   Court,  Ahmedabad",
+      "label": "COURT",
+      "start_char": 46207,
+      "end_char": 46237
+    },
+    {
+      "text": "Section 134",
+      "label": "PROVISION",
+      "start_char": 46406,
+      "end_char": 46417
+    },
+    {
+      "text": "Trade  Marks Act, 1999",
+      "label": "STATUTE",
+      "start_char": 46425,
+      "end_char": 46447
+    },
+    {
+      "text": "Section 134",
+      "label": "PROVISION",
+      "start_char": 46470,
+      "end_char": 46481
+    },
+    {
+      "text": "Trade  Marks Act",
+      "label": "STATUTE",
+      "start_char": 46489,
+      "end_char": 46505
+    },
+    {
+      "text": "Section   134",
+      "label": "PROVISION",
+      "start_char": 46525,
+      "end_char": 46538
+    },
+    {
+      "text": "Code of Civil   Procedure, 1908  (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 47218,
+      "end_char": 47262
+    },
+    {
+      "text": "Wed Aug 16 05:49:33 IST 2017",
+      "label": "DATE",
+      "start_char": 47324,
+      "end_char": 47352
+    },
+    {
+      "text": "C/AO/422/2016",
+      "label": "CASE_NUMBER",
+      "start_char": 47353,
+      "end_char": 47366
+    },
+    {
+      "text": "Section 134",
+      "label": "PROVISION",
+      "start_char": 48012,
+      "end_char": 48023
+    },
+    {
+      "text": "Trade Marks Act",
+      "label": "STATUTE",
+      "start_char": 48031,
+      "end_char": 48046
+    },
+    {
+      "text": "sub­section   (2)   of  Section   134",
+      "label": "PROVISION",
+      "start_char": 48396,
+      "end_char": 48433
+    },
+    {
+      "text": "Code of Civil Procedure,  1908",
+      "label": "STATUTE",
+      "start_char": 48624,
+      "end_char": 48654
+    },
+    {
+      "text": "Section 134",
+      "label": "PROVISION",
+      "start_char": 49149,
+      "end_char": 49160
+    },
+    {
+      "text": "Trade Marks Act",
+      "label": "STATUTE",
+      "start_char": 49168,
+      "end_char": 49183
+    },
+    {
+      "text": "Wed Aug 16 05:49:33 IST 2017",
+      "label": "DATE",
+      "start_char": 49350,
+      "end_char": 49378
+    },
+    {
+      "text": "C/AO/422/2016",
+      "label": "CASE_NUMBER",
+      "start_char": 49379,
+      "end_char": 49392
+    },
+    {
+      "text": "CAV JUDGMENT",
+      "label": "OTHER_PERSON",
+      "start_char": 49427,
+      "end_char": 49439
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 49464,
+      "end_char": 49474
+    },
+    {
+      "text": "Code  of Civil  Procedure",
+      "label": "STATUTE",
+      "start_char": 49482,
+      "end_char": 49507
+    },
+    {
+      "text": "Section   20",
+      "label": "PROVISION",
+      "start_char": 49550,
+      "end_char": 49562
+    },
+    {
+      "text": "Code   of   Civil  Procedure",
+      "label": "STATUTE",
+      "start_char": 49576,
+      "end_char": 49604
+    },
+    {
+      "text": "Bardoli",
+      "label": "GPE",
+      "start_char": 49948,
+      "end_char": 49955
+    },
+    {
+      "text": "Bardoli",
+      "label": "GPE",
+      "start_char": 50001,
+      "end_char": 50008
+    },
+    {
+      "text": "Commercial Court,  Ahmedabad",
+      "label": "COURT",
+      "start_char": 50041,
+      "end_char": 50069
+    },
+    {
+      "text": "Pam Pharmaceuticals",
+      "label": "PRECEDENT",
+      "start_char": 50627,
+      "end_char": 50646
+    },
+    {
+      "text": "Unilever PLC & Anr",
+      "label": "PRECEDENT",
+      "start_char": 50675,
+      "end_char": 50693
+    },
+    {
+      "text": "Supreme   Court",
+      "label": "COURT",
+      "start_char": 50806,
+      "end_char": 50821
+    },
+    {
+      "text": "Saleembhai",
+      "label": "OTHER_PERSON",
+      "start_char": 50851,
+      "end_char": 50861
+    },
+    {
+      "text": "Alka Stores",
+      "label": "ORG",
+      "start_char": 51074,
+      "end_char": 51085
+    },
+    {
+      "text": "Shree   Krushna   Dudh   Ghar",
+      "label": "OTHER_PERSON",
+      "start_char": 51091,
+      "end_char": 51120
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 51239,
+      "end_char": 51248
+    },
+    {
+      "text": "Commercial Court at Ahmedabad",
+      "label": "COURT",
+      "start_char": 51257,
+      "end_char": 51286
+    },
+    {
+      "text": "Wed Aug 16 05:49:33 IST 2017",
+      "label": "DATE",
+      "start_char": 51425,
+      "end_char": 51453
+    },
+    {
+      "text": "C/AO/422/2016",
+      "label": "CASE_NUMBER",
+      "start_char": 51454,
+      "end_char": 51467
+    },
+    {
+      "text": "CAV JUDGMENT",
+      "label": "PETITIONER",
+      "start_char": 51502,
+      "end_char": 51514
+    },
+    {
+      "text": "Alka Stores",
+      "label": "ORG",
+      "start_char": 51565,
+      "end_char": 51576
+    },
+    {
+      "text": "Shree Krushna Dudh Ghar",
+      "label": "OTHER_PERSON",
+      "start_char": 51582,
+      "end_char": 51605
+    },
+    {
+      "text": "Alka   Stores",
+      "label": "ORG",
+      "start_char": 52518,
+      "end_char": 52531
+    },
+    {
+      "text": "Shree   Krushna   Dudh   Ghar",
+      "label": "ORG",
+      "start_char": 52540,
+      "end_char": 52569
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 52818,
+      "end_char": 52827
+    },
+    {
+      "text": "Wed Aug 16 05:49:33 IST 2017",
+      "label": "DATE",
+      "start_char": 53559,
+      "end_char": 53587
+    },
+    {
+      "text": "C/AO/422/2016",
+      "label": "CASE_NUMBER",
+      "start_char": 53588,
+      "end_char": 53601
+    },
+    {
+      "text": "CAV JUDGMENT invoices",
+      "label": "PETITIONER",
+      "start_char": 53636,
+      "end_char": 53657
+    },
+    {
+      "text": "Commercial   Court   at   Ahmedabad",
+      "label": "COURT",
+      "start_char": 54151,
+      "end_char": 54186
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 54500,
+      "end_char": 54509
+    },
+    {
+      "text": "Commercial Court, Ahmedabad",
+      "label": "COURT",
+      "start_char": 54585,
+      "end_char": 54612
+    },
+    {
+      "text": "Commercial Court, Ahmedabad",
+      "label": "COURT",
+      "start_char": 54728,
+      "end_char": 54755
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 54887,
+      "end_char": 54897
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 54905,
+      "end_char": 54928
+    },
+    {
+      "text": "Wed Aug 16 05:49:33 IST 2017",
+      "label": "DATE",
+      "start_char": 55244,
+      "end_char": 55272
+    },
+    {
+      "text": "C/AO/422/2016",
+      "label": "CASE_NUMBER",
+      "start_char": 55285,
+      "end_char": 55298
+    },
+    {
+      "text": "M.R. SHAH",
+      "label": "JUDGE",
+      "start_char": 55547,
+      "end_char": 55556
+    },
+    {
+      "text": "B.N. KARIA",
+      "label": "JUDGE",
+      "start_char": 55569,
+      "end_char": 55579
+    },
+    {
+      "text": "Wed Aug 16 05:49:33 IST 2017",
+      "label": "DATE",
+      "start_char": 55626,
+      "end_char": 55654
+    }
+  ],
+  "precedent_clusters": {
+    "Pam Pharmaceuticals vs. Richardson Vicks  Inc & Ors reported in 2001(1) GLR 125": [
+      "Pam Pharmaceuticals vs. Richardson Vicks  Inc & Ors reported in 2001(1) GLR 125",
+      "Pam Pharmaceuticals"
+    ],
+    "Unilever PLC & Anr vs. Vesco Laboratories reported in AIR 2010  Gujarat 8": [
+      "Unilever PLC & Anr vs. Vesco Laboratories reported in AIR 2010  Gujarat 8",
+      "Unilever PLC & Anr"
+    ],
+    "Austin   Reed   Limited   vs.   Suntex   Garments   Others  reported in 2007 (35) PTC 774 (Mad)": [
+      "Austin   Reed   Limited   vs.   Suntex   Garments   Others  reported in 2007 (35) PTC 774 (Mad)",
+      "Austin Reed Limited vs. Suntex Garments Ors reported in  2007 (35) PTC 774 (MAD)"
+    ],
+    "Church   of   Christ   Charitable   Trust   and   Educational  Charitable   Society   vs.   Ponniamman   Educational   Trust  reported in (2012) 8": [
+      "Gold   Seal   Engineering   Products   Pvt   Ltd   and   Ors   vs.  Hindustan Manufacturers and Ors reported in 1992(12)",
+      "Church   of   Christ   Charitable   Trust   and   Educational  Charitable   Society   vs.   Ponniamman   Educational   Trust  reported in (2012) 8",
+      "Piccadily and Industries Ltd vs. Ashok Narwal reported  in 2016(66)"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "section 34",
+      "Trade Marks   Act, 1999",
+      "section 34",
+      "Trade Marks   Act, 1999"
+    ],
+    [
+      "section 20",
+      "Code of Civil   Procedure,   1908",
+      "section 20",
+      "Code of Civil   Procedure,   1908"
+    ],
+    [
+      "Order 7 Rule  10",
+      "Code of Civil Procedure",
+      "Order 7 Rule  10",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 151",
+      "CAV JUDGMENT Civil Procedure",
+      "Section 151",
+      "CAV JUDGMENT Civil Procedure"
+    ],
+    [
+      "Section 134",
+      "Trade Marks Act",
+      "Section 134",
+      "Trade Marks Act"
+    ],
+    [
+      "Section 64",
+      "Copyright  Act",
+      "Section 64",
+      "Copyright  Act"
+    ],
+    [
+      "Section 20",
+      "Code of Civil Procedure",
+      "Section 20",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 20",
+      "Code of  Civil Procedure",
+      "Section 20",
+      "Code of  Civil Procedure"
+    ],
+    [
+      "Rule   10",
+      "Code   of   Civil   Procedure",
+      "Rule   10",
+      "Code   of   Civil   Procedure"
+    ],
+    [
+      "Order 7 Rule 10 / Order 7 Rule  11",
+      "Code of Civil Procedure",
+      "Order 7 Rule 10 / Order 7 Rule  11",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 134",
+      "Trade Marks Act",
+      "Section 134",
+      "Trade Marks Act"
+    ],
+    [
+      "Section   20",
+      "Code   of   Civil   Procedure",
+      "Section   20",
+      "Code   of   Civil   Procedure"
+    ],
+    [
+      "Section   134",
+      "Trade   Marks   Act",
+      "Section   134",
+      "Trade   Marks   Act"
+    ],
+    [
+      "Section 20",
+      "Civil Procedure Code, 1908",
+      "Section 20",
+      "Civil Procedure Code, 1908"
+    ],
+    [
+      "Section 20",
+      "Code  of Civil Procedure",
+      "Section 20",
+      "Code  of Civil Procedure"
+    ],
+    [
+      "Section 20",
+      "Code of Civil Procedure",
+      "Section 20",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Order 7 Rule 10",
+      "Code of Civil Procedure, 1908",
+      "Order 7 Rule 10",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section   134",
+      "Trade   Marks   Act",
+      "Section   134",
+      "Trade   Marks   Act"
+    ],
+    [
+      "Order 7 Rule 10",
+      "Code of Civil Procedure",
+      "Order 7 Rule 10",
+      "Code of Civil Procedure"
+    ],
+    [
+      "section 34",
+      "Trade Marks   Act, 1999",
+      "section 34",
+      "Trade Marks   Act, 1999"
+    ],
+    [
+      "section 20",
+      "Code of Civil   Procedure,   1908",
+      "section 20",
+      "Code of Civil   Procedure,   1908"
+    ],
+    [
+      "Section 134",
+      "Trade  Marks Act, 1999",
+      "Section 134",
+      "Trade  Marks Act, 1999"
+    ],
+    [
+      "Section 134",
+      "Trade  Marks Act",
+      "Section 134",
+      "Trade  Marks Act"
+    ],
+    [
+      "Section 134",
+      "Trade Marks Act",
+      "Section 134",
+      "Trade Marks Act"
+    ],
+    [
+      "sub­section   (2)   of  Section   134",
+      "Code of Civil Procedure,  1908",
+      "sub­section   (2)   of  Section   134",
+      "Code of Civil Procedure,  1908"
+    ],
+    [
+      "Section 134",
+      "Trade Marks Act",
+      "Section 134",
+      "Trade Marks Act"
+    ],
+    [
+      "Section 20",
+      "Code  of Civil  Procedure",
+      "Section 20",
+      "Code  of Civil  Procedure"
+    ],
+    [
+      "Section   20",
+      "Code   of   Civil  Procedure",
+      "Section   20",
+      "Code   of   Civil  Procedure"
+    ],
+    [
+      "Section 20",
+      "Code of Civil Procedure",
+      "Section 20",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 134",
+      "Trade Marks Act",
+      "Section 134",
+      "Trade Marks Act"
+    ],
+    [
+      "Order 7 Rule 10",
+      "Code of Civil Procedure",
+      "Order 7 Rule 10",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section   20",
+      "Code of Civil Procedure",
+      "Section   20",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section   134",
+      "Trade  Marks Act",
+      "Section   134",
+      "Trade  Marks Act"
+    ]
+  ],
+  "precedent_counts": {
+    "Pam Pharmaceuticals vs. Richardson Vicks  Inc & Ors reported in 2001(1) GLR 125": 2,
+    "Unilever PLC & Anr vs. Vesco Laboratories reported in AIR 2010  Gujarat 8": 2,
+    "Austin   Reed   Limited   vs.   Suntex   Garments   Others  reported in 2007 (35) PTC 774 (Mad)": 2,
+    "Church   of   Christ   Charitable   Trust   and   Educational  Charitable   Society   vs.   Ponniamman   Educational   Trust  reported in (2012) 8": 3
+  },
+  "provision_counts": {
+    "section 34 of Trade Marks   Act, 1999": 2,
+    "section 20 of Code of Civil   Procedure,   1908": 2,
+    "Order 7 Rule  10 of Code of Civil Procedure": 1,
+    "Section 151 of CAV JUDGMENT Civil Procedure": 1,
+    "Section 134 of Trade Marks Act": 5,
+    "Section 64 of Copyright  Act": 1,
+    "Section 20 of Code of Civil Procedure": 3,
+    "Section 20 of Code of  Civil Procedure": 1,
+    "Rule   10 of Code   of   Civil   Procedure": 1,
+    "Order 7 Rule 10 / Order 7 Rule  11 of Code of Civil Procedure": 1,
+    "Section   20 of Code   of   Civil   Procedure": 1,
+    "Section   134 of Trade   Marks   Act": 2,
+    "Section 20 of Civil Procedure Code, 1908": 1,
+    "Section 20 of Code  of Civil Procedure": 1,
+    "Order 7 Rule 10 of Code of Civil Procedure, 1908": 1,
+    "Order 7 Rule 10 of Code of Civil Procedure": 2,
+    "Section 134 of Trade  Marks Act, 1999": 1,
+    "Section 134 of Trade  Marks Act": 1,
+    "sub­section   (2)   of  Section   134 of Code of Civil Procedure,  1908": 1,
+    "Section 20 of Code  of Civil  Procedure": 1,
+    "Section   20 of Code   of   Civil  Procedure": 1,
+    "Section   20 of Code of Civil Procedure": 1,
+    "Section   134 of Trade  Marks Act": 1
+  },
+  "statute_counts": {
+    "Trade Marks   Act, 1999": 2,
+    "Code of Civil   Procedure,   1908": 2,
+    "Code of Civil Procedure": 8,
+    "CAV JUDGMENT Civil Procedure": 1,
+    "Trade Marks Act": 5,
+    "Copyright  Act": 1,
+    "Code of  Civil Procedure": 1,
+    "Code   of   Civil   Procedure": 2,
+    "Trade   Marks   Act": 2,
+    "Civil Procedure Code, 1908": 1,
+    "Code  of Civil Procedure": 1,
+    "Code of Civil Procedure, 1908": 1,
+    "Trade  Marks Act, 1999": 1,
+    "Trade  Marks Act": 2,
+    "Code of Civil Procedure,  1908": 1,
+    "Code  of Civil  Procedure": 1,
+    "Code   of   Civil  Procedure": 1
+  }
+}

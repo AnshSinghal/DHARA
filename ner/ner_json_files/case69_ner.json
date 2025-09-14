@@ -1,0 +1,8430 @@
+{
+  "entities": [
+    {
+      "text": "Essar Bulk Terminal Limited",
+      "label": "PETITIONER",
+      "start_char": 19,
+      "end_char": 46
+    },
+    {
+      "text": "Arcelor Mittal Nippon Steel India",
+      "label": "RESPONDENT",
+      "start_char": 50,
+      "end_char": 83
+    },
+    {
+      "text": "3 February, 2022",
+      "label": "DATE",
+      "start_char": 91,
+      "end_char": 107
+    },
+    {
+      "text": "J. B. Pardiwala",
+      "label": "JUDGE",
+      "start_char": 116,
+      "end_char": 131
+    },
+    {
+      "text": "J.B.Pardiwala",
+      "label": "LAWYER",
+      "start_char": 139,
+      "end_char": 152
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 217,
+      "end_char": 227
+    },
+    {
+      "text": "HIGH COURT OF GUJARAT AT AHMEDABAD",
+      "label": "COURT",
+      "start_char": 246,
+      "end_char": 280
+    },
+    {
+      "text": "FIRST APPEAL NO. 3040 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 300,
+      "end_char": 329
+    },
+    {
+      "text": "R/FIRST APPEAL NO. 3040 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 444,
+      "end_char": 475
+    },
+    {
+      "text": "R/FIRST APPEAL NO. 3055 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 861,
+      "end_char": 892
+    },
+    {
+      "text": "R/FIRST APPEAL NO. 3055 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 1048,
+      "end_char": 1079
+    },
+    {
+      "text": "R/FIRST APPEAL NO. 3507 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 1685,
+      "end_char": 1716
+    },
+    {
+      "text": "R/FIRST APPEAL NO. 3507 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 1872,
+      "end_char": 1903
+    },
+    {
+      "text": "Thu Feb 03 21:01:37 IST 2022",
+      "label": "DATE",
+      "start_char": 2012,
+      "end_char": 2040
+    },
+    {
+      "text": "J.B.PARDIWALA",
+      "label": "JUDGE",
+      "start_char": 2174,
+      "end_char": 2187
+    },
+    {
+      "text": "NIRAL R. MEHTA",
+      "label": "JUDGE",
+      "start_char": 2253,
+      "end_char": 2267
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 2695,
+      "end_char": 2716
+    },
+    {
+      "text": "ESSAR BULK TERMINAL LIMITED Versus ARCELOR MITTAL NIPPON STEEL INDIA LIMITED",
+      "label": "PRECEDENT",
+      "start_char": 2845,
+      "end_char": 2921
+    },
+    {
+      "text": "MIHIR JOSHI",
+      "label": "OTHER_PERSON",
+      "start_char": 3065,
+      "end_char": 3076
+    },
+    {
+      "text": "KEYUR GANDHI",
+      "label": "ORG",
+      "start_char": 3100,
+      "end_char": 3112
+    },
+    {
+      "text": "AMITA KATRAGADDA",
+      "label": "OTHER_PERSON",
+      "start_char": 3114,
+      "end_char": 3130
+    },
+    {
+      "text": "RAHEEL PATEL",
+      "label": "OTHER_PERSON",
+      "start_char": 3132,
+      "end_char": 3144
+    },
+    {
+      "text": "KAUSTUBH RAI",
+      "label": "OTHER_PERSON",
+      "start_char": 3149,
+      "end_char": 3161
+    },
+    {
+      "text": "NANAVATI ASSOCIATES",
+      "label": "ORG",
+      "start_char": 3177,
+      "end_char": 3196
+    },
+    {
+      "text": "DARAYUS KHAMBHATA",
+      "label": "OTHER_PERSON",
+      "start_char": 3220,
+      "end_char": 3237
+    },
+    {
+      "text": "MIHIR THAKORE",
+      "label": "OTHER_PERSON",
+      "start_char": 3259,
+      "end_char": 3272
+    },
+    {
+      "text": "NAVIN PAHWA",
+      "label": "OTHER_PERSON",
+      "start_char": 3294,
+      "end_char": 3305
+    },
+    {
+      "text": "NIRAG PATHAK",
+      "label": "OTHER_PERSON",
+      "start_char": 3329,
+      "end_char": 3341
+    },
+    {
+      "text": "ADITYA PANDYA",
+      "label": "OTHER_PERSON",
+      "start_char": 3343,
+      "end_char": 3356
+    },
+    {
+      "text": "SAIRAM SUBRAMANIAM",
+      "label": "OTHER_PERSON",
+      "start_char": 3358,
+      "end_char": 3376
+    },
+    {
+      "text": "JUHI GUPTA",
+      "label": "OTHER_PERSON",
+      "start_char": 3378,
+      "end_char": 3388
+    },
+    {
+      "text": "ARCHISMITA SAHA",
+      "label": "OTHER_PERSON",
+      "start_char": 3393,
+      "end_char": 3408
+    },
+    {
+      "text": "FIRST APPEAL NO.3055 OF 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 3441,
+      "end_char": 3469
+    },
+    {
+      "text": "SAURABH SOPARKAR",
+      "label": "OTHER_PERSON",
+      "start_char": 3475,
+      "end_char": 3491
+    },
+    {
+      "text": "KEYUR GANDHI",
+      "label": "OTHER_PERSON",
+      "start_char": 3515,
+      "end_char": 3527
+    },
+    {
+      "text": "AMITA KATRAGADDA",
+      "label": "OTHER_PERSON",
+      "start_char": 3529,
+      "end_char": 3545
+    },
+    {
+      "text": "RAHEEL PATEL",
+      "label": "OTHER_PERSON",
+      "start_char": 3547,
+      "end_char": 3559
+    },
+    {
+      "text": "KAUSTUBH RAI",
+      "label": "OTHER_PERSON",
+      "start_char": 3564,
+      "end_char": 3576
+    },
+    {
+      "text": "DARAYUS KHAMBHATA",
+      "label": "OTHER_PERSON",
+      "start_char": 3635,
+      "end_char": 3652
+    },
+    {
+      "text": "MIHIR THAKORE",
+      "label": "OTHER_PERSON",
+      "start_char": 3674,
+      "end_char": 3687
+    },
+    {
+      "text": "NAVIN PAHWA",
+      "label": "OTHER_PERSON",
+      "start_char": 3709,
+      "end_char": 3720
+    },
+    {
+      "text": "NIRAG PATHAK",
+      "label": "OTHER_PERSON",
+      "start_char": 3744,
+      "end_char": 3756
+    },
+    {
+      "text": "ADITYA PANDYA",
+      "label": "OTHER_PERSON",
+      "start_char": 3758,
+      "end_char": 3771
+    },
+    {
+      "text": "SAIRAM SUBRAMANIAM",
+      "label": "OTHER_PERSON",
+      "start_char": 3773,
+      "end_char": 3791
+    },
+    {
+      "text": "JUHI GUPTA",
+      "label": "OTHER_PERSON",
+      "start_char": 3793,
+      "end_char": 3803
+    },
+    {
+      "text": "ARCHISMITA SAHA",
+      "label": "OTHER_PERSON",
+      "start_char": 3808,
+      "end_char": 3823
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 3856,
+      "end_char": 3883
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 3891,
+      "end_char": 3901
+    },
+    {
+      "text": "FIRST APPEAL NOS.3506 OF 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 3902,
+      "end_char": 3931
+    },
+    {
+      "text": "DARAYUS KHAMBHATA",
+      "label": "OTHER_PERSON",
+      "start_char": 3936,
+      "end_char": 3953
+    },
+    {
+      "text": "MIHIR THAKORE",
+      "label": "OTHER_PERSON",
+      "start_char": 3975,
+      "end_char": 3988
+    },
+    {
+      "text": "NAVIN PAHWA",
+      "label": "OTHER_PERSON",
+      "start_char": 4010,
+      "end_char": 4021
+    },
+    {
+      "text": "NIRAG PATHAK",
+      "label": "OTHER_PERSON",
+      "start_char": 4045,
+      "end_char": 4057
+    },
+    {
+      "text": "ADITYA PANDYA",
+      "label": "OTHER_PERSON",
+      "start_char": 4059,
+      "end_char": 4072
+    },
+    {
+      "text": "SAIRAM SUBRAMANIAM",
+      "label": "OTHER_PERSON",
+      "start_char": 4074,
+      "end_char": 4092
+    },
+    {
+      "text": "JUHI GUPTA",
+      "label": "OTHER_PERSON",
+      "start_char": 4094,
+      "end_char": 4104
+    },
+    {
+      "text": "ARCHISMITA SAHA",
+      "label": "OTHER_PERSON",
+      "start_char": 4109,
+      "end_char": 4124
+    },
+    {
+      "text": "MIHIR JOSHI",
+      "label": "OTHER_PERSON",
+      "start_char": 4159,
+      "end_char": 4170
+    },
+    {
+      "text": "KEYUR GANDHI",
+      "label": "OTHER_PERSON",
+      "start_char": 4194,
+      "end_char": 4206
+    },
+    {
+      "text": "RAHEEL PATEL",
+      "label": "OTHER_PERSON",
+      "start_char": 4211,
+      "end_char": 4223
+    },
+    {
+      "text": "FIRST APPEAL NO.3507 OF 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 4280,
+      "end_char": 4308
+    },
+    {
+      "text": "DARAYUS KHAMBHATA",
+      "label": "OTHER_PERSON",
+      "start_char": 4313,
+      "end_char": 4330
+    },
+    {
+      "text": "MIHIR THAKORE",
+      "label": "OTHER_PERSON",
+      "start_char": 4352,
+      "end_char": 4365
+    },
+    {
+      "text": "NAVIN PAHWA",
+      "label": "OTHER_PERSON",
+      "start_char": 4387,
+      "end_char": 4398
+    },
+    {
+      "text": "NIRAG PATHAK",
+      "label": "OTHER_PERSON",
+      "start_char": 4422,
+      "end_char": 4434
+    },
+    {
+      "text": "ADITYA PANDYA",
+      "label": "OTHER_PERSON",
+      "start_char": 4436,
+      "end_char": 4449
+    },
+    {
+      "text": "SAIRAM SUBRAMANIAM",
+      "label": "OTHER_PERSON",
+      "start_char": 4451,
+      "end_char": 4469
+    },
+    {
+      "text": "JUHI GUPTA",
+      "label": "OTHER_PERSON",
+      "start_char": 4471,
+      "end_char": 4481
+    },
+    {
+      "text": "ARCHISMITA SAHA",
+      "label": "OTHER_PERSON",
+      "start_char": 4486,
+      "end_char": 4501
+    },
+    {
+      "text": "SAURABH SOPARKAR",
+      "label": "OTHER_PERSON",
+      "start_char": 4536,
+      "end_char": 4552
+    },
+    {
+      "text": "KEYUR GANDHI",
+      "label": "OTHER_PERSON",
+      "start_char": 4576,
+      "end_char": 4588
+    },
+    {
+      "text": "RAHEEL PATEL",
+      "label": "OTHER_PERSON",
+      "start_char": 4593,
+      "end_char": 4605
+    },
+    {
+      "text": "J.B.PARDIWALA",
+      "label": "JUDGE",
+      "start_char": 4788,
+      "end_char": 4801
+    },
+    {
+      "text": "NIRAL R. MEHTA",
+      "label": "JUDGE",
+      "start_char": 4829,
+      "end_char": 4843
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 4851,
+      "end_char": 4861
+    },
+    {
+      "text": "J.B.PARDIWALA",
+      "label": "JUDGE",
+      "start_char": 4892,
+      "end_char": 4905
+    },
+    {
+      "text": "Commercial Court at Surat",
+      "label": "COURT",
+      "start_char": 5038,
+      "end_char": 5063
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 5071,
+      "end_char": 5080
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 5088,
+      "end_char": 5126
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 5144,
+      "end_char": 5159
+    },
+    {
+      "text": "Essar Bulk Terminal Limited",
+      "label": "ORG",
+      "start_char": 5329,
+      "end_char": 5356
+    },
+    {
+      "text": "ArcelorMittal Nippon Steel India Limited",
+      "label": "ORG",
+      "start_char": 5386,
+      "end_char": 5426
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 5452,
+      "end_char": 5456
+    },
+    {
+      "text": "Essar Steel India Limited",
+      "label": "ORG",
+      "start_char": 5505,
+      "end_char": 5530
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 5583,
+      "end_char": 5587
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 5590,
+      "end_char": 5617
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 5625,
+      "end_char": 5635
+    },
+    {
+      "text": "ESIL",
+      "label": "ORG",
+      "start_char": 5640,
+      "end_char": 5644
+    },
+    {
+      "text": "Hazira",
+      "label": "GPE",
+      "start_char": 5683,
+      "end_char": 5689
+    },
+    {
+      "text": "Surat",
+      "label": "GPE",
+      "start_char": 5691,
+      "end_char": 5696
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 5762,
+      "end_char": 5766
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 5815,
+      "end_char": 5819
+    },
+    {
+      "text": "21st February 2011",
+      "label": "DATE",
+      "start_char": 5828,
+      "end_char": 5846
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 5852,
+      "end_char": 5856
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 5861,
+      "end_char": 5865
+    },
+    {
+      "text": "3rd March 2011",
+      "label": "DATE",
+      "start_char": 6013,
+      "end_char": 6027
+    },
+    {
+      "text": "1st April 2013",
+      "label": "DATE",
+      "start_char": 6029,
+      "end_char": 6043
+    },
+    {
+      "text": "17th May 2013",
+      "label": "DATE",
+      "start_char": 6045,
+      "end_char": 6058
+    },
+    {
+      "text": "15th October 2013",
+      "label": "DATE",
+      "start_char": 6088,
+      "end_char": 6105
+    },
+    {
+      "text": "4 th December 2014",
+      "label": "DATE",
+      "start_char": 6137,
+      "end_char": 6155
+    },
+    {
+      "text": "28th April 2016",
+      "label": "DATE",
+      "start_char": 6157,
+      "end_char": 6172
+    },
+    {
+      "text": "4th December 2017",
+      "label": "DATE",
+      "start_char": 6177,
+      "end_char": 6194
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 6296,
+      "end_char": 6300
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 6330,
+      "end_char": 6334
+    },
+    {
+      "text": "28th August 2012",
+      "label": "DATE",
+      "start_char": 6429,
+      "end_char": 6445
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 6507,
+      "end_char": 6511
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 6520,
+      "end_char": 6524
+    },
+    {
+      "text": "1st April 2016",
+      "label": "DATE",
+      "start_char": 6605,
+      "end_char": 6619
+    },
+    {
+      "text": "17th May 2013",
+      "label": "DATE",
+      "start_char": 6628,
+      "end_char": 6641
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 6647,
+      "end_char": 6651
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 6660,
+      "end_char": 6664
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 6795,
+      "end_char": 6799
+    },
+    {
+      "text": "30 th April 2013",
+      "label": "DATE",
+      "start_char": 6941,
+      "end_char": 6957
+    },
+    {
+      "text": "1 st May 2013",
+      "label": "DATE",
+      "start_char": 7001,
+      "end_char": 7014
+    },
+    {
+      "text": "18th May 2013",
+      "label": "DATE",
+      "start_char": 7252,
+      "end_char": 7265
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 7271,
+      "end_char": 7275
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 7284,
+      "end_char": 7288
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 7369,
+      "end_char": 7396
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 7404,
+      "end_char": 7414
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 7431,
+      "end_char": 7435
+    },
+    {
+      "text": "Hazira",
+      "label": "GPE",
+      "start_char": 7463,
+      "end_char": 7469
+    },
+    {
+      "text": "30th April 2013",
+      "label": "DATE",
+      "start_char": 7701,
+      "end_char": 7716
+    },
+    {
+      "text": "15th October 2013",
+      "label": "DATE",
+      "start_char": 7726,
+      "end_char": 7743
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 7749,
+      "end_char": 7753
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 7762,
+      "end_char": 7766
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 7884,
+      "end_char": 7888
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 7898,
+      "end_char": 7902
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 8093,
+      "end_char": 8097
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 8106,
+      "end_char": 8110
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 8317,
+      "end_char": 8321
+    },
+    {
+      "text": "2nd August 2017",
+      "label": "DATE",
+      "start_char": 8330,
+      "end_char": 8345
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 8351,
+      "end_char": 8355
+    },
+    {
+      "text": "CIRP",
+      "label": "ORG",
+      "start_char": 8378,
+      "end_char": 8382
+    },
+    {
+      "text": "8th March 2019",
+      "label": "DATE",
+      "start_char": 8412,
+      "end_char": 8426
+    },
+    {
+      "text": "National Company Law Tribunal, Ahmedabad Bench",
+      "label": "COURT",
+      "start_char": 8432,
+      "end_char": 8478
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 8523,
+      "end_char": 8527
+    },
+    {
+      "text": "AMIPL Resolution Plan",
+      "label": "STATUTE",
+      "start_char": 8533,
+      "end_char": 8554
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 8616,
+      "end_char": 8620
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 8676,
+      "end_char": 8680
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 8690,
+      "end_char": 8694
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 8947,
+      "end_char": 8957
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 9003,
+      "end_char": 9007
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 9079,
+      "end_char": 9083
+    },
+    {
+      "text": "13th June 2019",
+      "label": "DATE",
+      "start_char": 9179,
+      "end_char": 9193
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 9199,
+      "end_char": 9203
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 9217,
+      "end_char": 9221
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 9319,
+      "end_char": 9323
+    },
+    {
+      "text": "CHA 2011",
+      "label": "STATUTE",
+      "start_char": 9403,
+      "end_char": 9411
+    },
+    {
+      "text": "20th June 2019",
+      "label": "DATE",
+      "start_char": 9421,
+      "end_char": 9435
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 9441,
+      "end_char": 9445
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 9472,
+      "end_char": 9476
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 9565,
+      "end_char": 9569
+    },
+    {
+      "text": "7th August 2019",
+      "label": "DATE",
+      "start_char": 9629,
+      "end_char": 9644
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 9671,
+      "end_char": 9675
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 9681,
+      "end_char": 9685
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 9756,
+      "end_char": 9760
+    },
+    {
+      "text": "GMB",
+      "label": "ORG",
+      "start_char": 9854,
+      "end_char": 9857
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 10072,
+      "end_char": 10076
+    },
+    {
+      "text": "15th November 2019",
+      "label": "DATE",
+      "start_char": 10174,
+      "end_char": 10192
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 10198,
+      "end_char": 10211
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 10255,
+      "end_char": 10259
+    },
+    {
+      "text": "16 th December 2019",
+      "label": "DATE",
+      "start_char": 10276,
+      "end_char": 10295
+    },
+    {
+      "text": "AMIPL",
+      "label": "ORG",
+      "start_char": 10301,
+      "end_char": 10306
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 10339,
+      "end_char": 10343
+    },
+    {
+      "text": "28th February 2020",
+      "label": "DATE",
+      "start_char": 10353,
+      "end_char": 10371
+    },
+    {
+      "text": "NSPC",
+      "label": "ORG",
+      "start_char": 10377,
+      "end_char": 10381
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 10443,
+      "end_char": 10448
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 10520,
+      "end_char": 10530
+    },
+    {
+      "text": "15th April 2020",
+      "label": "DATE",
+      "start_char": 10808,
+      "end_char": 10823
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 10886,
+      "end_char": 10890
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 10899,
+      "end_char": 10903
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 10917,
+      "end_char": 10921
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 10961,
+      "end_char": 10965
+    },
+    {
+      "text": "30th April 2013",
+      "label": "DATE",
+      "start_char": 11019,
+      "end_char": 11034
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 11079,
+      "end_char": 11083
+    },
+    {
+      "text": "5th May 2020",
+      "label": "DATE",
+      "start_char": 11127,
+      "end_char": 11139
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 11145,
+      "end_char": 11149
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 11163,
+      "end_char": 11167
+    },
+    {
+      "text": "CHA 2011",
+      "label": "STATUTE",
+      "start_char": 11316,
+      "end_char": 11324
+    },
+    {
+      "text": "27th June 2020",
+      "label": "DATE",
+      "start_char": 11334,
+      "end_char": 11348
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 11354,
+      "end_char": 11358
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 11372,
+      "end_char": 11376
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 11519,
+      "end_char": 11523
+    },
+    {
+      "text": "22nd November 2020",
+      "label": "DATE",
+      "start_char": 11591,
+      "end_char": 11609
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 11615,
+      "end_char": 11619
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 11643,
+      "end_char": 11647
+    },
+    {
+      "text": "CHA 2011",
+      "label": "STATUTE",
+      "start_char": 11692,
+      "end_char": 11700
+    },
+    {
+      "text": "4th December 2020",
+      "label": "DATE",
+      "start_char": 11746,
+      "end_char": 11763
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 11769,
+      "end_char": 11773
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 11800,
+      "end_char": 11804
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 11832,
+      "end_char": 11836
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 11934,
+      "end_char": 11938
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 11978,
+      "end_char": 11982
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 12058,
+      "end_char": 12062
+    },
+    {
+      "text": "Sections 230-232",
+      "label": "PROVISION",
+      "start_char": 12097,
+      "end_char": 12113
+    },
+    {
+      "text": "Companies Act, 2013",
+      "label": "STATUTE",
+      "start_char": 12134,
+      "end_char": 12153
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 12156,
+      "end_char": 12183
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 12191,
+      "end_char": 12201
+    },
+    {
+      "text": "24th December 2020",
+      "label": "DATE",
+      "start_char": 12209,
+      "end_char": 12227
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 12233,
+      "end_char": 12237
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 12265,
+      "end_char": 12275
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 12283,
+      "end_char": 12298
+    },
+    {
+      "text": "IAAP No.05 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 12310,
+      "end_char": 12328
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 12411,
+      "end_char": 12415
+    },
+    {
+      "text": "11 th January 2021",
+      "label": "DATE",
+      "start_char": 12457,
+      "end_char": 12475
+    },
+    {
+      "text": "30th December 2020",
+      "label": "DATE",
+      "start_char": 12485,
+      "end_char": 12503
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 12509,
+      "end_char": 12513
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 12602,
+      "end_char": 12606
+    },
+    {
+      "text": "3rd January 2021",
+      "label": "DATE",
+      "start_char": 12667,
+      "end_char": 12683
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 12689,
+      "end_char": 12693
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 12715,
+      "end_char": 12719
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 12734,
+      "end_char": 12738
+    },
+    {
+      "text": "Third Amendment Agreement",
+      "label": "STATUTE",
+      "start_char": 12823,
+      "end_char": 12848
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 12876,
+      "end_char": 12880
+    },
+    {
+      "text": "Manish Rathi & Co.",
+      "label": "ORG",
+      "start_char": 12943,
+      "end_char": 12961
+    },
+    {
+      "text": "1 st January 2021",
+      "label": "DATE",
+      "start_char": 12969,
+      "end_char": 12986
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 13008,
+      "end_char": 13012
+    },
+    {
+      "text": "31 st December 2020",
+      "label": "DATE",
+      "start_char": 13039,
+      "end_char": 13058
+    },
+    {
+      "text": "11th January 2021",
+      "label": "DATE",
+      "start_char": 13068,
+      "end_char": 13085
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 13091,
+      "end_char": 13095
+    },
+    {
+      "text": "3 rd January 2021",
+      "label": "DATE",
+      "start_char": 13157,
+      "end_char": 13174
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 13189,
+      "end_char": 13193
+    },
+    {
+      "text": "12th January 2021",
+      "label": "DATE",
+      "start_char": 13281,
+      "end_char": 13298
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 13304,
+      "end_char": 13308
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 13532,
+      "end_char": 13536
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 13605,
+      "end_char": 13609
+    },
+    {
+      "text": "GMB",
+      "label": "ORG",
+      "start_char": 13623,
+      "end_char": 13626
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 13675,
+      "end_char": 13679
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 13715,
+      "end_char": 13742
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 13750,
+      "end_char": 13760
+    },
+    {
+      "text": "GMB",
+      "label": "ORG",
+      "start_char": 13765,
+      "end_char": 13768
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 13830,
+      "end_char": 13834
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 13859,
+      "end_char": 13863
+    },
+    {
+      "text": "29 th January 2021",
+      "label": "DATE",
+      "start_char": 13893,
+      "end_char": 13911
+    },
+    {
+      "text": "9th February 2021",
+      "label": "DATE",
+      "start_char": 13916,
+      "end_char": 13933
+    },
+    {
+      "text": "GMB",
+      "label": "ORG",
+      "start_char": 13941,
+      "end_char": 13944
+    },
+    {
+      "text": "15th January 2021",
+      "label": "DATE",
+      "start_char": 13954,
+      "end_char": 13971
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 13977,
+      "end_char": 13981
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 14043,
+      "end_char": 14047
+    },
+    {
+      "text": "11th January 2021",
+      "label": "DATE",
+      "start_char": 14054,
+      "end_char": 14071
+    },
+    {
+      "text": "15th January 2021",
+      "label": "DATE",
+      "start_char": 14106,
+      "end_char": 14123
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 14129,
+      "end_char": 14133
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 14161,
+      "end_char": 14170
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 14178,
+      "end_char": 14193
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 14206,
+      "end_char": 14210
+    },
+    {
+      "text": "10 January 2021",
+      "label": "DATE",
+      "start_char": 15936,
+      "end_char": 15951
+    },
+    {
+      "text": "22nd January 2021",
+      "label": "DATE",
+      "start_char": 15962,
+      "end_char": 15979
+    },
+    {
+      "text": "NSPC",
+      "label": "ORG",
+      "start_char": 16039,
+      "end_char": 16043
+    },
+    {
+      "text": "EBTL Jetties",
+      "label": "ORG",
+      "start_char": 16114,
+      "end_char": 16126
+    },
+    {
+      "text": "22nd January 2021",
+      "label": "DATE",
+      "start_char": 16157,
+      "end_char": 16174
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 16198,
+      "end_char": 16202
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 16298,
+      "end_char": 16302
+    },
+    {
+      "text": "12th February 2021",
+      "label": "DATE",
+      "start_char": 16344,
+      "end_char": 16362
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 16376,
+      "end_char": 16403
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 16411,
+      "end_char": 16421
+    },
+    {
+      "text": "Fugro Survey (India) Limited",
+      "label": "ORG",
+      "start_char": 16422,
+      "end_char": 16450
+    },
+    {
+      "text": "EBTL Jetties",
+      "label": "ORG",
+      "start_char": 16514,
+      "end_char": 16526
+    },
+    {
+      "text": "17th March 2021",
+      "label": "DATE",
+      "start_char": 16552,
+      "end_char": 16567
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 16632,
+      "end_char": 16636
+    },
+    {
+      "text": "NSPC",
+      "label": "ORG",
+      "start_char": 16677,
+      "end_char": 16681
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 16736,
+      "end_char": 16745
+    },
+    {
+      "text": "15th February 2021",
+      "label": "DATE",
+      "start_char": 16767,
+      "end_char": 16785
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 16791,
+      "end_char": 16795
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 16822,
+      "end_char": 16826
+    },
+    {
+      "text": "23rd February 2021",
+      "label": "DATE",
+      "start_char": 16917,
+      "end_char": 16935
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 16941,
+      "end_char": 16945
+    },
+    {
+      "text": "RBI",
+      "label": "ORG",
+      "start_char": 17004,
+      "end_char": 17007
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 17052,
+      "end_char": 17056
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 17082,
+      "end_char": 17086
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 17106,
+      "end_char": 17110
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 17171,
+      "end_char": 17175
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 17335,
+      "end_char": 17339
+    },
+    {
+      "text": "9th March 2021",
+      "label": "DATE",
+      "start_char": 17349,
+      "end_char": 17363
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 17369,
+      "end_char": 17373
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 17406,
+      "end_char": 17410
+    },
+    {
+      "text": "15th March 2021",
+      "label": "DATE",
+      "start_char": 17468,
+      "end_char": 17483
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 17489,
+      "end_char": 17493
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 17526,
+      "end_char": 17535
+    },
+    {
+      "text": "16th March 2021",
+      "label": "DATE",
+      "start_char": 17568,
+      "end_char": 17583
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 17589,
+      "end_char": 17593
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 17626,
+      "end_char": 17635
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 17643,
+      "end_char": 17658
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 17671,
+      "end_char": 17675
+    },
+    {
+      "text": "ArcelorMittal Nippon Steel India Limited",
+      "label": "ORG",
+      "start_char": 17748,
+      "end_char": 17788
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 17824,
+      "end_char": 17851
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 17859,
+      "end_char": 17869
+    },
+    {
+      "text": "Essar Bulk Terminal Limited",
+      "label": "ORG",
+      "start_char": 18277,
+      "end_char": 18304
+    },
+    {
+      "text": "Essar Bulk Terminal Limited",
+      "label": "ORG",
+      "start_char": 18618,
+      "end_char": 18645
+    },
+    {
+      "text": "ArcelorMittal Nippon Steel India Limited",
+      "label": "ORG",
+      "start_char": 18889,
+      "end_char": 18929
+    },
+    {
+      "text": "ArcelorMittal Nippon Steel India Limited",
+      "label": "ORG",
+      "start_char": 19250,
+      "end_char": 19290
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 19331,
+      "end_char": 19358
+    },
+    {
+      "text": "February 21, 2011",
+      "label": "DATE",
+      "start_char": 19781,
+      "end_char": 19798
+    },
+    {
+      "text": "4th June 2021",
+      "label": "DATE",
+      "start_char": 19839,
+      "end_char": 19852
+    },
+    {
+      "text": "NSPC",
+      "label": "ORG",
+      "start_char": 19858,
+      "end_char": 19862
+    },
+    {
+      "text": "7th June 2021",
+      "label": "DATE",
+      "start_char": 20200,
+      "end_char": 20213
+    },
+    {
+      "text": "9th July 2021",
+      "label": "DATE",
+      "start_char": 20271,
+      "end_char": 20284
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 20381,
+      "end_char": 20391
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 20399,
+      "end_char": 20414
+    },
+    {
+      "text": "16th July 2021",
+      "label": "DATE",
+      "start_char": 20424,
+      "end_char": 20438
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 20444,
+      "end_char": 20448
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 20607,
+      "end_char": 20622
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 20688,
+      "end_char": 20715
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 20723,
+      "end_char": 20733
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 20756,
+      "end_char": 20760
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 20773,
+      "end_char": 20777
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 20904,
+      "end_char": 20908
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 20946,
+      "end_char": 20957
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 20965,
+      "end_char": 20977
+    },
+    {
+      "text": "16th July 2021",
+      "label": "DATE",
+      "start_char": 21002,
+      "end_char": 21016
+    },
+    {
+      "text": "17 th August 2021",
+      "label": "DATE",
+      "start_char": 21100,
+      "end_char": 21117
+    },
+    {
+      "text": "14th September 2021",
+      "label": "DATE",
+      "start_char": 21161,
+      "end_char": 21180
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 21186,
+      "end_char": 21190
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 21237,
+      "end_char": 21250
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 21292,
+      "end_char": 21305
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 21347,
+      "end_char": 21351
+    },
+    {
+      "text": "Surat",
+      "label": "GPE",
+      "start_char": 21383,
+      "end_char": 21388
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 21429,
+      "end_char": 21438
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 21494,
+      "end_char": 21498
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 21593,
+      "end_char": 21602
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 21610,
+      "end_char": 21625
+    },
+    {
+      "text": "20th September 2021",
+      "label": "DATE",
+      "start_char": 21727,
+      "end_char": 21746
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 21852,
+      "end_char": 21856
+    },
+    {
+      "text": "December 30, 2020",
+      "label": "DATE",
+      "start_char": 21914,
+      "end_char": 21931
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 21939,
+      "end_char": 21943
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 21952,
+      "end_char": 21956
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 22037,
+      "end_char": 22041
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 22051,
+      "end_char": 22055
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 22122,
+      "end_char": 22126
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 22204,
+      "end_char": 22231
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 22239,
+      "end_char": 22249
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 22257,
+      "end_char": 22261
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 22482,
+      "end_char": 22492
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 22500,
+      "end_char": 22515
+    },
+    {
+      "text": "28th September 2021",
+      "label": "DATE",
+      "start_char": 22547,
+      "end_char": 22566
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 22611,
+      "end_char": 22615
+    },
+    {
+      "text": "27 th October 2021",
+      "label": "DATE",
+      "start_char": 22665,
+      "end_char": 22683
+    },
+    {
+      "text": "1st October 2021",
+      "label": "DATE",
+      "start_char": 22693,
+      "end_char": 22709
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 22715,
+      "end_char": 22719
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 22746,
+      "end_char": 22750
+    },
+    {
+      "text": "3rd October 2021",
+      "label": "DATE",
+      "start_char": 22880,
+      "end_char": 22896
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 22902,
+      "end_char": 22906
+    },
+    {
+      "text": "1st October 2021",
+      "label": "DATE",
+      "start_char": 22943,
+      "end_char": 22959
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 23075,
+      "end_char": 23084
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 23110,
+      "end_char": 23114
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 23257,
+      "end_char": 23261
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 23490,
+      "end_char": 23494
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 23625,
+      "end_char": 23635
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 23762,
+      "end_char": 23766
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 23812,
+      "end_char": 23816
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 23818,
+      "end_char": 23822
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 23890,
+      "end_char": 23894
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 24161,
+      "end_char": 24165
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 24229,
+      "end_char": 24233
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 24665,
+      "end_char": 24669
+    },
+    {
+      "text": "GMB",
+      "label": "ORG",
+      "start_char": 24723,
+      "end_char": 24726
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 24844,
+      "end_char": 24848
+    },
+    {
+      "text": "Section 9(1)(ii)(e)",
+      "label": "PROVISION",
+      "start_char": 24979,
+      "end_char": 24998
+    },
+    {
+      "text": "Arbitration & Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 25006,
+      "end_char": 25042
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 25043,
+      "end_char": 25047
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 25209,
+      "end_char": 25213
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 25217,
+      "end_char": 25244
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 25252,
+      "end_char": 25262
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 25306,
+      "end_char": 25310
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 25317,
+      "end_char": 25326
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 25334,
+      "end_char": 25349
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 25497,
+      "end_char": 25501
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 25526,
+      "end_char": 25530
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 25562,
+      "end_char": 25566
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 25601,
+      "end_char": 25605
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 25713,
+      "end_char": 25717
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 25723,
+      "end_char": 25727
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 25746,
+      "end_char": 25750
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 25867,
+      "end_char": 25871
+    },
+    {
+      "text": "CHA",
+      "label": "STATUTE",
+      "start_char": 25919,
+      "end_char": 25922
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 25963,
+      "end_char": 25967
+    },
+    {
+      "text": "CHA",
+      "label": "STATUTE",
+      "start_char": 26017,
+      "end_char": 26020
+    },
+    {
+      "text": "Section 9(1)(ii)(e)",
+      "label": "PROVISION",
+      "start_char": 26081,
+      "end_char": 26100
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 26138,
+      "end_char": 26142
+    },
+    {
+      "text": "30.12.2020",
+      "label": "DATE",
+      "start_char": 26282,
+      "end_char": 26292
+    },
+    {
+      "text": "Section 9(1)(ii)(e)",
+      "label": "PROVISION",
+      "start_char": 26427,
+      "end_char": 26446
+    },
+    {
+      "text": "Arbitration & Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 26454,
+      "end_char": 26490
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 26491,
+      "end_char": 26495
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 26698,
+      "end_char": 26708
+    },
+    {
+      "text": "Section 9(1)(ii)(e)",
+      "label": "PROVISION",
+      "start_char": 26745,
+      "end_char": 26764
+    },
+    {
+      "text": "Arbitration & Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 26772,
+      "end_char": 26808
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 26809,
+      "end_char": 26813
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 26879,
+      "end_char": 26883
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 26993,
+      "end_char": 26997
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 27019,
+      "end_char": 27023
+    },
+    {
+      "text": "Arbitral Tribunal",
+      "label": "COURT",
+      "start_char": 27224,
+      "end_char": 27241
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 27250,
+      "end_char": 27260
+    },
+    {
+      "text": "Commercial C.M.A. No. 2 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 27374,
+      "end_char": 27405
+    },
+    {
+      "text": "Commercial C.M.A. No. 99 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 27410,
+      "end_char": 27442
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 27842,
+      "end_char": 27846
+    },
+    {
+      "text": "First Appeal Nos.3040 of 2021 and 3055 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 27892,
+      "end_char": 27938
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 27939,
+      "end_char": 27966
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 27974,
+      "end_char": 27984
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 28013,
+      "end_char": 28017
+    },
+    {
+      "text": "First Appeal Nos.3506 of 2021 and 3507 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 28068,
+      "end_char": 28114
+    },
+    {
+      "text": "EBTL",
+      "label": "PETITIONER",
+      "start_char": 28130,
+      "end_char": 28134
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 28209,
+      "end_char": 28213
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 28219,
+      "end_char": 28223
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 28331,
+      "end_char": 28340
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 28348,
+      "end_char": 28363
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 28389,
+      "end_char": 28393
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 28510,
+      "end_char": 28514
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 28545,
+      "end_char": 28549
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 28782,
+      "end_char": 28786
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 28909,
+      "end_char": 28913
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 29193,
+      "end_char": 29197
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 29249,
+      "end_char": 29253
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 29344,
+      "end_char": 29348
+    },
+    {
+      "text": "30th December 2020",
+      "label": "DATE",
+      "start_char": 29468,
+      "end_char": 29486
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 29510,
+      "end_char": 29514
+    },
+    {
+      "text": "31 st April 2013",
+      "label": "DATE",
+      "start_char": 29553,
+      "end_char": 29569
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 29612,
+      "end_char": 29639
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 29647,
+      "end_char": 29657
+    },
+    {
+      "text": "AMNS",
+      "label": "OTHER_PERSON",
+      "start_char": 29658,
+      "end_char": 29662
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 29724,
+      "end_char": 29728
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 29816,
+      "end_char": 29820
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 29886,
+      "end_char": 29895
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 29903,
+      "end_char": 29918
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 29954,
+      "end_char": 29958
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 30034,
+      "end_char": 30038
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 30076,
+      "end_char": 30080
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 30087,
+      "end_char": 30096
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 30104,
+      "end_char": 30119
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 30214,
+      "end_char": 30218
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 30341,
+      "end_char": 30345
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 30473,
+      "end_char": 30477
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 30567,
+      "end_char": 30571
+    },
+    {
+      "text": "30th December 2020",
+      "label": "DATE",
+      "start_char": 30611,
+      "end_char": 30629
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 30664,
+      "end_char": 30668
+    },
+    {
+      "text": "Hazira",
+      "label": "GPE",
+      "start_char": 30709,
+      "end_char": 30715
+    },
+    {
+      "text": "Surat",
+      "label": "GPE",
+      "start_char": 30717,
+      "end_char": 30722
+    },
+    {
+      "text": "Magdalla",
+      "label": "GPE",
+      "start_char": 30911,
+      "end_char": 30919
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 30930,
+      "end_char": 30934
+    },
+    {
+      "text": "Magdalla",
+      "label": "GPE",
+      "start_char": 30982,
+      "end_char": 30990
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 31001,
+      "end_char": 31005
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 31068,
+      "end_char": 31072
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 31113,
+      "end_char": 31117
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 31306,
+      "end_char": 31316
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 31343,
+      "end_char": 31347
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 31386,
+      "end_char": 31390
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 31906,
+      "end_char": 31910
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 32112,
+      "end_char": 32116
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 32141,
+      "end_char": 32145
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 32527,
+      "end_char": 32531
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 32562,
+      "end_char": 32566
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 32770,
+      "end_char": 32774
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 32782,
+      "end_char": 32786
+    },
+    {
+      "text": "1st May 2013",
+      "label": "DATE",
+      "start_char": 32951,
+      "end_char": 32963
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 33026,
+      "end_char": 33030
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 33082,
+      "end_char": 33086
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 33131,
+      "end_char": 33135
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 33227,
+      "end_char": 33237
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 33331,
+      "end_char": 33335
+    },
+    {
+      "text": "30 th December 2020",
+      "label": "DATE",
+      "start_char": 33412,
+      "end_char": 33431
+    },
+    {
+      "text": "30 th April 2013",
+      "label": "DATE",
+      "start_char": 33464,
+      "end_char": 33480
+    },
+    {
+      "text": "EBTL",
+      "label": "STATUTE",
+      "start_char": 33540,
+      "end_char": 33544
+    },
+    {
+      "text": "Mihir Joshi",
+      "label": "OTHER_PERSON",
+      "start_char": 33613,
+      "end_char": 33624
+    },
+    {
+      "text": "Nanavati Associates",
+      "label": "ORG",
+      "start_char": 33657,
+      "end_char": 33676
+    },
+    {
+      "text": "EBTL",
+      "label": "PETITIONER",
+      "start_char": 33705,
+      "end_char": 33709
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 33814,
+      "end_char": 33823
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 33831,
+      "end_char": 33846
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 33867,
+      "end_char": 33871
+    },
+    {
+      "text": "Joshi",
+      "label": "OTHER_PERSON",
+      "start_char": 33930,
+      "end_char": 33935
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 34226,
+      "end_char": 34230
+    },
+    {
+      "text": "Joshi",
+      "label": "OTHER_PERSON",
+      "start_char": 34258,
+      "end_char": 34263
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 34442,
+      "end_char": 34451
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 34459,
+      "end_char": 34474
+    },
+    {
+      "text": "Joshi",
+      "label": "OTHER_PERSON",
+      "start_char": 34479,
+      "end_char": 34484
+    },
+    {
+      "text": "Joshi",
+      "label": "OTHER_PERSON",
+      "start_char": 34608,
+      "end_char": 34613
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 34788,
+      "end_char": 34792
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 34882,
+      "end_char": 34892
+    },
+    {
+      "text": "Joshi",
+      "label": "OTHER_PERSON",
+      "start_char": 34990,
+      "end_char": 34995
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 35132,
+      "end_char": 35136
+    },
+    {
+      "text": "Joshi",
+      "label": "OTHER_PERSON",
+      "start_char": 35238,
+      "end_char": 35243
+    },
+    {
+      "text": "Joshi",
+      "label": "OTHER_PERSON",
+      "start_char": 35502,
+      "end_char": 35507
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 35720,
+      "end_char": 35724
+    },
+    {
+      "text": "Joshi",
+      "label": "OTHER_PERSON",
+      "start_char": 35803,
+      "end_char": 35808
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 35980,
+      "end_char": 35984
+    },
+    {
+      "text": "Joshi",
+      "label": "OTHER_PERSON",
+      "start_char": 36106,
+      "end_char": 36111
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 36359,
+      "end_char": 36386
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 36394,
+      "end_char": 36404
+    },
+    {
+      "text": "Joshi",
+      "label": "OTHER_PERSON",
+      "start_char": 36412,
+      "end_char": 36417
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 36615,
+      "end_char": 36619
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 36899,
+      "end_char": 36903
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 36912,
+      "end_char": 36916
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 37007,
+      "end_char": 37011
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 37082,
+      "end_char": 37086
+    },
+    {
+      "text": "CHA 2011",
+      "label": "STATUTE",
+      "start_char": 37201,
+      "end_char": 37209
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 37251,
+      "end_char": 37255
+    },
+    {
+      "text": "CHA 2011",
+      "label": "STATUTE",
+      "start_char": 37441,
+      "end_char": 37449
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 37477,
+      "end_char": 37481
+    },
+    {
+      "text": "Joshi",
+      "label": "OTHER_PERSON",
+      "start_char": 37554,
+      "end_char": 37559
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 37648,
+      "end_char": 37652
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 37740,
+      "end_char": 37744
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 37932,
+      "end_char": 37936
+    },
+    {
+      "text": "Sections 14(1)(b) and 39",
+      "label": "PROVISION",
+      "start_char": 38065,
+      "end_char": 38089
+    },
+    {
+      "text": "Specific Relief Act, 1963",
+      "label": "STATUTE",
+      "start_char": 38110,
+      "end_char": 38135
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 38248,
+      "end_char": 38258
+    },
+    {
+      "text": "EBTL",
+      "label": "COURT",
+      "start_char": 38288,
+      "end_char": 38292
+    },
+    {
+      "text": "EBTL",
+      "label": "COURT",
+      "start_char": 38355,
+      "end_char": 38359
+    },
+    {
+      "text": "S.N.Soparkar",
+      "label": "OTHER_PERSON",
+      "start_char": 38524,
+      "end_char": 38536
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 38583,
+      "end_char": 38587
+    },
+    {
+      "text": "Soparkar",
+      "label": "OTHER_PERSON",
+      "start_char": 38592,
+      "end_char": 38600
+    },
+    {
+      "text": "Soparkar",
+      "label": "OTHER_PERSON",
+      "start_char": 38777,
+      "end_char": 38785
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 38917,
+      "end_char": 38921
+    },
+    {
+      "text": "Soparkar",
+      "label": "OTHER_PERSON",
+      "start_char": 39067,
+      "end_char": 39075
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 39130,
+      "end_char": 39134
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 39143,
+      "end_char": 39147
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 39273,
+      "end_char": 39277
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 39340,
+      "end_char": 39344
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 39435,
+      "end_char": 39439
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 39454,
+      "end_char": 39458
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 39553,
+      "end_char": 39557
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 39652,
+      "end_char": 39661
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 39669,
+      "end_char": 39684
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 39798,
+      "end_char": 39825
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 39833,
+      "end_char": 39843
+    },
+    {
+      "text": "Soparkar",
+      "label": "OTHER_PERSON",
+      "start_char": 39851,
+      "end_char": 39859
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 39933,
+      "end_char": 39937
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 39988,
+      "end_char": 39992
+    },
+    {
+      "text": "Soparkar",
+      "label": "OTHER_PERSON",
+      "start_char": 40195,
+      "end_char": 40203
+    },
+    {
+      "text": "December 30, 2020",
+      "label": "DATE",
+      "start_char": 40328,
+      "end_char": 40345
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 40469,
+      "end_char": 40473
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 40482,
+      "end_char": 40486
+    },
+    {
+      "text": "Soparkar",
+      "label": "OTHER_PERSON",
+      "start_char": 40706,
+      "end_char": 40714
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 40760,
+      "end_char": 40773
+    },
+    {
+      "text": "Union of India vs. Kishorilal Gupta, reported in AIR 1959 SC 1362",
+      "label": "PRECEDENT",
+      "start_char": 40789,
+      "end_char": 40854
+    },
+    {
+      "text": "Third Amendment Agreement",
+      "label": "STATUTE",
+      "start_char": 41189,
+      "end_char": 41214
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 41219,
+      "end_char": 41223
+    },
+    {
+      "text": "Soparkar",
+      "label": "OTHER_PERSON",
+      "start_char": 41298,
+      "end_char": 41306
+    },
+    {
+      "text": "11th January 2021",
+      "label": "DATE",
+      "start_char": 41363,
+      "end_char": 41380
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 41422,
+      "end_char": 41449
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 41457,
+      "end_char": 41467
+    },
+    {
+      "text": "AM/NS India",
+      "label": "ORG",
+      "start_char": 41560,
+      "end_char": 41571
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 41700,
+      "end_char": 41704
+    },
+    {
+      "text": "Soparkar",
+      "label": "OTHER_PERSON",
+      "start_char": 41719,
+      "end_char": 41727
+    },
+    {
+      "text": "8 th October 2020",
+      "label": "DATE",
+      "start_char": 41815,
+      "end_char": 41832
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 41846,
+      "end_char": 41850
+    },
+    {
+      "text": "Soparkar",
+      "label": "OTHER_PERSON",
+      "start_char": 41879,
+      "end_char": 41887
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 42314,
+      "end_char": 42318
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 42382,
+      "end_char": 42386
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 42398,
+      "end_char": 42402
+    },
+    {
+      "text": "Soparkar",
+      "label": "OTHER_PERSON",
+      "start_char": 42583,
+      "end_char": 42591
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 43033,
+      "end_char": 43043
+    },
+    {
+      "text": "Soparkar",
+      "label": "OTHER_PERSON",
+      "start_char": 43163,
+      "end_char": 43171
+    },
+    {
+      "text": "December 30, 2020",
+      "label": "DATE",
+      "start_char": 43504,
+      "end_char": 43521
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 43583,
+      "end_char": 43587
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 43626,
+      "end_char": 43630
+    },
+    {
+      "text": "Soparkar",
+      "label": "OTHER_PERSON",
+      "start_char": 43775,
+      "end_char": 43783
+    },
+    {
+      "text": "Soparkar",
+      "label": "OTHER_PERSON",
+      "start_char": 44189,
+      "end_char": 44197
+    },
+    {
+      "text": "Soparkar",
+      "label": "OTHER_PERSON",
+      "start_char": 44397,
+      "end_char": 44405
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 44536,
+      "end_char": 44549
+    },
+    {
+      "text": "Nabha Power Ltd. (NPL) vs. Punjab State Power Corporation and another, reported in 2018 11 SCC 508",
+      "label": "PRECEDENT",
+      "start_char": 44565,
+      "end_char": 44663
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 44666,
+      "end_char": 44693
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 44701,
+      "end_char": 44711
+    },
+    {
+      "text": "Nabha Power Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 44719,
+      "end_char": 44735
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 44749,
+      "end_char": 44762
+    },
+    {
+      "text": "Soparkar",
+      "label": "OTHER_PERSON",
+      "start_char": 44829,
+      "end_char": 44837
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 44894,
+      "end_char": 44907
+    },
+    {
+      "text": "Nabha Power Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 44923,
+      "end_char": 44939
+    },
+    {
+      "text": "Hoffmann",
+      "label": "OTHER_PERSON",
+      "start_char": 44972,
+      "end_char": 44980
+    },
+    {
+      "text": "Attorney General of Belize v. Belize Telecom Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 45019,
+      "end_char": 45068
+    },
+    {
+      "text": "Attorney General of Belize v. Belize Telecom Ltd., (2009) 1 WLR 1988 (PC)",
+      "label": "PRECEDENT",
+      "start_char": 45070,
+      "end_char": 45143
+    },
+    {
+      "text": "Investors Compensation Scheme Ltd. v. West Bromwich Building Society [Investors Compensation Scheme Ltd. v. West Bromwich Building Society, (1998) 1 WLR 896 : (1998) 1 All ER 98 (HL)",
+      "label": "PRECEDENT",
+      "start_char": 46073,
+      "end_char": 46255
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 46298,
+      "end_char": 46308
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "start_char": 46430,
+      "end_char": 46440
+    },
+    {
+      "text": "Soparkar",
+      "label": "OTHER_PERSON",
+      "start_char": 47086,
+      "end_char": 47094
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 47165,
+      "end_char": 47169
+    },
+    {
+      "text": "Soparkar",
+      "label": "OTHER_PERSON",
+      "start_char": 47320,
+      "end_char": 47328
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 47389,
+      "end_char": 47398
+    },
+    {
+      "text": "Mihir Thakore",
+      "label": "OTHER_PERSON",
+      "start_char": 47483,
+      "end_char": 47496
+    },
+    {
+      "text": "Nirag Pathak",
+      "label": "OTHER_PERSON",
+      "start_char": 47540,
+      "end_char": 47552
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "PRECEDENT",
+      "start_char": 47589,
+      "end_char": 47616
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 47624,
+      "end_char": 47634
+    },
+    {
+      "text": "Thakore",
+      "label": "OTHER_PERSON",
+      "start_char": 47712,
+      "end_char": 47719
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 47931,
+      "end_char": 47935
+    },
+    {
+      "text": "Thakore",
+      "label": "OTHER_PERSON",
+      "start_char": 48019,
+      "end_char": 48026
+    },
+    {
+      "text": "Indian Ports Act, 1908",
+      "label": "STATUTE",
+      "start_char": 48069,
+      "end_char": 48091
+    },
+    {
+      "text": "Ports Act",
+      "label": "STATUTE",
+      "start_char": 48109,
+      "end_char": 48118
+    },
+    {
+      "text": "Section 3(4)",
+      "label": "PROVISION",
+      "start_char": 48246,
+      "end_char": 48258
+    },
+    {
+      "text": "Section 4(1)(a)",
+      "label": "PROVISION",
+      "start_char": 48366,
+      "end_char": 48381
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 48626,
+      "end_char": 48635
+    },
+    {
+      "text": "Section 6(1)(a) and (b) - (1)",
+      "label": "PROVISION",
+      "start_char": 48800,
+      "end_char": 48829
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 49059,
+      "end_char": 49086
+    },
+    {
+      "text": "Gujarat Maritime Board Act, 1981",
+      "label": "STATUTE",
+      "start_char": 49531,
+      "end_char": 49563
+    },
+    {
+      "text": "Section 2(r)",
+      "label": "PROVISION",
+      "start_char": 49589,
+      "end_char": 49601
+    },
+    {
+      "text": "Indian Ports Act",
+      "label": "STATUTE",
+      "start_char": 49748,
+      "end_char": 49764
+    },
+    {
+      "text": "Section 2(o)",
+      "label": "PROVISION",
+      "start_char": 49768,
+      "end_char": 49780
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 49858,
+      "end_char": 49876
+    },
+    {
+      "text": "Section 2(s)",
+      "label": "PROVISION",
+      "start_char": 49894,
+      "end_char": 49906
+    },
+    {
+      "text": "Indian Ports Act",
+      "label": "STATUTE",
+      "start_char": 50038,
+      "end_char": 50054
+    },
+    {
+      "text": "GMB",
+      "label": "ORG",
+      "start_char": 50187,
+      "end_char": 50190
+    },
+    {
+      "text": "3rd August 2007",
+      "label": "DATE",
+      "start_char": 50205,
+      "end_char": 50220
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 50283,
+      "end_char": 50293
+    },
+    {
+      "text": "ESSAR",
+      "label": "ORG",
+      "start_char": 50336,
+      "end_char": 50341
+    },
+    {
+      "text": "Thakore",
+      "label": "OTHER_PERSON",
+      "start_char": 50628,
+      "end_char": 50635
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 50706,
+      "end_char": 50710
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 50719,
+      "end_char": 50723
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 50844,
+      "end_char": 50848
+    },
+    {
+      "text": "Thakore",
+      "label": "OTHER_PERSON",
+      "start_char": 51096,
+      "end_char": 51103
+    },
+    {
+      "text": "EBTL",
+      "label": "COURT",
+      "start_char": 51304,
+      "end_char": 51308
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 51612,
+      "end_char": 51622
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 51653,
+      "end_char": 51657
+    },
+    {
+      "text": "SLA",
+      "label": "COURT",
+      "start_char": 51840,
+      "end_char": 51843
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 51849,
+      "end_char": 51853
+    },
+    {
+      "text": "Article 4",
+      "label": "PROVISION",
+      "start_char": 52118,
+      "end_char": 52127
+    },
+    {
+      "text": "CHA",
+      "label": "STATUTE",
+      "start_char": 52135,
+      "end_char": 52138
+    },
+    {
+      "text": "ARTICLE 4",
+      "label": "PROVISION",
+      "start_char": 52162,
+      "end_char": 52171
+    },
+    {
+      "text": "FACILITIES AND SERVICES EBTL",
+      "label": "STATUTE",
+      "start_char": 52174,
+      "end_char": 52202
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 52613,
+      "end_char": 52623
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 52655,
+      "end_char": 52659
+    },
+    {
+      "text": "article 5.1",
+      "label": "PROVISION",
+      "start_char": 52749,
+      "end_char": 52760
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 52762,
+      "end_char": 52766
+    },
+    {
+      "text": "CHA",
+      "label": "STATUTE",
+      "start_char": 53201,
+      "end_char": 53204
+    },
+    {
+      "text": "Hazira",
+      "label": "GPE",
+      "start_char": 53301,
+      "end_char": 53307
+    },
+    {
+      "text": "Thakore",
+      "label": "OTHER_PERSON",
+      "start_char": 53577,
+      "end_char": 53584
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 53632,
+      "end_char": 53636
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 53738,
+      "end_char": 53742
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 53793,
+      "end_char": 53820
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 53828,
+      "end_char": 53838
+    },
+    {
+      "text": "NSPC",
+      "label": "ORG",
+      "start_char": 53935,
+      "end_char": 53939
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 54030,
+      "end_char": 54034
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 54244,
+      "end_char": 54249
+    },
+    {
+      "text": "28th February 2020",
+      "label": "DATE",
+      "start_char": 54302,
+      "end_char": 54320
+    },
+    {
+      "text": "Thakore",
+      "label": "OTHER_PERSON",
+      "start_char": 54382,
+      "end_char": 54389
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 54506,
+      "end_char": 54510
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 55070,
+      "end_char": 55074
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 55375,
+      "end_char": 55402
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 55410,
+      "end_char": 55420
+    },
+    {
+      "text": "Thakore",
+      "label": "OTHER_PERSON",
+      "start_char": 56038,
+      "end_char": 56045
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 56115,
+      "end_char": 56119
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 56367,
+      "end_char": 56371
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 56697,
+      "end_char": 56701
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 56923,
+      "end_char": 56927
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 56973,
+      "end_char": 56977
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 56980,
+      "end_char": 57007
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 57015,
+      "end_char": 57025
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 57026,
+      "end_char": 57030
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 57098,
+      "end_char": 57102
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 57371,
+      "end_char": 57375
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 57439,
+      "end_char": 57443
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 57877,
+      "end_char": 57881
+    },
+    {
+      "text": "GMB",
+      "label": "ORG",
+      "start_char": 57935,
+      "end_char": 57938
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 58056,
+      "end_char": 58060
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 58077,
+      "end_char": 58081
+    },
+    {
+      "text": "Section 9(1)(ii)(e)",
+      "label": "PROVISION",
+      "start_char": 58195,
+      "end_char": 58214
+    },
+    {
+      "text": "Arbitration & Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 58222,
+      "end_char": 58258
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 58259,
+      "end_char": 58263
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 58467,
+      "end_char": 58477
+    },
+    {
+      "text": "Thakore",
+      "label": "OTHER_PERSON",
+      "start_char": 58485,
+      "end_char": 58492
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 58781,
+      "end_char": 58791
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 58799,
+      "end_char": 58814
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 58844,
+      "end_char": 58854
+    },
+    {
+      "text": "Thakore",
+      "label": "OTHER_PERSON",
+      "start_char": 58926,
+      "end_char": 58933
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 59102,
+      "end_char": 59112
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 59439,
+      "end_char": 59449
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 59686,
+      "end_char": 59695
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 59734,
+      "end_char": 59749
+    },
+    {
+      "text": "Thakore",
+      "label": "OTHER_PERSON",
+      "start_char": 59785,
+      "end_char": 59792
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 59853,
+      "end_char": 59857
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 60023,
+      "end_char": 60050
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 60058,
+      "end_char": 60068
+    },
+    {
+      "text": "Darayus Khambhata",
+      "label": "OTHER_PERSON",
+      "start_char": 60072,
+      "end_char": 60089
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 60136,
+      "end_char": 60140
+    },
+    {
+      "text": "Khambhata",
+      "label": "OTHER_PERSON",
+      "start_char": 60145,
+      "end_char": 60154
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 60189,
+      "end_char": 60199
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 60207,
+      "end_char": 60222
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 60319,
+      "end_char": 60329
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 60360,
+      "end_char": 60369
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 60377,
+      "end_char": 60392
+    },
+    {
+      "text": "Order 43",
+      "label": "PROVISION",
+      "start_char": 60488,
+      "end_char": 60496
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 60504,
+      "end_char": 60527
+    },
+    {
+      "text": "Khambhata",
+      "label": "OTHER_PERSON",
+      "start_char": 60605,
+      "end_char": 60614
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 60659,
+      "end_char": 60675
+    },
+    {
+      "text": "CRSC Research and Design Institute Group Co. Ltd. vs. Dedicated Freight Corridor Corporation of India Limited and others, reported in 2020 SCC Online Del 1526",
+      "label": "PRECEDENT",
+      "start_char": 60691,
+      "end_char": 60849
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 60938,
+      "end_char": 60951
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 61055,
+      "end_char": 61082
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 61250,
+      "end_char": 61259
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 61267,
+      "end_char": 61282
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 61683,
+      "end_char": 61710
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 61718,
+      "end_char": 61728
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 61759,
+      "end_char": 61768
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 62030,
+      "end_char": 62039
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 62115,
+      "end_char": 62125
+    },
+    {
+      "text": "Wander Ltd.",
+      "label": "ORG",
+      "start_char": 62310,
+      "end_char": 62321
+    },
+    {
+      "text": "Antox India P. Ltd. 1990 (Supp) SCC 727",
+      "label": "PRECEDENT",
+      "start_char": 62326,
+      "end_char": 62365
+    },
+    {
+      "text": "Khambhata",
+      "label": "OTHER_PERSON",
+      "start_char": 62723,
+      "end_char": 62732
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 62776,
+      "end_char": 62789
+    },
+    {
+      "text": "Wander Ltd. and another vs. Antox India P. Ltd., reported in 1990 Supp SCC 727",
+      "label": "PRECEDENT",
+      "start_char": 62805,
+      "end_char": 62883
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 62897,
+      "end_char": 62910
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 63301,
+      "end_char": 63311
+    },
+    {
+      "text": "Khambhata",
+      "label": "OTHER_PERSON",
+      "start_char": 63993,
+      "end_char": 64002
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 64135,
+      "end_char": 64144
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 64152,
+      "end_char": 64167
+    },
+    {
+      "text": "Khambhata",
+      "label": "OTHER_PERSON",
+      "start_char": 64293,
+      "end_char": 64302
+    },
+    {
+      "text": "Khambhata",
+      "label": "OTHER_PERSON",
+      "start_char": 64457,
+      "end_char": 64466
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 64599,
+      "end_char": 64609
+    },
+    {
+      "text": "Khambhata",
+      "label": "OTHER_PERSON",
+      "start_char": 64709,
+      "end_char": 64718
+    },
+    {
+      "text": "Khambhata",
+      "label": "OTHER_PERSON",
+      "start_char": 64871,
+      "end_char": 64880
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 64916,
+      "end_char": 64926
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 64975,
+      "end_char": 64990
+    },
+    {
+      "text": "Khambhata",
+      "label": "OTHER_PERSON",
+      "start_char": 65279,
+      "end_char": 65288
+    },
+    {
+      "text": "Khambhata",
+      "label": "OTHER_PERSON",
+      "start_char": 65384,
+      "end_char": 65393
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 65526,
+      "end_char": 65530
+    },
+    {
+      "text": "Khambhata",
+      "label": "OTHER_PERSON",
+      "start_char": 65630,
+      "end_char": 65639
+    },
+    {
+      "text": "30th December 2020",
+      "label": "DATE",
+      "start_char": 65994,
+      "end_char": 66012
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 66048,
+      "end_char": 66052
+    },
+    {
+      "text": "30 th April 2013",
+      "label": "DATE",
+      "start_char": 66086,
+      "end_char": 66102
+    },
+    {
+      "text": "Khambhata",
+      "label": "OTHER_PERSON",
+      "start_char": 66179,
+      "end_char": 66188
+    },
+    {
+      "text": "Khambhata",
+      "label": "OTHER_PERSON",
+      "start_char": 66316,
+      "end_char": 66325
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 66459,
+      "end_char": 66463
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 66490,
+      "end_char": 66517
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 66525,
+      "end_char": 66535
+    },
+    {
+      "text": "30 th April 2013",
+      "label": "DATE",
+      "start_char": 66591,
+      "end_char": 66607
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 66663,
+      "end_char": 66667
+    },
+    {
+      "text": "31st December 2020",
+      "label": "DATE",
+      "start_char": 66728,
+      "end_char": 66746
+    },
+    {
+      "text": "30th December 2020",
+      "label": "DATE",
+      "start_char": 66796,
+      "end_char": 66814
+    },
+    {
+      "text": "Khambhata",
+      "label": "OTHER_PERSON",
+      "start_char": 66843,
+      "end_char": 66852
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 66866,
+      "end_char": 66870
+    },
+    {
+      "text": "30 th December 2020",
+      "label": "DATE",
+      "start_char": 67003,
+      "end_char": 67022
+    },
+    {
+      "text": "Khambhata",
+      "label": "OTHER_PERSON",
+      "start_char": 67040,
+      "end_char": 67049
+    },
+    {
+      "text": "30th December 2020",
+      "label": "DATE",
+      "start_char": 67109,
+      "end_char": 67127
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 67421,
+      "end_char": 67425
+    },
+    {
+      "text": "RBI",
+      "label": "ORG",
+      "start_char": 67478,
+      "end_char": 67481
+    },
+    {
+      "text": "30th April 2013",
+      "label": "DATE",
+      "start_char": 67510,
+      "end_char": 67525
+    },
+    {
+      "text": "30 th April 2013",
+      "label": "DATE",
+      "start_char": 67782,
+      "end_char": 67798
+    },
+    {
+      "text": "Khambhata",
+      "label": "OTHER_PERSON",
+      "start_char": 68016,
+      "end_char": 68025
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 68162,
+      "end_char": 68172
+    },
+    {
+      "text": "Khambhata",
+      "label": "OTHER_PERSON",
+      "start_char": 68197,
+      "end_char": 68206
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 68257,
+      "end_char": 68270
+    },
+    {
+      "text": "Nabha Power Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 68286,
+      "end_char": 68302
+    },
+    {
+      "text": "Khambhata",
+      "label": "OTHER_PERSON",
+      "start_char": 68362,
+      "end_char": 68371
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 68438,
+      "end_char": 68442
+    },
+    {
+      "text": "First Appeals Nos.3506 of 2021 and 3507 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 68487,
+      "end_char": 68534
+    },
+    {
+      "text": "Khambhata",
+      "label": "OTHER_PERSON",
+      "start_char": 68749,
+      "end_char": 68758
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 68910,
+      "end_char": 68919
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 68989,
+      "end_char": 68998
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 69006,
+      "end_char": 69021
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 69082,
+      "end_char": 69091
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 69158,
+      "end_char": 69167
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 69375,
+      "end_char": 69384
+    },
+    {
+      "text": "Khambhata",
+      "label": "OTHER_PERSON",
+      "start_char": 69609,
+      "end_char": 69618
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 69641,
+      "end_char": 69645
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 69748,
+      "end_char": 69775
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 69783,
+      "end_char": 69793
+    },
+    {
+      "text": "Khambhata",
+      "label": "OTHER_PERSON",
+      "start_char": 69843,
+      "end_char": 69852
+    },
+    {
+      "text": "SECTION 9",
+      "label": "PROVISION",
+      "start_char": 70341,
+      "end_char": 70350
+    },
+    {
+      "text": "ARBITRATION ACT :\n112",
+      "label": "STATUTE",
+      "start_char": 70358,
+      "end_char": 70379
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 70381,
+      "end_char": 70390
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 70398,
+      "end_char": 70413
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 70906,
+      "end_char": 70915
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 71013,
+      "end_char": 71030
+    },
+    {
+      "text": "Bank of Maharashtra vs. M.V.River Oghese, 1990 AIR (Bom) 107",
+      "label": "PRECEDENT",
+      "start_char": 71038,
+      "end_char": 71098
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 71221,
+      "end_char": 71248
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 71256,
+      "end_char": 71266
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 71316,
+      "end_char": 71325
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 71333,
+      "end_char": 71348
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 71437,
+      "end_char": 71447
+    },
+    {
+      "text": "Sections 9 and 17",
+      "label": "PROVISION",
+      "start_char": 71478,
+      "end_char": 71495
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 71516,
+      "end_char": 71531
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 71651,
+      "end_char": 71661
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 71729,
+      "end_char": 71738
+    },
+    {
+      "text": "sub-section (3) of Section 9",
+      "label": "PROVISION",
+      "start_char": 71767,
+      "end_char": 71795
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 72008,
+      "end_char": 72018
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 72086,
+      "end_char": 72095
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 72316,
+      "end_char": 72325
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 72510,
+      "end_char": 72519
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 72652,
+      "end_char": 72661
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 72904,
+      "end_char": 72913
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "PRECEDENT",
+      "start_char": 73133,
+      "end_char": 73160
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 73168,
+      "end_char": 73178
+    },
+    {
+      "text": "Ramniklal N. Bhutta vs. State of Maharashtra, (1997) 1 SCC 134",
+      "label": "PRECEDENT",
+      "start_char": 73179,
+      "end_char": 73241
+    },
+    {
+      "text": "Raunaq International Ltd. vs. I.V.R. Construction Ltd., (1999) 1 SCC 492",
+      "label": "PRECEDENT",
+      "start_char": 73246,
+      "end_char": 73318
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 73478,
+      "end_char": 73487
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 73584,
+      "end_char": 73593
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 73757,
+      "end_char": 73767
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 73925,
+      "end_char": 73934
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 73942,
+      "end_char": 73957
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 73986,
+      "end_char": 73995
+    },
+    {
+      "text": "Sundaram Finance Ltd vs. NEPC India Ltd, 1999 2 SCC 479",
+      "label": "PRECEDENT",
+      "start_char": 74136,
+      "end_char": 74191
+    },
+    {
+      "text": "Order 39",
+      "label": "PROVISION",
+      "start_char": 74259,
+      "end_char": 74267
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 74275,
+      "end_char": 74278
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 74437,
+      "end_char": 74447
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 74668,
+      "end_char": 74677
+    },
+    {
+      "text": "Adhunik Steels Ltd vs. Orissa Manganese and Minerals (P) Ltd, (2007) 7 SCC 125",
+      "label": "PRECEDENT",
+      "start_char": 74793,
+      "end_char": 74871
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 74877,
+      "end_char": 74890
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 74904,
+      "end_char": 74931
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 74939,
+      "end_char": 74949
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 74971,
+      "end_char": 74980
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 74988,
+      "end_char": 75003
+    },
+    {
+      "text": "Peter Binder",
+      "label": "OTHER_PERSON",
+      "start_char": 75196,
+      "end_char": 75208
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 76159,
+      "end_char": 76186
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 76194,
+      "end_char": 76204
+    },
+    {
+      "text": "Lew",
+      "label": "OTHER_PERSON",
+      "start_char": 76219,
+      "end_char": 76222
+    },
+    {
+      "text": "ICC Arbitration Cases",
+      "label": "PRECEDENT",
+      "start_char": 76281,
+      "end_char": 76302
+    },
+    {
+      "text": "Channel Tunnel Group Ltd. v. Balfour Beatty Construction Ltd., 1993 AC 334 :\n(1993) 2 WLR 262 : (1993) 1 All ER 664 (HL)",
+      "label": "PRECEDENT",
+      "start_char": 76720,
+      "end_char": 76840
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 77539,
+      "end_char": 77566
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 77574,
+      "end_char": 77584
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 78362,
+      "end_char": 78371
+    },
+    {
+      "text": "Adhunik Steels",
+      "label": "ORG",
+      "start_char": 78513,
+      "end_char": 78527
+    },
+    {
+      "text": "OMM Private Limited",
+      "label": "ORG",
+      "start_char": 78662,
+      "end_char": 78681
+    },
+    {
+      "text": "OMM Private Limited",
+      "label": "ORG",
+      "start_char": 78747,
+      "end_char": 78766
+    },
+    {
+      "text": "OMM Private Limited",
+      "label": "ORG",
+      "start_char": 78859,
+      "end_char": 78878
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 79210,
+      "end_char": 79237
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 79245,
+      "end_char": 79255
+    },
+    {
+      "text": "Adhunik Steels",
+      "label": "ORG",
+      "start_char": 79274,
+      "end_char": 79288
+    },
+    {
+      "text": "Adhunik Steels",
+      "label": "ORG",
+      "start_char": 79351,
+      "end_char": 79365
+    },
+    {
+      "text": "OMM Private Limited",
+      "label": "ORG",
+      "start_char": 79496,
+      "end_char": 79515
+    },
+    {
+      "text": "OMM Private Limited",
+      "label": "ORG",
+      "start_char": 79554,
+      "end_char": 79573
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 80233,
+      "end_char": 80242
+    },
+    {
+      "text": "Arvind Constructions Ltd vs. Kalinga Mining Corporation, (2007) 6 SCC 798",
+      "label": "PRECEDENT",
+      "start_char": 80575,
+      "end_char": 80648
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 80654,
+      "end_char": 80667
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 80734,
+      "end_char": 80743
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 80751,
+      "end_char": 80766
+    },
+    {
+      "text": "Specific Relief Act",
+      "label": "STATUTE",
+      "start_char": 80832,
+      "end_char": 80851
+    },
+    {
+      "text": "Firm Ashok Traders vs. Gurmukh Das Saluja, (2004) 3 SCC 155",
+      "label": "PRECEDENT",
+      "start_char": 80859,
+      "end_char": 80918
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 80940,
+      "end_char": 80967
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 81064,
+      "end_char": 81073
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 81276,
+      "end_char": 81285
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 81293,
+      "end_char": 81308
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 81337,
+      "end_char": 81353
+    },
+    {
+      "text": "Dalveer Bhandari",
+      "label": "JUDGE",
+      "start_char": 81363,
+      "end_char": 81379
+    },
+    {
+      "text": "Olex Facas Pvt Ltd vs. Skoda Export Co. Ltd, 2000 AIR (Del) 161",
+      "label": "PRECEDENT",
+      "start_char": 81404,
+      "end_char": 81467
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 82304,
+      "end_char": 82313
+    },
+    {
+      "text": "Section 9, (i)",
+      "label": "PROVISION",
+      "start_char": 82391,
+      "end_char": 82405
+    },
+    {
+      "text": "sub-clause (ii)(e) of sub-section (1) of Section 9",
+      "label": "PROVISION",
+      "start_char": 83040,
+      "end_char": 83090
+    },
+    {
+      "text": "Banumathi",
+      "label": "JUDGE",
+      "start_char": 83360,
+      "end_char": 83369
+    },
+    {
+      "text": "High Court of Madras",
+      "label": "COURT",
+      "start_char": 83419,
+      "end_char": 83439
+    },
+    {
+      "text": "V.Sekar vs. Akash Housing, 2011 AIR (Mad) 110 : (2011) 3 Arb LR 327 (DB):",
+      "label": "PRECEDENT",
+      "start_char": 83444,
+      "end_char": 83517
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 83534,
+      "end_char": 83543
+    },
+    {
+      "text": "Section 9(2)(e)",
+      "label": "PROVISION",
+      "start_char": 83658,
+      "end_char": 83673
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 84178,
+      "end_char": 84187
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 84293,
+      "end_char": 84320
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 84328,
+      "end_char": 84338
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 84453,
+      "end_char": 84462
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 84780,
+      "end_char": 84795
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 84876,
+      "end_char": 84891
+    },
+    {
+      "text": "Section 16(1)",
+      "label": "PROVISION",
+      "start_char": 85303,
+      "end_char": 85316
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 85324,
+      "end_char": 85339
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 85684,
+      "end_char": 85711
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 86015,
+      "end_char": 86025
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 86170,
+      "end_char": 86180
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 86188,
+      "end_char": 86203
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 86223,
+      "end_char": 86233
+    },
+    {
+      "text": "Section 37(2)",
+      "label": "PROVISION",
+      "start_char": 86352,
+      "end_char": 86365
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 86373,
+      "end_char": 86388
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "start_char": 86414,
+      "end_char": 86424
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 87181,
+      "end_char": 87208
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 87216,
+      "end_char": 87226
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 87297,
+      "end_char": 87310
+    },
+    {
+      "text": "ArcelorMittal Nippon Steel India Limited vs. Essar Bulk Terminal Limited : 2021 SCC OnLine SC 718",
+      "label": "PRECEDENT",
+      "start_char": 87314,
+      "end_char": 87411
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 87778,
+      "end_char": 87787
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 87795,
+      "end_char": 87810
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 88096,
+      "end_char": 88105
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 88113,
+      "end_char": 88128
+    },
+    {
+      "text": "section 36",
+      "label": "PROVISION",
+      "start_char": 88377,
+      "end_char": 88387
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 88407,
+      "end_char": 88434
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 89736,
+      "end_char": 89763
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 89771,
+      "end_char": 89781
+    },
+    {
+      "text": "section 17",
+      "label": "PROVISION",
+      "start_char": 90203,
+      "end_char": 90213
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 90234,
+      "end_char": 90246
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 90347,
+      "end_char": 90359
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 90431,
+      "end_char": 90443
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 90496,
+      "end_char": 90508
+    },
+    {
+      "text": "Section 17(1)",
+      "label": "PROVISION",
+      "start_char": 90608,
+      "end_char": 90621
+    },
+    {
+      "text": "Section 9(1)",
+      "label": "PROVISION",
+      "start_char": 90641,
+      "end_char": 90653
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 90661,
+      "end_char": 90676
+    },
+    {
+      "text": "Section 17(2)",
+      "label": "PROVISION",
+      "start_char": 90801,
+      "end_char": 90814
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 90961,
+      "end_char": 90971
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 91051,
+      "end_char": 91060
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 91140,
+      "end_char": 91167
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 91175,
+      "end_char": 91185
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 91191,
+      "end_char": 91201
+    },
+    {
+      "text": "section 36",
+      "label": "PROVISION",
+      "start_char": 91435,
+      "end_char": 91445
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 92457,
+      "end_char": 92467
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 92786,
+      "end_char": 92796
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 92955,
+      "end_char": 92984
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 93091,
+      "end_char": 93106
+    },
+    {
+      "text": "Sections 9 and 17",
+      "label": "PROVISION",
+      "start_char": 93147,
+      "end_char": 93164
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 93207,
+      "end_char": 93222
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 93335,
+      "end_char": 93348
+    },
+    {
+      "text": "Amazon.com NV Investment Holdings LLC vs. Future Retail Limited and others, reported in 2021 SCC OnLine SC 557",
+      "label": "PRECEDENT",
+      "start_char": 93364,
+      "end_char": 93474
+    },
+    {
+      "text": "Sections 9(2) and 9(3)",
+      "label": "PROVISION",
+      "start_char": 93642,
+      "end_char": 93664
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 93691,
+      "end_char": 93700
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 93701,
+      "end_char": 93728
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 93736,
+      "end_char": 93746
+    },
+    {
+      "text": "Section 9,\n(i)",
+      "label": "PROVISION",
+      "start_char": 93753,
+      "end_char": 93767
+    },
+    {
+      "text": "section 17",
+      "label": "PROVISION",
+      "start_char": 94598,
+      "end_char": 94608
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 94990,
+      "end_char": 95017
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 95025,
+      "end_char": 95035
+    },
+    {
+      "text": "section 17",
+      "label": "PROVISION",
+      "start_char": 95049,
+      "end_char": 95059
+    },
+    {
+      "text": "section 9]",
+      "label": "PROVISION",
+      "start_char": 95154,
+      "end_char": 95164
+    },
+    {
+      "text": "SIAC Rules",
+      "label": "STATUTE",
+      "start_char": 95206,
+      "end_char": 95216
+    },
+    {
+      "text": "Sections 9(2) and 9(3)",
+      "label": "PROVISION",
+      "start_char": 95268,
+      "end_char": 95290
+    },
+    {
+      "text": "Sections 9(2) and 9(3)",
+      "label": "PROVISION",
+      "start_char": 95368,
+      "end_char": 95390
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 95460,
+      "end_char": 95469
+    },
+    {
+      "text": "246th Law Commission",
+      "label": "ORG",
+      "start_char": 95751,
+      "end_char": 95771
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 95808,
+      "end_char": 95818
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 95845,
+      "end_char": 95855
+    },
+    {
+      "text": "Section 17 *****\n(vi)",
+      "label": "PROVISION",
+      "start_char": 95863,
+      "end_char": 95884
+    },
+    {
+      "text": "C/FA/3040/2021",
+      "label": "CASE_NUMBER",
+      "start_char": 96215,
+      "end_char": 96229
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 96250,
+      "end_char": 96260
+    },
+    {
+      "text": "section 9(2)",
+      "label": "PROVISION",
+      "start_char": 96432,
+      "end_char": 96444
+    },
+    {
+      "text": "UNCITRAL Model Law",
+      "label": "STATUTE",
+      "start_char": 96769,
+      "end_char": 96787
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 96916,
+      "end_char": 96926
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 97085,
+      "end_char": 97114
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 97295,
+      "end_char": 97305
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 97430,
+      "end_char": 97440
+    },
+    {
+      "text": "Section 17(1)",
+      "label": "PROVISION",
+      "start_char": 97449,
+      "end_char": 97462
+    },
+    {
+      "text": "Section 9(1)",
+      "label": "PROVISION",
+      "start_char": 97490,
+      "end_char": 97502
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 97586,
+      "end_char": 97613
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 97621,
+      "end_char": 97631
+    },
+    {
+      "text": "Section 17(2)",
+      "label": "PROVISION",
+      "start_char": 97677,
+      "end_char": 97690
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 97819,
+      "end_char": 97829
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 97842,
+      "end_char": 97851
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 98103,
+      "end_char": 98116
+    },
+    {
+      "text": "ArcelorMittal",
+      "label": "PRECEDENT",
+      "start_char": 98121,
+      "end_char": 98134
+    },
+    {
+      "text": "Section 9(1)",
+      "label": "PROVISION",
+      "start_char": 98300,
+      "end_char": 98312
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 98320,
+      "end_char": 98335
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 98337,
+      "end_char": 98347
+    },
+    {
+      "text": "Section 9(1)",
+      "label": "PROVISION",
+      "start_char": 98469,
+      "end_char": 98481
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 98592,
+      "end_char": 98602
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 98832,
+      "end_char": 98842
+    },
+    {
+      "text": "Section 9(1)",
+      "label": "PROVISION",
+      "start_char": 98881,
+      "end_char": 98893
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 98934,
+      "end_char": 98961
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 98969,
+      "end_char": 98979
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 99589,
+      "end_char": 99597
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 99686,
+      "end_char": 99695
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 99739,
+      "end_char": 99749
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 99990,
+      "end_char": 99999
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 100005,
+      "end_char": 100015
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 100023,
+      "end_char": 100038
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 100242,
+      "end_char": 100252
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 100380,
+      "end_char": 100392
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "PRECEDENT",
+      "start_char": 100495,
+      "end_char": 100522
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 100530,
+      "end_char": 100540
+    },
+    {
+      "text": "Section 9(1)",
+      "label": "PROVISION",
+      "start_char": 100773,
+      "end_char": 100785
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 100960,
+      "end_char": 100968
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 101048,
+      "end_char": 101060
+    },
+    {
+      "text": "UNCITRAL",
+      "label": "STATUTE",
+      "start_char": 101222,
+      "end_char": 101230
+    },
+    {
+      "text": "Amazon.com NV Investment Holdings LLC",
+      "label": "PRECEDENT",
+      "start_char": 101401,
+      "end_char": 101438
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 101474,
+      "end_char": 101486
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 101545,
+      "end_char": 101554
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 101562,
+      "end_char": 101577
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 101605,
+      "end_char": 101618
+    },
+    {
+      "text": "ArcelorMittal",
+      "label": "PRECEDENT",
+      "start_char": 101622,
+      "end_char": 101635
+    },
+    {
+      "text": "Section 9(3)",
+      "label": "PROVISION",
+      "start_char": 101652,
+      "end_char": 101664
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 101750,
+      "end_char": 101760
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 101854,
+      "end_char": 101864
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 101895,
+      "end_char": 101922
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 101930,
+      "end_char": 101940
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 102036,
+      "end_char": 102040
+    },
+    {
+      "text": "ESTL",
+      "label": "ORG",
+      "start_char": 102270,
+      "end_char": 102274
+    },
+    {
+      "text": "ESTL",
+      "label": "ORG",
+      "start_char": 102488,
+      "end_char": 102492
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 103275,
+      "end_char": 103302
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 103310,
+      "end_char": 103320
+    },
+    {
+      "text": "Khambhata",
+      "label": "OTHER_PERSON",
+      "start_char": 103612,
+      "end_char": 103621
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 103818,
+      "end_char": 103822
+    },
+    {
+      "text": "Reserve Bank of India",
+      "label": "ORG",
+      "start_char": 104035,
+      "end_char": 104056
+    },
+    {
+      "text": "ECB",
+      "label": "ORG",
+      "start_char": 104299,
+      "end_char": 104302
+    },
+    {
+      "text": "Reserve Bank of India",
+      "label": "ORG",
+      "start_char": 104559,
+      "end_char": 104580
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 104795,
+      "end_char": 104822
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 104830,
+      "end_char": 104840
+    },
+    {
+      "text": "NOS.3506 AND 3506 OF 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 104896,
+      "end_char": 104921
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 105057,
+      "end_char": 105061
+    },
+    {
+      "text": "21st February 2011",
+      "label": "DATE",
+      "start_char": 105897,
+      "end_char": 105915
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 105921,
+      "end_char": 105925
+    },
+    {
+      "text": "ESIL",
+      "label": "ORG",
+      "start_char": 105934,
+      "end_char": 105938
+    },
+    {
+      "text": "ESIL",
+      "label": "ORG",
+      "start_char": 106150,
+      "end_char": 106154
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 106218,
+      "end_char": 106222
+    },
+    {
+      "text": "7 th May C/FA/3040/2021 CAV JUDGMENT",
+      "label": "DATE",
+      "start_char": 106313,
+      "end_char": 106349
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 106357,
+      "end_char": 106367
+    },
+    {
+      "text": "2013",
+      "label": "DATE",
+      "start_char": 106368,
+      "end_char": 106372
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 106503,
+      "end_char": 106507
+    },
+    {
+      "text": "CHA",
+      "label": "STATUTE",
+      "start_char": 106532,
+      "end_char": 106535
+    },
+    {
+      "text": "RBI",
+      "label": "ORG",
+      "start_char": 106627,
+      "end_char": 106630
+    },
+    {
+      "text": "30 th April 2013",
+      "label": "DATE",
+      "start_char": 106660,
+      "end_char": 106676
+    },
+    {
+      "text": "ESTL",
+      "label": "ORG",
+      "start_char": 106874,
+      "end_char": 106878
+    },
+    {
+      "text": "ESTL",
+      "label": "ORG",
+      "start_char": 107092,
+      "end_char": 107096
+    },
+    {
+      "text": "Article 5.2A",
+      "label": "PROVISION",
+      "start_char": 107409,
+      "end_char": 107421
+    },
+    {
+      "text": "ESIL",
+      "label": "ORG",
+      "start_char": 107453,
+      "end_char": 107457
+    },
+    {
+      "text": "15th October 2013",
+      "label": "DATE",
+      "start_char": 107553,
+      "end_char": 107570
+    },
+    {
+      "text": "CHA",
+      "label": "COURT",
+      "start_char": 107576,
+      "end_char": 107579
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 107802,
+      "end_char": 107806
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 107880,
+      "end_char": 107890
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 107962,
+      "end_char": 107966
+    },
+    {
+      "text": "16th December 2019",
+      "label": "DATE",
+      "start_char": 108014,
+      "end_char": 108032
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 108038,
+      "end_char": 108042
+    },
+    {
+      "text": "ESIL",
+      "label": "ORG",
+      "start_char": 108075,
+      "end_char": 108079
+    },
+    {
+      "text": "ESIL",
+      "label": "ORG",
+      "start_char": 108092,
+      "end_char": 108096
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 108105,
+      "end_char": 108109
+    },
+    {
+      "text": "ESSAR Group",
+      "label": "ORG",
+      "start_char": 108171,
+      "end_char": 108182
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 108208,
+      "end_char": 108212
+    },
+    {
+      "text": "Third Amendment Agreement",
+      "label": "STATUTE",
+      "start_char": 108254,
+      "end_char": 108279
+    },
+    {
+      "text": "Fourth Amendment Agreement",
+      "label": "STATUTE",
+      "start_char": 108288,
+      "end_char": 108314
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 108367,
+      "end_char": 108371
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 108618,
+      "end_char": 108622
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 108801,
+      "end_char": 108805
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 108815,
+      "end_char": 108824
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 108957,
+      "end_char": 108961
+    },
+    {
+      "text": "30 th December 2020",
+      "label": "DATE",
+      "start_char": 109043,
+      "end_char": 109062
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 109091,
+      "end_char": 109095
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 109149,
+      "end_char": 109153
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 109161,
+      "end_char": 109165
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 109183,
+      "end_char": 109187
+    },
+    {
+      "text": "30th April 2013",
+      "label": "DATE",
+      "start_char": 109266,
+      "end_char": 109281
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 109380,
+      "end_char": 109407
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 109415,
+      "end_char": 109425
+    },
+    {
+      "text": "CHA",
+      "label": "STATUTE",
+      "start_char": 109478,
+      "end_char": 109481
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 109858,
+      "end_char": 109867
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 109875,
+      "end_char": 109890
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 110134,
+      "end_char": 110143
+    },
+    {
+      "text": "Delhi High court",
+      "label": "COURT",
+      "start_char": 110187,
+      "end_char": 110203
+    },
+    {
+      "text": "CRSC Research and Design Institute Group Co. Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 110219,
+      "end_char": 110268
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 110648,
+      "end_char": 110652
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 110749,
+      "end_char": 110753
+    },
+    {
+      "text": "30 th December 2020",
+      "label": "DATE",
+      "start_char": 110824,
+      "end_char": 110843
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 111056,
+      "end_char": 111066
+    },
+    {
+      "text": "Films Rover International Ltd. and others vs. Cannon Film Sales Ltd., (1986) 3",
+      "label": "PRECEDENT",
+      "start_char": 111938,
+      "end_char": 112016
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 112775,
+      "end_char": 112802
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 112810,
+      "end_char": 112820
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 112891,
+      "end_char": 112904
+    },
+    {
+      "text": "Dorab Cawasji Warden vs. Coomi Sorab Warden and others, (1990) 2",
+      "label": "PRECEDENT",
+      "start_char": 112921,
+      "end_char": 112985
+    },
+    {
+      "text": "SCC 117",
+      "label": "CASE_NUMBER",
+      "start_char": 112986,
+      "end_char": 112993
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 114190,
+      "end_char": 114217
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 114225,
+      "end_char": 114235
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 114823,
+      "end_char": 114842
+    },
+    {
+      "text": "Bikash Chandra Deb vs. Vijaya Minerals Pvt Ltd., reported in (2005) 1 CalHN 582",
+      "label": "PRECEDENT",
+      "start_char": 114858,
+      "end_char": 114937
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 114968,
+      "end_char": 114987
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 115998,
+      "end_char": 116025
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 116033,
+      "end_char": 116043
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 117341,
+      "end_char": 117351
+    },
+    {
+      "text": "Specific Relief Act",
+      "label": "STATUTE",
+      "start_char": 117359,
+      "end_char": 117378
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 117617,
+      "end_char": 117644
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 117652,
+      "end_char": 117662
+    },
+    {
+      "text": "Clause (b) of Section 20",
+      "label": "PROVISION",
+      "start_char": 117740,
+      "end_char": 117764
+    },
+    {
+      "text": "White and Carter (Councils) Ltd. v. McGregor, 1962",
+      "label": "PRECEDENT",
+      "start_char": 118293,
+      "end_char": 118343
+    },
+    {
+      "text": "AC 413",
+      "label": "PROVISION",
+      "start_char": 118344,
+      "end_char": 118350
+    },
+    {
+      "text": "Mitter",
+      "label": "OTHER_PERSON",
+      "start_char": 118947,
+      "end_char": 118953
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 119040,
+      "end_char": 119067
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 119075,
+      "end_char": 119085
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 120348,
+      "end_char": 120352
+    },
+    {
+      "text": "30th December 2020",
+      "label": "DATE",
+      "start_char": 120457,
+      "end_char": 120475
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 120478,
+      "end_char": 120505
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 120513,
+      "end_char": 120523
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 120835,
+      "end_char": 120839
+    },
+    {
+      "text": "30 th December 2020",
+      "label": "DATE",
+      "start_char": 120899,
+      "end_char": 120918
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 121304,
+      "end_char": 121308
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 121324,
+      "end_char": 121328
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 121626,
+      "end_char": 121630
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 121641,
+      "end_char": 121650
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 121667,
+      "end_char": 121671
+    },
+    {
+      "text": "Thakore",
+      "label": "OTHER_PERSON",
+      "start_char": 121983,
+      "end_char": 121990
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 122192,
+      "end_char": 122219
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 122227,
+      "end_char": 122237
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 122356,
+      "end_char": 122360
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 122375,
+      "end_char": 122379
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 122757,
+      "end_char": 122761
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 122910,
+      "end_char": 122914
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 123021,
+      "end_char": 123025
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 123288,
+      "end_char": 123292
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 123424,
+      "end_char": 123433
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 123441,
+      "end_char": 123456
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 123778,
+      "end_char": 123782
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 123817,
+      "end_char": 123821
+    },
+    {
+      "text": "Diplock",
+      "label": "OTHER_PERSON",
+      "start_char": 123865,
+      "end_char": 123872
+    },
+    {
+      "text": "American Cyanamid Co. vs. Ethicon Ltd., 1975 AC 396: (1975) 2 WLR 316",
+      "label": "PRECEDENT",
+      "start_char": 123888,
+      "end_char": 123957
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 124085,
+      "end_char": 124112
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 124120,
+      "end_char": 124130
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 124813,
+      "end_char": 124817
+    },
+    {
+      "text": "Khambata",
+      "label": "OTHER_PERSON",
+      "start_char": 125085,
+      "end_char": 125093
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 125423,
+      "end_char": 125427
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 125449,
+      "end_char": 125453
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 125514,
+      "end_char": 125518
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 125536,
+      "end_char": 125540
+    },
+    {
+      "text": "SIBAL",
+      "label": "OTHER_PERSON",
+      "start_char": 125674,
+      "end_char": 125679
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 125719,
+      "end_char": 125723
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 125729,
+      "end_char": 125733
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 125750,
+      "end_char": 125777
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 125785,
+      "end_char": 125795
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 125810,
+      "end_char": 125814
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 125927,
+      "end_char": 125931
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 125942,
+      "end_char": 125946
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 126015,
+      "end_char": 126019
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 126036,
+      "end_char": 126040
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 126137,
+      "end_char": 126141
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 126154,
+      "end_char": 126158
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 126345,
+      "end_char": 126349
+    },
+    {
+      "text": "Thakore",
+      "label": "OTHER_PERSON",
+      "start_char": 126505,
+      "end_char": 126512
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 126698,
+      "end_char": 126702
+    },
+    {
+      "text": "CHA",
+      "label": "STATUTE",
+      "start_char": 126851,
+      "end_char": 126854
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 127272,
+      "end_char": 127282
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 127335,
+      "end_char": 127339
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 127476,
+      "end_char": 127480
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 127685,
+      "end_char": 127689
+    },
+    {
+      "text": "Joshi",
+      "label": "OTHER_PERSON",
+      "start_char": 127888,
+      "end_char": 127893
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 127960,
+      "end_char": 127969
+    },
+    {
+      "text": "10 th January 2021",
+      "label": "DATE",
+      "start_char": 128047,
+      "end_char": 128065
+    },
+    {
+      "text": "Joshi",
+      "label": "OTHER_PERSON",
+      "start_char": 128070,
+      "end_char": 128075
+    },
+    {
+      "text": "10th January 2021",
+      "label": "DATE",
+      "start_char": 128135,
+      "end_char": 128152
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 128303,
+      "end_char": 128307
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 128457,
+      "end_char": 128466
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 128474,
+      "end_char": 128489
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 128564,
+      "end_char": 128573
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 129057,
+      "end_char": 129084
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 129092,
+      "end_char": 129102
+    },
+    {
+      "text": "sub-clauses (a) to (e) of clause (ii) of Section 9",
+      "label": "PROVISION",
+      "start_char": 129103,
+      "end_char": 129153
+    },
+    {
+      "text": "Second Schedule",
+      "label": "PROVISION",
+      "start_char": 129211,
+      "end_char": 129226
+    },
+    {
+      "text": "Repealed Act",
+      "label": "STATUTE",
+      "start_char": 129234,
+      "end_char": 129246
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 129798,
+      "end_char": 129807
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 129815,
+      "end_char": 129830
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 129937,
+      "end_char": 129946
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 130156,
+      "end_char": 130165
+    },
+    {
+      "text": "Karnataka High Court",
+      "label": "COURT",
+      "start_char": 130287,
+      "end_char": 130307
+    },
+    {
+      "text": "Deccan Asian Infrastructure (Mauritius) Inc. vs. BPL Communications Limited and others, reported in (2005) 3 KarLJ 143",
+      "label": "PRECEDENT",
+      "start_char": 130323,
+      "end_char": 130441
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 130519,
+      "end_char": 130528
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 130704,
+      "end_char": 130713
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 130827,
+      "end_char": 130854
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 130862,
+      "end_char": 130872
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 131009,
+      "end_char": 131018
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 132490,
+      "end_char": 132517
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 132525,
+      "end_char": 132535
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 132714,
+      "end_char": 132723
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 132731,
+      "end_char": 132746
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 133040,
+      "end_char": 133050
+    },
+    {
+      "text": "Joshi",
+      "label": "OTHER_PERSON",
+      "start_char": 133094,
+      "end_char": 133099
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 133146,
+      "end_char": 133150
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 133294,
+      "end_char": 133309
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 133484,
+      "end_char": 133499
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 133524,
+      "end_char": 133537
+    },
+    {
+      "text": "Union of India vs. U.P. State Bridge Corporation Limited, (2015) 2 SCC 52",
+      "label": "PRECEDENT",
+      "start_char": 133541,
+      "end_char": 133614
+    },
+    {
+      "text": "Joshi",
+      "label": "OTHER_PERSON",
+      "start_char": 133619,
+      "end_char": 133624
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 133686,
+      "end_char": 133695
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 133703,
+      "end_char": 133718
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 133810,
+      "end_char": 133819
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 133873,
+      "end_char": 133883
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 133932,
+      "end_char": 133945
+    },
+    {
+      "text": "14th September 2021",
+      "label": "DATE",
+      "start_char": 133968,
+      "end_char": 133987
+    },
+    {
+      "text": "ArcelorMittal Nippon Steel India Limited vs. Essar Bulk Terminal Limited, 2021 SCC OnLine SC 718",
+      "label": "PRECEDENT",
+      "start_char": 134045,
+      "end_char": 134141
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 134145,
+      "end_char": 134172
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 134180,
+      "end_char": 134190
+    },
+    {
+      "text": "Kiritkumar Futarmal Jain vs. Valencia Corporation, reported in (2019) 3 GLH 667",
+      "label": "PRECEDENT",
+      "start_char": 134648,
+      "end_char": 134727
+    },
+    {
+      "text": "section 9",
+      "label": "PROVISION",
+      "start_char": 134803,
+      "end_char": 134812
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 134820,
+      "end_char": 134835
+    },
+    {
+      "text": "section 9",
+      "label": "PROVISION",
+      "start_char": 135040,
+      "end_char": 135049
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 135057,
+      "end_char": 135072
+    },
+    {
+      "text": "Andhra Pradesh High Court",
+      "label": "COURT",
+      "start_char": 135230,
+      "end_char": 135255
+    },
+    {
+      "text": "Velugubanti Hari Babu v. Parvathini Narasinmha Rao",
+      "label": "PRECEDENT",
+      "start_char": 135271,
+      "end_char": 135321
+    },
+    {
+      "text": "Sundaram Finance Ltd., (1999) 2 SCC 479",
+      "label": "PRECEDENT",
+      "start_char": 135650,
+      "end_char": 135689
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 135695,
+      "end_char": 135708
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 135770,
+      "end_char": 135780
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 135841,
+      "end_char": 135850
+    },
+    {
+      "text": "Section 21",
+      "label": "PROVISION",
+      "start_char": 135980,
+      "end_char": 135990
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 136035,
+      "end_char": 136044
+    },
+    {
+      "text": "Section 9(2)",
+      "label": "PROVISION",
+      "start_char": 136270,
+      "end_char": 136282
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 136568,
+      "end_char": 136578
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 137106,
+      "end_char": 137133
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 137141,
+      "end_char": 137151
+    },
+    {
+      "text": "section 9",
+      "label": "PROVISION",
+      "start_char": 137250,
+      "end_char": 137259
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 137267,
+      "end_char": 137282
+    },
+    {
+      "text": "section 36",
+      "label": "PROVISION",
+      "start_char": 137485,
+      "end_char": 137495
+    },
+    {
+      "text": "sub-section (2) of section 17",
+      "label": "PROVISION",
+      "start_char": 137616,
+      "end_char": 137645
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 137653,
+      "end_char": 137668
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 138250,
+      "end_char": 138259
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 138267,
+      "end_char": 138282
+    },
+    {
+      "text": "sub-section (2) of Section 17",
+      "label": "PROVISION",
+      "start_char": 138477,
+      "end_char": 138506
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 138514,
+      "end_char": 138529
+    },
+    {
+      "text": "C/FA/3040/2021 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 138774,
+      "end_char": 138801
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 138809,
+      "end_char": 138819
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 138885,
+      "end_char": 138895
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 139265,
+      "end_char": 139274
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 139282,
+      "end_char": 139297
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 139650,
+      "end_char": 139660
+    },
+    {
+      "text": "First Appeal No.3040 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 139893,
+      "end_char": 139921
+    },
+    {
+      "text": "EBTL",
+      "label": "PETITIONER",
+      "start_char": 140008,
+      "end_char": 140012
+    },
+    {
+      "text": "J. B. PARDIWALA",
+      "label": "JUDGE",
+      "start_char": 140216,
+      "end_char": 140231
+    },
+    {
+      "text": "NIRAL R. MEHTA",
+      "label": "JUDGE",
+      "start_char": 140238,
+      "end_char": 140252
+    },
+    {
+      "text": "03/02/2022",
+      "label": "DATE",
+      "start_char": 140304,
+      "end_char": 140314
+    },
+    {
+      "text": "Pahwa",
+      "label": "OTHER_PERSON",
+      "start_char": 140353,
+      "end_char": 140358
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 140405,
+      "end_char": 140409
+    },
+    {
+      "text": "EBTL",
+      "label": "ORG",
+      "start_char": 140443,
+      "end_char": 140447
+    },
+    {
+      "text": "AMNS",
+      "label": "ORG",
+      "start_char": 140606,
+      "end_char": 140610
+    },
+    {
+      "text": "J. B. PARDIWALA",
+      "label": "JUDGE",
+      "start_char": 140750,
+      "end_char": 140765
+    },
+    {
+      "text": "NIRAL R. MEHTA",
+      "label": "JUDGE",
+      "start_char": 140772,
+      "end_char": 140786
+    }
+  ],
+  "precedent_clusters": {
+    "Films Rover International Ltd. and others vs. Cannon Film Sales Ltd., (1986) 3": [
+      "ESSAR BULK TERMINAL LIMITED Versus ARCELOR MITTAL NIPPON STEEL INDIA LIMITED",
+      "Attorney General of Belize v. Belize Telecom Ltd.",
+      "Antox India P. Ltd. 1990 (Supp) SCC 727",
+      "ICC Arbitration Cases",
+      "Films Rover International Ltd. and others vs. Cannon Film Sales Ltd., (1986) 3",
+      "Dorab Cawasji Warden vs. Coomi Sorab Warden and others, (1990) 2",
+      "White and Carter (Councils) Ltd. v. McGregor, 1962",
+      "Velugubanti Hari Babu v. Parvathini Narasinmha Rao"
+    ],
+    "Nabha Power Ltd. (NPL) vs. Punjab State Power Corporation and another, reported in 2018 11 SCC 508": [
+      "Nabha Power Ltd. (NPL) vs. Punjab State Power Corporation and another, reported in 2018 11 SCC 508",
+      "Nabha Power Ltd.",
+      "Nabha Power Ltd.",
+      "Nabha Power Ltd."
+    ],
+    "C/FA/3040/2021 CAV JUDGMENT": [
+      "C/FA/3040/2021 CAV JUDGMENT",
+      "C/FA/3040/2021 CAV JUDGMENT",
+      "C/FA/3040/2021 CAV JUDGMENT"
+    ],
+    "CRSC Research and Design Institute Group Co. Ltd. vs. Dedicated Freight Corridor Corporation of India Limited and others, reported in 2020 SCC Online Del 1526": [
+      "CRSC Research and Design Institute Group Co. Ltd. vs. Dedicated Freight Corridor Corporation of India Limited and others, reported in 2020 SCC Online Del 1526",
+      "CRSC Research and Design Institute Group Co. Ltd."
+    ],
+    "Amazon.com NV Investment Holdings LLC vs. Future Retail Limited and others, reported in 2021 SCC OnLine SC 557": [
+      "ArcelorMittal Nippon Steel India Limited vs. Essar Bulk Terminal Limited : 2021 SCC OnLine SC 718",
+      "Amazon.com NV Investment Holdings LLC vs. Future Retail Limited and others, reported in 2021 SCC OnLine SC 557",
+      "ArcelorMittal Nippon Steel India Limited vs. Essar Bulk Terminal Limited, 2021 SCC OnLine SC 718",
+      "ArcelorMittal",
+      "Amazon.com NV Investment Holdings LLC",
+      "ArcelorMittal"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 9",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 9",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Sections 230-232",
+      "Companies Act, 2013",
+      "Sections 230-232",
+      "Companies Act, 2013"
+    ],
+    [
+      "Section 11",
+      "Arbitration Act",
+      "Section 11",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 11",
+      "Arbitration Act",
+      "Section 11",
+      "Arbitration Act"
+    ],
+    [
+      "Article 227",
+      "Constitution",
+      "Article 227",
+      "Constitution"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(1)(ii)(e)",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 9(1)(ii)(e)",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(1)(ii)(e)",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 9(1)(ii)(e)",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 9(1)(ii)(e)",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 9(1)(ii)(e)",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Sections 14(1)(b) and 39",
+      "Specific Relief Act, 1963",
+      "Sections 14(1)(b) and 39",
+      "Specific Relief Act, 1963"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 2(s)",
+      "Indian Ports Act",
+      "Section 2(s)",
+      "Indian Ports Act"
+    ],
+    [
+      "Article 4",
+      "CHA",
+      "Article 4",
+      "CHA"
+    ],
+    [
+      "ARTICLE 4",
+      "FACILITIES AND SERVICES EBTL",
+      "ARTICLE 4",
+      "FACILITIES AND SERVICES EBTL"
+    ],
+    [
+      "Section 9(1)(ii)(e)",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 9(1)(ii)(e)",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Order 43",
+      "Code of Civil Procedure",
+      "Order 43",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "SECTION 9",
+      "ARBITRATION ACT :\n112",
+      "SECTION 9",
+      "ARBITRATION ACT :\n112"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Sections 9 and 17",
+      "Arbitration Act",
+      "Sections 9 and 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Order 39",
+      "CPC",
+      "Order 39",
+      "CPC"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 16(1)",
+      "Arbitration Act",
+      "Section 16(1)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37(2)",
+      "Arbitration Act",
+      "Section 37(2)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 5",
+      "Arbitration Act",
+      "Section 5",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(1)",
+      "Arbitration Act",
+      "Section 9(1)",
+      "Arbitration Act"
+    ],
+    [
+      "section 37",
+      "Code of Civil Procedure, 1908",
+      "section 37",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Sections 9 and 17",
+      "Arbitration Act",
+      "Sections 9 and 17",
+      "Arbitration Act"
+    ],
+    [
+      "section 37",
+      "Code of Civil Procedure, 1908",
+      "section 37",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 9(1)",
+      "Arbitration Act",
+      "Section 9(1)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 20",
+      "Specific Relief Act",
+      "Section 20",
+      "Specific Relief Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Second Schedule",
+      "Repealed Act",
+      "Second Schedule",
+      "Repealed Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "section 9",
+      "Arbitration Act",
+      "section 9",
+      "Arbitration Act"
+    ],
+    [
+      "section 9",
+      "Arbitration Act",
+      "section 9",
+      "Arbitration Act"
+    ],
+    [
+      "section 9",
+      "Arbitration Act",
+      "section 9",
+      "Arbitration Act"
+    ],
+    [
+      "sub-section (2) of section 17",
+      "Arbitration Act",
+      "sub-section (2) of section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "sub-section (2) of Section 17",
+      "Arbitration Act",
+      "sub-section (2) of Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(1)(ii)(e)",
+      "Arbitration Act",
+      "Section 9(1)(ii)(e)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 4(1)(a)",
+      "CHA",
+      "Section 4(1)(a)",
+      "CHA"
+    ],
+    [
+      "Section 5",
+      "Arbitration Act",
+      "Section 5",
+      "Arbitration Act"
+    ],
+    [
+      "Section 2(r)",
+      "Indian Ports Act",
+      "Section 2(r)",
+      "Indian Ports Act"
+    ],
+    [
+      "Section 2(o)",
+      "Indian Ports Act",
+      "Section 2(o)",
+      "Indian Ports Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "sub-section (3) of Section 9",
+      "Arbitration Act",
+      "sub-section (3) of Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9, (i)",
+      "Arbitration Act",
+      "Section 9, (i)",
+      "Arbitration Act"
+    ],
+    [
+      "sub-clause (ii)(e) of sub-section (1) of Section 9",
+      "Arbitration Act",
+      "sub-clause (ii)(e) of sub-section (1) of Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(2)(e)",
+      "Arbitration Act",
+      "Section 9(2)(e)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 16",
+      "Arbitration Act",
+      "Section 16",
+      "Arbitration Act"
+    ],
+    [
+      "Section 16",
+      "Arbitration Act",
+      "Section 16",
+      "Arbitration Act"
+    ],
+    [
+      "section 17",
+      "Arbitration Act",
+      "section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(3)",
+      "Arbitration Act",
+      "Section 9(3)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(3)",
+      "Arbitration Act",
+      "Section 9(3)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(3)",
+      "Arbitration Act",
+      "Section 9(3)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(3)",
+      "Arbitration Act",
+      "Section 9(3)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17(1)",
+      "Arbitration Act",
+      "Section 17(1)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17(2)",
+      "Arbitration Act",
+      "Section 17(2)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "section 36",
+      "Arbitration Act",
+      "section 36",
+      "Arbitration Act"
+    ],
+    [
+      "Sections 9(2) and 9(3)",
+      "Arbitration Act",
+      "Sections 9(2) and 9(3)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9,\n(i)",
+      "Arbitration Act",
+      "Section 9,\n(i)",
+      "Arbitration Act"
+    ],
+    [
+      "section 17",
+      "Arbitration Act",
+      "section 17",
+      "Arbitration Act"
+    ],
+    [
+      "section 17",
+      "Arbitration Act",
+      "section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Sections 9(2) and 9(3)",
+      "Arbitration Act",
+      "Sections 9(2) and 9(3)",
+      "Arbitration Act"
+    ],
+    [
+      "Sections 9(2) and 9(3)",
+      "Arbitration Act",
+      "Sections 9(2) and 9(3)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "section 9(2)",
+      "Arbitration Act",
+      "section 9(2)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17(1)",
+      "Arbitration Act",
+      "Section 17(1)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(1)",
+      "Arbitration Act",
+      "Section 9(1)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17(2)",
+      "Arbitration Act",
+      "Section 17(2)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(1)",
+      "Arbitration Act",
+      "Section 9(1)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(1)",
+      "Arbitration Act",
+      "Section 9(1)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(3)",
+      "Arbitration Act",
+      "Section 9(3)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(1)",
+      "Arbitration Act",
+      "Section 9(1)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(3)",
+      "Arbitration Act",
+      "Section 9(3)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(3)",
+      "Arbitration Act",
+      "Section 9(3)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(3)",
+      "Arbitration Act",
+      "Section 9(3)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Clause (b) of Section 20",
+      "Specific Relief Act",
+      "Clause (b) of Section 20",
+      "Specific Relief Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "sub-clauses (a) to (e) of clause (ii) of Section 9",
+      "Arbitration Act",
+      "sub-clauses (a) to (e) of clause (ii) of Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9(2)",
+      "Arbitration Act",
+      "Section 9(2)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act",
+      "Section 36",
+      "Arbitration Act"
+    ],
+    [
+      "section 36",
+      "Arbitration Act",
+      "section 36",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "Section 3(4)",
+      "Ports Act",
+      "Section 3(4)",
+      "Ports Act"
+    ],
+    [
+      "Section 6(1)(a) and (b) - (1)",
+      "Ports Act",
+      "Section 6(1)(a) and (b) - (1)",
+      "Ports Act"
+    ],
+    [
+      "article 5.1",
+      "Constitution",
+      "article 5.1",
+      "Constitution"
+    ],
+    [
+      "section 36",
+      "Arbitration Act",
+      "section 36",
+      "Arbitration Act"
+    ],
+    [
+      "section 9]",
+      "Arbitration Act",
+      "section 9]",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17 *****\n(vi)",
+      "SIAC Rules",
+      "Section 17 *****\n(vi)",
+      "SIAC Rules"
+    ],
+    [
+      "Article 5.2A",
+      "Constitution",
+      "Article 5.2A",
+      "Constitution"
+    ],
+    [
+      "AC 413",
+      "Specific Relief Act",
+      "AC 413",
+      "Specific Relief Act"
+    ],
+    [
+      "Section 21",
+      "Arbitration Act",
+      "Section 21",
+      "Arbitration Act"
+    ]
+  ],
+  "precedent_counts": {
+    "Films Rover International Ltd. and others vs. Cannon Film Sales Ltd., (1986) 3": 8,
+    "Nabha Power Ltd. (NPL) vs. Punjab State Power Corporation and another, reported in 2018 11 SCC 508": 4,
+    "C/FA/3040/2021 CAV JUDGMENT": 3,
+    "CRSC Research and Design Institute Group Co. Ltd. vs. Dedicated Freight Corridor Corporation of India Limited and others, reported in 2020 SCC Online Del 1526": 2,
+    "Amazon.com NV Investment Holdings LLC vs. Future Retail Limited and others, reported in 2021 SCC OnLine SC 557": 6
+  },
+  "provision_counts": {
+    "Section 9 of Arbitration and Conciliation Act, 1996": 1,
+    "Sections 230-232 of Companies Act, 2013": 1,
+    "Section 11 of Arbitration Act": 2,
+    "Section 9 of Arbitration Act": 79,
+    "Article 227 of Constitution": 1,
+    "Section 17 of Arbitration Act": 30,
+    "Section 9(1)(ii)(e) of Arbitration & Conciliation Act, 1996": 4,
+    "Sections 14(1)(b) and 39 of Specific Relief Act, 1963": 1,
+    "Section 2(s) of Indian Ports Act": 1,
+    "Article 4 of CHA": 1,
+    "ARTICLE 4 of FACILITIES AND SERVICES EBTL": 1,
+    "Section 37 of Arbitration Act": 4,
+    "Order 43 of Code of Civil Procedure": 1,
+    "SECTION 9 of ARBITRATION ACT :\n112": 1,
+    "Sections 9 and 17 of Arbitration Act": 2,
+    "Order 39 of CPC": 1,
+    "Section 16(1) of Arbitration Act": 1,
+    "Section 34 of Arbitration Act": 1,
+    "Section 37(2) of Arbitration Act": 1,
+    "Section 5 of Arbitration Act": 2,
+    "Section 9(1) of Arbitration Act": 6,
+    "section 37 of Code of Civil Procedure, 1908": 2,
+    "Section 20 of Specific Relief Act": 1,
+    "Second Schedule of Repealed Act": 1,
+    "section 9 of Arbitration Act": 3,
+    "sub-section (2) of section 17 of Arbitration Act": 1,
+    "sub-section (2) of Section 17 of Arbitration Act": 1,
+    "Section 9(1)(ii)(e) of Arbitration Act": 1,
+    "Section 4(1)(a) of CHA": 1,
+    "Section 2(r) of Indian Ports Act": 1,
+    "Section 2(o) of Indian Ports Act": 1,
+    "sub-section (3) of Section 9 of Arbitration Act": 1,
+    "Section 9, (i) of Arbitration Act": 1,
+    "sub-clause (ii)(e) of sub-section (1) of Section 9 of Arbitration Act": 1,
+    "Section 9(2)(e) of Arbitration Act": 1,
+    "Section 16 of Arbitration Act": 2,
+    "section 17 of Arbitration Act": 3,
+    "Section 9(3) of Arbitration Act": 8,
+    "Section 17(1) of Arbitration Act": 2,
+    "Section 17(2) of Arbitration Act": 2,
+    "section 36 of Arbitration Act": 3,
+    "Sections 9(2) and 9(3) of Arbitration Act": 3,
+    "Section 9,\n(i) of Arbitration Act": 1,
+    "section 9(2) of Arbitration Act": 1,
+    "Clause (b) of Section 20 of Specific Relief Act": 1,
+    "sub-clauses (a) to (e) of clause (ii) of Section 9 of Arbitration Act": 1,
+    "Section 9(2) of Arbitration Act": 1,
+    "Section 36 of Arbitration Act": 1,
+    "Section 3(4) of Ports Act": 1,
+    "Section 6(1)(a) and (b) - (1) of Ports Act": 1,
+    "article 5.1 of Constitution": 1,
+    "section 9] of Arbitration Act": 1,
+    "Section 17 *****\n(vi) of SIAC Rules": 1,
+    "Article 5.2A of Constitution": 1,
+    "AC 413 of Specific Relief Act": 1,
+    "Section 21 of Arbitration Act": 1
+  },
+  "statute_counts": {
+    "Arbitration and Conciliation Act, 1996": 1,
+    "Companies Act, 2013": 1,
+    "Arbitration Act": 168,
+    "Constitution": 3,
+    "Arbitration & Conciliation Act, 1996": 4,
+    "Specific Relief Act, 1963": 1,
+    "Indian Ports Act": 3,
+    "CHA": 2,
+    "FACILITIES AND SERVICES EBTL": 1,
+    "Code of Civil Procedure": 1,
+    "ARBITRATION ACT :\n112": 1,
+    "CPC": 1,
+    "Code of Civil Procedure, 1908": 2,
+    "Specific Relief Act": 3,
+    "Repealed Act": 1,
+    "Ports Act": 2,
+    "SIAC Rules": 1
+  }
+}

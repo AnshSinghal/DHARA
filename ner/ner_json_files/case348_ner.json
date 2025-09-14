@@ -1,0 +1,753 @@
+{
+  "entities": [
+    {
+      "text": "Venkatesh Vincom Private Limited",
+      "label": "PETITIONER",
+      "start_char": 37,
+      "end_char": 69
+    },
+    {
+      "text": "Spice Of Joy",
+      "label": "RESPONDENT",
+      "start_char": 78,
+      "end_char": 90
+    },
+    {
+      "text": "Harish Tandon",
+      "label": "JUDGE",
+      "start_char": 121,
+      "end_char": 134
+    },
+    {
+      "text": "Harish Tandon",
+      "label": "JUDGE",
+      "start_char": 142,
+      "end_char": 155
+    },
+    {
+      "text": "High Court At Calcutta",
+      "label": "COURT",
+      "start_char": 268,
+      "end_char": 290
+    },
+    {
+      "text": "Harish Tandon",
+      "label": "JUDGE",
+      "start_char": 425,
+      "end_char": 438
+    },
+    {
+      "text": "Shampa Dutt",
+      "label": "JUDGE",
+      "start_char": 480,
+      "end_char": 491
+    },
+    {
+      "text": "Venkatesh Vincom Private Limited",
+      "label": "PETITIONER",
+      "start_char": 624,
+      "end_char": 656
+    },
+    {
+      "text": "Spice of Joy",
+      "label": "RESPONDENT",
+      "start_char": 718,
+      "end_char": 730
+    },
+    {
+      "text": "Sarosij Dasgupta",
+      "label": "LAWYER",
+      "start_char": 829,
+      "end_char": 845
+    },
+    {
+      "text": "Anurag Bagaria",
+      "label": "LAWYER",
+      "start_char": 895,
+      "end_char": 909
+    },
+    {
+      "text": "Manju Bhuteria",
+      "label": "LAWYER",
+      "start_char": 959,
+      "end_char": 973
+    },
+    {
+      "text": "Subhrendu Halder",
+      "label": "LAWYER",
+      "start_char": 1023,
+      "end_char": 1039
+    },
+    {
+      "text": "Mohit Gupta",
+      "label": "LAWYER",
+      "start_char": 1089,
+      "end_char": 1100
+    },
+    {
+      "text": "Tanni Luhariwala",
+      "label": "LAWYER",
+      "start_char": 1150,
+      "end_char": 1166
+    },
+    {
+      "text": "Arundhuti Barman",
+      "label": "LAWYER",
+      "start_char": 1216,
+      "end_char": 1232
+    },
+    {
+      "text": "26.09.2022",
+      "label": "DATE",
+      "start_char": 1279,
+      "end_char": 1289
+    },
+    {
+      "text": "Harish Tandon",
+      "label": "JUDGE",
+      "start_char": 1290,
+      "end_char": 1303
+    },
+    {
+      "text": "11.11.2021",
+      "label": "DATE",
+      "start_char": 1368,
+      "end_char": 1378
+    },
+    {
+      "text": "Commercial Court at Alipore",
+      "label": "COURT",
+      "start_char": 1408,
+      "end_char": 1435
+    },
+    {
+      "text": "FMAT 20 OF 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 1439,
+      "end_char": 1454
+    },
+    {
+      "text": "Money Suit no. 12 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 1462,
+      "end_char": 1487
+    },
+    {
+      "text": "Order 7 Rule 11",
+      "label": "PROVISION",
+      "start_char": 1529,
+      "end_char": 1544
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 1552,
+      "end_char": 1575
+    },
+    {
+      "text": "Commercial Court at Alipore",
+      "label": "COURT",
+      "start_char": 1888,
+      "end_char": 1915
+    },
+    {
+      "text": "Money Suit no. 12 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 1940,
+      "end_char": 1965
+    },
+    {
+      "text": "19.5.2018",
+      "label": "DATE",
+      "start_char": 3256,
+      "end_char": 3265
+    },
+    {
+      "text": "FMAT 20 OF 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 3266,
+      "end_char": 3281
+    },
+    {
+      "text": "Section 138",
+      "label": "PROVISION",
+      "start_char": 3596,
+      "end_char": 3607
+    },
+    {
+      "text": "Negotiable Instrument Act",
+      "label": "STATUTE",
+      "start_char": 3615,
+      "end_char": 3640
+    },
+    {
+      "text": "Order 7 Rule 11 read",
+      "label": "PROVISION",
+      "start_char": 4108,
+      "end_char": 4128
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 4134,
+      "end_char": 4145
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 4153,
+      "end_char": 4176
+    },
+    {
+      "text": "Section 2 (1)(c)(i)",
+      "label": "PROVISION",
+      "start_char": 4375,
+      "end_char": 4394
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 4402,
+      "end_char": 4429
+    },
+    {
+      "text": "Section 2 (1)(c)(i)",
+      "label": "PROVISION",
+      "start_char": 4918,
+      "end_char": 4937
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 5031,
+      "end_char": 5058
+    },
+    {
+      "text": "Law Commission of India",
+      "label": "ORG",
+      "start_char": 5292,
+      "end_char": 5315
+    },
+    {
+      "text": "Law Commission of India",
+      "label": "ORG",
+      "start_char": 5633,
+      "end_char": 5656
+    },
+    {
+      "text": "Rajya Sabha",
+      "label": "COURT",
+      "start_char": 5920,
+      "end_char": 5931
+    },
+    {
+      "text": "24th April, 2015",
+      "label": "DATE",
+      "start_char": 5935,
+      "end_char": 5951
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 6175,
+      "end_char": 6202
+    },
+    {
+      "text": "Section 2(1)(c)(i)",
+      "label": "PROVISION",
+      "start_char": 6241,
+      "end_char": 6259
+    },
+    {
+      "text": "Sec. 2.1 (c)",
+      "label": "PROVISION",
+      "start_char": 6552,
+      "end_char": 6564
+    },
+    {
+      "text": "Ladymoon Towers Private Limited vs. Mahendra Investment Advisors Private Limited (CS 99 of 2020)",
+      "label": "PRECEDENT",
+      "start_char": 8789,
+      "end_char": 8885
+    },
+    {
+      "text": "13th August, 2021",
+      "label": "DATE",
+      "start_char": 8897,
+      "end_char": 8914
+    },
+    {
+      "text": "Reserve Bank of India",
+      "label": "ORG",
+      "start_char": 8951,
+      "end_char": 8972
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 9278,
+      "end_char": 9291
+    },
+    {
+      "text": "Ambalal Sarabhai Enterprises Limited vs. K.S. Infraspace LLP and Another (Civil Appeal no. 7843 of 2019)",
+      "label": "PRECEDENT",
+      "start_char": 9300,
+      "end_char": 9404
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 9457,
+      "end_char": 9478
+    },
+    {
+      "text": "Order 7 Rule 10",
+      "label": "PROVISION",
+      "start_char": 10270,
+      "end_char": 10285
+    },
+    {
+      "text": "FMAT 20 OF 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 10296,
+      "end_char": 10311
+    },
+    {
+      "text": "Clause (i) of Section 2(1)(c)",
+      "label": "PROVISION",
+      "start_char": 11301,
+      "end_char": 11330
+    },
+    {
+      "text": "Section 2(1)(f)",
+      "label": "PROVISION",
+      "start_char": 12676,
+      "end_char": 12691
+    },
+    {
+      "text": "Article 3",
+      "label": "PROVISION",
+      "start_char": 14069,
+      "end_char": 14078
+    },
+    {
+      "text": "UCC",
+      "label": "STATUTE",
+      "start_char": 14086,
+      "end_char": 14089
+    },
+    {
+      "text": "UCC",
+      "label": "ORG",
+      "start_char": 14111,
+      "end_char": 14114
+    },
+    {
+      "text": "Article 3",
+      "label": "PROVISION",
+      "start_char": 14274,
+      "end_char": 14283
+    },
+    {
+      "text": "UCC",
+      "label": "ORG",
+      "start_char": 14313,
+      "end_char": 14316
+    },
+    {
+      "text": "UCC",
+      "label": "COURT",
+      "start_char": 14372,
+      "end_char": 14375
+    },
+    {
+      "text": "Sec. 2 (c)",
+      "label": "PROVISION",
+      "start_char": 15227,
+      "end_char": 15237
+    },
+    {
+      "text": "Punjab University vs. Unit Trust of India & Ors., (2015) 2 SCC 669",
+      "label": "PRECEDENT",
+      "start_char": 15951,
+      "end_char": 16017
+    },
+    {
+      "text": "Ladymoon Towers Pvt. Ltd.",
+      "label": "ORG",
+      "start_char": 16023,
+      "end_char": 16048
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 16129,
+      "end_char": 16145
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 16147,
+      "end_char": 16164
+    },
+    {
+      "text": "Madras High Court",
+      "label": "COURT",
+      "start_char": 16169,
+      "end_char": 16186
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 16202,
+      "end_char": 16221
+    },
+    {
+      "text": "Section 2(1)(c)(i)",
+      "label": "PROVISION",
+      "start_char": 16369,
+      "end_char": 16387
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 16480,
+      "end_char": 16497
+    },
+    {
+      "text": "Madras High Court",
+      "label": "COURT",
+      "start_char": 16872,
+      "end_char": 16889
+    },
+    {
+      "text": "FMAT 20 OF 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 16917,
+      "end_char": 16932
+    },
+    {
+      "text": "Ladymoon Towers Pvt. Ltd.",
+      "label": "ORG",
+      "start_char": 16950,
+      "end_char": 16975
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 17143,
+      "end_char": 17162
+    },
+    {
+      "text": "City Civil Courts Act, 1953",
+      "label": "STATUTE",
+      "start_char": 17315,
+      "end_char": 17342
+    },
+    {
+      "text": "Section 2(1)(c)",
+      "label": "PROVISION",
+      "start_char": 18427,
+      "end_char": 18442
+    },
+    {
+      "text": "Ambalal Sarabhai Enterprises Ltd.",
+      "label": "ORG",
+      "start_char": 19058,
+      "end_char": 19091
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 19105,
+      "end_char": 19115
+    },
+    {
+      "text": "3.1.2017",
+      "label": "DATE",
+      "start_char": 19439,
+      "end_char": 19447
+    },
+    {
+      "text": "Clause 7 of Section 2(1)(c)",
+      "label": "PROVISION",
+      "start_char": 20180,
+      "end_char": 20207
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 20425,
+      "end_char": 20435
+    },
+    {
+      "text": "FMAT 20 OF 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 20442,
+      "end_char": 20457
+    },
+    {
+      "text": "sub-clause (vii) of Section 2 (1) (c)",
+      "label": "PROVISION",
+      "start_char": 20606,
+      "end_char": 20643
+    },
+    {
+      "text": "3-11-2017",
+      "label": "DATE",
+      "start_char": 21103,
+      "end_char": 21112
+    },
+    {
+      "text": "Ketan Bhailalbhai Shah",
+      "label": "RESPONDENT",
+      "start_char": 21215,
+      "end_char": 21237
+    },
+    {
+      "text": "sub-clause (vii) of Section 2 (1) (c)",
+      "label": "PROVISION",
+      "start_char": 22573,
+      "end_char": 22610
+    },
+    {
+      "text": "Chapter IV",
+      "label": "PROVISION",
+      "start_char": 23955,
+      "end_char": 23965
+    },
+    {
+      "text": "Indian Partnership Act, 1932",
+      "label": "STATUTE",
+      "start_char": 23973,
+      "end_char": 24001
+    },
+    {
+      "text": "Section 18",
+      "label": "PROVISION",
+      "start_char": 24003,
+      "end_char": 24013
+    },
+    {
+      "text": "Section 19",
+      "label": "PROVISION",
+      "start_char": 24121,
+      "end_char": 24131
+    },
+    {
+      "text": "Section 22",
+      "label": "PROVISION",
+      "start_char": 24210,
+      "end_char": 24220
+    },
+    {
+      "text": "Section 2(1)(f)",
+      "label": "PROVISION",
+      "start_char": 25243,
+      "end_char": 25258
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 25859,
+      "end_char": 25886
+    },
+    {
+      "text": "Harish Tandon",
+      "label": "JUDGE",
+      "start_char": 26402,
+      "end_char": 26415
+    },
+    {
+      "text": "Shampa Dutt",
+      "label": "JUDGE",
+      "start_char": 26426,
+      "end_char": 26437
+    }
+  ],
+  "precedent_clusters": {
+    "Ambalal Sarabhai Enterprises Limited vs. K.S. Infraspace LLP and Another (Civil Appeal no. 7843 of 2019)": [
+      "Ladymoon Towers Private Limited vs. Mahendra Investment Advisors Private Limited (CS 99 of 2020)",
+      "Ambalal Sarabhai Enterprises Limited vs. K.S. Infraspace LLP and Another (Civil Appeal no. 7843 of 2019)"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Order 7 Rule 11",
+      "Code of Civil Procedure",
+      "Order 7 Rule 11",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 138",
+      "Negotiable Instrument Act",
+      "Section 138",
+      "Negotiable Instrument Act"
+    ],
+    [
+      "Section 151",
+      "Code of Civil Procedure",
+      "Section 151",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 2 (1)(c)(i)",
+      "Commercial Courts Act, 2015",
+      "Section 2 (1)(c)(i)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Article 3",
+      "UCC",
+      "Article 3",
+      "UCC"
+    ],
+    [
+      "Chapter IV",
+      "Indian Partnership Act, 1932",
+      "Chapter IV",
+      "Indian Partnership Act, 1932"
+    ],
+    [
+      "Section 2 (1)(c)(i)",
+      "Commercial Courts Act, 2015",
+      "Section 2 (1)(c)(i)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 2(1)(c)(i)",
+      "Commercial Courts Act, 2015",
+      "Section 2(1)(c)(i)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Clause (i) of Section 2(1)(c)",
+      "Commercial Courts Act, 2015",
+      "Clause (i) of Section 2(1)(c)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 2(1)(f)",
+      "Commercial Courts Act, 2015",
+      "Section 2(1)(f)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Article 3",
+      "UCC",
+      "Article 3",
+      "UCC"
+    ],
+    [
+      "Section 2(1)(c)(i)",
+      "Commercial Courts Act, 2015",
+      "Section 2(1)(c)(i)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 2(1)(c)",
+      "Commercial Courts Act, 2015",
+      "Section 2(1)(c)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Clause 7 of Section 2(1)(c)",
+      "Commercial Courts Act, 2015",
+      "Clause 7 of Section 2(1)(c)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "sub-clause (vii) of Section 2 (1) (c)",
+      "Commercial Courts Act, 2015",
+      "sub-clause (vii) of Section 2 (1) (c)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "sub-clause (vii) of Section 2 (1) (c)",
+      "Commercial Courts Act, 2015",
+      "sub-clause (vii) of Section 2 (1) (c)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 2(1)(f)",
+      "Commercial Courts Act, 2015",
+      "Section 2(1)(f)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Order 7 Rule 11 read",
+      "Negotiable Instrument Act",
+      "Order 7 Rule 11 read",
+      "Negotiable Instrument Act"
+    ],
+    [
+      "Sec. 2.1 (c)",
+      "Commercial Courts Act, 2015",
+      "Sec. 2.1 (c)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Order 7 Rule 10",
+      "Commercial Courts Act",
+      "Order 7 Rule 10",
+      "Commercial Courts Act"
+    ],
+    [
+      "Sec. 2 (c)",
+      "UCC",
+      "Sec. 2 (c)",
+      "UCC"
+    ],
+    [
+      "Section 18",
+      "Indian Partnership Act, 1932",
+      "Section 18",
+      "Indian Partnership Act, 1932"
+    ],
+    [
+      "Section 19",
+      "Indian Partnership Act, 1932",
+      "Section 19",
+      "Indian Partnership Act, 1932"
+    ],
+    [
+      "Section 22",
+      "Indian Partnership Act, 1932",
+      "Section 22",
+      "Indian Partnership Act, 1932"
+    ]
+  ],
+  "precedent_counts": {
+    "Ambalal Sarabhai Enterprises Limited vs. K.S. Infraspace LLP and Another (Civil Appeal no. 7843 of 2019)": 2
+  },
+  "provision_counts": {
+    "Order 7 Rule 11 of Code of Civil Procedure": 1,
+    "Section 138 of Negotiable Instrument Act": 1,
+    "Section 151 of Code of Civil Procedure": 1,
+    "Section 2 (1)(c)(i) of Commercial Courts Act, 2015": 2,
+    "Article 3 of UCC": 2,
+    "Chapter IV of Indian Partnership Act, 1932": 1,
+    "Section 2(1)(c)(i) of Commercial Courts Act, 2015": 2,
+    "Clause (i) of Section 2(1)(c) of Commercial Courts Act, 2015": 1,
+    "Section 2(1)(f) of Commercial Courts Act, 2015": 2,
+    "Section 2(1)(c) of Commercial Courts Act, 2015": 1,
+    "Clause 7 of Section 2(1)(c) of Commercial Courts Act, 2015": 1,
+    "sub-clause (vii) of Section 2 (1) (c) of Commercial Courts Act, 2015": 2,
+    "Order 7 Rule 11 read of Negotiable Instrument Act": 1,
+    "Sec. 2.1 (c) of Commercial Courts Act, 2015": 1,
+    "Order 7 Rule 10 of Commercial Courts Act": 1,
+    "Sec. 2 (c) of UCC": 1,
+    "Section 18 of Indian Partnership Act, 1932": 1,
+    "Section 19 of Indian Partnership Act, 1932": 1,
+    "Section 22 of Indian Partnership Act, 1932": 1
+  },
+  "statute_counts": {
+    "Code of Civil Procedure": 2,
+    "Negotiable Instrument Act": 2,
+    "Commercial Courts Act, 2015": 12,
+    "UCC": 3,
+    "Indian Partnership Act, 1932": 4,
+    "Commercial Courts Act": 1
+  }
+}

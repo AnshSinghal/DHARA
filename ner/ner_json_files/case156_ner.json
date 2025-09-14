@@ -1,0 +1,6474 @@
+{
+  "entities": [
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 17
+    },
+    {
+      "text": "Le Travenues Technology Pvt Ltd",
+      "label": "PETITIONER",
+      "start_char": 18,
+      "end_char": 49
+    },
+    {
+      "text": "Ezeego One Travel And Tours Ltd",
+      "label": "RESPONDENT",
+      "start_char": 53,
+      "end_char": 84
+    },
+    {
+      "text": "S.C. Dharmadhikari",
+      "label": "LAWYER",
+      "start_char": 115,
+      "end_char": 133
+    },
+    {
+      "text": "S.C. Dharmadhikari",
+      "label": "JUDGE",
+      "start_char": 141,
+      "end_char": 159
+    },
+    {
+      "text": "Prakash D. Naik",
+      "label": "LAWYER",
+      "start_char": 161,
+      "end_char": 176
+    },
+    {
+      "text": "High Court Of Judicature At Bombay",
+      "label": "COURT",
+      "start_char": 328,
+      "end_char": 362
+    },
+    {
+      "text": "Sigmarq Technologies Pvt",
+      "label": "PETITIONER",
+      "start_char": 660,
+      "end_char": 684
+    },
+    {
+      "text": "Rajesh Rangrao Ghorpade",
+      "label": "RESPONDENT",
+      "start_char": 1030,
+      "end_char": 1053
+    },
+    {
+      "text": "Devkar Panand",
+      "label": "OTHER_PERSON",
+      "start_char": 1330,
+      "end_char": 1343
+    },
+    {
+      "text": "1Manugrah India Limited",
+      "label": "RESPONDENT",
+      "start_char": 2030,
+      "end_char": 2053
+    },
+    {
+      "text": "Param Print Solutions Pvt",
+      "label": "ORG",
+      "start_char": 2585,
+      "end_char": 2610
+    },
+    {
+      "text": "Devekar Panand",
+      "label": "OTHER_PERSON",
+      "start_char": 2790,
+      "end_char": 2804
+    },
+    {
+      "text": "Gopal Balwant Vichare",
+      "label": "RESPONDENT",
+      "start_char": 3338,
+      "end_char": 3359
+    },
+    {
+      "text": "4Dhanaji Ramchandra Bhalkar",
+      "label": "RESPONDENT",
+      "start_char": 3889,
+      "end_char": 3916
+    },
+    {
+      "text": "Sarjerao Vishnu Chandane",
+      "label": "RESPONDENT",
+      "start_char": 4444,
+      "end_char": 4468
+    },
+    {
+      "text": "Shubhendra Madhavarao Mordekar",
+      "label": "RESPONDENT",
+      "start_char": 4997,
+      "end_char": 5027
+    },
+    {
+      "text": "Bhavani",
+      "label": "OTHER_PERSON",
+      "start_char": 5306,
+      "end_char": 5313
+    },
+    {
+      "text": "Gruha Nirman Sanstha",
+      "label": "OTHER_PERSON",
+      "start_char": 5364,
+      "end_char": 5384
+    },
+    {
+      "text": "Devkar Panand",
+      "label": "OTHER_PERSON",
+      "start_char": 5386,
+      "end_char": 5399
+    },
+    {
+      "text": "Venkatesh Anantnarayan",
+      "label": "RESPONDENT",
+      "start_char": 5550,
+      "end_char": 5572
+    },
+    {
+      "text": "Milonarayan S. Mishra",
+      "label": "RESPONDENT",
+      "start_char": 6011,
+      "end_char": 6032
+    },
+    {
+      "text": "NO. 11 OF 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 6779,
+      "end_char": 6793
+    },
+    {
+      "text": "SUIT NO. 516 OF 2013",
+      "label": "CASE_NUMBER",
+      "start_char": 6860,
+      "end_char": 6880
+    },
+    {
+      "text": "Sigmarq Technologies Pvt",
+      "label": "ORG",
+      "start_char": 6889,
+      "end_char": 6913
+    },
+    {
+      "text": "Rajesh Rangrao Ghorpade",
+      "label": "RESPONDENT",
+      "start_char": 7258,
+      "end_char": 7281
+    },
+    {
+      "text": "Bhavani Grihnirman",
+      "label": "OTHER_PERSON",
+      "start_char": 7538,
+      "end_char": 7556
+    },
+    {
+      "text": "Devkar Panand",
+      "label": "OTHER_PERSON",
+      "start_char": 7558,
+      "end_char": 7571
+    },
+    {
+      "text": "1Manugrah India Limited",
+      "label": "RESPONDENT",
+      "start_char": 8258,
+      "end_char": 8281
+    },
+    {
+      "text": "Param Print Solutions Pvt",
+      "label": "ORG",
+      "start_char": 8813,
+      "end_char": 8838
+    },
+    {
+      "text": "Devekar Panand",
+      "label": "OTHER_PERSON",
+      "start_char": 9018,
+      "end_char": 9032
+    },
+    {
+      "text": "Gopal Balwant Vichare",
+      "label": "RESPONDENT",
+      "start_char": 9569,
+      "end_char": 9590
+    },
+    {
+      "text": "4Dhanaji Ramchandra Bhalkar",
+      "label": "RESPONDENT",
+      "start_char": 10120,
+      "end_char": 10147
+    },
+    {
+      "text": "Sarjerao Vishnu Chandane",
+      "label": "RESPONDENT",
+      "start_char": 10675,
+      "end_char": 10699
+    },
+    {
+      "text": "Shubhendra Madhavarao Mordekar",
+      "label": "RESPONDENT",
+      "start_char": 11228,
+      "end_char": 11258
+    },
+    {
+      "text": "Bhavani",
+      "label": "OTHER_PERSON",
+      "start_char": 11537,
+      "end_char": 11544
+    },
+    {
+      "text": "Gruha Nirman Sanstha",
+      "label": "OTHER_PERSON",
+      "start_char": 11595,
+      "end_char": 11615
+    },
+    {
+      "text": "Devkar Panand",
+      "label": "OTHER_PERSON",
+      "start_char": 11617,
+      "end_char": 11630
+    },
+    {
+      "text": "Venkatesh Anantnarayan",
+      "label": "RESPONDENT",
+      "start_char": 11781,
+      "end_char": 11803
+    },
+    {
+      "text": "Milonarayan S. Mishra",
+      "label": "RESPONDENT",
+      "start_char": 12242,
+      "end_char": 12263
+    },
+    {
+      "text": "NO. 129 OF 2014",
+      "label": "CASE_NUMBER",
+      "start_char": 13017,
+      "end_char": 13032
+    },
+    {
+      "text": "SUIT NO. 632 OF 2014",
+      "label": "CASE_NUMBER",
+      "start_char": 13107,
+      "end_char": 13127
+    },
+    {
+      "text": "Le Travenues Technology Pvt",
+      "label": "ORG",
+      "start_char": 13134,
+      "end_char": 13161
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 13318,
+      "end_char": 13323
+    },
+    {
+      "text": "Sushant Lok Phase-I",
+      "label": "PETITIONER",
+      "start_char": 13415,
+      "end_char": 13434
+    },
+    {
+      "text": "Gurgaon",
+      "label": "GPE",
+      "start_char": 13436,
+      "end_char": 13443
+    },
+    {
+      "text": "Ezeego One Travel & Tours Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 13507,
+      "end_char": 13537
+    },
+    {
+      "text": "Birendra Saraf",
+      "label": "OTHER_PERSON",
+      "start_char": 13923,
+      "end_char": 13937
+    },
+    {
+      "text": "Pooja Kshirsagar",
+      "label": "OTHER_PERSON",
+      "start_char": 13947,
+      "end_char": 13963
+    },
+    {
+      "text": "Amol Kumeria",
+      "label": "OTHER_PERSON",
+      "start_char": 13969,
+      "end_char": 13981
+    },
+    {
+      "text": "Chandansingh Shekhawat",
+      "label": "OTHER_PERSON",
+      "start_char": 13996,
+      "end_char": 14018
+    },
+    {
+      "text": "COMAP No.40 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 14062,
+      "end_char": 14081
+    },
+    {
+      "text": "COMAP No.41 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 14086,
+      "end_char": 14105
+    },
+    {
+      "text": "Ravi Kadam",
+      "label": "LAWYER",
+      "start_char": 14119,
+      "end_char": 14129
+    },
+    {
+      "text": "Ashish Kamat",
+      "label": "LAWYER",
+      "start_char": 14156,
+      "end_char": 14168
+    },
+    {
+      "text": "Rohan Kadam",
+      "label": "LAWYER",
+      "start_char": 14180,
+      "end_char": 14191
+    },
+    {
+      "text": "Abhimanyu Kharote",
+      "label": "LAWYER",
+      "start_char": 14197,
+      "end_char": 14214
+    },
+    {
+      "text": "Alankar Kirpekar",
+      "label": "OTHER_PERSON",
+      "start_char": 14338,
+      "end_char": 14354
+    },
+    {
+      "text": "Muralidhar Khadilkar",
+      "label": "OTHER_PERSON",
+      "start_char": 14364,
+      "end_char": 14384
+    },
+    {
+      "text": "COMAP No.49 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 14426,
+      "end_char": 14445
+    },
+    {
+      "text": "Virag Tulzapurkar",
+      "label": "LAWYER",
+      "start_char": 14459,
+      "end_char": 14476
+    },
+    {
+      "text": "H.W. Kane",
+      "label": "LAWYER",
+      "start_char": 14502,
+      "end_char": 14511
+    },
+    {
+      "text": "A.H. Kane",
+      "label": "LAWYER",
+      "start_char": 14523,
+      "end_char": 14532
+    },
+    {
+      "text": "Nikhil Sharma",
+      "label": "LAWYER",
+      "start_char": 14538,
+      "end_char": 14551
+    },
+    {
+      "text": "Aasif Navodia",
+      "label": "LAWYER",
+      "start_char": 14560,
+      "end_char": 14573
+    },
+    {
+      "text": "COMAP No.49 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 14622,
+      "end_char": 14641
+    },
+    {
+      "text": "S.C. DHARMADHIKARI",
+      "label": "JUDGE",
+      "start_char": 14687,
+      "end_char": 14705
+    },
+    {
+      "text": "PRAKASH D. NAIK",
+      "label": "JUDGE",
+      "start_char": 14750,
+      "end_char": 14765
+    },
+    {
+      "text": "S.C. Dharmadhikari",
+      "label": "JUDGE",
+      "start_char": 15255,
+      "end_char": 15273
+    },
+    {
+      "text": "Suit No.516 of 2013",
+      "label": "CASE_NUMBER",
+      "start_char": 15428,
+      "end_char": 15447
+    },
+    {
+      "text": "section 9-A",
+      "label": "PROVISION",
+      "start_char": 15598,
+      "end_char": 15609
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 15617,
+      "end_char": 15646
+    },
+    {
+      "text": "Manugraph India Limited",
+      "label": "ORG",
+      "start_char": 15797,
+      "end_char": 15820
+    },
+    {
+      "text": "Suit No. 632 of 2014",
+      "label": "CASE_NUMBER",
+      "start_char": 15914,
+      "end_char": 15934
+    },
+    {
+      "text": "Commercial Appeal No. 40 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 15982,
+      "end_char": 16014
+    },
+    {
+      "text": "Commercial Appeal Nos.40 and 49 both of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 16043,
+      "end_char": 16087
+    },
+    {
+      "text": "Commercial Appeal No.41 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 16101,
+      "end_char": 16132
+    },
+    {
+      "text": "Suit No.632 of 2014",
+      "label": "CASE_NUMBER",
+      "start_char": 16184,
+      "end_char": 16203
+    },
+    {
+      "text": "31 st March, 2016",
+      "label": "DATE",
+      "start_char": 16239,
+      "end_char": 16256
+    },
+    {
+      "text": "Mumbai",
+      "label": "GPE",
+      "start_char": 16346,
+      "end_char": 16352
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 16386,
+      "end_char": 16391
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 16572,
+      "end_char": 16577
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 16685,
+      "end_char": 16690
+    },
+    {
+      "text": "Suit No.516 of 2013",
+      "label": "CASE_NUMBER",
+      "start_char": 16786,
+      "end_char": 16805
+    },
+    {
+      "text": "Mumbai",
+      "label": "GPE",
+      "start_char": 16934,
+      "end_char": 16940
+    },
+    {
+      "text": "Kolhapur",
+      "label": "GPE",
+      "start_char": 16998,
+      "end_char": 17006
+    },
+    {
+      "text": "Kolhapur",
+      "label": "GPE",
+      "start_char": 17073,
+      "end_char": 17081
+    },
+    {
+      "text": "Kolhapur",
+      "label": "GPE",
+      "start_char": 17134,
+      "end_char": 17142
+    },
+    {
+      "text": "11th July 2016",
+      "label": "DATE",
+      "start_char": 18016,
+      "end_char": 18030
+    },
+    {
+      "text": "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Act 4 of 2016",
+      "label": "STATUTE",
+      "start_char": 18313,
+      "end_char": 18425
+    },
+    {
+      "text": "Chapter IV",
+      "label": "PROVISION",
+      "start_char": 18547,
+      "end_char": 18557
+    },
+    {
+      "text": "section 13",
+      "label": "PROVISION",
+      "start_char": 18592,
+      "end_char": 18602
+    },
+    {
+      "text": "R.M.",
+      "label": "OTHER_PERSON",
+      "start_char": 18611,
+      "end_char": 18615
+    },
+    {
+      "text": "Kadam",
+      "label": "LAWYER",
+      "start_char": 18616,
+      "end_char": 18621
+    },
+    {
+      "text": "Commercial Appeal No.40 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 18695,
+      "end_char": 18726
+    },
+    {
+      "text": "sub-section (1) of section COMAP40.16.doc 13",
+      "label": "PROVISION",
+      "start_char": 18833,
+      "end_char": 18877
+    },
+    {
+      "text": "Kadam",
+      "label": "LAWYER",
+      "start_char": 19111,
+      "end_char": 19116
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 19278,
+      "end_char": 19307
+    },
+    {
+      "text": "proviso to sub-section (1) of section 13",
+      "label": "PROVISION",
+      "start_char": 19342,
+      "end_char": 19382
+    },
+    {
+      "text": "Kadam",
+      "label": "LAWYER",
+      "start_char": 19401,
+      "end_char": 19406
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 19556,
+      "end_char": 19567
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 19575,
+      "end_char": 19598
+    },
+    {
+      "text": "Act 4 of 2016",
+      "label": "STATUTE",
+      "start_char": 19618,
+      "end_char": 19631
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 19636,
+      "end_char": 19646
+    },
+    {
+      "text": "Arbitration & Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 19654,
+      "end_char": 19690
+    },
+    {
+      "text": "sub-section (1) of section 13",
+      "label": "PROVISION",
+      "start_char": 19705,
+      "end_char": 19734
+    },
+    {
+      "text": "sub-section (1) of section 13",
+      "label": "PROVISION",
+      "start_char": 19952,
+      "end_char": 19981
+    },
+    {
+      "text": "Act 4 of 2016",
+      "label": "STATUTE",
+      "start_char": 20108,
+      "end_char": 20121
+    },
+    {
+      "text": "Kadam",
+      "label": "LAWYER",
+      "start_char": 20540,
+      "end_char": 20545
+    },
+    {
+      "text": "Kadam",
+      "label": "LAWYER",
+      "start_char": 20871,
+      "end_char": 20876
+    },
+    {
+      "text": "Act 4 of 2016",
+      "label": "STATUTE",
+      "start_char": 20899,
+      "end_char": 20912
+    },
+    {
+      "text": "section 13",
+      "label": "PROVISION",
+      "start_char": 21824,
+      "end_char": 21834
+    },
+    {
+      "text": "Saraf",
+      "label": "OTHER_PERSON",
+      "start_char": 21863,
+      "end_char": 21868
+    },
+    {
+      "text": "Kirpekar",
+      "label": "OTHER_PERSON",
+      "start_char": 21877,
+      "end_char": 21885
+    },
+    {
+      "text": "Kadam",
+      "label": "LAWYER",
+      "start_char": 22000,
+      "end_char": 22005
+    },
+    {
+      "text": "Saraf",
+      "label": "OTHER_PERSON",
+      "start_char": 22011,
+      "end_char": 22016
+    },
+    {
+      "text": "COMAP40.16.doc",
+      "label": "CASE_NUMBER",
+      "start_char": 22399,
+      "end_char": 22413
+    },
+    {
+      "text": "Kirpekar",
+      "label": "OTHER_PERSON",
+      "start_char": 23251,
+      "end_char": 23259
+    },
+    {
+      "text": "Ferani Hotels Pvt",
+      "label": "ORG",
+      "start_char": 23336,
+      "end_char": 23353
+    },
+    {
+      "text": "Ltd. v. Nusli Neville Wadia & Ors",
+      "label": "PRECEDENT",
+      "start_char": 23355,
+      "end_char": 23388
+    },
+    {
+      "text": "Appeal No.817 of 2010",
+      "label": "CASE_NUMBER",
+      "start_char": 23393,
+      "end_char": 23414
+    },
+    {
+      "text": "Appeal No.806 of 2010",
+      "label": "CASE_NUMBER",
+      "start_char": 23426,
+      "end_char": 23447
+    },
+    {
+      "text": "19th July, 2012",
+      "label": "DATE",
+      "start_char": 23459,
+      "end_char": 23474
+    },
+    {
+      "text": "section 9-A",
+      "label": "PROVISION",
+      "start_char": 23501,
+      "end_char": 23512
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 23564,
+      "end_char": 23593
+    },
+    {
+      "text": "section 9-A",
+      "label": "PROVISION",
+      "start_char": 23885,
+      "end_char": 23896
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 23904,
+      "end_char": 23927
+    },
+    {
+      "text": "Order XIV",
+      "label": "PROVISION",
+      "start_char": 24143,
+      "end_char": 24152
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 24160,
+      "end_char": 24183
+    },
+    {
+      "text": "Rule 2",
+      "label": "PROVISION",
+      "start_char": 24188,
+      "end_char": 24194
+    },
+    {
+      "text": "Section 9-A",
+      "label": "PROVISION",
+      "start_char": 24207,
+      "end_char": 24218
+    },
+    {
+      "text": "section 9-A",
+      "label": "PROVISION",
+      "start_char": 24718,
+      "end_char": 24729
+    },
+    {
+      "text": "Saraf",
+      "label": "OTHER_PERSON",
+      "start_char": 25344,
+      "end_char": 25349
+    },
+    {
+      "text": "A.V. Mohta",
+      "label": "JUDGE",
+      "start_char": 25505,
+      "end_char": 25515
+    },
+    {
+      "text": "G.S. Kulkarni",
+      "label": "JUDGE",
+      "start_char": 25532,
+      "end_char": 25545
+    },
+    {
+      "text": "Hubtown Limited vs. IDBI Trusteeship Service Ltd",
+      "label": "PRECEDENT",
+      "start_char": 25561,
+      "end_char": 25609
+    },
+    {
+      "text": "2017 4 BCR 310",
+      "label": "CASE_NUMBER",
+      "start_char": 25624,
+      "end_char": 25638
+    },
+    {
+      "text": "V.M. Kanade",
+      "label": "JUDGE",
+      "start_char": 25730,
+      "end_char": 25741
+    },
+    {
+      "text": "Swapna S. Joshi",
+      "label": "OTHER_PERSON",
+      "start_char": 25786,
+      "end_char": 25801
+    },
+    {
+      "text": "Sushila Singhania",
+      "label": "OTHER_PERSON",
+      "start_char": 25822,
+      "end_char": 25839
+    },
+    {
+      "text": "Bharat Hari Singhania",
+      "label": "RESPONDENT",
+      "start_char": 25851,
+      "end_char": 25872
+    },
+    {
+      "text": "Commercial Appeal No.41 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 25876,
+      "end_char": 25907
+    },
+    {
+      "text": "29th March, 2017",
+      "label": "DATE",
+      "start_char": 25947,
+      "end_char": 25963
+    },
+    {
+      "text": "Saraf",
+      "label": "OTHER_PERSON",
+      "start_char": 25973,
+      "end_char": 25978
+    },
+    {
+      "text": "Hubtown",
+      "label": "GPE",
+      "start_char": 26121,
+      "end_char": 26128
+    },
+    {
+      "text": "Sushila Singhania",
+      "label": "JUDGE",
+      "start_char": 26219,
+      "end_char": 26236
+    },
+    {
+      "text": "V.M. Kanade",
+      "label": "JUDGE",
+      "start_char": 26249,
+      "end_char": 26260
+    },
+    {
+      "text": "Hubtown",
+      "label": "GPE",
+      "start_char": 26351,
+      "end_char": 26358
+    },
+    {
+      "text": "Hubtown",
+      "label": "GPE",
+      "start_char": 26469,
+      "end_char": 26476
+    },
+    {
+      "text": "Sushila Singhania",
+      "label": "OTHER_PERSON",
+      "start_char": 26568,
+      "end_char": 26585
+    },
+    {
+      "text": "Hubtown",
+      "label": "GPE",
+      "start_char": 26687,
+      "end_char": 26694
+    },
+    {
+      "text": "Saraf",
+      "label": "OTHER_PERSON",
+      "start_char": 26745,
+      "end_char": 26750
+    },
+    {
+      "text": "Hubtown",
+      "label": "GPE",
+      "start_char": 26815,
+      "end_char": 26822
+    },
+    {
+      "text": "Hubtown",
+      "label": "GPE",
+      "start_char": 26976,
+      "end_char": 26983
+    },
+    {
+      "text": "Saraf",
+      "label": "OTHER_PERSON",
+      "start_char": 27171,
+      "end_char": 27176
+    },
+    {
+      "text": "S.C. Dharmadhikari",
+      "label": "JUDGE",
+      "start_char": 27247,
+      "end_char": 27265
+    },
+    {
+      "text": "Shri Prakash Gobindram Ahuja vs. Ganesh Pandharinath Dhonde & Ors",
+      "label": "PRECEDENT",
+      "start_char": 27326,
+      "end_char": 27391
+    },
+    {
+      "text": "Order No.256 of 2013",
+      "label": "CASE_NUMBER",
+      "start_char": 27408,
+      "end_char": 27428
+    },
+    {
+      "text": "4th October, 2016",
+      "label": "DATE",
+      "start_char": 27440,
+      "end_char": 27457
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 27530,
+      "end_char": 27543
+    },
+    {
+      "text": "(2016) 6 SCC 391",
+      "label": "PRECEDENT",
+      "start_char": 27567,
+      "end_char": 27583
+    },
+    {
+      "text": "Commissioner of Central Excise, Indore vs. Grasim Industries Limited and",
+      "label": "PRECEDENT",
+      "start_char": 27599,
+      "end_char": 27671
+    },
+    {
+      "text": "(1998) 4 SCC 270",
+      "label": "PRECEDENT",
+      "start_char": 27672,
+      "end_char": 27688
+    },
+    {
+      "text": "Gaurav Jain and Anr",
+      "label": "PRECEDENT",
+      "start_char": 27704,
+      "end_char": 27723
+    },
+    {
+      "text": "Union of India",
+      "label": "RESPONDENT",
+      "start_char": 27729,
+      "end_char": 27743
+    },
+    {
+      "text": "Hubtown",
+      "label": "GPE",
+      "start_char": 28442,
+      "end_char": 28449
+    },
+    {
+      "text": "Sushila Singhania",
+      "label": "OTHER_PERSON",
+      "start_char": 28459,
+      "end_char": 28476
+    },
+    {
+      "text": "Hubtown",
+      "label": "GPE",
+      "start_char": 28484,
+      "end_char": 28491
+    },
+    {
+      "text": "Order XXXVII",
+      "label": "PROVISION",
+      "start_char": 29042,
+      "end_char": 29054
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 29056,
+      "end_char": 29085
+    },
+    {
+      "text": "Act 4 of 2016",
+      "label": "STATUTE",
+      "start_char": 29102,
+      "end_char": 29115
+    },
+    {
+      "text": "IDBI",
+      "label": "PETITIONER",
+      "start_char": 29176,
+      "end_char": 29180
+    },
+    {
+      "text": "Act 4 of 2016",
+      "label": "STATUTE",
+      "start_char": 29252,
+      "end_char": 29265
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 29294,
+      "end_char": 29315
+    },
+    {
+      "text": "4th January, 2016",
+      "label": "DATE",
+      "start_char": 29430,
+      "end_char": 29447
+    },
+    {
+      "text": "14th January, 2016",
+      "label": "DATE",
+      "start_char": 29793,
+      "end_char": 29811
+    },
+    {
+      "text": "13th May, 2016",
+      "label": "DATE",
+      "start_char": 29816,
+      "end_char": 29830
+    },
+    {
+      "text": "12 th July, 2016",
+      "label": "DATE",
+      "start_char": 30125,
+      "end_char": 30141
+    },
+    {
+      "text": "Hubtown",
+      "label": "OTHER_PERSON",
+      "start_char": 30157,
+      "end_char": 30164
+    },
+    {
+      "text": "29th July, 2016",
+      "label": "DATE",
+      "start_char": 30209,
+      "end_char": 30224
+    },
+    {
+      "text": "Act 4 of 2016",
+      "label": "STATUTE",
+      "start_char": 30393,
+      "end_char": 30406
+    },
+    {
+      "text": "Act 4 of 2016",
+      "label": "STATUTE",
+      "start_char": 31131,
+      "end_char": 31144
+    },
+    {
+      "text": "Chapter II",
+      "label": "PROVISION",
+      "start_char": 31339,
+      "end_char": 31349
+    },
+    {
+      "text": "section 13",
+      "label": "PROVISION",
+      "start_char": 31367,
+      "end_char": 31377
+    },
+    {
+      "text": "Chapter II",
+      "label": "PROVISION",
+      "start_char": 31820,
+      "end_char": 31830
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 31848,
+      "end_char": 31858
+    },
+    {
+      "text": "Section 13(1) read with Section 13(2)",
+      "label": "PROVISION",
+      "start_char": 32198,
+      "end_char": 32235
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 32511,
+      "end_char": 32514
+    },
+    {
+      "text": "Section 13(1)",
+      "label": "PROVISION",
+      "start_char": 32521,
+      "end_char": 32534
+    },
+    {
+      "text": "Sections 8, 13(2)",
+      "label": "PROVISION",
+      "start_char": 32599,
+      "end_char": 32616
+    },
+    {
+      "text": "Section 13(1)",
+      "label": "PROVISION",
+      "start_char": 32738,
+      "end_char": 32751
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 32786,
+      "end_char": 32797
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 32801,
+      "end_char": 32804
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 32885,
+      "end_char": 32895
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 32986,
+      "end_char": 32996
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 33004,
+      "end_char": 33042
+    },
+    {
+      "text": "Section 13(2)",
+      "label": "PROVISION",
+      "start_char": 33044,
+      "end_char": 33057
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 33094,
+      "end_char": 33104
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 33112,
+      "end_char": 33133
+    },
+    {
+      "text": "Section 13(2)",
+      "label": "PROVISION",
+      "start_char": 33363,
+      "end_char": 33376
+    },
+    {
+      "text": "Section 13(1) and (2)",
+      "label": "PROVISION",
+      "start_char": 33599,
+      "end_char": 33620
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 33739,
+      "end_char": 33749
+    },
+    {
+      "text": "Section 21",
+      "label": "PROVISION",
+      "start_char": 34051,
+      "end_char": 34061
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 34069,
+      "end_char": 34090
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 34149,
+      "end_char": 34170
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 34245,
+      "end_char": 34255
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 34263,
+      "end_char": 34284
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 34402,
+      "end_char": 34423
+    },
+    {
+      "text": "COMAP40.16.doc",
+      "label": "CASE_NUMBER",
+      "start_char": 34677,
+      "end_char": 34691
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 34696,
+      "end_char": 34728
+    },
+    {
+      "text": "Section 13(1)",
+      "label": "PROVISION",
+      "start_char": 34988,
+      "end_char": 35001
+    },
+    {
+      "text": "Section 13(1)",
+      "label": "PROVISION",
+      "start_char": 35139,
+      "end_char": 35152
+    },
+    {
+      "text": "order XLIII",
+      "label": "PROVISION",
+      "start_char": 35521,
+      "end_char": 35532
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 35540,
+      "end_char": 35543
+    },
+    {
+      "text": "Section 13(1)",
+      "label": "PROVISION",
+      "start_char": 35572,
+      "end_char": 35585
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 35686,
+      "end_char": 35699
+    },
+    {
+      "text": "Shah Babulal Khimji v. Jayaben D. Kania & anr and",
+      "label": "PRECEDENT",
+      "start_char": 35703,
+      "end_char": 35752
+    },
+    {
+      "text": "Midnapore Peoples' Co-op",
+      "label": "ORG",
+      "start_char": 35753,
+      "end_char": 35777
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 35815,
+      "end_char": 35825
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 35886,
+      "end_char": 35889
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 35926,
+      "end_char": 35929
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 35976,
+      "end_char": 35997
+    },
+    {
+      "text": "Letters Patent Act",
+      "label": "STATUTE",
+      "start_char": 36064,
+      "end_char": 36082
+    },
+    {
+      "text": "Order XXXVII",
+      "label": "PROVISION",
+      "start_char": 36697,
+      "end_char": 36709
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 36713,
+      "end_char": 36716
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 36792,
+      "end_char": 36795
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 36809,
+      "end_char": 36812
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 36825,
+      "end_char": 36835
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 36843,
+      "end_char": 36864
+    },
+    {
+      "text": "Order XIII-A",
+      "label": "PROVISION",
+      "start_char": 36922,
+      "end_char": 36934
+    },
+    {
+      "text": "Order XIII-A, Rule 1(3)",
+      "label": "PROVISION",
+      "start_char": 37312,
+      "end_char": 37335
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 37339,
+      "end_char": 37342
+    },
+    {
+      "text": "Order XXXVII",
+      "label": "PROVISION",
+      "start_char": 37608,
+      "end_char": 37620
+    },
+    {
+      "text": "Order XXXVII",
+      "label": "PROVISION",
+      "start_char": 37809,
+      "end_char": 37821
+    },
+    {
+      "text": "XIII-A",
+      "label": "PROVISION",
+      "start_char": 37931,
+      "end_char": 37937
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 38109,
+      "end_char": 38112
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 38342,
+      "end_char": 38352
+    },
+    {
+      "text": "proviso to Section 13(1)",
+      "label": "PROVISION",
+      "start_char": 38512,
+      "end_char": 38536
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 38930,
+      "end_char": 38940
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 39102,
+      "end_char": 39113
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 39158,
+      "end_char": 39179
+    },
+    {
+      "text": "Section 13(1)",
+      "label": "PROVISION",
+      "start_char": 39387,
+      "end_char": 39400
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 39527,
+      "end_char": 39548
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 39613,
+      "end_char": 39616
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 39730,
+      "end_char": 39741
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 39742,
+      "end_char": 39745
+    },
+    {
+      "text": "Section 13(1)",
+      "label": "PROVISION",
+      "start_char": 39773,
+      "end_char": 39786
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 39794,
+      "end_char": 39815
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 39841,
+      "end_char": 39851
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 39859,
+      "end_char": 39880
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 39905,
+      "end_char": 39915
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 40118,
+      "end_char": 40127
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 40129,
+      "end_char": 40138
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 40232,
+      "end_char": 40242
+    },
+    {
+      "text": "Section 13(1)",
+      "label": "PROVISION",
+      "start_char": 40523,
+      "end_char": 40536
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 40565,
+      "end_char": 40575
+    },
+    {
+      "text": "Saraf",
+      "label": "OTHER_PERSON",
+      "start_char": 40827,
+      "end_char": 40832
+    },
+    {
+      "text": "Act 4 of 2016",
+      "label": "STATUTE",
+      "start_char": 40907,
+      "end_char": 40920
+    },
+    {
+      "text": "section 13",
+      "label": "PROVISION",
+      "start_char": 40963,
+      "end_char": 40973
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 41138,
+      "end_char": 41161
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 41366,
+      "end_char": 41389
+    },
+    {
+      "text": "Saraf",
+      "label": "OTHER_PERSON",
+      "start_char": 41458,
+      "end_char": 41463
+    },
+    {
+      "text": "section 13",
+      "label": "PROVISION",
+      "start_char": 41512,
+      "end_char": 41522
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 41749,
+      "end_char": 41759
+    },
+    {
+      "text": "order XLIII",
+      "label": "PROVISION",
+      "start_char": 41914,
+      "end_char": 41925
+    },
+    {
+      "text": "Saraf",
+      "label": "OTHER_PERSON",
+      "start_char": 41965,
+      "end_char": 41970
+    },
+    {
+      "text": "proviso to section 13(1)",
+      "label": "PROVISION",
+      "start_char": 42048,
+      "end_char": 42072
+    },
+    {
+      "text": "Act 4 of 2016",
+      "label": "STATUTE",
+      "start_char": 42153,
+      "end_char": 42166
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 42277,
+      "end_char": 42300
+    },
+    {
+      "text": "Saraf",
+      "label": "OTHER_PERSON",
+      "start_char": 42433,
+      "end_char": 42438
+    },
+    {
+      "text": "Sushila Singhania",
+      "label": "JUDGE",
+      "start_char": 42774,
+      "end_char": 42791
+    },
+    {
+      "text": "section 20",
+      "label": "PROVISION",
+      "start_char": 43360,
+      "end_char": 43370
+    },
+    {
+      "text": "Arbitration Act, 1940",
+      "label": "STATUTE",
+      "start_char": 43383,
+      "end_char": 43404
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 43498,
+      "end_char": 43511
+    },
+    {
+      "text": "4 th August, 2008",
+      "label": "DATE",
+      "start_char": 43628,
+      "end_char": 43645
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 43827,
+      "end_char": 43837
+    },
+    {
+      "text": "Arbitration & Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 43845,
+      "end_char": 43881
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 43996,
+      "end_char": 44006
+    },
+    {
+      "text": "Arbitration & Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 44014,
+      "end_char": 44050
+    },
+    {
+      "text": "8 th March, 2013",
+      "label": "DATE",
+      "start_char": 44069,
+      "end_char": 44085
+    },
+    {
+      "text": "Execution Application No.2006 of 2015",
+      "label": "CASE_NUMBER",
+      "start_char": 44219,
+      "end_char": 44256
+    },
+    {
+      "text": "Order XXI",
+      "label": "PROVISION",
+      "start_char": 44263,
+      "end_char": 44272
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 44280,
+      "end_char": 44309
+    },
+    {
+      "text": "Execution Application No.1913 of 2015",
+      "label": "CASE_NUMBER",
+      "start_char": 44385,
+      "end_char": 44422
+    },
+    {
+      "text": "Order XXI Rule 22",
+      "label": "PROVISION",
+      "start_char": 44466,
+      "end_char": 44483
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 44491,
+      "end_char": 44514
+    },
+    {
+      "text": "Sushila",
+      "label": "PETITIONER",
+      "start_char": 44745,
+      "end_char": 44752
+    },
+    {
+      "text": "sub-section (1) of section 13",
+      "label": "PROVISION",
+      "start_char": 45437,
+      "end_char": 45466
+    },
+    {
+      "text": "Saraf",
+      "label": "OTHER_PERSON",
+      "start_char": 46248,
+      "end_char": 46253
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 46658,
+      "end_char": 46661
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 46663,
+      "end_char": 46678
+    },
+    {
+      "text": "Letters Patent Act",
+      "label": "STATUTE",
+      "start_char": 47361,
+      "end_char": 47379
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 47558,
+      "end_char": 47568
+    },
+    {
+      "text": "Section 2",
+      "label": "PROVISION",
+      "start_char": 47616,
+      "end_char": 47625
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 47633,
+      "end_char": 47636
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 47698,
+      "end_char": 47711
+    },
+    {
+      "text": "Shah Babulal Khimji",
+      "label": "PRECEDENT",
+      "start_char": 47715,
+      "end_char": 47734
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 47748,
+      "end_char": 47761
+    },
+    {
+      "text": "paras 112 and 113",
+      "label": "PROVISION",
+      "start_char": 47765,
+      "end_char": 47782
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 48010,
+      "end_char": 48013
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 48019,
+      "end_char": 48029
+    },
+    {
+      "text": "Shah Babulal Khimji",
+      "label": "PRECEDENT",
+      "start_char": 48033,
+      "end_char": 48052
+    },
+    {
+      "text": "Section 104 or Order XLIII",
+      "label": "PROVISION",
+      "start_char": 48236,
+      "end_char": 48262
+    },
+    {
+      "text": "sub-section (1) of Section 13",
+      "label": "PROVISION",
+      "start_char": 48414,
+      "end_char": 48443
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 48502,
+      "end_char": 48512
+    },
+    {
+      "text": "Tirumalachetti Rajaram vs. Tirumalachetti Radhakrishnayya Chetty and Others",
+      "label": "PRECEDENT",
+      "start_char": 48516,
+      "end_char": 48591
+    },
+    {
+      "text": "Article 133(1)",
+      "label": "PROVISION",
+      "start_char": 48910,
+      "end_char": 48924
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 48932,
+      "end_char": 48944
+    },
+    {
+      "text": "Tulzapurkar",
+      "label": "LAWYER",
+      "start_char": 49252,
+      "end_char": 49263
+    },
+    {
+      "text": "Code of Civil Procedure 1882 (Section 596)",
+      "label": "STATUTE",
+      "start_char": 50068,
+      "end_char": 50110
+    },
+    {
+      "text": "Section 110",
+      "label": "PROVISION",
+      "start_char": 50143,
+      "end_char": 50154
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 50162,
+      "end_char": 50165
+    },
+    {
+      "text": "Article 133",
+      "label": "PROVISION",
+      "start_char": 50207,
+      "end_char": 50218
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 50226,
+      "end_char": 50247
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 50541,
+      "end_char": 50546
+    },
+    {
+      "text": "Saraf",
+      "label": "OTHER_PERSON",
+      "start_char": 50557,
+      "end_char": 50562
+    },
+    {
+      "text": "Sushila Singhania",
+      "label": "PRECEDENT",
+      "start_char": 50639,
+      "end_char": 50656
+    },
+    {
+      "text": "section 13",
+      "label": "PROVISION",
+      "start_char": 50697,
+      "end_char": 50707
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 50842,
+      "end_char": 50852
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 50860,
+      "end_char": 50875
+    },
+    {
+      "text": "Saraf",
+      "label": "OTHER_PERSON",
+      "start_char": 50998,
+      "end_char": 51003
+    },
+    {
+      "text": "Sushila Singhania",
+      "label": "OTHER_PERSON",
+      "start_char": 51062,
+      "end_char": 51079
+    },
+    {
+      "text": "Hubtown",
+      "label": "GPE",
+      "start_char": 51134,
+      "end_char": 51141
+    },
+    {
+      "text": "Hubtown",
+      "label": "GPE",
+      "start_char": 51195,
+      "end_char": 51202
+    },
+    {
+      "text": "Hubtown",
+      "label": "GPE",
+      "start_char": 51280,
+      "end_char": 51287
+    },
+    {
+      "text": "Sushila Singhania",
+      "label": "OTHER_PERSON",
+      "start_char": 51344,
+      "end_char": 51361
+    },
+    {
+      "text": "Sushila Singhania",
+      "label": "OTHER_PERSON",
+      "start_char": 51513,
+      "end_char": 51530
+    },
+    {
+      "text": "Hubtown",
+      "label": "GPE",
+      "start_char": 51556,
+      "end_char": 51563
+    },
+    {
+      "text": "Sushila Singhania",
+      "label": "OTHER_PERSON",
+      "start_char": 51655,
+      "end_char": 51672
+    },
+    {
+      "text": "Saraf",
+      "label": "OTHER_PERSON",
+      "start_char": 52406,
+      "end_char": 52411
+    },
+    {
+      "text": "Act 4 of 2016",
+      "label": "STATUTE",
+      "start_char": 52661,
+      "end_char": 52674
+    },
+    {
+      "text": "Saraf",
+      "label": "OTHER_PERSON",
+      "start_char": 52807,
+      "end_char": 52812
+    },
+    {
+      "text": "Chapter I",
+      "label": "PROVISION",
+      "start_char": 53072,
+      "end_char": 53081
+    },
+    {
+      "text": "section 2",
+      "label": "PROVISION",
+      "start_char": 53134,
+      "end_char": 53143
+    },
+    {
+      "text": "sub-section (1) of section 5",
+      "label": "PROVISION",
+      "start_char": 53307,
+      "end_char": 53335
+    },
+    {
+      "text": "sub-section (1) of section 3",
+      "label": "PROVISION",
+      "start_char": 53401,
+      "end_char": 53429
+    },
+    {
+      "text": "section 2",
+      "label": "PROVISION",
+      "start_char": 53530,
+      "end_char": 53539
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 55940,
+      "end_char": 55958
+    },
+    {
+      "text": "sub-section (1) of section 4;\"\n47",
+      "label": "PROVISION",
+      "start_char": 56504,
+      "end_char": 56537
+    },
+    {
+      "text": "section 12",
+      "label": "PROVISION",
+      "start_char": 56760,
+      "end_char": 56770
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 56866,
+      "end_char": 56884
+    },
+    {
+      "text": "Sub-section (2) of section 2",
+      "label": "PROVISION",
+      "start_char": 56886,
+      "end_char": 56914
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 57009,
+      "end_char": 57038
+    },
+    {
+      "text": "Indian Evidence Act, 1872",
+      "label": "STATUTE",
+      "start_char": 57048,
+      "end_char": 57073
+    },
+    {
+      "text": "Chapter II",
+      "label": "PROVISION",
+      "start_char": 57160,
+      "end_char": 57170
+    },
+    {
+      "text": "Constitution of Commercial Courts",
+      "label": "STATUTE",
+      "start_char": 57182,
+      "end_char": 57215
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 57274,
+      "end_char": 57283
+    },
+    {
+      "text": "Constitution of Commercial Courts",
+      "label": "STATUTE",
+      "start_char": 57295,
+      "end_char": 57328
+    },
+    {
+      "text": "Sub-section (2) of section 3",
+      "label": "PROVISION",
+      "start_char": 57843,
+      "end_char": 57871
+    },
+    {
+      "text": "Sub-section (3) of section 3",
+      "label": "PROVISION",
+      "start_char": 58143,
+      "end_char": 58171
+    },
+    {
+      "text": "Section 4",
+      "label": "PROVISION",
+      "start_char": 58465,
+      "end_char": 58474
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 59056,
+      "end_char": 59065
+    },
+    {
+      "text": "sub- section (1) of section 3 or under sub-section (1) of section 4",
+      "label": "PROVISION",
+      "start_char": 59162,
+      "end_char": 59229
+    },
+    {
+      "text": "sub-section (2) of section 5",
+      "label": "PROVISION",
+      "start_char": 59562,
+      "end_char": 59590
+    },
+    {
+      "text": "sections 16 to 20",
+      "label": "PROVISION",
+      "start_char": 60227,
+      "end_char": 60244
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 60252,
+      "end_char": 60293
+    },
+    {
+      "text": "sub-section (4) of section 22",
+      "label": "PROVISION",
+      "start_char": 60954,
+      "end_char": 60983
+    },
+    {
+      "text": "Act, 2000",
+      "label": "STATUTE",
+      "start_char": 60999,
+      "end_char": 61008
+    },
+    {
+      "text": "section 104",
+      "label": "PROVISION",
+      "start_char": 61012,
+      "end_char": 61023
+    },
+    {
+      "text": "Patents Act, 1970 (39 of 1970)",
+      "label": "STATUTE",
+      "start_char": 61031,
+      "end_char": 61061
+    },
+    {
+      "text": "section 6",
+      "label": "PROVISION",
+      "start_char": 61591,
+      "end_char": 61600
+    },
+    {
+      "text": "section 7",
+      "label": "PROVISION",
+      "start_char": 61606,
+      "end_char": 61615
+    },
+    {
+      "text": "proviso to this section 7",
+      "label": "PROVISION",
+      "start_char": 62167,
+      "end_char": 62192
+    },
+    {
+      "text": "section 7",
+      "label": "PROVISION",
+      "start_char": 62642,
+      "end_char": 62651
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 62801,
+      "end_char": 62810
+    },
+    {
+      "text": "section 13",
+      "label": "PROVISION",
+      "start_char": 63180,
+      "end_char": 63190
+    },
+    {
+      "text": "section 13",
+      "label": "PROVISION",
+      "start_char": 63339,
+      "end_char": 63349
+    },
+    {
+      "text": "section 13",
+      "label": "PROVISION",
+      "start_char": 63552,
+      "end_char": 63562
+    },
+    {
+      "text": "section 13",
+      "label": "PROVISION",
+      "start_char": 63683,
+      "end_char": 63693
+    },
+    {
+      "text": "section 8",
+      "label": "PROVISION",
+      "start_char": 63742,
+      "end_char": 63751
+    },
+    {
+      "text": "section 9",
+      "label": "PROVISION",
+      "start_char": 64201,
+      "end_char": 64210
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 64336,
+      "end_char": 64359
+    },
+    {
+      "text": "Sub-section (2) of section 9",
+      "label": "PROVISION",
+      "start_char": 64654,
+      "end_char": 64682
+    },
+    {
+      "text": "sub-section (1) of section 9",
+      "label": "PROVISION",
+      "start_char": 64886,
+      "end_char": 64914
+    },
+    {
+      "text": "section 10",
+      "label": "PROVISION",
+      "start_char": 64962,
+      "end_char": 64972
+    },
+    {
+      "text": "sections 10 and 11",
+      "label": "PROVISION",
+      "start_char": 65037,
+      "end_char": 65055
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 65394,
+      "end_char": 65432
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 65769,
+      "end_char": 65807
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 66167,
+      "end_char": 66205
+    },
+    {
+      "text": "Chapter III",
+      "label": "PROVISION",
+      "start_char": 67464,
+      "end_char": 67475
+    },
+    {
+      "text": "section 12",
+      "label": "PROVISION",
+      "start_char": 67485,
+      "end_char": 67495
+    },
+    {
+      "text": "section 12",
+      "label": "PROVISION",
+      "start_char": 67515,
+      "end_char": 67525
+    },
+    {
+      "text": "sub- section (3) of section 12",
+      "label": "PROVISION",
+      "start_char": 68130,
+      "end_char": 68160
+    },
+    {
+      "text": "section 115",
+      "label": "PROVISION",
+      "start_char": 68304,
+      "end_char": 68315
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 68323,
+      "end_char": 68352
+    },
+    {
+      "text": "sections 13 and 14",
+      "label": "PROVISION",
+      "start_char": 68534,
+      "end_char": 68552
+    },
+    {
+      "text": "Chapter IV",
+      "label": "PROVISION",
+      "start_char": 68566,
+      "end_char": 68576
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 69089,
+      "end_char": 69100
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 69108,
+      "end_char": 69137
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 69165,
+      "end_char": 69175
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 69183,
+      "end_char": 69221
+    },
+    {
+      "text": "Chapter-V",
+      "label": "PROVISION",
+      "start_char": 69767,
+      "end_char": 69776
+    },
+    {
+      "text": "Chapter VI",
+      "label": "PROVISION",
+      "start_char": 69904,
+      "end_char": 69914
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 69955,
+      "end_char": 69984
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 70027,
+      "end_char": 70050
+    },
+    {
+      "text": "sub-section (2) of section 16",
+      "label": "PROVISION",
+      "start_char": 70203,
+      "end_char": 70232
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 70318,
+      "end_char": 70341
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 70574,
+      "end_char": 70603
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 70670,
+      "end_char": 70699
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 70747,
+      "end_char": 70770
+    },
+    {
+      "text": "Chapter VII",
+      "label": "PROVISION",
+      "start_char": 70813,
+      "end_char": 70824
+    },
+    {
+      "text": "section 18",
+      "label": "PROVISION",
+      "start_char": 71054,
+      "end_char": 71064
+    },
+    {
+      "text": "section 19",
+      "label": "PROVISION",
+      "start_char": 71099,
+      "end_char": 71109
+    },
+    {
+      "text": "section 20",
+      "label": "PROVISION",
+      "start_char": 71114,
+      "end_char": 71124
+    },
+    {
+      "text": "Section 21",
+      "label": "PROVISION",
+      "start_char": 71323,
+      "end_char": 71333
+    },
+    {
+      "text": "Section 22",
+      "label": "PROVISION",
+      "start_char": 71711,
+      "end_char": 71721
+    },
+    {
+      "text": "section 23",
+      "label": "PROVISION",
+      "start_char": 71761,
+      "end_char": 71771
+    },
+    {
+      "text": "COMAP40.16.doc",
+      "label": "CASE_NUMBER",
+      "start_char": 72338,
+      "end_char": 72352
+    },
+    {
+      "text": "Act 4 of 2016",
+      "label": "STATUTE",
+      "start_char": 72565,
+      "end_char": 72578
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 72827,
+      "end_char": 72837
+    },
+    {
+      "text": "section 13",
+      "label": "PROVISION",
+      "start_char": 73031,
+      "end_char": 73041
+    },
+    {
+      "text": "Saraf",
+      "label": "OTHER_PERSON",
+      "start_char": 73073,
+      "end_char": 73078
+    },
+    {
+      "text": "Kadam",
+      "label": "LAWYER",
+      "start_char": 73111,
+      "end_char": 73116
+    },
+    {
+      "text": "Kadam",
+      "label": "LAWYER",
+      "start_char": 73261,
+      "end_char": 73266
+    },
+    {
+      "text": "sub-section (2) of section 13",
+      "label": "PROVISION",
+      "start_char": 73285,
+      "end_char": 73314
+    },
+    {
+      "text": "Saraf",
+      "label": "OTHER_PERSON",
+      "start_char": 73811,
+      "end_char": 73816
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 73926,
+      "end_char": 73939
+    },
+    {
+      "text": "Shah Babulal Khimji vs Jayaben D. Kania & Anr., AIR 1981 SC 1786",
+      "label": "PRECEDENT",
+      "start_char": 73955,
+      "end_char": 74019
+    },
+    {
+      "text": "section 13",
+      "label": "PROVISION",
+      "start_char": 74223,
+      "end_char": 74233
+    },
+    {
+      "text": "Saraf",
+      "label": "OTHER_PERSON",
+      "start_char": 74331,
+      "end_char": 74336
+    },
+    {
+      "text": "Shah Babulal Khimji",
+      "label": "OTHER_PERSON",
+      "start_char": 74342,
+      "end_char": 74361
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 74450,
+      "end_char": 74463
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 74935,
+      "end_char": 74948
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 75162,
+      "end_char": 75179
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 75830,
+      "end_char": 75843
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 76153,
+      "end_char": 76166
+    },
+    {
+      "text": "section 104",
+      "label": "PROVISION",
+      "start_char": 76380,
+      "end_char": 76391
+    },
+    {
+      "text": "Order XLIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 76402,
+      "end_char": 76420
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 76428,
+      "end_char": 76451
+    },
+    {
+      "text": "clauses (r) and (s) of Order XLIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 76554,
+      "end_char": 76595
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 76603,
+      "end_char": 76632
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 76766,
+      "end_char": 76789
+    },
+    {
+      "text": "Section 104",
+      "label": "PROVISION",
+      "start_char": 76902,
+      "end_char": 76913
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 77233,
+      "end_char": 77246
+    },
+    {
+      "text": "section 104",
+      "label": "PROVISION",
+      "start_char": 77303,
+      "end_char": 77314
+    },
+    {
+      "text": "Order XLIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 77325,
+      "end_char": 77343
+    },
+    {
+      "text": "Code of Civil Procedure,1908,",
+      "label": "STATUTE",
+      "start_char": 77351,
+      "end_char": 77380
+    },
+    {
+      "text": "Code of 1908",
+      "label": "STATUTE",
+      "start_char": 77526,
+      "end_char": 77538
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 78310,
+      "end_char": 78319
+    },
+    {
+      "text": "Code of 1908",
+      "label": "STATUTE",
+      "start_char": 78327,
+      "end_char": 78339
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 79332,
+      "end_char": 79355
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 79691,
+      "end_char": 79714
+    },
+    {
+      "text": "Section 4(1)",
+      "label": "PROVISION",
+      "start_char": 79743,
+      "end_char": 79755
+    },
+    {
+      "text": "Code of 1908",
+      "label": "STATUTE",
+      "start_char": 79763,
+      "end_char": 79775
+    },
+    {
+      "text": "s. 4",
+      "label": "PROVISION",
+      "start_char": 80004,
+      "end_char": 80008
+    },
+    {
+      "text": "s. 4",
+      "label": "PROVISION",
+      "start_char": 80149,
+      "end_char": 80153
+    },
+    {
+      "text": "s. 104",
+      "label": "PROVISION",
+      "start_char": 80173,
+      "end_char": 80179
+    },
+    {
+      "text": "s. 104",
+      "label": "PROVISION",
+      "start_char": 80274,
+      "end_char": 80280
+    },
+    {
+      "text": "Code of 1908",
+      "label": "STATUTE",
+      "start_char": 80288,
+      "end_char": 80300
+    },
+    {
+      "text": "section 35-A (g)",
+      "label": "PROVISION",
+      "start_char": 80585,
+      "end_char": 80601
+    },
+    {
+      "text": "section 95",
+      "label": "PROVISION",
+      "start_char": 80617,
+      "end_char": 80627
+    },
+    {
+      "text": "S.104",
+      "label": "PROVISION",
+      "start_char": 81037,
+      "end_char": 81042
+    },
+    {
+      "text": "order 43 Rule 1",
+      "label": "PROVISION",
+      "start_char": 81094,
+      "end_char": 81109
+    },
+    {
+      "text": "Section 105",
+      "label": "PROVISION",
+      "start_char": 81160,
+      "end_char": 81171
+    },
+    {
+      "text": "S. 105 (1)",
+      "label": "PROVISION",
+      "start_char": 81381,
+      "end_char": 81391
+    },
+    {
+      "text": "Rule 3",
+      "label": "PROVISION",
+      "start_char": 81788,
+      "end_char": 81794
+    },
+    {
+      "text": "clauses (1) to (6) of Rule 3",
+      "label": "PROVISION",
+      "start_char": 81834,
+      "end_char": 81862
+    },
+    {
+      "text": "Rule 10 and Rule 11, clauses (b) & (c), of order VII",
+      "label": "PROVISION",
+      "start_char": 82308,
+      "end_char": 82360
+    },
+    {
+      "text": "Order XVIII",
+      "label": "PROVISION",
+      "start_char": 82515,
+      "end_char": 82526
+    },
+    {
+      "text": "rule 35 of order XLI",
+      "label": "PROVISION",
+      "start_char": 82644,
+      "end_char": 82664
+    },
+    {
+      "text": "order 43 Rule 1",
+      "label": "PROVISION",
+      "start_char": 82865,
+      "end_char": 82880
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 83019,
+      "end_char": 83042
+    },
+    {
+      "text": "S. 104",
+      "label": "PROVISION",
+      "start_char": 83102,
+      "end_char": 83108
+    },
+    {
+      "text": "order 43 Rule 1",
+      "label": "PROVISION",
+      "start_char": 83134,
+      "end_char": 83149
+    },
+    {
+      "text": "section 104",
+      "label": "PROVISION",
+      "start_char": 83464,
+      "end_char": 83475
+    },
+    {
+      "text": "Order XLIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 83486,
+      "end_char": 83504
+    },
+    {
+      "text": "section 104",
+      "label": "PROVISION",
+      "start_char": 83829,
+      "end_char": 83840
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 83962,
+      "end_char": 83985
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 84054,
+      "end_char": 84077
+    },
+    {
+      "text": "Order XLIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 84113,
+      "end_char": 84131
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 84330,
+      "end_char": 84343
+    },
+    {
+      "text": "Order XLIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 84371,
+      "end_char": 84389
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 84476,
+      "end_char": 84489
+    },
+    {
+      "text": "section 104",
+      "label": "PROVISION",
+      "start_char": 84688,
+      "end_char": 84699
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 84834,
+      "end_char": 84847
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 84929,
+      "end_char": 84948
+    },
+    {
+      "text": "Order XLIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 85017,
+      "end_char": 85035
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 85169,
+      "end_char": 85182
+    },
+    {
+      "text": "Order XLIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 85281,
+      "end_char": 85299
+    },
+    {
+      "text": "Order XLIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 85461,
+      "end_char": 85479
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 85716,
+      "end_char": 85729
+    },
+    {
+      "text": "Radhey Shyam vs. Shyam Behari Singh COMAP40.16.doc (1970) 2",
+      "label": "PRECEDENT",
+      "start_char": 85770,
+      "end_char": 85829
+    },
+    {
+      "text": "SCC 405",
+      "label": "PROVISION",
+      "start_char": 85830,
+      "end_char": 85837
+    },
+    {
+      "text": "Order XLIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 86010,
+      "end_char": 86028
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 86112,
+      "end_char": 86125
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 86296,
+      "end_char": 86309
+    },
+    {
+      "text": "Section 104",
+      "label": "PROVISION",
+      "start_char": 86506,
+      "end_char": 86517
+    },
+    {
+      "text": "Order 43 Rule 1",
+      "label": "PROVISION",
+      "start_char": 86528,
+      "end_char": 86543
+    },
+    {
+      "text": "Section 104",
+      "label": "PROVISION",
+      "start_char": 86690,
+      "end_char": 86701
+    },
+    {
+      "text": "Order 43 Rule 1",
+      "label": "PROVISION",
+      "start_char": 86712,
+      "end_char": 86727
+    },
+    {
+      "text": "order 43 Rule I",
+      "label": "PROVISION",
+      "start_char": 86857,
+      "end_char": 86872
+    },
+    {
+      "text": "Order 43 Rule 1",
+      "label": "PROVISION",
+      "start_char": 87098,
+      "end_char": 87113
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 87556,
+      "end_char": 87579
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 87703,
+      "end_char": 87716
+    },
+    {
+      "text": "section 104",
+      "label": "PROVISION",
+      "start_char": 87797,
+      "end_char": 87808
+    },
+    {
+      "text": "Order XLIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 87819,
+      "end_char": 87837
+    },
+    {
+      "text": "Order XLIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 88069,
+      "end_char": 88087
+    },
+    {
+      "text": "Order XLIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 88197,
+      "end_char": 88215
+    },
+    {
+      "text": "Order XLIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 88533,
+      "end_char": 88551
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 88923,
+      "end_char": 88936
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 89151,
+      "end_char": 89174
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 89561,
+      "end_char": 89584
+    },
+    {
+      "text": "sub- section (2) of section 2",
+      "label": "PROVISION",
+      "start_char": 89644,
+      "end_char": 89673
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 90068,
+      "end_char": 90091
+    },
+    {
+      "text": "Section 80",
+      "label": "PROVISION",
+      "start_char": 91860,
+      "end_char": 91870
+    },
+    {
+      "text": "clauses (a) to (w) of Order 43 Rule 1",
+      "label": "PROVISION",
+      "start_char": 92648,
+      "end_char": 92685
+    },
+    {
+      "text": "Order 43 Rule 1",
+      "label": "PROVISION",
+      "start_char": 92868,
+      "end_char": 92883
+    },
+    {
+      "text": "Order 37",
+      "label": "PROVISION",
+      "start_char": 93290,
+      "end_char": 93298
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 93306,
+      "end_char": 93329
+    },
+    {
+      "text": "Order 43 Rule 1",
+      "label": "PROVISION",
+      "start_char": 94540,
+      "end_char": 94555
+    },
+    {
+      "text": "Saraf",
+      "label": "OTHER_PERSON",
+      "start_char": 95431,
+      "end_char": 95436
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 95516,
+      "end_char": 95529
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 96943,
+      "end_char": 96956
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 97579,
+      "end_char": 97592
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 98349,
+      "end_char": 98362
+    },
+    {
+      "text": "Saraf",
+      "label": "OTHER_PERSON",
+      "start_char": 98985,
+      "end_char": 98990
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 99046,
+      "end_char": 99059
+    },
+    {
+      "text": "sub-section (2) of section 13",
+      "label": "PROVISION",
+      "start_char": 99118,
+      "end_char": 99147
+    },
+    {
+      "text": "sub- section (1) of section 13",
+      "label": "PROVISION",
+      "start_char": 99160,
+      "end_char": 99190
+    },
+    {
+      "text": "Kadam",
+      "label": "LAWYER",
+      "start_char": 99209,
+      "end_char": 99214
+    },
+    {
+      "text": "Kadam",
+      "label": "LAWYER",
+      "start_char": 99270,
+      "end_char": 99275
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 99677,
+      "end_char": 99688
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 99696,
+      "end_char": 99719
+    },
+    {
+      "text": "Arbitration & Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 99762,
+      "end_char": 99798
+    },
+    {
+      "text": "Kadam",
+      "label": "LAWYER",
+      "start_char": 99821,
+      "end_char": 99826
+    },
+    {
+      "text": "sub-section (2) of section 13",
+      "label": "PROVISION",
+      "start_char": 99994,
+      "end_char": 100023
+    },
+    {
+      "text": "Kadam",
+      "label": "LAWYER",
+      "start_char": 100264,
+      "end_char": 100269
+    },
+    {
+      "text": "Kadam",
+      "label": "LAWYER",
+      "start_char": 100523,
+      "end_char": 100528
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 100549,
+      "end_char": 100572
+    },
+    {
+      "text": "Kadam",
+      "label": "LAWYER",
+      "start_char": 100631,
+      "end_char": 100636
+    },
+    {
+      "text": "section 13",
+      "label": "PROVISION",
+      "start_char": 100770,
+      "end_char": 100780
+    },
+    {
+      "text": "section 144",
+      "label": "PROVISION",
+      "start_char": 101223,
+      "end_char": 101234
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 101504,
+      "end_char": 101527
+    },
+    {
+      "text": "section 2(9)",
+      "label": "PROVISION",
+      "start_char": 101696,
+      "end_char": 101708
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 101716,
+      "end_char": 101739
+    },
+    {
+      "text": "Saraf",
+      "label": "OTHER_PERSON",
+      "start_char": 101870,
+      "end_char": 101875
+    },
+    {
+      "text": "section 97",
+      "label": "PROVISION",
+      "start_char": 102027,
+      "end_char": 102037
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 102144,
+      "end_char": 102167
+    },
+    {
+      "text": "Saraf",
+      "label": "OTHER_PERSON",
+      "start_char": 102323,
+      "end_char": 102328
+    },
+    {
+      "text": "COMAP40.16.doc",
+      "label": "CASE_NUMBER",
+      "start_char": 102693,
+      "end_char": 102707
+    },
+    {
+      "text": "Shah Babulal Khimji",
+      "label": "OTHER_PERSON",
+      "start_char": 102912,
+      "end_char": 102931
+    },
+    {
+      "text": "Relation to Management of Central Mine Panning and Design Institute Ltd. vs. Union of India & anr.",
+      "label": "PRECEDENT",
+      "start_char": 103035,
+      "end_char": 103133
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 103169,
+      "end_char": 103182
+    },
+    {
+      "text": "AIR 2001 SC 883",
+      "label": "PRECEDENT",
+      "start_char": 103252,
+      "end_char": 103267
+    },
+    {
+      "text": "Patna High Court",
+      "label": "COURT",
+      "start_char": 103313,
+      "end_char": 103329
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 103400,
+      "end_char": 103417
+    },
+    {
+      "text": "Patna",
+      "label": "GPE",
+      "start_char": 103664,
+      "end_char": 103669
+    },
+    {
+      "text": "High Court of Judicature at Patna",
+      "label": "COURT",
+      "start_char": 103732,
+      "end_char": 103765
+    },
+    {
+      "text": "Article 225",
+      "label": "PROVISION",
+      "start_char": 103865,
+      "end_char": 103876
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 103884,
+      "end_char": 103905
+    },
+    {
+      "text": "Section 107",
+      "label": "PROVISION",
+      "start_char": 104570,
+      "end_char": 104581
+    },
+    {
+      "text": "Government of India Act, 1915",
+      "label": "STATUTE",
+      "start_char": 104585,
+      "end_char": 104614
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 104620,
+      "end_char": 104631
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 104639,
+      "end_char": 104660
+    },
+    {
+      "text": "Section 2(9)",
+      "label": "PROVISION",
+      "start_char": 105079,
+      "end_char": 105091
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 105095,
+      "end_char": 105118
+    },
+    {
+      "text": "High Courts of India",
+      "label": "COURT",
+      "start_char": 105203,
+      "end_char": 105223
+    },
+    {
+      "text": "Asrumati Debi Vs.",
+      "label": "PRECEDENT",
+      "start_char": 105259,
+      "end_char": 105276
+    },
+    {
+      "text": "Kumar Rupendra Deb Raikot, 1953 SCR 1159 : (AIR 1953 SC 198)",
+      "label": "PRECEDENT",
+      "start_char": 105277,
+      "end_char": 105337
+    },
+    {
+      "text": "High Court of Calcutta",
+      "label": "COURT",
+      "start_char": 105408,
+      "end_char": 105430
+    },
+    {
+      "text": "Oriental Gas Co.",
+      "label": "ORG",
+      "start_char": 105473,
+      "end_char": 105489
+    },
+    {
+      "text": "LR. 433",
+      "label": "PROVISION",
+      "start_char": 105505,
+      "end_char": 105512
+    },
+    {
+      "text": "High Court of Rangoon",
+      "label": "COURT",
+      "start_char": 105518,
+      "end_char": 105539
+    },
+    {
+      "text": "Dayabhai Vs.",
+      "label": "PRECEDENT",
+      "start_char": 105543,
+      "end_char": 105555
+    },
+    {
+      "text": "Murugappa Chettiar (1935) ILR. 13",
+      "label": "PRECEDENT",
+      "start_char": 105556,
+      "end_char": 105589
+    },
+    {
+      "text": "Rang",
+      "label": "OTHER_PERSON",
+      "start_char": 105590,
+      "end_char": 105594
+    },
+    {
+      "text": "High Court of Madras",
+      "label": "COURT",
+      "start_char": 105630,
+      "end_char": 105650
+    },
+    {
+      "text": "Tuljaram Vs.",
+      "label": "PRECEDENT",
+      "start_char": 105654,
+      "end_char": 105666
+    },
+    {
+      "text": "Alagappa (1912) ILR.",
+      "label": "PRECEDENT",
+      "start_char": 105667,
+      "end_char": 105687
+    },
+    {
+      "text": "High Court at Bombay",
+      "label": "COURT",
+      "start_char": 105703,
+      "end_char": 105723
+    },
+    {
+      "text": "Sonebai Vs.",
+      "label": "PRECEDENT",
+      "start_char": 105727,
+      "end_char": 105738
+    },
+    {
+      "text": "Ahmedbhai (1872) 9 Bom",
+      "label": "PRECEDENT",
+      "start_char": 105739,
+      "end_char": 105761
+    },
+    {
+      "text": "HCR 398 (FB)",
+      "label": "CASE_NUMBER",
+      "start_char": 105763,
+      "end_char": 105775
+    },
+    {
+      "text": "High Court at Nagpur",
+      "label": "COURT",
+      "start_char": 105788,
+      "end_char": 105808
+    },
+    {
+      "text": "High Court at Allahabad and Lahore High Court",
+      "label": "COURT",
+      "start_char": 105814,
+      "end_char": 105859
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 106267,
+      "end_char": 106286
+    },
+    {
+      "text": "Shah Babulal Khimji Vs.",
+      "label": "PRECEDENT",
+      "start_char": 106461,
+      "end_char": 106484
+    },
+    {
+      "text": "Jayaben D. Kania 1981 (4) SCC 8 : (AIR 1981 SC 1786)",
+      "label": "PRECEDENT",
+      "start_char": 106485,
+      "end_char": 106537
+    },
+    {
+      "text": "Fazal Ali",
+      "label": "JUDGE",
+      "start_char": 106539,
+      "end_char": 106548
+    },
+    {
+      "text": "Varadarajan",
+      "label": "JUDGE",
+      "start_char": 106578,
+      "end_char": 106589
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 106875,
+      "end_char": 106898
+    },
+    {
+      "text": "Section 80",
+      "label": "PROVISION",
+      "start_char": 107893,
+      "end_char": 107903
+    },
+    {
+      "text": "clauses (a) to (w) of Order 43 Rule 1",
+      "label": "PROVISION",
+      "start_char": 108011,
+      "end_char": 108048
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 109060,
+      "end_char": 109073
+    },
+    {
+      "text": "section 2(9)",
+      "label": "PROVISION",
+      "start_char": 109182,
+      "end_char": 109194
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 109202,
+      "end_char": 109225
+    },
+    {
+      "text": "Shah Babulal Khimji",
+      "label": "OTHER_PERSON",
+      "start_char": 109293,
+      "end_char": 109312
+    },
+    {
+      "text": "Hubtown",
+      "label": "GPE",
+      "start_char": 109827,
+      "end_char": 109834
+    },
+    {
+      "text": "Order XXXVII",
+      "label": "PROVISION",
+      "start_char": 110204,
+      "end_char": 110216
+    },
+    {
+      "text": "section 13",
+      "label": "PROVISION",
+      "start_char": 110791,
+      "end_char": 110801
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 111260,
+      "end_char": 111273
+    },
+    {
+      "text": "Sushila Singhania",
+      "label": "OTHER_PERSON",
+      "start_char": 111584,
+      "end_char": 111601
+    },
+    {
+      "text": "Arbitration & Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 111896,
+      "end_char": 111932
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 111989,
+      "end_char": 112012
+    },
+    {
+      "text": "Saraf",
+      "label": "OTHER_PERSON",
+      "start_char": 112668,
+      "end_char": 112673
+    },
+    {
+      "text": "Hubtown",
+      "label": "OTHER_PERSON",
+      "start_char": 112706,
+      "end_char": 112713
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 112760,
+      "end_char": 112783
+    },
+    {
+      "text": "section 97",
+      "label": "PROVISION",
+      "start_char": 112789,
+      "end_char": 112799
+    },
+    {
+      "text": "sub-section (1) of section 13",
+      "label": "PROVISION",
+      "start_char": 113206,
+      "end_char": 113235
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 113670,
+      "end_char": 113693
+    },
+    {
+      "text": "section 105",
+      "label": "PROVISION",
+      "start_char": 113712,
+      "end_char": 113723
+    },
+    {
+      "text": "section 104",
+      "label": "PROVISION",
+      "start_char": 113755,
+      "end_char": 113766
+    },
+    {
+      "text": "section 105",
+      "label": "PROVISION",
+      "start_char": 113843,
+      "end_char": 113854
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 114498,
+      "end_char": 114511
+    },
+    {
+      "text": "Shiv Shakti Cooperative Housing Society vs. Swaraj Developer reported in AIR 2003 SC 2434",
+      "label": "PRECEDENT",
+      "start_char": 114527,
+      "end_char": 114616
+    },
+    {
+      "text": "section 96",
+      "label": "PROVISION",
+      "start_char": 114865,
+      "end_char": 114875
+    },
+    {
+      "text": "section 105",
+      "label": "PROVISION",
+      "start_char": 114893,
+      "end_char": 114904
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 115155,
+      "end_char": 115168
+    },
+    {
+      "text": "Section 2",
+      "label": "PROVISION",
+      "start_char": 115189,
+      "end_char": 115198
+    },
+    {
+      "text": "Section 2(2)",
+      "label": "PROVISION",
+      "start_char": 115441,
+      "end_char": 115453
+    },
+    {
+      "text": "Order 43",
+      "label": "PROVISION",
+      "start_char": 115704,
+      "end_char": 115712
+    },
+    {
+      "text": "Section 104",
+      "label": "PROVISION",
+      "start_char": 115775,
+      "end_char": 115786
+    },
+    {
+      "text": "S. 104",
+      "label": "PROVISION",
+      "start_char": 115917,
+      "end_char": 115923
+    },
+    {
+      "text": "Section 104 and Order 43 Rule I",
+      "label": "PROVISION",
+      "start_char": 116010,
+      "end_char": 116041
+    },
+    {
+      "text": "S. 2(2)",
+      "label": "PROVISION",
+      "start_char": 116126,
+      "end_char": 116133
+    },
+    {
+      "text": "S. 104",
+      "label": "PROVISION",
+      "start_char": 116155,
+      "end_char": 116161
+    },
+    {
+      "text": "section 96",
+      "label": "PROVISION",
+      "start_char": 116197,
+      "end_char": 116207
+    },
+    {
+      "text": "S. 104",
+      "label": "PROVISION",
+      "start_char": 116231,
+      "end_char": 116237
+    },
+    {
+      "text": "Arbitration Act 1940",
+      "label": "STATUTE",
+      "start_char": 116254,
+      "end_char": 116274
+    },
+    {
+      "text": "Section 105",
+      "label": "PROVISION",
+      "start_char": 116276,
+      "end_char": 116287
+    },
+    {
+      "text": "Order 43 Rule 1",
+      "label": "PROVISION",
+      "start_char": 117007,
+      "end_char": 117022
+    },
+    {
+      "text": "S. 104",
+      "label": "PROVISION",
+      "start_char": 117046,
+      "end_char": 117052
+    },
+    {
+      "text": "Hubtown",
+      "label": "GPE",
+      "start_char": 117188,
+      "end_char": 117195
+    },
+    {
+      "text": "Sushila Singhania",
+      "label": "OTHER_PERSON",
+      "start_char": 117216,
+      "end_char": 117233
+    },
+    {
+      "text": "Hubtown",
+      "label": "GPE",
+      "start_char": 117270,
+      "end_char": 117277
+    },
+    {
+      "text": "Hubtown",
+      "label": "GPE",
+      "start_char": 117438,
+      "end_char": 117445
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 117491,
+      "end_char": 117504
+    },
+    {
+      "text": "Midnapore Peoples' Co",
+      "label": "ORG",
+      "start_char": 117520,
+      "end_char": 117541
+    },
+    {
+      "text": "Bank Ltd.",
+      "label": "ORG",
+      "start_char": 117546,
+      "end_char": 117555
+    },
+    {
+      "text": "Chunilal Nanda",
+      "label": "RESPONDENT",
+      "start_char": 117567,
+      "end_char": 117581
+    },
+    {
+      "text": "AIR 2006 SC 2190",
+      "label": "PRECEDENT",
+      "start_char": 117601,
+      "end_char": 117617
+    },
+    {
+      "text": "Act 4 of 2016",
+      "label": "STATUTE",
+      "start_char": 117642,
+      "end_char": 117655
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 117702,
+      "end_char": 117731
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 117794,
+      "end_char": 117815
+    },
+    {
+      "text": "Hubtown",
+      "label": "GPE",
+      "start_char": 117890,
+      "end_char": 117897
+    },
+    {
+      "text": "section 13",
+      "label": "PROVISION",
+      "start_char": 117907,
+      "end_char": 117917
+    },
+    {
+      "text": "section 13(1)",
+      "label": "PROVISION",
+      "start_char": 118117,
+      "end_char": 118130
+    },
+    {
+      "text": "Hubtown",
+      "label": "GPE",
+      "start_char": 118379,
+      "end_char": 118386
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 118537,
+      "end_char": 118566
+    },
+    {
+      "text": "section 13(1)",
+      "label": "PROVISION",
+      "start_char": 118666,
+      "end_char": 118679
+    },
+    {
+      "text": "sections 8, 13(2)",
+      "label": "PROVISION",
+      "start_char": 118737,
+      "end_char": 118754
+    },
+    {
+      "text": "sub-section (1) of section 13",
+      "label": "PROVISION",
+      "start_char": 118850,
+      "end_char": 118879
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 119027,
+      "end_char": 119038
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 119046,
+      "end_char": 119075
+    },
+    {
+      "text": "Act 4 of 2016",
+      "label": "STATUTE",
+      "start_char": 119095,
+      "end_char": 119108
+    },
+    {
+      "text": "Arbitration & Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 119146,
+      "end_char": 119182
+    },
+    {
+      "text": "Hubtown",
+      "label": "GPE",
+      "start_char": 119357,
+      "end_char": 119364
+    },
+    {
+      "text": "Sushila Singhania",
+      "label": "OTHER_PERSON",
+      "start_char": 119374,
+      "end_char": 119391
+    },
+    {
+      "text": "section 13(2)",
+      "label": "PROVISION",
+      "start_char": 119416,
+      "end_char": 119429
+    },
+    {
+      "text": "Act 4 of 2016",
+      "label": "STATUTE",
+      "start_char": 119678,
+      "end_char": 119691
+    },
+    {
+      "text": "Hubtown",
+      "label": "GPE",
+      "start_char": 119715,
+      "end_char": 119722
+    },
+    {
+      "text": "Hubtown",
+      "label": "GPE",
+      "start_char": 119900,
+      "end_char": 119907
+    },
+    {
+      "text": "sub-section (1) of section 13",
+      "label": "PROVISION",
+      "start_char": 120177,
+      "end_char": 120206
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 120560,
+      "end_char": 120571
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 120579,
+      "end_char": 120608
+    },
+    {
+      "text": "section 13(1)",
+      "label": "PROVISION",
+      "start_char": 120710,
+      "end_char": 120723
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 120769,
+      "end_char": 120792
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 120835,
+      "end_char": 120856
+    },
+    {
+      "text": "Sushila Singhania",
+      "label": "OTHER_PERSON",
+      "start_char": 121206,
+      "end_char": 121223
+    },
+    {
+      "text": "section 13",
+      "label": "PROVISION",
+      "start_char": 121373,
+      "end_char": 121383
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 121728,
+      "end_char": 121738
+    },
+    {
+      "text": "Arbitration & Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 121746,
+      "end_char": 121782
+    },
+    {
+      "text": "section 13(1)",
+      "label": "PROVISION",
+      "start_char": 122111,
+      "end_char": 122124
+    },
+    {
+      "text": "section 13",
+      "label": "PROVISION",
+      "start_char": 122212,
+      "end_char": 122222
+    },
+    {
+      "text": "proviso to sub-section (1) of section 13",
+      "label": "PROVISION",
+      "start_char": 122264,
+      "end_char": 122304
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 122594,
+      "end_char": 122604
+    },
+    {
+      "text": "Arbitration & Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 122612,
+      "end_char": 122648
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 122678,
+      "end_char": 122699
+    },
+    {
+      "text": "Sushila Singhania",
+      "label": "OTHER_PERSON",
+      "start_char": 122995,
+      "end_char": 123012
+    },
+    {
+      "text": "section 13 (1)",
+      "label": "PROVISION",
+      "start_char": 123117,
+      "end_char": 123131
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 123275,
+      "end_char": 123288
+    },
+    {
+      "text": "Shah Babulal Khimji",
+      "label": "PRECEDENT",
+      "start_char": 123292,
+      "end_char": 123311
+    },
+    {
+      "text": "section 37",
+      "label": "PROVISION",
+      "start_char": 123601,
+      "end_char": 123611
+    },
+    {
+      "text": "Arbitration & Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 123619,
+      "end_char": 123655
+    },
+    {
+      "text": "sub-section (1) of section 13",
+      "label": "PROVISION",
+      "start_char": 123681,
+      "end_char": 123710
+    },
+    {
+      "text": "sub- section (1) of section 13",
+      "label": "PROVISION",
+      "start_char": 123831,
+      "end_char": 123861
+    },
+    {
+      "text": "Sushila Singhania",
+      "label": "OTHER_PERSON",
+      "start_char": 123935,
+      "end_char": 123952
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 124179,
+      "end_char": 124192
+    },
+    {
+      "text": "Saraf",
+      "label": "OTHER_PERSON",
+      "start_char": 124855,
+      "end_char": 124860
+    },
+    {
+      "text": "section 13(1)",
+      "label": "PROVISION",
+      "start_char": 124981,
+      "end_char": 124994
+    },
+    {
+      "text": "section 2(2)",
+      "label": "PROVISION",
+      "start_char": 125335,
+      "end_char": 125347
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 125355,
+      "end_char": 125378
+    },
+    {
+      "text": "sub- section (2) of section 2",
+      "label": "PROVISION",
+      "start_char": 125471,
+      "end_char": 125500
+    },
+    {
+      "text": "clauses (a) and (b) of sub-section (2) of section 2",
+      "label": "PROVISION",
+      "start_char": 125873,
+      "end_char": 125924
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 126355,
+      "end_char": 126378
+    },
+    {
+      "text": "section 13(1)",
+      "label": "PROVISION",
+      "start_char": 126589,
+      "end_char": 126602
+    },
+    {
+      "text": "Supreme Court of India",
+      "label": "COURT",
+      "start_char": 126693,
+      "end_char": 126715
+    },
+    {
+      "text": "Mithailal Dalsangar Singh & Ors",
+      "label": "PRECEDENT",
+      "start_char": 127003,
+      "end_char": 127034
+    },
+    {
+      "text": "Annabai Devram Kini",
+      "label": "RESPONDENT",
+      "start_char": 127040,
+      "end_char": 127059
+    },
+    {
+      "text": "(2003) 10 SCC 691 : AIR 2003 SC 4244",
+      "label": "PRECEDENT",
+      "start_char": 127067,
+      "end_char": 127103
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 127117,
+      "end_char": 127130
+    },
+    {
+      "text": "Shah Babu Lal Khimji vs. Behan D. Kangro AIR 1981 SC 1786",
+      "label": "PRECEDENT",
+      "start_char": 127568,
+      "end_char": 127625
+    },
+    {
+      "text": "Section 104",
+      "label": "PROVISION",
+      "start_char": 128067,
+      "end_char": 128078
+    },
+    {
+      "text": "Order 43 Rule 1",
+      "label": "PROVISION",
+      "start_char": 128089,
+      "end_char": 128104
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 128127,
+      "end_char": 128130
+    },
+    {
+      "text": "Section 104",
+      "label": "PROVISION",
+      "start_char": 128238,
+      "end_char": 128249
+    },
+    {
+      "text": "Order 43 Rule 1",
+      "label": "PROVISION",
+      "start_char": 128260,
+      "end_char": 128275
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 128276,
+      "end_char": 128279
+    },
+    {
+      "text": "Order 43 Rule 1",
+      "label": "PROVISION",
+      "start_char": 128350,
+      "end_char": 128365
+    },
+    {
+      "text": "Section 104",
+      "label": "PROVISION",
+      "start_char": 128503,
+      "end_char": 128514
+    },
+    {
+      "text": "Rule 1 of Order 43",
+      "label": "PROVISION",
+      "start_char": 128525,
+      "end_char": 128543
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 128551,
+      "end_char": 128554
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 129258,
+      "end_char": 129277
+    },
+    {
+      "text": "Nurul Hoda",
+      "label": "OTHER_PERSON",
+      "start_char": 129281,
+      "end_char": 129291
+    },
+    {
+      "text": "Amir Hasan",
+      "label": "RESPONDENT",
+      "start_char": 129305,
+      "end_char": 129315
+    },
+    {
+      "text": "AIR 1972 Cal 449",
+      "label": "PRECEDENT",
+      "start_char": 129325,
+      "end_char": 129341
+    },
+    {
+      "text": "Punjab High Court",
+      "label": "COURT",
+      "start_char": 129382,
+      "end_char": 129399
+    },
+    {
+      "text": "Chando Devi vs. Municipal Committee, Delhi AIR 1961 Punjab 424",
+      "label": "PRECEDENT",
+      "start_char": 129408,
+      "end_char": 129470
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 129482,
+      "end_char": 129499
+    },
+    {
+      "text": "Maria Flaviana Almeida",
+      "label": "OTHER_PERSON",
+      "start_char": 129503,
+      "end_char": 129525
+    },
+    {
+      "text": "Ramchandra Santuram Asavie and Ors., AIR 1938 Bombay 408",
+      "label": "PRECEDENT",
+      "start_char": 129539,
+      "end_char": 129595
+    },
+    {
+      "text": "Nurul Hoda",
+      "label": "OTHER_PERSON",
+      "start_char": 129619,
+      "end_char": 129629
+    },
+    {
+      "text": "Sabyasachi Mukharji",
+      "label": "JUDGE",
+      "start_char": 129646,
+      "end_char": 129665
+    },
+    {
+      "text": "Punjab High Court",
+      "label": "COURT",
+      "start_char": 130022,
+      "end_char": 130039
+    },
+    {
+      "text": "D. Falshaw",
+      "label": "JUDGE",
+      "start_char": 130055,
+      "end_char": 130065
+    },
+    {
+      "text": "G.L. Chopra",
+      "label": "JUDGE",
+      "start_char": 130070,
+      "end_char": 130081
+    },
+    {
+      "text": "Chando Devi",
+      "label": "PRECEDENT",
+      "start_char": 130096,
+      "end_char": 130107
+    },
+    {
+      "text": "Maria Flaviana Almeida",
+      "label": "OTHER_PERSON",
+      "start_char": 130538,
+      "end_char": 130560
+    },
+    {
+      "text": "Beaumont",
+      "label": "JUDGE",
+      "start_char": 130598,
+      "end_char": 130606
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 131298,
+      "end_char": 131311
+    },
+    {
+      "text": "Bhag Mal alias Ram Bux",
+      "label": "OTHER_PERSON",
+      "start_char": 131497,
+      "end_char": 131519
+    },
+    {
+      "text": "Munshi",
+      "label": "RESPONDENT",
+      "start_char": 131531,
+      "end_char": 131537
+    },
+    {
+      "text": "(2007) 11 SCC 285",
+      "label": "PRECEDENT",
+      "start_char": 131552,
+      "end_char": 131569
+    },
+    {
+      "text": "Midnapore Peoples' Co-op",
+      "label": "ORG",
+      "start_char": 131760,
+      "end_char": 131784
+    },
+    {
+      "text": "Bank Ltd.",
+      "label": "ORG",
+      "start_char": 131786,
+      "end_char": 131795
+    },
+    {
+      "text": "Chunilal Nanda",
+      "label": "RESPONDENT",
+      "start_char": 131807,
+      "end_char": 131821
+    },
+    {
+      "text": "5 SCC 399 : AIR 2006 SC 2190",
+      "label": "PRECEDENT",
+      "start_char": 131836,
+      "end_char": 131864
+    },
+    {
+      "text": "Hubtown",
+      "label": "GPE",
+      "start_char": 131959,
+      "end_char": 131966
+    },
+    {
+      "text": "Subal Paul vs Malina Paul AIR 2003 SC 1928 : (2003) COMAP40.16.doc 10 SCC 361",
+      "label": "PRECEDENT",
+      "start_char": 132035,
+      "end_char": 132112
+    },
+    {
+      "text": "Liverpool & London S.P. & I Association Ltd. vs. M.V. Sea Success 1 & Anr",
+      "label": "PRECEDENT",
+      "start_char": 132189,
+      "end_char": 132262
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 132322,
+      "end_char": 132335
+    },
+    {
+      "text": "P.S. Sathappan vs. Andhra Bank Limited & Ors",
+      "label": "PRECEDENT",
+      "start_char": 132373,
+      "end_char": 132417
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 132677,
+      "end_char": 132690
+    },
+    {
+      "text": "sub-section (1) of section 13",
+      "label": "PROVISION",
+      "start_char": 132739,
+      "end_char": 132768
+    },
+    {
+      "text": "Banarasi",
+      "label": "OTHER_PERSON",
+      "start_char": 132860,
+      "end_char": 132868
+    },
+    {
+      "text": "Ram Phal AIR 2003 SC 1989",
+      "label": "PRECEDENT",
+      "start_char": 132880,
+      "end_char": 132905
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 132954,
+      "end_char": 132967
+    },
+    {
+      "text": "sections 96 and 100",
+      "label": "PROVISION",
+      "start_char": 132986,
+      "end_char": 133005
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 133013,
+      "end_char": 133036
+    },
+    {
+      "text": "Section 96",
+      "label": "PROVISION",
+      "start_char": 133038,
+      "end_char": 133048
+    },
+    {
+      "text": "section 100",
+      "label": "PROVISION",
+      "start_char": 133116,
+      "end_char": 133127
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 133201,
+      "end_char": 133214
+    },
+    {
+      "text": "Sections 96 and 100",
+      "label": "PROVISION",
+      "start_char": 133233,
+      "end_char": 133252
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 133260,
+      "end_char": 133263
+    },
+    {
+      "text": "Phoolchand and another v. Gopal Lal 1967 (3) SCR 153",
+      "label": "PRECEDENT",
+      "start_char": 133722,
+      "end_char": 133774
+    },
+    {
+      "text": "Jatan Kanwar Golcha v. M/s. Golcha Properties (P) Ltd., 1970 (3) SCC 573",
+      "label": "PRECEDENT",
+      "start_char": 133781,
+      "end_char": 133853
+    },
+    {
+      "text": "Ganga Bai v. Vijay Kumar and others",
+      "label": "PRECEDENT",
+      "start_char": 133860,
+      "end_char": 133895
+    },
+    {
+      "text": "(1974) 2 SCC 393",
+      "label": "PRECEDENT",
+      "start_char": 133899,
+      "end_char": 133915
+    },
+    {
+      "text": "Sections 96 and 100",
+      "label": "PROVISION",
+      "start_char": 133992,
+      "end_char": 134011
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 134019,
+      "end_char": 134022
+    },
+    {
+      "text": "Hardevinder Singh vs. Paramjit Singh & Ors",
+      "label": "PRECEDENT",
+      "start_char": 134196,
+      "end_char": 134238
+    },
+    {
+      "text": "sub- section (1) of section 13",
+      "label": "PROVISION",
+      "start_char": 134378,
+      "end_char": 134408
+    },
+    {
+      "text": "section 13(1)",
+      "label": "PROVISION",
+      "start_char": 134527,
+      "end_char": 134540
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 134800,
+      "end_char": 134811
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 134819,
+      "end_char": 134822
+    },
+    {
+      "text": "Saraf",
+      "label": "OTHER_PERSON",
+      "start_char": 135813,
+      "end_char": 135818
+    },
+    {
+      "text": "Hubtown",
+      "label": "OTHER_PERSON",
+      "start_char": 136324,
+      "end_char": 136331
+    },
+    {
+      "text": "Sushila Singhania",
+      "label": "OTHER_PERSON",
+      "start_char": 136391,
+      "end_char": 136408
+    },
+    {
+      "text": "Act 4 of 2016",
+      "label": "STATUTE",
+      "start_char": 136933,
+      "end_char": 136946
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "start_char": 137098,
+      "end_char": 137108
+    },
+    {
+      "text": "sub- section (1) of section 13",
+      "label": "PROVISION",
+      "start_char": 137306,
+      "end_char": 137336
+    },
+    {
+      "text": "Kadam",
+      "label": "LAWYER",
+      "start_char": 137392,
+      "end_char": 137397
+    },
+    {
+      "text": "Saraf",
+      "label": "OTHER_PERSON",
+      "start_char": 137450,
+      "end_char": 137455
+    },
+    {
+      "text": "Kirpekar",
+      "label": "OTHER_PERSON",
+      "start_char": 137464,
+      "end_char": 137472
+    },
+    {
+      "text": "Rohan Kadam",
+      "label": "LAWYER",
+      "start_char": 137674,
+      "end_char": 137685
+    },
+    {
+      "text": "Saraf",
+      "label": "OTHER_PERSON",
+      "start_char": 137755,
+      "end_char": 137760
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 138083,
+      "end_char": 138096
+    },
+    {
+      "text": "Saraf COMAP40.16.doc",
+      "label": "OTHER_PERSON",
+      "start_char": 138241,
+      "end_char": 138261
+    },
+    {
+      "text": "Act 4 of 2016",
+      "label": "STATUTE",
+      "start_char": 138299,
+      "end_char": 138312
+    },
+    {
+      "text": "PRAKASH D. NAIK",
+      "label": "JUDGE",
+      "start_char": 138431,
+      "end_char": 138446
+    },
+    {
+      "text": "S.C. DHARMADHIKARI",
+      "label": "JUDGE",
+      "start_char": 138451,
+      "end_char": 138469
+    }
+  ],
+  "precedent_clusters": {
+    "Relation to Management of Central Mine Panning and Design Institute Ltd. vs. Union of India & anr.": [
+      "Ltd. v. Nusli Neville Wadia & Ors",
+      "Hubtown Limited vs. IDBI Trusteeship Service Ltd",
+      "Shri Prakash Gobindram Ahuja vs. Ganesh Pandharinath Dhonde & Ors",
+      "Commissioner of Central Excise, Indore vs. Grasim Industries Limited and",
+      "Gaurav Jain and Anr",
+      "Shah Babulal Khimji v. Jayaben D. Kania & anr and",
+      "Tirumalachetti Rajaram vs. Tirumalachetti Radhakrishnayya Chetty and Others",
+      "Relation to Management of Central Mine Panning and Design Institute Ltd. vs. Union of India & anr.",
+      "Asrumati Debi Vs.",
+      "Dayabhai Vs.",
+      "Tuljaram Vs.",
+      "Sonebai Vs.",
+      "Shah Babulal Khimji Vs.",
+      "Mithailal Dalsangar Singh & Ors",
+      "Liverpool & London S.P. & I Association Ltd. vs. M.V. Sea Success 1 & Anr",
+      "P.S. Sathappan vs. Andhra Bank Limited & Ors",
+      "Ganga Bai v. Vijay Kumar and others",
+      "Hardevinder Singh vs. Paramjit Singh & Ors",
+      "Shah Babulal Khimji",
+      "Shah Babulal Khimji",
+      "Shah Babulal Khimji"
+    ],
+    "Shah Babulal Khimji vs Jayaben D. Kania & Anr., AIR 1981 SC 1786": [
+      "Shah Babulal Khimji vs Jayaben D. Kania & Anr., AIR 1981 SC 1786",
+      "Shah Babu Lal Khimji vs. Behan D. Kangro AIR 1981 SC 1786"
+    ],
+    "Chando Devi vs. Municipal Committee, Delhi AIR 1961 Punjab 424": [
+      "Chando Devi vs. Municipal Committee, Delhi AIR 1961 Punjab 424",
+      "Chando Devi"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "section 9-A",
+      "Code of Civil Procedure, 1908",
+      "section 9-A",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order XLIII",
+      "Code of Civil Procedure",
+      "Order XLIII",
+      "Code of Civil Procedure"
+    ],
+    [
+      "proviso to sub-section (1) of section 13",
+      "Act 4 of 2016",
+      "proviso to sub-section (1) of section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "section 37",
+      "Arbitration & Conciliation Act, 1996",
+      "section 37",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "sub-section (1) of section 13",
+      "Act 4 of 2016",
+      "sub-section (1) of section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "section 9-A",
+      "Code of Civil Procedure, 1908",
+      "section 9-A",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "section 9-A",
+      "Code of Civil Procedure",
+      "section 9-A",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Order XIV",
+      "Code of Civil Procedure",
+      "Order XIV",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Order XXXVII",
+      "Code of Civil Procedure, 1908",
+      "Order XXXVII",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order XLIII",
+      "CPC",
+      "Order XLIII",
+      "CPC"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 21",
+      "Commercial Courts Act",
+      "Section 21",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "order XLIII",
+      "CPC",
+      "order XLIII",
+      "CPC"
+    ],
+    [
+      "Section 13",
+      "CPC",
+      "Section 13",
+      "CPC"
+    ],
+    [
+      "Order XXXVII",
+      "CPC",
+      "Order XXXVII",
+      "CPC"
+    ],
+    [
+      "Section 16",
+      "Commercial Courts Act",
+      "Section 16",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order XIII-A, Rule 1(3)",
+      "CPC",
+      "Order XIII-A, Rule 1(3)",
+      "CPC"
+    ],
+    [
+      "Section 13(1)",
+      "Commercial Courts Act",
+      "Section 13(1)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order XLIII",
+      "CPC",
+      "Order XLIII",
+      "CPC"
+    ],
+    [
+      "Section 13(1)",
+      "Commercial Courts Act",
+      "Section 13(1)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "section 13",
+      "Code of Civil Procedure",
+      "section 13",
+      "Code of Civil Procedure"
+    ],
+    [
+      "proviso to section 13(1)",
+      "Act 4 of 2016",
+      "proviso to section 13(1)",
+      "Act 4 of 2016"
+    ],
+    [
+      "section 20",
+      "Arbitration Act, 1940",
+      "section 20",
+      "Arbitration Act, 1940"
+    ],
+    [
+      "section 34",
+      "Arbitration & Conciliation Act, 1996",
+      "section 34",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "section 37",
+      "Arbitration & Conciliation Act, 1996",
+      "section 37",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Order XXI",
+      "Code of Civil Procedure, 1908",
+      "Order XXI",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order XXI Rule 22",
+      "Code of Civil Procedure",
+      "Order XXI Rule 22",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 2",
+      "CPC",
+      "Section 2",
+      "CPC"
+    ],
+    [
+      "paras 112 and 113",
+      "CPC",
+      "paras 112 and 113",
+      "CPC"
+    ],
+    [
+      "Article 133(1)",
+      "Constitution",
+      "Article 133(1)",
+      "Constitution"
+    ],
+    [
+      "Section 110",
+      "CPC",
+      "Section 110",
+      "CPC"
+    ],
+    [
+      "Article 133",
+      "Constitution of India",
+      "Article 133",
+      "Constitution of India"
+    ],
+    [
+      "section 37",
+      "Arbitration Act",
+      "section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Sub-section (2) of section 2",
+      "Code of Civil Procedure, 1908",
+      "Sub-section (2) of section 2",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Chapter II",
+      "Constitution of Commercial Courts",
+      "Chapter II",
+      "Constitution of Commercial Courts"
+    ],
+    [
+      "Section 3",
+      "Constitution of Commercial Courts",
+      "Section 3",
+      "Constitution of Commercial Courts"
+    ],
+    [
+      "sections 16 to 20",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "sections 16 to 20",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "sub-section (4) of section 22",
+      "Act, 2000",
+      "sub-section (4) of section 22",
+      "Act, 2000"
+    ],
+    [
+      "section 104",
+      "Patents Act, 1970 (39 of 1970)",
+      "section 104",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "section 115",
+      "Code of Civil Procedure, 1908",
+      "section 115",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order XLIII",
+      "Code of Civil Procedure, 1908",
+      "Order XLIII",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "section 37",
+      "Arbitration and Conciliation Act, 1996",
+      "section 37",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Chapter VI",
+      "Code of Civil Procedure, 1908",
+      "Chapter VI",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "sub-section (2) of section 16",
+      "Code of Civil Procedure",
+      "sub-section (2) of section 16",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Order XLIII Rule 1",
+      "Code of Civil Procedure",
+      "Order XLIII Rule 1",
+      "Code of Civil Procedure"
+    ],
+    [
+      "clauses (r) and (s) of Order XLIII Rule 1",
+      "Code of Civil Procedure, 1908",
+      "clauses (r) and (s) of Order XLIII Rule 1",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order XLIII Rule 1",
+      "Code of Civil Procedure,1908,",
+      "Order XLIII Rule 1",
+      "Code of Civil Procedure,1908,"
+    ],
+    [
+      "section 104",
+      "Code of 1908",
+      "section 104",
+      "Code of 1908"
+    ],
+    [
+      "Section 5",
+      "Code of 1908",
+      "Section 5",
+      "Code of 1908"
+    ],
+    [
+      "Section 4(1)",
+      "Code of 1908",
+      "Section 4(1)",
+      "Code of 1908"
+    ],
+    [
+      "s. 104",
+      "Code of 1908",
+      "s. 104",
+      "Code of 1908"
+    ],
+    [
+      "Order 37",
+      "Code of Civil Procedure",
+      "Order 37",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Order XLIII",
+      "Code of Civil Procedure",
+      "Order XLIII",
+      "Code of Civil Procedure"
+    ],
+    [
+      "section 2(9)",
+      "Code of Civil Procedure",
+      "section 2(9)",
+      "Code of Civil Procedure"
+    ],
+    [
+      "section 97",
+      "Code of Civil Procedure",
+      "section 97",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Article 225",
+      "Constitution of India",
+      "Article 225",
+      "Constitution of India"
+    ],
+    [
+      "Section 107",
+      "Government of India Act, 1915",
+      "Section 107",
+      "Government of India Act, 1915"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Section 2(9)",
+      "Code of Civil Procedure",
+      "Section 2(9)",
+      "Code of Civil Procedure"
+    ],
+    [
+      "section 2(9)",
+      "Code of Civil Procedure",
+      "section 2(9)",
+      "Code of Civil Procedure"
+    ],
+    [
+      "S. 104",
+      "Arbitration Act 1940",
+      "S. 104",
+      "Arbitration Act 1940"
+    ],
+    [
+      "Order XLIII",
+      "Code of Civil Procedure, 1908",
+      "Order XLIII",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "sub-section (1) of section 13",
+      "Act 4 of 2016",
+      "sub-section (1) of section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "section 13(2)",
+      "Act 4 of 2016",
+      "section 13(2)",
+      "Act 4 of 2016"
+    ],
+    [
+      "Order XLIII",
+      "Code of Civil Procedure, 1908",
+      "Order XLIII",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "section 37",
+      "Arbitration & Conciliation Act, 1996",
+      "section 37",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "section 37",
+      "Arbitration & Conciliation Act, 1996",
+      "section 37",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "section 37",
+      "Arbitration & Conciliation Act, 1996",
+      "section 37",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "section 2(2)",
+      "Code of Civil Procedure",
+      "section 2(2)",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Order 43 Rule 1",
+      "CPC",
+      "Order 43 Rule 1",
+      "CPC"
+    ],
+    [
+      "Order 43 Rule 1",
+      "CPC",
+      "Order 43 Rule 1",
+      "CPC"
+    ],
+    [
+      "Rule 1 of Order 43",
+      "CPC",
+      "Rule 1 of Order 43",
+      "CPC"
+    ],
+    [
+      "sections 96 and 100",
+      "Code of Civil Procedure",
+      "sections 96 and 100",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Sections 96 and 100",
+      "CPC",
+      "Sections 96 and 100",
+      "CPC"
+    ],
+    [
+      "Sections 96 and 100",
+      "CPC",
+      "Sections 96 and 100",
+      "CPC"
+    ],
+    [
+      "Order XLIII",
+      "CPC",
+      "Order XLIII",
+      "CPC"
+    ],
+    [
+      "section 13",
+      "Act 4 of 2016",
+      "section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "sub-section (1) of section 13",
+      "Act 4 of 2016",
+      "sub-section (1) of section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "section 13",
+      "Act 4 of 2016",
+      "section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 9-A",
+      "Code of Civil Procedure, 1908",
+      "Section 9-A",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "section 9-A",
+      "Code of Civil Procedure, 1908",
+      "section 9-A",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Chapter II",
+      "Constitution of Commercial Courts",
+      "Chapter II",
+      "Constitution of Commercial Courts"
+    ],
+    [
+      "section 13",
+      "Act 4 of 2016",
+      "section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "Chapter II",
+      "Constitution of Commercial Courts",
+      "Chapter II",
+      "Constitution of Commercial Courts"
+    ],
+    [
+      "Section 13",
+      "Act 4 of 2016",
+      "Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 13(1) read with Section 13(2)",
+      "Act 4 of 2016",
+      "Section 13(1) read with Section 13(2)",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 13(1)",
+      "Act 4 of 2016",
+      "Section 13(1)",
+      "Act 4 of 2016"
+    ],
+    [
+      "Sections 8, 13(2)",
+      "Act 4 of 2016",
+      "Sections 8, 13(2)",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 13(1)",
+      "Act 4 of 2016",
+      "Section 13(1)",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 13",
+      "Act 4 of 2016",
+      "Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 13(2)",
+      "Act 4 of 2016",
+      "Section 13(2)",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 13(2)",
+      "Commercial Courts Act",
+      "Section 13(2)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13(1) and (2)",
+      "Commercial Courts Act",
+      "Section 13(1) and (2)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13(1)",
+      "Commercial Courts Act",
+      "Section 13(1)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13(1)",
+      "Commercial Courts Act",
+      "Section 13(1)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13(1)",
+      "Commercial Courts Act",
+      "Section 13(1)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order XIII-A",
+      "CPC",
+      "Order XIII-A",
+      "CPC"
+    ],
+    [
+      "Order XXXVII",
+      "Code of Civil Procedure, 1908",
+      "Order XXXVII",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order XXXVII",
+      "Code of Civil Procedure, 1908",
+      "Order XXXVII",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 13",
+      "CPC",
+      "Section 13",
+      "CPC"
+    ],
+    [
+      "proviso to Section 13(1)",
+      "CPC",
+      "proviso to Section 13(1)",
+      "CPC"
+    ],
+    [
+      "Section 13",
+      "CPC",
+      "Section 13",
+      "CPC"
+    ],
+    [
+      "Order XLIII",
+      "CPC",
+      "Order XLIII",
+      "CPC"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 8",
+      "CPC",
+      "Section 8",
+      "CPC"
+    ],
+    [
+      "Section 8",
+      "CPC",
+      "Section 8",
+      "CPC"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13(1)",
+      "Commercial Courts Act",
+      "Section 13(1)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "section 13",
+      "Code of Civil Procedure",
+      "section 13",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 13",
+      "Code of Civil Procedure",
+      "Section 13",
+      "Code of Civil Procedure"
+    ],
+    [
+      "order XLIII",
+      "CPC",
+      "order XLIII",
+      "CPC"
+    ],
+    [
+      "sub-section (1) of section 13",
+      "Act 4 of 2016",
+      "sub-section (1) of section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 104 or Order XLIII",
+      "CPC",
+      "Section 104 or Order XLIII",
+      "CPC"
+    ],
+    [
+      "sub-section (1) of Section 13",
+      "Act 4 of 2016",
+      "sub-section (1) of Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "section 13",
+      "Act 4 of 2016",
+      "section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "section 2",
+      "CPC",
+      "section 2",
+      "CPC"
+    ],
+    [
+      "sub-section (1) of section 5",
+      "Code of 1908",
+      "sub-section (1) of section 5",
+      "Code of 1908"
+    ],
+    [
+      "sub-section (1) of section 3",
+      "Constitution of Commercial Courts",
+      "sub-section (1) of section 3",
+      "Constitution of Commercial Courts"
+    ],
+    [
+      "section 2",
+      "CPC",
+      "section 2",
+      "CPC"
+    ],
+    [
+      "Sub-section (2) of section 3",
+      "Constitution of Commercial Courts",
+      "Sub-section (2) of section 3",
+      "Constitution of Commercial Courts"
+    ],
+    [
+      "Sub-section (3) of section 3",
+      "Constitution of Commercial Courts",
+      "Sub-section (3) of section 3",
+      "Constitution of Commercial Courts"
+    ],
+    [
+      "Section 4",
+      "Code of 1908",
+      "Section 4",
+      "Code of 1908"
+    ],
+    [
+      "Section 5",
+      "Code of 1908",
+      "Section 5",
+      "Code of 1908"
+    ],
+    [
+      "sub- section (1) of section 3 or under sub-section (1) of section 4",
+      "Code of 1908",
+      "sub- section (1) of section 3 or under sub-section (1) of section 4",
+      "Code of 1908"
+    ],
+    [
+      "sub-section (2) of section 5",
+      "Code of 1908",
+      "sub-section (2) of section 5",
+      "Code of 1908"
+    ],
+    [
+      "proviso to this section 7",
+      "Patents Act, 1970 (39 of 1970)",
+      "proviso to this section 7",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "section 7",
+      "Patents Act, 1970 (39 of 1970)",
+      "section 7",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "Section 8",
+      "CPC",
+      "Section 8",
+      "CPC"
+    ],
+    [
+      "section 13",
+      "Act 4 of 2016",
+      "section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "section 13",
+      "Act 4 of 2016",
+      "section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "section 13",
+      "Act 4 of 2016",
+      "section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "section 13",
+      "Act 4 of 2016",
+      "section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "section 8",
+      "CPC",
+      "section 8",
+      "CPC"
+    ],
+    [
+      "Sub-section (2) of section 9",
+      "Patents Act, 1970 (39 of 1970)",
+      "Sub-section (2) of section 9",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "sub-section (1) of section 9",
+      "Patents Act, 1970 (39 of 1970)",
+      "sub-section (1) of section 9",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "sections 10 and 11",
+      "Code of Civil Procedure",
+      "sections 10 and 11",
+      "Code of Civil Procedure"
+    ],
+    [
+      "section 12",
+      "Act 4 of 2016",
+      "section 12",
+      "Act 4 of 2016"
+    ],
+    [
+      "section 12",
+      "Act 4 of 2016",
+      "section 12",
+      "Act 4 of 2016"
+    ],
+    [
+      "sub- section (3) of section 12",
+      "Act 4 of 2016",
+      "sub- section (3) of section 12",
+      "Act 4 of 2016"
+    ],
+    [
+      "sections 13 and 14",
+      "Act 4 of 2016",
+      "sections 13 and 14",
+      "Act 4 of 2016"
+    ],
+    [
+      "Chapter IV",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Act 4 of 2016",
+      "Chapter IV",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Act 4 of 2016"
+    ],
+    [
+      "section 20",
+      "Arbitration Act, 1940",
+      "section 20",
+      "Arbitration Act, 1940"
+    ],
+    [
+      "Section 21",
+      "Commercial Courts Act",
+      "Section 21",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 22",
+      "Act, 2000",
+      "Section 22",
+      "Act, 2000"
+    ],
+    [
+      "Section 13",
+      "Act 4 of 2016",
+      "Section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "section 13",
+      "Act 4 of 2016",
+      "section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "sub-section (2) of section 13",
+      "Act 4 of 2016",
+      "sub-section (2) of section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "section 13",
+      "Act 4 of 2016",
+      "section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "section 104",
+      "Patents Act, 1970 (39 of 1970)",
+      "section 104",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "Section 104",
+      "Patents Act, 1970 (39 of 1970)",
+      "Section 104",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "s. 4",
+      "Code of 1908",
+      "s. 4",
+      "Code of 1908"
+    ],
+    [
+      "s. 104",
+      "Code of 1908",
+      "s. 104",
+      "Code of 1908"
+    ],
+    [
+      "clauses (1) to (6) of Rule 3",
+      "Code of 1908",
+      "clauses (1) to (6) of Rule 3",
+      "Code of 1908"
+    ],
+    [
+      "order 43 Rule 1",
+      "Code of 1908",
+      "order 43 Rule 1",
+      "Code of 1908"
+    ],
+    [
+      "S. 104",
+      "Arbitration Act 1940",
+      "S. 104",
+      "Arbitration Act 1940"
+    ],
+    [
+      "order 43 Rule 1",
+      "Code of 1908",
+      "order 43 Rule 1",
+      "Code of 1908"
+    ],
+    [
+      "section 104",
+      "Patents Act, 1970 (39 of 1970)",
+      "section 104",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "Order XLIII Rule 1",
+      "Code of Civil Procedure, 1908",
+      "Order XLIII Rule 1",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "section 104",
+      "Patents Act, 1970 (39 of 1970)",
+      "section 104",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "Order XLIII Rule 1",
+      "Code of Civil Procedure, 1908",
+      "Order XLIII Rule 1",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order XLIII Rule 1",
+      "Code of Civil Procedure, 1908",
+      "Order XLIII Rule 1",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "section 104",
+      "Patents Act, 1970 (39 of 1970)",
+      "section 104",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "Order XLIII Rule 1",
+      "Code of Civil Procedure, 1908",
+      "Order XLIII Rule 1",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order XLIII Rule 1",
+      "Code of Civil Procedure, 1908",
+      "Order XLIII Rule 1",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order XLIII Rule 1",
+      "Code of Civil Procedure, 1908",
+      "Order XLIII Rule 1",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order XLIII Rule 1",
+      "Code of Civil Procedure, 1908",
+      "Order XLIII Rule 1",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 104",
+      "Patents Act, 1970 (39 of 1970)",
+      "Section 104",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "Order 43 Rule 1",
+      "CPC",
+      "Order 43 Rule 1",
+      "CPC"
+    ],
+    [
+      "Section 104",
+      "Patents Act, 1970 (39 of 1970)",
+      "Section 104",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "Order 43 Rule 1",
+      "CPC",
+      "Order 43 Rule 1",
+      "CPC"
+    ],
+    [
+      "Order 43 Rule 1",
+      "CPC",
+      "Order 43 Rule 1",
+      "CPC"
+    ],
+    [
+      "section 104",
+      "Patents Act, 1970 (39 of 1970)",
+      "section 104",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "Order XLIII Rule 1",
+      "Code of Civil Procedure, 1908",
+      "Order XLIII Rule 1",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order XLIII Rule 1",
+      "Code of Civil Procedure, 1908",
+      "Order XLIII Rule 1",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order XLIII Rule 1",
+      "Code of Civil Procedure, 1908",
+      "Order XLIII Rule 1",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order XLIII Rule 1",
+      "Code of Civil Procedure, 1908",
+      "Order XLIII Rule 1",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "sub- section (2) of section 2",
+      "Code of Civil Procedure, 1908",
+      "sub- section (2) of section 2",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "clauses (a) to (w) of Order 43 Rule 1",
+      "CPC",
+      "clauses (a) to (w) of Order 43 Rule 1",
+      "CPC"
+    ],
+    [
+      "Order 43 Rule 1",
+      "CPC",
+      "Order 43 Rule 1",
+      "CPC"
+    ],
+    [
+      "Order 43 Rule 1",
+      "CPC",
+      "Order 43 Rule 1",
+      "CPC"
+    ],
+    [
+      "sub-section (2) of section 13",
+      "Act 4 of 2016",
+      "sub-section (2) of section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "sub- section (1) of section 13",
+      "Act 4 of 2016",
+      "sub- section (1) of section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "sub-section (2) of section 13",
+      "Act 4 of 2016",
+      "sub-section (2) of section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "section 13",
+      "Act 4 of 2016",
+      "section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 80",
+      "Code of Civil Procedure",
+      "Section 80",
+      "Code of Civil Procedure"
+    ],
+    [
+      "clauses (a) to (w) of Order 43 Rule 1",
+      "CPC",
+      "clauses (a) to (w) of Order 43 Rule 1",
+      "CPC"
+    ],
+    [
+      "Order XXXVII",
+      "Code of Civil Procedure, 1908",
+      "Order XXXVII",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "section 13",
+      "Act 4 of 2016",
+      "section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "section 97",
+      "Code of Civil Procedure",
+      "section 97",
+      "Code of Civil Procedure"
+    ],
+    [
+      "sub-section (1) of section 13",
+      "Act 4 of 2016",
+      "sub-section (1) of section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "section 105",
+      "Code of 1908",
+      "section 105",
+      "Code of 1908"
+    ],
+    [
+      "section 104",
+      "Patents Act, 1970 (39 of 1970)",
+      "section 104",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "section 105",
+      "Code of 1908",
+      "section 105",
+      "Code of 1908"
+    ],
+    [
+      "section 96",
+      "Code of Civil Procedure",
+      "section 96",
+      "Code of Civil Procedure"
+    ],
+    [
+      "section 105",
+      "Code of 1908",
+      "section 105",
+      "Code of 1908"
+    ],
+    [
+      "Section 2",
+      "Code of Civil Procedure",
+      "Section 2",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 2(2)",
+      "Code of Civil Procedure",
+      "Section 2(2)",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Order 43",
+      "CPC",
+      "Order 43",
+      "CPC"
+    ],
+    [
+      "Section 104",
+      "Patents Act, 1970 (39 of 1970)",
+      "Section 104",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "S. 104",
+      "Arbitration Act 1940",
+      "S. 104",
+      "Arbitration Act 1940"
+    ],
+    [
+      "Section 104 and Order 43 Rule I",
+      "Patents Act, 1970 (39 of 1970)",
+      "Section 104 and Order 43 Rule I",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "S. 104",
+      "Arbitration Act 1940",
+      "S. 104",
+      "Arbitration Act 1940"
+    ],
+    [
+      "section 96",
+      "Code of Civil Procedure",
+      "section 96",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 105",
+      "Code of 1908",
+      "Section 105",
+      "Code of 1908"
+    ],
+    [
+      "Order 43 Rule 1",
+      "CPC",
+      "Order 43 Rule 1",
+      "CPC"
+    ],
+    [
+      "S. 104",
+      "Arbitration Act 1940",
+      "S. 104",
+      "Arbitration Act 1940"
+    ],
+    [
+      "section 13",
+      "Act 4 of 2016",
+      "section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "section 13(1)",
+      "Act 4 of 2016",
+      "section 13(1)",
+      "Act 4 of 2016"
+    ],
+    [
+      "section 13(1)",
+      "Act 4 of 2016",
+      "section 13(1)",
+      "Act 4 of 2016"
+    ],
+    [
+      "sections 8, 13(2)",
+      "Act 4 of 2016",
+      "sections 8, 13(2)",
+      "Act 4 of 2016"
+    ],
+    [
+      "sub-section (1) of section 13",
+      "Act 4 of 2016",
+      "sub-section (1) of section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "section 13(1)",
+      "Act 4 of 2016",
+      "section 13(1)",
+      "Act 4 of 2016"
+    ],
+    [
+      "section 13",
+      "Act 4 of 2016",
+      "section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "section 13(1)",
+      "Act 4 of 2016",
+      "section 13(1)",
+      "Act 4 of 2016"
+    ],
+    [
+      "section 13",
+      "Act 4 of 2016",
+      "section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "proviso to sub-section (1) of section 13",
+      "Act 4 of 2016",
+      "proviso to sub-section (1) of section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "section 13 (1)",
+      "Act 4 of 2016",
+      "section 13 (1)",
+      "Act 4 of 2016"
+    ],
+    [
+      "sub-section (1) of section 13",
+      "Act 4 of 2016",
+      "sub-section (1) of section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "sub- section (1) of section 13",
+      "Act 4 of 2016",
+      "sub- section (1) of section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "section 13(1)",
+      "Act 4 of 2016",
+      "section 13(1)",
+      "Act 4 of 2016"
+    ],
+    [
+      "sub- section (2) of section 2",
+      "Code of Civil Procedure",
+      "sub- section (2) of section 2",
+      "Code of Civil Procedure"
+    ],
+    [
+      "clauses (a) and (b) of sub-section (2) of section 2",
+      "Code of Civil Procedure",
+      "clauses (a) and (b) of sub-section (2) of section 2",
+      "Code of Civil Procedure"
+    ],
+    [
+      "section 13(1)",
+      "Act 4 of 2016",
+      "section 13(1)",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 104",
+      "Patents Act, 1970 (39 of 1970)",
+      "Section 104",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "Section 104",
+      "Patents Act, 1970 (39 of 1970)",
+      "Section 104",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "Order 43 Rule 1",
+      "CPC",
+      "Order 43 Rule 1",
+      "CPC"
+    ],
+    [
+      "Section 104",
+      "Patents Act, 1970 (39 of 1970)",
+      "Section 104",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "sub-section (1) of section 13",
+      "Act 4 of 2016",
+      "sub-section (1) of section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "Section 96",
+      "Code of Civil Procedure",
+      "Section 96",
+      "Code of Civil Procedure"
+    ],
+    [
+      "section 100",
+      "Code of Civil Procedure",
+      "section 100",
+      "Code of Civil Procedure"
+    ],
+    [
+      "sub- section (1) of section 13",
+      "Act 4 of 2016",
+      "sub- section (1) of section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "section 13(1)",
+      "Act 4 of 2016",
+      "section 13(1)",
+      "Act 4 of 2016"
+    ],
+    [
+      "sub- section (1) of section 13",
+      "Act 4 of 2016",
+      "sub- section (1) of section 13",
+      "Act 4 of 2016"
+    ],
+    [
+      "Chapter IV",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Act 4 of 2016",
+      "Chapter IV",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Act 4 of 2016"
+    ],
+    [
+      "sub-section (1) of section COMAP40.16.doc 13",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Act 4 of 2016",
+      "sub-section (1) of section COMAP40.16.doc 13",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Act 4 of 2016"
+    ],
+    [
+      "Rule 2",
+      "Code of Civil Procedure",
+      "Rule 2",
+      "Code of Civil Procedure"
+    ],
+    [
+      "XIII-A",
+      "CPC",
+      "XIII-A",
+      "CPC"
+    ],
+    [
+      "Chapter I",
+      "Act 4 of 2016",
+      "Chapter I",
+      "Act 4 of 2016"
+    ],
+    [
+      "sub-section (1) of section 4;\"\n47",
+      "Act 4 of 2016",
+      "sub-section (1) of section 4;\"\n47",
+      "Act 4 of 2016"
+    ],
+    [
+      "section 12",
+      "Act 4 of 2016",
+      "section 12",
+      "Act 4 of 2016"
+    ],
+    [
+      "section 6",
+      "Patents Act, 1970 (39 of 1970)",
+      "section 6",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "section 7",
+      "Patents Act, 1970 (39 of 1970)",
+      "section 7",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "section 9",
+      "Patents Act, 1970 (39 of 1970)",
+      "section 9",
+      "Patents Act, 1970 (39 of 1970)"
+    ],
+    [
+      "section 10",
+      "Code of Civil Procedure",
+      "section 10",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Chapter III",
+      "Arbitration and Conciliation Act, 1996",
+      "Chapter III",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Chapter-V",
+      "Arbitration and Conciliation Act, 1996",
+      "Chapter-V",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Chapter VII",
+      "Code of Civil Procedure",
+      "Chapter VII",
+      "Code of Civil Procedure"
+    ],
+    [
+      "section 18",
+      "Code of Civil Procedure",
+      "section 18",
+      "Code of Civil Procedure"
+    ],
+    [
+      "section 19",
+      "Code of Civil Procedure",
+      "section 19",
+      "Code of Civil Procedure"
+    ],
+    [
+      "section 23",
+      "Code of Civil Procedure",
+      "section 23",
+      "Code of Civil Procedure"
+    ],
+    [
+      "s. 4",
+      "Code of 1908",
+      "s. 4",
+      "Code of 1908"
+    ],
+    [
+      "section 35-A (g)",
+      "Code of 1908",
+      "section 35-A (g)",
+      "Code of 1908"
+    ],
+    [
+      "section 95",
+      "Code of 1908",
+      "section 95",
+      "Code of 1908"
+    ],
+    [
+      "S.104",
+      "Code of 1908",
+      "S.104",
+      "Code of 1908"
+    ],
+    [
+      "order 43 Rule 1",
+      "Code of 1908",
+      "order 43 Rule 1",
+      "Code of 1908"
+    ],
+    [
+      "Section 105",
+      "Code of 1908",
+      "Section 105",
+      "Code of 1908"
+    ],
+    [
+      "S. 105 (1)",
+      "Code of 1908",
+      "S. 105 (1)",
+      "Code of 1908"
+    ],
+    [
+      "Rule 3",
+      "Code of 1908",
+      "Rule 3",
+      "Code of 1908"
+    ],
+    [
+      "Rule 10 and Rule 11, clauses (b) & (c), of order VII",
+      "Code of 1908",
+      "Rule 10 and Rule 11, clauses (b) & (c), of order VII",
+      "Code of 1908"
+    ],
+    [
+      "Order XVIII",
+      "Code of 1908",
+      "Order XVIII",
+      "Code of 1908"
+    ],
+    [
+      "rule 35 of order XLI",
+      "Code of 1908",
+      "rule 35 of order XLI",
+      "Code of 1908"
+    ],
+    [
+      "SCC 405",
+      "Code of Civil Procedure",
+      "SCC 405",
+      "Code of Civil Procedure"
+    ],
+    [
+      "order 43 Rule I",
+      "Code of Civil Procedure",
+      "order 43 Rule I",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 80",
+      "Code of Civil Procedure",
+      "Section 80",
+      "Code of Civil Procedure"
+    ],
+    [
+      "section 144",
+      "Code of Civil Procedure",
+      "section 144",
+      "Code of Civil Procedure"
+    ],
+    [
+      "LR. 433",
+      "Code of Civil Procedure",
+      "LR. 433",
+      "Code of Civil Procedure"
+    ],
+    [
+      "S. 2(2)",
+      "Code of Civil Procedure",
+      "S. 2(2)",
+      "Code of Civil Procedure"
+    ]
+  ],
+  "precedent_counts": {
+    "Relation to Management of Central Mine Panning and Design Institute Ltd. vs. Union of India & anr.": 21,
+    "Shah Babulal Khimji vs Jayaben D. Kania & Anr., AIR 1981 SC 1786": 2,
+    "Chando Devi vs. Municipal Committee, Delhi AIR 1961 Punjab 424": 2
+  },
+  "provision_counts": {
+    "section 9-A of Code of Civil Procedure, 1908": 3,
+    "Order XLIII of Code of Civil Procedure": 2,
+    "proviso to sub-section (1) of section 13 of Act 4 of 2016": 2,
+    "section 37 of Arbitration & Conciliation Act, 1996": 5,
+    "sub-section (1) of section 13 of Act 4 of 2016": 8,
+    "section 9-A of Code of Civil Procedure": 1,
+    "Order XIV of Code of Civil Procedure": 1,
+    "Order XXXVII of Code of Civil Procedure, 1908": 4,
+    "Order XLIII of CPC": 4,
+    "Section 37 of Arbitration and Conciliation Act, 1996": 1,
+    "Section 13 of Commercial Courts Act": 7,
+    "Section 21 of Commercial Courts Act": 2,
+    "order XLIII of CPC": 2,
+    "Section 13 of CPC": 3,
+    "Order XXXVII of CPC": 1,
+    "Section 16 of Commercial Courts Act": 1,
+    "Order XIII-A, Rule 1(3) of CPC": 1,
+    "Section 13(1) of Commercial Courts Act": 6,
+    "section 13 of Code of Civil Procedure": 2,
+    "proviso to section 13(1) of Act 4 of 2016": 1,
+    "section 20 of Arbitration Act, 1940": 2,
+    "section 34 of Arbitration & Conciliation Act, 1996": 1,
+    "Order XXI of Code of Civil Procedure, 1908": 1,
+    "Order XXI Rule 22 of Code of Civil Procedure": 1,
+    "Section 2 of CPC": 1,
+    "paras 112 and 113 of CPC": 1,
+    "Article 133(1) of Constitution": 1,
+    "Section 110 of CPC": 1,
+    "Article 133 of Constitution of India": 1,
+    "section 37 of Arbitration Act": 1,
+    "Sub-section (2) of section 2 of Code of Civil Procedure, 1908": 1,
+    "Chapter II of Constitution of Commercial Courts": 3,
+    "Section 3 of Constitution of Commercial Courts": 1,
+    "sections 16 to 20 of Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "sub-section (4) of section 22 of Act, 2000": 1,
+    "section 104 of Patents Act, 1970 (39 of 1970)": 7,
+    "section 115 of Code of Civil Procedure, 1908": 1,
+    "Order XLIII of Code of Civil Procedure, 1908": 3,
+    "section 37 of Arbitration and Conciliation Act, 1996": 1,
+    "Chapter VI of Code of Civil Procedure, 1908": 1,
+    "sub-section (2) of section 16 of Code of Civil Procedure": 1,
+    "Order XLIII Rule 1 of Code of Civil Procedure": 1,
+    "clauses (r) and (s) of Order XLIII Rule 1 of Code of Civil Procedure, 1908": 1,
+    "Order XLIII Rule 1 of Code of Civil Procedure,1908,": 1,
+    "section 104 of Code of 1908": 1,
+    "Section 5 of Code of 1908": 2,
+    "Section 4(1) of Code of 1908": 1,
+    "s. 104 of Code of 1908": 2,
+    "Order 37 of Code of Civil Procedure": 1,
+    "section 2(9) of Code of Civil Procedure": 2,
+    "section 97 of Code of Civil Procedure": 2,
+    "Article 225 of Constitution of India": 1,
+    "Section 107 of Government of India Act, 1915": 1,
+    "Article 227 of Constitution of India": 1,
+    "Section 2(9) of Code of Civil Procedure": 1,
+    "S. 104 of Arbitration Act 1940": 5,
+    "section 13(2) of Act 4 of 2016": 1,
+    "section 2(2) of Code of Civil Procedure": 1,
+    "Order 43 Rule 1 of CPC": 9,
+    "Rule 1 of Order 43 of CPC": 1,
+    "sections 96 and 100 of Code of Civil Procedure": 1,
+    "Sections 96 and 100 of CPC": 2,
+    "section 13 of Act 4 of 2016": 15,
+    "Section 9-A of Code of Civil Procedure, 1908": 1,
+    "Section 13 of Act 4 of 2016": 3,
+    "Section 13(1) read with Section 13(2) of Act 4 of 2016": 1,
+    "Section 13(1) of Act 4 of 2016": 2,
+    "Sections 8, 13(2) of Act 4 of 2016": 1,
+    "Section 13(2) of Act 4 of 2016": 1,
+    "Section 13(2) of Commercial Courts Act": 1,
+    "Section 13(1) and (2) of Commercial Courts Act": 1,
+    "Order XIII-A of CPC": 1,
+    "proviso to Section 13(1) of CPC": 1,
+    "Section 8 of CPC": 3,
+    "Section 13 of Code of Civil Procedure": 1,
+    "Section 104 or Order XLIII of CPC": 1,
+    "sub-section (1) of Section 13 of Act 4 of 2016": 1,
+    "section 2 of CPC": 2,
+    "sub-section (1) of section 5 of Code of 1908": 1,
+    "sub-section (1) of section 3 of Constitution of Commercial Courts": 1,
+    "Sub-section (2) of section 3 of Constitution of Commercial Courts": 1,
+    "Sub-section (3) of section 3 of Constitution of Commercial Courts": 1,
+    "Section 4 of Code of 1908": 1,
+    "sub- section (1) of section 3 or under sub-section (1) of section 4 of Code of 1908": 1,
+    "sub-section (2) of section 5 of Code of 1908": 1,
+    "proviso to this section 7 of Patents Act, 1970 (39 of 1970)": 1,
+    "section 7 of Patents Act, 1970 (39 of 1970)": 2,
+    "section 8 of CPC": 1,
+    "Sub-section (2) of section 9 of Patents Act, 1970 (39 of 1970)": 1,
+    "sub-section (1) of section 9 of Patents Act, 1970 (39 of 1970)": 1,
+    "sections 10 and 11 of Code of Civil Procedure": 1,
+    "section 12 of Act 4 of 2016": 3,
+    "sub- section (3) of section 12 of Act 4 of 2016": 1,
+    "sections 13 and 14 of Act 4 of 2016": 1,
+    "Chapter IV of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Act 4 of 2016": 2,
+    "Section 22 of Act, 2000": 1,
+    "sub-section (2) of section 13 of Act 4 of 2016": 3,
+    "Section 104 of Patents Act, 1970 (39 of 1970)": 7,
+    "s. 4 of Code of 1908": 2,
+    "clauses (1) to (6) of Rule 3 of Code of 1908": 1,
+    "order 43 Rule 1 of Code of 1908": 3,
+    "Order XLIII Rule 1 of Code of Civil Procedure, 1908": 11,
+    "sub- section (2) of section 2 of Code of Civil Procedure, 1908": 1,
+    "clauses (a) to (w) of Order 43 Rule 1 of CPC": 2,
+    "sub- section (1) of section 13 of Act 4 of 2016": 4,
+    "Section 80 of Code of Civil Procedure": 2,
+    "section 105 of Code of 1908": 3,
+    "section 96 of Code of Civil Procedure": 2,
+    "Section 2 of Code of Civil Procedure": 1,
+    "Section 2(2) of Code of Civil Procedure": 1,
+    "Order 43 of CPC": 1,
+    "Section 104 and Order 43 Rule I of Patents Act, 1970 (39 of 1970)": 1,
+    "Section 105 of Code of 1908": 2,
+    "section 13(1) of Act 4 of 2016": 7,
+    "sections 8, 13(2) of Act 4 of 2016": 1,
+    "section 13 (1) of Act 4 of 2016": 1,
+    "sub- section (2) of section 2 of Code of Civil Procedure": 1,
+    "clauses (a) and (b) of sub-section (2) of section 2 of Code of Civil Procedure": 1,
+    "Section 96 of Code of Civil Procedure": 1,
+    "section 100 of Code of Civil Procedure": 1,
+    "sub-section (1) of section COMAP40.16.doc 13 of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Act 4 of 2016": 1,
+    "Rule 2 of Code of Civil Procedure": 1,
+    "XIII-A of CPC": 1,
+    "Chapter I of Act 4 of 2016": 1,
+    "sub-section (1) of section 4;\"\n47 of Act 4 of 2016": 1,
+    "section 6 of Patents Act, 1970 (39 of 1970)": 1,
+    "section 9 of Patents Act, 1970 (39 of 1970)": 1,
+    "section 10 of Code of Civil Procedure": 1,
+    "Chapter III of Arbitration and Conciliation Act, 1996": 1,
+    "Chapter-V of Arbitration and Conciliation Act, 1996": 1,
+    "Chapter VII of Code of Civil Procedure": 1,
+    "section 18 of Code of Civil Procedure": 1,
+    "section 19 of Code of Civil Procedure": 1,
+    "section 23 of Code of Civil Procedure": 1,
+    "section 35-A (g) of Code of 1908": 1,
+    "section 95 of Code of 1908": 1,
+    "S.104 of Code of 1908": 1,
+    "S. 105 (1) of Code of 1908": 1,
+    "Rule 3 of Code of 1908": 1,
+    "Rule 10 and Rule 11, clauses (b) & (c), of order VII of Code of 1908": 1,
+    "Order XVIII of Code of 1908": 1,
+    "rule 35 of order XLI of Code of 1908": 1,
+    "SCC 405 of Code of Civil Procedure": 1,
+    "order 43 Rule I of Code of Civil Procedure": 1,
+    "section 144 of Code of Civil Procedure": 1,
+    "LR. 433 of Code of Civil Procedure": 1,
+    "S. 2(2) of Code of Civil Procedure": 1
+  },
+  "statute_counts": {
+    "Code of Civil Procedure, 1908": 28,
+    "Code of Civil Procedure": 40,
+    "Act 4 of 2016": 59,
+    "Arbitration & Conciliation Act, 1996": 6,
+    "CPC": 39,
+    "Arbitration and Conciliation Act, 1996": 4,
+    "Commercial Courts Act": 18,
+    "Arbitration Act, 1940": 2,
+    "Constitution": 1,
+    "Constitution of India": 3,
+    "Arbitration Act": 1,
+    "Constitution of Commercial Courts": 7,
+    "Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Act, 2000": 2,
+    "Patents Act, 1970 (39 of 1970)": 22,
+    "Code of Civil Procedure,1908,": 1,
+    "Code of 1908": 29,
+    "Government of India Act, 1915": 1,
+    "Arbitration Act 1940": 5,
+    "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Act 4 of 2016": 3
+  }
+}

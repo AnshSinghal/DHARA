@@ -1,0 +1,4604 @@
+{
+  "entities": [
+    {
+      "text": "Omaxe Ltd",
+      "label": "PETITIONER",
+      "start_char": 25,
+      "end_char": 34
+    },
+    {
+      "text": "Asha Saini",
+      "label": "RESPONDENT",
+      "start_char": 42,
+      "end_char": 52
+    },
+    {
+      "text": "Raj Kumar Chauhan",
+      "label": "JUDGE",
+      "start_char": 94,
+      "end_char": 111
+    },
+    {
+      "text": "District Judge (Commercial Court)-01:\n      South-East, Saket : New Delhi",
+      "label": "COURT",
+      "start_char": 115,
+      "end_char": 188
+    },
+    {
+      "text": "Omaxe Ltd",
+      "label": "PETITIONER",
+      "start_char": 235,
+      "end_char": 244
+    },
+    {
+      "text": "Asha Saini",
+      "label": "RESPONDENT",
+      "start_char": 419,
+      "end_char": 429
+    },
+    {
+      "text": "Omaxe Ltd",
+      "label": "PETITIONER",
+      "start_char": 683,
+      "end_char": 692
+    },
+    {
+      "text": "Asha Saini",
+      "label": "RESPONDENT",
+      "start_char": 861,
+      "end_char": 871
+    },
+    {
+      "text": "Omaxe Ltd",
+      "label": "PETITIONER",
+      "start_char": 1582,
+      "end_char": 1591
+    },
+    {
+      "text": "Asha Saini",
+      "label": "RESPONDENT",
+      "start_char": 1595,
+      "end_char": 1605
+    },
+    {
+      "text": "Raj Kumar Chauhan",
+      "label": "LAWYER",
+      "start_char": 1614,
+      "end_char": 1631
+    },
+    {
+      "text": "OMP(comm) 50/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 1880,
+      "end_char": 1897
+    },
+    {
+      "text": "OMP(comm) 53/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 1900,
+      "end_char": 1917
+    },
+    {
+      "text": "s 34",
+      "label": "PROVISION",
+      "start_char": 1937,
+      "end_char": 1941
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 1949,
+      "end_char": 1987
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 2014,
+      "end_char": 2029
+    },
+    {
+      "text": "26.12.2018",
+      "label": "DATE",
+      "start_char": 2101,
+      "end_char": 2111
+    },
+    {
+      "text": "11.02.2019",
+      "label": "DATE",
+      "start_char": 2138,
+      "end_char": 2148
+    },
+    {
+      "text": "Kuldip Singh Sole",
+      "label": "OTHER_PERSON",
+      "start_char": 2207,
+      "end_char": 2224
+    },
+    {
+      "text": "Bahadurgarh",
+      "label": "GPE",
+      "start_char": 2592,
+      "end_char": 2603
+    },
+    {
+      "text": "Haryana",
+      "label": "GPE",
+      "start_char": 2605,
+      "end_char": 2612
+    },
+    {
+      "text": "21.03.2006",
+      "label": "DATE",
+      "start_char": 2738,
+      "end_char": 2748
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 2997,
+      "end_char": 3006
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 3010,
+      "end_char": 3020
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 3022,
+      "end_char": 3039
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 3041,
+      "end_char": 3095
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 3097,
+      "end_char": 3117
+    },
+    {
+      "text": "Bahadurgarh",
+      "label": "GPE",
+      "start_char": 3418,
+      "end_char": 3429
+    },
+    {
+      "text": "Haryana",
+      "label": "GPE",
+      "start_char": 3431,
+      "end_char": 3438
+    },
+    {
+      "text": "petition no. 50/19",
+      "label": "CASE_NUMBER",
+      "start_char": 3484,
+      "end_char": 3502
+    },
+    {
+      "text": "Bahadurgarh",
+      "label": "GPE",
+      "start_char": 3558,
+      "end_char": 3569
+    },
+    {
+      "text": "Haryana",
+      "label": "GPE",
+      "start_char": 3571,
+      "end_char": 3578
+    },
+    {
+      "text": "petition no. 53/19",
+      "label": "CASE_NUMBER",
+      "start_char": 3624,
+      "end_char": 3642
+    },
+    {
+      "text": "06.09.2008",
+      "label": "DATE",
+      "start_char": 3735,
+      "end_char": 3745
+    },
+    {
+      "text": "30.08.2011",
+      "label": "DATE",
+      "start_char": 3863,
+      "end_char": 3873
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 3982,
+      "end_char": 3992
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 4036,
+      "end_char": 4046
+    },
+    {
+      "text": "30.11.2012",
+      "label": "DATE",
+      "start_char": 4441,
+      "end_char": 4451
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 4514,
+      "end_char": 4523
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 4527,
+      "end_char": 4537
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 4539,
+      "end_char": 4556
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 4558,
+      "end_char": 4612
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 4614,
+      "end_char": 4634
+    },
+    {
+      "text": "19.11.2013",
+      "label": "DATE",
+      "start_char": 4781,
+      "end_char": 4791
+    },
+    {
+      "text": "Police Station Kalkaji",
+      "label": "ORG",
+      "start_char": 4799,
+      "end_char": 4821
+    },
+    {
+      "text": "02.12.2013",
+      "label": "DATE",
+      "start_char": 4908,
+      "end_char": 4918
+    },
+    {
+      "text": "08.01.2014",
+      "label": "DATE",
+      "start_char": 5069,
+      "end_char": 5079
+    },
+    {
+      "text": "08.01.2014",
+      "label": "DATE",
+      "start_char": 5219,
+      "end_char": 5229
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 5328,
+      "end_char": 5338
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 5341,
+      "end_char": 5351
+    },
+    {
+      "text": "22.08.2017",
+      "label": "DATE",
+      "start_char": 5528,
+      "end_char": 5538
+    },
+    {
+      "text": "High Court of Delhi",
+      "label": "COURT",
+      "start_char": 5590,
+      "end_char": 5609
+    },
+    {
+      "text": "12.12.2017",
+      "label": "DATE",
+      "start_char": 5663,
+      "end_char": 5673
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 5968,
+      "end_char": 5977
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 5981,
+      "end_char": 5991
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 5993,
+      "end_char": 6010
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 6012,
+      "end_char": 6066
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 6068,
+      "end_char": 6088
+    },
+    {
+      "text": "petition OMP (COMM) no. 53/19 (f)",
+      "label": "CASE_NUMBER",
+      "start_char": 6549,
+      "end_char": 6582
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 7010,
+      "end_char": 7019
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 7023,
+      "end_char": 7033
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 7035,
+      "end_char": 7052
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 7054,
+      "end_char": 7108
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 7110,
+      "end_char": 7130
+    },
+    {
+      "text": "20.07.2018:-",
+      "label": "DATE",
+      "start_char": 7369,
+      "end_char": 7381
+    },
+    {
+      "text": "OMP (COMM) no. 50/19",
+      "label": "CASE_NUMBER",
+      "start_char": 7394,
+      "end_char": 7414
+    },
+    {
+      "text": "23.03.2006",
+      "label": "DATE",
+      "start_char": 7479,
+      "end_char": 7489
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 7592,
+      "end_char": 7602
+    },
+    {
+      "text": "23.03.2006",
+      "label": "DATE",
+      "start_char": 7651,
+      "end_char": 7661
+    },
+    {
+      "text": "Bahadurgarh",
+      "label": "GPE",
+      "start_char": 7796,
+      "end_char": 7807
+    },
+    {
+      "text": "Haryana",
+      "label": "GPE",
+      "start_char": 7809,
+      "end_char": 7816
+    },
+    {
+      "text": "23.03.2006",
+      "label": "DATE",
+      "start_char": 7899,
+      "end_char": 7909
+    },
+    {
+      "text": "OPC v. Whether Claimant",
+      "label": "PRECEDENT",
+      "start_char": 8003,
+      "end_char": 8026
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 8137,
+      "end_char": 8146
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 8150,
+      "end_char": 8160
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 8162,
+      "end_char": 8179
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 8181,
+      "end_char": 8235
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 8237,
+      "end_char": 8257
+    },
+    {
+      "text": "petition OMP (COMM) no. 53/19",
+      "label": "CASE_NUMBER",
+      "start_char": 8480,
+      "end_char": 8509
+    },
+    {
+      "text": "Bahadurgarh",
+      "label": "GPE",
+      "start_char": 8638,
+      "end_char": 8649
+    },
+    {
+      "text": "Haryana",
+      "label": "GPE",
+      "start_char": 8651,
+      "end_char": 8658
+    },
+    {
+      "text": "23.03.2006",
+      "label": "DATE",
+      "start_char": 8741,
+      "end_char": 8751
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 9149,
+      "end_char": 9158
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 9162,
+      "end_char": 9172
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 9174,
+      "end_char": 9191
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 9193,
+      "end_char": 9247
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 9249,
+      "end_char": 9269
+    },
+    {
+      "text": "20.07.2018",
+      "label": "DATE",
+      "start_char": 9300,
+      "end_char": 9310
+    },
+    {
+      "text": "23.03.2006",
+      "label": "DATE",
+      "start_char": 9473,
+      "end_char": 9483
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 9586,
+      "end_char": 9596
+    },
+    {
+      "text": "23.03.2006",
+      "label": "DATE",
+      "start_char": 9645,
+      "end_char": 9655
+    },
+    {
+      "text": "OMP (COMM) no. 50/19",
+      "label": "CASE_NUMBER",
+      "start_char": 9782,
+      "end_char": 9802
+    },
+    {
+      "text": "23.09.2009",
+      "label": "DATE",
+      "start_char": 9900,
+      "end_char": 9910
+    },
+    {
+      "text": "08.01.2014",
+      "label": "DATE",
+      "start_char": 9916,
+      "end_char": 9926
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 10143,
+      "end_char": 10152
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 10156,
+      "end_char": 10166
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 10168,
+      "end_char": 10185
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 10187,
+      "end_char": 10241
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 10243,
+      "end_char": 10263
+    },
+    {
+      "text": "23.09.2009",
+      "label": "DATE",
+      "start_char": 10468,
+      "end_char": 10478
+    },
+    {
+      "text": "08.01.2014",
+      "label": "DATE",
+      "start_char": 10484,
+      "end_char": 10494
+    },
+    {
+      "text": "section 33",
+      "label": "PROVISION",
+      "start_char": 10884,
+      "end_char": 10894
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 10902,
+      "end_char": 10917
+    },
+    {
+      "text": "11.01.2019",
+      "label": "DATE",
+      "start_char": 11029,
+      "end_char": 11039
+    },
+    {
+      "text": "11.02.2019",
+      "label": "DATE",
+      "start_char": 11072,
+      "end_char": 11082
+    },
+    {
+      "text": "S.no",
+      "label": "OTHER_PERSON",
+      "start_char": 11147,
+      "end_char": 11151
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 11274,
+      "end_char": 11283
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 11287,
+      "end_char": 11297
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 11299,
+      "end_char": 11316
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 11318,
+      "end_char": 11372
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 11374,
+      "end_char": 11394
+    },
+    {
+      "text": "01.04.2009",
+      "label": "DATE",
+      "start_char": 12135,
+      "end_char": 12145
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 12764,
+      "end_char": 12773
+    },
+    {
+      "text": "Asha Saini",
+      "label": "RESPONDENT",
+      "start_char": 12777,
+      "end_char": 12787
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "OTHER_PERSON",
+      "start_char": 12791,
+      "end_char": 12808
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 12811,
+      "end_char": 12865
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 12867,
+      "end_char": 12887
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 13280,
+      "end_char": 13290
+    },
+    {
+      "text": "petition no. 50/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 13310,
+      "end_char": 13330
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 13334,
+      "end_char": 13344
+    },
+    {
+      "text": "petition no. 53/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 13364,
+      "end_char": 13384
+    },
+    {
+      "text": "08.02.2015",
+      "label": "DATE",
+      "start_char": 13467,
+      "end_char": 13477
+    },
+    {
+      "text": "08.01.2014",
+      "label": "DATE",
+      "start_char": 13506,
+      "end_char": 13516
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 14168,
+      "end_char": 14178
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 14187,
+      "end_char": 14196
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 14200,
+      "end_char": 14210
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 14212,
+      "end_char": 14229
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 14231,
+      "end_char": 14285
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 14287,
+      "end_char": 14307
+    },
+    {
+      "text": "11/64",
+      "label": "DATE",
+      "start_char": 14326,
+      "end_char": 14331
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 14332,
+      "end_char": 14342
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 14527,
+      "end_char": 14537
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 14540,
+      "end_char": 14550
+    },
+    {
+      "text": "21.03.2006",
+      "label": "DATE",
+      "start_char": 14615,
+      "end_char": 14625
+    },
+    {
+      "text": "21.03.2006",
+      "label": "DATE",
+      "start_char": 14721,
+      "end_char": 14731
+    },
+    {
+      "text": "Clause-17, 21 and 22",
+      "label": "PROVISION",
+      "start_char": 15105,
+      "end_char": 15125
+    },
+    {
+      "text": "21.03.2006",
+      "label": "DATE",
+      "start_char": 15282,
+      "end_char": 15292
+    },
+    {
+      "text": "21.03.2006",
+      "label": "DATE",
+      "start_char": 15536,
+      "end_char": 15546
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 15639,
+      "end_char": 15648
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 15652,
+      "end_char": 15662
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 15664,
+      "end_char": 15681
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 15683,
+      "end_char": 15737
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 15739,
+      "end_char": 15759
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 15818,
+      "end_char": 15828
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 15833,
+      "end_char": 15843
+    },
+    {
+      "text": "section 62",
+      "label": "PROVISION",
+      "start_char": 15859,
+      "end_char": 15869
+    },
+    {
+      "text": "Indian Contract Act",
+      "label": "STATUTE",
+      "start_char": 15877,
+      "end_char": 15896
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 15956,
+      "end_char": 15966
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 15971,
+      "end_char": 15981
+    },
+    {
+      "text": "08.01.2014",
+      "label": "DATE",
+      "start_char": 16012,
+      "end_char": 16022
+    },
+    {
+      "text": "23.09.2009",
+      "label": "DATE",
+      "start_char": 16298,
+      "end_char": 16308
+    },
+    {
+      "text": "08.01.2014",
+      "label": "DATE",
+      "start_char": 16314,
+      "end_char": 16324
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 16460,
+      "end_char": 16470
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 16473,
+      "end_char": 16483
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 17043,
+      "end_char": 17052
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 17056,
+      "end_char": 17066
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 17068,
+      "end_char": 17085
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 17087,
+      "end_char": 17141
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 17143,
+      "end_char": 17163
+    },
+    {
+      "text": "section 74",
+      "label": "PROVISION",
+      "start_char": 17305,
+      "end_char": 17315
+    },
+    {
+      "text": "Contract Act",
+      "label": "STATUTE",
+      "start_char": 17323,
+      "end_char": 17335
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 17679,
+      "end_char": 17689
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 17826,
+      "end_char": 17836
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 17839,
+      "end_char": 17849
+    },
+    {
+      "text": "21.03.2006",
+      "label": "DATE",
+      "start_char": 18278,
+      "end_char": 18288
+    },
+    {
+      "text": "23.03.2006",
+      "label": "DATE",
+      "start_char": 18334,
+      "end_char": 18344
+    },
+    {
+      "text": "18.11.2008",
+      "label": "DATE",
+      "start_char": 18348,
+      "end_char": 18358
+    },
+    {
+      "text": "petition no. 50/19",
+      "label": "CASE_NUMBER",
+      "start_char": 18431,
+      "end_char": 18449
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 18457,
+      "end_char": 18466
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 18470,
+      "end_char": 18480
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 18482,
+      "end_char": 18499
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 18501,
+      "end_char": 18555
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 18557,
+      "end_char": 18577
+    },
+    {
+      "text": "23.03.2006",
+      "label": "DATE",
+      "start_char": 18629,
+      "end_char": 18639
+    },
+    {
+      "text": "18.11.2018",
+      "label": "DATE",
+      "start_char": 18643,
+      "end_char": 18653
+    },
+    {
+      "text": "petition no. 53/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 18690,
+      "end_char": 18710
+    },
+    {
+      "text": "23.03.2006",
+      "label": "DATE",
+      "start_char": 18812,
+      "end_char": 18822
+    },
+    {
+      "text": "23.03.2006",
+      "label": "DATE",
+      "start_char": 19093,
+      "end_char": 19103
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 19448,
+      "end_char": 19458
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 19463,
+      "end_char": 19473
+    },
+    {
+      "text": "30.11.2012",
+      "label": "DATE",
+      "start_char": 19632,
+      "end_char": 19642
+    },
+    {
+      "text": "State Consumer Disputes Redressal Commission, New Delhi",
+      "label": "ORG",
+      "start_char": 19746,
+      "end_char": 19801
+    },
+    {
+      "text": "02.12.2013",
+      "label": "DATE",
+      "start_char": 20056,
+      "end_char": 20066
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 20086,
+      "end_char": 20095
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 20099,
+      "end_char": 20109
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 20111,
+      "end_char": 20128
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 20130,
+      "end_char": 20184
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 20186,
+      "end_char": 20206
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 20817,
+      "end_char": 20822
+    },
+    {
+      "text": "23.03.2006",
+      "label": "DATE",
+      "start_char": 21058,
+      "end_char": 21068
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 21166,
+      "end_char": 21176
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 21181,
+      "end_char": 21191
+    },
+    {
+      "text": "23.03.2006",
+      "label": "DATE",
+      "start_char": 21538,
+      "end_char": 21548
+    },
+    {
+      "text": "OMAXE Ltd Vs Asha Saini (RAJ KUMAR CHAUHAN)",
+      "label": "PRECEDENT",
+      "start_char": 21695,
+      "end_char": 21738
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 21739,
+      "end_char": 21793
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 21795,
+      "end_char": 21815
+    },
+    {
+      "text": "Neeraj Malhotra",
+      "label": "OTHER_PERSON",
+      "start_char": 22601,
+      "end_char": 22616
+    },
+    {
+      "text": "Harish Kumar",
+      "label": "OTHER_PERSON",
+      "start_char": 22625,
+      "end_char": 22637
+    },
+    {
+      "text": "Praveen Mahajan",
+      "label": "OTHER_PERSON",
+      "start_char": 22674,
+      "end_char": 22689
+    },
+    {
+      "text": "High Court of Delhi",
+      "label": "COURT",
+      "start_char": 23019,
+      "end_char": 23038
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 23066,
+      "end_char": 23075
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 23079,
+      "end_char": 23089
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 23091,
+      "end_char": 23108
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 23110,
+      "end_char": 23164
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 23166,
+      "end_char": 23186
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 23239,
+      "end_char": 23249
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 23254,
+      "end_char": 23264
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 23513,
+      "end_char": 23523
+    },
+    {
+      "text": "&",
+      "label": "DATE",
+      "start_char": 23524,
+      "end_char": 23525
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 23525,
+      "end_char": 23535
+    },
+    {
+      "text": "09.02.2015",
+      "label": "DATE",
+      "start_char": 23592,
+      "end_char": 23602
+    },
+    {
+      "text": "High Court of Delhi",
+      "label": "COURT",
+      "start_char": 23825,
+      "end_char": 23844
+    },
+    {
+      "text": "08.01.2014",
+      "label": "DATE",
+      "start_char": 24233,
+      "end_char": 24243
+    },
+    {
+      "text": "s 21",
+      "label": "PROVISION",
+      "start_char": 24257,
+      "end_char": 24261
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 24269,
+      "end_char": 24284
+    },
+    {
+      "text": "22.08.2017",
+      "label": "DATE",
+      "start_char": 24299,
+      "end_char": 24309
+    },
+    {
+      "text": "section 21",
+      "label": "PROVISION",
+      "start_char": 24353,
+      "end_char": 24363
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 24371,
+      "end_char": 24386
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 24427,
+      "end_char": 24436
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 24440,
+      "end_char": 24450
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 24452,
+      "end_char": 24469
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 24471,
+      "end_char": 24525
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 24527,
+      "end_char": 24547
+    },
+    {
+      "text": "section 11",
+      "label": "PROVISION",
+      "start_char": 24774,
+      "end_char": 24784
+    },
+    {
+      "text": "High Court of Delhi",
+      "label": "COURT",
+      "start_char": 24793,
+      "end_char": 24812
+    },
+    {
+      "text": "National Consumer Disputes Redressal Commission",
+      "label": "ORG",
+      "start_char": 25254,
+      "end_char": 25301
+    },
+    {
+      "text": "clause-17, 20,22",
+      "label": "PROVISION",
+      "start_char": 25438,
+      "end_char": 25454
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 25729,
+      "end_char": 25738
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 25742,
+      "end_char": 25752
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 25754,
+      "end_char": 25771
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 25773,
+      "end_char": 25827
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 25829,
+      "end_char": 25849
+    },
+    {
+      "text": "21.03.2006",
+      "label": "DATE",
+      "start_char": 25908,
+      "end_char": 25918
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 26242,
+      "end_char": 26252
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 26257,
+      "end_char": 26267
+    },
+    {
+      "text": "05.01.2013",
+      "label": "DATE",
+      "start_char": 26843,
+      "end_char": 26853
+    },
+    {
+      "text": "08.01.2014",
+      "label": "DATE",
+      "start_char": 27130,
+      "end_char": 27140
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 27150,
+      "end_char": 27159
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 27163,
+      "end_char": 27173
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 27175,
+      "end_char": 27192
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 27194,
+      "end_char": 27248
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 27250,
+      "end_char": 27270
+    },
+    {
+      "text": "02.12.2013",
+      "label": "DATE",
+      "start_char": 27402,
+      "end_char": 27412
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 27675,
+      "end_char": 27685
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 27690,
+      "end_char": 27700
+    },
+    {
+      "text": "High Court of Delhi",
+      "label": "COURT",
+      "start_char": 27775,
+      "end_char": 27794
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 27966,
+      "end_char": 27971
+    },
+    {
+      "text": "Section 62",
+      "label": "PROVISION",
+      "start_char": 28006,
+      "end_char": 28016
+    },
+    {
+      "text": "Section 74",
+      "label": "PROVISION",
+      "start_char": 28026,
+      "end_char": 28036
+    },
+    {
+      "text": "Indian Contract Act, 1872",
+      "label": "STATUTE",
+      "start_char": 28044,
+      "end_char": 28069
+    },
+    {
+      "text": "Oil and Natural Gas Corporation Ltd Vs Westen Geco International Ltd (civil appeal no. 3415 of 2007",
+      "label": "PRECEDENT",
+      "start_char": 28105,
+      "end_char": 28204
+    },
+    {
+      "text": "Supreme Court of India",
+      "label": "COURT",
+      "start_char": 28214,
+      "end_char": 28236
+    },
+    {
+      "text": "Oil and Natural Gas Corporation Ltd Vs Saw Pipes Ltd (Appeal(civil) no. 7419 of 2001",
+      "label": "PRECEDENT",
+      "start_char": 28243,
+      "end_char": 28327
+    },
+    {
+      "text": "Supreme Court of India",
+      "label": "COURT",
+      "start_char": 28337,
+      "end_char": 28359
+    },
+    {
+      "text": "section 74",
+      "label": "PROVISION",
+      "start_char": 28403,
+      "end_char": 28413
+    },
+    {
+      "text": "Indian Contract Act",
+      "label": "STATUTE",
+      "start_char": 28421,
+      "end_char": 28440
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 28499,
+      "end_char": 28508
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 28512,
+      "end_char": 28522
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 28524,
+      "end_char": 28541
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 28543,
+      "end_char": 28597
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 28599,
+      "end_char": 28619
+    },
+    {
+      "text": "Rajesh Gullah Vs Sangeeta Sethi & Anr , 2018 SCC online Del. 12684",
+      "label": "PRECEDENT",
+      "start_char": 29140,
+      "end_char": 29206
+    },
+    {
+      "text": "clauses 28(a) and 28(f)",
+      "label": "PROVISION",
+      "start_char": 29374,
+      "end_char": 29397
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 29421,
+      "end_char": 29431
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 29436,
+      "end_char": 29446
+    },
+    {
+      "text": "Sharma and Associates Contractors Pvt Ltd Vs.",
+      "label": "PRECEDENT",
+      "start_char": 29493,
+      "end_char": 29538
+    },
+    {
+      "text": "Progressive Constructions Ltd (2017) 5 SCC 743",
+      "label": "PRECEDENT",
+      "start_char": 29539,
+      "end_char": 29585
+    },
+    {
+      "text": "Food Corporation of India vs Chandu Construction and Ors, (Manu/SC/7285/2007)",
+      "label": "PRECEDENT",
+      "start_char": 29592,
+      "end_char": 29669
+    },
+    {
+      "text": "R.Natesan vs R.Padmanaben",
+      "label": "PRECEDENT",
+      "start_char": 29676,
+      "end_char": 29701
+    },
+    {
+      "text": "Madras High Court",
+      "label": "COURT",
+      "start_char": 29703,
+      "end_char": 29720
+    },
+    {
+      "text": "02.06.2016",
+      "label": "DATE",
+      "start_char": 29732,
+      "end_char": 29742
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 29751,
+      "end_char": 29760
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 29764,
+      "end_char": 29774
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 29776,
+      "end_char": 29793
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 29795,
+      "end_char": 29849
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 29851,
+      "end_char": 29871
+    },
+    {
+      "text": "article 27",
+      "label": "PROVISION",
+      "start_char": 30012,
+      "end_char": 30022
+    },
+    {
+      "text": "limitation Act",
+      "label": "STATUTE",
+      "start_char": 30030,
+      "end_char": 30044
+    },
+    {
+      "text": "22.08.2017",
+      "label": "DATE",
+      "start_char": 30227,
+      "end_char": 30237
+    },
+    {
+      "text": "22.08.2014",
+      "label": "DATE",
+      "start_char": 30291,
+      "end_char": 30301
+    },
+    {
+      "text": "01.04.2009",
+      "label": "DATE",
+      "start_char": 30368,
+      "end_char": 30378
+    },
+    {
+      "text": "08.01.2014",
+      "label": "DATE",
+      "start_char": 30468,
+      "end_char": 30478
+    },
+    {
+      "text": "08.01.2014",
+      "label": "DATE",
+      "start_char": 30542,
+      "end_char": 30552
+    },
+    {
+      "text": "section 21",
+      "label": "PROVISION",
+      "start_char": 30574,
+      "end_char": 30584
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 30592,
+      "end_char": 30607
+    },
+    {
+      "text": "22.08.2017",
+      "label": "DATE",
+      "start_char": 30622,
+      "end_char": 30632
+    },
+    {
+      "text": "State of Goa Vs Praveen Enterprises (CA no. 4987 of 2011",
+      "label": "PRECEDENT",
+      "start_char": 30827,
+      "end_char": 30883
+    },
+    {
+      "text": "SLP(c) no. 15337 of 2009",
+      "label": "CASE_NUMBER",
+      "start_char": 30900,
+      "end_char": 30924
+    },
+    {
+      "text": "Supreme Court of India",
+      "label": "COURT",
+      "start_char": 30930,
+      "end_char": 30952
+    },
+    {
+      "text": "section 14",
+      "label": "PROVISION",
+      "start_char": 30989,
+      "end_char": 30999
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 31007,
+      "end_char": 31021
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 31099,
+      "end_char": 31108
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 31112,
+      "end_char": 31122
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 31124,
+      "end_char": 31141
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 31143,
+      "end_char": 31197
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 31199,
+      "end_char": 31219
+    },
+    {
+      "text": "section 14",
+      "label": "PROVISION",
+      "start_char": 31486,
+      "end_char": 31496
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 31504,
+      "end_char": 31518
+    },
+    {
+      "text": "Prem Laxmi & Co.",
+      "label": "ORG",
+      "start_char": 31556,
+      "end_char": 31572
+    },
+    {
+      "text": "Mumbai Vs Ingersoll Rand (India) Ltd, Bangalore & Anr , 2011(1)",
+      "label": "PRECEDENT",
+      "start_char": 31573,
+      "end_char": 31636
+    },
+    {
+      "text": "L.J. 178",
+      "label": "CASE_NUMBER",
+      "start_char": 31641,
+      "end_char": 31649
+    },
+    {
+      "text": "Commissioner, M.P. Housing Board & Ors Vs.",
+      "label": "PRECEDENT",
+      "start_char": 31656,
+      "end_char": 31698
+    },
+    {
+      "text": "Mohanlal & Company",
+      "label": "ORG",
+      "start_char": 31699,
+      "end_char": 31717
+    },
+    {
+      "text": "Section 62",
+      "label": "PROVISION",
+      "start_char": 31812,
+      "end_char": 31822
+    },
+    {
+      "text": "Indian contract Act",
+      "label": "STATUTE",
+      "start_char": 31830,
+      "end_char": 31849
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 32161,
+      "end_char": 32171
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 32176,
+      "end_char": 32186
+    },
+    {
+      "text": "21.03.2006",
+      "label": "DATE",
+      "start_char": 32223,
+      "end_char": 32233
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 32284,
+      "end_char": 32294
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 32299,
+      "end_char": 32309
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 32401,
+      "end_char": 32410
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 32414,
+      "end_char": 32424
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 32426,
+      "end_char": 32443
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 32445,
+      "end_char": 32499
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 32501,
+      "end_char": 32521
+    },
+    {
+      "text": "02.02.2012and",
+      "label": "DATE",
+      "start_char": 32585,
+      "end_char": 32598
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 32599,
+      "end_char": 32609
+    },
+    {
+      "text": "21.03.2006",
+      "label": "DATE",
+      "start_char": 32683,
+      "end_char": 32693
+    },
+    {
+      "text": "21.03.2006",
+      "label": "DATE",
+      "start_char": 32773,
+      "end_char": 32783
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 32850,
+      "end_char": 32860
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 32865,
+      "end_char": 32875
+    },
+    {
+      "text": "Section 62",
+      "label": "PROVISION",
+      "start_char": 33054,
+      "end_char": 33064
+    },
+    {
+      "text": "Contract Act",
+      "label": "STATUTE",
+      "start_char": 33072,
+      "end_char": 33084
+    },
+    {
+      "text": "Mayavati Trading Pvt",
+      "label": "ORG",
+      "start_char": 33259,
+      "end_char": 33279
+    },
+    {
+      "text": "Ltd Vs Pradyuat Deb Burman, CA no. 7023 of 2019",
+      "label": "PRECEDENT",
+      "start_char": 33281,
+      "end_char": 33328
+    },
+    {
+      "text": "SLP (Civil) no. 8519 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 33345,
+      "end_char": 33373
+    },
+    {
+      "text": "Duro Fleguera, S.A vs M/s Gangavaram Port Ltd (2017) 9 SCC 729",
+      "label": "PRECEDENT",
+      "start_char": 33380,
+      "end_char": 33442
+    },
+    {
+      "text": "Supreme Court of India",
+      "label": "COURT",
+      "start_char": 33452,
+      "end_char": 33474
+    },
+    {
+      "text": "Swarn Talwar & 2 Ors Vs Unitech Ltd. (2015 SCC Online NCDRC 3567",
+      "label": "PRECEDENT",
+      "start_char": 33482,
+      "end_char": 33546
+    },
+    {
+      "text": "Yogesh Sharma & Ors VS Unitech Ltd (2015 SCC Online NCDRC 3488)",
+      "label": "PRECEDENT",
+      "start_char": 33553,
+      "end_char": 33616
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 33788,
+      "end_char": 33797
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 33801,
+      "end_char": 33811
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 33813,
+      "end_char": 33830
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 33832,
+      "end_char": 33886
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 33888,
+      "end_char": 33908
+    },
+    {
+      "text": "23.03.2006",
+      "label": "DATE",
+      "start_char": 34379,
+      "end_char": 34389
+    },
+    {
+      "text": "06.02.2012",
+      "label": "DATE",
+      "start_char": 34395,
+      "end_char": 34405
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 34489,
+      "end_char": 34499
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 35156,
+      "end_char": 35165
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 35169,
+      "end_char": 35179
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 35181,
+      "end_char": 35198
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 35200,
+      "end_char": 35254
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 35256,
+      "end_char": 35276
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 35317,
+      "end_char": 35327
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 35335,
+      "end_char": 35349
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 36275,
+      "end_char": 36285
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 36290,
+      "end_char": 36300
+    },
+    {
+      "text": "Pioneer Urban Land & Infrastructure Ltd V & M/s",
+      "label": "PRECEDENT",
+      "start_char": 36515,
+      "end_char": 36562
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 36563,
+      "end_char": 36572
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 36576,
+      "end_char": 36586
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 36588,
+      "end_char": 36605
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 36607,
+      "end_char": 36661
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 36663,
+      "end_char": 36683
+    },
+    {
+      "text": "Govindan Raghavan",
+      "label": "OTHER_PERSON",
+      "start_char": 36710,
+      "end_char": 36727
+    },
+    {
+      "text": "02.04.2019",
+      "label": "DATE",
+      "start_char": 36769,
+      "end_char": 36779
+    },
+    {
+      "text": "23.03.2006",
+      "label": "DATE",
+      "start_char": 36804,
+      "end_char": 36814
+    },
+    {
+      "text": "Kollipara Sriramulu Vs T.Aswathanarayana and Ors, MANU/SC/0019/ 1968.(decided",
+      "label": "PRECEDENT",
+      "start_char": 37143,
+      "end_char": 37220
+    },
+    {
+      "text": "04.03.1968",
+      "label": "DATE",
+      "start_char": 37224,
+      "end_char": 37234
+    },
+    {
+      "text": "Associate Builders VS Delhi Development Authority MANU/SC/1076/2014",
+      "label": "PRECEDENT",
+      "start_char": 37488,
+      "end_char": 37555
+    },
+    {
+      "text": "25.11.2014",
+      "label": "DATE",
+      "start_char": 37570,
+      "end_char": 37580
+    },
+    {
+      "text": "P.R.Shah, Shares and Stock Brokers (P) Ltd Vs B.H.H. Securities (P) Ltd MANU/SC/1248/2011.(decided",
+      "label": "PRECEDENT",
+      "start_char": 37586,
+      "end_char": 37684
+    },
+    {
+      "text": "14.10.2011",
+      "label": "DATE",
+      "start_char": 37688,
+      "end_char": 37698
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 37783,
+      "end_char": 37792
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 37796,
+      "end_char": 37806
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 37808,
+      "end_char": 37825
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 37827,
+      "end_char": 37881
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 37883,
+      "end_char": 37903
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 37987,
+      "end_char": 37997
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 38002,
+      "end_char": 38012
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 38238,
+      "end_char": 38248
+    },
+    {
+      "text": "23.03.2006",
+      "label": "DATE",
+      "start_char": 38657,
+      "end_char": 38667
+    },
+    {
+      "text": "23.03.2006",
+      "label": "DATE",
+      "start_char": 39099,
+      "end_char": 39109
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 39182,
+      "end_char": 39191
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 39195,
+      "end_char": 39205
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 39207,
+      "end_char": 39224
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 39226,
+      "end_char": 39280
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 39282,
+      "end_char": 39302
+    },
+    {
+      "text": "08.01.2014",
+      "label": "DATE",
+      "start_char": 39626,
+      "end_char": 39636
+    },
+    {
+      "text": "17.02.2014",
+      "label": "DATE",
+      "start_char": 39669,
+      "end_char": 39679
+    },
+    {
+      "text": "High Court of Delhi",
+      "label": "COURT",
+      "start_char": 39696,
+      "end_char": 39715
+    },
+    {
+      "text": "28.07.2017",
+      "label": "DATE",
+      "start_char": 39737,
+      "end_char": 39747
+    },
+    {
+      "text": "17.02.2014",
+      "label": "DATE",
+      "start_char": 39785,
+      "end_char": 39795
+    },
+    {
+      "text": "28.07.2017",
+      "label": "DATE",
+      "start_char": 39799,
+      "end_char": 39809
+    },
+    {
+      "text": "section 14",
+      "label": "PROVISION",
+      "start_char": 39864,
+      "end_char": 39874
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 39882,
+      "end_char": 39896
+    },
+    {
+      "text": "22.08.2017",
+      "label": "DATE",
+      "start_char": 39937,
+      "end_char": 39947
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 40503,
+      "end_char": 40512
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 40516,
+      "end_char": 40526
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 40528,
+      "end_char": 40545
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 40547,
+      "end_char": 40601
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 40603,
+      "end_char": 40623
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 40928,
+      "end_char": 40943
+    },
+    {
+      "text": "Sections 34(2)(a), (b) and (2A)",
+      "label": "PROVISION",
+      "start_char": 41463,
+      "end_char": 41494
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 41517,
+      "end_char": 41526
+    },
+    {
+      "text": "Section 34 (1), (2) and (2A)",
+      "label": "PROVISION",
+      "start_char": 41544,
+      "end_char": 41572
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 41580,
+      "end_char": 41618
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 42022,
+      "end_char": 42031
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 42035,
+      "end_char": 42045
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 42047,
+      "end_char": 42064
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 42066,
+      "end_char": 42120
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 42122,
+      "end_char": 42142
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 43490,
+      "end_char": 43499
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 43503,
+      "end_char": 43513
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 43515,
+      "end_char": 43532
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 43534,
+      "end_char": 43588
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 43590,
+      "end_char": 43610
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 43661,
+      "end_char": 43666
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 43788,
+      "end_char": 43793
+    },
+    {
+      "text": "Section 75 or Section 81",
+      "label": "PROVISION",
+      "start_char": 43904,
+      "end_char": 43928
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 44663,
+      "end_char": 44676
+    },
+    {
+      "text": "Associate Builders vs. Delhi Development Authority, (2015) 3 SCC 49",
+      "label": "PRECEDENT",
+      "start_char": 44689,
+      "end_char": 44756
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 44998,
+      "end_char": 45007
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 45011,
+      "end_char": 45021
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 45023,
+      "end_char": 45040
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 45042,
+      "end_char": 45096
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 45098,
+      "end_char": 45118
+    },
+    {
+      "text": "Swan Gold Mine vs Hindustan Copper,MANU/SC/0849/2014\"",
+      "label": "PRECEDENT",
+      "start_char": 46061,
+      "end_char": 46114
+    },
+    {
+      "text": "Oil & Natural Gas Corporation Ltd. vs Saw Pipes Ltd., (2003)",
+      "label": "PRECEDENT",
+      "start_char": 46144,
+      "end_char": 46204
+    },
+    {
+      "text": "SCC 705",
+      "label": "CASE_NUMBER",
+      "start_char": 46207,
+      "end_char": 46214
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 46607,
+      "end_char": 46616
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 46620,
+      "end_char": 46630
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 46632,
+      "end_char": 46649
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 46651,
+      "end_char": 46705
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 46707,
+      "end_char": 46727
+    },
+    {
+      "text": "Supreme Court of India",
+      "label": "COURT",
+      "start_char": 46796,
+      "end_char": 46818
+    },
+    {
+      "text": "PSA SICAL Terminals Pvt. Ltd. vs. The Board of Trustees of VO Chidambranar Port Trust Tuticorin & Ors., Civil Appeal No. 3699-3700/2018",
+      "label": "PRECEDENT",
+      "start_char": 46823,
+      "end_char": 46958
+    },
+    {
+      "text": "28.07.2021",
+      "label": "DATE",
+      "start_char": 46975,
+      "end_char": 46985
+    },
+    {
+      "text": "s 34",
+      "label": "PROVISION",
+      "start_char": 47051,
+      "end_char": 47055
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 47063,
+      "end_char": 47078
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 47249,
+      "end_char": 47259
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 47417,
+      "end_char": 47427
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 47435,
+      "end_char": 47450
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 47542,
+      "end_char": 47547
+    },
+    {
+      "text": "Section 18 and 34(2)(a)\n(iii)",
+      "label": "PROVISION",
+      "start_char": 47777,
+      "end_char": 47806
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 47814,
+      "end_char": 47829
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 48196,
+      "end_char": 48205
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 48209,
+      "end_char": 48219
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 48221,
+      "end_char": 48238
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 48240,
+      "end_char": 48294
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 48296,
+      "end_char": 48316
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 48839,
+      "end_char": 48844
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 49655,
+      "end_char": 49664
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 49668,
+      "end_char": 49678
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 49680,
+      "end_char": 49697
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 49699,
+      "end_char": 49753
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 49755,
+      "end_char": 49775
+    },
+    {
+      "text": "Excise and Taxation Officer−cum−Assessing Authority v. Gopi Nath & Sons [1992 Supp (2) SCC 312]",
+      "label": "PRECEDENT",
+      "start_char": 50013,
+      "end_char": 50108
+    },
+    {
+      "text": "Kuldeep Singh v. Commr",
+      "label": "PRECEDENT",
+      "start_char": 50487,
+      "end_char": 50509
+    },
+    {
+      "text": "Police [(1999) 2 SCC 10: 1999 SCC (L&S) 429]",
+      "label": "PRECEDENT",
+      "start_char": 50514,
+      "end_char": 50558
+    },
+    {
+      "text": "OMAXE Ltd Vs Asha Saini (RAJ KUMAR CHAUHAN) District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "PRECEDENT",
+      "start_char": 51074,
+      "end_char": 51172
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 51174,
+      "end_char": 51194
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 52092,
+      "end_char": 52102
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 52107,
+      "end_char": 52117
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 52302,
+      "end_char": 52312
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 52317,
+      "end_char": 52327
+    },
+    {
+      "text": "& M/s OMAXE Ltd Vs Asha Saini (RAJ KUMAR CHAUHAN) District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "PRECEDENT",
+      "start_char": 52419,
+      "end_char": 52523
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 52525,
+      "end_char": 52545
+    },
+    {
+      "text": "National Consumer Disputes Redressal Commission",
+      "label": "ORG",
+      "start_char": 52703,
+      "end_char": 52750
+    },
+    {
+      "text": "section 14",
+      "label": "PROVISION",
+      "start_char": 53067,
+      "end_char": 53077
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 53085,
+      "end_char": 53099
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 53763,
+      "end_char": 53772
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 53776,
+      "end_char": 53786
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 53788,
+      "end_char": 53805
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 53807,
+      "end_char": 53861
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 53863,
+      "end_char": 53883
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 54468,
+      "end_char": 54478
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 54516,
+      "end_char": 54526
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 55230,
+      "end_char": 55239
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 55243,
+      "end_char": 55253
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 55255,
+      "end_char": 55272
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 55274,
+      "end_char": 55328
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 55330,
+      "end_char": 55350
+    },
+    {
+      "text": "12.12.2017",
+      "label": "DATE",
+      "start_char": 55584,
+      "end_char": 55594
+    },
+    {
+      "text": "21.03.2006",
+      "label": "DATE",
+      "start_char": 56003,
+      "end_char": 56013
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 56735,
+      "end_char": 56744
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 56748,
+      "end_char": 56758
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 56760,
+      "end_char": 56777
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 56779,
+      "end_char": 56833
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 56835,
+      "end_char": 56855
+    },
+    {
+      "text": "23.03.2006",
+      "label": "DATE",
+      "start_char": 57263,
+      "end_char": 57273
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 57436,
+      "end_char": 57446
+    },
+    {
+      "text": "23.03.2006",
+      "label": "DATE",
+      "start_char": 57747,
+      "end_char": 57757
+    },
+    {
+      "text": "27.09.2007",
+      "label": "DATE",
+      "start_char": 57850,
+      "end_char": 57860
+    },
+    {
+      "text": "22.07.2008",
+      "label": "DATE",
+      "start_char": 57862,
+      "end_char": 57872
+    },
+    {
+      "text": "27.09.2008",
+      "label": "DATE",
+      "start_char": 57874,
+      "end_char": 57884
+    },
+    {
+      "text": "18.11.2008",
+      "label": "DATE",
+      "start_char": 57886,
+      "end_char": 57896
+    },
+    {
+      "text": "30.01.2009",
+      "label": "DATE",
+      "start_char": 57901,
+      "end_char": 57911
+    },
+    {
+      "text": "23.03.2006",
+      "label": "DATE",
+      "start_char": 57952,
+      "end_char": 57962
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 57994,
+      "end_char": 58003
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 58007,
+      "end_char": 58017
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 58019,
+      "end_char": 58036
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 58038,
+      "end_char": 58092
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 58094,
+      "end_char": 58114
+    },
+    {
+      "text": "23.03.2006",
+      "label": "DATE",
+      "start_char": 58289,
+      "end_char": 58299
+    },
+    {
+      "text": "23.03.2006",
+      "label": "DATE",
+      "start_char": 58392,
+      "end_char": 58402
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 58408,
+      "end_char": 58418
+    },
+    {
+      "text": "23.03.2006",
+      "label": "DATE",
+      "start_char": 58497,
+      "end_char": 58507
+    },
+    {
+      "text": "23.03.2006",
+      "label": "DATE",
+      "start_char": 58750,
+      "end_char": 58760
+    },
+    {
+      "text": "23.03.2006",
+      "label": "DATE",
+      "start_char": 59169,
+      "end_char": 59179
+    },
+    {
+      "text": "M/s OMAXE Ltd Vs Asha Saini (RAJ KUMAR CHAUHAN)",
+      "label": "PRECEDENT",
+      "start_char": 59197,
+      "end_char": 59244
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 59245,
+      "end_char": 59299
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 59301,
+      "end_char": 59321
+    },
+    {
+      "text": "Arbitration & Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 60017,
+      "end_char": 60053
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 60216,
+      "end_char": 60225
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 60345,
+      "end_char": 60354
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 60358,
+      "end_char": 60368
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 60370,
+      "end_char": 60387
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 60389,
+      "end_char": 60443
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 60445,
+      "end_char": 60465
+    },
+    {
+      "text": "21.03.2006",
+      "label": "DATE",
+      "start_char": 61787,
+      "end_char": 61797
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 61952,
+      "end_char": 61961
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 61965,
+      "end_char": 61975
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 61977,
+      "end_char": 61994
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 61996,
+      "end_char": 62050
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 62052,
+      "end_char": 62072
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 62287,
+      "end_char": 62297
+    },
+    {
+      "text": "23.03.2006",
+      "label": "DATE",
+      "start_char": 62371,
+      "end_char": 62381
+    },
+    {
+      "text": "23.03.2006",
+      "label": "DATE",
+      "start_char": 62532,
+      "end_char": 62542
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 62769,
+      "end_char": 62779
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 62896,
+      "end_char": 62906
+    },
+    {
+      "text": "23.03.2006",
+      "label": "DATE",
+      "start_char": 63102,
+      "end_char": 63112
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 63123,
+      "end_char": 63132
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 63136,
+      "end_char": 63146
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 63148,
+      "end_char": 63165
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 63167,
+      "end_char": 63221
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 63223,
+      "end_char": 63243
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 63292,
+      "end_char": 63302
+    },
+    {
+      "text": "petition no. 53/19",
+      "label": "CASE_NUMBER",
+      "start_char": 63553,
+      "end_char": 63571
+    },
+    {
+      "text": "petition no. 50/19",
+      "label": "CASE_NUMBER",
+      "start_char": 63591,
+      "end_char": 63609
+    },
+    {
+      "text": "23.03.2006",
+      "label": "DATE",
+      "start_char": 64110,
+      "end_char": 64120
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 64177,
+      "end_char": 64187
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 64205,
+      "end_char": 64215
+    },
+    {
+      "text": "petition no. 50/19",
+      "label": "CASE_NUMBER",
+      "start_char": 64219,
+      "end_char": 64237
+    },
+    {
+      "text": "23.03.2006",
+      "label": "DATE",
+      "start_char": 64287,
+      "end_char": 64297
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 64420,
+      "end_char": 64429
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 64433,
+      "end_char": 64443
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 64445,
+      "end_char": 64462
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 64464,
+      "end_char": 64518
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 64520,
+      "end_char": 64540
+    },
+    {
+      "text": "Contract Act",
+      "label": "STATUTE",
+      "start_char": 64747,
+      "end_char": 64759
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 65621,
+      "end_char": 65630
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 65634,
+      "end_char": 65644
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 65646,
+      "end_char": 65663
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 65665,
+      "end_char": 65719
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 65721,
+      "end_char": 65741
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 65782,
+      "end_char": 65792
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 65810,
+      "end_char": 65820
+    },
+    {
+      "text": "petition no. 50/19",
+      "label": "CASE_NUMBER",
+      "start_char": 65824,
+      "end_char": 65842
+    },
+    {
+      "text": "29.01.2009",
+      "label": "DATE",
+      "start_char": 66543,
+      "end_char": 66553
+    },
+    {
+      "text": "30.01.2009",
+      "label": "DATE",
+      "start_char": 66744,
+      "end_char": 66754
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 66841,
+      "end_char": 66850
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 66854,
+      "end_char": 66864
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 66866,
+      "end_char": 66883
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 66885,
+      "end_char": 66939
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 66941,
+      "end_char": 66961
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 67925,
+      "end_char": 67935
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 67953,
+      "end_char": 67963
+    },
+    {
+      "text": "petition no. 50/19",
+      "label": "CASE_NUMBER",
+      "start_char": 67967,
+      "end_char": 67985
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 68027,
+      "end_char": 68036
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 68040,
+      "end_char": 68050
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 68052,
+      "end_char": 68069
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 68071,
+      "end_char": 68125
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 68127,
+      "end_char": 68147
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 68245,
+      "end_char": 68255
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 68273,
+      "end_char": 68283
+    },
+    {
+      "text": "petition no. 50/19",
+      "label": "CASE_NUMBER",
+      "start_char": 68287,
+      "end_char": 68305
+    },
+    {
+      "text": "23.03.2006",
+      "label": "DATE",
+      "start_char": 68380,
+      "end_char": 68390
+    },
+    {
+      "text": "23.03.2006",
+      "label": "DATE",
+      "start_char": 68541,
+      "end_char": 68551
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 68778,
+      "end_char": 68788
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 68806,
+      "end_char": 68816
+    },
+    {
+      "text": "petition no. 50/19",
+      "label": "CASE_NUMBER",
+      "start_char": 68820,
+      "end_char": 68838
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 68956,
+      "end_char": 68966
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 68984,
+      "end_char": 68994
+    },
+    {
+      "text": "petition no. 50/19",
+      "label": "CASE_NUMBER",
+      "start_char": 68998,
+      "end_char": 69016
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 69240,
+      "end_char": 69249
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 69253,
+      "end_char": 69263
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 69265,
+      "end_char": 69282
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 69284,
+      "end_char": 69338
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 69340,
+      "end_char": 69360
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 69600,
+      "end_char": 69613
+    },
+    {
+      "text": "National Consumer Disputes Redressal Commission",
+      "label": "ORG",
+      "start_char": 69628,
+      "end_char": 69675
+    },
+    {
+      "text": "Yogesh Sharma Vs.",
+      "label": "PRECEDENT",
+      "start_char": 69698,
+      "end_char": 69715
+    },
+    {
+      "text": "Unitech Limited",
+      "label": "ORG",
+      "start_char": 69716,
+      "end_char": 69731
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 70410,
+      "end_char": 70419
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 70423,
+      "end_char": 70433
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 70435,
+      "end_char": 70452
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 70454,
+      "end_char": 70508
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 70510,
+      "end_char": 70530
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 70738,
+      "end_char": 70748
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 70766,
+      "end_char": 70776
+    },
+    {
+      "text": "petition no. 50/19",
+      "label": "CASE_NUMBER",
+      "start_char": 70780,
+      "end_char": 70798
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 71148,
+      "end_char": 71158
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 71176,
+      "end_char": 71186
+    },
+    {
+      "text": "petition no. 50/19",
+      "label": "CASE_NUMBER",
+      "start_char": 71190,
+      "end_char": 71208
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 71311,
+      "end_char": 71321
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 71339,
+      "end_char": 71349
+    },
+    {
+      "text": "petition no. 50/19",
+      "label": "CASE_NUMBER",
+      "start_char": 71353,
+      "end_char": 71371
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 71560,
+      "end_char": 71569
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 71573,
+      "end_char": 71583
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 71585,
+      "end_char": 71602
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 71604,
+      "end_char": 71658
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 71660,
+      "end_char": 71680
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 72250,
+      "end_char": 72260
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 72278,
+      "end_char": 72288
+    },
+    {
+      "text": "petition no. 50/19",
+      "label": "CASE_NUMBER",
+      "start_char": 72292,
+      "end_char": 72310
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 72715,
+      "end_char": 72724
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 72728,
+      "end_char": 72738
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 72740,
+      "end_char": 72757
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 72759,
+      "end_char": 72813
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 72815,
+      "end_char": 72835
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 73820,
+      "end_char": 73829
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 73833,
+      "end_char": 73843
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 73845,
+      "end_char": 73862
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 73864,
+      "end_char": 73918
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 73920,
+      "end_char": 73940
+    },
+    {
+      "text": "21.03.2006",
+      "label": "DATE",
+      "start_char": 74474,
+      "end_char": 74484
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 74922,
+      "end_char": 74931
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 74935,
+      "end_char": 74945
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 74947,
+      "end_char": 74964
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 74966,
+      "end_char": 75020
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 75022,
+      "end_char": 75042
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 75228,
+      "end_char": 75238
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 75256,
+      "end_char": 75266
+    },
+    {
+      "text": "petition no. 50/19",
+      "label": "CASE_NUMBER",
+      "start_char": 75270,
+      "end_char": 75288
+    },
+    {
+      "text": "23.03.2006",
+      "label": "DATE",
+      "start_char": 75814,
+      "end_char": 75824
+    },
+    {
+      "text": "Sale Deed",
+      "label": "OTHER_PERSON",
+      "start_char": 76015,
+      "end_char": 76024
+    },
+    {
+      "text": "08.01.2014",
+      "label": "DATE",
+      "start_char": 76041,
+      "end_char": 76051
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 76129,
+      "end_char": 76138
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 76142,
+      "end_char": 76152
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 76154,
+      "end_char": 76171
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 76173,
+      "end_char": 76227
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 76229,
+      "end_char": 76249
+    },
+    {
+      "text": "petition no.50/19",
+      "label": "CASE_NUMBER",
+      "start_char": 76846,
+      "end_char": 76863
+    },
+    {
+      "text": "08.01.2014",
+      "label": "DATE",
+      "start_char": 76933,
+      "end_char": 76943
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 77308,
+      "end_char": 77317
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 77321,
+      "end_char": 77331
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 77333,
+      "end_char": 77350
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 77352,
+      "end_char": 77406
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 77408,
+      "end_char": 77428
+    },
+    {
+      "text": "09.02.2012",
+      "label": "DATE",
+      "start_char": 77603,
+      "end_char": 77613
+    },
+    {
+      "text": "02.02.2012",
+      "label": "DATE",
+      "start_char": 77631,
+      "end_char": 77641
+    },
+    {
+      "text": "petition no. 50/19",
+      "label": "CASE_NUMBER",
+      "start_char": 77645,
+      "end_char": 77663
+    },
+    {
+      "text": "23.03.2006",
+      "label": "DATE",
+      "start_char": 77869,
+      "end_char": 77879
+    },
+    {
+      "text": "23.03.2009",
+      "label": "DATE",
+      "start_char": 77993,
+      "end_char": 78003
+    },
+    {
+      "text": "01.04.2009",
+      "label": "DATE",
+      "start_char": 78166,
+      "end_char": 78176
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 78470,
+      "end_char": 78479
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 78483,
+      "end_char": 78493
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 78495,
+      "end_char": 78512
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 78514,
+      "end_char": 78568
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 78570,
+      "end_char": 78590
+    },
+    {
+      "text": "petition no.50/19",
+      "label": "CASE_NUMBER",
+      "start_char": 78647,
+      "end_char": 78664
+    },
+    {
+      "text": "NCDRC",
+      "label": "ORG",
+      "start_char": 79265,
+      "end_char": 79270
+    },
+    {
+      "text": "Yogesh Sharma Versus Unitech Ltd",
+      "label": "PRECEDENT",
+      "start_char": 79288,
+      "end_char": 79320
+    },
+    {
+      "text": "NCDRC",
+      "label": "ORG",
+      "start_char": 79331,
+      "end_char": 79336
+    },
+    {
+      "text": "23.09.2009",
+      "label": "DATE",
+      "start_char": 79507,
+      "end_char": 79517
+    },
+    {
+      "text": "23.03.2006",
+      "label": "DATE",
+      "start_char": 79598,
+      "end_char": 79608
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 79667,
+      "end_char": 79676
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 79680,
+      "end_char": 79690
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 79692,
+      "end_char": 79709
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 79711,
+      "end_char": 79765
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 79767,
+      "end_char": 79787
+    },
+    {
+      "text": "08.01.2014",
+      "label": "DATE",
+      "start_char": 79812,
+      "end_char": 79822
+    },
+    {
+      "text": "petition no.50/19",
+      "label": "CASE_NUMBER",
+      "start_char": 79928,
+      "end_char": 79945
+    },
+    {
+      "text": "23.03.2006",
+      "label": "DATE",
+      "start_char": 80925,
+      "end_char": 80935
+    },
+    {
+      "text": "08.01.2014",
+      "label": "DATE",
+      "start_char": 81068,
+      "end_char": 81078
+    },
+    {
+      "text": "section 21",
+      "label": "PROVISION",
+      "start_char": 81096,
+      "end_char": 81106
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 81114,
+      "end_char": 81129
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 81150,
+      "end_char": 81159
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 81163,
+      "end_char": 81173
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 81175,
+      "end_char": 81192
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 81194,
+      "end_char": 81248
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 81250,
+      "end_char": 81270
+    },
+    {
+      "text": "22.08.2017",
+      "label": "DATE",
+      "start_char": 81295,
+      "end_char": 81305
+    },
+    {
+      "text": "District Court Saket",
+      "label": "COURT",
+      "start_char": 81541,
+      "end_char": 81561
+    },
+    {
+      "text": "section 8",
+      "label": "PROVISION",
+      "start_char": 81629,
+      "end_char": 81638
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 81646,
+      "end_char": 81661
+    },
+    {
+      "text": "s 8",
+      "label": "PROVISION",
+      "start_char": 81838,
+      "end_char": 81841
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 81849,
+      "end_char": 81864
+    },
+    {
+      "text": "s 21",
+      "label": "PROVISION",
+      "start_char": 81939,
+      "end_char": 81943
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 81951,
+      "end_char": 81966
+    },
+    {
+      "text": "section 14",
+      "label": "PROVISION",
+      "start_char": 82180,
+      "end_char": 82190
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 82194,
+      "end_char": 82208
+    },
+    {
+      "text": "section 14",
+      "label": "PROVISION",
+      "start_char": 82344,
+      "end_char": 82354
+    },
+    {
+      "text": "Limitation act",
+      "label": "STATUTE",
+      "start_char": 82362,
+      "end_char": 82376
+    },
+    {
+      "text": "section 14",
+      "label": "PROVISION",
+      "start_char": 82594,
+      "end_char": 82604
+    },
+    {
+      "text": "Limitation act",
+      "label": "STATUTE",
+      "start_char": 82608,
+      "end_char": 82622
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 82828,
+      "end_char": 82837
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 82841,
+      "end_char": 82851
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 82853,
+      "end_char": 82870
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 82872,
+      "end_char": 82926
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 82928,
+      "end_char": 82948
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 83188,
+      "end_char": 83203
+    },
+    {
+      "text": "Swan Gold Mine vs Hindustan Copper",
+      "label": "PRECEDENT",
+      "start_char": 83769,
+      "end_char": 83803
+    },
+    {
+      "text": "Oil & Natural Gas Corporation Ltd. vs Saw Pipes Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 83819,
+      "end_char": 83871
+    },
+    {
+      "text": "PSA SICAL Terminals Pvt",
+      "label": "PRECEDENT",
+      "start_char": 83890,
+      "end_char": 83913
+    },
+    {
+      "text": "Ltd. vs. The Board of Trustee of VO Chidambranar for Trust Tuticorin & Ors.(supra",
+      "label": "PRECEDENT",
+      "start_char": 83915,
+      "end_char": 83996
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 84448,
+      "end_char": 84457
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 84461,
+      "end_char": 84471
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 84473,
+      "end_char": 84490
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 84492,
+      "end_char": 84546
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 84548,
+      "end_char": 84568
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 85249,
+      "end_char": 85259
+    },
+    {
+      "text": "no. 53/19",
+      "label": "CASE_NUMBER",
+      "start_char": 85455,
+      "end_char": 85464
+    },
+    {
+      "text": "RAJ KUMAR",
+      "label": "OTHER_PERSON",
+      "start_char": 85562,
+      "end_char": 85571
+    },
+    {
+      "text": "11.01.2022",
+      "label": "DATE",
+      "start_char": 85685,
+      "end_char": 85695
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "OTHER_PERSON",
+      "start_char": 85953,
+      "end_char": 85970
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 85973,
+      "end_char": 86027
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 86029,
+      "end_char": 86038
+    },
+    {
+      "text": "OMAXE Ltd",
+      "label": "ORG",
+      "start_char": 86047,
+      "end_char": 86056
+    },
+    {
+      "text": "Asha Saini",
+      "label": "JUDGE",
+      "start_char": 86060,
+      "end_char": 86070
+    },
+    {
+      "text": "RAJ KUMAR CHAUHAN",
+      "label": "JUDGE",
+      "start_char": 86072,
+      "end_char": 86089
+    },
+    {
+      "text": "District Judge (Commercial Court)-01 South-East, Saket",
+      "label": "COURT",
+      "start_char": 86091,
+      "end_char": 86145
+    },
+    {
+      "text": "New Delhi.11.01.2022",
+      "label": "GPE",
+      "start_char": 86147,
+      "end_char": 86167
+    }
+  ],
+  "precedent_clusters": {
+    "PSA SICAL Terminals Pvt. Ltd. vs. The Board of Trustees of VO Chidambranar Port Trust Tuticorin & Ors., Civil Appeal No. 3699-3700/2018": [
+      "OPC v. Whether Claimant",
+      "OMAXE Ltd Vs Asha Saini (RAJ KUMAR CHAUHAN)",
+      "Oil and Natural Gas Corporation Ltd Vs Westen Geco International Ltd (civil appeal no. 3415 of 2007",
+      "Oil and Natural Gas Corporation Ltd Vs Saw Pipes Ltd (Appeal(civil) no. 7419 of 2001",
+      "Sharma and Associates Contractors Pvt Ltd Vs.",
+      "Food Corporation of India vs Chandu Construction and Ors, (Manu/SC/7285/2007)",
+      "R.Natesan vs R.Padmanaben",
+      "State of Goa Vs Praveen Enterprises (CA no. 4987 of 2011",
+      "Mumbai Vs Ingersoll Rand (India) Ltd, Bangalore & Anr , 2011(1)",
+      "Commissioner, M.P. Housing Board & Ors Vs.",
+      "Ltd Vs Pradyuat Deb Burman, CA no. 7023 of 2019",
+      "Pioneer Urban Land & Infrastructure Ltd V & M/s",
+      "Associate Builders VS Delhi Development Authority MANU/SC/1076/2014",
+      "Swan Gold Mine vs Hindustan Copper,MANU/SC/0849/2014\"",
+      "Oil & Natural Gas Corporation Ltd. vs Saw Pipes Ltd., (2003)",
+      "PSA SICAL Terminals Pvt. Ltd. vs. The Board of Trustees of VO Chidambranar Port Trust Tuticorin & Ors., Civil Appeal No. 3699-3700/2018",
+      "Kuldeep Singh v. Commr",
+      "M/s OMAXE Ltd Vs Asha Saini (RAJ KUMAR CHAUHAN)",
+      "Yogesh Sharma Vs.",
+      "Yogesh Sharma Versus Unitech Ltd",
+      "Swan Gold Mine vs Hindustan Copper",
+      "Oil & Natural Gas Corporation Ltd. vs Saw Pipes Ltd.",
+      "PSA SICAL Terminals Pvt",
+      "Ltd. vs. The Board of Trustee of VO Chidambranar for Trust Tuticorin & Ors.(supra"
+    ],
+    "& M/s OMAXE Ltd Vs Asha Saini (RAJ KUMAR CHAUHAN) District Judge (Commercial Court)-01 South-East, Saket": [
+      "OMAXE Ltd Vs Asha Saini (RAJ KUMAR CHAUHAN) District Judge (Commercial Court)-01 South-East, Saket",
+      "& M/s OMAXE Ltd Vs Asha Saini (RAJ KUMAR CHAUHAN) District Judge (Commercial Court)-01 South-East, Saket"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "s 34",
+      "Arbitration and Conciliation Act, 1996",
+      "s 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 33",
+      "Arbitration Act",
+      "section 33",
+      "Arbitration Act"
+    ],
+    [
+      "section 62",
+      "Indian Contract Act",
+      "section 62",
+      "Indian Contract Act"
+    ],
+    [
+      "section 74",
+      "Contract Act",
+      "section 74",
+      "Contract Act"
+    ],
+    [
+      "s 21",
+      "Arbitration Act",
+      "s 21",
+      "Arbitration Act"
+    ],
+    [
+      "section 21",
+      "Arbitration Act",
+      "section 21",
+      "Arbitration Act"
+    ],
+    [
+      "Section 74",
+      "Indian Contract Act, 1872",
+      "Section 74",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "section 74",
+      "Indian Contract Act",
+      "section 74",
+      "Indian Contract Act"
+    ],
+    [
+      "article 27",
+      "limitation Act",
+      "article 27",
+      "limitation Act"
+    ],
+    [
+      "section 21",
+      "Arbitration Act",
+      "section 21",
+      "Arbitration Act"
+    ],
+    [
+      "section 14",
+      "Limitation Act",
+      "section 14",
+      "Limitation Act"
+    ],
+    [
+      "section 14",
+      "Limitation Act",
+      "section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 62",
+      "Indian contract Act",
+      "Section 62",
+      "Indian contract Act"
+    ],
+    [
+      "Section 62",
+      "Contract Act",
+      "Section 62",
+      "Contract Act"
+    ],
+    [
+      "Section 14",
+      "Limitation Act",
+      "Section 14",
+      "Limitation Act"
+    ],
+    [
+      "section 14",
+      "Limitation Act",
+      "section 14",
+      "Limitation Act"
+    ],
+    [
+      "Section 34 (1), (2) and (2A)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34 (1), (2) and (2A)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "s 34",
+      "Arbitration Act",
+      "s 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 18 and 34(2)(a)\n(iii)",
+      "Arbitration Act",
+      "Section 18 and 34(2)(a)\n(iii)",
+      "Arbitration Act"
+    ],
+    [
+      "section 14",
+      "Limitation Act",
+      "section 14",
+      "Limitation Act"
+    ],
+    [
+      "section 21",
+      "Arbitration Act",
+      "section 21",
+      "Arbitration Act"
+    ],
+    [
+      "section 8",
+      "Arbitration Act",
+      "section 8",
+      "Arbitration Act"
+    ],
+    [
+      "s 8",
+      "Arbitration Act",
+      "s 8",
+      "Arbitration Act"
+    ],
+    [
+      "s 21",
+      "Arbitration Act",
+      "s 21",
+      "Arbitration Act"
+    ],
+    [
+      "section 14",
+      "Limitation Act",
+      "section 14",
+      "Limitation Act"
+    ],
+    [
+      "section 14",
+      "Limitation act",
+      "section 14",
+      "Limitation act"
+    ],
+    [
+      "section 14",
+      "Limitation act",
+      "section 14",
+      "Limitation act"
+    ],
+    [
+      "Clause-17, 21 and 22",
+      "Arbitration Act",
+      "Clause-17, 21 and 22",
+      "Arbitration Act"
+    ],
+    [
+      "Section 62",
+      "Indian Contract Act",
+      "Section 62",
+      "Indian Contract Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Sections 34(2)(a), (b) and (2A)",
+      "Arbitration and Conciliation Act, 1996",
+      "Sections 34(2)(a), (b) and (2A)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 11",
+      "Arbitration Act",
+      "section 11",
+      "Arbitration Act"
+    ],
+    [
+      "clause-17, 20,22",
+      "Arbitration Act",
+      "clause-17, 20,22",
+      "Arbitration Act"
+    ],
+    [
+      "clauses 28(a) and 28(f)",
+      "Indian Contract Act",
+      "clauses 28(a) and 28(f)",
+      "Indian Contract Act"
+    ],
+    [
+      "Section 5",
+      "Arbitration Act",
+      "Section 5",
+      "Arbitration Act"
+    ],
+    [
+      "Section 75 or Section 81",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 75 or Section 81",
+      "Arbitration and Conciliation Act, 1996"
+    ]
+  ],
+  "precedent_counts": {
+    "PSA SICAL Terminals Pvt. Ltd. vs. The Board of Trustees of VO Chidambranar Port Trust Tuticorin & Ors., Civil Appeal No. 3699-3700/2018": 24,
+    "& M/s OMAXE Ltd Vs Asha Saini (RAJ KUMAR CHAUHAN) District Judge (Commercial Court)-01 South-East, Saket": 2
+  },
+  "provision_counts": {
+    "s 34 of Arbitration and Conciliation Act, 1996": 1,
+    "section 33 of Arbitration Act": 1,
+    "section 62 of Indian Contract Act": 1,
+    "section 74 of Contract Act": 1,
+    "s 21 of Arbitration Act": 2,
+    "section 21 of Arbitration Act": 3,
+    "Section 74 of Indian Contract Act, 1872": 1,
+    "section 74 of Indian Contract Act": 1,
+    "article 27 of limitation Act": 1,
+    "section 14 of Limitation Act": 5,
+    "Section 62 of Indian contract Act": 1,
+    "Section 62 of Contract Act": 1,
+    "Section 14 of Limitation Act": 1,
+    "Section 34 (1), (2) and (2A) of Arbitration and Conciliation Act, 1996": 1,
+    "s 34 of Arbitration Act": 1,
+    "Section 34 of Arbitration Act": 2,
+    "Section 18 and 34(2)(a)\n(iii) of Arbitration Act": 1,
+    "section 8 of Arbitration Act": 1,
+    "s 8 of Arbitration Act": 1,
+    "section 14 of Limitation act": 2,
+    "Clause-17, 21 and 22 of Arbitration Act": 1,
+    "Section 62 of Indian Contract Act": 1,
+    "Section 34 of Arbitration and Conciliation Act, 1996": 2,
+    "section 34 of Arbitration and Conciliation Act, 1996": 1,
+    "Sections 34(2)(a), (b) and (2A) of Arbitration and Conciliation Act, 1996": 1,
+    "section 11 of Arbitration Act": 1,
+    "clause-17, 20,22 of Arbitration Act": 1,
+    "clauses 28(a) and 28(f) of Indian Contract Act": 1,
+    "Section 5 of Arbitration Act": 1,
+    "Section 75 or Section 81 of Arbitration and Conciliation Act, 1996": 1
+  },
+  "statute_counts": {
+    "Arbitration and Conciliation Act, 1996": 7,
+    "Arbitration Act": 16,
+    "Indian Contract Act": 4,
+    "Contract Act": 2,
+    "Indian Contract Act, 1872": 1,
+    "limitation Act": 1,
+    "Limitation Act": 6,
+    "Indian contract Act": 1,
+    "Limitation act": 2
+  }
+}

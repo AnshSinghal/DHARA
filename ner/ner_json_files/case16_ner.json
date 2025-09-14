@@ -1,0 +1,4319 @@
+{
+  "entities": [
+    {
+      "text": "Supreme Court of India",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 22
+    },
+    {
+      "text": "Reliance Infrastructure Ltd.",
+      "label": "PETITIONER",
+      "start_char": 23,
+      "end_char": 51
+    },
+    {
+      "text": "State Of Goa",
+      "label": "RESPONDENT",
+      "start_char": 55,
+      "end_char": 67
+    },
+    {
+      "text": "Dinesh Maheshwari",
+      "label": "LAWYER",
+      "start_char": 92,
+      "end_char": 109
+    },
+    {
+      "text": "Sanjay Kumar",
+      "label": "JUDGE",
+      "start_char": 117,
+      "end_char": 129
+    },
+    {
+      "text": "Dinesh Maheshwari",
+      "label": "JUDGE",
+      "start_char": 131,
+      "end_char": 148
+    },
+    {
+      "text": "Supreme Court Of India",
+      "label": "COURT",
+      "start_char": 318,
+      "end_char": 340
+    },
+    {
+      "text": "Reliance Infrastructure Ltd.",
+      "label": "PETITIONER",
+      "start_char": 579,
+      "end_char": 607
+    },
+    {
+      "text": "DINESH MAHESHWARI",
+      "label": "JUDGE",
+      "start_char": 1160,
+      "end_char": 1177
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 1579,
+      "end_char": 1589
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 1671,
+      "end_char": 1681
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 2053,
+      "end_char": 2063
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 2094,
+      "end_char": 2104
+    },
+    {
+      "text": "08.03.2021",
+      "label": "DATE",
+      "start_char": 3054,
+      "end_char": 3064
+    },
+    {
+      "text": "High Court of Judicature at Bombay, Goa Bench",
+      "label": "COURT",
+      "start_char": 3083,
+      "end_char": 3128
+    },
+    {
+      "text": "Commercial Appeal No. 12 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 3132,
+      "end_char": 3164
+    },
+    {
+      "text": "Reliance Infrastructure Limited1",
+      "label": "ORG",
+      "start_char": 3173,
+      "end_char": 3205
+    },
+    {
+      "text": "SLP (Civil) No.8493 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 3239,
+      "end_char": 3266
+    },
+    {
+      "text": "State of Goa2",
+      "label": "ORG",
+      "start_char": 3287,
+      "end_char": 3300
+    },
+    {
+      "text": "SLP (Civil) No.16778 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 3334,
+      "end_char": 3362
+    },
+    {
+      "text": "08.03.2021",
+      "label": "DATE",
+      "start_char": 3501,
+      "end_char": 3511
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 3548,
+      "end_char": 3558
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 19963",
+      "label": "STATUTE",
+      "start_char": 3566,
+      "end_char": 3605
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 3616,
+      "end_char": 3626
+    },
+    {
+      "text": "Commercial Courts, Commercial Division and Commercial Appellate Divisions of High Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 3634,
+      "end_char": 3732
+    },
+    {
+      "text": "12.09.2019",
+      "label": "DATE",
+      "start_char": 3788,
+      "end_char": 3798
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 3915,
+      "end_char": 3925
+    },
+    {
+      "text": "16.02.2018",
+      "label": "DATE",
+      "start_char": 3982,
+      "end_char": 3992
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 4198,
+      "end_char": 4215
+    },
+    {
+      "text": "10.01.1997",
+      "label": "DATE",
+      "start_char": 4500,
+      "end_char": 4510
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 4575,
+      "end_char": 4592
+    },
+    {
+      "text": "14.08.1999",
+      "label": "DATE",
+      "start_char": 4681,
+      "end_char": 4691
+    },
+    {
+      "text": "13.08.2014",
+      "label": "DATE",
+      "start_char": 4695,
+      "end_char": 4705
+    },
+    {
+      "text": "14.08.1999",
+      "label": "DATE",
+      "start_char": 4876,
+      "end_char": 4886
+    },
+    {
+      "text": "10.09.1997",
+      "label": "DATE",
+      "start_char": 5061,
+      "end_char": 5071
+    },
+    {
+      "text": "20.09.2000",
+      "label": "DATE",
+      "start_char": 5427,
+      "end_char": 5437
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 5805,
+      "end_char": 5822
+    },
+    {
+      "text": "05.11.2001",
+      "label": "DATE",
+      "start_char": 5952,
+      "end_char": 5962
+    },
+    {
+      "text": "PPA",
+      "label": "COURT",
+      "start_char": 6149,
+      "end_char": 6152
+    },
+    {
+      "text": "13.08.2014",
+      "label": "DATE",
+      "start_char": 6165,
+      "end_char": 6175
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 6294,
+      "end_char": 6311
+    },
+    {
+      "text": "20.03.2013",
+      "label": "DATE",
+      "start_char": 6401,
+      "end_char": 6411
+    },
+    {
+      "text": "PPA",
+      "label": "COURT",
+      "start_char": 6452,
+      "end_char": 6455
+    },
+    {
+      "text": "21.03.2013",
+      "label": "DATE",
+      "start_char": 6510,
+      "end_char": 6520
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 6560,
+      "end_char": 6577
+    },
+    {
+      "text": "Goa",
+      "label": "GPE",
+      "start_char": 6669,
+      "end_char": 6672
+    },
+    {
+      "text": "GAIL",
+      "label": "ORG",
+      "start_char": 6676,
+      "end_char": 6680
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 6791,
+      "end_char": 6808
+    },
+    {
+      "text": "4.3.1",
+      "label": "DATE",
+      "start_char": 7041,
+      "end_char": 7046
+    },
+    {
+      "text": "26.04.2013",
+      "label": "DATE",
+      "start_char": 7051,
+      "end_char": 7061
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 7067,
+      "end_char": 7084
+    },
+    {
+      "text": "21.03.2013",
+      "label": "DATE",
+      "start_char": 7124,
+      "end_char": 7134
+    },
+    {
+      "text": "01/04/2013",
+      "label": "DATE",
+      "start_char": 7298,
+      "end_char": 7308
+    },
+    {
+      "text": "21/03/2013",
+      "label": "DATE",
+      "start_char": 7358,
+      "end_char": 7368
+    },
+    {
+      "text": "1st April 2013",
+      "label": "DATE",
+      "start_char": 7562,
+      "end_char": 7576
+    },
+    {
+      "text": "4.3.2",
+      "label": "DATE",
+      "start_char": 7579,
+      "end_char": 7584
+    },
+    {
+      "text": "30.04.2013",
+      "label": "DATE",
+      "start_char": 7589,
+      "end_char": 7599
+    },
+    {
+      "text": "21.03.2013",
+      "label": "DATE",
+      "start_char": 7840,
+      "end_char": 7850
+    },
+    {
+      "text": "4.3.3",
+      "label": "DATE",
+      "start_char": 8095,
+      "end_char": 8100
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 8159,
+      "end_char": 8176
+    },
+    {
+      "text": "PPA",
+      "label": "COURT",
+      "start_char": 8390,
+      "end_char": 8393
+    },
+    {
+      "text": "23.05.2013",
+      "label": "DATE",
+      "start_char": 8635,
+      "end_char": 8645
+    },
+    {
+      "text": "23.05.2013",
+      "label": "DATE",
+      "start_char": 8712,
+      "end_char": 8722
+    },
+    {
+      "text": "GOVERNMENT OF GOA ELECTRICTY DEPARTMENT OFFICE OF THE CHIEF ELECTRICAL ENGINEER",
+      "label": "ORG",
+      "start_char": 8764,
+      "end_char": 8843
+    },
+    {
+      "text": "23.05.2013",
+      "label": "DATE",
+      "start_char": 8878,
+      "end_char": 8888
+    },
+    {
+      "text": "Reliance Infrastructure Limited",
+      "label": "ORG",
+      "start_char": 8898,
+      "end_char": 8929
+    },
+    {
+      "text": "Goa",
+      "label": "GPE",
+      "start_char": 8931,
+      "end_char": 8934
+    },
+    {
+      "text": "Zurinagar",
+      "label": "GPE",
+      "start_char": 8983,
+      "end_char": 8992
+    },
+    {
+      "text": "Goa-",
+      "label": "GPE",
+      "start_char": 8994,
+      "end_char": 8998
+    },
+    {
+      "text": "21.03.2013",
+      "label": "DATE",
+      "start_char": 9084,
+      "end_char": 9094
+    },
+    {
+      "text": "State of Goa",
+      "label": "ORG",
+      "start_char": 9171,
+      "end_char": 9183
+    },
+    {
+      "text": "21.03.2013",
+      "label": "DATE",
+      "start_char": 9352,
+      "end_char": 9362
+    },
+    {
+      "text": "S. Lekshminath",
+      "label": "OTHER_PERSON",
+      "start_char": 9602,
+      "end_char": 9616
+    },
+    {
+      "text": "State of Goa",
+      "label": "GPE",
+      "start_char": 9854,
+      "end_char": 9866
+    },
+    {
+      "text": "19.05.2015",
+      "label": "DATE",
+      "start_char": 10391,
+      "end_char": 10401
+    },
+    {
+      "text": "Joint Electricity Regulatory Commission7",
+      "label": "ORG",
+      "start_char": 10444,
+      "end_char": 10484
+    },
+    {
+      "text": "JERC",
+      "label": "COURT",
+      "start_char": 10560,
+      "end_char": 10564
+    },
+    {
+      "text": "11.12.2015",
+      "label": "DATE",
+      "start_char": 10649,
+      "end_char": 10659
+    },
+    {
+      "text": "JERC",
+      "label": "ORG",
+      "start_char": 10661,
+      "end_char": 10665
+    },
+    {
+      "text": "B. P. Singh",
+      "label": "JUDGE",
+      "start_char": 10764,
+      "end_char": 10775
+    },
+    {
+      "text": "Section 86(1)(f)",
+      "label": "PROVISION",
+      "start_char": 10838,
+      "end_char": 10854
+    },
+    {
+      "text": "Electricity Act, 2003",
+      "label": "STATUTE",
+      "start_char": 10862,
+      "end_char": 10883
+    },
+    {
+      "text": "16.02.2018",
+      "label": "DATE",
+      "start_char": 11261,
+      "end_char": 11271
+    },
+    {
+      "text": "31.10.2017",
+      "label": "DATE",
+      "start_char": 11414,
+      "end_char": 11424
+    },
+    {
+      "text": "31.10.2017",
+      "label": "DATE",
+      "start_char": 11455,
+      "end_char": 11465
+    },
+    {
+      "text": "PPA",
+      "label": "STATUTE",
+      "start_char": 12759,
+      "end_char": 12762
+    },
+    {
+      "text": "13th August, 2014",
+      "label": "DATE",
+      "start_char": 12769,
+      "end_char": 12786
+    },
+    {
+      "text": "Ministry of Power, Government of India",
+      "label": "ORG",
+      "start_char": 12836,
+      "end_char": 12874
+    },
+    {
+      "text": "13th August 2014",
+      "label": "DATE",
+      "start_char": 13135,
+      "end_char": 13151
+    },
+    {
+      "text": "2nd January, 2009",
+      "label": "DATE",
+      "start_char": 13218,
+      "end_char": 13235
+    },
+    {
+      "text": "19th January, 2009",
+      "label": "DATE",
+      "start_char": 13240,
+      "end_char": 13258
+    },
+    {
+      "text": "13th August, 2014",
+      "label": "DATE",
+      "start_char": 13710,
+      "end_char": 13727
+    },
+    {
+      "text": "18th September, 2014",
+      "label": "DATE",
+      "start_char": 13824,
+      "end_char": 13844
+    },
+    {
+      "text": "Scenario 22",
+      "label": "PROVISION",
+      "start_char": 14472,
+      "end_char": 14483
+    },
+    {
+      "text": "31.10.2017",
+      "label": "DATE",
+      "start_char": 14654,
+      "end_char": 14664
+    },
+    {
+      "text": "31st October 2017",
+      "label": "DATE",
+      "start_char": 14722,
+      "end_char": 14739
+    },
+    {
+      "text": "October 31, 2017",
+      "label": "DATE",
+      "start_char": 15696,
+      "end_char": 15712
+    },
+    {
+      "text": "October 31, 2017",
+      "label": "DATE",
+      "start_char": 15809,
+      "end_char": 15825
+    },
+    {
+      "text": "October, 31,2017.",
+      "label": "DATE",
+      "start_char": 15909,
+      "end_char": 15926
+    },
+    {
+      "text": "October 31, 2017",
+      "label": "DATE",
+      "start_char": 16043,
+      "end_char": 16059
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 16566,
+      "end_char": 16576
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 16668,
+      "end_char": 16678
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 16950,
+      "end_char": 16960
+    },
+    {
+      "text": "12.09.2019",
+      "label": "DATE",
+      "start_char": 17272,
+      "end_char": 17282
+    },
+    {
+      "text": "GOG",
+      "label": "COURT",
+      "start_char": 17440,
+      "end_char": 17443
+    },
+    {
+      "text": "GOG",
+      "label": "ORG",
+      "start_char": 17921,
+      "end_char": 17924
+    },
+    {
+      "text": "GOG",
+      "label": "ORG",
+      "start_char": 18519,
+      "end_char": 18522
+    },
+    {
+      "text": "30.03.2016",
+      "label": "DATE",
+      "start_char": 18542,
+      "end_char": 18552
+    },
+    {
+      "text": "PPA",
+      "label": "ORG",
+      "start_char": 18815,
+      "end_char": 18818
+    },
+    {
+      "text": "GOG",
+      "label": "ORG",
+      "start_char": 19016,
+      "end_char": 19019
+    },
+    {
+      "text": "PPA",
+      "label": "STATUTE",
+      "start_char": 19108,
+      "end_char": 19111
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 19761,
+      "end_char": 19771
+    },
+    {
+      "text": "12.09.2019",
+      "label": "DATE",
+      "start_char": 19828,
+      "end_char": 19838
+    },
+    {
+      "text": "Commercial Appeal No. 12 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 19894,
+      "end_char": 19926
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 19933,
+      "end_char": 19943
+    },
+    {
+      "text": "High Court of Judicature at Bombay, Goa Bench",
+      "label": "COURT",
+      "start_char": 19966,
+      "end_char": 20011
+    },
+    {
+      "text": "08.03.2021",
+      "label": "DATE",
+      "start_char": 20100,
+      "end_char": 20110
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 20849,
+      "end_char": 20859
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 20867,
+      "end_char": 20882
+    },
+    {
+      "text": "Ssangyong Engineering and Construction Co. Ltd. v. NHAI: (2019) 15 SCC 131",
+      "label": "PRECEDENT",
+      "start_char": 22304,
+      "end_char": 22378
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 22464,
+      "end_char": 22474
+    },
+    {
+      "text": "Vedanta Ltd. v. Shenzhen Shandong Nuclear Power Construction Co.\nLtd: (2019) 11 SCC 465",
+      "label": "PRECEDENT",
+      "start_char": 23490,
+      "end_char": 23577
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 24075,
+      "end_char": 24085
+    },
+    {
+      "text": "Schedule 2",
+      "label": "PROVISION",
+      "start_char": 24824,
+      "end_char": 24834
+    },
+    {
+      "text": "31.10.2017",
+      "label": "DATE",
+      "start_char": 25194,
+      "end_char": 25204
+    },
+    {
+      "text": "31.10.2017",
+      "label": "DATE",
+      "start_char": 25324,
+      "end_char": 25334
+    },
+    {
+      "text": "16.2.2018",
+      "label": "DATE",
+      "start_char": 25367,
+      "end_char": 25376
+    },
+    {
+      "text": "8.11.2019",
+      "label": "DATE",
+      "start_char": 25816,
+      "end_char": 25825
+    },
+    {
+      "text": "State of Goa",
+      "label": "ORG",
+      "start_char": 27274,
+      "end_char": 27286
+    },
+    {
+      "text": "Parag P. Tripathi",
+      "label": "OTHER_PERSON",
+      "start_char": 27462,
+      "end_char": 27479
+    },
+    {
+      "text": "08.03.2021",
+      "label": "DATE",
+      "start_char": 27641,
+      "end_char": 27651
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 27835,
+      "end_char": 27845
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 27922,
+      "end_char": 27932
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 28261,
+      "end_char": 28266
+    },
+    {
+      "text": "Section 26",
+      "label": "PROVISION",
+      "start_char": 28441,
+      "end_char": 28451
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 28459,
+      "end_char": 28474
+    },
+    {
+      "text": "PPA",
+      "label": "STATUTE",
+      "start_char": 29320,
+      "end_char": 29323
+    },
+    {
+      "text": "12.1.7",
+      "label": "DATE",
+      "start_char": 29508,
+      "end_char": 29514
+    },
+    {
+      "text": "PPA",
+      "label": "ORG",
+      "start_char": 29523,
+      "end_char": 29526
+    },
+    {
+      "text": "Naphtha",
+      "label": "OTHER_PERSON",
+      "start_char": 29591,
+      "end_char": 29598
+    },
+    {
+      "text": "12.1.7",
+      "label": "DATE",
+      "start_char": 29768,
+      "end_char": 29774
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 29847,
+      "end_char": 29864
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 30223,
+      "end_char": 30240
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 30372,
+      "end_char": 30389
+    },
+    {
+      "text": "12.1.7",
+      "label": "DATE",
+      "start_char": 30445,
+      "end_char": 30451
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 30657,
+      "end_char": 30674
+    },
+    {
+      "text": "13.08.2014",
+      "label": "DATE",
+      "start_char": 30783,
+      "end_char": 30793
+    },
+    {
+      "text": "PPA",
+      "label": "STATUTE",
+      "start_char": 30813,
+      "end_char": 30816
+    },
+    {
+      "text": "Ministry of Power, Government of India",
+      "label": "ORG",
+      "start_char": 30870,
+      "end_char": 30908
+    },
+    {
+      "text": "PPA",
+      "label": "STATUTE",
+      "start_char": 31104,
+      "end_char": 31107
+    },
+    {
+      "text": "PPA",
+      "label": "STATUTE",
+      "start_char": 31507,
+      "end_char": 31510
+    },
+    {
+      "text": "08.11.2005",
+      "label": "DATE",
+      "start_char": 31777,
+      "end_char": 31787
+    },
+    {
+      "text": "05.04.2007",
+      "label": "DATE",
+      "start_char": 31817,
+      "end_char": 31827
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 32103,
+      "end_char": 32120
+    },
+    {
+      "text": "05.04.2007",
+      "label": "DATE",
+      "start_char": 32587,
+      "end_char": 32597
+    },
+    {
+      "text": "Delhi Airport Metro Express Pvt. Ltd. v. Delhi Metro Rail Corporation Ltd.: (2022) 1",
+      "label": "PRECEDENT",
+      "start_char": 32671,
+      "end_char": 32755
+    },
+    {
+      "text": "Haryana Tourism Ltd. v. Kandhari Beverages Ltd.: (2022) 3 SCC 237",
+      "label": "PRECEDENT",
+      "start_char": 32768,
+      "end_char": 32833
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 32874,
+      "end_char": 32884
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 33105,
+      "end_char": 33122
+    },
+    {
+      "text": "30.08.2014",
+      "label": "DATE",
+      "start_char": 33265,
+      "end_char": 33275
+    },
+    {
+      "text": "02.01.2009",
+      "label": "DATE",
+      "start_char": 33349,
+      "end_char": 33359
+    },
+    {
+      "text": "19.01.2009",
+      "label": "DATE",
+      "start_char": 33364,
+      "end_char": 33374
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 33501,
+      "end_char": 33518
+    },
+    {
+      "text": "19.01.2009",
+      "label": "DATE",
+      "start_char": 33670,
+      "end_char": 33680
+    },
+    {
+      "text": "PPA",
+      "label": "STATUTE",
+      "start_char": 33899,
+      "end_char": 33902
+    },
+    {
+      "text": "18.09.2014",
+      "label": "DATE",
+      "start_char": 34473,
+      "end_char": 34483
+    },
+    {
+      "text": "13.08.2014",
+      "label": "DATE",
+      "start_char": 34727,
+      "end_char": 34737
+    },
+    {
+      "text": "18.09.2014",
+      "label": "DATE",
+      "start_char": 34742,
+      "end_char": 34752
+    },
+    {
+      "text": "Vedanta Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 35040,
+      "end_char": 35052
+    },
+    {
+      "text": "Section 31(7)(b)",
+      "label": "PROVISION",
+      "start_char": 35142,
+      "end_char": 35158
+    },
+    {
+      "text": "R. Venkataramani",
+      "label": "OTHER_PERSON",
+      "start_char": 35366,
+      "end_char": 35382
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 35417,
+      "end_char": 35422
+    },
+    {
+      "text": "08.03.2021",
+      "label": "DATE",
+      "start_char": 35763,
+      "end_char": 35773
+    },
+    {
+      "text": "Sections 34 and 37",
+      "label": "PROVISION",
+      "start_char": 35964,
+      "end_char": 35982
+    },
+    {
+      "text": "Ssangyong Engineering",
+      "label": "PRECEDENT",
+      "start_char": 36021,
+      "end_char": 36042
+    },
+    {
+      "text": "MMTC Limited v. Vedanta Limited: (2019) 4 SCC 163",
+      "label": "PRECEDENT",
+      "start_char": 36052,
+      "end_char": 36101
+    },
+    {
+      "text": "PSA SICAL Terminals (P) Ltd. v. Board of Trustees of V.O. Chidambranar Port Trust Tuticorin and Ors.: (2021) SCC Online SC 508",
+      "label": "PRECEDENT",
+      "start_char": 36107,
+      "end_char": 36233
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 36771,
+      "end_char": 36781
+    },
+    {
+      "text": "State of Chhattisgarh",
+      "label": "ORG",
+      "start_char": 37596,
+      "end_char": 37617
+    },
+    {
+      "text": "Sal Udyog",
+      "label": "RESPONDENT",
+      "start_char": 37630,
+      "end_char": 37639
+    },
+    {
+      "text": "SCC 275",
+      "label": "PROVISION",
+      "start_char": 37660,
+      "end_char": 37667
+    },
+    {
+      "text": "Associate Builders v. Delhi Development Authority: (2015) 3 SCC 49",
+      "label": "PRECEDENT",
+      "start_char": 37672,
+      "end_char": 37738
+    },
+    {
+      "text": "Section 34(2A)",
+      "label": "PROVISION",
+      "start_char": 37857,
+      "end_char": 37871
+    },
+    {
+      "text": "Section 26",
+      "label": "PROVISION",
+      "start_char": 38238,
+      "end_char": 38248
+    },
+    {
+      "text": "Section 18",
+      "label": "PROVISION",
+      "start_char": 38603,
+      "end_char": 38613
+    },
+    {
+      "text": "Section 26",
+      "label": "PROVISION",
+      "start_char": 38745,
+      "end_char": 38755
+    },
+    {
+      "text": "10.3.1",
+      "label": "DATE",
+      "start_char": 38776,
+      "end_char": 38782
+    },
+    {
+      "text": "Arbitral Tribunal",
+      "label": "COURT",
+      "start_char": 39177,
+      "end_char": 39194
+    },
+    {
+      "text": "10.3.2",
+      "label": "DATE",
+      "start_char": 39586,
+      "end_char": 39592
+    },
+    {
+      "text": "PPA",
+      "label": "STATUTE",
+      "start_char": 40136,
+      "end_char": 40139
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 40259,
+      "end_char": 40276
+    },
+    {
+      "text": "Naphtha",
+      "label": "GPE",
+      "start_char": 40364,
+      "end_char": 40371
+    },
+    {
+      "text": "RLNG",
+      "label": "ORG",
+      "start_char": 40375,
+      "end_char": 40379
+    },
+    {
+      "text": "RNLG",
+      "label": "ORG",
+      "start_char": 40513,
+      "end_char": 40517
+    },
+    {
+      "text": "Naphtha",
+      "label": "GPE",
+      "start_char": 40523,
+      "end_char": 40530
+    },
+    {
+      "text": "23.05.2013",
+      "label": "DATE",
+      "start_char": 40759,
+      "end_char": 40769
+    },
+    {
+      "text": "PPA",
+      "label": "STATUTE",
+      "start_char": 40818,
+      "end_char": 40821
+    },
+    {
+      "text": "PPA",
+      "label": "COURT",
+      "start_char": 40999,
+      "end_char": 41002
+    },
+    {
+      "text": "05.04.2007",
+      "label": "DATE",
+      "start_char": 41515,
+      "end_char": 41525
+    },
+    {
+      "text": "Ministry of Power",
+      "label": "ORG",
+      "start_char": 42006,
+      "end_char": 42023
+    },
+    {
+      "text": "08.11.2005",
+      "label": "DATE",
+      "start_char": 42273,
+      "end_char": 42283
+    },
+    {
+      "text": "08.11.2005",
+      "label": "DATE",
+      "start_char": 42422,
+      "end_char": 42432
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 43570,
+      "end_char": 43587
+    },
+    {
+      "text": "19.01.2009",
+      "label": "DATE",
+      "start_char": 44377,
+      "end_char": 44387
+    },
+    {
+      "text": "19.01.2009",
+      "label": "DATE",
+      "start_char": 44641,
+      "end_char": 44651
+    },
+    {
+      "text": "18.09.2014",
+      "label": "DATE",
+      "start_char": 45742,
+      "end_char": 45752
+    },
+    {
+      "text": "PPA",
+      "label": "STATUTE",
+      "start_char": 46494,
+      "end_char": 46497
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 46914,
+      "end_char": 46931
+    },
+    {
+      "text": "Section 74",
+      "label": "PROVISION",
+      "start_char": 47336,
+      "end_char": 47346
+    },
+    {
+      "text": "Contract Act, 1872",
+      "label": "STATUTE",
+      "start_char": 47354,
+      "end_char": 47372
+    },
+    {
+      "text": "NHAI v. M. Hakeem: (2021) 9 SCC 1",
+      "label": "PRECEDENT",
+      "start_char": 47513,
+      "end_char": 47546
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 47651,
+      "end_char": 47661
+    },
+    {
+      "text": "10.9",
+      "label": "DATE",
+      "start_char": 47780,
+      "end_char": 47784
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 49192,
+      "end_char": 49202
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 49223,
+      "end_char": 49233
+    },
+    {
+      "text": "Sections 26, 28, 34 and 37",
+      "label": "PROVISION",
+      "start_char": 49378,
+      "end_char": 49404
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 50568,
+      "end_char": 50573
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 50792,
+      "end_char": 50797
+    },
+    {
+      "text": "Act 3 of 2016",
+      "label": "STATUTE",
+      "start_char": 53220,
+      "end_char": 53233
+    },
+    {
+      "text": "sec. 14",
+      "label": "PROVISION",
+      "start_char": 53235,
+      "end_char": 53242
+    },
+    {
+      "text": "23-10-2015",
+      "label": "DATE",
+      "start_char": 53274,
+      "end_char": 53284
+    },
+    {
+      "text": "Act 33 of 2019",
+      "label": "STATUTE",
+      "start_char": 53538,
+      "end_char": 53552
+    },
+    {
+      "text": "sec 7",
+      "label": "PROVISION",
+      "start_char": 53554,
+      "end_char": 53559
+    },
+    {
+      "text": "30-8-2019",
+      "label": "DATE",
+      "start_char": 53596,
+      "end_char": 53605
+    },
+    {
+      "text": "30th August, 2019",
+      "label": "DATE",
+      "start_char": 53632,
+      "end_char": 53649
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 54005,
+      "end_char": 54010
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 54134,
+      "end_char": 54139
+    },
+    {
+      "text": "section 75 or section 81",
+      "label": "PROVISION",
+      "start_char": 54250,
+      "end_char": 54274
+    },
+    {
+      "text": "section 33",
+      "label": "PROVISION",
+      "start_char": 55216,
+      "end_char": 55226
+    },
+    {
+      "text": "Act 3 of 2016",
+      "label": "STATUTE",
+      "start_char": 55907,
+      "end_char": 55920
+    },
+    {
+      "text": "sec. 18(I)",
+      "label": "PROVISION",
+      "start_char": 55922,
+      "end_char": 55932
+    },
+    {
+      "text": "23-10-2015",
+      "label": "DATE",
+      "start_char": 55964,
+      "end_char": 55974
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 56211,
+      "end_char": 56216
+    },
+    {
+      "text": "section 75 or section 81",
+      "label": "PROVISION",
+      "start_char": 56314,
+      "end_char": 56338
+    },
+    {
+      "text": "Act 3 of 2016",
+      "label": "STATUTE",
+      "start_char": 56352,
+      "end_char": 56365
+    },
+    {
+      "text": "sec. 18(II)",
+      "label": "PROVISION",
+      "start_char": 56367,
+      "end_char": 56378
+    },
+    {
+      "text": "23-10-2015",
+      "label": "DATE",
+      "start_char": 56389,
+      "end_char": 56399
+    },
+    {
+      "text": "section 8",
+      "label": "PROVISION",
+      "start_char": 57312,
+      "end_char": 57321
+    },
+    {
+      "text": "section 9",
+      "label": "PROVISION",
+      "start_char": 57375,
+      "end_char": 57384
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 57453,
+      "end_char": 57463
+    },
+    {
+      "text": "sub-section (2) or sub-section (3) of section 16",
+      "label": "PROVISION",
+      "start_char": 57585,
+      "end_char": 57633
+    },
+    {
+      "text": "section 17",
+      "label": "PROVISION",
+      "start_char": 57697,
+      "end_char": 57707
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 57873,
+      "end_char": 57886
+    },
+    {
+      "text": "12.1",
+      "label": "DATE",
+      "start_char": 57889,
+      "end_char": 57893
+    },
+    {
+      "text": "Section 31(7)",
+      "label": "PROVISION",
+      "start_char": 57895,
+      "end_char": 57908
+    },
+    {
+      "text": "Act 3 of 2016",
+      "label": "STATUTE",
+      "start_char": 58352,
+      "end_char": 58365
+    },
+    {
+      "text": "23-10-2015",
+      "label": "DATE",
+      "start_char": 58390,
+      "end_char": 58400
+    },
+    {
+      "text": "Act 33 of 2019",
+      "label": "STATUTE",
+      "start_char": 58415,
+      "end_char": 58429
+    },
+    {
+      "text": "sec 8",
+      "label": "PROVISION",
+      "start_char": 58431,
+      "end_char": 58436
+    },
+    {
+      "text": "30-8-2019",
+      "label": "DATE",
+      "start_char": 58462,
+      "end_char": 58471
+    },
+    {
+      "text": "30th August, 2019",
+      "label": "DATE",
+      "start_char": 58498,
+      "end_char": 58515
+    },
+    {
+      "text": "Act 3 of 2016",
+      "label": "STATUTE",
+      "start_char": 58531,
+      "end_char": 58544
+    },
+    {
+      "text": "23-10-2015",
+      "label": "DATE",
+      "start_char": 58589,
+      "end_char": 58599
+    },
+    {
+      "text": "section 9",
+      "label": "PROVISION",
+      "start_char": 58712,
+      "end_char": 58721
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 58790,
+      "end_char": 58800
+    },
+    {
+      "text": "clause (b) of section 2",
+      "label": "PROVISION",
+      "start_char": 59305,
+      "end_char": 59328
+    },
+    {
+      "text": "Interest Act, 1978 (14 of 1978)] xxx xxx xxx”",
+      "label": "STATUTE",
+      "start_char": 59336,
+      "end_char": 59381
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 59432,
+      "end_char": 59442
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 59473,
+      "end_char": 59483
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 59751,
+      "end_char": 59761
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 59792,
+      "end_char": 59802
+    },
+    {
+      "text": "MMTC Limited",
+      "label": "PRECEDENT",
+      "start_char": 59833,
+      "end_char": 59845
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 60011,
+      "end_char": 60021
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 60065,
+      "end_char": 60075
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 60250,
+      "end_char": 60260
+    },
+    {
+      "text": "Section 34(2)(b)(ii)",
+      "label": "PROVISION",
+      "start_char": 60439,
+      "end_char": 60459
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 60510,
+      "end_char": 60515
+    },
+    {
+      "text": "Act 3 of 2016",
+      "label": "STATUTE",
+      "start_char": 60591,
+      "end_char": 60604
+    },
+    {
+      "text": "sec. 16(i)",
+      "label": "PROVISION",
+      "start_char": 60606,
+      "end_char": 60616
+    },
+    {
+      "text": "23-10-2015",
+      "label": "DATE",
+      "start_char": 60643,
+      "end_char": 60653
+    },
+    {
+      "text": "1996 Act in 2015",
+      "label": "STATUTE",
+      "start_char": 60949,
+      "end_char": 60965
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 61106,
+      "end_char": 61111
+    },
+    {
+      "text": "Wednesbury [Associated Provincial Picture Houses v. Wednesbury Corpn., (1948) 1 KB 223 (CA)",
+      "label": "PRECEDENT",
+      "start_char": 61425,
+      "end_char": 61516
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 61636,
+      "end_char": 61641
+    },
+    {
+      "text": "Section 34(2)(b)(ii)",
+      "label": "PROVISION",
+      "start_char": 61836,
+      "end_char": 61856
+    },
+    {
+      "text": "Associate Builders v. DDA [Associate Builders v. DDA, (2015) 3 SCC 49 : (2015) 2 SCC (Civ) 204",
+      "label": "PRECEDENT",
+      "start_char": 62283,
+      "end_char": 62377
+    },
+    {
+      "text": "ONGC Ltd. v. Saw Pipes Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 62389,
+      "end_char": 62416
+    },
+    {
+      "text": "ONGC Ltd. v. Saw Pipes Ltd., (2003) 5 SCC 705",
+      "label": "PRECEDENT",
+      "start_char": 62418,
+      "end_char": 62463
+    },
+    {
+      "text": "Hindustan Zinc Ltd. v. Friends Coal Carbonisation [Hindustan Zinc Ltd. v. Friends Coal Carbonisation, (2006) 4 SCC 445",
+      "label": "PRECEDENT",
+      "start_char": 62466,
+      "end_char": 62584
+    },
+    {
+      "text": "McDermott International Inc. v. Burn Standard Co. Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 62591,
+      "end_char": 62645
+    },
+    {
+      "text": "McDermott International Inc. v. Burn Standard Co. Ltd., (2006) 11 SCC 181",
+      "label": "PRECEDENT",
+      "start_char": 62647,
+      "end_char": 62720
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 62784,
+      "end_char": 62794
+    },
+    {
+      "text": "Explanation 1 to Section 34(2)",
+      "label": "PROVISION",
+      "start_char": 62870,
+      "end_char": 62900
+    },
+    {
+      "text": "Section 75 or Section 81",
+      "label": "PROVISION",
+      "start_char": 63064,
+      "end_char": 63088
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 63274,
+      "end_char": 63284
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 63657,
+      "end_char": 63667
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 63676,
+      "end_char": 63686
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 63753,
+      "end_char": 63763
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 63818,
+      "end_char": 63828
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 63997,
+      "end_char": 64007
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 64142,
+      "end_char": 64152
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 64189,
+      "end_char": 64199
+    },
+    {
+      "text": "Ssangyong Engineering",
+      "label": "PRECEDENT",
+      "start_char": 64307,
+      "end_char": 64328
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 64390,
+      "end_char": 64400
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 64505,
+      "end_char": 64510
+    },
+    {
+      "text": "Amendment Act, 2015",
+      "label": "STATUTE",
+      "start_char": 64602,
+      "end_char": 64621
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 64626,
+      "end_char": 64636
+    },
+    {
+      "text": "Associate Builders [Associate Builders v. DDA, (2015) 3 SCC 49 : (2015) 2 SCC (Civ) 204]",
+      "label": "PRECEDENT",
+      "start_char": 65373,
+      "end_char": 65461
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 65519,
+      "end_char": 65524
+    },
+    {
+      "text": "Section 31(3)",
+      "label": "PROVISION",
+      "start_char": 65795,
+      "end_char": 65808
+    },
+    {
+      "text": "Section 28(3)",
+      "label": "PROVISION",
+      "start_char": 65927,
+      "end_char": 65940
+    },
+    {
+      "text": "Associate Builders [Associate Builders v. DDA, (2015)",
+      "label": "PRECEDENT",
+      "start_char": 66015,
+      "end_char": 66068
+    },
+    {
+      "text": "SCC 49 : (2015) 2 SCC (Civ) 204]",
+      "label": "PRECEDENT",
+      "start_char": 66071,
+      "end_char": 66103
+    },
+    {
+      "text": "Section 34(2-A)",
+      "label": "PROVISION",
+      "start_char": 66591,
+      "end_char": 66606
+    },
+    {
+      "text": "Associate Builders [Associate Builders v. DDA, (2015) 3 SCC 49 : (2015) 2 SCC (Civ) 204",
+      "label": "PRECEDENT",
+      "start_char": 66713,
+      "end_char": 66800
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 66873,
+      "end_char": 66878
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 67488,
+      "end_char": 67498
+    },
+    {
+      "text": "PSA SICAL Terminals",
+      "label": "PRECEDENT",
+      "start_char": 67566,
+      "end_char": 67585
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 67759,
+      "end_char": 67769
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 67926,
+      "end_char": 67936
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 67944,
+      "end_char": 67959
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 68052,
+      "end_char": 68057
+    },
+    {
+      "text": "Section 18 and 34(2)(a)(iii)",
+      "label": "PROVISION",
+      "start_char": 68290,
+      "end_char": 68318
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 68326,
+      "end_char": 68341
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 69201,
+      "end_char": 69206
+    },
+    {
+      "text": "Excise and Taxation Officer-cum-Assessing Authority v. Gopi Nath & Sons [1992 Supp (2) SCC 312]",
+      "label": "PRECEDENT",
+      "start_char": 70222,
+      "end_char": 70317
+    },
+    {
+      "text": "Delhi Airport Metro Express",
+      "label": "PRECEDENT",
+      "start_char": 70705,
+      "end_char": 70732
+    },
+    {
+      "text": "UNCITRAL Model Law and Rules",
+      "label": "STATUTE",
+      "start_char": 71422,
+      "end_char": 71450
+    },
+    {
+      "text": "Section 5 and Section 34",
+      "label": "PROVISION",
+      "start_char": 71508,
+      "end_char": 71532
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 71650,
+      "end_char": 71660
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 71702,
+      "end_char": 71712
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 71807,
+      "end_char": 71817
+    },
+    {
+      "text": "Uttarakhand PurvSainikKalyan Nigam Ltd. v. Northern Coal Field Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 71906,
+      "end_char": 71973
+    },
+    {
+      "text": "Uttarakhand PurvSainik Kalyan Nigam Ltd. v. Northern Coal Field Ltd., (2020) 2 SCC 455 : (2020) 1 SCC (Civ) 570",
+      "label": "PRECEDENT",
+      "start_char": 71975,
+      "end_char": 72086
+    },
+    {
+      "text": "Bhaven Construction v. Sardar Sarovar Narmada Nigam Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 72090,
+      "end_char": 72146
+    },
+    {
+      "text": "Bhaven Construction v. Sardar Sarovar Narmada Nigam Ltd., (2022) 1 SCC 75",
+      "label": "PRECEDENT",
+      "start_char": 72148,
+      "end_char": 72221
+    },
+    {
+      "text": "Rashtriya Ispat Nigam Ltd. v. Dewan Chand Ram Saran",
+      "label": "PRECEDENT",
+      "start_char": 72227,
+      "end_char": 72278
+    },
+    {
+      "text": "Rashtriya Ispat Nigam Ltd. v. Dewan Chand Ram Saran, (2012) 5",
+      "label": "PRECEDENT",
+      "start_char": 72280,
+      "end_char": 72341
+    },
+    {
+      "text": "SCC 306]",
+      "label": "CASE_NUMBER",
+      "start_char": 72342,
+      "end_char": 72350
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 72427,
+      "end_char": 72437
+    },
+    {
+      "text": "Section 34(2- A)",
+      "label": "PROVISION",
+      "start_char": 74292,
+      "end_char": 74308
+    },
+    {
+      "text": "Section 34(2)(b)",
+      "label": "PROVISION",
+      "start_char": 75110,
+      "end_char": 75126
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 75356,
+      "end_char": 75361
+    },
+    {
+      "text": "Amendment Act",
+      "label": "STATUTE",
+      "start_char": 75437,
+      "end_char": 75450
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 75495,
+      "end_char": 75500
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 75650,
+      "end_char": 75655
+    },
+    {
+      "text": "Section 75 or Section 81",
+      "label": "PROVISION",
+      "start_char": 75737,
+      "end_char": 75761
+    },
+    {
+      "text": "SCC OnLine Del para 103",
+      "label": "PRECEDENT",
+      "start_char": 76107,
+      "end_char": 76130
+    },
+    {
+      "text": "DMRC v. Delhi Airport Metro Express (P) Ltd., 2019 SCC OnLine Del 6562",
+      "label": "PRECEDENT",
+      "start_char": 76157,
+      "end_char": 76227
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 76315,
+      "end_char": 76325
+    },
+    {
+      "text": "DMRC v. Delhi Airport Metro Express (P) Ltd., 2019 SCC OnLine Del 6562",
+      "label": "PRECEDENT",
+      "start_char": 76376,
+      "end_char": 76446
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 76876,
+      "end_char": 76886
+    },
+    {
+      "text": "State of Rajasthan v. Puri Construction Co. Ltd., (1994) 6 SCC 485",
+      "label": "PRECEDENT",
+      "start_char": 76889,
+      "end_char": 76955
+    },
+    {
+      "text": "Haryana Tourism Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 77186,
+      "end_char": 77206
+    },
+    {
+      "text": "Sections 34 and 37",
+      "label": "PROVISION",
+      "start_char": 77289,
+      "end_char": 77307
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 77373,
+      "end_char": 77383
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 77629,
+      "end_char": 77639
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 77647,
+      "end_char": 77662
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 77729,
+      "end_char": 77739
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 77747,
+      "end_char": 77762
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 77874,
+      "end_char": 77884
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 77892,
+      "end_char": 77907
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 78070,
+      "end_char": 78075
+    },
+    {
+      "text": "Sections 34/37",
+      "label": "PROVISION",
+      "start_char": 78110,
+      "end_char": 78124
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 78132,
+      "end_char": 78147
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 78251,
+      "end_char": 78256
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 78496,
+      "end_char": 78506
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 78514,
+      "end_char": 78529
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 78717,
+      "end_char": 78727
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 78735,
+      "end_char": 78750
+    },
+    {
+      "text": "Sections 34/37",
+      "label": "PROVISION",
+      "start_char": 78893,
+      "end_char": 78907
+    },
+    {
+      "text": "UHL Power Company Limited v. State of Himachal Pradesh: (2022) 4 SCC 116",
+      "label": "PRECEDENT",
+      "start_char": 79025,
+      "end_char": 79097
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 79528,
+      "end_char": 79538
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 79546,
+      "end_char": 79561
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 79663,
+      "end_char": 79673
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 79681,
+      "end_char": 79696
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 79761,
+      "end_char": 79771
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 79779,
+      "end_char": 79794
+    },
+    {
+      "text": "Sal Udyog Private Limited",
+      "label": "PRECEDENT",
+      "start_char": 80050,
+      "end_char": 80075
+    },
+    {
+      "text": "Delhi Airport Metro Express",
+      "label": "ORG",
+      "start_char": 80294,
+      "end_char": 80321
+    },
+    {
+      "text": "Ssangyong Engineering",
+      "label": "ORG",
+      "start_char": 80323,
+      "end_char": 80344
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 80726,
+      "end_char": 80736
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 80804,
+      "end_char": 80814
+    },
+    {
+      "text": "Section 26",
+      "label": "PROVISION",
+      "start_char": 81119,
+      "end_char": 81129
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 81625,
+      "end_char": 81642
+    },
+    {
+      "text": "Arbitral Tribunal",
+      "label": "COURT",
+      "start_char": 81654,
+      "end_char": 81671
+    },
+    {
+      "text": "Section 26",
+      "label": "PROVISION",
+      "start_char": 81879,
+      "end_char": 81889
+    },
+    {
+      "text": "Section 23",
+      "label": "PROVISION",
+      "start_char": 81986,
+      "end_char": 81996
+    },
+    {
+      "text": "Section 26",
+      "label": "PROVISION",
+      "start_char": 82392,
+      "end_char": 82402
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 82466,
+      "end_char": 82483
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 82697,
+      "end_char": 82714
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 83045,
+      "end_char": 83062
+    },
+    {
+      "text": "18.10.2016",
+      "label": "DATE",
+      "start_char": 83364,
+      "end_char": 83374
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 84451,
+      "end_char": 84468
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 84537,
+      "end_char": 84554
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 84776,
+      "end_char": 84793
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 85092,
+      "end_char": 85109
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 85430,
+      "end_char": 85447
+    },
+    {
+      "text": "PPA",
+      "label": "STATUTE",
+      "start_char": 86926,
+      "end_char": 86929
+    },
+    {
+      "text": "Arbitral Tribunal",
+      "label": "COURT",
+      "start_char": 87453,
+      "end_char": 87470
+    },
+    {
+      "text": "21st of March 2013",
+      "label": "DATE",
+      "start_char": 88221,
+      "end_char": 88239
+    },
+    {
+      "text": "26th of April 2012",
+      "label": "DATE",
+      "start_char": 88900,
+      "end_char": 88918
+    },
+    {
+      "text": "30th of April 2013",
+      "label": "DATE",
+      "start_char": 89106,
+      "end_char": 89124
+    },
+    {
+      "text": "21st of March 2013",
+      "label": "DATE",
+      "start_char": 89190,
+      "end_char": 89208
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 89676,
+      "end_char": 89693
+    },
+    {
+      "text": "May 22, 2013",
+      "label": "DATE",
+      "start_char": 89697,
+      "end_char": 89709
+    },
+    {
+      "text": "23rd of May 2013",
+      "label": "DATE",
+      "start_char": 90126,
+      "end_char": 90142
+    },
+    {
+      "text": "21st of March 2013",
+      "label": "DATE",
+      "start_char": 90281,
+      "end_char": 90299
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 90857,
+      "end_char": 90874
+    },
+    {
+      "text": "Supreme Court (AIR 1963 S.C 395)",
+      "label": "COURT",
+      "start_char": 91113,
+      "end_char": 91145
+    },
+    {
+      "text": "Bachhittar Singh Vs State of Punjab",
+      "label": "PRECEDENT",
+      "start_char": 91149,
+      "end_char": 91184
+    },
+    {
+      "text": "Cabinet",
+      "label": "ORG",
+      "start_char": 91990,
+      "end_char": 91997
+    },
+    {
+      "text": "PPA",
+      "label": "STATUTE",
+      "start_char": 92497,
+      "end_char": 92500
+    },
+    {
+      "text": "Indian",
+      "label": "GPE",
+      "start_char": 92763,
+      "end_char": 92769
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 92846,
+      "end_char": 92863
+    },
+    {
+      "text": "12.1.4",
+      "label": "DATE",
+      "start_char": 92898,
+      "end_char": 92904
+    },
+    {
+      "text": "12.1.7",
+      "label": "DATE",
+      "start_char": 92908,
+      "end_char": 92914
+    },
+    {
+      "text": "PPA",
+      "label": "STATUTE",
+      "start_char": 92918,
+      "end_char": 92921
+    },
+    {
+      "text": "Order XIV Rule 1",
+      "label": "PROVISION",
+      "start_char": 93204,
+      "end_char": 93220
+    },
+    {
+      "text": "Code of Civil Procedure, 190818",
+      "label": "STATUTE",
+      "start_char": 93228,
+      "end_char": 93259
+    },
+    {
+      "text": "Order XIV Rule 1",
+      "label": "PROVISION",
+      "start_char": 93302,
+      "end_char": 93318
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 93319,
+      "end_char": 93322
+    },
+    {
+      "text": "rule 2 of Order X",
+      "label": "PROVISION",
+      "start_char": 94001,
+      "end_char": 94018
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 94869,
+      "end_char": 94886
+    },
+    {
+      "text": "PPA",
+      "label": "STATUTE",
+      "start_char": 96120,
+      "end_char": 96123
+    },
+    {
+      "text": "PPA",
+      "label": "STATUTE",
+      "start_char": 96258,
+      "end_char": 96261
+    },
+    {
+      "text": "RSPCL",
+      "label": "ORG",
+      "start_char": 96668,
+      "end_char": 96673
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 97879,
+      "end_char": 97896
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 98034,
+      "end_char": 98051
+    },
+    {
+      "text": "16.8",
+      "label": "DATE",
+      "start_char": 98190,
+      "end_char": 98194
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 98289,
+      "end_char": 98306
+    },
+    {
+      "text": "23.05.2013",
+      "label": "DATE",
+      "start_char": 98389,
+      "end_char": 98399
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 98505,
+      "end_char": 98522
+    },
+    {
+      "text": "22.05.2013",
+      "label": "DATE",
+      "start_char": 98570,
+      "end_char": 98580
+    },
+    {
+      "text": "12.1.4 to 12.1.7",
+      "label": "DATE",
+      "start_char": 99876,
+      "end_char": 99892
+    },
+    {
+      "text": "Naphtha",
+      "label": "GPE",
+      "start_char": 100267,
+      "end_char": 100274
+    },
+    {
+      "text": "RLNG",
+      "label": "ORG",
+      "start_char": 100278,
+      "end_char": 100282
+    },
+    {
+      "text": "12.1.4",
+      "label": "DATE",
+      "start_char": 100488,
+      "end_char": 100494
+    },
+    {
+      "text": "12.1.7",
+      "label": "DATE",
+      "start_char": 100498,
+      "end_char": 100504
+    },
+    {
+      "text": "PPA",
+      "label": "STATUTE",
+      "start_char": 100703,
+      "end_char": 100706
+    },
+    {
+      "text": "Naphtha",
+      "label": "GPE",
+      "start_char": 102042,
+      "end_char": 102049
+    },
+    {
+      "text": "RLNG",
+      "label": "ORG",
+      "start_char": 102053,
+      "end_char": 102057
+    },
+    {
+      "text": "Sections 34 or 37",
+      "label": "PROVISION",
+      "start_char": 102783,
+      "end_char": 102800
+    },
+    {
+      "text": "Section 28(3)",
+      "label": "PROVISION",
+      "start_char": 103540,
+      "end_char": 103553
+    },
+    {
+      "text": "SAL Udyog Private Limited",
+      "label": "PRECEDENT",
+      "start_char": 104122,
+      "end_char": 104147
+    },
+    {
+      "text": "21.12.1998",
+      "label": "DATE",
+      "start_char": 104409,
+      "end_char": 104419
+    },
+    {
+      "text": "Sections 34 and 37",
+      "label": "PROVISION",
+      "start_char": 104758,
+      "end_char": 104776
+    },
+    {
+      "text": "27-7-1987",
+      "label": "DATE",
+      "start_char": 105925,
+      "end_char": 105934
+    },
+    {
+      "text": "27- 7-1987",
+      "label": "DATE",
+      "start_char": 106333,
+      "end_char": 106343
+    },
+    {
+      "text": "Government of Madhya Pradesh",
+      "label": "ORG",
+      "start_char": 106358,
+      "end_char": 106386
+    },
+    {
+      "text": "30-8-1979",
+      "label": "DATE",
+      "start_char": 106852,
+      "end_char": 106861
+    },
+    {
+      "text": "21-12- 1998",
+      "label": "DATE",
+      "start_char": 107239,
+      "end_char": 107250
+    },
+    {
+      "text": "27-7-1987",
+      "label": "DATE",
+      "start_char": 107673,
+      "end_char": 107682
+    },
+    {
+      "text": "Government of Madhya Pradesh",
+      "label": "ORG",
+      "start_char": 107697,
+      "end_char": 107725
+    },
+    {
+      "text": "27-7-1987",
+      "label": "DATE",
+      "start_char": 108313,
+      "end_char": 108322
+    },
+    {
+      "text": "Government of Madhya Pradesh",
+      "label": "ORG",
+      "start_char": 108337,
+      "end_char": 108365
+    },
+    {
+      "text": "Section 28(3)",
+      "label": "PROVISION",
+      "start_char": 108819,
+      "end_char": 108832
+    },
+    {
+      "text": "21-10-2009",
+      "label": "DATE",
+      "start_char": 109544,
+      "end_char": 109554
+    },
+    {
+      "text": "20.03.2013",
+      "label": "DATE",
+      "start_char": 110260,
+      "end_char": 110270
+    },
+    {
+      "text": "Sections 34 or 37",
+      "label": "PROVISION",
+      "start_char": 110923,
+      "end_char": 110940
+    },
+    {
+      "text": "PPA",
+      "label": "STATUTE",
+      "start_char": 111196,
+      "end_char": 111199
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 113489,
+      "end_char": 113499
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 113508,
+      "end_char": 113518
+    },
+    {
+      "text": "PPA",
+      "label": "STATUTE",
+      "start_char": 113727,
+      "end_char": 113730
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 113747,
+      "end_char": 113764
+    },
+    {
+      "text": "Ministry of Power, Government of India",
+      "label": "ORG",
+      "start_char": 113807,
+      "end_char": 113845
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 114336,
+      "end_char": 114353
+    },
+    {
+      "text": "PPA",
+      "label": "STATUTE",
+      "start_char": 117592,
+      "end_char": 117595
+    },
+    {
+      "text": "10th of January 1997",
+      "label": "DATE",
+      "start_char": 117602,
+      "end_char": 117622
+    },
+    {
+      "text": "10th September 1997",
+      "label": "DATE",
+      "start_char": 117950,
+      "end_char": 117969
+    },
+    {
+      "text": "Goa",
+      "label": "GPE",
+      "start_char": 118097,
+      "end_char": 118100
+    },
+    {
+      "text": "14th of August 1999",
+      "label": "DATE",
+      "start_char": 118176,
+      "end_char": 118195
+    },
+    {
+      "text": "20 September 2000",
+      "label": "DATE",
+      "start_char": 118288,
+      "end_char": 118305
+    },
+    {
+      "text": "Goa",
+      "label": "GPE",
+      "start_char": 118477,
+      "end_char": 118480
+    },
+    {
+      "text": "08.11.2005",
+      "label": "DATE",
+      "start_char": 119446,
+      "end_char": 119456
+    },
+    {
+      "text": "05.04.2007",
+      "label": "DATE",
+      "start_char": 119486,
+      "end_char": 119496
+    },
+    {
+      "text": "BHEL-GE Gas Turbine Services, Private Limited",
+      "label": "ORG",
+      "start_char": 119817,
+      "end_char": 119862
+    },
+    {
+      "text": "November 8, 2005",
+      "label": "DATE",
+      "start_char": 119869,
+      "end_char": 119885
+    },
+    {
+      "text": "Goa",
+      "label": "GPE",
+      "start_char": 119958,
+      "end_char": 119961
+    },
+    {
+      "text": "BGGTS",
+      "label": "ORG",
+      "start_char": 120132,
+      "end_char": 120137
+    },
+    {
+      "text": "GT",
+      "label": "ORG",
+      "start_char": 120185,
+      "end_char": 120187
+    },
+    {
+      "text": "5th April 2007",
+      "label": "DATE",
+      "start_char": 120779,
+      "end_char": 120793
+    },
+    {
+      "text": "8th November 2005",
+      "label": "DATE",
+      "start_char": 121183,
+      "end_char": 121200
+    },
+    {
+      "text": "5th April 2007",
+      "label": "DATE",
+      "start_char": 121428,
+      "end_char": 121442
+    },
+    {
+      "text": "08.11.2005",
+      "label": "DATE",
+      "start_char": 122737,
+      "end_char": 122747
+    },
+    {
+      "text": "8th November 2005",
+      "label": "DATE",
+      "start_char": 123467,
+      "end_char": 123484
+    },
+    {
+      "text": "8th November 2005",
+      "label": "DATE",
+      "start_char": 124160,
+      "end_char": 124177
+    },
+    {
+      "text": "5th April 2007",
+      "label": "DATE",
+      "start_char": 124214,
+      "end_char": 124228
+    },
+    {
+      "text": "8th November 2005",
+      "label": "DATE",
+      "start_char": 124542,
+      "end_char": 124559
+    },
+    {
+      "text": "5 th April 2007",
+      "label": "DATE",
+      "start_char": 124597,
+      "end_char": 124612
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 125496,
+      "end_char": 125506
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 125576,
+      "end_char": 125586
+    },
+    {
+      "text": "Section 114",
+      "label": "PROVISION",
+      "start_char": 126499,
+      "end_char": 126510
+    },
+    {
+      "text": "Indian Evidence Act, 1872",
+      "label": "STATUTE",
+      "start_char": 126518,
+      "end_char": 126543
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 127042,
+      "end_char": 127052
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 127185,
+      "end_char": 127195
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 127206,
+      "end_char": 127216
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 127402,
+      "end_char": 127412
+    },
+    {
+      "text": "Sections 34 and 37",
+      "label": "PROVISION",
+      "start_char": 127754,
+      "end_char": 127772
+    },
+    {
+      "text": "08.11.2005",
+      "label": "DATE",
+      "start_char": 127944,
+      "end_char": 127954
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 128404,
+      "end_char": 128414
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 128989,
+      "end_char": 128999
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 129151,
+      "end_char": 129161
+    },
+    {
+      "text": "02.01.2009",
+      "label": "DATE",
+      "start_char": 129722,
+      "end_char": 129732
+    },
+    {
+      "text": "19.01.2009",
+      "label": "DATE",
+      "start_char": 129737,
+      "end_char": 129747
+    },
+    {
+      "text": "02.01.2009",
+      "label": "DATE",
+      "start_char": 129959,
+      "end_char": 129969
+    },
+    {
+      "text": "19.01.2009",
+      "label": "DATE",
+      "start_char": 129974,
+      "end_char": 129984
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 130120,
+      "end_char": 130137
+    },
+    {
+      "text": "19.1.2009",
+      "label": "DATE",
+      "start_char": 131130,
+      "end_char": 131139
+    },
+    {
+      "text": "13.09.2014",
+      "label": "DATE",
+      "start_char": 132473,
+      "end_char": 132483
+    },
+    {
+      "text": "18.09.2014",
+      "label": "DATE",
+      "start_char": 132488,
+      "end_char": 132498
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 132649,
+      "end_char": 132666
+    },
+    {
+      "text": "Government of Goa",
+      "label": "ORG",
+      "start_char": 132865,
+      "end_char": 132882
+    },
+    {
+      "text": "PPA",
+      "label": "STATUTE",
+      "start_char": 133093,
+      "end_char": 133096
+    },
+    {
+      "text": "13/8/2014",
+      "label": "DATE",
+      "start_char": 133598,
+      "end_char": 133607
+    },
+    {
+      "text": "18/9/2014",
+      "label": "DATE",
+      "start_char": 133644,
+      "end_char": 133653
+    },
+    {
+      "text": "18/9/2014",
+      "label": "DATE",
+      "start_char": 134261,
+      "end_char": 134270
+    },
+    {
+      "text": "18/9/2014",
+      "label": "DATE",
+      "start_char": 134650,
+      "end_char": 134659
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 135363,
+      "end_char": 135373
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 135436,
+      "end_char": 135446
+    },
+    {
+      "text": "Section 31(7)",
+      "label": "PROVISION",
+      "start_char": 135922,
+      "end_char": 135935
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 136559,
+      "end_char": 136569
+    },
+    {
+      "text": "Vedanta Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 136766,
+      "end_char": 136778
+    },
+    {
+      "text": "Bhat",
+      "label": "OTHER_PERSON",
+      "start_char": 136941,
+      "end_char": 136945
+    },
+    {
+      "text": "State Bank of India",
+      "label": "ORG",
+      "start_char": 137037,
+      "end_char": 137056
+    },
+    {
+      "text": "Vedanta Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 137749,
+      "end_char": 137761
+    },
+    {
+      "text": "9/11/2017",
+      "label": "DATE",
+      "start_char": 137791,
+      "end_char": 137800
+    },
+    {
+      "text": "16/2/2018",
+      "label": "DATE",
+      "start_char": 137928,
+      "end_char": 137937
+    },
+    {
+      "text": "Section 31(7)(b)",
+      "label": "PROVISION",
+      "start_char": 138086,
+      "end_char": 138102
+    },
+    {
+      "text": "Section 2(b)",
+      "label": "PROVISION",
+      "start_char": 138495,
+      "end_char": 138507
+    },
+    {
+      "text": "Interest Act, 1978",
+      "label": "STATUTE",
+      "start_char": 138515,
+      "end_char": 138533
+    },
+    {
+      "text": "Vedanta Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 138582,
+      "end_char": 138594
+    },
+    {
+      "text": "Vedanta Ltd.",
+      "label": "ORG",
+      "start_char": 138939,
+      "end_char": 138951
+    },
+    {
+      "text": "Vedanta Ltd.",
+      "label": "ORG",
+      "start_char": 139098,
+      "end_char": 139110
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 139325,
+      "end_char": 139330
+    },
+    {
+      "text": "State Bank of India",
+      "label": "ORG",
+      "start_char": 139696,
+      "end_char": 139715
+    },
+    {
+      "text": "Section 31",
+      "label": "PROVISION",
+      "start_char": 139937,
+      "end_char": 139947
+    },
+    {
+      "text": "12.09.2019",
+      "label": "DATE",
+      "start_char": 140487,
+      "end_char": 140497
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 140923,
+      "end_char": 140933
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 141145,
+      "end_char": 141155
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 141436,
+      "end_char": 141446
+    },
+    {
+      "text": "Sections 34/37",
+      "label": "PROVISION",
+      "start_char": 141890,
+      "end_char": 141904
+    },
+    {
+      "text": "GOG",
+      "label": "ORG",
+      "start_char": 142214,
+      "end_char": 142217
+    },
+    {
+      "text": "30.08.2013",
+      "label": "DATE",
+      "start_char": 142380,
+      "end_char": 142390
+    },
+    {
+      "text": "GOG",
+      "label": "ORG",
+      "start_char": 142535,
+      "end_char": 142538
+    },
+    {
+      "text": "Bachhittar Singh",
+      "label": "PRECEDENT",
+      "start_char": 142843,
+      "end_char": 142859
+    },
+    {
+      "text": "Bombay Chemicals Ltd. v/s. Union of India – 2006(201) ELT 167 Bombay",
+      "label": "PRECEDENT",
+      "start_char": 143085,
+      "end_char": 143153
+    },
+    {
+      "text": "GOG",
+      "label": "ORG",
+      "start_char": 143516,
+      "end_char": 143519
+    },
+    {
+      "text": "GOG",
+      "label": "ORG",
+      "start_char": 143746,
+      "end_char": 143749
+    },
+    {
+      "text": "Delhi Airport Metro Express",
+      "label": "PRECEDENT",
+      "start_char": 144232,
+      "end_char": 144259
+    },
+    {
+      "text": "Ssangyong Engineering",
+      "label": "PRECEDENT",
+      "start_char": 144911,
+      "end_char": 144932
+    },
+    {
+      "text": "Delhi Airport Metro Express",
+      "label": "ORG",
+      "start_char": 145450,
+      "end_char": 145477
+    },
+    {
+      "text": "Haryana Tourism Limited",
+      "label": "ORG",
+      "start_char": 145482,
+      "end_char": 145505
+    },
+    {
+      "text": "08.03.2021",
+      "label": "DATE",
+      "start_char": 145611,
+      "end_char": 145621
+    },
+    {
+      "text": "Ssangyong Engineering",
+      "label": "PRECEDENT",
+      "start_char": 145702,
+      "end_char": 145723
+    },
+    {
+      "text": "08.03.2021",
+      "label": "DATE",
+      "start_char": 145953,
+      "end_char": 145963
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 146588,
+      "end_char": 146598
+    },
+    {
+      "text": "08.03.2021",
+      "label": "DATE",
+      "start_char": 146682,
+      "end_char": 146692
+    },
+    {
+      "text": "16.02.2018",
+      "label": "DATE",
+      "start_char": 146753,
+      "end_char": 146763
+    },
+    {
+      "text": "12.09.2019",
+      "label": "DATE",
+      "start_char": 146808,
+      "end_char": 146818
+    },
+    {
+      "text": "DINESH MAHESHWARI",
+      "label": "JUDGE",
+      "start_char": 147036,
+      "end_char": 147053
+    },
+    {
+      "text": "SANJAY KUMAR",
+      "label": "JUDGE",
+      "start_char": 147075,
+      "end_char": 147087
+    },
+    {
+      "text": "NEW DELHI",
+      "label": "GPE",
+      "start_char": 147089,
+      "end_char": 147098
+    },
+    {
+      "text": "MAY 10, 2023",
+      "label": "DATE",
+      "start_char": 147100,
+      "end_char": 147112
+    }
+  ],
+  "precedent_clusters": {
+    "Ssangyong Engineering and Construction Co. Ltd. v. NHAI: (2019) 15 SCC 131": [
+      "Ssangyong Engineering and Construction Co. Ltd. v. NHAI: (2019) 15 SCC 131",
+      "Ssangyong Engineering",
+      "Ssangyong Engineering",
+      "Ssangyong Engineering",
+      "Ssangyong Engineering"
+    ],
+    "Vedanta Ltd. v. Shenzhen Shandong Nuclear Power Construction Co.\nLtd: (2019) 11 SCC 465": [
+      "Vedanta Ltd. v. Shenzhen Shandong Nuclear Power Construction Co.\nLtd: (2019) 11 SCC 465",
+      "Vedanta Ltd.",
+      "Vedanta Ltd.",
+      "Vedanta Ltd.",
+      "Vedanta Ltd."
+    ],
+    "Delhi Airport Metro Express Pvt. Ltd. v. Delhi Metro Rail Corporation Ltd.: (2022) 1": [
+      "Delhi Airport Metro Express Pvt. Ltd. v. Delhi Metro Rail Corporation Ltd.: (2022) 1",
+      "ONGC Ltd. v. Saw Pipes Ltd.",
+      "McDermott International Inc. v. Burn Standard Co. Ltd.",
+      "Associate Builders [Associate Builders v. DDA, (2015)",
+      "Uttarakhand PurvSainikKalyan Nigam Ltd. v. Northern Coal Field Ltd.",
+      "Bhaven Construction v. Sardar Sarovar Narmada Nigam Ltd.",
+      "Rashtriya Ispat Nigam Ltd. v. Dewan Chand Ram Saran",
+      "Rashtriya Ispat Nigam Ltd. v. Dewan Chand Ram Saran, (2012) 5",
+      "SCC OnLine Del para 103",
+      "Bachhittar Singh Vs State of Punjab",
+      "Delhi Airport Metro Express",
+      "Bachhittar Singh"
+    ],
+    "Haryana Tourism Ltd. v. Kandhari Beverages Ltd.: (2022) 3 SCC 237": [
+      "Haryana Tourism Ltd. v. Kandhari Beverages Ltd.: (2022) 3 SCC 237",
+      "Haryana Tourism Ltd."
+    ],
+    "MMTC Limited v. Vedanta Limited: (2019) 4 SCC 163": [
+      "MMTC Limited v. Vedanta Limited: (2019) 4 SCC 163",
+      "MMTC Limited"
+    ],
+    "PSA SICAL Terminals (P) Ltd. v. Board of Trustees of V.O. Chidambranar Port Trust Tuticorin and Ors.: (2021) SCC Online SC 508": [
+      "PSA SICAL Terminals (P) Ltd. v. Board of Trustees of V.O. Chidambranar Port Trust Tuticorin and Ors.: (2021) SCC Online SC 508",
+      "PSA SICAL Terminals"
+    ],
+    "Associate Builders v. DDA [Associate Builders v. DDA, (2015) 3 SCC 49 : (2015) 2 SCC (Civ) 204": [
+      "Associate Builders v. DDA [Associate Builders v. DDA, (2015) 3 SCC 49 : (2015) 2 SCC (Civ) 204",
+      "Associate Builders [Associate Builders v. DDA, (2015) 3 SCC 49 : (2015) 2 SCC (Civ) 204]",
+      "Associate Builders [Associate Builders v. DDA, (2015) 3 SCC 49 : (2015) 2 SCC (Civ) 204"
+    ],
+    "DMRC v. Delhi Airport Metro Express (P) Ltd., 2019 SCC OnLine Del 6562": [
+      "DMRC v. Delhi Airport Metro Express (P) Ltd., 2019 SCC OnLine Del 6562",
+      "DMRC v. Delhi Airport Metro Express (P) Ltd., 2019 SCC OnLine Del 6562",
+      "Delhi Airport Metro Express"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 19963",
+      "Section 37",
+      "Arbitration and Conciliation Act, 19963"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts, Commercial Division and Commercial Appellate Divisions of High Courts Act, 2015",
+      "Section 13",
+      "Commercial Courts, Commercial Division and Commercial Appellate Divisions of High Courts Act, 2015"
+    ],
+    [
+      "Section 86(1)(f)",
+      "Electricity Act, 2003",
+      "Section 86(1)(f)",
+      "Electricity Act, 2003"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 26",
+      "Arbitration Act",
+      "Section 26",
+      "Arbitration Act"
+    ],
+    [
+      "Section 74",
+      "Contract Act, 1872",
+      "Section 74",
+      "Contract Act, 1872"
+    ],
+    [
+      "clause (b) of section 2",
+      "Interest Act, 1978 (14 of 1978)] xxx xxx xxx”",
+      "clause (b) of section 2",
+      "Interest Act, 1978 (14 of 1978)] xxx xxx xxx”"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 18 and 34(2)(a)(iii)",
+      "Arbitration Act",
+      "Section 18 and 34(2)(a)(iii)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Sections 34/37",
+      "Arbitration Act",
+      "Sections 34/37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Order XIV Rule 1",
+      "Code of Civil Procedure, 190818",
+      "Order XIV Rule 1",
+      "Code of Civil Procedure, 190818"
+    ],
+    [
+      "Order XIV Rule 1",
+      "CPC",
+      "Order XIV Rule 1",
+      "CPC"
+    ],
+    [
+      "Section 114",
+      "Indian Evidence Act, 1872",
+      "Section 114",
+      "Indian Evidence Act, 1872"
+    ],
+    [
+      "Section 2(b)",
+      "Interest Act, 1978",
+      "Section 2(b)",
+      "Interest Act, 1978"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 19963",
+      "Section 37",
+      "Arbitration and Conciliation Act, 19963"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 19963",
+      "Section 37",
+      "Arbitration and Conciliation Act, 19963"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 19963",
+      "Section 37",
+      "Arbitration and Conciliation Act, 19963"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 19963",
+      "Section 37",
+      "Arbitration and Conciliation Act, 19963"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 19963",
+      "Section 37",
+      "Arbitration and Conciliation Act, 19963"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 19963",
+      "Section 37",
+      "Arbitration and Conciliation Act, 19963"
+    ],
+    [
+      "Sections 34 and 37",
+      "Arbitration and Conciliation Act, 19963",
+      "Sections 34 and 37",
+      "Arbitration and Conciliation Act, 19963"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34(2A)",
+      "Arbitration Act",
+      "Section 34(2A)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 26",
+      "Arbitration Act",
+      "Section 26",
+      "Arbitration Act"
+    ],
+    [
+      "Section 18",
+      "Arbitration Act",
+      "Section 18",
+      "Arbitration Act"
+    ],
+    [
+      "Section 26",
+      "Arbitration Act",
+      "Section 26",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 19963",
+      "Section 37",
+      "Arbitration and Conciliation Act, 19963"
+    ],
+    [
+      "Sections 26, 28, 34 and 37",
+      "Arbitration and Conciliation Act, 19963",
+      "Sections 26, 28, 34 and 37",
+      "Arbitration and Conciliation Act, 19963"
+    ],
+    [
+      "section 75 or section 81",
+      "Act 33 of 2019",
+      "section 75 or section 81",
+      "Act 33 of 2019"
+    ],
+    [
+      "sec. 18(II)",
+      "Act 3 of 2016",
+      "sec. 18(II)",
+      "Act 3 of 2016"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 31(7)",
+      "PPA",
+      "Section 31(7)",
+      "PPA"
+    ],
+    [
+      "section 9",
+      "Act 3 of 2016",
+      "section 9",
+      "Act 3 of 2016"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 19963",
+      "Section 37",
+      "Arbitration and Conciliation Act, 19963"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 19963",
+      "Section 37",
+      "Arbitration and Conciliation Act, 19963"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 19963",
+      "Section 37",
+      "Arbitration and Conciliation Act, 19963"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34(2)(b)(ii)",
+      "Arbitration Act",
+      "Section 34(2)(b)(ii)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34(2)(b)(ii)",
+      "Arbitration Act",
+      "Section 34(2)(b)(ii)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Explanation 1 to Section 34(2)",
+      "Arbitration Act",
+      "Explanation 1 to Section 34(2)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 75 or Section 81",
+      "Act 33 of 2019",
+      "Section 75 or Section 81",
+      "Act 33 of 2019"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 19963",
+      "Section 37",
+      "Arbitration and Conciliation Act, 19963"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 19963",
+      "Section 37",
+      "Arbitration and Conciliation Act, 19963"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 19963",
+      "Section 37",
+      "Arbitration and Conciliation Act, 19963"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 31(3)",
+      "PPA",
+      "Section 31(3)",
+      "PPA"
+    ],
+    [
+      "Section 34(2-A)",
+      "Arbitration Act",
+      "Section 34(2-A)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 5 and Section 34",
+      "Arbitration Act",
+      "Section 5 and Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34(2- A)",
+      "Arbitration Act",
+      "Section 34(2- A)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34(2)(b)",
+      "Arbitration Act",
+      "Section 34(2)(b)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 75 or Section 81",
+      "Act 33 of 2019",
+      "Section 75 or Section 81",
+      "Act 33 of 2019"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Sections 34 and 37",
+      "Arbitration and Conciliation Act, 19963",
+      "Sections 34 and 37",
+      "Arbitration and Conciliation Act, 19963"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 19963",
+      "Section 37",
+      "Arbitration and Conciliation Act, 19963"
+    ],
+    [
+      "Sections 34/37",
+      "Arbitration Act",
+      "Sections 34/37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 26",
+      "Arbitration Act",
+      "Section 26",
+      "Arbitration Act"
+    ],
+    [
+      "Section 26",
+      "Arbitration Act",
+      "Section 26",
+      "Arbitration Act"
+    ],
+    [
+      "Section 26",
+      "Arbitration Act",
+      "Section 26",
+      "Arbitration Act"
+    ],
+    [
+      "Sections 34 or 37",
+      "Arbitration Act",
+      "Sections 34 or 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 28(3)",
+      "Amendment Act, 2015",
+      "Section 28(3)",
+      "Amendment Act, 2015"
+    ],
+    [
+      "Sections 34 and 37",
+      "Arbitration Act",
+      "Sections 34 and 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 28(3)",
+      "Amendment Act, 2015",
+      "Section 28(3)",
+      "Amendment Act, 2015"
+    ],
+    [
+      "Sections 34 or 37",
+      "Arbitration Act",
+      "Sections 34 or 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Sections 34 and 37",
+      "Arbitration Act",
+      "Sections 34 and 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 37",
+      "Arbitration Act",
+      "Section 37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 31(7)",
+      "PPA",
+      "Section 31(7)",
+      "PPA"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 31(7)(b)",
+      "PPA",
+      "Section 31(7)(b)",
+      "PPA"
+    ],
+    [
+      "Section 31",
+      "PPA",
+      "Section 31",
+      "PPA"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Sections 34/37",
+      "Arbitration Act",
+      "Sections 34/37",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Scenario 22",
+      "PPA",
+      "Scenario 22",
+      "PPA"
+    ],
+    [
+      "Schedule 2",
+      "Arbitration Act",
+      "Schedule 2",
+      "Arbitration Act"
+    ],
+    [
+      "Section 31(7)(b)",
+      "PPA",
+      "Section 31(7)(b)",
+      "PPA"
+    ],
+    [
+      "SCC 275",
+      "PPA",
+      "SCC 275",
+      "PPA"
+    ],
+    [
+      "sec. 14",
+      "Act 3 of 2016",
+      "sec. 14",
+      "Act 3 of 2016"
+    ],
+    [
+      "sec 7",
+      "Act 33 of 2019",
+      "sec 7",
+      "Act 33 of 2019"
+    ],
+    [
+      "section 75 or section 81",
+      "Act 33 of 2019",
+      "section 75 or section 81",
+      "Act 33 of 2019"
+    ],
+    [
+      "section 33",
+      "Act 33 of 2019",
+      "section 33",
+      "Act 33 of 2019"
+    ],
+    [
+      "sec. 18(I)",
+      "Act 3 of 2016",
+      "sec. 18(I)",
+      "Act 3 of 2016"
+    ],
+    [
+      "section 8",
+      "Act 3 of 2016",
+      "section 8",
+      "Act 3 of 2016"
+    ],
+    [
+      "section 9",
+      "Act 3 of 2016",
+      "section 9",
+      "Act 3 of 2016"
+    ],
+    [
+      "sub-section (2) or sub-section (3) of section 16",
+      "Act 3 of 2016",
+      "sub-section (2) or sub-section (3) of section 16",
+      "Act 3 of 2016"
+    ],
+    [
+      "section 17",
+      "Act 3 of 2016",
+      "section 17",
+      "Act 3 of 2016"
+    ],
+    [
+      "sec 8",
+      "Act 33 of 2019",
+      "sec 8",
+      "Act 33 of 2019"
+    ],
+    [
+      "sec. 16(i)",
+      "Act 3 of 2016",
+      "sec. 16(i)",
+      "Act 3 of 2016"
+    ],
+    [
+      "Section 28(3)",
+      "Amendment Act, 2015",
+      "Section 28(3)",
+      "Amendment Act, 2015"
+    ],
+    [
+      "Section 23",
+      "Arbitration Act",
+      "Section 23",
+      "Arbitration Act"
+    ],
+    [
+      "rule 2 of Order X",
+      "CPC",
+      "rule 2 of Order X",
+      "CPC"
+    ]
+  ],
+  "precedent_counts": {
+    "Ssangyong Engineering and Construction Co. Ltd. v. NHAI: (2019) 15 SCC 131": 5,
+    "Vedanta Ltd. v. Shenzhen Shandong Nuclear Power Construction Co.\nLtd: (2019) 11 SCC 465": 5,
+    "Delhi Airport Metro Express Pvt. Ltd. v. Delhi Metro Rail Corporation Ltd.: (2022) 1": 12,
+    "Haryana Tourism Ltd. v. Kandhari Beverages Ltd.: (2022) 3 SCC 237": 2,
+    "MMTC Limited v. Vedanta Limited: (2019) 4 SCC 163": 2,
+    "PSA SICAL Terminals (P) Ltd. v. Board of Trustees of V.O. Chidambranar Port Trust Tuticorin and Ors.: (2021) SCC Online SC 508": 2,
+    "Associate Builders v. DDA [Associate Builders v. DDA, (2015) 3 SCC 49 : (2015) 2 SCC (Civ) 204": 3,
+    "DMRC v. Delhi Airport Metro Express (P) Ltd., 2019 SCC OnLine Del 6562": 3
+  },
+  "provision_counts": {
+    "Section 37 of Arbitration and Conciliation Act, 19963": 15,
+    "Section 13 of Commercial Courts, Commercial Division and Commercial Appellate Divisions of High Courts Act, 2015": 1,
+    "Section 86(1)(f) of Electricity Act, 2003": 1,
+    "Section 34 of Arbitration Act": 52,
+    "Section 26 of Arbitration Act": 6,
+    "Section 74 of Contract Act, 1872": 1,
+    "clause (b) of section 2 of Interest Act, 1978 (14 of 1978)] xxx xxx xxx”": 1,
+    "Section 18 and 34(2)(a)(iii) of Arbitration Act": 1,
+    "Section 37 of Arbitration Act": 10,
+    "Sections 34/37 of Arbitration Act": 3,
+    "Order XIV Rule 1 of Code of Civil Procedure, 190818": 1,
+    "Order XIV Rule 1 of CPC": 1,
+    "Section 114 of Indian Evidence Act, 1872": 1,
+    "Section 2(b) of Interest Act, 1978": 1,
+    "Sections 34 and 37 of Arbitration and Conciliation Act, 19963": 2,
+    "Section 34(2A) of Arbitration Act": 1,
+    "Section 18 of Arbitration Act": 1,
+    "Sections 26, 28, 34 and 37 of Arbitration and Conciliation Act, 19963": 1,
+    "section 75 or section 81 of Act 33 of 2019": 2,
+    "sec. 18(II) of Act 3 of 2016": 1,
+    "section 34 of Arbitration Act": 2,
+    "Section 31(7) of PPA": 2,
+    "section 9 of Act 3 of 2016": 2,
+    "Section 34(2)(b)(ii) of Arbitration Act": 2,
+    "Explanation 1 to Section 34(2) of Arbitration Act": 1,
+    "Section 75 or Section 81 of Act 33 of 2019": 2,
+    "Section 31(3) of PPA": 1,
+    "Section 34(2-A) of Arbitration Act": 1,
+    "Section 5 and Section 34 of Arbitration Act": 1,
+    "Section 34(2- A) of Arbitration Act": 1,
+    "Section 34(2)(b) of Arbitration Act": 1,
+    "Sections 34 or 37 of Arbitration Act": 2,
+    "Section 28(3) of Amendment Act, 2015": 3,
+    "Sections 34 and 37 of Arbitration Act": 2,
+    "Section 31(7)(b) of PPA": 2,
+    "Section 31 of PPA": 1,
+    "Scenario 22 of PPA": 1,
+    "Schedule 2 of Arbitration Act": 1,
+    "SCC 275 of PPA": 1,
+    "sec. 14 of Act 3 of 2016": 1,
+    "sec 7 of Act 33 of 2019": 1,
+    "section 33 of Act 33 of 2019": 1,
+    "sec. 18(I) of Act 3 of 2016": 1,
+    "section 8 of Act 3 of 2016": 1,
+    "sub-section (2) or sub-section (3) of section 16 of Act 3 of 2016": 1,
+    "section 17 of Act 3 of 2016": 1,
+    "sec 8 of Act 33 of 2019": 1,
+    "sec. 16(i) of Act 3 of 2016": 1,
+    "Section 23 of Arbitration Act": 1,
+    "rule 2 of Order X of CPC": 1
+  },
+  "statute_counts": {
+    "Arbitration and Conciliation Act, 19963": 18,
+    "Commercial Courts, Commercial Division and Commercial Appellate Divisions of High Courts Act, 2015": 1,
+    "Electricity Act, 2003": 1,
+    "Arbitration Act": 89,
+    "Contract Act, 1872": 1,
+    "Interest Act, 1978 (14 of 1978)] xxx xxx xxx”": 1,
+    "Code of Civil Procedure, 190818": 1,
+    "CPC": 2,
+    "Indian Evidence Act, 1872": 1,
+    "Interest Act, 1978": 1,
+    "Act 33 of 2019": 7,
+    "Act 3 of 2016": 9,
+    "PPA": 8,
+    "Amendment Act, 2015": 3
+  }
+}

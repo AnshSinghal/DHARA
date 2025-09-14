@@ -1,0 +1,739 @@
+{
+  "entities": [
+    {
+      "text": "Karnataka High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 20
+    },
+    {
+      "text": "Maaz Ahmed Sharief",
+      "label": "PETITIONER",
+      "start_char": 24,
+      "end_char": 42
+    },
+    {
+      "text": "Puruvankara Projects Ltd",
+      "label": "RESPONDENT",
+      "start_char": 50,
+      "end_char": 74
+    },
+    {
+      "text": "P.S.Dinesh Kumar",
+      "label": "JUDGE",
+      "start_char": 100,
+      "end_char": 116
+    },
+    {
+      "text": "P.S.Dinesh Kumar",
+      "label": "JUDGE",
+      "start_char": 124,
+      "end_char": 140
+    },
+    {
+      "text": "High Court Of Karnataka At Bengaluru",
+      "label": "COURT",
+      "start_char": 153,
+      "end_char": 189
+    },
+    {
+      "text": "P.S.Dinesh Kumar",
+      "label": "JUDGE",
+      "start_char": 300,
+      "end_char": 316
+    },
+    {
+      "text": "C.M. Poonacha",
+      "label": "JUDGE",
+      "start_char": 382,
+      "end_char": 395
+    },
+    {
+      "text": "Maaz Ahmed Sharief",
+      "label": "PETITIONER",
+      "start_char": 447,
+      "end_char": 465
+    },
+    {
+      "text": "H.Ramachandra",
+      "label": "LAWYER",
+      "start_char": 614,
+      "end_char": 627
+    },
+    {
+      "text": "Puruvankara Projects Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 656,
+      "end_char": 681
+    },
+    {
+      "text": "Riyaz Ahmed Sharief",
+      "label": "RESPONDENT",
+      "start_char": 927,
+      "end_char": 946
+    },
+    {
+      "text": "Sanjay Nair",
+      "label": "LAWYER",
+      "start_char": 1144,
+      "end_char": 1155
+    },
+    {
+      "text": "Poonacha",
+      "label": "JUDGE",
+      "start_char": 1815,
+      "end_char": 1823
+    },
+    {
+      "text": "01.07.2021",
+      "label": "DATE",
+      "start_char": 1941,
+      "end_char": 1951
+    },
+    {
+      "text": "Commercial AS No.149/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 1962,
+      "end_char": 1987
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 2000,
+      "end_char": 2010
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 2018,
+      "end_char": 2056
+    },
+    {
+      "text": "17.12.2012",
+      "label": "DATE",
+      "start_char": 2142,
+      "end_char": 2152
+    },
+    {
+      "text": "CMP No.83/2006",
+      "label": "CASE_NUMBER",
+      "start_char": 2163,
+      "end_char": 2177
+    },
+    {
+      "text": "Commercial AS No.149/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 2603,
+      "end_char": 2628
+    },
+    {
+      "text": "24.02.2003",
+      "label": "DATE",
+      "start_char": 3147,
+      "end_char": 3157
+    },
+    {
+      "text": "17.12.2012",
+      "label": "DATE",
+      "start_char": 3222,
+      "end_char": 3232
+    },
+    {
+      "text": "24.02.2003",
+      "label": "DATE",
+      "start_char": 3320,
+      "end_char": 3330
+    },
+    {
+      "text": "Commercial AS No.149/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 3655,
+      "end_char": 3680
+    },
+    {
+      "text": "01.07.2021",
+      "label": "DATE",
+      "start_char": 3821,
+      "end_char": 3831
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 3905,
+      "end_char": 3915
+    },
+    {
+      "text": "24.02.2003",
+      "label": "DATE",
+      "start_char": 4334,
+      "end_char": 4344
+    },
+    {
+      "text": "Section 17(1)(a)",
+      "label": "PROVISION",
+      "start_char": 4396,
+      "end_char": 4412
+    },
+    {
+      "text": "Indian Registration Act, 1908",
+      "label": "STATUTE",
+      "start_char": 4420,
+      "end_char": 4449
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 4782,
+      "end_char": 4792
+    },
+    {
+      "text": "Section 17(1)(a)",
+      "label": "PROVISION",
+      "start_char": 5997,
+      "end_char": 6013
+    },
+    {
+      "text": "Indian Registration Act, 1908",
+      "label": "STATUTE",
+      "start_char": 6021,
+      "end_char": 6050
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 6089,
+      "end_char": 6099
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 6266,
+      "end_char": 6276
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 6490,
+      "end_char": 6500
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 6895,
+      "end_char": 6905
+    },
+    {
+      "text": "01.07.2021",
+      "label": "DATE",
+      "start_char": 7494,
+      "end_char": 7504
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 7996,
+      "end_char": 8006
+    },
+    {
+      "text": "17.12.2012",
+      "label": "DATE",
+      "start_char": 8105,
+      "end_char": 8115
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 8142,
+      "end_char": 8152
+    },
+    {
+      "text": "13.07.2018",
+      "label": "DATE",
+      "start_char": 8181,
+      "end_char": 8191
+    },
+    {
+      "text": "Section 34(3)",
+      "label": "PROVISION",
+      "start_char": 8198,
+      "end_char": 8211
+    },
+    {
+      "text": "proviso to Section 34(3)",
+      "label": "PROVISION",
+      "start_char": 8343,
+      "end_char": 8367
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 8454,
+      "end_char": 8464
+    },
+    {
+      "text": "P.Radha Bai v. Ashok Kumar and another, reported in (2019) 13",
+      "label": "PRECEDENT",
+      "start_char": 8829,
+      "end_char": 8890
+    },
+    {
+      "text": "SCC 445",
+      "label": "PROVISION",
+      "start_char": 8891,
+      "end_char": 8898
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 8923,
+      "end_char": 8936
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 8955,
+      "end_char": 8970
+    },
+    {
+      "text": "Section 34(3)",
+      "label": "PROVISION",
+      "start_char": 9045,
+      "end_char": 9058
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 9106,
+      "end_char": 9120
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 9172,
+      "end_char": 9187
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 9211,
+      "end_char": 9225
+    },
+    {
+      "text": "Section 34(3)",
+      "label": "PROVISION",
+      "start_char": 9330,
+      "end_char": 9343
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 9491,
+      "end_char": 9501
+    },
+    {
+      "text": "24.02.2003",
+      "label": "DATE",
+      "start_char": 9928,
+      "end_char": 9938
+    },
+    {
+      "text": "N.N.Global Mercantile Pvt",
+      "label": "ORG",
+      "start_char": 10201,
+      "end_char": 10226
+    },
+    {
+      "text": "(2021) 4 SCC 379",
+      "label": "CASE_NUMBER",
+      "start_char": 10283,
+      "end_char": 10299
+    },
+    {
+      "text": "Widescreen Holdings Private Limited",
+      "label": "ORG",
+      "start_char": 10308,
+      "end_char": 10343
+    },
+    {
+      "text": "v. Religare Finvest Limited & Anr., Etc., reported in 2022 LiveLaw (SC) 435",
+      "label": "PRECEDENT",
+      "start_char": 10358,
+      "end_char": 10433
+    },
+    {
+      "text": "24.02.2003",
+      "label": "DATE",
+      "start_char": 10544,
+      "end_char": 10554
+    },
+    {
+      "text": "Article 5(iii)(e)(iv)",
+      "label": "PROVISION",
+      "start_char": 10782,
+      "end_char": 10803
+    },
+    {
+      "text": "Karnataka Stamp (Amendment) Act, 1995",
+      "label": "STATUTE",
+      "start_char": 10811,
+      "end_char": 10848
+    },
+    {
+      "text": "24.02.2003",
+      "label": "DATE",
+      "start_char": 10890,
+      "end_char": 10900
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 11066,
+      "end_char": 11076
+    },
+    {
+      "text": "Section 17(1)",
+      "label": "PROVISION",
+      "start_char": 11156,
+      "end_char": 11169
+    },
+    {
+      "text": "Section 17(1)(a)",
+      "label": "PROVISION",
+      "start_char": 11249,
+      "end_char": 11265
+    },
+    {
+      "text": "Section 17(2)",
+      "label": "PROVISION",
+      "start_char": 11369,
+      "end_char": 11382
+    },
+    {
+      "text": "Section 17(1)(a)(b) and (c)",
+      "label": "PROVISION",
+      "start_char": 11430,
+      "end_char": 11457
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 11542,
+      "end_char": 11552
+    },
+    {
+      "text": "EP No.1764/2013",
+      "label": "CASE_NUMBER",
+      "start_char": 11873,
+      "end_char": 11888
+    },
+    {
+      "text": "30.01.2019",
+      "label": "DATE",
+      "start_char": 12186,
+      "end_char": 12196
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 12242,
+      "end_char": 12252
+    },
+    {
+      "text": "SSANGYONG Engineering and Construction Company Limited v. National Highways Authority of India (NHAI), reported in (2019)",
+      "label": "PRECEDENT",
+      "start_char": 12332,
+      "end_char": 12453
+    },
+    {
+      "text": "Patel Engineering Limited v. North Eastern Electric Power Corporation Limited, reported in (2020) 7 SCC 167;(3",
+      "label": "PRECEDENT",
+      "start_char": 12470,
+      "end_char": 12580
+    },
+    {
+      "text": "PSA SICAL Terminals Pvt",
+      "label": "ORG",
+      "start_char": 12582,
+      "end_char": 12605
+    },
+    {
+      "text": "v. Board of Trustees of V.O Chidambranar Port Trust Tuticorin and Others, reported in 2021 SCC OnLine SC 508",
+      "label": "PRECEDENT",
+      "start_char": 12613,
+      "end_char": 12721
+    },
+    {
+      "text": "Delhi Airport Metro Express Private Limited v. Delhi Metro Rail Corporation Limited, reported in (2022) 1 SCC 131)",
+      "label": "PRECEDENT",
+      "start_char": 12731,
+      "end_char": 12845
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 13042,
+      "end_char": 13052
+    },
+    {
+      "text": "17.12.2012",
+      "label": "DATE",
+      "start_char": 13119,
+      "end_char": 13129
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 13225,
+      "end_char": 13235
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 13350,
+      "end_char": 13360
+    },
+    {
+      "text": "01.07.2021",
+      "label": "DATE",
+      "start_char": 13581,
+      "end_char": 13591
+    },
+    {
+      "text": "Commercial AS No.149/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 13602,
+      "end_char": 13627
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 13670,
+      "end_char": 13680
+    },
+    {
+      "text": "EP.No.1764/2013",
+      "label": "CASE_NUMBER",
+      "start_char": 13744,
+      "end_char": 13759
+    },
+    {
+      "text": "IA.3/2021",
+      "label": "CASE_NUMBER",
+      "start_char": 13928,
+      "end_char": 13937
+    }
+  ],
+  "precedent_clusters": {
+    "SSANGYONG Engineering and Construction Company Limited v. National Highways Authority of India (NHAI), reported in (2019)": [
+      "P.Radha Bai v. Ashok Kumar and another, reported in (2019) 13",
+      "SSANGYONG Engineering and Construction Company Limited v. National Highways Authority of India (NHAI), reported in (2019)"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 17(1)(a)",
+      "Indian Registration Act, 1908",
+      "Section 17(1)(a)",
+      "Indian Registration Act, 1908"
+    ],
+    [
+      "Section 17(1)(a)",
+      "Indian Registration Act, 1908",
+      "Section 17(1)(a)",
+      "Indian Registration Act, 1908"
+    ],
+    [
+      "SCC 445",
+      "Arbitration Act",
+      "SCC 445",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34(3)",
+      "Limitation Act",
+      "Section 34(3)",
+      "Limitation Act"
+    ],
+    [
+      "Article 5(iii)(e)(iv)",
+      "Karnataka Stamp (Amendment) Act, 1995",
+      "Article 5(iii)(e)(iv)",
+      "Karnataka Stamp (Amendment) Act, 1995"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34(3)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34(3)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "proviso to Section 34(3)",
+      "Arbitration and Conciliation Act, 1996",
+      "proviso to Section 34(3)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34(3)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34(3)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 17",
+      "Indian Registration Act, 1908",
+      "Section 17",
+      "Indian Registration Act, 1908"
+    ],
+    [
+      "Section 17(1)",
+      "Indian Registration Act, 1908",
+      "Section 17(1)",
+      "Indian Registration Act, 1908"
+    ],
+    [
+      "Section 17(1)(a)",
+      "Indian Registration Act, 1908",
+      "Section 17(1)(a)",
+      "Indian Registration Act, 1908"
+    ],
+    [
+      "Section 17(2)",
+      "Indian Registration Act, 1908",
+      "Section 17(2)",
+      "Indian Registration Act, 1908"
+    ],
+    [
+      "Section 17(1)(a)(b) and (c)",
+      "Indian Registration Act, 1908",
+      "Section 17(1)(a)(b) and (c)",
+      "Indian Registration Act, 1908"
+    ],
+    [
+      "Section 17",
+      "Indian Registration Act, 1908",
+      "Section 17",
+      "Indian Registration Act, 1908"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996"
+    ]
+  ],
+  "precedent_counts": {
+    "SSANGYONG Engineering and Construction Company Limited v. National Highways Authority of India (NHAI), reported in (2019)": 2
+  },
+  "provision_counts": {
+    "Section 34 of Arbitration and Conciliation Act, 1996": 13,
+    "Section 17(1)(a) of Indian Registration Act, 1908": 3,
+    "SCC 445 of Arbitration Act": 1,
+    "Section 34(3) of Limitation Act": 1,
+    "Article 5(iii)(e)(iv) of Karnataka Stamp (Amendment) Act, 1995": 1,
+    "Section 34(3) of Arbitration and Conciliation Act, 1996": 2,
+    "proviso to Section 34(3) of Arbitration and Conciliation Act, 1996": 1,
+    "Section 17 of Indian Registration Act, 1908": 2,
+    "Section 17(1) of Indian Registration Act, 1908": 1,
+    "Section 17(2) of Indian Registration Act, 1908": 1,
+    "Section 17(1)(a)(b) and (c) of Indian Registration Act, 1908": 1,
+    "Section 37 of Arbitration and Conciliation Act, 1996": 3
+  },
+  "statute_counts": {
+    "Arbitration and Conciliation Act, 1996": 19,
+    "Indian Registration Act, 1908": 8,
+    "Arbitration Act": 1,
+    "Limitation Act": 1,
+    "Karnataka Stamp (Amendment) Act, 1995": 1
+  }
+}

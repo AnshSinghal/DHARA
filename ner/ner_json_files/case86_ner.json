@@ -1,0 +1,1113 @@
+{
+  "entities": [
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 16
+    },
+    {
+      "text": "Dassault Systemes",
+      "label": "PETITIONER",
+      "start_char": 17,
+      "end_char": 34
+    },
+    {
+      "text": "Automobile Corporation Of Goa Limited",
+      "label": "RESPONDENT",
+      "start_char": 51,
+      "end_char": 88
+    },
+    {
+      "text": "Vibhu Bakhru",
+      "label": "LAWYER",
+      "start_char": 121,
+      "end_char": 133
+    },
+    {
+      "text": "Vibhu Bakhru",
+      "label": "LAWYER",
+      "start_char": 141,
+      "end_char": 153
+    },
+    {
+      "text": "High Court Of Delhi At New Delhi",
+      "label": "COURT",
+      "start_char": 192,
+      "end_char": 224
+    },
+    {
+      "text": "Dassault Systemes",
+      "label": "PETITIONER",
+      "start_char": 472,
+      "end_char": 489
+    },
+    {
+      "text": "Automobile Corporation Of Goa",
+      "label": "RESPONDENT",
+      "start_char": 632,
+      "end_char": 661
+    },
+    {
+      "text": "Uttam Datt",
+      "label": "LAWYER",
+      "start_char": 879,
+      "end_char": 889
+    },
+    {
+      "text": "Sonakshi Singh",
+      "label": "LAWYER",
+      "start_char": 895,
+      "end_char": 909
+    },
+    {
+      "text": "Jitesh P Gupta",
+      "label": "LAWYER",
+      "start_char": 967,
+      "end_char": 981
+    },
+    {
+      "text": "Dinesh Jotwani",
+      "label": "LAWYER",
+      "start_char": 988,
+      "end_char": 1002
+    },
+    {
+      "text": "Mayank Pandey",
+      "label": "LAWYER",
+      "start_char": 1068,
+      "end_char": 1081
+    },
+    {
+      "text": "Ashish Pandey",
+      "label": "LAWYER",
+      "start_char": 1088,
+      "end_char": 1101
+    },
+    {
+      "text": "Vibhu Bakhru",
+      "label": "JUDGE",
+      "start_char": 1238,
+      "end_char": 1250
+    },
+    {
+      "text": "Amit Mahajan",
+      "label": "JUDGE",
+      "start_char": 1296,
+      "end_char": 1308
+    },
+    {
+      "text": "Vibhu Bakhru",
+      "label": "JUDGE",
+      "start_char": 1372,
+      "end_char": 1384
+    },
+    {
+      "text": "Section 13 (1A)",
+      "label": "PROVISION",
+      "start_char": 1443,
+      "end_char": 1458
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 1466,
+      "end_char": 1493
+    },
+    {
+      "text": "02.04.2022",
+      "label": "DATE",
+      "start_char": 1519,
+      "end_char": 1529
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 1658,
+      "end_char": 1675
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 1683,
+      "end_char": 1712
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 1729,
+      "end_char": 1732
+    },
+    {
+      "text": "CS(Comm) 30/2020",
+      "label": "CASE_NUMBER",
+      "start_char": 1798,
+      "end_char": 1814
+    },
+    {
+      "text": "Dassault Systemes SE",
+      "label": "ORG",
+      "start_char": 1816,
+      "end_char": 1836
+    },
+    {
+      "text": "Automobile Corporation of Goa Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 1849,
+      "end_char": 1883
+    },
+    {
+      "text": "CATIA V5-6R2013",
+      "label": "CASE_NUMBER",
+      "start_char": 2046,
+      "end_char": 2061
+    },
+    {
+      "text": "Dassault Systemes S.E.",
+      "label": "PETITIONER",
+      "start_char": 2313,
+      "end_char": 2335
+    },
+    {
+      "text": "Dassault Systemes India Private Limited",
+      "label": "PETITIONER",
+      "start_char": 2494,
+      "end_char": 2533
+    },
+    {
+      "text": "Automobile Corporation of Goa Limited",
+      "label": "ORG",
+      "start_char": 2670,
+      "end_char": 2707
+    },
+    {
+      "text": "CATIA",
+      "label": "ORG",
+      "start_char": 3038,
+      "end_char": 3043
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 3258,
+      "end_char": 3275
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 3283,
+      "end_char": 3286
+    },
+    {
+      "text": "Goa",
+      "label": "GPE",
+      "start_char": 3469,
+      "end_char": 3472
+    },
+    {
+      "text": "Section 62(2)",
+      "label": "PROVISION",
+      "start_char": 3736,
+      "end_char": 3749
+    },
+    {
+      "text": "Copyright Act, 1957",
+      "label": "STATUTE",
+      "start_char": 3757,
+      "end_char": 3776
+    },
+    {
+      "text": "Copyright Act",
+      "label": "STATUTE",
+      "start_char": 3793,
+      "end_char": 3806
+    },
+    {
+      "text": "French Republic",
+      "label": "GPE",
+      "start_char": 3850,
+      "end_char": 3865
+    },
+    {
+      "text": "CATIA V5- 6R2013 (CATIA)",
+      "label": "CASE_NUMBER",
+      "start_char": 3903,
+      "end_char": 3927
+    },
+    {
+      "text": "United States Copyright Office",
+      "label": "ORG",
+      "start_char": 3951,
+      "end_char": 3981
+    },
+    {
+      "text": "09.10.2013",
+      "label": "DATE",
+      "start_char": 4043,
+      "end_char": 4053
+    },
+    {
+      "text": "Section 62(2)",
+      "label": "PROVISION",
+      "start_char": 4154,
+      "end_char": 4167
+    },
+    {
+      "text": "Copyright Act",
+      "label": "STATUTE",
+      "start_char": 4175,
+      "end_char": 4188
+    },
+    {
+      "text": "Section 62(2)",
+      "label": "PROVISION",
+      "start_char": 4572,
+      "end_char": 4585
+    },
+    {
+      "text": "Copyright Act",
+      "label": "STATUTE",
+      "start_char": 4593,
+      "end_char": 4606
+    },
+    {
+      "text": "Section 19",
+      "label": "PROVISION",
+      "start_char": 5111,
+      "end_char": 5121
+    },
+    {
+      "text": "Copyright Act",
+      "label": "STATUTE",
+      "start_char": 5129,
+      "end_char": 5142
+    },
+    {
+      "text": "Western Coalfields Limited v. Special Area Development Authority, Korba & Anr.: (1982) 1 SCC 125",
+      "label": "PRECEDENT",
+      "start_char": 5287,
+      "end_char": 5383
+    },
+    {
+      "text": "Rustom Cavasjee Cooper v. Union of India: (1970) 1 SCC 248",
+      "label": "PRECEDENT",
+      "start_char": 5385,
+      "end_char": 5443
+    },
+    {
+      "text": "Heavy Engineering Mazdoor Union v. State of Bihar & Ors.:\n1969 1 SCC 765",
+      "label": "PRECEDENT",
+      "start_char": 5448,
+      "end_char": 5520
+    },
+    {
+      "text": "Section 19",
+      "label": "PROVISION",
+      "start_char": 5696,
+      "end_char": 5706
+    },
+    {
+      "text": "Copyright Act",
+      "label": "STATUTE",
+      "start_char": 5714,
+      "end_char": 5727
+    },
+    {
+      "text": "Section 55",
+      "label": "PROVISION",
+      "start_char": 5824,
+      "end_char": 5834
+    },
+    {
+      "text": "Copyright Act",
+      "label": "STATUTE",
+      "start_char": 5842,
+      "end_char": 5855
+    },
+    {
+      "text": "CATIA",
+      "label": "ORG",
+      "start_char": 6623,
+      "end_char": 6628
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 7308,
+      "end_char": 7325
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 7333,
+      "end_char": 7336
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 7490,
+      "end_char": 7507
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 7515,
+      "end_char": 7518
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 7637,
+      "end_char": 7654
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 7662,
+      "end_char": 7665
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 7747,
+      "end_char": 7752
+    },
+    {
+      "text": "Copyright Act",
+      "label": "STATUTE",
+      "start_char": 8261,
+      "end_char": 8274
+    },
+    {
+      "text": "Section 19",
+      "label": "PROVISION",
+      "start_char": 8477,
+      "end_char": 8487
+    },
+    {
+      "text": "Copyright Act",
+      "label": "STATUTE",
+      "start_char": 8495,
+      "end_char": 8508
+    },
+    {
+      "text": "Section 55",
+      "label": "PROVISION",
+      "start_char": 8639,
+      "end_char": 8649
+    },
+    {
+      "text": "Copyright Act",
+      "label": "STATUTE",
+      "start_char": 8657,
+      "end_char": 8670
+    },
+    {
+      "text": "Copyright Act",
+      "label": "STATUTE",
+      "start_char": 8717,
+      "end_char": 8730
+    },
+    {
+      "text": "Begum Sabiha Sultan v. Nawab Mohd",
+      "label": "PRECEDENT",
+      "start_char": 8785,
+      "end_char": 8818
+    },
+    {
+      "text": "Mansur Ali Khan & Ors.: (2007) 4 SCC 343",
+      "label": "PRECEDENT",
+      "start_char": 8820,
+      "end_char": 8860
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 8995,
+      "end_char": 9012
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 9020,
+      "end_char": 9023
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 9242,
+      "end_char": 9259
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 9267,
+      "end_char": 9270
+    },
+    {
+      "text": "(2004) 3 SCC 688",
+      "label": "PRECEDENT",
+      "start_char": 9423,
+      "end_char": 9439
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 9445,
+      "end_char": 9458
+    },
+    {
+      "text": "M/s RSPL Limited v. Mukesh Sharma & Anr.: (2016)",
+      "label": "PRECEDENT",
+      "start_char": 9978,
+      "end_char": 10026
+    },
+    {
+      "text": "SCC OnLine Del 4285",
+      "label": "CASE_NUMBER",
+      "start_char": 10027,
+      "end_char": 10046
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 10114,
+      "end_char": 10131
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 10139,
+      "end_char": 10142
+    },
+    {
+      "text": "Allied Blenders and Distillers Pvt",
+      "label": "ORG",
+      "start_char": 10236,
+      "end_char": 10270
+    },
+    {
+      "text": "Ltd. v. Prag Distillery Pvt. Ltd. & Anr.: (2017) SCC OnLine Del 6422",
+      "label": "PRECEDENT",
+      "start_char": 10272,
+      "end_char": 10340
+    },
+    {
+      "text": "Dassault Systems",
+      "label": "ORG",
+      "start_char": 10666,
+      "end_char": 10682
+    },
+    {
+      "text": "Section 2 (ffc)",
+      "label": "PROVISION",
+      "start_char": 12910,
+      "end_char": 12925
+    },
+    {
+      "text": "Copyright Act 1957",
+      "label": "STATUTE",
+      "start_char": 12933,
+      "end_char": 12951
+    },
+    {
+      "text": "Section 2(o)",
+      "label": "PROVISION",
+      "start_char": 13015,
+      "end_char": 13027
+    },
+    {
+      "text": "USA",
+      "label": "GPE",
+      "start_char": 13490,
+      "end_char": 13493
+    },
+    {
+      "text": "USA",
+      "label": "GPE",
+      "start_char": 13531,
+      "end_char": 13534
+    },
+    {
+      "text": "Indian Copyright Act 1957",
+      "label": "STATUTE",
+      "start_char": 13654,
+      "end_char": 13679
+    },
+    {
+      "text": "Section 2(o)",
+      "label": "PROVISION",
+      "start_char": 13924,
+      "end_char": 13936
+    },
+    {
+      "text": "Section 13(1)\n",
+      "label": "PROVISION",
+      "start_char": 13941,
+      "end_char": 13955
+    },
+    {
+      "text": "[Indian] Copyright Act 1957",
+      "label": "STATUTE",
+      "start_char": 13966,
+      "end_char": 13993
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 14140,
+      "end_char": 14150
+    },
+    {
+      "text": "Copyright Act, 1957",
+      "label": "STATUTE",
+      "start_char": 14158,
+      "end_char": 14177
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 14260,
+      "end_char": 14270
+    },
+    {
+      "text": "Copyright Act",
+      "label": "STATUTE",
+      "start_char": 14278,
+      "end_char": 14291
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 15168,
+      "end_char": 15178
+    },
+    {
+      "text": "Copyright Act",
+      "label": "STATUTE",
+      "start_char": 15186,
+      "end_char": 15199
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 15352,
+      "end_char": 15369
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 15377,
+      "end_char": 15380
+    },
+    {
+      "text": "CATIA",
+      "label": "PETITIONER",
+      "start_char": 15825,
+      "end_char": 15830
+    },
+    {
+      "text": "Dassault Systemes",
+      "label": "ORG",
+      "start_char": 15951,
+      "end_char": 15968
+    },
+    {
+      "text": "CATIA",
+      "label": "STATUTE",
+      "start_char": 16135,
+      "end_char": 16140
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 16219,
+      "end_char": 16236
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 16244,
+      "end_char": 16247
+    },
+    {
+      "text": "CATIA",
+      "label": "STATUTE",
+      "start_char": 16416,
+      "end_char": 16421
+    },
+    {
+      "text": "CATIA",
+      "label": "ORG",
+      "start_char": 16823,
+      "end_char": 16828
+    },
+    {
+      "text": "CATIA",
+      "label": "STATUTE",
+      "start_char": 17109,
+      "end_char": 17114
+    },
+    {
+      "text": "CATIA",
+      "label": "COURT",
+      "start_char": 18195,
+      "end_char": 18200
+    },
+    {
+      "text": "USCO",
+      "label": "ORG",
+      "start_char": 18211,
+      "end_char": 18215
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 18682,
+      "end_char": 18699
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 18707,
+      "end_char": 18710
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 18800,
+      "end_char": 18805
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 19438,
+      "end_char": 19443
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 19506,
+      "end_char": 19511
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 19989,
+      "end_char": 20002
+    },
+    {
+      "text": "Western Coalfields Limited v. Special Area Development Authority, Kobra & Anr",
+      "label": "PRECEDENT",
+      "start_char": 20006,
+      "end_char": 20083
+    },
+    {
+      "text": "Rustom Cavasjee Cooper v Union of India",
+      "label": "PRECEDENT",
+      "start_char": 20094,
+      "end_char": 20133
+    },
+    {
+      "text": "Heavy Engineering Mazdoor Union v State of Bihar",
+      "label": "PRECEDENT",
+      "start_char": 20147,
+      "end_char": 20195
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 20379,
+      "end_char": 20384
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 20442,
+      "end_char": 20459
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 20467,
+      "end_char": 20470
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 20786,
+      "end_char": 20803
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 20811,
+      "end_char": 20814
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 20893,
+      "end_char": 20910
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 20918,
+      "end_char": 20921
+    },
+    {
+      "text": "Section 62(2)",
+      "label": "PROVISION",
+      "start_char": 20970,
+      "end_char": 20983
+    },
+    {
+      "text": "Copyright Act",
+      "label": "STATUTE",
+      "start_char": 20991,
+      "end_char": 21004
+    },
+    {
+      "text": "Copyright Act",
+      "label": "STATUTE",
+      "start_char": 21061,
+      "end_char": 21074
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 21321,
+      "end_char": 21326
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 21410,
+      "end_char": 21415
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 21468,
+      "end_char": 21477
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 21573,
+      "end_char": 21590
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 21598,
+      "end_char": 21601
+    },
+    {
+      "text": "Order XIIIA",
+      "label": "PROVISION",
+      "start_char": 21769,
+      "end_char": 21780
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 21788,
+      "end_char": 21791
+    },
+    {
+      "text": "Begum Sabiha Sultan v. Nawab Mohd",
+      "label": "PRECEDENT",
+      "start_char": 22073,
+      "end_char": 22106
+    },
+    {
+      "text": "Mansur Ali Khan",
+      "label": "OTHER_PERSON",
+      "start_char": 22108,
+      "end_char": 22123
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 22358,
+      "end_char": 22375
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 22383,
+      "end_char": 22386
+    },
+    {
+      "text": "12.11.2019",
+      "label": "DATE",
+      "start_char": 22735,
+      "end_char": 22745
+    },
+    {
+      "text": "VIBHU BAKHRU",
+      "label": "JUDGE",
+      "start_char": 23374,
+      "end_char": 23386
+    },
+    {
+      "text": "AMIT MAHAJAN",
+      "label": "JUDGE",
+      "start_char": 23390,
+      "end_char": 23402
+    },
+    {
+      "text": "OCTOBER 13, 2022",
+      "label": "DATE",
+      "start_char": 23406,
+      "end_char": 23422
+    }
+  ],
+  "precedent_clusters": {
+    "M/s RSPL Limited v. Mukesh Sharma & Anr.: (2016)": [
+      "Begum Sabiha Sultan v. Nawab Mohd",
+      "M/s RSPL Limited v. Mukesh Sharma & Anr.: (2016)",
+      "Western Coalfields Limited v. Special Area Development Authority, Kobra & Anr",
+      "Rustom Cavasjee Cooper v Union of India",
+      "Heavy Engineering Mazdoor Union v State of Bihar",
+      "Begum Sabiha Sultan v. Nawab Mohd"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 13 (1A)",
+      "Commercial Courts Act, 2015",
+      "Section 13 (1A)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908",
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order VII Rule 10",
+      "CPC",
+      "Order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "Section 62(2)",
+      "Copyright Act, 1957",
+      "Section 62(2)",
+      "Copyright Act, 1957"
+    ],
+    [
+      "Section 62(2)",
+      "Copyright Act",
+      "Section 62(2)",
+      "Copyright Act"
+    ],
+    [
+      "Section 62(2)",
+      "Copyright Act",
+      "Section 62(2)",
+      "Copyright Act"
+    ],
+    [
+      "Section 19",
+      "Copyright Act",
+      "Section 19",
+      "Copyright Act"
+    ],
+    [
+      "Section 19",
+      "Copyright Act",
+      "Section 19",
+      "Copyright Act"
+    ],
+    [
+      "Section 55",
+      "Copyright Act",
+      "Section 55",
+      "Copyright Act"
+    ],
+    [
+      "Order VII Rule 10",
+      "CPC",
+      "Order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "Order VII Rule 10",
+      "CPC",
+      "Order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "Order VII Rule 10",
+      "CPC",
+      "Order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "Section 19",
+      "Copyright Act",
+      "Section 19",
+      "Copyright Act"
+    ],
+    [
+      "Section 55",
+      "Copyright Act",
+      "Section 55",
+      "Copyright Act"
+    ],
+    [
+      "Order VII Rule 10",
+      "CPC",
+      "Order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "Order VII Rule 10",
+      "CPC",
+      "Order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "Order VII Rule 10",
+      "CPC",
+      "Order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "Section 2 (ffc)",
+      "Copyright Act 1957",
+      "Section 2 (ffc)",
+      "Copyright Act 1957"
+    ],
+    [
+      "Section 13(1)\n",
+      "[Indian] Copyright Act 1957",
+      "Section 13(1)\n",
+      "[Indian] Copyright Act 1957"
+    ],
+    [
+      "Section 17",
+      "Copyright Act, 1957",
+      "Section 17",
+      "Copyright Act, 1957"
+    ],
+    [
+      "Section 14",
+      "Copyright Act",
+      "Section 14",
+      "Copyright Act"
+    ],
+    [
+      "Section 17",
+      "Copyright Act",
+      "Section 17",
+      "Copyright Act"
+    ],
+    [
+      "Order VII Rule 10",
+      "CPC",
+      "Order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "Order VII Rule 10",
+      "CPC",
+      "Order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "Order VII Rule 10",
+      "CPC",
+      "Order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "Order VII Rule 10",
+      "CPC",
+      "Order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "Order VII Rule 10",
+      "CPC",
+      "Order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "Order VII Rule 10",
+      "CPC",
+      "Order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "Section 62(2)",
+      "Copyright Act",
+      "Section 62(2)",
+      "Copyright Act"
+    ],
+    [
+      "Order VII Rule 10",
+      "CPC",
+      "Order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "Order XIIIA",
+      "CPC",
+      "Order XIIIA",
+      "CPC"
+    ],
+    [
+      "Order VII Rule 10",
+      "CPC",
+      "Order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "Section 2(o)",
+      "Copyright Act 1957",
+      "Section 2(o)",
+      "Copyright Act 1957"
+    ],
+    [
+      "Section 2(o)",
+      "Copyright Act 1957",
+      "Section 2(o)",
+      "Copyright Act 1957"
+    ]
+  ],
+  "precedent_counts": {
+    "M/s RSPL Limited v. Mukesh Sharma & Anr.: (2016)": 6
+  },
+  "provision_counts": {
+    "Section 13 (1A) of Commercial Courts Act, 2015": 1,
+    "Order VII Rule 10 of Code of Civil Procedure, 1908": 1,
+    "Order VII Rule 10 of CPC": 15,
+    "Section 62(2) of Copyright Act, 1957": 1,
+    "Section 62(2) of Copyright Act": 3,
+    "Section 19 of Copyright Act": 3,
+    "Section 55 of Copyright Act": 2,
+    "Section 2 (ffc) of Copyright Act 1957": 1,
+    "Section 13(1)\n of [Indian] Copyright Act 1957": 1,
+    "Section 17 of Copyright Act, 1957": 1,
+    "Section 14 of Copyright Act": 1,
+    "Section 17 of Copyright Act": 1,
+    "Order XIIIA of CPC": 1,
+    "Section 2(o) of Copyright Act 1957": 2
+  },
+  "statute_counts": {
+    "Commercial Courts Act, 2015": 1,
+    "Code of Civil Procedure, 1908": 1,
+    "CPC": 16,
+    "Copyright Act, 1957": 2,
+    "Copyright Act": 10,
+    "Copyright Act 1957": 3,
+    "[Indian] Copyright Act 1957": 1
+  }
+}

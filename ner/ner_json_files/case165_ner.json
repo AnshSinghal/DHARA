@@ -1,0 +1,4770 @@
+{
+  "entities": [
+    {
+      "text": "Ujjagar Construction Pvt. Ltd",
+      "label": "PETITIONER",
+      "start_char": 26,
+      "end_char": 55
+    },
+    {
+      "text": "Nayati Healthcare And Research Ncr Pvt",
+      "label": "RESPONDENT",
+      "start_char": 59,
+      "end_char": 97
+    },
+    {
+      "text": "High Court Of Punjab And Haryana\n                                               At Chandigarh",
+      "label": "COURT",
+      "start_char": 251,
+      "end_char": 344
+    },
+    {
+      "text": "Ujjagar Construction Pvt. Ltd.",
+      "label": "PETITIONER",
+      "start_char": 690,
+      "end_char": 720
+    },
+    {
+      "text": "SANJAY VASHISTH",
+      "label": "JUDGE",
+      "start_char": 1166,
+      "end_char": 1181
+    },
+    {
+      "text": "Puneet Bali",
+      "label": "OTHER_PERSON",
+      "start_char": 1221,
+      "end_char": 1232
+    },
+    {
+      "text": "04.10.2023",
+      "label": "DATE",
+      "start_char": 1286,
+      "end_char": 1296
+    },
+    {
+      "text": "06.10.2023",
+      "label": "DATE",
+      "start_char": 1298,
+      "end_char": 1308
+    },
+    {
+      "text": "Ashish Chopra",
+      "label": "OTHER_PERSON",
+      "start_char": 1449,
+      "end_char": 1462
+    },
+    {
+      "text": "Gagandeep Singh",
+      "label": "LAWYER",
+      "start_char": 1680,
+      "end_char": 1695
+    },
+    {
+      "text": "Tushar Sharma",
+      "label": "LAWYER",
+      "start_char": 1746,
+      "end_char": 1759
+    },
+    {
+      "text": "Parmanand Yadav",
+      "label": "LAWYER",
+      "start_char": 1813,
+      "end_char": 1828
+    },
+    {
+      "text": "Vineet Malhotra",
+      "label": "LAWYER",
+      "start_char": 1902,
+      "end_char": 1917
+    },
+    {
+      "text": "Dinesh Arora",
+      "label": "LAWYER",
+      "start_char": 1969,
+      "end_char": 1981
+    },
+    {
+      "text": "Vishal Gohri",
+      "label": "LAWYER",
+      "start_char": 2033,
+      "end_char": 2045
+    },
+    {
+      "text": "Abhinav Dubey",
+      "label": "LAWYER",
+      "start_char": 2100,
+      "end_char": 2113
+    },
+    {
+      "text": "Akshay Bhan",
+      "label": "OTHER_PERSON",
+      "start_char": 2233,
+      "end_char": 2244
+    },
+    {
+      "text": "18.10.2023",
+      "label": "DATE",
+      "start_char": 2296,
+      "end_char": 2306
+    },
+    {
+      "text": "19.10.2023",
+      "label": "DATE",
+      "start_char": 2309,
+      "end_char": 2319
+    },
+    {
+      "text": "Harsh Gupta",
+      "label": "LAWYER",
+      "start_char": 2366,
+      "end_char": 2377
+    },
+    {
+      "text": "Rahul Makkar",
+      "label": "LAWYER",
+      "start_char": 2429,
+      "end_char": 2441
+    },
+    {
+      "text": "Chetan Mittal",
+      "label": "OTHER_PERSON",
+      "start_char": 2516,
+      "end_char": 2529
+    },
+    {
+      "text": "09.10.2023",
+      "label": "DATE",
+      "start_char": 2584,
+      "end_char": 2594
+    },
+    {
+      "text": "10.10.2023",
+      "label": "DATE",
+      "start_char": 2596,
+      "end_char": 2606
+    },
+    {
+      "text": "17.10.2023",
+      "label": "DATE",
+      "start_char": 2608,
+      "end_char": 2618
+    },
+    {
+      "text": "18.10.2023",
+      "label": "DATE",
+      "start_char": 2655,
+      "end_char": 2665
+    },
+    {
+      "text": "19.10.2023",
+      "label": "DATE",
+      "start_char": 2667,
+      "end_char": 2677
+    },
+    {
+      "text": "20.10.2023",
+      "label": "DATE",
+      "start_char": 2680,
+      "end_char": 2690
+    },
+    {
+      "text": "K. Ramakanth Reddy",
+      "label": "OTHER_PERSON",
+      "start_char": 2736,
+      "end_char": 2754
+    },
+    {
+      "text": "Ashish Rawal",
+      "label": "LAWYER",
+      "start_char": 2814,
+      "end_char": 2826
+    },
+    {
+      "text": "Himanshu Gupta",
+      "label": "LAWYER",
+      "start_char": 2878,
+      "end_char": 2892
+    },
+    {
+      "text": "Rohit Khanna",
+      "label": "LAWYER",
+      "start_char": 2944,
+      "end_char": 2956
+    },
+    {
+      "text": "Karan Kaushal",
+      "label": "LAWYER",
+      "start_char": 3007,
+      "end_char": 3020
+    },
+    {
+      "text": "Saurabh Gautam",
+      "label": "LAWYER",
+      "start_char": 3071,
+      "end_char": 3085
+    },
+    {
+      "text": "Ritvik Garg",
+      "label": "LAWYER",
+      "start_char": 3136,
+      "end_char": 3147
+    },
+    {
+      "text": "Komal Aggarwal",
+      "label": "LAWYER",
+      "start_char": 3202,
+      "end_char": 3216
+    },
+    {
+      "text": "PRASHANT KAPOOR",
+      "label": "OTHER_PERSON",
+      "start_char": 3363,
+      "end_char": 3378
+    },
+    {
+      "text": "SANJAY VASHISTH",
+      "label": "JUDGE",
+      "start_char": 3585,
+      "end_char": 3600
+    },
+    {
+      "text": "21.09.2023",
+      "label": "DATE",
+      "start_char": 3676,
+      "end_char": 3686
+    },
+    {
+      "text": "District Judge, Gurugram",
+      "label": "COURT",
+      "start_char": 3721,
+      "end_char": 3745
+    },
+    {
+      "text": "Order 39 Rule 1 & 2",
+      "label": "PROVISION",
+      "start_char": 3835,
+      "end_char": 3854
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 3855,
+      "end_char": 3858
+    },
+    {
+      "text": "Apollo Hospitals North Ltd.",
+      "label": "ORG",
+      "start_char": 4044,
+      "end_char": 4071
+    },
+    {
+      "text": "Gurugram",
+      "label": "OTHER_PERSON",
+      "start_char": 4152,
+      "end_char": 4160
+    },
+    {
+      "text": "Gurugram",
+      "label": "GPE",
+      "start_char": 4424,
+      "end_char": 4432
+    },
+    {
+      "text": "Ujjagar Constructions Pvt. Ltd.",
+      "label": "PETITIONER",
+      "start_char": 4587,
+      "end_char": 4618
+    },
+    {
+      "text": "08.04.2022",
+      "label": "DATE",
+      "start_char": 4743,
+      "end_char": 4753
+    },
+    {
+      "text": "Ujjagar Constructions Pvt. Ltd.",
+      "label": "ORG",
+      "start_char": 4772,
+      "end_char": 4803
+    },
+    {
+      "text": "Nayati Healthcare & Research NCR Private Ltd.",
+      "label": "ORG",
+      "start_char": 4853,
+      "end_char": 4898
+    },
+    {
+      "text": "Nira Radia",
+      "label": "OTHER_PERSON",
+      "start_char": 4930,
+      "end_char": 4940
+    },
+    {
+      "text": "30.07.2022",
+      "label": "DATE",
+      "start_char": 5345,
+      "end_char": 5355
+    },
+    {
+      "text": "02.08.2022",
+      "label": "DATE",
+      "start_char": 5417,
+      "end_char": 5427
+    },
+    {
+      "text": "06.08.2022",
+      "label": "DATE",
+      "start_char": 5558,
+      "end_char": 5568
+    },
+    {
+      "text": "08.08.2022",
+      "label": "DATE",
+      "start_char": 5748,
+      "end_char": 5758
+    },
+    {
+      "text": "08.08.2022",
+      "label": "DATE",
+      "start_char": 5763,
+      "end_char": 5773
+    },
+    {
+      "text": "Apollo Hospitals North Ltd.",
+      "label": "ORG",
+      "start_char": 6059,
+      "end_char": 6086
+    },
+    {
+      "text": "Order 1 Rule 10",
+      "label": "PROVISION",
+      "start_char": 6136,
+      "end_char": 6151
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 6152,
+      "end_char": 6155
+    },
+    {
+      "text": "Apollo Hospitals North Ltd.",
+      "label": "ORG",
+      "start_char": 6172,
+      "end_char": 6199
+    },
+    {
+      "text": "Appollo Hospitals North Ltd.",
+      "label": "ORG",
+      "start_char": 6318,
+      "end_char": 6346
+    },
+    {
+      "text": "M/s Suman Constructions Pvt. Ltd. vs. M/s Truthmark Realtors Pvt. Ltd., and another",
+      "label": "PRECEDENT",
+      "start_char": 6441,
+      "end_char": 6524
+    },
+    {
+      "text": "Sumav Construction Pvt",
+      "label": "ORG",
+      "start_char": 6639,
+      "end_char": 6661
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 6708,
+      "end_char": 6718
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 6726,
+      "end_char": 6758
+    },
+    {
+      "text": "05.08.2022",
+      "label": "DATE",
+      "start_char": 6876,
+      "end_char": 6886
+    },
+    {
+      "text": "05.08.2022",
+      "label": "DATE",
+      "start_char": 7007,
+      "end_char": 7017
+    },
+    {
+      "text": "08.08.2022",
+      "label": "DATE",
+      "start_char": 7230,
+      "end_char": 7240
+    },
+    {
+      "text": "16.08.2022",
+      "label": "DATE",
+      "start_char": 7388,
+      "end_char": 7398
+    },
+    {
+      "text": "FAO-COM-20-2022",
+      "label": "CASE_NUMBER",
+      "start_char": 7574,
+      "end_char": 7589
+    },
+    {
+      "text": "Order 7 Rule 10",
+      "label": "PROVISION",
+      "start_char": 7875,
+      "end_char": 7890
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 7891,
+      "end_char": 7894
+    },
+    {
+      "text": "11.10.2022",
+      "label": "DATE",
+      "start_char": 7939,
+      "end_char": 7949
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 8013,
+      "end_char": 8034
+    },
+    {
+      "text": "Order 7 rule 10",
+      "label": "PROVISION",
+      "start_char": 8071,
+      "end_char": 8086
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 8087,
+      "end_char": 8090
+    },
+    {
+      "text": "28.10.2022",
+      "label": "DATE",
+      "start_char": 8164,
+      "end_char": 8174
+    },
+    {
+      "text": "Ujjagar Constructions Pvt",
+      "label": "ORG",
+      "start_char": 8244,
+      "end_char": 8269
+    },
+    {
+      "text": "FAO-COM-25-2022",
+      "label": "CASE_NUMBER",
+      "start_char": 8279,
+      "end_char": 8294
+    },
+    {
+      "text": "27.10.2022",
+      "label": "DATE",
+      "start_char": 8322,
+      "end_char": 8332
+    },
+    {
+      "text": "Order 39 Rule 1 & 2",
+      "label": "PROVISION",
+      "start_char": 8448,
+      "end_char": 8467
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 8468,
+      "end_char": 8471
+    },
+    {
+      "text": "Nayati Healthcare & Research NCR Private Limited",
+      "label": "RESPONDENT",
+      "start_char": 8604,
+      "end_char": 8652
+    },
+    {
+      "text": "Apollo Hospitals North Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 8698,
+      "end_char": 8725
+    },
+    {
+      "text": "Punjab and Haryana High Court",
+      "label": "COURT",
+      "start_char": 8773,
+      "end_char": 8802
+    },
+    {
+      "text": "03.05.2023",
+      "label": "DATE",
+      "start_char": 8882,
+      "end_char": 8892
+    },
+    {
+      "text": "04.11.2022",
+      "label": "DATE",
+      "start_char": 9134,
+      "end_char": 9144
+    },
+    {
+      "text": "Gurugram",
+      "label": "GPE",
+      "start_char": 9184,
+      "end_char": 9192
+    },
+    {
+      "text": "Order 39 Rule 1 & 2 read with Section 151",
+      "label": "PROVISION",
+      "start_char": 9250,
+      "end_char": 9291
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 9292,
+      "end_char": 9295
+    },
+    {
+      "text": "Gurugram",
+      "label": "GPE",
+      "start_char": 9501,
+      "end_char": 9509
+    },
+    {
+      "text": "04.11.2022",
+      "label": "DATE",
+      "start_char": 9674,
+      "end_char": 9684
+    },
+    {
+      "text": "Apollo Hospitals North Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 9734,
+      "end_char": 9761
+    },
+    {
+      "text": "District Judge, Gurugram",
+      "label": "COURT",
+      "start_char": 9853,
+      "end_char": 9877
+    },
+    {
+      "text": "21.09.2023",
+      "label": "DATE",
+      "start_char": 9930,
+      "end_char": 9940
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 9982,
+      "end_char": 9992
+    },
+    {
+      "text": "Securitization and Reconstruction of Financial Assets and Enforcement of Security Interests Act, 2002",
+      "label": "STATUTE",
+      "start_char": 10000,
+      "end_char": 10101
+    },
+    {
+      "text": "SARFAESI Act",
+      "label": "STATUTE",
+      "start_char": 10117,
+      "end_char": 10129
+    },
+    {
+      "text": "Debts Recovery Tribunal",
+      "label": "ORG",
+      "start_char": 10306,
+      "end_char": 10329
+    },
+    {
+      "text": "CR-5837-2023",
+      "label": "CASE_NUMBER",
+      "start_char": 10519,
+      "end_char": 10531
+    },
+    {
+      "text": "Recovery of Debts Due to Banks and Financial Institutions Act, 1993 (51 of 1993)",
+      "label": "STATUTE",
+      "start_char": 10609,
+      "end_char": 10689
+    },
+    {
+      "text": "Yes Bank Ltd.",
+      "label": "ORG",
+      "start_char": 10814,
+      "end_char": 10827
+    },
+    {
+      "text": "SARFAESI Act",
+      "label": "STATUTE",
+      "start_char": 10873,
+      "end_char": 10885
+    },
+    {
+      "text": "DRT",
+      "label": "COURT",
+      "start_char": 11051,
+      "end_char": 11054
+    },
+    {
+      "text": "Section 13(4)",
+      "label": "PROVISION",
+      "start_char": 11138,
+      "end_char": 11151
+    },
+    {
+      "text": "SARFAESI Act",
+      "label": "STATUTE",
+      "start_char": 11159,
+      "end_char": 11171
+    },
+    {
+      "text": "08.04.2022",
+      "label": "DATE",
+      "start_char": 11579,
+      "end_char": 11589
+    },
+    {
+      "text": "Order 39 Rule 1 & 2",
+      "label": "PROVISION",
+      "start_char": 11896,
+      "end_char": 11915
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 11916,
+      "end_char": 11919
+    },
+    {
+      "text": "Order 39 Rule 1 & 2",
+      "label": "PROVISION",
+      "start_char": 12387,
+      "end_char": 12406
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 12407,
+      "end_char": 12410
+    },
+    {
+      "text": "08.04.2022",
+      "label": "DATE",
+      "start_char": 12809,
+      "end_char": 12819
+    },
+    {
+      "text": "08.04.2022",
+      "label": "DATE",
+      "start_char": 13045,
+      "end_char": 13055
+    },
+    {
+      "text": "Ujjagar Construc- tions Pvt. Ltd.",
+      "label": "PETITIONER",
+      "start_char": 13108,
+      "end_char": 13141
+    },
+    {
+      "text": "Nayati Healthcare & Research NCR Private Limited",
+      "label": "ORG",
+      "start_char": 13159,
+      "end_char": 13207
+    },
+    {
+      "text": "Nira Radia",
+      "label": "OTHER_PERSON",
+      "start_char": 13243,
+      "end_char": 13253
+    },
+    {
+      "text": "Bank Ltd.",
+      "label": "ORG",
+      "start_char": 13319,
+      "end_char": 13328
+    },
+    {
+      "text": "Yes Bank Ltd.",
+      "label": "ORG",
+      "start_char": 13557,
+      "end_char": 13570
+    },
+    {
+      "text": "Friday, 8th day of April 2022",
+      "label": "DATE",
+      "start_char": 13726,
+      "end_char": 13755
+    },
+    {
+      "text": "Ujjagar Constructions Private Limited",
+      "label": "ORG",
+      "start_char": 13792,
+      "end_char": 13829
+    },
+    {
+      "text": "Companies Act 1956/2013",
+      "label": "STATUTE",
+      "start_char": 13882,
+      "end_char": 13905
+    },
+    {
+      "text": "U70109HR2021PTC097764",
+      "label": "CASE_NUMBER",
+      "start_char": 13919,
+      "end_char": 13940
+    },
+    {
+      "text": "Gurugram",
+      "label": "GPE",
+      "start_char": 14024,
+      "end_char": 14032
+    },
+    {
+      "text": "Nayati Healthcare & Research NCR Private Limited",
+      "label": "ORG",
+      "start_char": 14221,
+      "end_char": 14269
+    },
+    {
+      "text": "Companies Act 1956/2013",
+      "label": "STATUTE",
+      "start_char": 14322,
+      "end_char": 14345
+    },
+    {
+      "text": "U24233DL2007PTC171542",
+      "label": "CASE_NUMBER",
+      "start_char": 14360,
+      "end_char": 14381
+    },
+    {
+      "text": "Khanpur",
+      "label": "GPE",
+      "start_char": 14447,
+      "end_char": 14454
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 14456,
+      "end_char": 14461
+    },
+    {
+      "text": "-",
+      "label": "GPE",
+      "start_char": 14462,
+      "end_char": 14463
+    },
+    {
+      "text": "Nira Radia",
+      "label": "OTHER_PERSON",
+      "start_char": 14652,
+      "end_char": 14662
+    },
+    {
+      "text": "Iqbal Narain Menon",
+      "label": "OTHER_PERSON",
+      "start_char": 14685,
+      "end_char": 14703
+    },
+    {
+      "text": "Chattarpur",
+      "label": "GPE",
+      "start_char": 14766,
+      "end_char": 14776
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 14778,
+      "end_char": 14787
+    },
+    {
+      "text": "DLF City",
+      "label": "GPE",
+      "start_char": 15300,
+      "end_char": 15308
+    },
+    {
+      "text": "Gurgaon",
+      "label": "GPE",
+      "start_char": 15341,
+      "end_char": 15348
+    },
+    {
+      "text": "Haryana",
+      "label": "GPE",
+      "start_char": 15350,
+      "end_char": 15357
+    },
+    {
+      "text": "Yes Bank Ltd.",
+      "label": "ORG",
+      "start_char": 15507,
+      "end_char": 15520
+    },
+    {
+      "text": "section 13(4)",
+      "label": "PROVISION",
+      "start_char": 15578,
+      "end_char": 15591
+    },
+    {
+      "text": "SARFAESI Act",
+      "label": "STATUTE",
+      "start_char": 15599,
+      "end_char": 15611
+    },
+    {
+      "text": "September 10, 2021",
+      "label": "DATE",
+      "start_char": 15630,
+      "end_char": 15648
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 15663,
+      "end_char": 15667
+    },
+    {
+      "text": "Piramal Capital",
+      "label": "ORG",
+      "start_char": 15694,
+      "end_char": 15709
+    },
+    {
+      "text": "NLCT",
+      "label": "ORG",
+      "start_char": 15778,
+      "end_char": 15782
+    },
+    {
+      "text": "Insolvency and Bankruptcy Code",
+      "label": "STATUTE",
+      "start_char": 15836,
+      "end_char": 15866
+    },
+    {
+      "text": "NCLT, New Delhi",
+      "label": "COURT",
+      "start_char": 15898,
+      "end_char": 15913
+    },
+    {
+      "text": "September 30, 2021",
+      "label": "DATE",
+      "start_char": 16000,
+      "end_char": 16018
+    },
+    {
+      "text": "NCLAT",
+      "label": "ORG",
+      "start_char": 16042,
+      "end_char": 16047
+    },
+    {
+      "text": "January 31, 2022",
+      "label": "DATE",
+      "start_char": 16051,
+      "end_char": 16067
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 16083,
+      "end_char": 16087
+    },
+    {
+      "text": "Yes Bank Ltd.",
+      "label": "ORG",
+      "start_char": 17290,
+      "end_char": 17303
+    },
+    {
+      "text": "Yes Bank Ltd.",
+      "label": "ORG",
+      "start_char": 17415,
+      "end_char": 17428
+    },
+    {
+      "text": "Yes Bank Ltd.",
+      "label": "ORG",
+      "start_char": 18166,
+      "end_char": 18179
+    },
+    {
+      "text": "Yes Bank Ltd.",
+      "label": "ORG",
+      "start_char": 18294,
+      "end_char": 18307
+    },
+    {
+      "text": "NCLT",
+      "label": "ORG",
+      "start_char": 19820,
+      "end_char": 19824
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 19826,
+      "end_char": 19835
+    },
+    {
+      "text": "3.1.2",
+      "label": "DATE",
+      "start_char": 19837,
+      "end_char": 19842
+    },
+    {
+      "text": "Yes Bank Ltd.",
+      "label": "ORG",
+      "start_char": 19997,
+      "end_char": 20010
+    },
+    {
+      "text": "NCLT",
+      "label": "ORG",
+      "start_char": 20337,
+      "end_char": 20341
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 20343,
+      "end_char": 20352
+    },
+    {
+      "text": "Yes Bank ltd",
+      "label": "ORG",
+      "start_char": 20358,
+      "end_char": 20370
+    },
+    {
+      "text": "SARFAESI Act",
+      "label": "STATUTE",
+      "start_char": 20427,
+      "end_char": 20439
+    },
+    {
+      "text": "Yes Bank Ltd.",
+      "label": "ORG",
+      "start_char": 20777,
+      "end_char": 20790
+    },
+    {
+      "text": "Insolvency and Proceedings SARFAESI Act, Bankruptcy Code",
+      "label": "STATUTE",
+      "start_char": 21768,
+      "end_char": 21824
+    },
+    {
+      "text": "Diwan Constructions Pvt",
+      "label": "ORG",
+      "start_char": 21887,
+      "end_char": 21910
+    },
+    {
+      "text": "OSL Healthcare                                    Pvt. Ltd.",
+      "label": "ORG",
+      "start_char": 22553,
+      "end_char": 22612
+    },
+    {
+      "text": "Yes Bank",
+      "label": "ORG",
+      "start_char": 22727,
+      "end_char": 22735
+    },
+    {
+      "text": "30.09.2021",
+      "label": "DATE",
+      "start_char": 23371,
+      "end_char": 23381
+    },
+    {
+      "text": "08.04.2022",
+      "label": "DATE",
+      "start_char": 23927,
+      "end_char": 23937
+    },
+    {
+      "text": "Ujjagar",
+      "label": "RESPONDENT",
+      "start_char": 24095,
+      "end_char": 24102
+    },
+    {
+      "text": "Nira Radia",
+      "label": "LAWYER",
+      "start_char": 24413,
+      "end_char": 24423
+    },
+    {
+      "text": "NCLT",
+      "label": "ORG",
+      "start_char": 24749,
+      "end_char": 24753
+    },
+    {
+      "text": "12.05.2022",
+      "label": "DATE",
+      "start_char": 25713,
+      "end_char": 25723
+    },
+    {
+      "text": "02.06.2022",
+      "label": "DATE",
+      "start_char": 27224,
+      "end_char": 27234
+    },
+    {
+      "text": "06.07.2022",
+      "label": "DATE",
+      "start_char": 27803,
+      "end_char": 27813
+    },
+    {
+      "text": "Apollo      Hospitals",
+      "label": "ORG",
+      "start_char": 29694,
+      "end_char": 29715
+    },
+    {
+      "text": "08.08.2022",
+      "label": "DATE",
+      "start_char": 30630,
+      "end_char": 30640
+    },
+    {
+      "text": "Ujjagar Constructions Pvt",
+      "label": "ORG",
+      "start_char": 31266,
+      "end_char": 31291
+    },
+    {
+      "text": "Nayati Healthcare & Research NCR Private Limited",
+      "label": "RESPONDENT",
+      "start_char": 31324,
+      "end_char": 31372
+    },
+    {
+      "text": "Nira Radia",
+      "label": "RESPONDENT",
+      "start_char": 31396,
+      "end_char": 31406
+    },
+    {
+      "text": "Apollo Hospitals North Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 31430,
+      "end_char": 31457
+    },
+    {
+      "text": "Gurugram",
+      "label": "GPE",
+      "start_char": 31621,
+      "end_char": 31629
+    },
+    {
+      "text": "Haryana",
+      "label": "GPE",
+      "start_char": 31631,
+      "end_char": 31638
+    },
+    {
+      "text": "08.04.2022",
+      "label": "DATE",
+      "start_char": 31662,
+      "end_char": 31672
+    },
+    {
+      "text": "Insolvency and Bankruptcy Code, 2016",
+      "label": "STATUTE",
+      "start_char": 31821,
+      "end_char": 31857
+    },
+    {
+      "text": "Diwan Housing Finance Corporation Ltd.",
+      "label": "ORG",
+      "start_char": 31905,
+      "end_char": 31943
+    },
+    {
+      "text": "Piramal Capital & Housing Finance Limited",
+      "label": "ORG",
+      "start_char": 31980,
+      "end_char": 32021
+    },
+    {
+      "text": "National Company Law Tribunal (NCLT), New Delhi",
+      "label": "COURT",
+      "start_char": 32064,
+      "end_char": 32111
+    },
+    {
+      "text": "NCLT",
+      "label": "ORG",
+      "start_char": 32113,
+      "end_char": 32117
+    },
+    {
+      "text": "30.09.2021",
+      "label": "DATE",
+      "start_char": 32185,
+      "end_char": 32195
+    },
+    {
+      "text": "Piramal Capital & Housing Finance Limited",
+      "label": "ORG",
+      "start_char": 32241,
+      "end_char": 32282
+    },
+    {
+      "text": "NCLT",
+      "label": "COURT",
+      "start_char": 32294,
+      "end_char": 32298
+    },
+    {
+      "text": "19.04.2022",
+      "label": "DATE",
+      "start_char": 32317,
+      "end_char": 32327
+    },
+    {
+      "text": "Piramal Capital & Housing Finance Limited",
+      "label": "ORG",
+      "start_char": 32367,
+      "end_char": 32408
+    },
+    {
+      "text": "National Company Law Appellate Tribunal (NCLAT)",
+      "label": "COURT",
+      "start_char": 32438,
+      "end_char": 32485
+    },
+    {
+      "text": "12.05.2022",
+      "label": "DATE",
+      "start_char": 32489,
+      "end_char": 32499
+    },
+    {
+      "text": "NCLAT",
+      "label": "ORG",
+      "start_char": 32651,
+      "end_char": 32656
+    },
+    {
+      "text": "Piramal Capital & Housing Finance Limited",
+      "label": "ORG",
+      "start_char": 32734,
+      "end_char": 32775
+    },
+    {
+      "text": "02.06.2022",
+      "label": "DATE",
+      "start_char": 32781,
+      "end_char": 32791
+    },
+    {
+      "text": "NCLAT",
+      "label": "ORG",
+      "start_char": 32793,
+      "end_char": 32798
+    },
+    {
+      "text": "02.06.2022",
+      "label": "DATE",
+      "start_char": 33083,
+      "end_char": 33093
+    },
+    {
+      "text": "19.04.2022",
+      "label": "DATE",
+      "start_char": 33166,
+      "end_char": 33176
+    },
+    {
+      "text": "NCLAT",
+      "label": "COURT",
+      "start_char": 33269,
+      "end_char": 33274
+    },
+    {
+      "text": "02.06.2022",
+      "label": "DATE",
+      "start_char": 33286,
+      "end_char": 33296
+    },
+    {
+      "text": "Yes Bank Ltd.",
+      "label": "ORG",
+      "start_char": 33488,
+      "end_char": 33501
+    },
+    {
+      "text": "31.05.2022",
+      "label": "DATE",
+      "start_char": 33754,
+      "end_char": 33764
+    },
+    {
+      "text": "02.06.2022",
+      "label": "DATE",
+      "start_char": 33830,
+      "end_char": 33840
+    },
+    {
+      "text": "13.07.2022",
+      "label": "DATE",
+      "start_char": 34542,
+      "end_char": 34552
+    },
+    {
+      "text": "Nayati Healthcare & Research NCR Private Limited",
+      "label": "RESPONDENT",
+      "start_char": 35676,
+      "end_char": 35724
+    },
+    {
+      "text": "29.03.2011",
+      "label": "DATE",
+      "start_char": 35823,
+      "end_char": 35833
+    },
+    {
+      "text": "DLF Qutab Enclave Complex Medical Charitable Trust",
+      "label": "ORG",
+      "start_char": 35843,
+      "end_char": 35893
+    },
+    {
+      "text": "Al- lahabad Bank",
+      "label": "ORG",
+      "start_char": 36074,
+      "end_char": 36090
+    },
+    {
+      "text": "Allahabad Bank",
+      "label": "ORG",
+      "start_char": 36278,
+      "end_char": 36292
+    },
+    {
+      "text": "Yes Bank Ltd.",
+      "label": "ORG",
+      "start_char": 36430,
+      "end_char": 36443
+    },
+    {
+      "text": "Yes Bank Ltd.",
+      "label": "ORG",
+      "start_char": 36497,
+      "end_char": 36510
+    },
+    {
+      "text": "Yes Bank Ltd.",
+      "label": "ORG",
+      "start_char": 36691,
+      "end_char": 36704
+    },
+    {
+      "text": "Dewan Housing & Finance Ltd.",
+      "label": "ORG",
+      "start_char": 36782,
+      "end_char": 36810
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 36934,
+      "end_char": 36943
+    },
+    {
+      "text": "Insolvency and Bankruptcy Code, 2016",
+      "label": "STATUTE",
+      "start_char": 36951,
+      "end_char": 36987
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 37036,
+      "end_char": 37040
+    },
+    {
+      "text": "Piramal",
+      "label": "RESPONDENT",
+      "start_char": 37046,
+      "end_char": 37053
+    },
+    {
+      "text": "Section 13(2)",
+      "label": "PROVISION",
+      "start_char": 37073,
+      "end_char": 37086
+    },
+    {
+      "text": "SARFAESI Act",
+      "label": "STATUTE",
+      "start_char": 37094,
+      "end_char": 37106
+    },
+    {
+      "text": "Yes Bank Ltd.",
+      "label": "ORG",
+      "start_char": 37126,
+      "end_char": 37139
+    },
+    {
+      "text": "Yes Bank Ltd.",
+      "label": "ORG",
+      "start_char": 37301,
+      "end_char": 37314
+    },
+    {
+      "text": "10.09.2021",
+      "label": "DATE",
+      "start_char": 37318,
+      "end_char": 37328
+    },
+    {
+      "text": "NCLT",
+      "label": "ORG",
+      "start_char": 37356,
+      "end_char": 37360
+    },
+    {
+      "text": "30.09.2021",
+      "label": "DATE",
+      "start_char": 37388,
+      "end_char": 37398
+    },
+    {
+      "text": "Yes Bank Ltd.",
+      "label": "ORG",
+      "start_char": 37458,
+      "end_char": 37471
+    },
+    {
+      "text": "27.11.2020",
+      "label": "DATE",
+      "start_char": 37565,
+      "end_char": 37575
+    },
+    {
+      "text": "Basant Bansal",
+      "label": "OTHER_PERSON",
+      "start_char": 37602,
+      "end_char": 37615
+    },
+    {
+      "text": "Truthmark Realtors Pvt. Ltd.",
+      "label": "ORG",
+      "start_char": 37657,
+      "end_char": 37685
+    },
+    {
+      "text": "19.05.2022",
+      "label": "DATE",
+      "start_char": 38188,
+      "end_char": 38198
+    },
+    {
+      "text": "25.04.2022",
+      "label": "DATE",
+      "start_char": 38282,
+      "end_char": 38292
+    },
+    {
+      "text": "Yes Bank Ltd.",
+      "label": "ORG",
+      "start_char": 38301,
+      "end_char": 38314
+    },
+    {
+      "text": "19.05.2022",
+      "label": "DATE",
+      "start_char": 39017,
+      "end_char": 39027
+    },
+    {
+      "text": "NCLT",
+      "label": "ORG",
+      "start_char": 39093,
+      "end_char": 39097
+    },
+    {
+      "text": "APOLLO HOSPITALS NORTH LTD",
+      "label": "RESPONDENT",
+      "start_char": 39121,
+      "end_char": 39147
+    },
+    {
+      "text": "Apollo Hospitals North Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 39207,
+      "end_char": 39234
+    },
+    {
+      "text": "07.07.2022",
+      "label": "DATE",
+      "start_char": 39288,
+      "end_char": 39298
+    },
+    {
+      "text": "Yes Bank Ltd.",
+      "label": "ORG",
+      "start_char": 39445,
+      "end_char": 39458
+    },
+    {
+      "text": "06.07.2022",
+      "label": "DATE",
+      "start_char": 39462,
+      "end_char": 39472
+    },
+    {
+      "text": "02.06.2022",
+      "label": "DATE",
+      "start_char": 39719,
+      "end_char": 39729
+    },
+    {
+      "text": "NCLAT",
+      "label": "ORG",
+      "start_char": 39741,
+      "end_char": 39746
+    },
+    {
+      "text": "Company Appeal (AT) (Insolvency) No.540 of 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 39750,
+      "end_char": 39797
+    },
+    {
+      "text": "CR-5837-2023",
+      "label": "DATE",
+      "start_char": 39820,
+      "end_char": 39832
+    },
+    {
+      "text": "07.07.2022",
+      "label": "DATE",
+      "start_char": 39846,
+      "end_char": 39856
+    },
+    {
+      "text": "OA No.817/2021",
+      "label": "CASE_NUMBER",
+      "start_char": 39871,
+      "end_char": 39885
+    },
+    {
+      "text": "Apollo Hospitals North Ltd.",
+      "label": "ORG",
+      "start_char": 39931,
+      "end_char": 39958
+    },
+    {
+      "text": "NCLT",
+      "label": "ORG",
+      "start_char": 40137,
+      "end_char": 40141
+    },
+    {
+      "text": "19.04.2022",
+      "label": "DATE",
+      "start_char": 40159,
+      "end_char": 40169
+    },
+    {
+      "text": "19.05.2022",
+      "label": "DATE",
+      "start_char": 40303,
+      "end_char": 40313
+    },
+    {
+      "text": "Section 41",
+      "label": "PROVISION",
+      "start_char": 40539,
+      "end_char": 40549
+    },
+    {
+      "text": "Specific Relief Act, 1963",
+      "label": "STATUTE",
+      "start_char": 40557,
+      "end_char": 40582
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 41620,
+      "end_char": 41629
+    },
+    {
+      "text": "Order 7 Rule 11",
+      "label": "PROVISION",
+      "start_char": 41766,
+      "end_char": 41781
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 41785,
+      "end_char": 41788
+    },
+    {
+      "text": "19.04.2022",
+      "label": "DATE",
+      "start_char": 41832,
+      "end_char": 41842
+    },
+    {
+      "text": "19.05.2022",
+      "label": "DATE",
+      "start_char": 41853,
+      "end_char": 41863
+    },
+    {
+      "text": "22.05.2021",
+      "label": "DATE",
+      "start_char": 41969,
+      "end_char": 41979
+    },
+    {
+      "text": "Apollo Hospitals North Ltd.",
+      "label": "ORG",
+      "start_char": 42018,
+      "end_char": 42045
+    },
+    {
+      "text": "02.06.2021",
+      "label": "DATE",
+      "start_char": 42273,
+      "end_char": 42283
+    },
+    {
+      "text": "08.04.2022",
+      "label": "DATE",
+      "start_char": 42333,
+      "end_char": 42343
+    },
+    {
+      "text": "29.03.2021",
+      "label": "DATE",
+      "start_char": 42395,
+      "end_char": 42405
+    },
+    {
+      "text": "31.05.2022",
+      "label": "DATE",
+      "start_char": 42828,
+      "end_char": 42838
+    },
+    {
+      "text": "Apollo Hospitals North Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 43228,
+      "end_char": 43255
+    },
+    {
+      "text": "08.04.2022",
+      "label": "DATE",
+      "start_char": 43364,
+      "end_char": 43374
+    },
+    {
+      "text": "Yes Bank Ltd.",
+      "label": "ORG",
+      "start_char": 43439,
+      "end_char": 43452
+    },
+    {
+      "text": "Yes Bank Ltd.",
+      "label": "ORG",
+      "start_char": 43589,
+      "end_char": 43602
+    },
+    {
+      "text": "Yes Bank Ltd.",
+      "label": "ORG",
+      "start_char": 43912,
+      "end_char": 43925
+    },
+    {
+      "text": "Section 2(d)",
+      "label": "PROVISION",
+      "start_char": 44092,
+      "end_char": 44104
+    },
+    {
+      "text": "Indian Contract Act, 1872",
+      "label": "STATUTE",
+      "start_char": 44112,
+      "end_char": 44137
+    },
+    {
+      "text": "Section 54",
+      "label": "PROVISION",
+      "start_char": 44495,
+      "end_char": 44505
+    },
+    {
+      "text": "Transfer of Property Act, 1882",
+      "label": "STATUTE",
+      "start_char": 44513,
+      "end_char": 44543
+    },
+    {
+      "text": "Transfer of Property Act, 1882",
+      "label": "STATUTE",
+      "start_char": 44652,
+      "end_char": 44682
+    },
+    {
+      "text": "08.04.2022",
+      "label": "DATE",
+      "start_char": 44698,
+      "end_char": 44708
+    },
+    {
+      "text": "08.04.2022",
+      "label": "DATE",
+      "start_char": 44807,
+      "end_char": 44817
+    },
+    {
+      "text": "08.04.2022",
+      "label": "DATE",
+      "start_char": 45045,
+      "end_char": 45055
+    },
+    {
+      "text": "Apollo Hospitals North Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 46220,
+      "end_char": 46247
+    },
+    {
+      "text": "CS-81-2022",
+      "label": "CASE_NUMBER",
+      "start_char": 46415,
+      "end_char": 46425
+    },
+    {
+      "text": "WP No.11745 of 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 46494,
+      "end_char": 46513
+    },
+    {
+      "text": "06.08.2022",
+      "label": "DATE",
+      "start_char": 46573,
+      "end_char": 46583
+    },
+    {
+      "text": "08.08.2022",
+      "label": "DATE",
+      "start_char": 47023,
+      "end_char": 47033
+    },
+    {
+      "text": "08.08.2022",
+      "label": "DATE",
+      "start_char": 47188,
+      "end_char": 47198
+    },
+    {
+      "text": "06.07.2022",
+      "label": "DATE",
+      "start_char": 47254,
+      "end_char": 47264
+    },
+    {
+      "text": "06.07.2022",
+      "label": "DATE",
+      "start_char": 47427,
+      "end_char": 47437
+    },
+    {
+      "text": "15.07.2022",
+      "label": "DATE",
+      "start_char": 47442,
+      "end_char": 47452
+    },
+    {
+      "text": "08.08.2022",
+      "label": "DATE",
+      "start_char": 47519,
+      "end_char": 47529
+    },
+    {
+      "text": "08.08.2022",
+      "label": "DATE",
+      "start_char": 47658,
+      "end_char": 47668
+    },
+    {
+      "text": "08.08.2022",
+      "label": "DATE",
+      "start_char": 47789,
+      "end_char": 47799
+    },
+    {
+      "text": "06.07.2022",
+      "label": "DATE",
+      "start_char": 47885,
+      "end_char": 47895
+    },
+    {
+      "text": "08.08.2022",
+      "label": "DATE",
+      "start_char": 48031,
+      "end_char": 48041
+    },
+    {
+      "text": "Apollo Hospitals North Ltd.",
+      "label": "ORG",
+      "start_char": 48302,
+      "end_char": 48329
+    },
+    {
+      "text": "FAO-COM-27-2022",
+      "label": "CASE_NUMBER",
+      "start_char": 48461,
+      "end_char": 48476
+    },
+    {
+      "text": "03.05.2022",
+      "label": "DATE",
+      "start_char": 48516,
+      "end_char": 48526
+    },
+    {
+      "text": "08.08.2022",
+      "label": "DATE",
+      "start_char": 48700,
+      "end_char": 48710
+    },
+    {
+      "text": "13.07.2022",
+      "label": "DATE",
+      "start_char": 48795,
+      "end_char": 48805
+    },
+    {
+      "text": "Apollo Hospitals North Ltd.",
+      "label": "ORG",
+      "start_char": 49111,
+      "end_char": 49138
+    },
+    {
+      "text": "08.04.2022",
+      "label": "DATE",
+      "start_char": 49212,
+      "end_char": 49222
+    },
+    {
+      "text": "SECTIONS 13, 17 AND 34",
+      "label": "PROVISION",
+      "start_char": 49263,
+      "end_char": 49285
+    },
+    {
+      "text": "SARFAESI ACT, 2002",
+      "label": "STATUTE",
+      "start_char": 49293,
+      "end_char": 49311
+    },
+    {
+      "text": "SARFAESI Act, 2022",
+      "label": "STATUTE",
+      "start_char": 49380,
+      "end_char": 49398
+    },
+    {
+      "text": "30.07.2022",
+      "label": "DATE",
+      "start_char": 49491,
+      "end_char": 49501
+    },
+    {
+      "text": "28.10.2022",
+      "label": "DATE",
+      "start_char": 49539,
+      "end_char": 49549
+    },
+    {
+      "text": "Yes Bank Ltd.",
+      "label": "ORG",
+      "start_char": 49628,
+      "end_char": 49641
+    },
+    {
+      "text": "20.07.2022",
+      "label": "DATE",
+      "start_char": 49705,
+      "end_char": 49715
+    },
+    {
+      "text": "28.07.2022",
+      "label": "DATE",
+      "start_char": 49733,
+      "end_char": 49743
+    },
+    {
+      "text": "NCLAT",
+      "label": "STATUTE",
+      "start_char": 49751,
+      "end_char": 49756
+    },
+    {
+      "text": "Yes Bank Ltd.",
+      "label": "ORG",
+      "start_char": 49832,
+      "end_char": 49845
+    },
+    {
+      "text": "Yes Bank Ltd.",
+      "label": "ORG",
+      "start_char": 49937,
+      "end_char": 49950
+    },
+    {
+      "text": "Section 13(2)",
+      "label": "PROVISION",
+      "start_char": 49976,
+      "end_char": 49989
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 49997,
+      "end_char": 50015
+    },
+    {
+      "text": "10.09.2021",
+      "label": "DATE",
+      "start_char": 50134,
+      "end_char": 50144
+    },
+    {
+      "text": "Section 13(4)",
+      "label": "PROVISION",
+      "start_char": 50172,
+      "end_char": 50185
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 50193,
+      "end_char": 50211
+    },
+    {
+      "text": "Section 17 CR-5837-2023 (O&M) - 29",
+      "label": "PROVISION",
+      "start_char": 50279,
+      "end_char": 50313
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 50323,
+      "end_char": 50341
+    },
+    {
+      "text": "Yes Bank Ltd.",
+      "label": "ORG",
+      "start_char": 50409,
+      "end_char": 50422
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 50543,
+      "end_char": 50561
+    },
+    {
+      "text": "Debts Recovery Tribunal (DRT)",
+      "label": "COURT",
+      "start_char": 50566,
+      "end_char": 50595
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 50646,
+      "end_char": 50656
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 50664,
+      "end_char": 50682
+    },
+    {
+      "text": "Order 7 Rule 10",
+      "label": "PROVISION",
+      "start_char": 50860,
+      "end_char": 50875
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 50879,
+      "end_char": 50882
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 50981,
+      "end_char": 50991
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 50999,
+      "end_char": 51017
+    },
+    {
+      "text": "Sections 20-A and 20-B",
+      "label": "PROVISION",
+      "start_char": 51143,
+      "end_char": 51165
+    },
+    {
+      "text": "Specific Relief Act, 1963",
+      "label": "STATUTE",
+      "start_char": 51173,
+      "end_char": 51198
+    },
+    {
+      "text": "Sections 20-A and 20-B",
+      "label": "PROVISION",
+      "start_char": 51284,
+      "end_char": 51306
+    },
+    {
+      "text": "Specific Relief Act, 1963",
+      "label": "STATUTE",
+      "start_char": 51314,
+      "end_char": 51339
+    },
+    {
+      "text": "08.04.2022",
+      "label": "DATE",
+      "start_char": 51398,
+      "end_char": 51408
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 51692,
+      "end_char": 51702
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 51710,
+      "end_char": 51728
+    },
+    {
+      "text": "03.05.2023",
+      "label": "DATE",
+      "start_char": 51796,
+      "end_char": 51806
+    },
+    {
+      "text": "Sections 20-A and 20-B",
+      "label": "PROVISION",
+      "start_char": 51914,
+      "end_char": 51936
+    },
+    {
+      "text": "Specific Relief Act, 1963",
+      "label": "STATUTE",
+      "start_char": 51944,
+      "end_char": 51969
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 51997,
+      "end_char": 52007
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 52011,
+      "end_char": 52029
+    },
+    {
+      "text": "Order 39 Rule 1 & 2",
+      "label": "PROVISION",
+      "start_char": 52097,
+      "end_char": 52116
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 52117,
+      "end_char": 52120
+    },
+    {
+      "text": "08.04.2022",
+      "label": "DATE",
+      "start_char": 52289,
+      "end_char": 52299
+    },
+    {
+      "text": "NCLT",
+      "label": "ORG",
+      "start_char": 52498,
+      "end_char": 52502
+    },
+    {
+      "text": "30.09.2021",
+      "label": "DATE",
+      "start_char": 52529,
+      "end_char": 52539
+    },
+    {
+      "text": "Dewan Housing Finance Ltd.",
+      "label": "ORG",
+      "start_char": 52558,
+      "end_char": 52584
+    },
+    {
+      "text": "Piramal",
+      "label": "GPE",
+      "start_char": 52597,
+      "end_char": 52604
+    },
+    {
+      "text": "NCLT",
+      "label": "ORG",
+      "start_char": 52635,
+      "end_char": 52639
+    },
+    {
+      "text": "19.04.2022",
+      "label": "DATE",
+      "start_char": 52661,
+      "end_char": 52671
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 52705,
+      "end_char": 52709
+    },
+    {
+      "text": "06.05.2022",
+      "label": "DATE",
+      "start_char": 52794,
+      "end_char": 52804
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 52806,
+      "end_char": 52810
+    },
+    {
+      "text": "NCLAT",
+      "label": "ORG",
+      "start_char": 52885,
+      "end_char": 52890
+    },
+    {
+      "text": "12.05.2022",
+      "label": "DATE",
+      "start_char": 52908,
+      "end_char": 52918
+    },
+    {
+      "text": "02.06.2022",
+      "label": "DATE",
+      "start_char": 53020,
+      "end_char": 53030
+    },
+    {
+      "text": "NCLAT",
+      "label": "COURT",
+      "start_char": 53041,
+      "end_char": 53046
+    },
+    {
+      "text": "02.06.2022",
+      "label": "DATE",
+      "start_char": 53274,
+      "end_char": 53284
+    },
+    {
+      "text": "31.05.2022",
+      "label": "DATE",
+      "start_char": 53449,
+      "end_char": 53459
+    },
+    {
+      "text": "19.04.2022",
+      "label": "DATE",
+      "start_char": 53601,
+      "end_char": 53611
+    },
+    {
+      "text": "Apollo Hospitals North Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 53750,
+      "end_char": 53777
+    },
+    {
+      "text": "19.05.2022",
+      "label": "DATE",
+      "start_char": 54084,
+      "end_char": 54094
+    },
+    {
+      "text": "04.11.2022",
+      "label": "DATE",
+      "start_char": 54347,
+      "end_char": 54357
+    },
+    {
+      "text": "Order 39 Rule 1 & 2",
+      "label": "PROVISION",
+      "start_char": 54409,
+      "end_char": 54428
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 54429,
+      "end_char": 54432
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 54622,
+      "end_char": 54632
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 54640,
+      "end_char": 54658
+    },
+    {
+      "text": "M/s CR-5837-2023",
+      "label": "CASE_NUMBER",
+      "start_char": 54906,
+      "end_char": 54922
+    },
+    {
+      "text": "Yes Bank Ltd.",
+      "label": "ORG",
+      "start_char": 54936,
+      "end_char": 54949
+    },
+    {
+      "text": "DRT",
+      "label": "COURT",
+      "start_char": 55300,
+      "end_char": 55303
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 56098,
+      "end_char": 56108
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 56116,
+      "end_char": 56134
+    },
+    {
+      "text": "Order 39 Rule 1 & 2",
+      "label": "PROVISION",
+      "start_char": 56292,
+      "end_char": 56311
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 56312,
+      "end_char": 56315
+    },
+    {
+      "text": "21.09.2023",
+      "label": "DATE",
+      "start_char": 56552,
+      "end_char": 56562
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 56866,
+      "end_char": 56876
+    },
+    {
+      "text": "Nahar Industrial Enterprises Limited v. Hong Kong and Shanghai Banking Corporation, (2009) 8 Supreme Court Cases 646",
+      "label": "PRECEDENT",
+      "start_char": 56889,
+      "end_char": 57005
+    },
+    {
+      "text": "Apex court",
+      "label": "COURT",
+      "start_char": 57180,
+      "end_char": 57190
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 57359,
+      "end_char": 57369
+    },
+    {
+      "text": "Sections 17 & 18",
+      "label": "PROVISION",
+      "start_char": 57466,
+      "end_char": 57482
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 57490,
+      "end_char": 57508
+    },
+    {
+      "text": "Section 18",
+      "label": "PROVISION",
+      "start_char": 57610,
+      "end_char": 57620
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 57658,
+      "end_char": 57668
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 57949,
+      "end_char": 57959
+    },
+    {
+      "text": "J.P. Builders and another v. A. Ramadas Rao and another, (2011) 1 Supreme Court Cases 429",
+      "label": "PRECEDENT",
+      "start_char": 57972,
+      "end_char": 58061
+    },
+    {
+      "text": "CR-5837-2023",
+      "label": "PROVISION",
+      "start_char": 58299,
+      "end_char": 58311
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 59370,
+      "end_char": 59380
+    },
+    {
+      "text": "Robust Hotels Private Limited and others v. EIH Limited and others, (2017) 1 Supreme Court Cases 622",
+      "label": "PRECEDENT",
+      "start_char": 59393,
+      "end_char": 59493
+    },
+    {
+      "text": "Nahar Industrial Enterprises Limited",
+      "label": "PRECEDENT",
+      "start_char": 59559,
+      "end_char": 59595
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 59630,
+      "end_char": 59640
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 59696,
+      "end_char": 59706
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 59714,
+      "end_char": 59732
+    },
+    {
+      "text": "Debts Recovery Tribunal",
+      "label": "COURT",
+      "start_char": 59842,
+      "end_char": 59865
+    },
+    {
+      "text": "Banks and Financial Institutions Act, 1993",
+      "label": "STATUTE",
+      "start_char": 60181,
+      "end_char": 60223
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 60416,
+      "end_char": 60426
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 60434,
+      "end_char": 60452
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 60576,
+      "end_char": 60586
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 60671,
+      "end_char": 60681
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 60689,
+      "end_char": 60707
+    },
+    {
+      "text": "NCLT",
+      "label": "ORG",
+      "start_char": 61281,
+      "end_char": 61285
+    },
+    {
+      "text": "19.04.2022",
+      "label": "DATE",
+      "start_char": 61308,
+      "end_char": 61318
+    },
+    {
+      "text": "19.05.2022",
+      "label": "DATE",
+      "start_char": 61383,
+      "end_char": 61393
+    },
+    {
+      "text": "31.05.2022",
+      "label": "DATE",
+      "start_char": 61690,
+      "end_char": 61700
+    },
+    {
+      "text": "02.06.2022",
+      "label": "DATE",
+      "start_char": 61829,
+      "end_char": 61839
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 61871,
+      "end_char": 61875
+    },
+    {
+      "text": "06.05.2022",
+      "label": "DATE",
+      "start_char": 61946,
+      "end_char": 61956
+    },
+    {
+      "text": "NCLAT",
+      "label": "ORG",
+      "start_char": 61987,
+      "end_char": 61992
+    },
+    {
+      "text": "NCLAT",
+      "label": "ORG",
+      "start_char": 62098,
+      "end_char": 62103
+    },
+    {
+      "text": "Section 2(g)",
+      "label": "PROVISION",
+      "start_char": 62373,
+      "end_char": 62385
+    },
+    {
+      "text": "Indian Contract Act, 1872",
+      "label": "STATUTE",
+      "start_char": 62393,
+      "end_char": 62418
+    },
+    {
+      "text": "19.05.2022",
+      "label": "DATE",
+      "start_char": 62558,
+      "end_char": 62568
+    },
+    {
+      "text": "NCLT",
+      "label": "ORG",
+      "start_char": 62635,
+      "end_char": 62639
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 62815,
+      "end_char": 62833
+    },
+    {
+      "text": "Section 2(g)",
+      "label": "PROVISION",
+      "start_char": 63601,
+      "end_char": 63613
+    },
+    {
+      "text": "Indian Contract Act, 1872",
+      "label": "STATUTE",
+      "start_char": 63621,
+      "end_char": 63646
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 64443,
+      "end_char": 64453
+    },
+    {
+      "text": "DLF Qutab Enclave Complex Educational CR-5837-2023 (O&M) - 38",
+      "label": "PRECEDENT",
+      "start_char": 64466,
+      "end_char": 64527
+    },
+    {
+      "text": "Charitable Trust v. State of Haryana, 2003(5) SCC 622",
+      "label": "PRECEDENT",
+      "start_char": 64530,
+      "end_char": 64583
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 64852,
+      "end_char": 64862
+    },
+    {
+      "text": "Indian Contract Act, 1872",
+      "label": "STATUTE",
+      "start_char": 64870,
+      "end_char": 64895
+    },
+    {
+      "text": "Non-Compliance OF Security Interest (Enforcement) Rules, 2002",
+      "label": "STATUTE",
+      "start_char": 64902,
+      "end_char": 64963
+    },
+    {
+      "text": "Chetan Mittal",
+      "label": "OTHER_PERSON",
+      "start_char": 64970,
+      "end_char": 64983
+    },
+    {
+      "text": "Security Interest (Enforcement) Rules, 2002",
+      "label": "STATUTE",
+      "start_char": 65048,
+      "end_char": 65091
+    },
+    {
+      "text": "Yes Bank Ltd.",
+      "label": "ORG",
+      "start_char": 65239,
+      "end_char": 65252
+    },
+    {
+      "text": "Section 13(4)",
+      "label": "PROVISION",
+      "start_char": 65376,
+      "end_char": 65389
+    },
+    {
+      "text": "Rules 8 & 9",
+      "label": "PROVISION",
+      "start_char": 65466,
+      "end_char": 65477
+    },
+    {
+      "text": "Section 13(2) to Section 13(13)",
+      "label": "PROVISION",
+      "start_char": 65590,
+      "end_char": 65621
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 65629,
+      "end_char": 65647
+    },
+    {
+      "text": "Rules 8 & 9",
+      "label": "PROVISION",
+      "start_char": 65910,
+      "end_char": 65921
+    },
+    {
+      "text": "CR-5837-2023 (O&M) - 39",
+      "label": "CASE_NUMBER",
+      "start_char": 65973,
+      "end_char": 65996
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 66450,
+      "end_char": 66460
+    },
+    {
+      "text": "Order 39 Rule 1 and 2",
+      "label": "PROVISION",
+      "start_char": 66614,
+      "end_char": 66635
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 66639,
+      "end_char": 66642
+    },
+    {
+      "text": "Chetan Mittal",
+      "label": "OTHER_PERSON",
+      "start_char": 67081,
+      "end_char": 67094
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 67155,
+      "end_char": 67165
+    },
+    {
+      "text": "Ambalal Sarabhai Enterprise Limited v. KS Infraspace LLP Limited and another, 2020(5) Supreme Court Cases 410",
+      "label": "PRECEDENT",
+      "start_char": 67178,
+      "end_char": 67287
+    },
+    {
+      "text": "Dalpat Kumar v. Prahlad Singh, (1992) 1 Supreme Court Cases 719",
+      "label": "PRECEDENT",
+      "start_char": 67686,
+      "end_char": 67749
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 68100,
+      "end_char": 68110
+    },
+    {
+      "text": "Dalpat Kumar",
+      "label": "PRECEDENT",
+      "start_char": 68125,
+      "end_char": 68137
+    },
+    {
+      "text": "Yes Bank Ltd.",
+      "label": "ORG",
+      "start_char": 68649,
+      "end_char": 68662
+    },
+    {
+      "text": "Ltd. v. M/s Aditya Birla Nuvo Ltd., 2012(6) Supreme Court Cases 792",
+      "label": "PRECEDENT",
+      "start_char": 69129,
+      "end_char": 69196
+    },
+    {
+      "text": "Chetan Mittal",
+      "label": "OTHER_PERSON",
+      "start_char": 69767,
+      "end_char": 69780
+    },
+    {
+      "text": "Taj Ram v. Pinku and Ors., 2009(10) R.C.R. (Civil) 172",
+      "label": "PRECEDENT",
+      "start_char": 69864,
+      "end_char": 69918
+    },
+    {
+      "text": "Order 39 Rule 1 & 2",
+      "label": "PROVISION",
+      "start_char": 70033,
+      "end_char": 70052
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 70056,
+      "end_char": 70059
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 70471,
+      "end_char": 70487
+    },
+    {
+      "text": "Saroj Aggarwal",
+      "label": "OTHER_PERSON",
+      "start_char": 70491,
+      "end_char": 70505
+    },
+    {
+      "text": "Shakuntala Aggarwal",
+      "label": "OTHER_PERSON",
+      "start_char": 70518,
+      "end_char": 70537
+    },
+    {
+      "text": "R.C.R. (Civil) 3079",
+      "label": "CASE_NUMBER",
+      "start_char": 70547,
+      "end_char": 70566
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 70680,
+      "end_char": 70696
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 71066,
+      "end_char": 71076
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 71084,
+      "end_char": 71102
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 71174,
+      "end_char": 71184
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 71192,
+      "end_char": 71210
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 71272,
+      "end_char": 71282
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 71290,
+      "end_char": 71308
+    },
+    {
+      "text": "Jagdish Singh v. Heeralal and others, (2014) 1 Supreme Court Cases 479",
+      "label": "PRECEDENT",
+      "start_char": 71502,
+      "end_char": 71572
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 71685,
+      "end_char": 71695
+    },
+    {
+      "text": "Section 13(4)",
+      "label": "PROVISION",
+      "start_char": 71847,
+      "end_char": 71860
+    },
+    {
+      "text": "Securitisation Act",
+      "label": "STATUTE",
+      "start_char": 71868,
+      "end_char": 71886
+    },
+    {
+      "text": "Satyawati Tondon",
+      "label": "OTHER_PERSON",
+      "start_char": 71943,
+      "end_char": 71959
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 72025,
+      "end_char": 72035
+    },
+    {
+      "text": "Securitisation Act",
+      "label": "STATUTE",
+      "start_char": 72209,
+      "end_char": 72227
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 72314,
+      "end_char": 72324
+    },
+    {
+      "text": "Securitisation Act",
+      "label": "STATUTE",
+      "start_char": 72332,
+      "end_char": 72350
+    },
+    {
+      "text": "G. Vikram Kumar v. State Bank of Hyderabad and others, 2023 SCC Online SC 549",
+      "label": "PRECEDENT",
+      "start_char": 72785,
+      "end_char": 72862
+    },
+    {
+      "text": "28.07.2016",
+      "label": "DATE",
+      "start_char": 73227,
+      "end_char": 73237
+    },
+    {
+      "text": "31.08.2016",
+      "label": "DATE",
+      "start_char": 73269,
+      "end_char": 73279
+    },
+    {
+      "text": "31.08.2016",
+      "label": "DATE",
+      "start_char": 73359,
+      "end_char": 73369
+    },
+    {
+      "text": "CR-5837-2023",
+      "label": "CASE_NUMBER",
+      "start_char": 73451,
+      "end_char": 73463
+    },
+    {
+      "text": "16.06.2016",
+      "label": "DATE",
+      "start_char": 74130,
+      "end_char": 74140
+    },
+    {
+      "text": "24.08.2016",
+      "label": "DATE",
+      "start_char": 74298,
+      "end_char": 74308
+    },
+    {
+      "text": "DRT",
+      "label": "COURT",
+      "start_char": 74536,
+      "end_char": 74539
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 74863,
+      "end_char": 74873
+    },
+    {
+      "text": "Akshay Bhan",
+      "label": "OTHER_PERSON",
+      "start_char": 75305,
+      "end_char": 75316
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 75451,
+      "end_char": 75461
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 75469,
+      "end_char": 75487
+    },
+    {
+      "text": "Jagdish Singh",
+      "label": "PRECEDENT",
+      "start_char": 75532,
+      "end_char": 75545
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 75878,
+      "end_char": 75888
+    },
+    {
+      "text": "Jagdish Singh",
+      "label": "PRECEDENT",
+      "start_char": 75892,
+      "end_char": 75905
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 76078,
+      "end_char": 76095
+    },
+    {
+      "text": "Asset Reconstruction Company v. Florita Buildcon Private Limited, 2017 AIR (Bombay) 25",
+      "label": "PRECEDENT",
+      "start_char": 76108,
+      "end_char": 76194
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 76807,
+      "end_char": 76817
+    },
+    {
+      "text": "South Indian Bank Ltd.",
+      "label": "ORG",
+      "start_char": 76830,
+      "end_char": 76852
+    },
+    {
+      "text": "others v. Naven Mathew Philip and another, 2023 SCC Online SC 435",
+      "label": "PRECEDENT",
+      "start_char": 76857,
+      "end_char": 76922
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 77018,
+      "end_char": 77028
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 77036,
+      "end_char": 77054
+    },
+    {
+      "text": "Apollo North Private Limited",
+      "label": "RESPONDENT",
+      "start_char": 77472,
+      "end_char": 77500
+    },
+    {
+      "text": "06.07.2022",
+      "label": "DATE",
+      "start_char": 77648,
+      "end_char": 77658
+    },
+    {
+      "text": "06.07.2022",
+      "label": "DATE",
+      "start_char": 77851,
+      "end_char": 77861
+    },
+    {
+      "text": "Yes Bank Ltd.",
+      "label": "ORG",
+      "start_char": 77877,
+      "end_char": 77890
+    },
+    {
+      "text": "K. Ramakanth Reddy",
+      "label": "OTHER_PERSON",
+      "start_char": 77895,
+      "end_char": 77913
+    },
+    {
+      "text": "Yes Bank Ltd.",
+      "label": "ORG",
+      "start_char": 78240,
+      "end_char": 78253
+    },
+    {
+      "text": "DHFL (Now Piramal Ltd.",
+      "label": "ORG",
+      "start_char": 78255,
+      "end_char": 78277
+    },
+    {
+      "text": "Debt Recovery Tribunal (DRT)",
+      "label": "COURT",
+      "start_char": 78280,
+      "end_char": 78308
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 78526,
+      "end_char": 78530
+    },
+    {
+      "text": "Apollo Hospitals North Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 78608,
+      "end_char": 78635
+    },
+    {
+      "text": "08.04.2022",
+      "label": "DATE",
+      "start_char": 78903,
+      "end_char": 78913
+    },
+    {
+      "text": "Yes Bank Ltd.",
+      "label": "ORG",
+      "start_char": 79015,
+      "end_char": 79028
+    },
+    {
+      "text": "Yes Bank Ltd.",
+      "label": "ORG",
+      "start_char": 79246,
+      "end_char": 79259
+    },
+    {
+      "text": "10.09.2021",
+      "label": "DATE",
+      "start_char": 79263,
+      "end_char": 79273
+    },
+    {
+      "text": "Section 13(4)",
+      "label": "PROVISION",
+      "start_char": 79294,
+      "end_char": 79307
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 79315,
+      "end_char": 79333
+    },
+    {
+      "text": "NCLT",
+      "label": "ORG",
+      "start_char": 79431,
+      "end_char": 79435
+    },
+    {
+      "text": "Yes Bank Ltd.",
+      "label": "ORG",
+      "start_char": 79764,
+      "end_char": 79777
+    },
+    {
+      "text": "Section 20-A, 20-B and Section 41 (ha)",
+      "label": "PROVISION",
+      "start_char": 79850,
+      "end_char": 79888
+    },
+    {
+      "text": "Specific Relief Act, 1963",
+      "label": "STATUTE",
+      "start_char": 79896,
+      "end_char": 79921
+    },
+    {
+      "text": "Vineet Malhotra",
+      "label": "LAWYER",
+      "start_char": 79927,
+      "end_char": 79942
+    },
+    {
+      "text": "Sections 20(A), 20(B) and 41(ha)",
+      "label": "PROVISION",
+      "start_char": 79997,
+      "end_char": 80029
+    },
+    {
+      "text": "Specific Relief Act, 1963",
+      "label": "STATUTE",
+      "start_char": 80037,
+      "end_char": 80062
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 80272,
+      "end_char": 80282
+    },
+    {
+      "text": "Raman (Dead) by Legal Representatives v. R. Natarajan, (2022) 10 Supreme Court Cases 143",
+      "label": "PRECEDENT",
+      "start_char": 80295,
+      "end_char": 80383
+    },
+    {
+      "text": "Section 12(1)",
+      "label": "PROVISION",
+      "start_char": 81893,
+      "end_char": 81906
+    },
+    {
+      "text": "Specific Relief Act, 1963",
+      "label": "STATUTE",
+      "start_char": 81914,
+      "end_char": 81939
+    },
+    {
+      "text": "Ashish Chopra",
+      "label": "OTHER_PERSON",
+      "start_char": 82284,
+      "end_char": 82297
+    },
+    {
+      "text": "30.07.2022",
+      "label": "DATE",
+      "start_char": 82387,
+      "end_char": 82397
+    },
+    {
+      "text": "Apollo Hospitals North Ltd.",
+      "label": "ORG",
+      "start_char": 82407,
+      "end_char": 82434
+    },
+    {
+      "text": "08.08.2022",
+      "label": "DATE",
+      "start_char": 82488,
+      "end_char": 82498
+    },
+    {
+      "text": "08.04.2022",
+      "label": "DATE",
+      "start_char": 82619,
+      "end_char": 82629
+    },
+    {
+      "text": "Chopra",
+      "label": "OTHER_PERSON",
+      "start_char": 82636,
+      "end_char": 82642
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 83274,
+      "end_char": 83284
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 83292,
+      "end_char": 83310
+    },
+    {
+      "text": "21.09.2023",
+      "label": "DATE",
+      "start_char": 83538,
+      "end_char": 83548
+    },
+    {
+      "text": "04.11.2022",
+      "label": "DATE",
+      "start_char": 83579,
+      "end_char": 83589
+    },
+    {
+      "text": "Akinchan Aggarwal",
+      "label": "OTHER_PERSON",
+      "start_char": 83944,
+      "end_char": 83961
+    },
+    {
+      "text": "04.11.2022",
+      "label": "DATE",
+      "start_char": 84866,
+      "end_char": 84876
+    },
+    {
+      "text": "Order 39 Rule 1 & 2 read with Section 151",
+      "label": "PROVISION",
+      "start_char": 85388,
+      "end_char": 85429
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 85430,
+      "end_char": 85433
+    },
+    {
+      "text": "08.08.2022",
+      "label": "DATE",
+      "start_char": 85852,
+      "end_char": 85862
+    },
+    {
+      "text": "04.11.2022",
+      "label": "DATE",
+      "start_char": 86138,
+      "end_char": 86148
+    },
+    {
+      "text": "District Judge, Gurugram",
+      "label": "COURT",
+      "start_char": 86231,
+      "end_char": 86255
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 86288,
+      "end_char": 86306
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 86447,
+      "end_char": 86457
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 86465,
+      "end_char": 86483
+    },
+    {
+      "text": "Section 13(4)",
+      "label": "PROVISION",
+      "start_char": 86549,
+      "end_char": 86562
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 86570,
+      "end_char": 86588
+    },
+    {
+      "text": "Debts Recovery Tribunal",
+      "label": "COURT",
+      "start_char": 86661,
+      "end_char": 86684
+    },
+    {
+      "text": "Apollo Hospitals North Ltd.",
+      "label": "ORG",
+      "start_char": 86932,
+      "end_char": 86959
+    },
+    {
+      "text": "08.04.2022",
+      "label": "DATE",
+      "start_char": 87598,
+      "end_char": 87608
+    },
+    {
+      "text": "08.04.2022",
+      "label": "DATE",
+      "start_char": 87817,
+      "end_char": 87827
+    },
+    {
+      "text": "Yes Bank Ltd.",
+      "label": "ORG",
+      "start_char": 87873,
+      "end_char": 87886
+    },
+    {
+      "text": "Apollo Hospitals North Ltd.",
+      "label": "ORG",
+      "start_char": 88252,
+      "end_char": 88279
+    },
+    {
+      "text": "08.04.2022",
+      "label": "DATE",
+      "start_char": 88800,
+      "end_char": 88810
+    },
+    {
+      "text": "Debt Recovery Tribunal",
+      "label": "COURT",
+      "start_char": 89490,
+      "end_char": 89512
+    },
+    {
+      "text": "Debts Recovery Tribunal",
+      "label": "COURT",
+      "start_char": 89587,
+      "end_char": 89610
+    },
+    {
+      "text": "National Company Law Tribunal (NCLT)",
+      "label": "COURT",
+      "start_char": 89624,
+      "end_char": 89660
+    },
+    {
+      "text": "08.04.2022",
+      "label": "DATE",
+      "start_char": 89762,
+      "end_char": 89772
+    },
+    {
+      "text": "08 th April 2022",
+      "label": "DATE",
+      "start_char": 90012,
+      "end_char": 90028
+    },
+    {
+      "text": "Gurugram",
+      "label": "GPE",
+      "start_char": 90141,
+      "end_char": 90149
+    },
+    {
+      "text": "Haryana",
+      "label": "GPE",
+      "start_char": 90151,
+      "end_char": 90158
+    },
+    {
+      "text": "NCLAT",
+      "label": "ORG",
+      "start_char": 90385,
+      "end_char": 90390
+    },
+    {
+      "text": "08.04.2022",
+      "label": "DATE",
+      "start_char": 90575,
+      "end_char": 90585
+    },
+    {
+      "text": "08.08.2022",
+      "label": "DATE",
+      "start_char": 90915,
+      "end_char": 90925
+    },
+    {
+      "text": "Debts Recovery Tribunal",
+      "label": "COURT",
+      "start_char": 93092,
+      "end_char": 93115
+    },
+    {
+      "text": "08.04.2022",
+      "label": "DATE",
+      "start_char": 93262,
+      "end_char": 93272
+    },
+    {
+      "text": "DRT",
+      "label": "ORG",
+      "start_char": 93427,
+      "end_char": 93430
+    },
+    {
+      "text": "08.08.2022",
+      "label": "DATE",
+      "start_char": 93538,
+      "end_char": 93548
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 95186,
+      "end_char": 95196
+    },
+    {
+      "text": "Nahar Industrial Enterprises Limited",
+      "label": "PRECEDENT",
+      "start_char": 95200,
+      "end_char": 95236
+    },
+    {
+      "text": "Debts Recovery Tribunal (DRT)",
+      "label": "COURT",
+      "start_char": 95325,
+      "end_char": 95354
+    },
+    {
+      "text": "Civil Court",
+      "label": "STATUTE",
+      "start_char": 95369,
+      "end_char": 95380
+    },
+    {
+      "text": "Civil Procedure Code",
+      "label": "STATUTE",
+      "start_char": 95387,
+      "end_char": 95407
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 95447,
+      "end_char": 95457
+    },
+    {
+      "text": "Debts Recovery Tribunal (DRT)",
+      "label": "COURT",
+      "start_char": 95495,
+      "end_char": 95524
+    },
+    {
+      "text": "DRT",
+      "label": "COURT",
+      "start_char": 95664,
+      "end_char": 95667
+    },
+    {
+      "text": "Nahar Industrial Enterprises Limited",
+      "label": "PRECEDENT",
+      "start_char": 96381,
+      "end_char": 96417
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 96446,
+      "end_char": 96456
+    },
+    {
+      "text": "Sections 17 and 18",
+      "label": "PROVISION",
+      "start_char": 96720,
+      "end_char": 96738
+    },
+    {
+      "text": "Debts Recovery Tribunal",
+      "label": "COURT",
+      "start_char": 97172,
+      "end_char": 97195
+    },
+    {
+      "text": "Sections 17 and 18",
+      "label": "PROVISION",
+      "start_char": 97307,
+      "end_char": 97325
+    },
+    {
+      "text": "Andhra Pradesh Land Grabbing (Prohibition) Act, 1982",
+      "label": "STATUTE",
+      "start_char": 97880,
+      "end_char": 97932
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 98583,
+      "end_char": 98592
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 98741,
+      "end_char": 98751
+    },
+    {
+      "text": "Code of Civil procedure",
+      "label": "STATUTE",
+      "start_char": 99028,
+      "end_char": 99051
+    },
+    {
+      "text": "CR-5837-2023 (O&M) - 62",
+      "label": "CASE_NUMBER",
+      "start_char": 99807,
+      "end_char": 99830
+    },
+    {
+      "text": "Colonial Sugar Refining Company v. Irving : 1905 AC 369 : (1904-07) ALL ER Rep Ext 1620 (PC)",
+      "label": "PRECEDENT",
+      "start_char": 100081,
+      "end_char": 100173
+    },
+    {
+      "text": "Garikapati Veeraya v. N. Subbiah Choudhry AIR 1957 Supreme Court 540",
+      "label": "PRECEDENT",
+      "start_char": 100770,
+      "end_char": 100838
+    },
+    {
+      "text": "Debts Recovery Appellate Tribunal",
+      "label": "COURT",
+      "start_char": 102843,
+      "end_char": 102876
+    },
+    {
+      "text": "Order 41, Rule 1",
+      "label": "PROVISION",
+      "start_char": 103070,
+      "end_char": 103086
+    },
+    {
+      "text": "Order 41 Rule 1",
+      "label": "PROVISION",
+      "start_char": 103242,
+      "end_char": 103257
+    },
+    {
+      "text": "Order 41 Rule 5",
+      "label": "PROVISION",
+      "start_char": 103286,
+      "end_char": 103301
+    },
+    {
+      "text": "Sihor Nagar Palika Bureau v. Bhabhlubhai Virabhai & Co., (2005) 4 SCC 1",
+      "label": "PRECEDENT",
+      "start_char": 103316,
+      "end_char": 103387
+    },
+    {
+      "text": "Malwa Strips (P) Ltd. v. Jyoti Ltd. (2009) 2 SCC 426",
+      "label": "PRECEDENT",
+      "start_char": 103389,
+      "end_char": 103441
+    },
+    {
+      "text": "Transmission Corpn",
+      "label": "ORG",
+      "start_char": 103460,
+      "end_char": 103478
+    },
+    {
+      "text": "Prabhakar (2004) 5 SCC 551",
+      "label": "PRECEDENT",
+      "start_char": 103495,
+      "end_char": 103521
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 104931,
+      "end_char": 104941
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 104949,
+      "end_char": 104967
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 105061,
+      "end_char": 105071
+    },
+    {
+      "text": "Debts Recovery Tribunal",
+      "label": "COURT",
+      "start_char": 105231,
+      "end_char": 105254
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 105285,
+      "end_char": 105295
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 105303,
+      "end_char": 105321
+    },
+    {
+      "text": "Yes Bank Ltd",
+      "label": "ORG",
+      "start_char": 105530,
+      "end_char": 105542
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 106288,
+      "end_char": 106298
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 106306,
+      "end_char": 106324
+    },
+    {
+      "text": "Robust Hotels Pvt. Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 106436,
+      "end_char": 106459
+    },
+    {
+      "text": "Debts Recovery Tribunal",
+      "label": "COURT",
+      "start_char": 106658,
+      "end_char": 106681
+    },
+    {
+      "text": "Banks and Financial Institutions Act, 1993",
+      "label": "STATUTE",
+      "start_char": 106972,
+      "end_char": 107014
+    },
+    {
+      "text": "Nahar Industrial CR-5837-2023 (O&M) - 67 - Enterprises Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 107049,
+      "end_char": 107108
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 107137,
+      "end_char": 107147
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 107228,
+      "end_char": 107238
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 107246,
+      "end_char": 107264
+    },
+    {
+      "text": "Balaji Hotels & Enterprises Ltd.",
+      "label": "ORG",
+      "start_char": 107734,
+      "end_char": 107766
+    },
+    {
+      "text": "26-10-1988",
+      "label": "DATE",
+      "start_char": 107961,
+      "end_char": 107971
+    },
+    {
+      "text": "12-1-2999",
+      "label": "DATE",
+      "start_char": 107997,
+      "end_char": 108006
+    },
+    {
+      "text": "10-6-2000",
+      "label": "DATE",
+      "start_char": 108008,
+      "end_char": 108017
+    },
+    {
+      "text": "4-2-2000",
+      "label": "DATE",
+      "start_char": 108022,
+      "end_char": 108030
+    },
+    {
+      "text": "IFCI Ltd.",
+      "label": "ORG",
+      "start_char": 108239,
+      "end_char": 108248
+    },
+    {
+      "text": "Tourism Finance Corporation of India Ltd.",
+      "label": "ORG",
+      "start_char": 108253,
+      "end_char": 108294
+    },
+    {
+      "text": "5-7-2007",
+      "label": "DATE",
+      "start_char": 108321,
+      "end_char": 108329
+    },
+    {
+      "text": "Robust Hotels without",
+      "label": "ORG",
+      "start_char": 108360,
+      "end_char": 108381
+    },
+    {
+      "text": "4-7-2002",
+      "label": "DATE",
+      "start_char": 108515,
+      "end_char": 108523
+    },
+    {
+      "text": "BHEL",
+      "label": "ORG",
+      "start_char": 108550,
+      "end_char": 108554
+    },
+    {
+      "text": "EIH",
+      "label": "ORG",
+      "start_char": 108614,
+      "end_char": 108617
+    },
+    {
+      "text": "31-12-2002",
+      "label": "DATE",
+      "start_char": 108621,
+      "end_char": 108631
+    },
+    {
+      "text": "EIH",
+      "label": "ORG",
+      "start_char": 108644,
+      "end_char": 108647
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 108783,
+      "end_char": 108793
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 108801,
+      "end_char": 108819
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 108821,
+      "end_char": 108831
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 108839,
+      "end_char": 108857
+    },
+    {
+      "text": "Debts Recovery Tribunal",
+      "label": "ORG",
+      "start_char": 109031,
+      "end_char": 109054
+    },
+    {
+      "text": "Recovery of Debts Due to Banks and Financial Institutions Act, 1993 (51 of 1993)",
+      "label": "STATUTE",
+      "start_char": 109311,
+      "end_char": 109391
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 109422,
+      "end_char": 109432
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 109436,
+      "end_char": 109454
+    },
+    {
+      "text": "Nahar Industrial Enterprises Limited v. Hong Kong & Shanghai Banking Corporation, (2009) 8 SCC 646",
+      "label": "PRECEDENT",
+      "start_char": 109564,
+      "end_char": 109662
+    },
+    {
+      "text": "Nahar Industrial Enterprises Ltd",
+      "label": "PRECEDENT",
+      "start_char": 109938,
+      "end_char": 109970
+    },
+    {
+      "text": "Dhulabhai v. State of M.P. AIR 1969 SC 78",
+      "label": "PRECEDENT",
+      "start_char": 110203,
+      "end_char": 110244
+    },
+    {
+      "text": "CR-5837-2023 (O&M) - 70",
+      "label": "PROVISION",
+      "start_char": 111315,
+      "end_char": 111338
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 111427,
+      "end_char": 111437
+    },
+    {
+      "text": "Debts Recovery Tribunal",
+      "label": "COURT",
+      "start_char": 111596,
+      "end_char": 111619
+    },
+    {
+      "text": "Banks and Financial Institutions Act, 1993",
+      "label": "STATUTE",
+      "start_char": 111909,
+      "end_char": 111951
+    },
+    {
+      "text": "EIH",
+      "label": "ORG",
+      "start_char": 112175,
+      "end_char": 112178
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 112194,
+      "end_char": 112204
+    },
+    {
+      "text": "Robust Hotels",
+      "label": "ORG",
+      "start_char": 112279,
+      "end_char": 112292
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 112759,
+      "end_char": 112777
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 112963,
+      "end_char": 112981
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 113184,
+      "end_char": 113202
+    },
+    {
+      "text": "21.09.2023",
+      "label": "DATE",
+      "start_char": 113529,
+      "end_char": 113539
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 113979,
+      "end_char": 113989
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 113997,
+      "end_char": 114015
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 114346,
+      "end_char": 114364
+    },
+    {
+      "text": "ORDER 39 RULE 1 & 2",
+      "label": "PROVISION",
+      "start_char": 114496,
+      "end_char": 114515
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 114516,
+      "end_char": 114519
+    },
+    {
+      "text": "Order 39 Rule 1 & 2",
+      "label": "PROVISION",
+      "start_char": 114609,
+      "end_char": 114628
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 114629,
+      "end_char": 114632
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 114832,
+      "end_char": 114842
+    },
+    {
+      "text": "08.04.2022",
+      "label": "DATE",
+      "start_char": 115200,
+      "end_char": 115210
+    },
+    {
+      "text": "Yes Bank Ltd.",
+      "label": "ORG",
+      "start_char": 115443,
+      "end_char": 115456
+    },
+    {
+      "text": "NCLT",
+      "label": "ORG",
+      "start_char": 116589,
+      "end_char": 116593
+    },
+    {
+      "text": "NCLT",
+      "label": "ORG",
+      "start_char": 116909,
+      "end_char": 116913
+    },
+    {
+      "text": "19.04.2022",
+      "label": "DATE",
+      "start_char": 116917,
+      "end_char": 116927
+    },
+    {
+      "text": "19.05.2022",
+      "label": "DATE",
+      "start_char": 116974,
+      "end_char": 116984
+    },
+    {
+      "text": "19.05.2022",
+      "label": "DATE",
+      "start_char": 117251,
+      "end_char": 117261
+    },
+    {
+      "text": "31.05.2022",
+      "label": "DATE",
+      "start_char": 117414,
+      "end_char": 117424
+    },
+    {
+      "text": "02.06.2022",
+      "label": "DATE",
+      "start_char": 117588,
+      "end_char": 117598
+    },
+    {
+      "text": "DHFL",
+      "label": "ORG",
+      "start_char": 117625,
+      "end_char": 117629
+    },
+    {
+      "text": "Piramal Ltd.",
+      "label": "ORG",
+      "start_char": 117640,
+      "end_char": 117652
+    },
+    {
+      "text": "NCLAT",
+      "label": "ORG",
+      "start_char": 117923,
+      "end_char": 117928
+    },
+    {
+      "text": "12.05.2022",
+      "label": "DATE",
+      "start_char": 117935,
+      "end_char": 117945
+    },
+    {
+      "text": "02.06.2022",
+      "label": "DATE",
+      "start_char": 117950,
+      "end_char": 117960
+    },
+    {
+      "text": "19.04.2022",
+      "label": "DATE",
+      "start_char": 118104,
+      "end_char": 118114
+    },
+    {
+      "text": "19.04.2022",
+      "label": "DATE",
+      "start_char": 118213,
+      "end_char": 118223
+    },
+    {
+      "text": "NCLT",
+      "label": "ORG",
+      "start_char": 118256,
+      "end_char": 118260
+    },
+    {
+      "text": "19.05.2022",
+      "label": "DATE",
+      "start_char": 118787,
+      "end_char": 118797
+    },
+    {
+      "text": "Yes Bank Ltd.",
+      "label": "ORG",
+      "start_char": 119025,
+      "end_char": 119038
+    },
+    {
+      "text": "Apollo Hospitals North Ltd.",
+      "label": "ORG",
+      "start_char": 119046,
+      "end_char": 119073
+    },
+    {
+      "text": "06.07.2022",
+      "label": "DATE",
+      "start_char": 119094,
+      "end_char": 119104
+    },
+    {
+      "text": "08.04.2022",
+      "label": "DATE",
+      "start_char": 119429,
+      "end_char": 119439
+    },
+    {
+      "text": "Ambalal Sarabhai Enterprise Limited",
+      "label": "PRECEDENT",
+      "start_char": 121081,
+      "end_char": 121116
+    },
+    {
+      "text": "Dalpat Kumar",
+      "label": "PRECEDENT",
+      "start_char": 121136,
+      "end_char": 121148
+    },
+    {
+      "text": "Dalpat Kumar",
+      "label": "PRECEDENT",
+      "start_char": 121172,
+      "end_char": 121184
+    },
+    {
+      "text": "Best Sellers Retail (India) Pvt",
+      "label": "ORG",
+      "start_char": 121786,
+      "end_char": 121817
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 122474,
+      "end_char": 122484
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 122492,
+      "end_char": 122510
+    },
+    {
+      "text": "Rules 8 & 9",
+      "label": "PROVISION",
+      "start_char": 122516,
+      "end_char": 122527
+    },
+    {
+      "text": "Rules, 2002",
+      "label": "STATUTE",
+      "start_char": 122535,
+      "end_char": 122546
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 122713,
+      "end_char": 122723
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 122731,
+      "end_char": 122749
+    },
+    {
+      "text": "SARFAESI Act, 2002",
+      "label": "STATUTE",
+      "start_char": 122973,
+      "end_char": 122991
+    },
+    {
+      "text": "Apollo Hospitals North Ltd",
+      "label": "ORG",
+      "start_char": 124106,
+      "end_char": 124132
+    },
+    {
+      "text": "Order 39 Rule 1 & 2",
+      "label": "PROVISION",
+      "start_char": 124178,
+      "end_char": 124197
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 124198,
+      "end_char": 124201
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 124386,
+      "end_char": 124396
+    },
+    {
+      "text": "21.09.2023",
+      "label": "DATE",
+      "start_char": 124461,
+      "end_char": 124471
+    },
+    {
+      "text": "21.09.2023",
+      "label": "DATE",
+      "start_char": 124598,
+      "end_char": 124608
+    },
+    {
+      "text": "District Judge, Gurugram",
+      "label": "COURT",
+      "start_char": 124642,
+      "end_char": 124666
+    },
+    {
+      "text": "Order 39 Rule 1 & 2 read with Section 151",
+      "label": "PROVISION",
+      "start_char": 124809,
+      "end_char": 124850
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 124851,
+      "end_char": 124854
+    },
+    {
+      "text": "SANJAY VASHISTH",
+      "label": "JUDGE",
+      "start_char": 125486,
+      "end_char": 125501
+    },
+    {
+      "text": "November 20, 2023",
+      "label": "DATE",
+      "start_char": 125509,
+      "end_char": 125526
+    },
+    {
+      "text": "J.Ram",
+      "label": "JUDGE",
+      "start_char": 125527,
+      "end_char": 125532
+    }
+  ],
+  "precedent_clusters": {
+    "M/s Suman Constructions Pvt. Ltd. vs. M/s Truthmark Realtors Pvt. Ltd., and another": [
+      "M/s Suman Constructions Pvt. Ltd. vs. M/s Truthmark Realtors Pvt. Ltd., and another",
+      "DLF Qutab Enclave Complex Educational CR-5837-2023 (O&M) - 38"
+    ],
+    "Nahar Industrial Enterprises Limited v. Hong Kong and Shanghai Banking Corporation, (2009) 8 Supreme Court Cases 646": [
+      "Nahar Industrial Enterprises Limited v. Hong Kong and Shanghai Banking Corporation, (2009) 8 Supreme Court Cases 646",
+      "Nahar Industrial Enterprises Limited",
+      "Nahar Industrial Enterprises Limited",
+      "Nahar Industrial Enterprises Limited"
+    ],
+    "Ambalal Sarabhai Enterprise Limited v. KS Infraspace LLP Limited and another, 2020(5) Supreme Court Cases 410": [
+      "Ambalal Sarabhai Enterprise Limited v. KS Infraspace LLP Limited and another, 2020(5) Supreme Court Cases 410",
+      "Ambalal Sarabhai Enterprise Limited"
+    ],
+    "Dalpat Kumar v. Prahlad Singh, (1992) 1 Supreme Court Cases 719": [
+      "Dalpat Kumar v. Prahlad Singh, (1992) 1 Supreme Court Cases 719",
+      "Dalpat Kumar",
+      "Dalpat Kumar",
+      "Dalpat Kumar"
+    ],
+    "Jagdish Singh v. Heeralal and others, (2014) 1 Supreme Court Cases 479": [
+      "Jagdish Singh v. Heeralal and others, (2014) 1 Supreme Court Cases 479",
+      "Jagdish Singh",
+      "Jagdish Singh"
+    ],
+    "G. Vikram Kumar v. State Bank of Hyderabad and others, 2023 SCC Online SC 549": [
+      "G. Vikram Kumar v. State Bank of Hyderabad and others, 2023 SCC Online SC 549",
+      "others v. Naven Mathew Philip and another, 2023 SCC Online SC 435"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Order 39 Rule 1 & 2",
+      "CPC",
+      "Order 39 Rule 1 & 2",
+      "CPC"
+    ],
+    [
+      "Order 1 Rule 10",
+      "CPC",
+      "Order 1 Rule 10",
+      "CPC"
+    ],
+    [
+      "Section 17",
+      "Arbitration and Conciliation Act",
+      "Section 17",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Order 7 Rule 10",
+      "CPC",
+      "Order 7 Rule 10",
+      "CPC"
+    ],
+    [
+      "Order 7 rule 10",
+      "CPC",
+      "Order 7 rule 10",
+      "CPC"
+    ],
+    [
+      "Order 39 Rule 1 & 2",
+      "CPC",
+      "Order 39 Rule 1 & 2",
+      "CPC"
+    ],
+    [
+      "Order 39 Rule 1 & 2 read with Section 151",
+      "CPC",
+      "Order 39 Rule 1 & 2 read with Section 151",
+      "CPC"
+    ],
+    [
+      "Section 34",
+      "Securitization and Reconstruction of Financial Assets and Enforcement of Security Interests Act, 2002",
+      "Section 34",
+      "Securitization and Reconstruction of Financial Assets and Enforcement of Security Interests Act, 2002"
+    ],
+    [
+      "Section 13(4)",
+      "SARFAESI Act",
+      "Section 13(4)",
+      "SARFAESI Act"
+    ],
+    [
+      "Order 39 Rule 1 & 2",
+      "CPC",
+      "Order 39 Rule 1 & 2",
+      "CPC"
+    ],
+    [
+      "Order 39 Rule 1 & 2",
+      "CPC",
+      "Order 39 Rule 1 & 2",
+      "CPC"
+    ],
+    [
+      "section 13(4)",
+      "SARFAESI Act",
+      "section 13(4)",
+      "SARFAESI Act"
+    ],
+    [
+      "Section 7",
+      "Insolvency and Bankruptcy Code, 2016",
+      "Section 7",
+      "Insolvency and Bankruptcy Code, 2016"
+    ],
+    [
+      "Section 13(2)",
+      "SARFAESI Act",
+      "Section 13(2)",
+      "SARFAESI Act"
+    ],
+    [
+      "Section 41",
+      "Specific Relief Act, 1963",
+      "Section 41",
+      "Specific Relief Act, 1963"
+    ],
+    [
+      "Order 7 Rule 11",
+      "CPC",
+      "Order 7 Rule 11",
+      "CPC"
+    ],
+    [
+      "Section 2(d)",
+      "Indian Contract Act, 1872",
+      "Section 2(d)",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "Section 54",
+      "Transfer of Property Act, 1882",
+      "Section 54",
+      "Transfer of Property Act, 1882"
+    ],
+    [
+      "SECTIONS 13, 17 AND 34",
+      "SARFAESI ACT, 2002",
+      "SECTIONS 13, 17 AND 34",
+      "SARFAESI ACT, 2002"
+    ],
+    [
+      "Section 13(2)",
+      "SARFAESI Act, 2002",
+      "Section 13(2)",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Section 13(4)",
+      "SARFAESI Act, 2002",
+      "Section 13(4)",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Section 17 CR-5837-2023 (O&M) - 29",
+      "SARFAESI Act, 2002",
+      "Section 17 CR-5837-2023 (O&M) - 29",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Section 34",
+      "SARFAESI Act, 2002",
+      "Section 34",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Order 7 Rule 10",
+      "CPC",
+      "Order 7 Rule 10",
+      "CPC"
+    ],
+    [
+      "Section 34",
+      "SARFAESI Act, 2002",
+      "Section 34",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Sections 20-A and 20-B",
+      "Specific Relief Act, 1963",
+      "Sections 20-A and 20-B",
+      "Specific Relief Act, 1963"
+    ],
+    [
+      "Sections 20-A and 20-B",
+      "Specific Relief Act, 1963",
+      "Sections 20-A and 20-B",
+      "Specific Relief Act, 1963"
+    ],
+    [
+      "Section 34",
+      "SARFAESI Act, 2002",
+      "Section 34",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Sections 20-A and 20-B",
+      "Specific Relief Act, 1963",
+      "Sections 20-A and 20-B",
+      "Specific Relief Act, 1963"
+    ],
+    [
+      "Section 34",
+      "SARFAESI Act, 2002",
+      "Section 34",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Order 39 Rule 1 & 2",
+      "CPC",
+      "Order 39 Rule 1 & 2",
+      "CPC"
+    ],
+    [
+      "Order 39 Rule 1 & 2",
+      "CPC",
+      "Order 39 Rule 1 & 2",
+      "CPC"
+    ],
+    [
+      "Section 34",
+      "SARFAESI Act, 2002",
+      "Section 34",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Section 34",
+      "SARFAESI Act, 2002",
+      "Section 34",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Order 39 Rule 1 & 2",
+      "CPC",
+      "Order 39 Rule 1 & 2",
+      "CPC"
+    ],
+    [
+      "Sections 17 & 18",
+      "SARFAESI Act, 2002",
+      "Sections 17 & 18",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Section 34",
+      "SARFAESI Act, 2002",
+      "Section 34",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Section 34",
+      "SARFAESI Act, 2002",
+      "Section 34",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Section 34",
+      "SARFAESI Act, 2002",
+      "Section 34",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Section 2(g)",
+      "Indian Contract Act, 1872",
+      "Section 2(g)",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "Section 2(g)",
+      "Indian Contract Act, 1872",
+      "Section 2(g)",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "Section 36",
+      "Indian Contract Act, 1872",
+      "Section 36",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "Section 13(2) to Section 13(13)",
+      "SARFAESI Act, 2002",
+      "Section 13(2) to Section 13(13)",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Order 39 Rule 1 and 2",
+      "CPC",
+      "Order 39 Rule 1 and 2",
+      "CPC"
+    ],
+    [
+      "Order 39 Rule 1 & 2",
+      "CPC",
+      "Order 39 Rule 1 & 2",
+      "CPC"
+    ],
+    [
+      "Section 34",
+      "SARFAESI Act, 2002",
+      "Section 34",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Section 34",
+      "SARFAESI Act, 2002",
+      "Section 34",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Section 17",
+      "SARFAESI Act, 2002",
+      "Section 17",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Section 13(4)",
+      "Securitisation Act",
+      "Section 13(4)",
+      "Securitisation Act"
+    ],
+    [
+      "Section 17",
+      "Securitisation Act",
+      "Section 17",
+      "Securitisation Act"
+    ],
+    [
+      "Section 17",
+      "SARFAESI Act, 2002",
+      "Section 17",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Section 17",
+      "SARFAESI Act, 2002",
+      "Section 17",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Section 13(4)",
+      "SARFAESI Act, 2002",
+      "Section 13(4)",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Section 20-A, 20-B and Section 41 (ha)",
+      "Specific Relief Act, 1963",
+      "Section 20-A, 20-B and Section 41 (ha)",
+      "Specific Relief Act, 1963"
+    ],
+    [
+      "Sections 20(A), 20(B) and 41(ha)",
+      "Specific Relief Act, 1963",
+      "Sections 20(A), 20(B) and 41(ha)",
+      "Specific Relief Act, 1963"
+    ],
+    [
+      "Section 12(1)",
+      "Specific Relief Act, 1963",
+      "Section 12(1)",
+      "Specific Relief Act, 1963"
+    ],
+    [
+      "Section 34",
+      "SARFAESI Act, 2002",
+      "Section 34",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Order 39 Rule 1 & 2 read with Section 151",
+      "CPC",
+      "Order 39 Rule 1 & 2 read with Section 151",
+      "CPC"
+    ],
+    [
+      "Section 34",
+      "SARFAESI Act, 2002",
+      "Section 34",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Section 13(4)",
+      "SARFAESI Act, 2002",
+      "Section 13(4)",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Section 17",
+      "SARFAESI Act, 2002",
+      "Section 17",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Section 13",
+      "SARFAESI Act, 2002",
+      "Section 13",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Section 34",
+      "SARFAESI Act, 2002",
+      "Section 34",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Section 34",
+      "SARFAESI Act, 2002",
+      "Section 34",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "section 34",
+      "SARFAESI Act, 2002",
+      "section 34",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Section 34",
+      "SARFAESI Act, 2002",
+      "Section 34",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Section 34",
+      "SARFAESI Act, 2002",
+      "Section 34",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Section 34",
+      "SARFAESI Act, 2002",
+      "Section 34",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "ORDER 39 RULE 1 & 2",
+      "CPC",
+      "ORDER 39 RULE 1 & 2",
+      "CPC"
+    ],
+    [
+      "Order 39 Rule 1 & 2",
+      "CPC",
+      "Order 39 Rule 1 & 2",
+      "CPC"
+    ],
+    [
+      "Section 17",
+      "SARFAESI Act, 2002",
+      "Section 17",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Rules 8 & 9",
+      "Rules, 2002",
+      "Rules 8 & 9",
+      "Rules, 2002"
+    ],
+    [
+      "Section 17",
+      "SARFAESI Act, 2002",
+      "Section 17",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Order 39 Rule 1 & 2",
+      "CPC",
+      "Order 39 Rule 1 & 2",
+      "CPC"
+    ],
+    [
+      "Order 39 Rule 1 & 2 read with Section 151",
+      "CPC",
+      "Order 39 Rule 1 & 2 read with Section 151",
+      "CPC"
+    ],
+    [
+      "Section 17",
+      "Arbitration and Conciliation Act",
+      "Section 17",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 13(4)",
+      "SARFAESI Act, 2002",
+      "Section 13(4)",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Rules 8 & 9",
+      "Rules, 2002",
+      "Rules 8 & 9",
+      "Rules, 2002"
+    ],
+    [
+      "Rules 8 & 9",
+      "Rules, 2002",
+      "Rules 8 & 9",
+      "Rules, 2002"
+    ],
+    [
+      "Section 17",
+      "SARFAESI Act, 2002",
+      "Section 17",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Section 17",
+      "SARFAESI Act, 2002",
+      "Section 17",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Sections 17 and 18",
+      "SARFAESI Act, 2002",
+      "Sections 17 and 18",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Sections 17 and 18",
+      "SARFAESI Act, 2002",
+      "Sections 17 and 18",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "CR-5837-2023 (O&M) - 70",
+      "SARFAESI Act, 2002",
+      "CR-5837-2023 (O&M) - 70",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Section 34",
+      "SARFAESI Act, 2002",
+      "Section 34",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Section 34",
+      "SARFAESI Act, 2002",
+      "Section 34",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Section 18",
+      "SARFAESI Act, 2002",
+      "Section 18",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "CR-5837-2023",
+      "SARFAESI Act, 2002",
+      "CR-5837-2023",
+      "SARFAESI Act, 2002"
+    ],
+    [
+      "Section 9",
+      "Andhra Pradesh Land Grabbing (Prohibition) Act, 1982",
+      "Section 9",
+      "Andhra Pradesh Land Grabbing (Prohibition) Act, 1982"
+    ],
+    [
+      "Order 41, Rule 1",
+      "Code of Civil procedure",
+      "Order 41, Rule 1",
+      "Code of Civil procedure"
+    ],
+    [
+      "Order 41 Rule 1",
+      "Code of Civil procedure",
+      "Order 41 Rule 1",
+      "Code of Civil procedure"
+    ],
+    [
+      "Order 41 Rule 5",
+      "Code of Civil procedure",
+      "Order 41 Rule 5",
+      "Code of Civil procedure"
+    ]
+  ],
+  "precedent_counts": {
+    "M/s Suman Constructions Pvt. Ltd. vs. M/s Truthmark Realtors Pvt. Ltd., and another": 2,
+    "Nahar Industrial Enterprises Limited v. Hong Kong and Shanghai Banking Corporation, (2009) 8 Supreme Court Cases 646": 4,
+    "Ambalal Sarabhai Enterprise Limited v. KS Infraspace LLP Limited and another, 2020(5) Supreme Court Cases 410": 2,
+    "Dalpat Kumar v. Prahlad Singh, (1992) 1 Supreme Court Cases 719": 4,
+    "Jagdish Singh v. Heeralal and others, (2014) 1 Supreme Court Cases 479": 3,
+    "G. Vikram Kumar v. State Bank of Hyderabad and others, 2023 SCC Online SC 549": 2
+  },
+  "provision_counts": {
+    "Order 39 Rule 1 & 2 of CPC": 10,
+    "Order 1 Rule 10 of CPC": 1,
+    "Section 17 of Arbitration and Conciliation Act": 2,
+    "Order 7 Rule 10 of CPC": 2,
+    "Order 7 rule 10 of CPC": 1,
+    "Order 39 Rule 1 & 2 read with Section 151 of CPC": 3,
+    "Section 34 of Securitization and Reconstruction of Financial Assets and Enforcement of Security Interests Act, 2002": 1,
+    "Section 13(4) of SARFAESI Act": 1,
+    "section 13(4) of SARFAESI Act": 1,
+    "Section 7 of Insolvency and Bankruptcy Code, 2016": 1,
+    "Section 13(2) of SARFAESI Act": 1,
+    "Section 41 of Specific Relief Act, 1963": 1,
+    "Order 7 Rule 11 of CPC": 1,
+    "Section 2(d) of Indian Contract Act, 1872": 1,
+    "Section 54 of Transfer of Property Act, 1882": 1,
+    "SECTIONS 13, 17 AND 34 of SARFAESI ACT, 2002": 1,
+    "Section 13(2) of SARFAESI Act, 2002": 1,
+    "Section 13(4) of SARFAESI Act, 2002": 4,
+    "Section 17 CR-5837-2023 (O&M) - 29 of SARFAESI Act, 2002": 1,
+    "Section 34 of SARFAESI Act, 2002": 20,
+    "Sections 20-A and 20-B of Specific Relief Act, 1963": 3,
+    "Sections 17 & 18 of SARFAESI Act, 2002": 1,
+    "Section 2(g) of Indian Contract Act, 1872": 2,
+    "Section 36 of Indian Contract Act, 1872": 1,
+    "Section 13(2) to Section 13(13) of SARFAESI Act, 2002": 1,
+    "Order 39 Rule 1 and 2 of CPC": 1,
+    "Section 17 of SARFAESI Act, 2002": 8,
+    "Section 13(4) of Securitisation Act": 1,
+    "Section 17 of Securitisation Act": 1,
+    "Section 20-A, 20-B and Section 41 (ha) of Specific Relief Act, 1963": 1,
+    "Sections 20(A), 20(B) and 41(ha) of Specific Relief Act, 1963": 1,
+    "Section 12(1) of Specific Relief Act, 1963": 1,
+    "Section 13 of SARFAESI Act, 2002": 1,
+    "section 34 of SARFAESI Act, 2002": 1,
+    "ORDER 39 RULE 1 & 2 of CPC": 1,
+    "Rules 8 & 9 of Rules, 2002": 3,
+    "Sections 17 and 18 of SARFAESI Act, 2002": 2,
+    "CR-5837-2023 (O&M) - 70 of SARFAESI Act, 2002": 1,
+    "Section 18 of SARFAESI Act, 2002": 1,
+    "CR-5837-2023 of SARFAESI Act, 2002": 1,
+    "Section 9 of Andhra Pradesh Land Grabbing (Prohibition) Act, 1982": 1,
+    "Order 41, Rule 1 of Code of Civil procedure": 1,
+    "Order 41 Rule 1 of Code of Civil procedure": 1,
+    "Order 41 Rule 5 of Code of Civil procedure": 1
+  },
+  "statute_counts": {
+    "CPC": 20,
+    "Arbitration and Conciliation Act": 2,
+    "Securitization and Reconstruction of Financial Assets and Enforcement of Security Interests Act, 2002": 1,
+    "SARFAESI Act": 3,
+    "Insolvency and Bankruptcy Code, 2016": 1,
+    "Specific Relief Act, 1963": 7,
+    "Indian Contract Act, 1872": 4,
+    "Transfer of Property Act, 1882": 1,
+    "SARFAESI ACT, 2002": 1,
+    "SARFAESI Act, 2002": 43,
+    "Securitisation Act": 2,
+    "Rules, 2002": 3,
+    "Andhra Pradesh Land Grabbing (Prohibition) Act, 1982": 1,
+    "Code of Civil procedure": 3
+  }
+}

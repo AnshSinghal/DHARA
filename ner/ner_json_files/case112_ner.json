@@ -1,0 +1,655 @@
+{
+  "entities": [
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 16
+    },
+    {
+      "text": "Rachna Overseas",
+      "label": "PETITIONER",
+      "start_char": 20,
+      "end_char": 35
+    },
+    {
+      "text": "Printech System",
+      "label": "RESPONDENT",
+      "start_char": 42,
+      "end_char": 57
+    },
+    {
+      "text": "Amit Bansal",
+      "label": "LAWYER",
+      "start_char": 86,
+      "end_char": 97
+    },
+    {
+      "text": "Amit Bansal",
+      "label": "LAWYER",
+      "start_char": 105,
+      "end_char": 116
+    },
+    {
+      "text": "High Court Of Delhi At New Delhi",
+      "label": "COURT",
+      "start_char": 156,
+      "end_char": 188
+    },
+    {
+      "text": "Rachna Overseas",
+      "label": "PETITIONER",
+      "start_char": 405,
+      "end_char": 420
+    },
+    {
+      "text": "Vijay Dutt Gahtori",
+      "label": "LAWYER",
+      "start_char": 538,
+      "end_char": 556
+    },
+    {
+      "text": "Ashutosh Sharma",
+      "label": "LAWYER",
+      "start_char": 630,
+      "end_char": 645
+    },
+    {
+      "text": "Printech System",
+      "label": "RESPONDENT",
+      "start_char": 754,
+      "end_char": 769
+    },
+    {
+      "text": "Ravinder Singh",
+      "label": "LAWYER",
+      "start_char": 887,
+      "end_char": 901
+    },
+    {
+      "text": "Raveesha\n                                                                 Gupta",
+      "label": "LAWYER",
+      "start_char": 909,
+      "end_char": 988
+    },
+    {
+      "text": "Amit Bansal",
+      "label": "JUDGE",
+      "start_char": 1092,
+      "end_char": 1103
+    },
+    {
+      "text": "Amit Bansal",
+      "label": "JUDGE",
+      "start_char": 1131,
+      "end_char": 1142
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 1185,
+      "end_char": 1196
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 1204,
+      "end_char": 1225
+    },
+    {
+      "text": "11th October, 2021",
+      "label": "DATE",
+      "start_char": 1250,
+      "end_char": 1268
+    },
+    {
+      "text": "Commercial Court South East",
+      "label": "COURT",
+      "start_char": 1283,
+      "end_char": 1310
+    },
+    {
+      "text": "Saket Court, Delhi",
+      "label": "COURT",
+      "start_char": 1312,
+      "end_char": 1330
+    },
+    {
+      "text": "No. 219/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 1344,
+      "end_char": 1356
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 1446,
+      "end_char": 1457
+    },
+    {
+      "text": "Code of Civil Procedure, (CPC), 1908",
+      "label": "STATUTE",
+      "start_char": 1465,
+      "end_char": 1501
+    },
+    {
+      "text": "8th August 2018",
+      "label": "DATE",
+      "start_char": 2161,
+      "end_char": 2176
+    },
+    {
+      "text": "1st September, 2018",
+      "label": "DATE",
+      "start_char": 2181,
+      "end_char": 2200
+    },
+    {
+      "text": "5th August 2019",
+      "label": "DATE",
+      "start_char": 2438,
+      "end_char": 2453
+    },
+    {
+      "text": "11 th September, 2019",
+      "label": "DATE",
+      "start_char": 2672,
+      "end_char": 2693
+    },
+    {
+      "text": "23 rd November, 2019",
+      "label": "DATE",
+      "start_char": 2741,
+      "end_char": 2761
+    },
+    {
+      "text": "Order VIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 2991,
+      "end_char": 3008
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 3016,
+      "end_char": 3019
+    },
+    {
+      "text": "23rd November, 2019",
+      "label": "DATE",
+      "start_char": 3134,
+      "end_char": 3153
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 3284,
+      "end_char": 3311
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 3520,
+      "end_char": 3531
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 3539,
+      "end_char": 3542
+    },
+    {
+      "text": "24th September, 2021",
+      "label": "DATE",
+      "start_char": 3546,
+      "end_char": 3566
+    },
+    {
+      "text": "Order VIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 4025,
+      "end_char": 4042
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 4050,
+      "end_char": 4053
+    },
+    {
+      "text": "23 rd November, 2019",
+      "label": "DATE",
+      "start_char": 4186,
+      "end_char": 4206
+    },
+    {
+      "text": "Ok Play India Pvt. Ltd. vs. A P Distributors and Anr. 2021",
+      "label": "PRECEDENT",
+      "start_char": 4290,
+      "end_char": 4348
+    },
+    {
+      "text": "Order VIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 4529,
+      "end_char": 4546
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 4554,
+      "end_char": 4557
+    },
+    {
+      "text": "Order VIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 4713,
+      "end_char": 4730
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 4738,
+      "end_char": 4741
+    },
+    {
+      "text": "Ganesh Trading Co. vs. Moji Ram, (1978) 2",
+      "label": "PRECEDENT",
+      "start_char": 5040,
+      "end_char": 5081
+    },
+    {
+      "text": "Jai Jai Ram Manohar Lal vs. National Building Material Supply, Gurgaon (1969) 1 SCC 869",
+      "label": "PRECEDENT",
+      "start_char": 5095,
+      "end_char": 5182
+    },
+    {
+      "text": "Sangram Singh vs. Election Tribunal, Kotah, Bhhhurey Lel Baya, (1955) 2 SCR 1",
+      "label": "PRECEDENT",
+      "start_char": 5190,
+      "end_char": 5267
+    },
+    {
+      "text": "Red Bull AG vs. Pepsico India Holdings Pvt Ltd & Anr.",
+      "label": "PRECEDENT",
+      "start_char": 5279,
+      "end_char": 5332
+    },
+    {
+      "text": "2019 SCC OnLine Del 9901",
+      "label": "PRECEDENT",
+      "start_char": 5333,
+      "end_char": 5357
+    },
+    {
+      "text": "11th September, 2019",
+      "label": "DATE",
+      "start_char": 5469,
+      "end_char": 5489
+    },
+    {
+      "text": "23rd September, 2019",
+      "label": "DATE",
+      "start_char": 5553,
+      "end_char": 5573
+    },
+    {
+      "text": "23rd November, 2019",
+      "label": "DATE",
+      "start_char": 5741,
+      "end_char": 5760
+    },
+    {
+      "text": "12th January, 2020",
+      "label": "DATE",
+      "start_char": 5955,
+      "end_char": 5973
+    },
+    {
+      "text": "Order VIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 6597,
+      "end_char": 6614
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 6622,
+      "end_char": 6625
+    },
+    {
+      "text": "Order VIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 6704,
+      "end_char": 6721
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 6729,
+      "end_char": 6732
+    },
+    {
+      "text": "23th November, 2019",
+      "label": "DATE",
+      "start_char": 7223,
+      "end_char": 7242
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 8069,
+      "end_char": 8082
+    },
+    {
+      "text": "Ambalal Sarabhai Enterprises Ltd.",
+      "label": "ORG",
+      "start_char": 8087,
+      "end_char": 8120
+    },
+    {
+      "text": "K.S. Infraspace LLP",
+      "label": "RESPONDENT",
+      "start_char": 8125,
+      "end_char": 8144
+    },
+    {
+      "text": "(2020) 15 SCC 585",
+      "label": "CASE_NUMBER",
+      "start_char": 8146,
+      "end_char": 8163
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 8204,
+      "end_char": 8231
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 8398,
+      "end_char": 8411
+    },
+    {
+      "text": "SCG Contracts (India) Pvt. Ltd. vs. K.S. Chamankar Infrastructure Pvt. Ltd. and Ors",
+      "label": "PRECEDENT",
+      "start_char": 8415,
+      "end_char": 8498
+    },
+    {
+      "text": "Order 8 Rule 10",
+      "label": "PROVISION",
+      "start_char": 9380,
+      "end_char": 9395
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 9790,
+      "end_char": 9817
+    },
+    {
+      "text": "Ganesh Trading Co.",
+      "label": "PRECEDENT",
+      "start_char": 9884,
+      "end_char": 9902
+    },
+    {
+      "text": "Jai Jai Ram Manohar Lal",
+      "label": "PRECEDENT",
+      "start_char": 9912,
+      "end_char": 9935
+    },
+    {
+      "text": "Sangram Singh",
+      "label": "PRECEDENT",
+      "start_char": 9948,
+      "end_char": 9961
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 10063,
+      "end_char": 10084
+    },
+    {
+      "text": "Red Bull",
+      "label": "PRECEDENT",
+      "start_char": 10113,
+      "end_char": 10121
+    },
+    {
+      "text": "Red Bull",
+      "label": "PRECEDENT",
+      "start_char": 10351,
+      "end_char": 10359
+    },
+    {
+      "text": "28 th August, 2019",
+      "label": "DATE",
+      "start_char": 11742,
+      "end_char": 11760
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 12352,
+      "end_char": 12363
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 12364,
+      "end_char": 12370
+    },
+    {
+      "text": "Order VIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 12522,
+      "end_char": 12539
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 12540,
+      "end_char": 12546
+    },
+    {
+      "text": "OK Play",
+      "label": "PRECEDENT",
+      "start_char": 12694,
+      "end_char": 12701
+    },
+    {
+      "text": "25th October, 2021",
+      "label": "DATE",
+      "start_char": 12754,
+      "end_char": 12772
+    },
+    {
+      "text": "Intiyaz Sheikh vs. Puma Se 2021",
+      "label": "PRECEDENT",
+      "start_char": 12846,
+      "end_char": 12877
+    },
+    {
+      "text": "SCC OnLine Del 4679",
+      "label": "CASE_NUMBER",
+      "start_char": 12878,
+      "end_char": 12897
+    },
+    {
+      "text": "Order VIII Rule 1",
+      "label": "PROVISION",
+      "start_char": 13047,
+      "end_char": 13064
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 13072,
+      "end_char": 13075
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 13278,
+      "end_char": 13289
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 13297,
+      "end_char": 13318
+    },
+    {
+      "text": "AMIT BANSAL",
+      "label": "JUDGE",
+      "start_char": 13333,
+      "end_char": 13344
+    },
+    {
+      "text": "DECEMBER 9, 2021",
+      "label": "DATE",
+      "start_char": 13349,
+      "end_char": 13365
+    },
+    {
+      "text": "Sakshi",
+      "label": "JUDGE",
+      "start_char": 13366,
+      "end_char": 13372
+    }
+  ],
+  "precedent_clusters": {
+    "SCG Contracts (India) Pvt. Ltd. vs. K.S. Chamankar Infrastructure Pvt. Ltd. and Ors": [
+      "Ok Play India Pvt. Ltd. vs. A P Distributors and Anr. 2021",
+      "Ganesh Trading Co. vs. Moji Ram, (1978) 2",
+      "Red Bull AG vs. Pepsico India Holdings Pvt Ltd & Anr.",
+      "SCG Contracts (India) Pvt. Ltd. vs. K.S. Chamankar Infrastructure Pvt. Ltd. and Ors",
+      "Intiyaz Sheikh vs. Puma Se 2021",
+      "Ganesh Trading Co.",
+      "Red Bull",
+      "Red Bull",
+      "OK Play"
+    ],
+    "Jai Jai Ram Manohar Lal vs. National Building Material Supply, Gurgaon (1969) 1 SCC 869": [
+      "Jai Jai Ram Manohar Lal vs. National Building Material Supply, Gurgaon (1969) 1 SCC 869",
+      "Jai Jai Ram Manohar Lal"
+    ],
+    "Sangram Singh vs. Election Tribunal, Kotah, Bhhhurey Lel Baya, (1955) 2 SCR 1": [
+      "Sangram Singh vs. Election Tribunal, Kotah, Bhhhurey Lel Baya, (1955) 2 SCR 1",
+      "Sangram Singh"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Section 151",
+      "Code of Civil Procedure, (CPC), 1908",
+      "Section 151",
+      "Code of Civil Procedure, (CPC), 1908"
+    ],
+    [
+      "Order VIII Rule 1",
+      "CPC",
+      "Order VIII Rule 1",
+      "CPC"
+    ],
+    [
+      "Section 151",
+      "CPC",
+      "Section 151",
+      "CPC"
+    ],
+    [
+      "Order VIII Rule 1",
+      "CPC",
+      "Order VIII Rule 1",
+      "CPC"
+    ],
+    [
+      "Order VIII Rule 1",
+      "CPC",
+      "Order VIII Rule 1",
+      "CPC"
+    ],
+    [
+      "Order VIII Rule 1",
+      "CPC",
+      "Order VIII Rule 1",
+      "CPC"
+    ],
+    [
+      "Order VIII Rule 1",
+      "CPC",
+      "Order VIII Rule 1",
+      "CPC"
+    ],
+    [
+      "Order VIII Rule 1",
+      "CPC",
+      "Order VIII Rule 1",
+      "CPC"
+    ],
+    [
+      "Section 151",
+      "C.P.C.",
+      "Section 151",
+      "C.P.C."
+    ],
+    [
+      "Order VIII Rule 1",
+      "C.P.C.",
+      "Order VIII Rule 1",
+      "C.P.C."
+    ],
+    [
+      "Order VIII Rule 1",
+      "CPC",
+      "Order VIII Rule 1",
+      "CPC"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Order 8 Rule 10",
+      "Commercial Courts Act, 2015",
+      "Order 8 Rule 10",
+      "Commercial Courts Act, 2015"
+    ]
+  ],
+  "precedent_counts": {
+    "SCG Contracts (India) Pvt. Ltd. vs. K.S. Chamankar Infrastructure Pvt. Ltd. and Ors": 9,
+    "Jai Jai Ram Manohar Lal vs. National Building Material Supply, Gurgaon (1969) 1 SCC 869": 2,
+    "Sangram Singh vs. Election Tribunal, Kotah, Bhhhurey Lel Baya, (1955) 2 SCR 1": 2
+  },
+  "provision_counts": {
+    "Article 227 of Constitution of India": 2,
+    "Section 151 of Code of Civil Procedure, (CPC), 1908": 1,
+    "Order VIII Rule 1 of CPC": 7,
+    "Section 151 of CPC": 1,
+    "Section 151 of C.P.C.": 1,
+    "Order VIII Rule 1 of C.P.C.": 1,
+    "Order 8 Rule 10 of Commercial Courts Act, 2015": 1
+  },
+  "statute_counts": {
+    "Constitution of India": 2,
+    "Code of Civil Procedure, (CPC), 1908": 1,
+    "CPC": 8,
+    "C.P.C.": 2,
+    "Commercial Courts Act, 2015": 1
+  }
+}

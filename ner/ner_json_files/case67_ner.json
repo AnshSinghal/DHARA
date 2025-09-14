@@ -1,0 +1,7398 @@
+{
+  "entities": [
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 16
+    },
+    {
+      "text": "Gujarat Jhm Hotels Ltd",
+      "label": "PETITIONER",
+      "start_char": 17,
+      "end_char": 39
+    },
+    {
+      "text": "Rajasthali Resorts And Studios Limited",
+      "label": "RESPONDENT",
+      "start_char": 43,
+      "end_char": 81
+    },
+    {
+      "text": "Yashwant Varma",
+      "label": "LAWYER",
+      "start_char": 110,
+      "end_char": 124
+    },
+    {
+      "text": "Yashwant Varma",
+      "label": "JUDGE",
+      "start_char": 132,
+      "end_char": 146
+    },
+    {
+      "text": "High Court Of Delhi At New Delhi",
+      "label": "COURT",
+      "start_char": 273,
+      "end_char": 305
+    },
+    {
+      "text": "Gujarat Jhm Hotels Ltd",
+      "label": "PETITIONER",
+      "start_char": 670,
+      "end_char": 692
+    },
+    {
+      "text": "Tejas Karia",
+      "label": "LAWYER",
+      "start_char": 781,
+      "end_char": 792
+    },
+    {
+      "text": "Ananya\n                                                      Aggarwal",
+      "label": "LAWYER",
+      "start_char": 798,
+      "end_char": 867
+    },
+    {
+      "text": "Ujval Mohan",
+      "label": "LAWYER",
+      "start_char": 873,
+      "end_char": 884
+    },
+    {
+      "text": "Rajasthali Resorts And Studios Limited",
+      "label": "RESPONDENT",
+      "start_char": 1038,
+      "end_char": 1076
+    },
+    {
+      "text": "Kuriakose Varghese",
+      "label": "LAWYER",
+      "start_char": 1221,
+      "end_char": 1239
+    },
+    {
+      "text": "Aishwarya Hariharan",
+      "label": "LAWYER",
+      "start_char": 1299,
+      "end_char": 1318
+    },
+    {
+      "text": "01 July 2016",
+      "label": "DATE",
+      "start_char": 1909,
+      "end_char": 1921
+    },
+    {
+      "text": "26 May 2017",
+      "label": "DATE",
+      "start_char": 1927,
+      "end_char": 1938
+    },
+    {
+      "text": "10 March 2010",
+      "label": "DATE",
+      "start_char": 2458,
+      "end_char": 2471
+    },
+    {
+      "text": "26 May 2017",
+      "label": "DATE",
+      "start_char": 2704,
+      "end_char": 2715
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 2980,
+      "end_char": 2989
+    },
+    {
+      "text": "09 July 2018",
+      "label": "DATE",
+      "start_char": 3060,
+      "end_char": 3072
+    },
+    {
+      "text": "18.04.2019",
+      "label": "DATE",
+      "start_char": 3210,
+      "end_char": 3220
+    },
+    {
+      "text": "Girish Chandra Agarwal",
+      "label": "OTHER_PERSON",
+      "start_char": 3239,
+      "end_char": 3261
+    },
+    {
+      "text": "18.04.2019",
+      "label": "DATE",
+      "start_char": 3332,
+      "end_char": 3342
+    },
+    {
+      "text": "Girish Chandra Agarwal",
+      "label": "OTHER_PERSON",
+      "start_char": 3371,
+      "end_char": 3393
+    },
+    {
+      "text": "28.11.2018",
+      "label": "DATE",
+      "start_char": 3546,
+      "end_char": 3556
+    },
+    {
+      "text": "23.1.2019",
+      "label": "DATE",
+      "start_char": 3884,
+      "end_char": 3893
+    },
+    {
+      "text": "Neutral Citation Number: 2023/DHC/000323 FAO(COMM) No.18/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 3904,
+      "end_char": 3965
+    },
+    {
+      "text": "01.03.2019",
+      "label": "DATE",
+      "start_char": 4008,
+      "end_char": 4018
+    },
+    {
+      "text": "23.01.2019",
+      "label": "DATE",
+      "start_char": 4234,
+      "end_char": 4244
+    },
+    {
+      "text": "24.01.2019",
+      "label": "DATE",
+      "start_char": 4265,
+      "end_char": 4275
+    },
+    {
+      "text": "Girish Chandra Agarwal",
+      "label": "OTHER_PERSON",
+      "start_char": 4293,
+      "end_char": 4315
+    },
+    {
+      "text": "Sudhir Nandrajog",
+      "label": "OTHER_PERSON",
+      "start_char": 4458,
+      "end_char": 4474
+    },
+    {
+      "text": "06.07.2019",
+      "label": "DATE",
+      "start_char": 4636,
+      "end_char": 4646
+    },
+    {
+      "text": "08.04.2019",
+      "label": "DATE",
+      "start_char": 4690,
+      "end_char": 4700
+    },
+    {
+      "text": "Nandrajog",
+      "label": "OTHER_PERSON",
+      "start_char": 4722,
+      "end_char": 4731
+    },
+    {
+      "text": "08.07.2019",
+      "label": "DATE",
+      "start_char": 4783,
+      "end_char": 4793
+    },
+    {
+      "text": "Nandrajog",
+      "label": "OTHER_PERSON",
+      "start_char": 4851,
+      "end_char": 4860
+    },
+    {
+      "text": "Nandrajog",
+      "label": "OTHER_PERSON",
+      "start_char": 5267,
+      "end_char": 5276
+    },
+    {
+      "text": "Girish Chandra Agarwal‟s",
+      "label": "OTHER_PERSON",
+      "start_char": 5769,
+      "end_char": 5793
+    },
+    {
+      "text": "Nandrajog",
+      "label": "OTHER_PERSON",
+      "start_char": 5936,
+      "end_char": 5945
+    },
+    {
+      "text": "Neutral Citation Number: 2023/DHC/000323",
+      "label": "CASE_NUMBER",
+      "start_char": 6052,
+      "end_char": 6092
+    },
+    {
+      "text": "28.11.2018",
+      "label": "DATE",
+      "start_char": 6093,
+      "end_char": 6103
+    },
+    {
+      "text": "28.05.2018",
+      "label": "DATE",
+      "start_char": 6160,
+      "end_char": 6170
+    },
+    {
+      "text": "Nandrajog",
+      "label": "OTHER_PERSON",
+      "start_char": 6209,
+      "end_char": 6218
+    },
+    {
+      "text": "Girish Chandra Agarwal",
+      "label": "OTHER_PERSON",
+      "start_char": 6391,
+      "end_char": 6413
+    },
+    {
+      "text": "Nandrajog",
+      "label": "OTHER_PERSON",
+      "start_char": 6462,
+      "end_char": 6471
+    },
+    {
+      "text": "28.05.2018",
+      "label": "DATE",
+      "start_char": 6575,
+      "end_char": 6585
+    },
+    {
+      "text": "Girish Chandra Agarwal",
+      "label": "OTHER_PERSON",
+      "start_char": 7302,
+      "end_char": 7324
+    },
+    {
+      "text": "Nandrajog",
+      "label": "OTHER_PERSON",
+      "start_char": 7505,
+      "end_char": 7514
+    },
+    {
+      "text": "ICICI Bank",
+      "label": "ORG",
+      "start_char": 7693,
+      "end_char": 7703
+    },
+    {
+      "text": "Jaipur",
+      "label": "GPE",
+      "start_char": 7799,
+      "end_char": 7805
+    },
+    {
+      "text": "Rajasthan",
+      "label": "GPE",
+      "start_char": 7807,
+      "end_char": 7816
+    },
+    {
+      "text": "P.No.50/2018",
+      "label": "DATE",
+      "start_char": 7919,
+      "end_char": 7931
+    },
+    {
+      "text": "District Court at Jaipur",
+      "label": "COURT",
+      "start_char": 7939,
+      "end_char": 7963
+    },
+    {
+      "text": "Nandrajog",
+      "label": "OTHER_PERSON",
+      "start_char": 7991,
+      "end_char": 8000
+    },
+    {
+      "text": "Ila Kapoor",
+      "label": "OTHER_PERSON",
+      "start_char": 8084,
+      "end_char": 8094
+    },
+    {
+      "text": "ICICI Bank",
+      "label": "ORG",
+      "start_char": 8520,
+      "end_char": 8530
+    },
+    {
+      "text": "Girish Chandra Agarwal",
+      "label": "OTHER_PERSON",
+      "start_char": 8792,
+      "end_char": 8814
+    },
+    {
+      "text": "Chaksu",
+      "label": "GPE",
+      "start_char": 8913,
+      "end_char": 8919
+    },
+    {
+      "text": "Rajasthan",
+      "label": "GPE",
+      "start_char": 8936,
+      "end_char": 8945
+    },
+    {
+      "text": "28.05.2018",
+      "label": "DATE",
+      "start_char": 9009,
+      "end_char": 9019
+    },
+    {
+      "text": "Rajasthali Resorts & Studios Ltd.",
+      "label": "ORG",
+      "start_char": 9142,
+      "end_char": 9175
+    },
+    {
+      "text": "Rajasthali Resort & Spa, Jaipur",
+      "label": "ORG",
+      "start_char": 9198,
+      "end_char": 9229
+    },
+    {
+      "text": "Jaipur",
+      "label": "GPE",
+      "start_char": 9280,
+      "end_char": 9286
+    },
+    {
+      "text": "Rajasthan",
+      "label": "GPE",
+      "start_char": 9288,
+      "end_char": 9297
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 9299,
+      "end_char": 9304
+    },
+    {
+      "text": "28.11.2018",
+      "label": "DATE",
+      "start_char": 9393,
+      "end_char": 9403
+    },
+    {
+      "text": "O.M.P. (COMM) 389/2017",
+      "label": "CASE_NUMBER",
+      "start_char": 9415,
+      "end_char": 9437
+    },
+    {
+      "text": "18.10.2019",
+      "label": "DATE",
+      "start_char": 9546,
+      "end_char": 9556
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 9702,
+      "end_char": 9711
+    },
+    {
+      "text": "28 November 2018",
+      "label": "DATE",
+      "start_char": 9787,
+      "end_char": 9803
+    },
+    {
+      "text": "Section 34 and Section 9",
+      "label": "PROVISION",
+      "start_char": 10134,
+      "end_char": 10158
+    },
+    {
+      "text": "Neutral Citation Number: 2023/DHC/000323 Court",
+      "label": "CASE_NUMBER",
+      "start_char": 10181,
+      "end_char": 10227
+    },
+    {
+      "text": "Commercial Court at Jaipur, Rajasthan",
+      "label": "COURT",
+      "start_char": 10259,
+      "end_char": 10296
+    },
+    {
+      "text": "P. No. 50/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 10355,
+      "end_char": 10369
+    },
+    {
+      "text": "02 September 2022",
+      "label": "DATE",
+      "start_char": 10378,
+      "end_char": 10395
+    },
+    {
+      "text": "Commercial Court at Jaipur",
+      "label": "COURT",
+      "start_char": 10461,
+      "end_char": 10487
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 10664,
+      "end_char": 10693
+    },
+    {
+      "text": "Section 38",
+      "label": "PROVISION",
+      "start_char": 10698,
+      "end_char": 10708
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 10716,
+      "end_char": 10745
+    },
+    {
+      "text": "Section 2(1) (e)",
+      "label": "PROVISION",
+      "start_char": 11122,
+      "end_char": 11138
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 11146,
+      "end_char": 11184
+    },
+    {
+      "text": "Rajasthan High Court",
+      "label": "COURT",
+      "start_char": 11283,
+      "end_char": 11303
+    },
+    {
+      "text": "Ess Kay Fincorp Ltd.",
+      "label": "ORG",
+      "start_char": 11322,
+      "end_char": 11342
+    },
+    {
+      "text": "Suresh Choudhary",
+      "label": "OTHER_PERSON",
+      "start_char": 11346,
+      "end_char": 11362
+    },
+    {
+      "text": "AIR 2020 Rajasthan 56",
+      "label": "CASE_NUMBER",
+      "start_char": 11364,
+      "end_char": 11385
+    },
+    {
+      "text": "Anil Gupta",
+      "label": "OTHER_PERSON",
+      "start_char": 11620,
+      "end_char": 11630
+    },
+    {
+      "text": "High Court of Rajasthan",
+      "label": "COURT",
+      "start_char": 11680,
+      "end_char": 11703
+    },
+    {
+      "text": "12.07.2022",
+      "label": "DATE",
+      "start_char": 12136,
+      "end_char": 12146
+    },
+    {
+      "text": "India Infoline Finance Limited",
+      "label": "ORG",
+      "start_char": 12171,
+      "end_char": 12201
+    },
+    {
+      "text": "Siddharth CT Scan and Imaging Centre",
+      "label": "RESPONDENT",
+      "start_char": 12206,
+      "end_char": 12242
+    },
+    {
+      "text": "2004/2021 CIS NO. 2116/2021",
+      "label": "PRECEDENT",
+      "start_char": 12275,
+      "end_char": 12302
+    },
+    {
+      "text": "Siddharth CT Scan and Imaging Centre, Etc",
+      "label": "ORG",
+      "start_char": 12372,
+      "end_char": 12413
+    },
+    {
+      "text": "India Infoline Finance Limited",
+      "label": "RESPONDENT",
+      "start_char": 12422,
+      "end_char": 12452
+    },
+    {
+      "text": "CMNC NO. 226/2022",
+      "label": "CASE_NUMBER",
+      "start_char": 12459,
+      "end_char": 12476
+    },
+    {
+      "text": "CIS NO.- 230/2022",
+      "label": "CASE_NUMBER",
+      "start_char": 12478,
+      "end_char": 12495
+    },
+    {
+      "text": "High Court of Rajasthan",
+      "label": "COURT",
+      "start_char": 12536,
+      "end_char": 12559
+    },
+    {
+      "text": "12.07.2022",
+      "label": "DATE",
+      "start_char": 12644,
+      "end_char": 12654
+    },
+    {
+      "text": "High Court of Rajasthan",
+      "label": "COURT",
+      "start_char": 12734,
+      "end_char": 12757
+    },
+    {
+      "text": "India Infoline Finance Limited v. Siddharth CT Scan2",
+      "label": "PRECEDENT",
+      "start_char": 13372,
+      "end_char": 13424
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 13487,
+      "end_char": 13500
+    },
+    {
+      "text": "State of W.B. v. Associated Contractors3",
+      "label": "PRECEDENT",
+      "start_char": 13504,
+      "end_char": 13544
+    },
+    {
+      "text": "Jaipur Commercial Court",
+      "label": "COURT",
+      "start_char": 13697,
+      "end_char": 13720
+    },
+    {
+      "text": "India Infoline",
+      "label": "ORG",
+      "start_char": 13794,
+      "end_char": 13808
+    },
+    {
+      "text": "Rajasthan High Court",
+      "label": "COURT",
+      "start_char": 13820,
+      "end_char": 13840
+    },
+    {
+      "text": "Execution Application No. 2004 of 2022 (2015) 1 SCC 32",
+      "label": "CASE_NUMBER",
+      "start_char": 14273,
+      "end_char": 14327
+    },
+    {
+      "text": "Neutral Citation Number: 2023/DHC/000323",
+      "label": "CASE_NUMBER",
+      "start_char": 14328,
+      "end_char": 14368
+    },
+    {
+      "text": "Article XXIII",
+      "label": "PROVISION",
+      "start_char": 14716,
+      "end_char": 14729
+    },
+    {
+      "text": "Hotel Management Agreement",
+      "label": "STATUTE",
+      "start_char": 14737,
+      "end_char": 14763
+    },
+    {
+      "text": "Article XXIII",
+      "label": "PROVISION",
+      "start_char": 14765,
+      "end_char": 14778
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 15232,
+      "end_char": 15270
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 16146,
+      "end_char": 16155
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 16157,
+      "end_char": 16162
+    },
+    {
+      "text": "Karia",
+      "label": "LAWYER",
+      "start_char": 16301,
+      "end_char": 16306
+    },
+    {
+      "text": "Jaipur Commercial Court",
+      "label": "COURT",
+      "start_char": 16409,
+      "end_char": 16432
+    },
+    {
+      "text": "Neutral Citation Number: 2023/DHC/000323",
+      "label": "CASE_NUMBER",
+      "start_char": 16544,
+      "end_char": 16584
+    },
+    {
+      "text": "Karia",
+      "label": "LAWYER",
+      "start_char": 16642,
+      "end_char": 16647
+    },
+    {
+      "text": "Rajasthan High Court",
+      "label": "COURT",
+      "start_char": 16706,
+      "end_char": 16726
+    },
+    {
+      "text": "Jaipur Commercial Court",
+      "label": "COURT",
+      "start_char": 16796,
+      "end_char": 16819
+    },
+    {
+      "text": "India Infoline",
+      "label": "ORG",
+      "start_char": 16823,
+      "end_char": 16837
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 17185,
+      "end_char": 17198
+    },
+    {
+      "text": "Associated Contractors and Sundaram Finance Ltd. vs. Abdul Samad4",
+      "label": "PRECEDENT",
+      "start_char": 17202,
+      "end_char": 17267
+    },
+    {
+      "text": "Nariman",
+      "label": "JUDGE",
+      "start_char": 17387,
+      "end_char": 17394
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 17541,
+      "end_char": 17551
+    },
+    {
+      "text": "Kumbha Mawjiv",
+      "label": "JUDGE",
+      "start_char": 17848,
+      "end_char": 17861
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 17875,
+      "end_char": 17880
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 17921,
+      "end_char": 17934
+    },
+    {
+      "text": "Section 31(4)",
+      "label": "PROVISION",
+      "start_char": 17970,
+      "end_char": 17983
+    },
+    {
+      "text": "1940 Act",
+      "label": "STATUTE",
+      "start_char": 17991,
+      "end_char": 17999
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 18581,
+      "end_char": 18591
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 18835,
+      "end_char": 18848
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 19243,
+      "end_char": 19256
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 19260,
+      "end_char": 19276
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 19748,
+      "end_char": 19758
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 19775,
+      "end_char": 19785
+    },
+    {
+      "text": "West Bengal",
+      "label": "GPE",
+      "start_char": 19891,
+      "end_char": 19902
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 19936,
+      "end_char": 19955
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 19990,
+      "end_char": 19999
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 20025,
+      "end_char": 20035
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 20165,
+      "end_char": 20175
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 20186,
+      "end_char": 20196
+    },
+    {
+      "text": "District Judge at Jalpaiguri",
+      "label": "COURT",
+      "start_char": 20234,
+      "end_char": 20262
+    },
+    {
+      "text": "West Bengal",
+      "label": "GPE",
+      "start_char": 20266,
+      "end_char": 20277
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 20381,
+      "end_char": 20400
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 20505,
+      "end_char": 20514
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 20543,
+      "end_char": 20562
+    },
+    {
+      "text": "District Judge at Jalpaiguri",
+      "label": "COURT",
+      "start_char": 20568,
+      "end_char": 20596
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 20641,
+      "end_char": 20651
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 20719,
+      "end_char": 20729
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 20803,
+      "end_char": 20816
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 20895,
+      "end_char": 20905
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 21208,
+      "end_char": 21218
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 21293,
+      "end_char": 21303
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 21421,
+      "end_char": 21427
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 21435,
+      "end_char": 21456
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 21584,
+      "end_char": 21594
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 21778,
+      "end_char": 21784
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 21815,
+      "end_char": 21825
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 21899,
+      "end_char": 21905
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 21936,
+      "end_char": 21942
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 21950,
+      "end_char": 21971
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 22092,
+      "end_char": 22101
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 22281,
+      "end_char": 22290
+    },
+    {
+      "text": "Neutral Citation Number: 2023/DHC/000323",
+      "label": "CASE_NUMBER",
+      "start_char": 22380,
+      "end_char": 22420
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 22430,
+      "end_char": 22440
+    },
+    {
+      "text": "P. Anand Gajapathi Raju v. P.V.G. Raju [(2000) 4",
+      "label": "PRECEDENT",
+      "start_char": 22457,
+      "end_char": 22505
+    },
+    {
+      "text": "SCC 539],",
+      "label": "CASE_NUMBER",
+      "start_char": 22506,
+      "end_char": 22515
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 22566,
+      "end_char": 22575
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 22604,
+      "end_char": 22614
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 22781,
+      "end_char": 22790
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 22908,
+      "end_char": 22917
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 23325,
+      "end_char": 23340
+    },
+    {
+      "text": "1940 Act",
+      "label": "STATUTE",
+      "start_char": 23430,
+      "end_char": 23438
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 23656,
+      "end_char": 23671
+    },
+    {
+      "text": "P. Kasilingam v. P.S.G. College of Technology [1995 Supp (2) SCC 348] , SCC",
+      "label": "PRECEDENT",
+      "start_char": 24012,
+      "end_char": 24087
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 24173,
+      "end_char": 24186
+    },
+    {
+      "text": "Section 11(10):",
+      "label": "PROVISION",
+      "start_char": 24225,
+      "end_char": 24240
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 24579,
+      "end_char": 24589
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 24645,
+      "end_char": 24658
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 24763,
+      "end_char": 24773
+    },
+    {
+      "text": "Sub-section (12) of Section 11",
+      "label": "PROVISION",
+      "start_char": 24775,
+      "end_char": 24805
+    },
+    {
+      "text": "clause (e) of sub-section (1) of Section 2",
+      "label": "PROVISION",
+      "start_char": 25440,
+      "end_char": 25482
+    },
+    {
+      "text": "Section 11(12)(b)",
+      "label": "PROVISION",
+      "start_char": 25630,
+      "end_char": 25647
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 25833,
+      "end_char": 25848
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 25975,
+      "end_char": 25990
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 26104,
+      "end_char": 26114
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 26205,
+      "end_char": 26218
+    },
+    {
+      "text": "Section 8 and 11",
+      "label": "PROVISION",
+      "start_char": 26404,
+      "end_char": 26420
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 26458,
+      "end_char": 26467
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 26749,
+      "end_char": 26759
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 26831,
+      "end_char": 26837
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 26912,
+      "end_char": 26921
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 27010,
+      "end_char": 27023
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 27059,
+      "end_char": 27074
+    },
+    {
+      "text": "State of M.P. v. Saith and Skelton (P) Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 27132,
+      "end_char": 27175
+    },
+    {
+      "text": "(1972) 1 SCC 702]",
+      "label": "PRECEDENT",
+      "start_char": 27177,
+      "end_char": 27194
+    },
+    {
+      "text": "Guru Nanak Foundation v. Rattan Singh & Sons",
+      "label": "PRECEDENT",
+      "start_char": 27199,
+      "end_char": 27243
+    },
+    {
+      "text": "[(1981) 4 SCC 634]",
+      "label": "PRECEDENT",
+      "start_char": 27244,
+      "end_char": 27262
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 27268,
+      "end_char": 27281
+    },
+    {
+      "text": "Neutral Citation Number: 2023/DHC/000323",
+      "label": "CASE_NUMBER",
+      "start_char": 27301,
+      "end_char": 27341
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 27383,
+      "end_char": 27396
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 27412,
+      "end_char": 27425
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 27480,
+      "end_char": 27493
+    },
+    {
+      "text": "Section 2(c)",
+      "label": "PROVISION",
+      "start_char": 27530,
+      "end_char": 27542
+    },
+    {
+      "text": "National Aluminium Co. Ltd. v. Pressteel & Fabrications (P) Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 27598,
+      "end_char": 27662
+    },
+    {
+      "text": "(2004) 1 SCC 540]",
+      "label": "PRECEDENT",
+      "start_char": 27664,
+      "end_char": 27681
+    },
+    {
+      "text": "Bharat Coking Coal Ltd. v. Annapurna Construction [(2008) 6 SCC 732]",
+      "label": "PRECEDENT",
+      "start_char": 27683,
+      "end_char": 27751
+    },
+    {
+      "text": "Garhwal Mandal Vikas Nigam Ltd. v. Krishna Travel Agency [(2008) 6 SCC 741]",
+      "label": "PRECEDENT",
+      "start_char": 27756,
+      "end_char": 27831
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 27930,
+      "end_char": 27943
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 28020,
+      "end_char": 28033
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 28076,
+      "end_char": 28091
+    },
+    {
+      "text": "Garhwal case [(2008) 6",
+      "label": "PRECEDENT",
+      "start_char": 28151,
+      "end_char": 28173
+    },
+    {
+      "text": "Bharat Coking Coal [(2008) 6 SCC 732]",
+      "label": "PRECEDENT",
+      "start_char": 28212,
+      "end_char": 28249
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 28309,
+      "end_char": 28322
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 28402,
+      "end_char": 28415
+    },
+    {
+      "text": "Arbitration Act, 1940",
+      "label": "STATUTE",
+      "start_char": 28463,
+      "end_char": 28484
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 28536,
+      "end_char": 28551
+    },
+    {
+      "text": "Section 2(c)",
+      "label": "PROVISION",
+      "start_char": 28610,
+      "end_char": 28622
+    },
+    {
+      "text": "1940 Act",
+      "label": "STATUTE",
+      "start_char": 28630,
+      "end_char": 28638
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 28685,
+      "end_char": 28698
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 28765,
+      "end_char": 28780
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 28980,
+      "end_char": 28995
+    },
+    {
+      "text": "1940 Act",
+      "label": "STATUTE",
+      "start_char": 29017,
+      "end_char": 29025
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 29151,
+      "end_char": 29164
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 29294,
+      "end_char": 29307
+    },
+    {
+      "text": "Article 136",
+      "label": "PROVISION",
+      "start_char": 29338,
+      "end_char": 29349
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 29634,
+      "end_char": 29647
+    },
+    {
+      "text": "Sections 9 and 34",
+      "label": "PROVISION",
+      "start_char": 29716,
+      "end_char": 29733
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 29768,
+      "end_char": 29778
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 29841,
+      "end_char": 29854
+    },
+    {
+      "text": "Article 136",
+      "label": "PROVISION",
+      "start_char": 29861,
+      "end_char": 29872
+    },
+    {
+      "text": "Neutral Citation Number: 2023/DHC/000323 Section 42",
+      "label": "CASE_NUMBER",
+      "start_char": 30041,
+      "end_char": 30092
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 30162,
+      "end_char": 30172
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 30235,
+      "end_char": 30245
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 30417,
+      "end_char": 30430
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 30473,
+      "end_char": 30483
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 30569,
+      "end_char": 30579
+    },
+    {
+      "text": "JSW Steel Ltd. v. Jindal Praxair Oxygen Co. Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 30584,
+      "end_char": 30632
+    },
+    {
+      "text": "Jindal Vijayanagar Steel (JSW Steel Ltd.) v. Jindal Praxair Oxygen Co. Ltd., (2006) 11 SCC 521] , SCC",
+      "label": "PRECEDENT",
+      "start_char": 30634,
+      "end_char": 30735
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 30757,
+      "end_char": 30767
+    },
+    {
+      "text": "Section 31(4)",
+      "label": "PROVISION",
+      "start_char": 30800,
+      "end_char": 30813
+    },
+    {
+      "text": "1940 Act",
+      "label": "STATUTE",
+      "start_char": 30821,
+      "end_char": 30829
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 30929,
+      "end_char": 30939
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 30976,
+      "end_char": 30991
+    },
+    {
+      "text": "1940 Act",
+      "label": "STATUTE",
+      "start_char": 31220,
+      "end_char": 31228
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 31274,
+      "end_char": 31287
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 31326,
+      "end_char": 31336
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 31347,
+      "end_char": 31360
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 31495,
+      "end_char": 31510
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 31515,
+      "end_char": 31525
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 31533,
+      "end_char": 31554
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 31575,
+      "end_char": 31590
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 31821,
+      "end_char": 31827
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 31835,
+      "end_char": 31856
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 31941,
+      "end_char": 31951
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 32072,
+      "end_char": 32078
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 32110,
+      "end_char": 32120
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 32161,
+      "end_char": 32167
+    },
+    {
+      "text": "Section 8",
+      "label": "PROVISION",
+      "start_char": 32238,
+      "end_char": 32247
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 32310,
+      "end_char": 32320
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 32535,
+      "end_char": 32545
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 32552,
+      "end_char": 32561
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 32614,
+      "end_char": 32624
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 32701,
+      "end_char": 32711
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 32746,
+      "end_char": 32759
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 32791,
+      "end_char": 32806
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 32824,
+      "end_char": 32837
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 33120,
+      "end_char": 33130
+    },
+    {
+      "text": "Part I.\n(g)",
+      "label": "PROVISION",
+      "start_char": 33243,
+      "end_char": 33254
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 33498,
+      "end_char": 33508
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 33600,
+      "end_char": 33610
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 33707,
+      "end_char": 33726
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 33798,
+      "end_char": 33811
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 33849,
+      "end_char": 33858
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 33947,
+      "end_char": 33957
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 34070,
+      "end_char": 34080
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 34131,
+      "end_char": 34150
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 34162,
+      "end_char": 34178
+    },
+    {
+      "text": "Neutral Citation Number: 2023/DHC/000323",
+      "label": "CASE_NUMBER",
+      "start_char": 34292,
+      "end_char": 34332
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 34768,
+      "end_char": 34784
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 34790,
+      "end_char": 34803
+    },
+    {
+      "text": "Daelim Industrial Co. Ltd. v. Numaligarh Refinery Ltd.5",
+      "label": "PRECEDENT",
+      "start_char": 34877,
+      "end_char": 34932
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 34971,
+      "end_char": 34981
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 35014,
+      "end_char": 35024
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 35140,
+      "end_char": 35150
+    },
+    {
+      "text": "Code of Civil Procedure, 19086",
+      "label": "STATUTE",
+      "start_char": 35218,
+      "end_char": 35248
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 35273,
+      "end_char": 35286
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 35290,
+      "end_char": 35306
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 35526,
+      "end_char": 35536
+    },
+    {
+      "text": "Part I.",
+      "label": "PROVISION",
+      "start_char": 36107,
+      "end_char": 36114
+    },
+    {
+      "text": "2009 SCC OnLine Del 511 6",
+      "label": "PRECEDENT",
+      "start_char": 36137,
+      "end_char": 36162
+    },
+    {
+      "text": "Code Neutral Citation Number: 2023/DHC/000323",
+      "label": "CASE_NUMBER",
+      "start_char": 36163,
+      "end_char": 36208
+    },
+    {
+      "text": "Section 32",
+      "label": "PROVISION",
+      "start_char": 36405,
+      "end_char": 36415
+    },
+    {
+      "text": "Section 33 and sub-section (4) of Section 34",
+      "label": "PROVISION",
+      "start_char": 37144,
+      "end_char": 37188
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 37582,
+      "end_char": 37592
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 37866,
+      "end_char": 37882
+    },
+    {
+      "text": "Daelim Industrial Co. Ltd. v. Numaligarh Refinery Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 37886,
+      "end_char": 37940
+    },
+    {
+      "text": "Daelim Industrial Co. Ltd. v. Numaligarh Refinery Ltd., 2009 SCC OnLine Del 511 : (2009) 159 DLT 579",
+      "label": "PRECEDENT",
+      "start_char": 37942,
+      "end_char": 38042
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 38057,
+      "end_char": 38067
+    },
+    {
+      "text": "Section 38",
+      "label": "PROVISION",
+      "start_char": 38169,
+      "end_char": 38179
+    },
+    {
+      "text": "Madras High Court",
+      "label": "COURT",
+      "start_char": 38349,
+      "end_char": 38366
+    },
+    {
+      "text": "Kotak Mahindra Bank Ltd. v. SivakamaSundari",
+      "label": "PRECEDENT",
+      "start_char": 38370,
+      "end_char": 38413
+    },
+    {
+      "text": "Kotak Mahindra Bank Ltd. v. SivakamaSundari, 2011 SCC OnLine Mad 1290 : (2011) 4 LW 745",
+      "label": "PRECEDENT",
+      "start_char": 38415,
+      "end_char": 38502
+    },
+    {
+      "text": "Section 46",
+      "label": "PROVISION",
+      "start_char": 38516,
+      "end_char": 38526
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 38835,
+      "end_char": 38845
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 39069,
+      "end_char": 39079
+    },
+    {
+      "text": "Daelim",
+      "label": "OTHER_PERSON",
+      "start_char": 39726,
+      "end_char": 39732
+    },
+    {
+      "text": "Daelim",
+      "label": "OTHER_PERSON",
+      "start_char": 39764,
+      "end_char": 39770
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 40034,
+      "end_char": 40043
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 40100,
+      "end_char": 40110
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 40232,
+      "end_char": 40242
+    },
+    {
+      "text": "Neutral Citation Number: 2023/DHC/000323",
+      "label": "CASE_NUMBER",
+      "start_char": 40324,
+      "end_char": 40364
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 40410,
+      "end_char": 40420
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 40832,
+      "end_char": 40842
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 40872,
+      "end_char": 40882
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 40906,
+      "end_char": 40916
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 40981,
+      "end_char": 40991
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 41019,
+      "end_char": 41034
+    },
+    {
+      "text": "Guwahati",
+      "label": "GPE",
+      "start_char": 41276,
+      "end_char": 41284
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 41420,
+      "end_char": 41430
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 41482,
+      "end_char": 41497
+    },
+    {
+      "text": "Section 2(1(e)",
+      "label": "PROVISION",
+      "start_char": 41518,
+      "end_char": 41532
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 41607,
+      "end_char": 41617
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 41737,
+      "end_char": 41740
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 42068,
+      "end_char": 42078
+    },
+    {
+      "text": "Section 49",
+      "label": "PROVISION",
+      "start_char": 42086,
+      "end_char": 42096
+    },
+    {
+      "text": "Section 49",
+      "label": "PROVISION",
+      "start_char": 42136,
+      "end_char": 42146
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 42376,
+      "end_char": 42386
+    },
+    {
+      "text": "Section 38",
+      "label": "PROVISION",
+      "start_char": 42766,
+      "end_char": 42776
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 42784,
+      "end_char": 42787
+    },
+    {
+      "text": "Section 38",
+      "label": "PROVISION",
+      "start_char": 43248,
+      "end_char": 43258
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 43262,
+      "end_char": 43265
+    },
+    {
+      "text": "Section 635",
+      "label": "PROVISION",
+      "start_char": 43313,
+      "end_char": 43324
+    },
+    {
+      "text": "Companies Act",
+      "label": "STATUTE",
+      "start_char": 43332,
+      "end_char": 43345
+    },
+    {
+      "text": "Section 635",
+      "label": "PROVISION",
+      "start_char": 43386,
+      "end_char": 43397
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 43450,
+      "end_char": 43460
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 43468,
+      "end_char": 43483
+    },
+    {
+      "text": "CPC Amendment Act, 2002",
+      "label": "STATUTE",
+      "start_char": 43556,
+      "end_char": 43579
+    },
+    {
+      "text": "Section 39",
+      "label": "PROVISION",
+      "start_char": 43621,
+      "end_char": 43631
+    },
+    {
+      "text": "Section 38",
+      "label": "PROVISION",
+      "start_char": 44877,
+      "end_char": 44887
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 44891,
+      "end_char": 44894
+    },
+    {
+      "text": "Rajasthan",
+      "label": "GPE",
+      "start_char": 45126,
+      "end_char": 45135
+    },
+    {
+      "text": "Kotak Mahindra Bank Ltd. vs. Ram Neutral Citation Number: 2023/DHC/000323 Sharan Gurjar7",
+      "label": "PRECEDENT",
+      "start_char": 45223,
+      "end_char": 45311
+    },
+    {
+      "text": "Daelim",
+      "label": "OTHER_PERSON",
+      "start_char": 45325,
+      "end_char": 45331
+    },
+    {
+      "text": "Ess Kay Fincorp Limited vs. Suresh Chaudhry8",
+      "label": "PRECEDENT",
+      "start_char": 45381,
+      "end_char": 45425
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 45443,
+      "end_char": 45459
+    },
+    {
+      "text": "Ess Kay Fincorp",
+      "label": "ORG",
+      "start_char": 45561,
+      "end_char": 45576
+    },
+    {
+      "text": "Jaipur Commercial Court",
+      "label": "COURT",
+      "start_char": 45614,
+      "end_char": 45637
+    },
+    {
+      "text": "Kotak Mahindra",
+      "label": "OTHER_PERSON",
+      "start_char": 45700,
+      "end_char": 45714
+    },
+    {
+      "text": "Jaipur Commercial Court",
+      "label": "COURT",
+      "start_char": 45754,
+      "end_char": 45777
+    },
+    {
+      "text": "Ess Kay Fincorp",
+      "label": "ORG",
+      "start_char": 45895,
+      "end_char": 45910
+    },
+    {
+      "text": "Sections 10(3) and 15 (2)",
+      "label": "PROVISION",
+      "start_char": 46090,
+      "end_char": 46115
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 46123,
+      "end_char": 46150
+    },
+    {
+      "text": "Rajasthan",
+      "label": "GPE",
+      "start_char": 46263,
+      "end_char": 46272
+    },
+    {
+      "text": "Karia",
+      "label": "LAWYER",
+      "start_char": 46360,
+      "end_char": 46365
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 46485,
+      "end_char": 46498
+    },
+    {
+      "text": "Associated Contractors",
+      "label": "ORG",
+      "start_char": 46502,
+      "end_char": 46524
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 46529,
+      "end_char": 46545
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 46700,
+      "end_char": 46710
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 46820,
+      "end_char": 46833
+    },
+    {
+      "text": "2011 SCC OnLine Raj 2748 AIR 2020 RaJ 56",
+      "label": "PRECEDENT",
+      "start_char": 46867,
+      "end_char": 46907
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 47105,
+      "end_char": 47121
+    },
+    {
+      "text": "Karia",
+      "label": "LAWYER",
+      "start_char": 47140,
+      "end_char": 47145
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 47706,
+      "end_char": 47722
+    },
+    {
+      "text": "Varghese",
+      "label": "LAWYER",
+      "start_char": 47733,
+      "end_char": 47741
+    },
+    {
+      "text": "Daelim",
+      "label": "OTHER_PERSON",
+      "start_char": 47942,
+      "end_char": 47948
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 48017,
+      "end_char": 48027
+    },
+    {
+      "text": "Daelim",
+      "label": "OTHER_PERSON",
+      "start_char": 48113,
+      "end_char": 48119
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 48162,
+      "end_char": 48172
+    },
+    {
+      "text": "Varghese",
+      "label": "LAWYER",
+      "start_char": 48426,
+      "end_char": 48434
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 48738,
+      "end_char": 48754
+    },
+    {
+      "text": "Varghese",
+      "label": "LAWYER",
+      "start_char": 48773,
+      "end_char": 48781
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 48799,
+      "end_char": 48815
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 49029,
+      "end_char": 49042
+    },
+    {
+      "text": "Union of India v. Hardy Exploration and Production (India) Inc.9",
+      "label": "PRECEDENT",
+      "start_char": 49046,
+      "end_char": 49110
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 49290,
+      "end_char": 49306
+    },
+    {
+      "text": "Varghese",
+      "label": "LAWYER",
+      "start_char": 49325,
+      "end_char": 49333
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 49799,
+      "end_char": 49812
+    },
+    {
+      "text": "Associated Contractors",
+      "label": "ORG",
+      "start_char": 49816,
+      "end_char": 49838
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 49843,
+      "end_char": 49859
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 49899,
+      "end_char": 49915
+    },
+    {
+      "text": "Associated Contractors",
+      "label": "ORG",
+      "start_char": 49948,
+      "end_char": 49970
+    },
+    {
+      "text": "Jaipur Commercial Court",
+      "label": "COURT",
+      "start_char": 50102,
+      "end_char": 50125
+    },
+    {
+      "text": "(2019) 13 SCC 472",
+      "label": "PRECEDENT",
+      "start_char": 50153,
+      "end_char": 50170
+    },
+    {
+      "text": "Neutral Citation Number: 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 50171,
+      "end_char": 50200
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 50333,
+      "end_char": 50346
+    },
+    {
+      "text": "Cheran Properties Ltd. v. Kasturi & Sons Ltd.10",
+      "label": "PRECEDENT",
+      "start_char": 50350,
+      "end_char": 50397
+    },
+    {
+      "text": "Cheran Properties",
+      "label": "ORG",
+      "start_char": 50462,
+      "end_char": 50479
+    },
+    {
+      "text": "National Company Law Tribunal11",
+      "label": "COURT",
+      "start_char": 50516,
+      "end_char": 50547
+    },
+    {
+      "text": "NCLT",
+      "label": "ORG",
+      "start_char": 50606,
+      "end_char": 50610
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 50798,
+      "end_char": 50808
+    },
+    {
+      "text": "Associated Contractors",
+      "label": "ORG",
+      "start_char": 50837,
+      "end_char": 50859
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 50864,
+      "end_char": 50880
+    },
+    {
+      "text": "Section 111",
+      "label": "PROVISION",
+      "start_char": 51123,
+      "end_char": 51134
+    },
+    {
+      "text": "Companies Act, 2013",
+      "label": "STATUTE",
+      "start_char": 51142,
+      "end_char": 51161
+    },
+    {
+      "text": "NCLT",
+      "label": "ORG",
+      "start_char": 51189,
+      "end_char": 51193
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 51308,
+      "end_char": 51318
+    },
+    {
+      "text": "Cheran Properties",
+      "label": "ORG",
+      "start_char": 51379,
+      "end_char": 51396
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 51402,
+      "end_char": 51415
+    },
+    {
+      "text": "Associated Contractors",
+      "label": "ORG",
+      "start_char": 51460,
+      "end_char": 51482
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 51487,
+      "end_char": 51503
+    },
+    {
+      "text": "Daelim",
+      "label": "OTHER_PERSON",
+      "start_char": 51590,
+      "end_char": 51596
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 51654,
+      "end_char": 51667
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 51671,
+      "end_char": 51687
+    },
+    {
+      "text": "Daelim",
+      "label": "OTHER_PERSON",
+      "start_char": 51929,
+      "end_char": 51935
+    },
+    {
+      "text": "Union of India v. Atlanta Ltd.12",
+      "label": "PRECEDENT",
+      "start_char": 51990,
+      "end_char": 52022
+    },
+    {
+      "text": "Atlanta",
+      "label": "GPE",
+      "start_char": 52032,
+      "end_char": 52039
+    },
+    {
+      "text": "Rajasthan",
+      "label": "GPE",
+      "start_char": 52300,
+      "end_char": 52309
+    },
+    {
+      "text": "Sundaram Finance Ltd.",
+      "label": "ORG",
+      "start_char": 52419,
+      "end_char": 52440
+    },
+    {
+      "text": "Daelim Industrial Co. Ltd.",
+      "label": "ORG",
+      "start_char": 52494,
+      "end_char": 52520
+    },
+    {
+      "text": "Religare Finvest Ltd. v. Ranjit Singh Chouhan 2012 SCC OnLine Del 1224",
+      "label": "PRECEDENT",
+      "start_char": 52657,
+      "end_char": 52727
+    },
+    {
+      "text": "State Trading Corporation of India Ltd. v. Global Steel Holdings Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 52733,
+      "end_char": 52802
+    },
+    {
+      "text": "AIR 2015 Del 100",
+      "label": "PRECEDENT",
+      "start_char": 52803,
+      "end_char": 52819
+    },
+    {
+      "text": "ICI-SOMA JV v. Simplex Infrastructures Ltd. 2016 SCC OnLine Del 5315",
+      "label": "PRECEDENT",
+      "start_char": 52821,
+      "end_char": 52889
+    },
+    {
+      "text": "Mukesh Sharma v. Roger Shashoua (2016) 231 DLT 14",
+      "label": "PRECEDENT",
+      "start_char": 52891,
+      "end_char": 52940
+    },
+    {
+      "text": "Dr. S.C. Jain v. Sahny Securities Pvt",
+      "label": "PRECEDENT",
+      "start_char": 52945,
+      "end_char": 52982
+    },
+    {
+      "text": "SCC OnLine Del 13202",
+      "label": "CASE_NUMBER",
+      "start_char": 52994,
+      "end_char": 53014
+    },
+    {
+      "text": "Rajasthan",
+      "label": "GPE",
+      "start_char": 53132,
+      "end_char": 53141
+    },
+    {
+      "text": "UOI",
+      "label": "PETITIONER",
+      "start_char": 53335,
+      "end_char": 53338
+    },
+    {
+      "text": "Rajasthan High Court",
+      "label": "COURT",
+      "start_char": 53350,
+      "end_char": 53370
+    },
+    {
+      "text": "Prem Lata Agarwal v. Laxman Prasad Gupta (1970) 3 SCC 440",
+      "label": "PRECEDENT",
+      "start_char": 53761,
+      "end_char": 53818
+    },
+    {
+      "text": "State Bank of India v. Indexport Registered (1992) 3 SCC 159",
+      "label": "PRECEDENT",
+      "start_char": 53820,
+      "end_char": 53880
+    },
+    {
+      "text": "Shyam 2021 SCC OnLine Del 3500 Neutral Citation Number: 2023/DHC/000323 Singh v. Collector, District Hamir Pur 1993 Supp (1) SCC 693",
+      "label": "PRECEDENT",
+      "start_char": 53882,
+      "end_char": 54014
+    },
+    {
+      "text": "Cholamandalam Investment & Finance Co. Ltd. v. CEC Limited 1995 SCC OnLine Del 240",
+      "label": "PRECEDENT",
+      "start_char": 54019,
+      "end_char": 54101
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 54420,
+      "end_char": 54433
+    },
+    {
+      "text": "BGS SGS SOMA JV v. NHPC13",
+      "label": "PRECEDENT",
+      "start_char": 54437,
+      "end_char": 54462
+    },
+    {
+      "text": "BGS SOMA",
+      "label": "ORG",
+      "start_char": 54577,
+      "end_char": 54585
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 54637,
+      "end_char": 54650
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 54690,
+      "end_char": 54700
+    },
+    {
+      "text": "District and Sessions Judge, Faridabad, Haryana",
+      "label": "COURT",
+      "start_char": 54750,
+      "end_char": 54797
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 54932,
+      "end_char": 54941
+    },
+    {
+      "text": "Faridabad",
+      "label": "GPE",
+      "start_char": 54944,
+      "end_char": 54953
+    },
+    {
+      "text": "BGS Soma",
+      "label": "OTHER_PERSON",
+      "start_char": 54958,
+      "end_char": 54966
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 55045,
+      "end_char": 55054
+    },
+    {
+      "text": "Faridabad Court",
+      "label": "COURT",
+      "start_char": 55160,
+      "end_char": 55175
+    },
+    {
+      "text": "Special Commercial Court, Gurugram",
+      "label": "COURT",
+      "start_char": 55312,
+      "end_char": 55346
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 55360,
+      "end_char": 55370
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 55472,
+      "end_char": 55481
+    },
+    {
+      "text": "(2020) 4 SCC 234",
+      "label": "PRECEDENT",
+      "start_char": 55519,
+      "end_char": 55535
+    },
+    {
+      "text": "Neutral Citation Number: 2023/DHC/000323",
+      "label": "CASE_NUMBER",
+      "start_char": 55536,
+      "end_char": 55576
+    },
+    {
+      "text": "Special Commercial Court",
+      "label": "COURT",
+      "start_char": 55581,
+      "end_char": 55605
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 55641,
+      "end_char": 55650
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 55656,
+      "end_char": 55669
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 55750,
+      "end_char": 55759
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 55862,
+      "end_char": 55875
+    },
+    {
+      "text": "Faridabad",
+      "label": "GPE",
+      "start_char": 55949,
+      "end_char": 55958
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 55989,
+      "end_char": 55999
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 56036,
+      "end_char": 56045
+    },
+    {
+      "text": "BGS SOMA",
+      "label": "CASE_NUMBER",
+      "start_char": 56068,
+      "end_char": 56076
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 56645,
+      "end_char": 56666
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 56804,
+      "end_char": 56814
+    },
+    {
+      "text": "Section 2(1)(c)",
+      "label": "PROVISION",
+      "start_char": 56864,
+      "end_char": 56879
+    },
+    {
+      "text": "Arbitration Act, 1940",
+      "label": "STATUTE",
+      "start_char": 56887,
+      "end_char": 56908
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 56935,
+      "end_char": 56956
+    },
+    {
+      "text": "Balco [Balco v. Kaiser Aluminium Technical Services Inc., (2012) 9 SCC 552 : (2012) 4 SCC (Civ)",
+      "label": "PRECEDENT",
+      "start_char": 57593,
+      "end_char": 57688
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 57925,
+      "end_char": 57946
+    },
+    {
+      "text": "Redfern",
+      "label": "PETITIONER",
+      "start_char": 58186,
+      "end_char": 58193
+    },
+    {
+      "text": "Blackaby",
+      "label": "OTHER_PERSON",
+      "start_char": 58300,
+      "end_char": 58308
+    },
+    {
+      "text": "Redfern",
+      "label": "PETITIONER",
+      "start_char": 58322,
+      "end_char": 58329
+    },
+    {
+      "text": "Hunter",
+      "label": "OTHER_PERSON",
+      "start_char": 58334,
+      "end_char": 58340
+    },
+    {
+      "text": "Redfern",
+      "label": "PETITIONER",
+      "start_char": 58349,
+      "end_char": 58356
+    },
+    {
+      "text": "Hunter",
+      "label": "OTHER_PERSON",
+      "start_char": 58361,
+      "end_char": 58367
+    },
+    {
+      "text": "England",
+      "label": "GPE",
+      "start_char": 58896,
+      "end_char": 58903
+    },
+    {
+      "text": "Naviera Amazonica Peruana SA v. Compania International de Seguros del Peru [NavieraAmazonica Peruana SA v. Compania International de Seguros del Peru, (1988)",
+      "label": "PRECEDENT",
+      "start_char": 58907,
+      "end_char": 59064
+    },
+    {
+      "text": "Union of India v. McDonnell Douglas Corpn",
+      "label": "PRECEDENT",
+      "start_char": 60447,
+      "end_char": 60488
+    },
+    {
+      "text": "Union of India v. McDonnell Douglas Corpn., (1993) 2 Lloyd's Rep 48",
+      "label": "PRECEDENT",
+      "start_char": 60491,
+      "end_char": 60558
+    },
+    {
+      "text": "New York Convention of 1958",
+      "label": "STATUTE",
+      "start_char": 60859,
+      "end_char": 60886
+    },
+    {
+      "text": "UNCITRAL Model Law of 1985",
+      "label": "STATUTE",
+      "start_char": 60895,
+      "end_char": 60921
+    },
+    {
+      "text": "Redfern",
+      "label": "PETITIONER",
+      "start_char": 61003,
+      "end_char": 61010
+    },
+    {
+      "text": "Hunter",
+      "label": "OTHER_PERSON",
+      "start_char": 61015,
+      "end_char": 61021
+    },
+    {
+      "text": "Redfern",
+      "label": "PETITIONER",
+      "start_char": 61075,
+      "end_char": 61082
+    },
+    {
+      "text": "Redfern",
+      "label": "PETITIONER",
+      "start_char": 61102,
+      "end_char": 61109
+    },
+    {
+      "text": "Hunter",
+      "label": "OTHER_PERSON",
+      "start_char": 61114,
+      "end_char": 61120
+    },
+    {
+      "text": "Geneva Protocol, 1923",
+      "label": "STATUTE",
+      "start_char": 61510,
+      "end_char": 61531
+    },
+    {
+      "text": "Article V(1)(d)",
+      "label": "PROVISION",
+      "start_char": 61855,
+      "end_char": 61870
+    },
+    {
+      "text": "Articles V(1)(a) and (e)",
+      "label": "PROVISION",
+      "start_char": 61943,
+      "end_char": 61967
+    },
+    {
+      "text": "New York",
+      "label": "GPE",
+      "start_char": 62019,
+      "end_char": 62027
+    },
+    {
+      "text": "Article 1(2)",
+      "label": "PROVISION",
+      "start_char": 62261,
+      "end_char": 62273
+    },
+    {
+      "text": "Articles 8, 9, 35 and 36",
+      "label": "PROVISION",
+      "start_char": 62322,
+      "end_char": 62346
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 62434,
+      "end_char": 62455
+    },
+    {
+      "text": "Switzerland",
+      "label": "GPE",
+      "start_char": 62600,
+      "end_char": 62611
+    },
+    {
+      "text": "England",
+      "label": "GPE",
+      "start_char": 62616,
+      "end_char": 62623
+    },
+    {
+      "text": "Switzerland",
+      "label": "GPE",
+      "start_char": 62843,
+      "end_char": 62854
+    },
+    {
+      "text": "Swiss Private International Law Act, 1987",
+      "label": "STATUTE",
+      "start_char": 63027,
+      "end_char": 63068
+    },
+    {
+      "text": "Article 176 (I)(1)",
+      "label": "PROVISION",
+      "start_char": 63078,
+      "end_char": 63096
+    },
+    {
+      "text": "Section 2(1)(e), Section 20 and Section 28",
+      "label": "PROVISION",
+      "start_char": 63166,
+      "end_char": 63208
+    },
+    {
+      "text": "Section 45 and Section 48(1)(e)",
+      "label": "PROVISION",
+      "start_char": 63219,
+      "end_char": 63250
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 63270,
+      "end_char": 63276
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 63333,
+      "end_char": 63338
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 63375,
+      "end_char": 63396
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 63520,
+      "end_char": 63541
+    },
+    {
+      "text": "Section 2(2)",
+      "label": "PROVISION",
+      "start_char": 63733,
+      "end_char": 63745
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 63817,
+      "end_char": 63822
+    },
+    {
+      "text": "Section 2(2)",
+      "label": "PROVISION",
+      "start_char": 63858,
+      "end_char": 63870
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 63963,
+      "end_char": 63969
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 64033,
+      "end_char": 64038
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 64115,
+      "end_char": 64120
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 64158,
+      "end_char": 64164
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 64203,
+      "end_char": 64208
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 64338,
+      "end_char": 64344
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 64386,
+      "end_char": 64391
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 64476,
+      "end_char": 64491
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 64499,
+      "end_char": 64520
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 65235,
+      "end_char": 65250
+    },
+    {
+      "text": "Part I.",
+      "label": "PROVISION",
+      "start_char": 65266,
+      "end_char": 65273
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 65583,
+      "end_char": 65598
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 65653,
+      "end_char": 65663
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 65818,
+      "end_char": 65828
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 66374,
+      "end_char": 66379
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 66419,
+      "end_char": 66424
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 66427,
+      "end_char": 66432
+    },
+    {
+      "text": "Mumbai",
+      "label": "GPE",
+      "start_char": 66495,
+      "end_char": 66501
+    },
+    {
+      "text": "Kolkata",
+      "label": "GPE",
+      "start_char": 66521,
+      "end_char": 66528
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 66558,
+      "end_char": 66563
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 66594,
+      "end_char": 66604
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 66612,
+      "end_char": 66633
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 66682,
+      "end_char": 66692
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 66719,
+      "end_char": 66724
+    },
+    {
+      "text": "Mumbai",
+      "label": "GPE",
+      "start_char": 66951,
+      "end_char": 66957
+    },
+    {
+      "text": "Kolkata",
+      "label": "GPE",
+      "start_char": 66964,
+      "end_char": 66971
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 67014,
+      "end_char": 67019
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 67292,
+      "end_char": 67302
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 68000,
+      "end_char": 68010
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 68078,
+      "end_char": 68083
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 68147,
+      "end_char": 68152
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 68160,
+      "end_char": 68165
+    },
+    {
+      "text": "Mumbai",
+      "label": "GPE",
+      "start_char": 68167,
+      "end_char": 68173
+    },
+    {
+      "text": "Section 20(2)",
+      "label": "PROVISION",
+      "start_char": 68230,
+      "end_char": 68243
+    },
+    {
+      "text": "Section 20(3)",
+      "label": "PROVISION",
+      "start_char": 68317,
+      "end_char": 68330
+    },
+    {
+      "text": "Section 20(3)",
+      "label": "PROVISION",
+      "start_char": 68590,
+      "end_char": 68603
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 68605,
+      "end_char": 68615
+    },
+    {
+      "text": "Section 2(2)",
+      "label": "PROVISION",
+      "start_char": 68650,
+      "end_char": 68662
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 68724,
+      "end_char": 68730
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 68769,
+      "end_char": 68774
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 68787,
+      "end_char": 68797
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 68878,
+      "end_char": 68884
+    },
+    {
+      "text": "Balco [Balco v. Kaiser Aluminium Technical Services Inc., (2012) 9 SCC 552 : (2012) 4 SCC (Civ) 810]",
+      "label": "PRECEDENT",
+      "start_char": 69048,
+      "end_char": 69148
+    },
+    {
+      "text": "Shashoua v. Sharma [Shashoua v. Sharma, 2009 EWHC 957 (Comm) : (2009) 2 Lloyd's Law Rep 376",
+      "label": "PRECEDENT",
+      "start_char": 69261,
+      "end_char": 69352
+    },
+    {
+      "text": "Neutral Citation Number: 2023/DHC/000323",
+      "label": "CASE_NUMBER",
+      "start_char": 69640,
+      "end_char": 69680
+    },
+    {
+      "text": "ICC",
+      "label": "ORG",
+      "start_char": 70392,
+      "end_char": 70395
+    },
+    {
+      "text": "Paris",
+      "label": "GPE",
+      "start_char": 70399,
+      "end_char": 70404
+    },
+    {
+      "text": "London",
+      "label": "GPE",
+      "start_char": 70490,
+      "end_char": 70496
+    },
+    {
+      "text": "United Kingdom",
+      "label": "GPE",
+      "start_char": 70498,
+      "end_char": 70512
+    },
+    {
+      "text": "High Court of Delhi",
+      "label": "COURT",
+      "start_char": 70759,
+      "end_char": 70778
+    },
+    {
+      "text": "England",
+      "label": "GPE",
+      "start_char": 71103,
+      "end_char": 71110
+    },
+    {
+      "text": "Shashoua",
+      "label": "OTHER_PERSON",
+      "start_char": 71413,
+      "end_char": 71421
+    },
+    {
+      "text": "Shashoua v. Sharma, 2009 EWHC 957 (Comm) : (2009) 2 Lloyd's Law Rep 376",
+      "label": "PRECEDENT",
+      "start_char": 71428,
+      "end_char": 71499
+    },
+    {
+      "text": "C v. D",
+      "label": "PRECEDENT",
+      "start_char": 71563,
+      "end_char": 71569
+    },
+    {
+      "text": "C v. D, 2008 Bus LR 843 : 2007 EWCA Civ 1282 (CA)",
+      "label": "PRECEDENT",
+      "start_char": 71571,
+      "end_char": 71620
+    },
+    {
+      "text": "Balco [Balco v. Kaiser Aluminium Technical Services Inc., (2012) 9 SCC 552 : (2012) 4 SCC (Civ) 810]",
+      "label": "PRECEDENT",
+      "start_char": 71709,
+      "end_char": 71809
+    },
+    {
+      "text": "Balco [Balco v. Kaiser Aluminium Technical Services Inc., (2012) 9 SCC 552 : (2012) 4 SCC (Civ) 810]",
+      "label": "PRECEDENT",
+      "start_char": 72334,
+      "end_char": 72434
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 72552,
+      "end_char": 72562
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 72570,
+      "end_char": 72591
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 72621,
+      "end_char": 72631
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 72637,
+      "end_char": 72652
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 72765,
+      "end_char": 72774
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 73388,
+      "end_char": 73398
+    },
+    {
+      "text": "Indian Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 73406,
+      "end_char": 73434
+    },
+    {
+      "text": "Section 105",
+      "label": "PROVISION",
+      "start_char": 73475,
+      "end_char": 73486
+    },
+    {
+      "text": "English Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 73494,
+      "end_char": 73523
+    },
+    {
+      "text": "Balco [Balco v. Kaiser Aluminium Technical Services Inc., (2012) 9 SCC 552 : (2012) 4 SCC (Civ) 810]",
+      "label": "PRECEDENT",
+      "start_char": 73739,
+      "end_char": 73839
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 73892,
+      "end_char": 73907
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 73944,
+      "end_char": 73954
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 73962,
+      "end_char": 73983
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 74034,
+      "end_char": 74055
+    },
+    {
+      "text": "Section 2(2)",
+      "label": "PROVISION",
+      "start_char": 74104,
+      "end_char": 74116
+    },
+    {
+      "text": "UNCITRAL Model Law",
+      "label": "STATUTE",
+      "start_char": 74132,
+      "end_char": 74150
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 74179,
+      "end_char": 74194
+    },
+    {
+      "text": "Balco [Balco v. Kaiser Aluminium Technical Services Inc., (2012) 9 SCC 552 : (2012) 4 SCC (Civ) 810]",
+      "label": "PRECEDENT",
+      "start_char": 74245,
+      "end_char": 74345
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 74410,
+      "end_char": 74420
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 74435,
+      "end_char": 74450
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 74458,
+      "end_char": 74479
+    },
+    {
+      "text": "Indus Mobile Distribution (P) Ltd.",
+      "label": "ORG",
+      "start_char": 74500,
+      "end_char": 74534
+    },
+    {
+      "text": "2023/DHC/000323 Distribution (P) Ltd. v. Datawind Innovations (P) Ltd., (2017) 7 SCC 678 : (2017) 3 SCC (Civ) 760",
+      "label": "PRECEDENT",
+      "start_char": 74574,
+      "end_char": 74687
+    },
+    {
+      "text": "Sections 2(1)(e) and 20",
+      "label": "PROVISION",
+      "start_char": 74710,
+      "end_char": 74733
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 74741,
+      "end_char": 74762
+    },
+    {
+      "text": "Law Commission Report, 2014",
+      "label": "STATUTE",
+      "start_char": 74894,
+      "end_char": 74921
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 75104,
+      "end_char": 75114
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 75122,
+      "end_char": 75132
+    },
+    {
+      "text": "Section 31 17",
+      "label": "PROVISION",
+      "start_char": 75816,
+      "end_char": 75829
+    },
+    {
+      "text": "Balco [Balco v. Kaiser Aluminium Technical Services Inc., (2012) 9 SCC 552 : (2012) 4 SCC (Civ) 810]",
+      "label": "PRECEDENT",
+      "start_char": 76051,
+      "end_char": 76151
+    },
+    {
+      "text": "Section 2(2)",
+      "label": "PROVISION",
+      "start_char": 76246,
+      "end_char": 76258
+    },
+    {
+      "text": "Sections 20(1) and 20(2)",
+      "label": "PROVISION",
+      "start_char": 76301,
+      "end_char": 76325
+    },
+    {
+      "text": "Section 20(3)",
+      "label": "PROVISION",
+      "start_char": 76397,
+      "end_char": 76410
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 76568,
+      "end_char": 76581
+    },
+    {
+      "text": "Mumbai",
+      "label": "GPE",
+      "start_char": 76897,
+      "end_char": 76903
+    },
+    {
+      "text": "Mumbai courts",
+      "label": "COURT",
+      "start_char": 76984,
+      "end_char": 76997
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 77040,
+      "end_char": 77063
+    },
+    {
+      "text": "Sections 16 to 21",
+      "label": "PROVISION",
+      "start_char": 77409,
+      "end_char": 77426
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 77434,
+      "end_char": 77457
+    },
+    {
+      "text": "Mumbai",
+      "label": "GPE",
+      "start_char": 77586,
+      "end_char": 77592
+    },
+    {
+      "text": "Mumbai",
+      "label": "GPE",
+      "start_char": 77604,
+      "end_char": 77610
+    },
+    {
+      "text": "Swastik Gases (P) Ltd. v. Indian Oil Corpn",
+      "label": "PRECEDENT",
+      "start_char": 77921,
+      "end_char": 77963
+    },
+    {
+      "text": "Swastik Gases (P) Ltd. v. Indian Oil Corpn",
+      "label": "PRECEDENT",
+      "start_char": 77971,
+      "end_char": 78013
+    },
+    {
+      "text": "Ltd., (2013) 9 SCC 32 : (2013) 4 SCC (Civ) 157]",
+      "label": "PRECEDENT",
+      "start_char": 78015,
+      "end_char": 78062
+    },
+    {
+      "text": "B.E. Simoese Von Staraburg Niedenthal v. Chhattisgarh Investment Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 78105,
+      "end_char": 78174
+    },
+    {
+      "text": "B.E. Simoese Von Staraburg Niedenthal v. Chhattisgarh Investment Ltd., (2015) 12 SCC 225 : (2016) 1 SCC (Civ) 427",
+      "label": "PRECEDENT",
+      "start_char": 78176,
+      "end_char": 78289
+    },
+    {
+      "text": "Mumbai",
+      "label": "GPE",
+      "start_char": 78338,
+      "end_char": 78344
+    },
+    {
+      "text": "Mumbai",
+      "label": "GPE",
+      "start_char": 78472,
+      "end_char": 78478
+    },
+    {
+      "text": "Datawind Innovations (P) Ltd. v. Indus Mobile Distribution (P) Ltd., 2016 SCC OnLine Del 3744 : (2016) 158 DRJ 391]",
+      "label": "PRECEDENT",
+      "start_char": 78524,
+      "end_char": 78639
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 78849,
+      "end_char": 78858
+    },
+    {
+      "text": "Mumbai Court",
+      "label": "COURT",
+      "start_char": 78866,
+      "end_char": 78878
+    },
+    {
+      "text": "Brahmani River Pellets Ltd. v. Kamachi Industries Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 78962,
+      "end_char": 79016
+    },
+    {
+      "text": "Brahmani River Pellets Ltd. v. Kamachi Industries Ltd., (2020) 5 SCC 462 : 2019 SCC OnLine SC 929",
+      "label": "PRECEDENT",
+      "start_char": 79018,
+      "end_char": 79115
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 79239,
+      "end_char": 79248
+    },
+    {
+      "text": "Uttarakhand",
+      "label": "GPE",
+      "start_char": 79553,
+      "end_char": 79564
+    },
+    {
+      "text": "Balco [Balco v. Kaiser Aluminium Technical Services Inc., (2012)",
+      "label": "PRECEDENT",
+      "start_char": 79738,
+      "end_char": 79802
+    },
+    {
+      "text": "SCC 552 : (2012) 4 SCC (Civ) 810]",
+      "label": "CASE_NUMBER",
+      "start_char": 79805,
+      "end_char": 79838
+    },
+    {
+      "text": "Uttarakhand hills",
+      "label": "GPE",
+      "start_char": 79957,
+      "end_char": 79974
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 80025,
+      "end_char": 80035
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 80043,
+      "end_char": 80064
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 80076,
+      "end_char": 80086
+    },
+    {
+      "text": "Balco [Balco v. Kaiser Aluminium Technical Services Inc., (2012) 9 SCC 552 : (2012) 4 SCC (Civ) 810]",
+      "label": "PRECEDENT",
+      "start_char": 80611,
+      "end_char": 80711
+    },
+    {
+      "text": "Enercon (India) Ltd. v. Enercon GmbH",
+      "label": "PRECEDENT",
+      "start_char": 81204,
+      "end_char": 81240
+    },
+    {
+      "text": "Enercon (India) Ltd. v. Enercon GmbH, (2014) 5 SCC 1 :\n(2014) 3 SCC (Civ) 59",
+      "label": "PRECEDENT",
+      "start_char": 81242,
+      "end_char": 81318
+    },
+    {
+      "text": "Shashoua [Shashoua v. Sharma, 2009 EWHC 957 (Comm) :\n(2009) 2 Lloyd's Law Rep 376",
+      "label": "PRECEDENT",
+      "start_char": 81356,
+      "end_char": 81437
+    },
+    {
+      "text": "Enercon case [Enercon (India) Ltd. v. Enercon GmbH, (2014) 5 SCC 1 : (2014) 3 SCC (Civ) 59]",
+      "label": "PRECEDENT",
+      "start_char": 81453,
+      "end_char": 81544
+    },
+    {
+      "text": "Shashoua",
+      "label": "OTHER_PERSON",
+      "start_char": 81629,
+      "end_char": 81637
+    },
+    {
+      "text": "Shashoua v. Sharma, 2009 EWHC 957 (Comm) : (2009) 2 Lloyd's Law Rep 376",
+      "label": "PRECEDENT",
+      "start_char": 81644,
+      "end_char": 81715
+    },
+    {
+      "text": "ICC",
+      "label": "STATUTE",
+      "start_char": 82554,
+      "end_char": 82557
+    },
+    {
+      "text": "Paris",
+      "label": "GPE",
+      "start_char": 82561,
+      "end_char": 82566
+    },
+    {
+      "text": "London",
+      "label": "GPE",
+      "start_char": 82652,
+      "end_char": 82658
+    },
+    {
+      "text": "United Kingdom",
+      "label": "GPE",
+      "start_char": 82660,
+      "end_char": 82674
+    },
+    {
+      "text": "High Court of Delhi",
+      "label": "COURT",
+      "start_char": 82921,
+      "end_char": 82940
+    },
+    {
+      "text": "England",
+      "label": "GPE",
+      "start_char": 83265,
+      "end_char": 83272
+    },
+    {
+      "text": "Antrix Corpn",
+      "label": "ORG",
+      "start_char": 83600,
+      "end_char": 83612
+    },
+    {
+      "text": "Antrix Corpn. Ltd. v. Devas Multimedia (P) Ltd., 2018 SCC OnLine Del 9338",
+      "label": "PRECEDENT",
+      "start_char": 83620,
+      "end_char": 83693
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 83700,
+      "end_char": 83710
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 83718,
+      "end_char": 83739
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 83783,
+      "end_char": 83793
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 84488,
+      "end_char": 84494
+    },
+    {
+      "text": "Neutral Citation Number: 2023/DHC/000323",
+      "label": "CASE_NUMBER",
+      "start_char": 84600,
+      "end_char": 84640
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 84742,
+      "end_char": 84752
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 85087,
+      "end_char": 85096
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 85104,
+      "end_char": 85125
+    },
+    {
+      "text": "Section 20(2)",
+      "label": "PROVISION",
+      "start_char": 85387,
+      "end_char": 85400
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 85408,
+      "end_char": 85429
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 85596,
+      "end_char": 85606
+    },
+    {
+      "text": "Bombay and Delhi High Courts",
+      "label": "COURT",
+      "start_char": 85709,
+      "end_char": 85737
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 87430,
+      "end_char": 87451
+    },
+    {
+      "text": "Neutral Citation Number: 2023/DHC/000323",
+      "label": "CASE_NUMBER",
+      "start_char": 87498,
+      "end_char": 87538
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 87733,
+      "end_char": 87746
+    },
+    {
+      "text": "BGS Soma",
+      "label": "ORG",
+      "start_char": 87750,
+      "end_char": 87758
+    },
+    {
+      "text": "Shashoua v. Sharma14",
+      "label": "PRECEDENT",
+      "start_char": 87911,
+      "end_char": 87931
+    },
+    {
+      "text": "Hardy Exploration",
+      "label": "ORG",
+      "start_char": 87987,
+      "end_char": 88004
+    },
+    {
+      "text": "Varghese",
+      "label": "LAWYER",
+      "start_char": 88062,
+      "end_char": 88070
+    },
+    {
+      "text": "Russel",
+      "label": "OTHER_PERSON",
+      "start_char": 88170,
+      "end_char": 88176
+    },
+    {
+      "text": "England",
+      "label": "GPE",
+      "start_char": 88287,
+      "end_char": 88294
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 88607,
+      "end_char": 88616
+    },
+    {
+      "text": "Arbitration Act 1996",
+      "label": "STATUTE",
+      "start_char": 88624,
+      "end_char": 88644
+    },
+    {
+      "text": "London",
+      "label": "GPE",
+      "start_char": 89347,
+      "end_char": 89353
+    },
+    {
+      "text": "2009 EWHC 957 (Comm)",
+      "label": "CASE_NUMBER",
+      "start_char": 89477,
+      "end_char": 89497
+    },
+    {
+      "text": "Redfern",
+      "label": "PETITIONER",
+      "start_char": 89598,
+      "end_char": 89605
+    },
+    {
+      "text": "Hunter",
+      "label": "OTHER_PERSON",
+      "start_char": 89610,
+      "end_char": 89616
+    },
+    {
+      "text": "New York Convention",
+      "label": "STATUTE",
+      "start_char": 90075,
+      "end_char": 90094
+    },
+    {
+      "text": "Article 2",
+      "label": "PROVISION",
+      "start_char": 90096,
+      "end_char": 90105
+    },
+    {
+      "text": "Geneva Protocol",
+      "label": "STATUTE",
+      "start_char": 90118,
+      "end_char": 90133
+    },
+    {
+      "text": "3.54",
+      "label": "DATE",
+      "start_char": 90345,
+      "end_char": 90349
+    },
+    {
+      "text": "New York Conventions",
+      "label": "STATUTE",
+      "start_char": 90354,
+      "end_char": 90374
+    },
+    {
+      "text": "Article 1(2)",
+      "label": "PROVISION",
+      "start_char": 90706,
+      "end_char": 90718
+    },
+    {
+      "text": "articles 8, 9, 35 and 36",
+      "label": "PROVISION",
+      "start_char": 90773,
+      "end_char": 90797
+    },
+    {
+      "text": "Switzerland",
+      "label": "GPE",
+      "start_char": 90924,
+      "end_char": 90935
+    },
+    {
+      "text": "England",
+      "label": "GPE",
+      "start_char": 90943,
+      "end_char": 90950
+    },
+    {
+      "text": "Switzerland",
+      "label": "GPE",
+      "start_char": 91174,
+      "end_char": 91185
+    },
+    {
+      "text": "Switzerland",
+      "label": "GPE",
+      "start_char": 91335,
+      "end_char": 91346
+    },
+    {
+      "text": "Arbitration Act 1996",
+      "label": "STATUTE",
+      "start_char": 91390,
+      "end_char": 91410
+    },
+    {
+      "text": "England",
+      "label": "GPE",
+      "start_char": 91462,
+      "end_char": 91469
+    },
+    {
+      "text": "Wales",
+      "label": "GPE",
+      "start_char": 91471,
+      "end_char": 91476
+    },
+    {
+      "text": "Northern Ireland",
+      "label": "GPE",
+      "start_char": 91481,
+      "end_char": 91497
+    },
+    {
+      "text": "London",
+      "label": "GPE",
+      "start_char": 92342,
+      "end_char": 92348
+    },
+    {
+      "text": "Paris",
+      "label": "GPE",
+      "start_char": 92350,
+      "end_char": 92355
+    },
+    {
+      "text": "Geneva",
+      "label": "GPE",
+      "start_char": 92359,
+      "end_char": 92365
+    },
+    {
+      "text": "England",
+      "label": "GPE",
+      "start_char": 92543,
+      "end_char": 92550
+    },
+    {
+      "text": "France",
+      "label": "GPE",
+      "start_char": 92552,
+      "end_char": 92558
+    },
+    {
+      "text": "Switzerland",
+      "label": "GPE",
+      "start_char": 92562,
+      "end_char": 92573
+    },
+    {
+      "text": "Naviera Amazonia Peruana SA v Compania Internacional de Seguros del Peru [1988] 1 Lloyd's Rep 116 at 121",
+      "label": "PRECEDENT",
+      "start_char": 93346,
+      "end_char": 93450
+    },
+    {
+      "text": "ICC",
+      "label": "STATUTE",
+      "start_char": 94155,
+      "end_char": 94158
+    },
+    {
+      "text": "Article 18",
+      "label": "PROVISION",
+      "start_char": 94281,
+      "end_char": 94291
+    },
+    {
+      "text": "LCIA",
+      "label": "ORG",
+      "start_char": 94718,
+      "end_char": 94722
+    },
+    {
+      "text": "Article 16(3)",
+      "label": "PROVISION",
+      "start_char": 94743,
+      "end_char": 94756
+    },
+    {
+      "text": "LCIA Rules",
+      "label": "STATUTE",
+      "start_char": 94764,
+      "end_char": 94774
+    },
+    {
+      "text": "Article 20(2)",
+      "label": "PROVISION",
+      "start_char": 95212,
+      "end_char": 95225
+    },
+    {
+      "text": "Jakarta",
+      "label": "GPE",
+      "start_char": 95788,
+      "end_char": 95795
+    },
+    {
+      "text": "Singapore",
+      "label": "GPE",
+      "start_char": 95867,
+      "end_char": 95876
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 96422,
+      "end_char": 96437
+    },
+    {
+      "text": "Section 2 (1)(e)\n(e)",
+      "label": "PROVISION",
+      "start_char": 96494,
+      "end_char": 96514
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 97467,
+      "end_char": 97477
+    },
+    {
+      "text": "UNCITRAL Model Law",
+      "label": "STATUTE",
+      "start_char": 97585,
+      "end_char": 97603
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 98309,
+      "end_char": 98319
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 98442,
+      "end_char": 98452
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 98588,
+      "end_char": 98629
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 98779,
+      "end_char": 98789
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 99592,
+      "end_char": 99633
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 99966,
+      "end_char": 99976
+    },
+    {
+      "text": "Arbitration and Conciliation (Amendment) Act, 2015 (3 of 2016)",
+      "label": "STATUTE",
+      "start_char": 100280,
+      "end_char": 100342
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 100350,
+      "end_char": 100360
+    },
+    {
+      "text": "Part-II",
+      "label": "PROVISION",
+      "start_char": 101068,
+      "end_char": 101075
+    },
+    {
+      "text": "Sections 48 and 49",
+      "label": "PROVISION",
+      "start_char": 101185,
+      "end_char": 101203
+    },
+    {
+      "text": "section 44",
+      "label": "PROVISION",
+      "start_char": 101502,
+      "end_char": 101512
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 102999,
+      "end_char": 103004
+    },
+    {
+      "text": "Neutral Citation Number: 2023/DHC/000323",
+      "label": "CASE_NUMBER",
+      "start_char": 103067,
+      "end_char": 103107
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 103125,
+      "end_char": 103130
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 103252,
+      "end_char": 103257
+    },
+    {
+      "text": "section 75 or section 81",
+      "label": "PROVISION",
+      "start_char": 103368,
+      "end_char": 103392
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 104337,
+      "end_char": 104352
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 104670,
+      "end_char": 104680
+    },
+    {
+      "text": "sub- section (1) of Section 20",
+      "label": "PROVISION",
+      "start_char": 105217,
+      "end_char": 105247
+    },
+    {
+      "text": "BGS Soma",
+      "label": "ORG",
+      "start_char": 105537,
+      "end_char": 105545
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 105551,
+      "end_char": 105564
+    },
+    {
+      "text": "BGS Soma",
+      "label": "ORG",
+      "start_char": 105888,
+      "end_char": 105896
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 106152,
+      "end_char": 106167
+    },
+    {
+      "text": "Arbitration Act, 194015",
+      "label": "STATUTE",
+      "start_char": 106276,
+      "end_char": 106299
+    },
+    {
+      "text": "BGS Soma",
+      "label": "ORG",
+      "start_char": 106319,
+      "end_char": 106327
+    },
+    {
+      "text": "BGS Soma",
+      "label": "ORG",
+      "start_char": 106599,
+      "end_char": 106607
+    },
+    {
+      "text": "1940 Act",
+      "label": "STATUTE",
+      "start_char": 106635,
+      "end_char": 106643
+    },
+    {
+      "text": "Constitution Bench",
+      "label": "COURT",
+      "start_char": 106703,
+      "end_char": 106721
+    },
+    {
+      "text": "Balco v. Kaiser Aluminium Technical Services Inc.16",
+      "label": "PRECEDENT",
+      "start_char": 106725,
+      "end_char": 106776
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 107043,
+      "end_char": 107058
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 107246,
+      "end_char": 107261
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 107467,
+      "end_char": 107480
+    },
+    {
+      "text": "(2012) 9 SCC 552",
+      "label": "PRECEDENT",
+      "start_char": 108332,
+      "end_char": 108348
+    },
+    {
+      "text": "Neutral Citation Number: 2023/DHC/000323",
+      "label": "CASE_NUMBER",
+      "start_char": 108349,
+      "end_char": 108389
+    },
+    {
+      "text": "Part-I",
+      "label": "PROVISION",
+      "start_char": 109056,
+      "end_char": 109062
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 109142,
+      "end_char": 109155
+    },
+    {
+      "text": "BGS SOMA",
+      "label": "CASE_NUMBER",
+      "start_char": 109159,
+      "end_char": 109167
+    },
+    {
+      "text": "BGS SOMA",
+      "label": "CASE_NUMBER",
+      "start_char": 109459,
+      "end_char": 109467
+    },
+    {
+      "text": "Part-I",
+      "label": "PROVISION",
+      "start_char": 109585,
+      "end_char": 109591
+    },
+    {
+      "text": "Part-I",
+      "label": "PROVISION",
+      "start_char": 109702,
+      "end_char": 109708
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 109763,
+      "end_char": 109773
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 109779,
+      "end_char": 109792
+    },
+    {
+      "text": "BGS SOMA",
+      "label": "CASE_NUMBER",
+      "start_char": 109796,
+      "end_char": 109804
+    },
+    {
+      "text": "Sections 9, 14, 15, 29A, 34, 36 and 37",
+      "label": "PROVISION",
+      "start_char": 110469,
+      "end_char": 110507
+    },
+    {
+      "text": "Part-I",
+      "label": "PROVISION",
+      "start_char": 110521,
+      "end_char": 110527
+    },
+    {
+      "text": "Section 34, 36",
+      "label": "PROVISION",
+      "start_char": 110650,
+      "end_char": 110664
+    },
+    {
+      "text": "Section 37(c)",
+      "label": "PROVISION",
+      "start_char": 110701,
+      "end_char": 110714
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 110927,
+      "end_char": 110940
+    },
+    {
+      "text": "Associated Contractors",
+      "label": "ORG",
+      "start_char": 111278,
+      "end_char": 111300
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 111305,
+      "end_char": 111321
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 111395,
+      "end_char": 111411
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 111587,
+      "end_char": 111600
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 111604,
+      "end_char": 111620
+    },
+    {
+      "text": "Neutral Citation Number: 2023/DHC/000323",
+      "label": "CASE_NUMBER",
+      "start_char": 111736,
+      "end_char": 111776
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 111955,
+      "end_char": 111965
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 112159,
+      "end_char": 112175
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 112261,
+      "end_char": 112271
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 112352,
+      "end_char": 112362
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 112370,
+      "end_char": 112408
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 112437,
+      "end_char": 112450
+    },
+    {
+      "text": "Union of India v. Vedanta Ltd. 17",
+      "label": "PRECEDENT",
+      "start_char": 112454,
+      "end_char": 112487
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 112517,
+      "end_char": 112527
+    },
+    {
+      "text": "Arbitration Act, 1996",
+      "label": "STATUTE",
+      "start_char": 112535,
+      "end_char": 112556
+    },
+    {
+      "text": "Umesh Goel v. H.P. Coop",
+      "label": "PRECEDENT",
+      "start_char": 112736,
+      "end_char": 112759
+    },
+    {
+      "text": "Group Housing Society Ltd., (2016) 11 SCC 313 : (2016) 3 SCC (Civ) 795]",
+      "label": "PRECEDENT",
+      "start_char": 112761,
+      "end_char": 112832
+    },
+    {
+      "text": "Sundaram Finance Ltd. v. Abdul Samad, (2018) 3 SCC 622 : (2018) 2 SCC (Civ) 593",
+      "label": "PRECEDENT",
+      "start_char": 112916,
+      "end_char": 112995
+    },
+    {
+      "text": "Paramjeet Singh Patheja v. ICDS Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 113372,
+      "end_char": 113408
+    },
+    {
+      "text": "Paramjeet Singh Patheja v. ICDS Ltd., (2006) 13 SCC 322",
+      "label": "PRECEDENT",
+      "start_char": 113410,
+      "end_char": 113465
+    },
+    {
+      "text": "Paramjeet Singh Patheja",
+      "label": "OTHER_PERSON",
+      "start_char": 113767,
+      "end_char": 113790
+    },
+    {
+      "text": "Paramjeet Singh Patheja v. ICDS Ltd., (2006) 13",
+      "label": "PRECEDENT",
+      "start_char": 113792,
+      "end_char": 113839
+    },
+    {
+      "text": "SCC 322",
+      "label": "CASE_NUMBER",
+      "start_char": 113840,
+      "end_char": 113847
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 113939,
+      "end_char": 113949
+    },
+    {
+      "text": "Arbitration Act, 1899",
+      "label": "STATUTE",
+      "start_char": 113957,
+      "end_char": 113978
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 114128,
+      "end_char": 114138
+    },
+    {
+      "text": "Arbitration Act of 1940",
+      "label": "STATUTE",
+      "start_char": 114146,
+      "end_char": 114169
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 114295,
+      "end_char": 114298
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 114438,
+      "end_char": 114441
+    },
+    {
+      "text": "Insolvency Act",
+      "label": "STATUTE",
+      "start_char": 114521,
+      "end_char": 114535
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 114987,
+      "end_char": 114997
+    },
+    {
+      "text": "Vedanta",
+      "label": "GPE",
+      "start_char": 115012,
+      "end_char": 115019
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 115042,
+      "end_char": 115055
+    },
+    {
+      "text": "Amazon",
+      "label": "ORG",
+      "start_char": 115082,
+      "end_char": 115088
+    },
+    {
+      "text": "Com NV Investment Holdings LLC v. Future Retail Limited.18",
+      "label": "PRECEDENT",
+      "start_char": 115090,
+      "end_char": 115148
+    },
+    {
+      "text": "Vedanta [Union of India v. Vedanta Ltd., (2020) 10 SCC 1]",
+      "label": "PRECEDENT",
+      "start_char": 115220,
+      "end_char": 115277
+    },
+    {
+      "text": "Section 49",
+      "label": "PROVISION",
+      "start_char": 115351,
+      "end_char": 115361
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 115369,
+      "end_char": 115384
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 115528,
+      "end_char": 115543
+    },
+    {
+      "text": "Order 21",
+      "label": "PROVISION",
+      "start_char": 115573,
+      "end_char": 115581
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 115589,
+      "end_char": 115612
+    },
+    {
+      "text": "Article 136",
+      "label": "PROVISION",
+      "start_char": 115674,
+      "end_char": 115685
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 115693,
+      "end_char": 115707
+    },
+    {
+      "text": "Order 21",
+      "label": "PROVISION",
+      "start_char": 115742,
+      "end_char": 115750
+    },
+    {
+      "text": "Article 137",
+      "label": "PROVISION",
+      "start_char": 115795,
+      "end_char": 115806
+    },
+    {
+      "text": "Limitation Act",
+      "label": "STATUTE",
+      "start_char": 115814,
+      "end_char": 115828
+    },
+    {
+      "text": "Salve",
+      "label": "OTHER_PERSON",
+      "start_char": 115834,
+      "end_char": 115839
+    },
+    {
+      "text": "Section 49",
+      "label": "PROVISION",
+      "start_char": 115898,
+      "end_char": 115908
+    },
+    {
+      "text": "2022) 1 SCC 209",
+      "label": "CASE_NUMBER",
+      "start_char": 115986,
+      "end_char": 116001
+    },
+    {
+      "text": "Order 21",
+      "label": "PROVISION",
+      "start_char": 116216,
+      "end_char": 116224
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 116232,
+      "end_char": 116255
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 116270,
+      "end_char": 116285
+    },
+    {
+      "text": "Section 49",
+      "label": "PROVISION",
+      "start_char": 116318,
+      "end_char": 116328
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 117121,
+      "end_char": 117134
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 117138,
+      "end_char": 117154
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 117580,
+      "end_char": 117593
+    },
+    {
+      "text": "ICOMM Tele Ltd. v. Punjab State Water Supply and Sewerage Board19",
+      "label": "PRECEDENT",
+      "start_char": 117597,
+      "end_char": 117662
+    },
+    {
+      "text": "(2019) 4 SCC 401 Neutral Citation Number: 2023/DHC/000323",
+      "label": "CASE_NUMBER",
+      "start_char": 117827,
+      "end_char": 117884
+    },
+    {
+      "text": "Centrotrade Minerals & Metal Inc. v. Hindustan Copper Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 117954,
+      "end_char": 118012
+    },
+    {
+      "text": "Centrotrade Minerals & Metal Inc. v. Hindustan Copper Ltd., (2017) 2 SCC 228 : (2017) 1 SCC (Civ) 593",
+      "label": "PRECEDENT",
+      "start_char": 118014,
+      "end_char": 118115
+    },
+    {
+      "text": "Union of India v. U.P. State Bridge Corpn",
+      "label": "PRECEDENT",
+      "start_char": 118166,
+      "end_char": 118207
+    },
+    {
+      "text": "Union of India v. U.P. State Bridge Corpn",
+      "label": "PRECEDENT",
+      "start_char": 118216,
+      "end_char": 118257
+    },
+    {
+      "text": "SCC 52 : (2015) 1 SCC (Civ) 732]",
+      "label": "CASE_NUMBER",
+      "start_char": 118274,
+      "end_char": 118306
+    },
+    {
+      "text": "Indu Malhotra",
+      "label": "OTHER_PERSON",
+      "start_char": 118338,
+      "end_char": 118351
+    },
+    {
+      "text": "O.P. Malhotra",
+      "label": "OTHER_PERSON",
+      "start_char": 118353,
+      "end_char": 118366
+    },
+    {
+      "text": "Thomson Reuters, 2014",
+      "label": "STATUTE",
+      "start_char": 118434,
+      "end_char": 118455
+    },
+    {
+      "text": "A&C Act",
+      "label": "STATUTE",
+      "start_char": 118468,
+      "end_char": 118475
+    },
+    {
+      "text": "Union of India v. Varindera Constructions Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 119083,
+      "end_char": 119129
+    },
+    {
+      "text": "Union of India v. Varindera Constructions Ltd., (2018) 7 SCC 794",
+      "label": "PRECEDENT",
+      "start_char": 119131,
+      "end_char": 119195
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 119484,
+      "end_char": 119522
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 119675,
+      "end_char": 119684
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 120272,
+      "end_char": 120285
+    },
+    {
+      "text": "BGS Soma",
+      "label": "ORG",
+      "start_char": 120289,
+      "end_char": 120297
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 120547,
+      "end_char": 120560
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 120564,
+      "end_char": 120580
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 120620,
+      "end_char": 120636
+    },
+    {
+      "text": "BGS SOMA",
+      "label": "ORG",
+      "start_char": 121350,
+      "end_char": 121358
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 121487,
+      "end_char": 121502
+    },
+    {
+      "text": "Sections 36 to 46",
+      "label": "PROVISION",
+      "start_char": 121775,
+      "end_char": 121792
+    },
+    {
+      "text": "Part II",
+      "label": "PROVISION",
+      "start_char": 121866,
+      "end_char": 121873
+    },
+    {
+      "text": "Neutral Citation Number: 2023/DHC/000323",
+      "label": "CASE_NUMBER",
+      "start_char": 121917,
+      "end_char": 121957
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 122076,
+      "end_char": 122086
+    },
+    {
+      "text": "Section 38",
+      "label": "PROVISION",
+      "start_char": 122176,
+      "end_char": 122186
+    },
+    {
+      "text": "Section 39",
+      "label": "PROVISION",
+      "start_char": 122326,
+      "end_char": 122336
+    },
+    {
+      "text": "Section 46",
+      "label": "PROVISION",
+      "start_char": 123029,
+      "end_char": 123039
+    },
+    {
+      "text": "Part II",
+      "label": "PROVISION",
+      "start_char": 123304,
+      "end_char": 123311
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 123586,
+      "end_char": 123596
+    },
+    {
+      "text": "BGS SOMA",
+      "label": "ORG",
+      "start_char": 123806,
+      "end_char": 123814
+    },
+    {
+      "text": "Section 39(4)",
+      "label": "PROVISION",
+      "start_char": 124284,
+      "end_char": 124297
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 124921,
+      "end_char": 124937
+    },
+    {
+      "text": "Neutral Citation Number: 2023/DHC/000323",
+      "label": "CASE_NUMBER",
+      "start_char": 125386,
+      "end_char": 125426
+    },
+    {
+      "text": "Section 39(4)",
+      "label": "PROVISION",
+      "start_char": 125435,
+      "end_char": 125448
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 125527,
+      "end_char": 125543
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 125615,
+      "end_char": 125631
+    },
+    {
+      "text": "BGS SOMA",
+      "label": "ORG",
+      "start_char": 125636,
+      "end_char": 125644
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 125827,
+      "end_char": 125843
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 126520,
+      "end_char": 126537
+    },
+    {
+      "text": "Global Asia Venture Company versus Arup Parimal Deb and Others20",
+      "label": "PRECEDENT",
+      "start_char": 126541,
+      "end_char": 126605
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 126632,
+      "end_char": 126649
+    },
+    {
+      "text": "2018 SCC OnLine Bom 13061",
+      "label": "CASE_NUMBER",
+      "start_char": 126914,
+      "end_char": 126939
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 127071,
+      "end_char": 127087
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 127180,
+      "end_char": 127196
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 127244,
+      "end_char": 127260
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 127264,
+      "end_char": 127274
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 127282,
+      "end_char": 127297
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 127303,
+      "end_char": 127316
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 127364,
+      "end_char": 127370
+    },
+    {
+      "text": "Sundaram Finance Court",
+      "label": "COURT",
+      "start_char": 127512,
+      "end_char": 127534
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 127560,
+      "end_char": 127570
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 127692,
+      "end_char": 127702
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 127997,
+      "end_char": 128013
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 128023,
+      "end_char": 128038
+    },
+    {
+      "text": "Section 39(4)",
+      "label": "PROVISION",
+      "start_char": 128097,
+      "end_char": 128110
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 128146,
+      "end_char": 128162
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 128331,
+      "end_char": 128347
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 128710,
+      "end_char": 128726
+    },
+    {
+      "text": "2(1)(e) Court",
+      "label": "PROVISION",
+      "start_char": 128817,
+      "end_char": 128830
+    },
+    {
+      "text": "Neutral Citation Number: 2023/DHC/000323 Section 36",
+      "label": "CASE_NUMBER",
+      "start_char": 129655,
+      "end_char": 129706
+    },
+    {
+      "text": "Section 36(1)",
+      "label": "PROVISION",
+      "start_char": 129811,
+      "end_char": 129824
+    },
+    {
+      "text": "Section 36(1)",
+      "label": "PROVISION",
+      "start_char": 130005,
+      "end_char": 130018
+    },
+    {
+      "text": "Section 36(1)",
+      "label": "PROVISION",
+      "start_char": 130217,
+      "end_char": 130230
+    },
+    {
+      "text": "Section 36(1)",
+      "label": "PROVISION",
+      "start_char": 130521,
+      "end_char": 130534
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 130608,
+      "end_char": 130623
+    },
+    {
+      "text": "Jagtiani",
+      "label": "OTHER_PERSON",
+      "start_char": 130629,
+      "end_char": 130637
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 130705,
+      "end_char": 130714
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 131124,
+      "end_char": 131139
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 131190,
+      "end_char": 131206
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 131606,
+      "end_char": 131616
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 131727,
+      "end_char": 131737
+    },
+    {
+      "text": "BALCO",
+      "label": "ORG",
+      "start_char": 131754,
+      "end_char": 131759
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 131822,
+      "end_char": 131837
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 131845,
+      "end_char": 131860
+    },
+    {
+      "text": "Section 20",
+      "label": "PROVISION",
+      "start_char": 131866,
+      "end_char": 131876
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 131923,
+      "end_char": 131939
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 132177,
+      "end_char": 132194
+    },
+    {
+      "text": "Global Asia",
+      "label": "GPE",
+      "start_char": 132198,
+      "end_char": 132209
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 132211,
+      "end_char": 132227
+    },
+    {
+      "text": "Neutral Citation Number: 2023/DHC/000323",
+      "label": "CASE_NUMBER",
+      "start_char": 132264,
+      "end_char": 132304
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 132538,
+      "end_char": 132554
+    },
+    {
+      "text": "2(1)(e) Court",
+      "label": "PROVISION",
+      "start_char": 132645,
+      "end_char": 132658
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 133389,
+      "end_char": 133402
+    },
+    {
+      "text": "Associated Contractors",
+      "label": "ORG",
+      "start_char": 133406,
+      "end_char": 133428
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 133630,
+      "end_char": 133640
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 133714,
+      "end_char": 133727
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 133817,
+      "end_char": 133826
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 133869,
+      "end_char": 133888
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 133944,
+      "end_char": 133954
+    },
+    {
+      "text": "Calcutta High Neutral Citation Number: 2023/DHC/000323 Court",
+      "label": "COURT",
+      "start_char": 133999,
+      "end_char": 134059
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 134144,
+      "end_char": 134154
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 134210,
+      "end_char": 134219
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 134268,
+      "end_char": 134274
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 134344,
+      "end_char": 134354
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 134455,
+      "end_char": 134468
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 134569,
+      "end_char": 134579
+    },
+    {
+      "text": "Part I",
+      "label": "PROVISION",
+      "start_char": 134824,
+      "end_char": 134830
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 134865,
+      "end_char": 134875
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 134966,
+      "end_char": 134976
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 135110,
+      "end_char": 135120
+    },
+    {
+      "text": "Daelim",
+      "label": "OTHER_PERSON",
+      "start_char": 135959,
+      "end_char": 135965
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 135977,
+      "end_char": 135993
+    },
+    {
+      "text": "Section 42",
+      "label": "PROVISION",
+      "start_char": 136790,
+      "end_char": 136800
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 136884,
+      "end_char": 136900
+    },
+    {
+      "text": "Associated Contractors",
+      "label": "ORG",
+      "start_char": 137561,
+      "end_char": 137583
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 137588,
+      "end_char": 137604
+    },
+    {
+      "text": "Sundaram Finance",
+      "label": "ORG",
+      "start_char": 137646,
+      "end_char": 137662
+    },
+    {
+      "text": "Jaipur Commercial Court",
+      "label": "COURT",
+      "start_char": 137757,
+      "end_char": 137780
+    },
+    {
+      "text": "Jaipur Commercial Court",
+      "label": "COURT",
+      "start_char": 138324,
+      "end_char": 138347
+    },
+    {
+      "text": "Rajasthan",
+      "label": "GPE",
+      "start_char": 138574,
+      "end_char": 138583
+    },
+    {
+      "text": "YASHWANT VARMA",
+      "label": "JUDGE",
+      "start_char": 138723,
+      "end_char": 138737
+    },
+    {
+      "text": "JANUARY 17, 2023",
+      "label": "DATE",
+      "start_char": 138742,
+      "end_char": 138758
+    }
+  ],
+  "precedent_clusters": {
+    "Naviera Amazonica Peruana SA v. Compania International de Seguros del Peru [NavieraAmazonica Peruana SA v. Compania International de Seguros del Peru, (1988)": [
+      "India Infoline Finance Limited v. Siddharth CT Scan2",
+      "State of W.B. v. Associated Contractors3",
+      "Associated Contractors and Sundaram Finance Ltd. vs. Abdul Samad4",
+      "P. Anand Gajapathi Raju v. P.V.G. Raju [(2000) 4",
+      "State of M.P. v. Saith and Skelton (P) Ltd.",
+      "Guru Nanak Foundation v. Rattan Singh & Sons",
+      "National Aluminium Co. Ltd. v. Pressteel & Fabrications (P) Ltd.",
+      "Garhwal case [(2008) 6",
+      "JSW Steel Ltd. v. Jindal Praxair Oxygen Co. Ltd.",
+      "Daelim Industrial Co. Ltd. v. Numaligarh Refinery Ltd.5",
+      "Daelim Industrial Co. Ltd. v. Numaligarh Refinery Ltd.",
+      "Kotak Mahindra Bank Ltd. v. SivakamaSundari",
+      "Ess Kay Fincorp Limited vs. Suresh Chaudhry8",
+      "Union of India v. Hardy Exploration and Production (India) Inc.9",
+      "Cheran Properties Ltd. v. Kasturi & Sons Ltd.10",
+      "Union of India v. Atlanta Ltd.12",
+      "State Trading Corporation of India Ltd. v. Global Steel Holdings Ltd.",
+      "Dr. S.C. Jain v. Sahny Securities Pvt",
+      "BGS SGS SOMA JV v. NHPC13",
+      "Naviera Amazonica Peruana SA v. Compania International de Seguros del Peru [NavieraAmazonica Peruana SA v. Compania International de Seguros del Peru, (1988)",
+      "Union of India v. McDonnell Douglas Corpn",
+      "C v. D",
+      "Swastik Gases (P) Ltd. v. Indian Oil Corpn",
+      "Swastik Gases (P) Ltd. v. Indian Oil Corpn",
+      "B.E. Simoese Von Staraburg Niedenthal v. Chhattisgarh Investment Ltd.",
+      "Brahmani River Pellets Ltd. v. Kamachi Industries Ltd.",
+      "Balco [Balco v. Kaiser Aluminium Technical Services Inc., (2012)",
+      "Enercon (India) Ltd. v. Enercon GmbH",
+      "Shashoua v. Sharma14",
+      "Balco v. Kaiser Aluminium Technical Services Inc.16",
+      "Union of India v. Vedanta Ltd. 17",
+      "Umesh Goel v. H.P. Coop",
+      "Paramjeet Singh Patheja v. ICDS Ltd.",
+      "Paramjeet Singh Patheja v. ICDS Ltd., (2006) 13",
+      "Com NV Investment Holdings LLC v. Future Retail Limited.18",
+      "ICOMM Tele Ltd. v. Punjab State Water Supply and Sewerage Board19",
+      "Centrotrade Minerals & Metal Inc. v. Hindustan Copper Ltd.",
+      "Union of India v. U.P. State Bridge Corpn",
+      "Union of India v. U.P. State Bridge Corpn",
+      "Union of India v. Varindera Constructions Ltd.",
+      "Global Asia Venture Company versus Arup Parimal Deb and Others20"
+    ],
+    "Bharat Coking Coal Ltd. v. Annapurna Construction [(2008) 6 SCC 732]": [
+      "Bharat Coking Coal Ltd. v. Annapurna Construction [(2008) 6 SCC 732]",
+      "Bharat Coking Coal [(2008) 6 SCC 732]"
+    ],
+    "Daelim Industrial Co. Ltd. v. Numaligarh Refinery Ltd., 2009 SCC OnLine Del 511 : (2009) 159 DLT 579": [
+      "2009 SCC OnLine Del 511 6",
+      "Daelim Industrial Co. Ltd. v. Numaligarh Refinery Ltd., 2009 SCC OnLine Del 511 : (2009) 159 DLT 579"
+    ],
+    "Kotak Mahindra Bank Ltd. v. SivakamaSundari, 2011 SCC OnLine Mad 1290 : (2011) 4 LW 745": [
+      "Kotak Mahindra Bank Ltd. v. SivakamaSundari, 2011 SCC OnLine Mad 1290 : (2011) 4 LW 745",
+      "2011 SCC OnLine Raj 2748 AIR 2020 RaJ 56"
+    ],
+    "Datawind Innovations (P) Ltd. v. Indus Mobile Distribution (P) Ltd., 2016 SCC OnLine Del 3744 : (2016) 158 DRJ 391]": [
+      "ICI-SOMA JV v. Simplex Infrastructures Ltd. 2016 SCC OnLine Del 5315",
+      "Datawind Innovations (P) Ltd. v. Indus Mobile Distribution (P) Ltd., 2016 SCC OnLine Del 3744 : (2016) 158 DRJ 391]"
+    ],
+    "Balco [Balco v. Kaiser Aluminium Technical Services Inc., (2012) 9 SCC 552 : (2012) 4 SCC (Civ) 810]": [
+      "Balco [Balco v. Kaiser Aluminium Technical Services Inc., (2012) 9 SCC 552 : (2012) 4 SCC (Civ)",
+      "Balco [Balco v. Kaiser Aluminium Technical Services Inc., (2012) 9 SCC 552 : (2012) 4 SCC (Civ) 810]",
+      "Balco [Balco v. Kaiser Aluminium Technical Services Inc., (2012) 9 SCC 552 : (2012) 4 SCC (Civ) 810]",
+      "Balco [Balco v. Kaiser Aluminium Technical Services Inc., (2012) 9 SCC 552 : (2012) 4 SCC (Civ) 810]",
+      "Balco [Balco v. Kaiser Aluminium Technical Services Inc., (2012) 9 SCC 552 : (2012) 4 SCC (Civ) 810]",
+      "Balco [Balco v. Kaiser Aluminium Technical Services Inc., (2012) 9 SCC 552 : (2012) 4 SCC (Civ) 810]",
+      "Balco [Balco v. Kaiser Aluminium Technical Services Inc., (2012) 9 SCC 552 : (2012) 4 SCC (Civ) 810]",
+      "Balco [Balco v. Kaiser Aluminium Technical Services Inc., (2012) 9 SCC 552 : (2012) 4 SCC (Civ) 810]"
+    ],
+    "Shashoua v. Sharma [Shashoua v. Sharma, 2009 EWHC 957 (Comm) : (2009) 2 Lloyd's Law Rep 376": [
+      "Shashoua v. Sharma [Shashoua v. Sharma, 2009 EWHC 957 (Comm) : (2009) 2 Lloyd's Law Rep 376",
+      "Shashoua v. Sharma, 2009 EWHC 957 (Comm) : (2009) 2 Lloyd's Law Rep 376",
+      "Shashoua [Shashoua v. Sharma, 2009 EWHC 957 (Comm) :\n(2009) 2 Lloyd's Law Rep 376",
+      "Shashoua v. Sharma, 2009 EWHC 957 (Comm) : (2009) 2 Lloyd's Law Rep 376"
+    ],
+    "Enercon case [Enercon (India) Ltd. v. Enercon GmbH, (2014) 5 SCC 1 : (2014) 3 SCC (Civ) 59]": [
+      "Enercon (India) Ltd. v. Enercon GmbH, (2014) 5 SCC 1 :\n(2014) 3 SCC (Civ) 59",
+      "Enercon case [Enercon (India) Ltd. v. Enercon GmbH, (2014) 5 SCC 1 : (2014) 3 SCC (Civ) 59]"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 38",
+      "Code of Civil Procedure, 1908",
+      "Section 38",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 2(1) (e)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 2(1) (e)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Article XXIII",
+      "Hotel Management Agreement",
+      "Article XXIII",
+      "Hotel Management Agreement"
+    ],
+    [
+      "Section 31(4)",
+      "1940 Act",
+      "Section 31(4)",
+      "1940 Act"
+    ],
+    [
+      "Part I",
+      "Arbitration Act, 1996",
+      "Part I",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Part I",
+      "Arbitration Act, 1996",
+      "Part I",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 2(c)",
+      "1940 Act",
+      "Section 2(c)",
+      "1940 Act"
+    ],
+    [
+      "Section 31(4)",
+      "1940 Act",
+      "Section 31(4)",
+      "1940 Act"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Part I",
+      "Arbitration Act, 1996",
+      "Part I",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 36",
+      "CPC",
+      "Section 36",
+      "CPC"
+    ],
+    [
+      "Section 38",
+      "CPC",
+      "Section 38",
+      "CPC"
+    ],
+    [
+      "Section 38",
+      "CPC",
+      "Section 38",
+      "CPC"
+    ],
+    [
+      "Section 635",
+      "Companies Act",
+      "Section 635",
+      "Companies Act"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act",
+      "Section 36",
+      "Arbitration Act"
+    ],
+    [
+      "Section 38",
+      "CPC",
+      "Section 38",
+      "CPC"
+    ],
+    [
+      "Sections 10(3) and 15 (2)",
+      "Commercial Courts Act, 2015",
+      "Sections 10(3) and 15 (2)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 111",
+      "Companies Act, 2013",
+      "Section 111",
+      "Companies Act, 2013"
+    ],
+    [
+      "Section 2(1)(c)",
+      "Arbitration Act, 1940",
+      "Section 2(1)(c)",
+      "Arbitration Act, 1940"
+    ],
+    [
+      "Articles 8, 9, 35 and 36",
+      "Arbitration Act, 1996",
+      "Articles 8, 9, 35 and 36",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Arbitration Act, 1996",
+      "Section 2(1)(e)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act, 1996",
+      "Section 17",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 20",
+      "Arbitration Act, 1996",
+      "Section 20",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 20",
+      "Indian Arbitration Act, 1996",
+      "Section 20",
+      "Indian Arbitration Act, 1996"
+    ],
+    [
+      "Section 105",
+      "English Arbitration Act, 1996",
+      "Section 105",
+      "English Arbitration Act, 1996"
+    ],
+    [
+      "Section 20",
+      "Arbitration Act, 1996",
+      "Section 20",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Arbitration Act, 1996",
+      "Section 2(1)(e)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 2(2)",
+      "UNCITRAL Model Law",
+      "Section 2(2)",
+      "UNCITRAL Model Law"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Arbitration Act, 1996",
+      "Section 2(1)(e)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Sections 2(1)(e) and 20",
+      "Arbitration Act, 1996",
+      "Sections 2(1)(e) and 20",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Sections 16 to 21",
+      "Code of Civil Procedure",
+      "Sections 16 to 21",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act, 1996",
+      "Section 9",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 20(2)",
+      "Arbitration Act, 1996",
+      "Section 20(2)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 3",
+      "Arbitration Act 1996",
+      "Section 3",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Article 2",
+      "Geneva Protocol",
+      "Article 2",
+      "Geneva Protocol"
+    ],
+    [
+      "Article 16(3)",
+      "LCIA Rules",
+      "Article 16(3)",
+      "LCIA Rules"
+    ],
+    [
+      "Section 20",
+      "UNCITRAL Model Law",
+      "Section 20",
+      "UNCITRAL Model Law"
+    ],
+    [
+      "Section 36",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 36",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act, 1996",
+      "Section 36",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 15",
+      "Arbitration Act, 1899",
+      "Section 15",
+      "Arbitration Act, 1899"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act of 1940",
+      "Section 17",
+      "Arbitration Act of 1940"
+    ],
+    [
+      "Section 49",
+      "Arbitration Act",
+      "Section 49",
+      "Arbitration Act"
+    ],
+    [
+      "Order 21",
+      "Code of Civil Procedure",
+      "Order 21",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Article 136",
+      "Limitation Act",
+      "Article 136",
+      "Limitation Act"
+    ],
+    [
+      "Article 137",
+      "Limitation Act",
+      "Article 137",
+      "Limitation Act"
+    ],
+    [
+      "Order 21",
+      "Code of Civil Procedure",
+      "Order 21",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 49",
+      "Arbitration Act",
+      "Section 49",
+      "Arbitration Act"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act",
+      "Section 42",
+      "Arbitration Act"
+    ],
+    [
+      "Section 36(1)",
+      "Arbitration Act",
+      "Section 36(1)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Arbitration Act",
+      "Section 2(1)(e)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act, 1996",
+      "Section 9",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act, 1996",
+      "Section 9",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34 and Section 9",
+      "Arbitration Act, 1996",
+      "Section 34 and Section 9",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Article XXIII",
+      "Hotel Management Agreement",
+      "Article XXIII",
+      "Hotel Management Agreement"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34",
+      "1940 Act",
+      "Section 34",
+      "1940 Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act, 1996",
+      "Section 9",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34",
+      "1940 Act",
+      "Section 34",
+      "1940 Act"
+    ],
+    [
+      "Section 34",
+      "1940 Act",
+      "Section 34",
+      "1940 Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act, 1996",
+      "Section 9",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34",
+      "1940 Act",
+      "Section 34",
+      "1940 Act"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Part I",
+      "Arbitration Act, 1996",
+      "Part I",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Part I",
+      "Arbitration Act, 1996",
+      "Part I",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 8",
+      "Arbitration Act, 1996",
+      "Section 8",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 8",
+      "Arbitration Act, 1996",
+      "Section 8",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 8",
+      "Arbitration Act, 1996",
+      "Section 8",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 8",
+      "Arbitration Act, 1996",
+      "Section 8",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 8",
+      "Arbitration Act, 1996",
+      "Section 8",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 2(1)(e)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 2(1)(e)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 11",
+      "1940 Act",
+      "Section 11",
+      "1940 Act"
+    ],
+    [
+      "Section 11",
+      "1940 Act",
+      "Section 11",
+      "1940 Act"
+    ],
+    [
+      "Sub-section (12) of Section 11",
+      "1940 Act",
+      "Sub-section (12) of Section 11",
+      "1940 Act"
+    ],
+    [
+      "clause (e) of sub-section (1) of Section 2",
+      "Arbitration and Conciliation Act, 1996",
+      "clause (e) of sub-section (1) of Section 2",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 11(12)(b)",
+      "1940 Act",
+      "Section 11(12)(b)",
+      "1940 Act"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 2(1)(e)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 2(1)(e)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 8 and 11",
+      "1940 Act",
+      "Section 8 and 11",
+      "1940 Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act, 1996",
+      "Section 9",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Part I",
+      "Arbitration Act, 1996",
+      "Part I",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act, 1996",
+      "Section 9",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 2(1)(e)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 2(c)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 2(c)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 2(1)(e)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 2(1)(e)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 2(1)(e)",
+      "1940 Act",
+      "Section 2(1)(e)",
+      "1940 Act"
+    ],
+    [
+      "Section 2(1)(e)",
+      "1940 Act",
+      "Section 2(1)(e)",
+      "1940 Act"
+    ],
+    [
+      "Article 136",
+      "Limitation Act",
+      "Article 136",
+      "Limitation Act"
+    ],
+    [
+      "Sections 9 and 34",
+      "1940 Act",
+      "Sections 9 and 34",
+      "1940 Act"
+    ],
+    [
+      "Article 136",
+      "Limitation Act",
+      "Article 136",
+      "Limitation Act"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 2(1)(e)",
+      "1940 Act",
+      "Section 2(1)(e)",
+      "1940 Act"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 2(1)(e)",
+      "1940 Act",
+      "Section 2(1)(e)",
+      "1940 Act"
+    ],
+    [
+      "Section 2(1)(e)",
+      "1940 Act",
+      "Section 2(1)(e)",
+      "1940 Act"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Part I",
+      "Arbitration Act, 1996",
+      "Part I",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Part I",
+      "Arbitration Act, 1996",
+      "Part I",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 8",
+      "Arbitration Act, 1996",
+      "Section 8",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 11",
+      "1940 Act",
+      "Section 11",
+      "1940 Act"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act, 1996",
+      "Section 9",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34",
+      "1940 Act",
+      "Section 34",
+      "1940 Act"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 2(1)(e)",
+      "1940 Act",
+      "Section 2(1)(e)",
+      "1940 Act"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act, 1996",
+      "Section 9",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34",
+      "1940 Act",
+      "Section 34",
+      "1940 Act"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 36",
+      "CPC",
+      "Section 36",
+      "CPC"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Part I.",
+      "Arbitration Act, 1996",
+      "Part I.",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 33 and sub-section (4) of Section 34",
+      "1940 Act",
+      "Section 33 and sub-section (4) of Section 34",
+      "1940 Act"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 38",
+      "Code of Civil Procedure, 1908",
+      "Section 38",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 36",
+      "CPC",
+      "Section 36",
+      "CPC"
+    ],
+    [
+      "Section 36",
+      "CPC",
+      "Section 36",
+      "CPC"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34",
+      "1940 Act",
+      "Section 34",
+      "1940 Act"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 36",
+      "CPC",
+      "Section 36",
+      "CPC"
+    ],
+    [
+      "Section 2(1)(e)",
+      "1940 Act",
+      "Section 2(1)(e)",
+      "1940 Act"
+    ],
+    [
+      "Section 36",
+      "CPC",
+      "Section 36",
+      "CPC"
+    ],
+    [
+      "Section 2(1)(e)",
+      "1940 Act",
+      "Section 2(1)(e)",
+      "1940 Act"
+    ],
+    [
+      "Section 2(1(e)",
+      "1940 Act",
+      "Section 2(1(e)",
+      "1940 Act"
+    ],
+    [
+      "Section 36",
+      "CPC",
+      "Section 36",
+      "CPC"
+    ],
+    [
+      "Section 49",
+      "Arbitration Act",
+      "Section 49",
+      "Arbitration Act"
+    ],
+    [
+      "Section 49",
+      "Arbitration Act",
+      "Section 49",
+      "Arbitration Act"
+    ],
+    [
+      "Section 36",
+      "CPC",
+      "Section 36",
+      "CPC"
+    ],
+    [
+      "Section 635",
+      "Companies Act",
+      "Section 635",
+      "Companies Act"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act",
+      "Section 36",
+      "Arbitration Act"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act",
+      "Section 36",
+      "Arbitration Act"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34",
+      "1940 Act",
+      "Section 34",
+      "1940 Act"
+    ],
+    [
+      "Section 34",
+      "1940 Act",
+      "Section 34",
+      "1940 Act"
+    ],
+    [
+      "Section 34",
+      "1940 Act",
+      "Section 34",
+      "1940 Act"
+    ],
+    [
+      "Section 20",
+      "Arbitration Act, 1996",
+      "Section 20",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Articles V(1)(a) and (e)",
+      "Code of Civil Procedure, 1908",
+      "Articles V(1)(a) and (e)",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 2(1)(e), Section 20 and Section 28",
+      "Arbitration Act, 1996",
+      "Section 2(1)(e), Section 20 and Section 28",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Part I",
+      "Arbitration Act, 1996",
+      "Part I",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 2(2)",
+      "Arbitration Act, 1940",
+      "Section 2(2)",
+      "Arbitration Act, 1940"
+    ],
+    [
+      "Section 2(2)",
+      "Arbitration Act, 1940",
+      "Section 2(2)",
+      "Arbitration Act, 1940"
+    ],
+    [
+      "Part I",
+      "Arbitration Act, 1996",
+      "Part I",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Part I",
+      "Arbitration Act, 1996",
+      "Part I",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Part I",
+      "Arbitration Act, 1996",
+      "Part I",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Arbitration Act, 1996",
+      "Section 2(1)(e)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Part I.",
+      "Arbitration Act, 1996",
+      "Part I.",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Arbitration Act, 1996",
+      "Section 2(1)(e)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 20",
+      "Arbitration Act, 1996",
+      "Section 20",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 20",
+      "Arbitration Act, 1996",
+      "Section 20",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 37",
+      "1940 Act",
+      "Section 37",
+      "1940 Act"
+    ],
+    [
+      "Section 20",
+      "Arbitration Act, 1996",
+      "Section 20",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 20",
+      "Arbitration Act, 1996",
+      "Section 20",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 20(2)",
+      "Arbitration Act, 1996",
+      "Section 20(2)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 20(3)",
+      "Arbitration Act, 1996",
+      "Section 20(3)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 20(3)",
+      "Arbitration Act, 1996",
+      "Section 20(3)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 20",
+      "Arbitration Act, 1996",
+      "Section 20",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 2(2)",
+      "Arbitration Act, 1996",
+      "Section 2(2)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Part I",
+      "Arbitration Act, 1996",
+      "Part I",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 20",
+      "Arbitration Act, 1996",
+      "Section 20",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Part I",
+      "Arbitration Act, 1996",
+      "Part I",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 20",
+      "Arbitration Act, 1996",
+      "Section 20",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Arbitration Act, 1996",
+      "Section 2(1)(e)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 3",
+      "Arbitration Act 1996",
+      "Section 3",
+      "Arbitration Act 1996"
+    ],
+    [
+      "Section 2(1)(e)",
+      "UNCITRAL Model Law",
+      "Section 2(1)(e)",
+      "UNCITRAL Model Law"
+    ],
+    [
+      "Section 20",
+      "Arbitration Act, 1996",
+      "Section 20",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 20",
+      "Arbitration Act, 1996",
+      "Section 20",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 20",
+      "Arbitration Act, 1996",
+      "Section 20",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 2(2)",
+      "Arbitration Act, 1996",
+      "Section 2(2)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Sections 20(1) and 20(2)",
+      "Arbitration Act, 1996",
+      "Sections 20(1) and 20(2)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 20(3)",
+      "Arbitration Act, 1996",
+      "Section 20(3)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act, 1996",
+      "Section 9",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34",
+      "1940 Act",
+      "Section 34",
+      "1940 Act"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Part I",
+      "Arbitration Act, 1996",
+      "Part I",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Article 1(2)",
+      "Code of Civil Procedure, 1908",
+      "Article 1(2)",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "articles 8, 9, 35 and 36",
+      "Arbitration Act, 1996",
+      "articles 8, 9, 35 and 36",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Article 20(2)",
+      "Arbitration Act, 1996",
+      "Article 20(2)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Geneva Protocol",
+      "Section 2(1)(e)",
+      "Geneva Protocol"
+    ],
+    [
+      "Section 2 (1)(e)\n(e)",
+      "Geneva Protocol",
+      "Section 2 (1)(e)\n(e)",
+      "Geneva Protocol"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act, 1996",
+      "Section 36",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "section 34",
+      "1940 Act",
+      "section 34",
+      "1940 Act"
+    ],
+    [
+      "section 34",
+      "1940 Act",
+      "section 34",
+      "1940 Act"
+    ],
+    [
+      "section 34",
+      "1940 Act",
+      "section 34",
+      "1940 Act"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Sections 48 and 49",
+      "Arbitration Act",
+      "Sections 48 and 49",
+      "Arbitration Act"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Geneva Protocol",
+      "Section 2(1)(e)",
+      "Geneva Protocol"
+    ],
+    [
+      "Section 20",
+      "Arbitration Act, 1996",
+      "Section 20",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "sub- section (1) of Section 20",
+      "Arbitration Act, 1996",
+      "sub- section (1) of Section 20",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Geneva Protocol",
+      "Section 2(1)(e)",
+      "Geneva Protocol"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Geneva Protocol",
+      "Section 2(1)(e)",
+      "Geneva Protocol"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Geneva Protocol",
+      "Section 2(1)(e)",
+      "Geneva Protocol"
+    ],
+    [
+      "Part-I",
+      "1940 Act",
+      "Part-I",
+      "1940 Act"
+    ],
+    [
+      "Part-I",
+      "1940 Act",
+      "Part-I",
+      "1940 Act"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Sections 9, 14, 15, 29A, 34, 36 and 37",
+      "1940 Act",
+      "Sections 9, 14, 15, 29A, 34, 36 and 37",
+      "1940 Act"
+    ],
+    [
+      "Part-I",
+      "1940 Act",
+      "Part-I",
+      "1940 Act"
+    ],
+    [
+      "Section 34, 36",
+      "Arbitration Act, 1996",
+      "Section 34, 36",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 37(c)",
+      "1940 Act",
+      "Section 37(c)",
+      "1940 Act"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act, 1996",
+      "Section 36",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act, 1996",
+      "Section 36",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act, 1996",
+      "Section 36",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Order 21",
+      "Code of Civil Procedure",
+      "Order 21",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Section 49",
+      "Arbitration Act",
+      "Section 49",
+      "Arbitration Act"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Geneva Protocol",
+      "Section 2(1)(e)",
+      "Geneva Protocol"
+    ],
+    [
+      "Section 37",
+      "1940 Act",
+      "Section 37",
+      "1940 Act"
+    ],
+    [
+      "Section 38",
+      "CPC",
+      "Section 38",
+      "CPC"
+    ],
+    [
+      "Section 39",
+      "CPC Amendment Act, 2002",
+      "Section 39",
+      "CPC Amendment Act, 2002"
+    ],
+    [
+      "Section 46",
+      "Code of Civil Procedure, 19086",
+      "Section 46",
+      "Code of Civil Procedure, 19086"
+    ],
+    [
+      "Part II",
+      "Arbitration and Conciliation Act, 1996",
+      "Part II",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act, 1996",
+      "Section 36",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 39(4)",
+      "CPC Amendment Act, 2002",
+      "Section 39(4)",
+      "CPC Amendment Act, 2002"
+    ],
+    [
+      "Section 39(4)",
+      "CPC Amendment Act, 2002",
+      "Section 39(4)",
+      "CPC Amendment Act, 2002"
+    ],
+    [
+      "Part I",
+      "Arbitration Act, 1996",
+      "Part I",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act, 1996",
+      "Section 36",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act, 1996",
+      "Section 36",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 39(4)",
+      "CPC Amendment Act, 2002",
+      "Section 39(4)",
+      "CPC Amendment Act, 2002"
+    ],
+    [
+      "2(1)(e) Court",
+      "Geneva Protocol",
+      "2(1)(e) Court",
+      "Geneva Protocol"
+    ],
+    [
+      "Section 36(1)",
+      "Arbitration Act, 1996",
+      "Section 36(1)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 36(1)",
+      "Arbitration Act, 1996",
+      "Section 36(1)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 36(1)",
+      "Arbitration Act, 1996",
+      "Section 36(1)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act, 1996",
+      "Section 9",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 20",
+      "Arbitration Act, 1996",
+      "Section 20",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 20",
+      "Arbitration Act, 1996",
+      "Section 20",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 20",
+      "Arbitration Act, 1996",
+      "Section 20",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "2(1)(e) Court",
+      "Geneva Protocol",
+      "2(1)(e) Court",
+      "Geneva Protocol"
+    ],
+    [
+      "Section 34",
+      "1940 Act",
+      "Section 34",
+      "1940 Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act, 1996",
+      "Section 9",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34",
+      "1940 Act",
+      "Section 34",
+      "1940 Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act, 1996",
+      "Section 9",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Part I",
+      "Arbitration Act, 1996",
+      "Part I",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Part I",
+      "Arbitration Act, 1996",
+      "Part I",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34",
+      "1940 Act",
+      "Section 34",
+      "1940 Act"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 42",
+      "Arbitration Act, 1996",
+      "Section 42",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 34",
+      "1940 Act",
+      "Section 34",
+      "1940 Act"
+    ],
+    [
+      "Section 11(10):",
+      "1940 Act",
+      "Section 11(10):",
+      "1940 Act"
+    ],
+    [
+      "Section 37",
+      "1940 Act",
+      "Section 37",
+      "1940 Act"
+    ],
+    [
+      "Part I.\n(g)",
+      "Arbitration Act, 1996",
+      "Part I.\n(g)",
+      "Arbitration Act, 1996"
+    ],
+    [
+      "Section 32",
+      "Code of Civil Procedure, 19086",
+      "Section 32",
+      "Code of Civil Procedure, 19086"
+    ],
+    [
+      "Section 46",
+      "Code of Civil Procedure, 19086",
+      "Section 46",
+      "Code of Civil Procedure, 19086"
+    ],
+    [
+      "Section 39",
+      "CPC Amendment Act, 2002",
+      "Section 39",
+      "CPC Amendment Act, 2002"
+    ],
+    [
+      "Article V(1)(d)",
+      "Code of Civil Procedure, 1908",
+      "Article V(1)(d)",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Article 1(2)",
+      "Code of Civil Procedure, 1908",
+      "Article 1(2)",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Article 176 (I)(1)",
+      "Code of Civil Procedure, 1908",
+      "Article 176 (I)(1)",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 45 and Section 48(1)(e)",
+      "Swiss Private International Law Act, 1987",
+      "Section 45 and Section 48(1)(e)",
+      "Swiss Private International Law Act, 1987"
+    ],
+    [
+      "Section 31 17",
+      "Law Commission Report, 2014",
+      "Section 31 17",
+      "Law Commission Report, 2014"
+    ],
+    [
+      "Article 18",
+      "Code of Civil Procedure, 1908",
+      "Article 18",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Part-II",
+      "Arbitration and Conciliation (Amendment) Act, 2015 (3 of 2016)",
+      "Part-II",
+      "Arbitration and Conciliation (Amendment) Act, 2015 (3 of 2016)"
+    ],
+    [
+      "section 44",
+      "Arbitration and Conciliation (Amendment) Act, 2015 (3 of 2016)",
+      "section 44",
+      "Arbitration and Conciliation (Amendment) Act, 2015 (3 of 2016)"
+    ],
+    [
+      "section 75 or section 81",
+      "Arbitration and Conciliation (Amendment) Act, 2015 (3 of 2016)",
+      "section 75 or section 81",
+      "Arbitration and Conciliation (Amendment) Act, 2015 (3 of 2016)"
+    ],
+    [
+      "Part-I",
+      "1940 Act",
+      "Part-I",
+      "1940 Act"
+    ],
+    [
+      "Section 5",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 5",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Sections 36 to 46",
+      "Arbitration and Conciliation Act, 1996",
+      "Sections 36 to 46",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Part II",
+      "Arbitration and Conciliation Act, 1996",
+      "Part II",
+      "Arbitration and Conciliation Act, 1996"
+    ]
+  ],
+  "precedent_counts": {
+    "Naviera Amazonica Peruana SA v. Compania International de Seguros del Peru [NavieraAmazonica Peruana SA v. Compania International de Seguros del Peru, (1988)": 41,
+    "Bharat Coking Coal Ltd. v. Annapurna Construction [(2008) 6 SCC 732]": 2,
+    "Daelim Industrial Co. Ltd. v. Numaligarh Refinery Ltd., 2009 SCC OnLine Del 511 : (2009) 159 DLT 579": 2,
+    "Kotak Mahindra Bank Ltd. v. SivakamaSundari, 2011 SCC OnLine Mad 1290 : (2011) 4 LW 745": 2,
+    "Datawind Innovations (P) Ltd. v. Indus Mobile Distribution (P) Ltd., 2016 SCC OnLine Del 3744 : (2016) 158 DRJ 391]": 2,
+    "Balco [Balco v. Kaiser Aluminium Technical Services Inc., (2012) 9 SCC 552 : (2012) 4 SCC (Civ) 810]": 8,
+    "Shashoua v. Sharma [Shashoua v. Sharma, 2009 EWHC 957 (Comm) : (2009) 2 Lloyd's Law Rep 376": 4,
+    "Enercon case [Enercon (India) Ltd. v. Enercon GmbH, (2014) 5 SCC 1 : (2014) 3 SCC (Civ) 59]": 2
+  },
+  "provision_counts": {
+    "Section 38 of Code of Civil Procedure, 1908": 2,
+    "Section 2(1) (e) of Arbitration and Conciliation Act, 1996": 1,
+    "Article XXIII of Hotel Management Agreement": 2,
+    "Section 31(4) of 1940 Act": 2,
+    "Part I of Arbitration Act, 1996": 18,
+    "Section 2(c) of 1940 Act": 1,
+    "Section 42 of Arbitration Act, 1996": 55,
+    "Section 36 of CPC": 8,
+    "Section 38 of CPC": 4,
+    "Section 635 of Companies Act": 2,
+    "Section 36 of Arbitration Act": 3,
+    "Sections 10(3) and 15 (2) of Commercial Courts Act, 2015": 1,
+    "Section 111 of Companies Act, 2013": 1,
+    "Section 2(1)(c) of Arbitration Act, 1940": 1,
+    "Articles 8, 9, 35 and 36 of Arbitration Act, 1996": 1,
+    "Section 2(1)(e) of Arbitration Act, 1996": 6,
+    "Section 17 of Arbitration Act, 1996": 1,
+    "Section 20 of Arbitration Act, 1996": 17,
+    "Section 20 of Indian Arbitration Act, 1996": 1,
+    "Section 105 of English Arbitration Act, 1996": 1,
+    "Section 2(2) of UNCITRAL Model Law": 1,
+    "Sections 2(1)(e) and 20 of Arbitration Act, 1996": 1,
+    "Sections 16 to 21 of Code of Civil Procedure": 1,
+    "Section 9 of Arbitration Act, 1996": 13,
+    "Section 20(2) of Arbitration Act, 1996": 2,
+    "Section 3 of Arbitration Act 1996": 2,
+    "Article 2 of Geneva Protocol": 1,
+    "Article 16(3) of LCIA Rules": 1,
+    "Section 20 of UNCITRAL Model Law": 1,
+    "Section 36 of Arbitration and Conciliation Act, 1996": 1,
+    "Section 36 of Arbitration Act, 1996": 8,
+    "Section 15 of Arbitration Act, 1899": 1,
+    "Section 17 of Arbitration Act of 1940": 1,
+    "Section 49 of Arbitration Act": 5,
+    "Order 21 of Code of Civil Procedure": 3,
+    "Article 136 of Limitation Act": 3,
+    "Article 137 of Limitation Act": 1,
+    "Section 42 of Arbitration Act": 1,
+    "Section 36(1) of Arbitration Act": 1,
+    "Section 2(1)(e) of Arbitration Act": 1,
+    "Section 34 and Section 9 of Arbitration Act, 1996": 1,
+    "Section 34 of 1940 Act": 15,
+    "Section 8 of Arbitration Act, 1996": 6,
+    "Section 2(1)(e) of Arbitration and Conciliation Act, 1996": 7,
+    "Section 11 of 1940 Act": 3,
+    "Sub-section (12) of Section 11 of 1940 Act": 1,
+    "clause (e) of sub-section (1) of Section 2 of Arbitration and Conciliation Act, 1996": 1,
+    "Section 11(12)(b) of 1940 Act": 1,
+    "Section 8 and 11 of 1940 Act": 1,
+    "Section 2(c) of Arbitration and Conciliation Act, 1996": 1,
+    "Section 2(1)(e) of 1940 Act": 8,
+    "Sections 9 and 34 of 1940 Act": 1,
+    "Part I. of Arbitration Act, 1996": 2,
+    "Section 33 and sub-section (4) of Section 34 of 1940 Act": 1,
+    "Section 2(1(e) of 1940 Act": 1,
+    "Articles V(1)(a) and (e) of Code of Civil Procedure, 1908": 1,
+    "Section 2(1)(e), Section 20 and Section 28 of Arbitration Act, 1996": 1,
+    "Section 2(2) of Arbitration Act, 1940": 2,
+    "Section 37 of 1940 Act": 3,
+    "Section 20(3) of Arbitration Act, 1996": 3,
+    "Section 2(2) of Arbitration Act, 1996": 2,
+    "Section 2(1)(e) of UNCITRAL Model Law": 1,
+    "Sections 20(1) and 20(2) of Arbitration Act, 1996": 1,
+    "Article 1(2) of Code of Civil Procedure, 1908": 2,
+    "articles 8, 9, 35 and 36 of Arbitration Act, 1996": 1,
+    "Article 20(2) of Arbitration Act, 1996": 1,
+    "Section 2(1)(e) of Geneva Protocol": 6,
+    "Section 2 (1)(e)\n(e) of Geneva Protocol": 1,
+    "section 34 of 1940 Act": 3,
+    "Sections 48 and 49 of Arbitration Act": 1,
+    "sub- section (1) of Section 20 of Arbitration Act, 1996": 1,
+    "Part-I of 1940 Act": 4,
+    "Sections 9, 14, 15, 29A, 34, 36 and 37 of 1940 Act": 1,
+    "Section 34, 36 of Arbitration Act, 1996": 1,
+    "Section 37(c) of 1940 Act": 1,
+    "Section 39 of CPC Amendment Act, 2002": 2,
+    "Section 46 of Code of Civil Procedure, 19086": 2,
+    "Part II of Arbitration and Conciliation Act, 1996": 2,
+    "Section 39(4) of CPC Amendment Act, 2002": 3,
+    "2(1)(e) Court of Geneva Protocol": 2,
+    "Section 36(1) of Arbitration Act, 1996": 3,
+    "Section 11(10): of 1940 Act": 1,
+    "Part I.\n(g) of Arbitration Act, 1996": 1,
+    "Section 32 of Code of Civil Procedure, 19086": 1,
+    "Article V(1)(d) of Code of Civil Procedure, 1908": 1,
+    "Article 176 (I)(1) of Code of Civil Procedure, 1908": 1,
+    "Section 45 and Section 48(1)(e) of Swiss Private International Law Act, 1987": 1,
+    "Section 31 17 of Law Commission Report, 2014": 1,
+    "Article 18 of Code of Civil Procedure, 1908": 1,
+    "Part-II of Arbitration and Conciliation (Amendment) Act, 2015 (3 of 2016)": 1,
+    "section 44 of Arbitration and Conciliation (Amendment) Act, 2015 (3 of 2016)": 1,
+    "section 75 or section 81 of Arbitration and Conciliation (Amendment) Act, 2015 (3 of 2016)": 1,
+    "Section 5 of Arbitration and Conciliation Act, 1996": 1,
+    "Sections 36 to 46 of Arbitration and Conciliation Act, 1996": 1
+  },
+  "statute_counts": {
+    "Code of Civil Procedure, 1908": 8,
+    "Arbitration and Conciliation Act, 1996": 15,
+    "Hotel Management Agreement": 2,
+    "1940 Act": 48,
+    "Arbitration Act, 1996": 146,
+    "CPC": 12,
+    "Companies Act": 2,
+    "Arbitration Act": 12,
+    "Commercial Courts Act, 2015": 1,
+    "Companies Act, 2013": 1,
+    "Arbitration Act, 1940": 3,
+    "Indian Arbitration Act, 1996": 1,
+    "English Arbitration Act, 1996": 1,
+    "UNCITRAL Model Law": 3,
+    "Code of Civil Procedure": 4,
+    "Arbitration Act 1996": 2,
+    "Geneva Protocol": 10,
+    "LCIA Rules": 1,
+    "Arbitration Act, 1899": 1,
+    "Arbitration Act of 1940": 1,
+    "Limitation Act": 4,
+    "CPC Amendment Act, 2002": 5,
+    "Code of Civil Procedure, 19086": 3,
+    "Swiss Private International Law Act, 1987": 1,
+    "Law Commission Report, 2014": 1,
+    "Arbitration and Conciliation (Amendment) Act, 2015 (3 of 2016)": 3
+  }
+}

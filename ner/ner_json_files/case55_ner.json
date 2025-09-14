@@ -1,0 +1,1401 @@
+{
+  "entities": [
+    {
+      "text": "South Bihar Power Distribution Co. Ltd",
+      "label": "PETITIONER",
+      "start_char": 17,
+      "end_char": 55
+    },
+    {
+      "text": "Bhagalpur Electricity Distribution",
+      "label": "RESPONDENT",
+      "start_char": 59,
+      "end_char": 93
+    },
+    {
+      "text": "Birendra Kumar",
+      "label": "LAWYER",
+      "start_char": 221,
+      "end_char": 235
+    },
+    {
+      "text": "Birendra Kumar",
+      "label": "LAWYER",
+      "start_char": 243,
+      "end_char": 257
+    },
+    {
+      "text": "High Court Of Judicature At Patna",
+      "label": "COURT",
+      "start_char": 270,
+      "end_char": 303
+    },
+    {
+      "text": "South Bihar Power Distribution Co. Ltd.",
+      "label": "PETITIONER",
+      "start_char": 413,
+      "end_char": 452
+    },
+    {
+      "text": "Companies Act, 1956",
+      "label": "STATUTE",
+      "start_char": 505,
+      "end_char": 524
+    },
+    {
+      "text": "Patna",
+      "label": "GPE",
+      "start_char": 617,
+      "end_char": 622
+    },
+    {
+      "text": "Bhagalpur Electricity Distribution Co. Pvt. Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 755,
+      "end_char": 803
+    },
+    {
+      "text": "Umesh Prasad Singh",
+      "label": "OTHER_PERSON",
+      "start_char": 1205,
+      "end_char": 1223
+    },
+    {
+      "text": "Anand Kumar Ojha",
+      "label": "LAWYER",
+      "start_char": 1272,
+      "end_char": 1288
+    },
+    {
+      "text": "Kumar Manish",
+      "label": "LAWYER",
+      "start_char": 1333,
+      "end_char": 1345
+    },
+    {
+      "text": "Ashish Giri",
+      "label": "LAWYER",
+      "start_char": 1390,
+      "end_char": 1401
+    },
+    {
+      "text": "Pranav Kumar",
+      "label": "LAWYER",
+      "start_char": 1446,
+      "end_char": 1458
+    },
+    {
+      "text": "Sumit Kumar Jha",
+      "label": "LAWYER",
+      "start_char": 1503,
+      "end_char": 1518
+    },
+    {
+      "text": "Rajat Kumar Tiwary",
+      "label": "LAWYER",
+      "start_char": 1563,
+      "end_char": 1581
+    },
+    {
+      "text": "BIRENDRA KUMAR",
+      "label": "JUDGE",
+      "start_char": 1703,
+      "end_char": 1717
+    },
+    {
+      "text": "14-02-2019",
+      "label": "DATE",
+      "start_char": 1740,
+      "end_char": 1750
+    },
+    {
+      "text": "Section 37",
+      "label": "PROVISION",
+      "start_char": 1948,
+      "end_char": 1958
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 1966,
+      "end_char": 2004
+    },
+    {
+      "text": "01.12.2017",
+      "label": "DATE",
+      "start_char": 2030,
+      "end_char": 2040
+    },
+    {
+      "text": "5th Additional District Judge, Patna",
+      "label": "COURT",
+      "start_char": 2063,
+      "end_char": 2099
+    },
+    {
+      "text": "Bhagalpur Electricity Distribution Company Private Limited",
+      "label": "RESPONDENT",
+      "start_char": 2170,
+      "end_char": 2228
+    },
+    {
+      "text": "South Bihar Power Distribution  Patna High Court",
+      "label": "PETITIONER",
+      "start_char": 2256,
+      "end_char": 2304
+    },
+    {
+      "text": "MA No.172 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 2305,
+      "end_char": 2322
+    },
+    {
+      "text": "dt.14-02-2019",
+      "label": "DATE",
+      "start_char": 2323,
+      "end_char": 2336
+    },
+    {
+      "text": "State Bank of India, Kolkata",
+      "label": "ORG",
+      "start_char": 2416,
+      "end_char": 2444
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 2582,
+      "end_char": 2591
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 2606,
+      "end_char": 2644
+    },
+    {
+      "text": "Bihar State Electricity Board",
+      "label": "ORG",
+      "start_char": 2749,
+      "end_char": 2778
+    },
+    {
+      "text": "22nd October, 2012",
+      "label": "DATE",
+      "start_char": 2881,
+      "end_char": 2899
+    },
+    {
+      "text": "Bhagalpur",
+      "label": "GPE",
+      "start_char": 2994,
+      "end_char": 3003
+    },
+    {
+      "text": "Bihar State Power (Holding) Company        Limited",
+      "label": "ORG",
+      "start_char": 3052,
+      "end_char": 3102
+    },
+    {
+      "text": "Bihar State Electricity Board",
+      "label": "ORG",
+      "start_char": 3190,
+      "end_char": 3219
+    },
+    {
+      "text": "Electricity Act, 2003",
+      "label": "STATUTE",
+      "start_char": 3268,
+      "end_char": 3289
+    },
+    {
+      "text": "SPML Infra        Limited",
+      "label": "ORG",
+      "start_char": 3295,
+      "end_char": 3320
+    },
+    {
+      "text": "21st March, 2013",
+      "label": "DATE",
+      "start_char": 3416,
+      "end_char": 3432
+    },
+    {
+      "text": "SPML Infra Limited",
+      "label": "ORG",
+      "start_char": 3482,
+      "end_char": 3500
+    },
+    {
+      "text": "5th April, 2013",
+      "label": "DATE",
+      "start_char": 3529,
+      "end_char": 3544
+    },
+    {
+      "text": "SPML        Infra Limited",
+      "label": "ORG",
+      "start_char": 3718,
+      "end_char": 3743
+    },
+    {
+      "text": "Bhagalpur Electricity Distribution Company        Private Limited",
+      "label": "ORG",
+      "start_char": 3812,
+      "end_char": 3877
+    },
+    {
+      "text": "19th  Patna High Court",
+      "label": "DATE",
+      "start_char": 3919,
+      "end_char": 3941
+    },
+    {
+      "text": "MA No.172 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 3942,
+      "end_char": 3959
+    },
+    {
+      "text": "dt.14-02-2019",
+      "label": "DATE",
+      "start_char": 3960,
+      "end_char": 3973
+    },
+    {
+      "text": "3/20        July, 2013",
+      "label": "DATE",
+      "start_char": 4017,
+      "end_char": 4039
+    },
+    {
+      "text": "SPML Infra Limited",
+      "label": "ORG",
+      "start_char": 4070,
+      "end_char": 4088
+    },
+    {
+      "text": "SPML Infra",
+      "label": "ORG",
+      "start_char": 4141,
+      "end_char": 4151
+    },
+    {
+      "text": "Bhagalpur Electricity Distribution        Company Private Limited",
+      "label": "RESPONDENT",
+      "start_char": 4336,
+      "end_char": 4401
+    },
+    {
+      "text": "14.05.2016",
+      "label": "DATE",
+      "start_char": 4450,
+      "end_char": 4460
+    },
+    {
+      "text": "Arbitration No. 106 of 2016",
+      "label": "CASE_NUMBER",
+      "start_char": 4508,
+      "end_char": 4535
+    },
+    {
+      "text": "14.05.2017",
+      "label": "DATE",
+      "start_char": 4616,
+      "end_char": 4626
+    },
+    {
+      "text": "Section 29A",
+      "label": "PROVISION",
+      "start_char": 4639,
+      "end_char": 4650
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 4658,
+      "end_char": 4696
+    },
+    {
+      "text": "20.05.2017",
+      "label": "DATE",
+      "start_char": 4801,
+      "end_char": 4811
+    },
+    {
+      "text": "20.05.2017",
+      "label": "DATE",
+      "start_char": 4897,
+      "end_char": 4907
+    },
+    {
+      "text": "13/16 November, 2017",
+      "label": "DATE",
+      "start_char": 5030,
+      "end_char": 5050
+    },
+    {
+      "text": "Arbitration Case No. 02 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 5062,
+      "end_char": 5093
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 5100,
+      "end_char": 5109
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 5117,
+      "end_char": 5155
+    },
+    {
+      "text": "Patna High Court",
+      "label": "COURT",
+      "start_char": 5429,
+      "end_char": 5445
+    },
+    {
+      "text": "MA No.172 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 5446,
+      "end_char": 5463
+    },
+    {
+      "text": "dt.14-02-2019",
+      "label": "DATE",
+      "start_char": 5464,
+      "end_char": 5477
+    },
+    {
+      "text": "District Judge, Patna",
+      "label": "COURT",
+      "start_char": 5557,
+      "end_char": 5578
+    },
+    {
+      "text": "5th Additional District Judge, Patna",
+      "label": "COURT",
+      "start_char": 5816,
+      "end_char": 5852
+    },
+    {
+      "text": "10.10.2017",
+      "label": "DATE",
+      "start_char": 5873,
+      "end_char": 5883
+    },
+    {
+      "text": "10.10.2017",
+      "label": "DATE",
+      "start_char": 5910,
+      "end_char": 5920
+    },
+    {
+      "text": "30.10.2017",
+      "label": "DATE",
+      "start_char": 6242,
+      "end_char": 6252
+    },
+    {
+      "text": "30.10.2017",
+      "label": "DATE",
+      "start_char": 6257,
+      "end_char": 6267
+    },
+    {
+      "text": "07.11.2017",
+      "label": "DATE",
+      "start_char": 6392,
+      "end_char": 6402
+    },
+    {
+      "text": "10.10.2017",
+      "label": "DATE",
+      "start_char": 6451,
+      "end_char": 6461
+    },
+    {
+      "text": "29.11.2017",
+      "label": "DATE",
+      "start_char": 6478,
+      "end_char": 6488
+    },
+    {
+      "text": "01.12.2017",
+      "label": "DATE",
+      "start_char": 6657,
+      "end_char": 6667
+    },
+    {
+      "text": "01.12.2017",
+      "label": "DATE",
+      "start_char": 6720,
+      "end_char": 6730
+    },
+    {
+      "text": "Patna High Court",
+      "label": "COURT",
+      "start_char": 6775,
+      "end_char": 6791
+    },
+    {
+      "text": "MA No.172 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 6792,
+      "end_char": 6809
+    },
+    {
+      "text": "dt.14-02-2019",
+      "label": "DATE",
+      "start_char": 6810,
+      "end_char": 6823
+    },
+    {
+      "text": "5th Additional District Judge, Patna",
+      "label": "COURT",
+      "start_char": 7042,
+      "end_char": 7078
+    },
+    {
+      "text": "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 7128,
+      "end_char": 7225
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 7282,
+      "end_char": 7287
+    },
+    {
+      "text": "31.12.2015",
+      "label": "DATE",
+      "start_char": 7291,
+      "end_char": 7301
+    },
+    {
+      "text": "3 rd March, 2017",
+      "label": "DATE",
+      "start_char": 7355,
+      "end_char": 7371
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 7399,
+      "end_char": 7408
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 7695,
+      "end_char": 7704
+    },
+    {
+      "text": "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 7712,
+      "end_char": 7809
+    },
+    {
+      "text": "Patna High Court",
+      "label": "COURT",
+      "start_char": 8121,
+      "end_char": 8137
+    },
+    {
+      "text": "MA No.172 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 8138,
+      "end_char": 8155
+    },
+    {
+      "text": "dt.14-02-2019",
+      "label": "DATE",
+      "start_char": 8156,
+      "end_char": 8169
+    },
+    {
+      "text": "03.03.2017",
+      "label": "DATE",
+      "start_char": 9048,
+      "end_char": 9058
+    },
+    {
+      "text": "section 3",
+      "label": "PROVISION",
+      "start_char": 9100,
+      "end_char": 9109
+    },
+    {
+      "text": "Commercial Courts, Commercial Division And Commercial Appellate Divisions of High Courts Act, 2015\" (No.-4 of 2016)",
+      "label": "STATUTE",
+      "start_char": 9118,
+      "end_char": 9233
+    },
+    {
+      "text": "State Government of Bihar",
+      "label": "ORG",
+      "start_char": 9239,
+      "end_char": 9264
+    },
+    {
+      "text": "High Court of Judicature at Patna",
+      "label": "COURT",
+      "start_char": 9291,
+      "end_char": 9324
+    },
+    {
+      "text": "MA No.172 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 9536,
+      "end_char": 9553
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 10060,
+      "end_char": 10070
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 10078,
+      "end_char": 10099
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 10268,
+      "end_char": 10319
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 10563,
+      "end_char": 10614
+    },
+    {
+      "text": "Patna High Court",
+      "label": "COURT",
+      "start_char": 10923,
+      "end_char": 10939
+    },
+    {
+      "text": "MA No.172 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 10940,
+      "end_char": 10957
+    },
+    {
+      "text": "dt.14-02-2019",
+      "label": "DATE",
+      "start_char": 10958,
+      "end_char": 10971
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 11190,
+      "end_char": 11241
+    },
+    {
+      "text": "Order XIV-A",
+      "label": "PROVISION",
+      "start_char": 11845,
+      "end_char": 11856
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908):",
+      "label": "STATUTE",
+      "start_char": 11864,
+      "end_char": 11906
+    },
+    {
+      "text": "proviso to sub-rule (1) of Rule 1 of Order V",
+      "label": "PROVISION",
+      "start_char": 11925,
+      "end_char": 11969
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 11977,
+      "end_char": 12018
+    },
+    {
+      "text": "Patna High Court",
+      "label": "COURT",
+      "start_char": 12429,
+      "end_char": 12445
+    },
+    {
+      "text": "MA No.172 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 12446,
+      "end_char": 12463
+    },
+    {
+      "text": "dt.14-02-2019",
+      "label": "DATE",
+      "start_char": 12464,
+      "end_char": 12477
+    },
+    {
+      "text": "District Judge, Patna",
+      "label": "COURT",
+      "start_char": 12837,
+      "end_char": 12858
+    },
+    {
+      "text": "5 th Additional District Judge, Patna",
+      "label": "COURT",
+      "start_char": 12896,
+      "end_char": 12933
+    },
+    {
+      "text": "3 rd March, 2017",
+      "label": "DATE",
+      "start_char": 12958,
+      "end_char": 12974
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 13026,
+      "end_char": 13035
+    },
+    {
+      "text": "Civil Court of Divisional Headquarter",
+      "label": "COURT",
+      "start_char": 13137,
+      "end_char": 13174
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 13223,
+      "end_char": 13233
+    },
+    {
+      "text": "5th Additional District Judge, Patna",
+      "label": "COURT",
+      "start_char": 13340,
+      "end_char": 13376
+    },
+    {
+      "text": "5 th Additional District Judge, Patna",
+      "label": "COURT",
+      "start_char": 13597,
+      "end_char": 13634
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 13840,
+      "end_char": 13849
+    },
+    {
+      "text": "Commercial Courts Act Patna High Court",
+      "label": "STATUTE",
+      "start_char": 13857,
+      "end_char": 13895
+    },
+    {
+      "text": "MA No.172 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 13896,
+      "end_char": 13913
+    },
+    {
+      "text": "dt.14-02-2019",
+      "label": "DATE",
+      "start_char": 13914,
+      "end_char": 13927
+    },
+    {
+      "text": "Civil Court at Divisional Headquarter",
+      "label": "COURT",
+      "start_char": 13972,
+      "end_char": 14009
+    },
+    {
+      "text": "10.10.2017",
+      "label": "DATE",
+      "start_char": 14707,
+      "end_char": 14717
+    },
+    {
+      "text": "Patna High Court",
+      "label": "COURT",
+      "start_char": 15242,
+      "end_char": 15258
+    },
+    {
+      "text": "MA No.172 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 15259,
+      "end_char": 15276
+    },
+    {
+      "text": "dt.14-02-2019",
+      "label": "DATE",
+      "start_char": 15277,
+      "end_char": 15290
+    },
+    {
+      "text": "SPML Infra Limited",
+      "label": "ORG",
+      "start_char": 15640,
+      "end_char": 15658
+    },
+    {
+      "text": "SPML Infra Limited",
+      "label": "ORG",
+      "start_char": 15869,
+      "end_char": 15887
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 15991,
+      "end_char": 16000
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 16008,
+      "end_char": 16046
+    },
+    {
+      "text": "SPML Infra Limited",
+      "label": "ORG",
+      "start_char": 16158,
+      "end_char": 16176
+    },
+    {
+      "text": "State Bank of India",
+      "label": "ORG",
+      "start_char": 16200,
+      "end_char": 16219
+    },
+    {
+      "text": "SPML Infra Limited",
+      "label": "RESPONDENT",
+      "start_char": 16334,
+      "end_char": 16352
+    },
+    {
+      "text": "Bhagalpur Electricity Distribution Company Private Limited",
+      "label": "RESPONDENT",
+      "start_char": 16372,
+      "end_char": 16430
+    },
+    {
+      "text": "Title Suit No. 1594 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 16437,
+      "end_char": 16464
+    },
+    {
+      "text": "City Civil Court at Calcutta",
+      "label": "COURT",
+      "start_char": 16476,
+      "end_char": 16504
+    },
+    {
+      "text": "State Bank of India",
+      "label": "ORG",
+      "start_char": 16517,
+      "end_char": 16536
+    },
+    {
+      "text": "Patna High Court",
+      "label": "COURT",
+      "start_char": 16555,
+      "end_char": 16571
+    },
+    {
+      "text": "MA No.172 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 16572,
+      "end_char": 16589
+    },
+    {
+      "text": "dt.14-02-2019",
+      "label": "DATE",
+      "start_char": 16590,
+      "end_char": 16603
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 17023,
+      "end_char": 17032
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 17040,
+      "end_char": 17078
+    },
+    {
+      "text": "BSEB",
+      "label": "ORG",
+      "start_char": 17543,
+      "end_char": 17547
+    },
+    {
+      "text": "BSEB",
+      "label": "ORG",
+      "start_char": 17570,
+      "end_char": 17574
+    },
+    {
+      "text": "BSEB",
+      "label": "ORG",
+      "start_char": 17731,
+      "end_char": 17735
+    },
+    {
+      "text": "Patna High Court",
+      "label": "COURT",
+      "start_char": 17879,
+      "end_char": 17895
+    },
+    {
+      "text": "MA No.172 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 17896,
+      "end_char": 17913
+    },
+    {
+      "text": "dt.14-02-2019",
+      "label": "DATE",
+      "start_char": 17914,
+      "end_char": 17927
+    },
+    {
+      "text": "Bihar State Electricity Board",
+      "label": "ORG",
+      "start_char": 17967,
+      "end_char": 17996
+    },
+    {
+      "text": "BSEB",
+      "label": "ORG",
+      "start_char": 18089,
+      "end_char": 18093
+    },
+    {
+      "text": "21.03.2013",
+      "label": "DATE",
+      "start_char": 18228,
+      "end_char": 18238
+    },
+    {
+      "text": "SPML Infra Limited",
+      "label": "ORG",
+      "start_char": 18278,
+      "end_char": 18296
+    },
+    {
+      "text": "SPML Infra Limited",
+      "label": "ORG",
+      "start_char": 18317,
+      "end_char": 18335
+    },
+    {
+      "text": "Bhagalpur",
+      "label": "GPE",
+      "start_char": 18403,
+      "end_char": 18412
+    },
+    {
+      "text": "SPML Infra Limited",
+      "label": "ORG",
+      "start_char": 18432,
+      "end_char": 18450
+    },
+    {
+      "text": "SPML Infra Limited",
+      "label": "ORG",
+      "start_char": 18936,
+      "end_char": 18954
+    },
+    {
+      "text": "SPML Infra Limited",
+      "label": "ORG",
+      "start_char": 19053,
+      "end_char": 19071
+    },
+    {
+      "text": "8th May, 2013",
+      "label": "DATE",
+      "start_char": 19121,
+      "end_char": 19134
+    },
+    {
+      "text": "19th July, 2013",
+      "label": "DATE",
+      "start_char": 19166,
+      "end_char": 19181
+    },
+    {
+      "text": "Patna High Court",
+      "label": "COURT",
+      "start_char": 19262,
+      "end_char": 19278
+    },
+    {
+      "text": "MA No.172 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 19279,
+      "end_char": 19296
+    },
+    {
+      "text": "dt.14-02-2019",
+      "label": "DATE",
+      "start_char": 19297,
+      "end_char": 19310
+    },
+    {
+      "text": "Bhagalpur Electricity Distribution Company Private Limited, Kolkata",
+      "label": "ORG",
+      "start_char": 19311,
+      "end_char": 19378
+    },
+    {
+      "text": "Successful Bidder",
+      "label": "ORG",
+      "start_char": 19410,
+      "end_char": 19427
+    },
+    {
+      "text": "SPML Infra Limited",
+      "label": "ORG",
+      "start_char": 19438,
+      "end_char": 19456
+    },
+    {
+      "text": "Companies Act, 1956",
+      "label": "STATUTE",
+      "start_char": 19486,
+      "end_char": 19505
+    },
+    {
+      "text": "Kolkata",
+      "label": "GPE",
+      "start_char": 19566,
+      "end_char": 19573
+    },
+    {
+      "text": "SPML Infra Limited",
+      "label": "ORG",
+      "start_char": 19616,
+      "end_char": 19634
+    },
+    {
+      "text": "Companies Act, 1956",
+      "label": "STATUTE",
+      "start_char": 19903,
+      "end_char": 19922
+    },
+    {
+      "text": "SBPDCL",
+      "label": "ORG",
+      "start_char": 19946,
+      "end_char": 19952
+    },
+    {
+      "text": "SPML Infra Limited, Kolkata",
+      "label": "ORG",
+      "start_char": 20251,
+      "end_char": 20278
+    },
+    {
+      "text": "Bhagalpur Electricity Distribution Company Private Limited, Kolkata",
+      "label": "ORG",
+      "start_char": 20398,
+      "end_char": 20465
+    },
+    {
+      "text": "SPML Infra Limited, Kolkata",
+      "label": "ORG",
+      "start_char": 20645,
+      "end_char": 20672
+    },
+    {
+      "text": "Patna High Court",
+      "label": "COURT",
+      "start_char": 20701,
+      "end_char": 20717
+    },
+    {
+      "text": "MA No.172 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 20718,
+      "end_char": 20735
+    },
+    {
+      "text": "dt.14-02-2019",
+      "label": "DATE",
+      "start_char": 20736,
+      "end_char": 20749
+    },
+    {
+      "text": "Bhagalpur Electricity Distribution Company Private Limited, Kolkata",
+      "label": "ORG",
+      "start_char": 20812,
+      "end_char": 20879
+    },
+    {
+      "text": "Companies Act, 1956",
+      "label": "STATUTE",
+      "start_char": 21082,
+      "end_char": 21101
+    },
+    {
+      "text": "SPML Infra Limited",
+      "label": "ORG",
+      "start_char": 21563,
+      "end_char": 21581
+    },
+    {
+      "text": "SPML Infra Limited",
+      "label": "ORG",
+      "start_char": 21797,
+      "end_char": 21815
+    },
+    {
+      "text": "SPML Infra Limited",
+      "label": "ORG",
+      "start_char": 21824,
+      "end_char": 21842
+    },
+    {
+      "text": "SPML Infra Limited",
+      "label": "ORG",
+      "start_char": 21922,
+      "end_char": 21940
+    },
+    {
+      "text": "Patna High Court",
+      "label": "COURT",
+      "start_char": 22022,
+      "end_char": 22038
+    },
+    {
+      "text": "MA No.172 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 22039,
+      "end_char": 22056
+    },
+    {
+      "text": "dt.14-02-2019",
+      "label": "DATE",
+      "start_char": 22057,
+      "end_char": 22070
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 22615,
+      "end_char": 22628
+    },
+    {
+      "text": "Gangotri Enterprises Limited Versus Union of India & Others reported in 2016(11)",
+      "label": "PRECEDENT",
+      "start_char": 22632,
+      "end_char": 22712
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 22741,
+      "end_char": 22754
+    },
+    {
+      "text": "Union of India v. Raman Iron Foundry reported in 1974(2) SCC 231",
+      "label": "PRECEDENT",
+      "start_char": 22787,
+      "end_char": 22851
+    },
+    {
+      "text": "Iron and Hardware (India) Co. v. Shamlal and Bros. reported in AIR 1954 Bom",
+      "label": "PRECEDENT",
+      "start_char": 22886,
+      "end_char": 22961
+    },
+    {
+      "text": "Patna High Court",
+      "label": "COURT",
+      "start_char": 23441,
+      "end_char": 23457
+    },
+    {
+      "text": "MA No.172 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 23458,
+      "end_char": 23475
+    },
+    {
+      "text": "dt.14-02-2019",
+      "label": "DATE",
+      "start_char": 23476,
+      "end_char": 23489
+    },
+    {
+      "text": "Patna High Court",
+      "label": "COURT",
+      "start_char": 25051,
+      "end_char": 25067
+    },
+    {
+      "text": "MA No.172 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 25068,
+      "end_char": 25085
+    },
+    {
+      "text": "dt.14-02-2019",
+      "label": "DATE",
+      "start_char": 25086,
+      "end_char": 25099
+    },
+    {
+      "text": "Section 230",
+      "label": "PROVISION",
+      "start_char": 25505,
+      "end_char": 25516
+    },
+    {
+      "text": "Indian Contract Act, 1872",
+      "label": "STATUTE",
+      "start_char": 25524,
+      "end_char": 25549
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 26335,
+      "end_char": 26348
+    },
+    {
+      "text": "Sasan Power Limited Versus North American Coal Corporation (India) Patna High Court MA No.172 of 2018",
+      "label": "PRECEDENT",
+      "start_char": 26352,
+      "end_char": 26453
+    },
+    {
+      "text": "dt.14-02-2019",
+      "label": "DATE",
+      "start_char": 26454,
+      "end_char": 26467
+    },
+    {
+      "text": "2016(10) SCC 813",
+      "label": "PRECEDENT",
+      "start_char": 26496,
+      "end_char": 26512
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 26560,
+      "end_char": 26573
+    },
+    {
+      "text": "Tolhurst v. Associated Portland Cement Manufacturers (1900) Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 26730,
+      "end_char": 26794
+    },
+    {
+      "text": "Tolhurst",
+      "label": "OTHER_PERSON",
+      "start_char": 27833,
+      "end_char": 27841
+    },
+    {
+      "text": "Patna High Court",
+      "label": "COURT",
+      "start_char": 27933,
+      "end_char": 27949
+    },
+    {
+      "text": "MA No.172 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 27950,
+      "end_char": 27967
+    },
+    {
+      "text": "dt.14-02-2019",
+      "label": "DATE",
+      "start_char": 27968,
+      "end_char": 27981
+    },
+    {
+      "text": "Commercial Court, Patna",
+      "label": "COURT",
+      "start_char": 28177,
+      "end_char": 28200
+    },
+    {
+      "text": "I.A. No. 1741 of 2018",
+      "label": "CASE_NUMBER",
+      "start_char": 28257,
+      "end_char": 28278
+    },
+    {
+      "text": "Birendra Kumar",
+      "label": "JUDGE",
+      "start_char": 28470,
+      "end_char": 28484
+    },
+    {
+      "text": "Kundan",
+      "label": "PETITIONER",
+      "start_char": 28502,
+      "end_char": 28508
+    }
+  ],
+  "precedent_clusters": {
+    "Sasan Power Limited Versus North American Coal Corporation (India) Patna High Court MA No.172 of 2018": [
+      "Gangotri Enterprises Limited Versus Union of India & Others reported in 2016(11)",
+      "Sasan Power Limited Versus North American Coal Corporation (India) Patna High Court MA No.172 of 2018"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 37",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 9",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 9",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 29A",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 29A",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 9",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 9",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 3",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 3",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "section 3",
+      "Commercial Courts, Commercial Division And Commercial Appellate Divisions of High Courts Act, 2015\" (No.-4 of 2016)",
+      "section 3",
+      "Commercial Courts, Commercial Division And Commercial Appellate Divisions of High Courts Act, 2015\" (No.-4 of 2016)"
+    ],
+    [
+      "Section 15",
+      "Commercial Courts Act",
+      "Section 15",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order XIV-A",
+      "Code of Civil Procedure, 1908 (5 of 1908):",
+      "Order XIV-A",
+      "Code of Civil Procedure, 1908 (5 of 1908):"
+    ],
+    [
+      "proviso to sub-rule (1) of Rule 1 of Order V",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "proviso to sub-rule (1) of Rule 1 of Order V",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "Section 3",
+      "Commercial Courts Act Patna High Court",
+      "Section 3",
+      "Commercial Courts Act Patna High Court"
+    ],
+    [
+      "Section 9",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 9",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 9",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 9",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 230",
+      "Indian Contract Act, 1872",
+      "Section 230",
+      "Indian Contract Act, 1872"
+    ],
+    [
+      "Section 3",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+      "Section 3",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015"
+    ],
+    [
+      "Section 3",
+      "Commercial Courts, Commercial Division And Commercial Appellate Divisions of High Courts Act, 2015\" (No.-4 of 2016)",
+      "Section 3",
+      "Commercial Courts, Commercial Division And Commercial Appellate Divisions of High Courts Act, 2015\" (No.-4 of 2016)"
+    ],
+    [
+      "Section 15",
+      "Commercial Courts Act",
+      "Section 15",
+      "Commercial Courts Act"
+    ]
+  ],
+  "precedent_counts": {
+    "Sasan Power Limited Versus North American Coal Corporation (India) Patna High Court MA No.172 of 2018": 2
+  },
+  "provision_counts": {
+    "Section 37 of Arbitration and Conciliation Act, 1996": 1,
+    "Section 9 of Arbitration and Conciliation Act, 1996": 4,
+    "Section 29A of Arbitration and Conciliation Act, 1996": 1,
+    "Section 3 of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 2,
+    "section 3 of Commercial Courts, Commercial Division And Commercial Appellate Divisions of High Courts Act, 2015\" (No.-4 of 2016)": 1,
+    "Section 15 of Commercial Courts Act": 2,
+    "Order XIV-A of Code of Civil Procedure, 1908 (5 of 1908):": 1,
+    "proviso to sub-rule (1) of Rule 1 of Order V of Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Section 3 of Commercial Courts Act Patna High Court": 1,
+    "Section 230 of Indian Contract Act, 1872": 1,
+    "Section 3 of Commercial Courts, Commercial Division And Commercial Appellate Divisions of High Courts Act, 2015\" (No.-4 of 2016)": 1
+  },
+  "statute_counts": {
+    "Arbitration and Conciliation Act, 1996": 6,
+    "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015": 2,
+    "Commercial Courts, Commercial Division And Commercial Appellate Divisions of High Courts Act, 2015\" (No.-4 of 2016)": 2,
+    "Commercial Courts Act": 2,
+    "Code of Civil Procedure, 1908 (5 of 1908):": 1,
+    "Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Commercial Courts Act Patna High Court": 1,
+    "Indian Contract Act, 1872": 1
+  }
+}

@@ -1,0 +1,844 @@
+{
+  "entities": [
+    {
+      "text": "Uttarakhand High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 22
+    },
+    {
+      "text": "Richa Bisht",
+      "label": "PETITIONER",
+      "start_char": 28,
+      "end_char": 39
+    },
+    {
+      "text": "Union Of India",
+      "label": "RESPONDENT",
+      "start_char": 52,
+      "end_char": 66
+    },
+    {
+      "text": "Manoj. K. Tiwari",
+      "label": "LAWYER",
+      "start_char": 149,
+      "end_char": 165
+    },
+    {
+      "text": "Manoj K. Tiwari",
+      "label": "JUDGE",
+      "start_char": 173,
+      "end_char": 188
+    },
+    {
+      "text": "High Court Of Uttarakhand At Nainital",
+      "label": "COURT",
+      "start_char": 201,
+      "end_char": 238
+    },
+    {
+      "text": "Richa Bisht",
+      "label": "PETITIONER",
+      "start_char": 298,
+      "end_char": 309
+    },
+    {
+      "text": "Union of India",
+      "label": "RESPONDENT",
+      "start_char": 414,
+      "end_char": 428
+    },
+    {
+      "text": "Devesh Upreti",
+      "label": "LAWYER",
+      "start_char": 500,
+      "end_char": 513
+    },
+    {
+      "text": "Suyash Pant",
+      "label": "LAWYER",
+      "start_char": 551,
+      "end_char": 562
+    },
+    {
+      "text": "Manoj Kumar",
+      "label": "LAWYER",
+      "start_char": 613,
+      "end_char": 624
+    },
+    {
+      "text": "Naresh Pant",
+      "label": "LAWYER",
+      "start_char": 669,
+      "end_char": 680
+    },
+    {
+      "text": "Manoj K. Tiwari",
+      "label": "JUDGE",
+      "start_char": 779,
+      "end_char": 794
+    },
+    {
+      "text": "Section 3G(6)",
+      "label": "PROVISION",
+      "start_char": 1394,
+      "end_char": 1407
+    },
+    {
+      "text": "National Highways Act, 1956",
+      "label": "STATUTE",
+      "start_char": 1415,
+      "end_char": 1442
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 1444,
+      "end_char": 1453
+    },
+    {
+      "text": "National Highways Act, 1956",
+      "label": "STATUTE",
+      "start_char": 1462,
+      "end_char": 1489
+    },
+    {
+      "text": "sub-section (2) of section 3C",
+      "label": "PROVISION",
+      "start_char": 2643,
+      "end_char": 2672
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 3052,
+      "end_char": 3070
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 3138,
+      "end_char": 3189
+    },
+    {
+      "text": "section 3A",
+      "label": "PROVISION",
+      "start_char": 3494,
+      "end_char": 3504
+    },
+    {
+      "text": "Kishanpur Sakuliya",
+      "label": "GPE",
+      "start_char": 4126,
+      "end_char": 4144
+    },
+    {
+      "text": "Lalkuan",
+      "label": "GPE",
+      "start_char": 4153,
+      "end_char": 4160
+    },
+    {
+      "text": "Nainital",
+      "label": "GPE",
+      "start_char": 4171,
+      "end_char": 4179
+    },
+    {
+      "text": "National Highway No.87",
+      "label": "STATUTE",
+      "start_char": 4220,
+      "end_char": 4242
+    },
+    {
+      "text": "National Highways Act, 1956",
+      "label": "STATUTE",
+      "start_char": 4267,
+      "end_char": 4294
+    },
+    {
+      "text": "Section 3G(1)",
+      "label": "PROVISION",
+      "start_char": 4508,
+      "end_char": 4521
+    },
+    {
+      "text": "Section 3G(5)",
+      "label": "PROVISION",
+      "start_char": 4608,
+      "end_char": 4621
+    },
+    {
+      "text": "Section 3G(5)",
+      "label": "PROVISION",
+      "start_char": 4710,
+      "end_char": 4723
+    },
+    {
+      "text": "Section 3G(6)",
+      "label": "PROVISION",
+      "start_char": 4793,
+      "end_char": 4806
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 4856,
+      "end_char": 4894
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 5043,
+      "end_char": 5053
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 5061,
+      "end_char": 5099
+    },
+    {
+      "text": "District Judge, Nainital",
+      "label": "COURT",
+      "start_char": 5113,
+      "end_char": 5137
+    },
+    {
+      "text": "Section 15(2)",
+      "label": "PROVISION",
+      "start_char": 5185,
+      "end_char": 5198
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 5206,
+      "end_char": 5233
+    },
+    {
+      "text": "Commercial Court, Dehradun",
+      "label": "COURT",
+      "start_char": 5298,
+      "end_char": 5324
+    },
+    {
+      "text": "21.09.2019",
+      "label": "DATE",
+      "start_char": 5342,
+      "end_char": 5352
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 5478,
+      "end_char": 5505
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "start_char": 5525,
+      "end_char": 5535
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 5763,
+      "end_char": 5773
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 5781,
+      "end_char": 5808
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 5893,
+      "end_char": 5903
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 6040,
+      "end_char": 6091
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 6336,
+      "end_char": 6387
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 6913,
+      "end_char": 6964
+    },
+    {
+      "text": "Order XV-A]",
+      "label": "PROVISION",
+      "start_char": 7571,
+      "end_char": 7582
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908):",
+      "label": "STATUTE",
+      "start_char": 7590,
+      "end_char": 7632
+    },
+    {
+      "text": "proviso to sub-rule (1) of Rule 1 of Order V",
+      "label": "PROVISION",
+      "start_char": 7651,
+      "end_char": 7695
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 7703,
+      "end_char": 7744
+    },
+    {
+      "text": "Section 6",
+      "label": "PROVISION",
+      "start_char": 8472,
+      "end_char": 8481
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 8489,
+      "end_char": 8516
+    },
+    {
+      "text": "Section 10",
+      "label": "PROVISION",
+      "start_char": 8892,
+      "end_char": 8902
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 8910,
+      "end_char": 8931
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 8976,
+      "end_char": 9003
+    },
+    {
+      "text": "Section 10",
+      "label": "PROVISION",
+      "start_char": 9063,
+      "end_char": 9073
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 9416,
+      "end_char": 9467
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 9803,
+      "end_char": 9854
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 10213,
+      "end_char": 10264
+    },
+    {
+      "text": "Sections 6, 10 and 15",
+      "label": "PROVISION",
+      "start_char": 10589,
+      "end_char": 10610
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 10618,
+      "end_char": 10639
+    },
+    {
+      "text": "Section 2(1)(c)",
+      "label": "PROVISION",
+      "start_char": 10998,
+      "end_char": 11013
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 11021,
+      "end_char": 11048
+    },
+    {
+      "text": "Section 2(1)(i)",
+      "label": "PROVISION",
+      "start_char": 11106,
+      "end_char": 11121
+    },
+    {
+      "text": "Section 2(1) (c)",
+      "label": "PROVISION",
+      "start_char": 11139,
+      "end_char": 11155
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 11159,
+      "end_char": 11186
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 13061,
+      "end_char": 13079
+    },
+    {
+      "text": "Section 2 (i) (c)",
+      "label": "PROVISION",
+      "start_char": 13724,
+      "end_char": 13741
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 13749,
+      "end_char": 13776
+    },
+    {
+      "text": "Sections 10 and 15(2)",
+      "label": "PROVISION",
+      "start_char": 13909,
+      "end_char": 13930
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 13983,
+      "end_char": 13993
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 14001,
+      "end_char": 14033
+    },
+    {
+      "text": "Section 15(2)",
+      "label": "PROVISION",
+      "start_char": 14086,
+      "end_char": 14099
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 14107,
+      "end_char": 14134
+    },
+    {
+      "text": "Section 2 (1) (c)",
+      "label": "PROVISION",
+      "start_char": 14370,
+      "end_char": 14387
+    },
+    {
+      "text": "Clause (xxii) of Section 2 (1) (c)",
+      "label": "PROVISION",
+      "start_char": 14442,
+      "end_char": 14476
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 14489,
+      "end_char": 14507
+    },
+    {
+      "text": "03.03.2020",
+      "label": "DATE",
+      "start_char": 14604,
+      "end_char": 14614
+    },
+    {
+      "text": "Manoj Kumar",
+      "label": "LAWYER",
+      "start_char": 14620,
+      "end_char": 14631
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 14641,
+      "end_char": 14659
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 14719,
+      "end_char": 14737
+    },
+    {
+      "text": "Section 2(1) (c) (xxii)",
+      "label": "PROVISION",
+      "start_char": 14789,
+      "end_char": 14812
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 14820,
+      "end_char": 14847
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 15072,
+      "end_char": 15090
+    },
+    {
+      "text": "Section 2(1) (c) (xxii)",
+      "label": "PROVISION",
+      "start_char": 15097,
+      "end_char": 15120
+    },
+    {
+      "text": "Manoj Kumar",
+      "label": "LAWYER",
+      "start_char": 15149,
+      "end_char": 15160
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 15170,
+      "end_char": 15188
+    },
+    {
+      "text": "Central Government",
+      "label": "ORG",
+      "start_char": 15283,
+      "end_char": 15301
+    },
+    {
+      "text": "Section 2(1) (c) (xxii)",
+      "label": "PROVISION",
+      "start_char": 15308,
+      "end_char": 15331
+    },
+    {
+      "text": "National Highways Act, 1956",
+      "label": "STATUTE",
+      "start_char": 15687,
+      "end_char": 15714
+    },
+    {
+      "text": "Clause-vii of Section 2(1) (c)",
+      "label": "PROVISION",
+      "start_char": 15727,
+      "end_char": 15757
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 15765,
+      "end_char": 15792
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 16223,
+      "end_char": 16233
+    },
+    {
+      "text": "Arbitration and Conciliation Act",
+      "label": "STATUTE",
+      "start_char": 16241,
+      "end_char": 16273
+    },
+    {
+      "text": "Commercial Court, Dehradun",
+      "label": "COURT",
+      "start_char": 16281,
+      "end_char": 16307
+    },
+    {
+      "text": "21.09.2019",
+      "label": "DATE",
+      "start_char": 16378,
+      "end_char": 16388
+    },
+    {
+      "text": "Commercial Court, Dehradun",
+      "label": "COURT",
+      "start_char": 16407,
+      "end_char": 16433
+    },
+    {
+      "text": "District Judge, Nainital",
+      "label": "COURT",
+      "start_char": 16487,
+      "end_char": 16511
+    },
+    {
+      "text": "Manoj",
+      "label": "LAWYER",
+      "start_char": 16594,
+      "end_char": 16599
+    },
+    {
+      "text": "K. Tiwari",
+      "label": "JUDGE",
+      "start_char": 16601,
+      "end_char": 16610
+    },
+    {
+      "text": "11.03.2020",
+      "label": "DATE",
+      "start_char": 16616,
+      "end_char": 16626
+    }
+  ],
+  "precedent_clusters": {},
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 3G(6)",
+      "National Highways Act, 1956",
+      "Section 3G(6)",
+      "National Highways Act, 1956"
+    ],
+    [
+      "Section 3",
+      "National Highways Act, 1956",
+      "Section 3",
+      "National Highways Act, 1956"
+    ],
+    [
+      "Section 3G(6)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 3G(6)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 15(2)",
+      "Commercial Courts Act, 2015",
+      "Section 15(2)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 15",
+      "Commercial Courts Act, 2015",
+      "Section 15",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Order XV-A]",
+      "Code of Civil Procedure, 1908 (5 of 1908):",
+      "Order XV-A]",
+      "Code of Civil Procedure, 1908 (5 of 1908):"
+    ],
+    [
+      "proviso to sub-rule (1) of Rule 1 of Order V",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "proviso to sub-rule (1) of Rule 1 of Order V",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "Section 6",
+      "Commercial Courts Act, 2015",
+      "Section 6",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 10",
+      "Commercial Courts Act",
+      "Section 10",
+      "Commercial Courts Act"
+    ],
+    [
+      "Sections 6, 10 and 15",
+      "Commercial Courts Act",
+      "Sections 6, 10 and 15",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 2(1)(c)",
+      "Commercial Courts Act, 2015",
+      "Section 2(1)(c)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 2(1) (c)",
+      "Commercial Courts Act, 2015",
+      "Section 2(1) (c)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 2 (i) (c)",
+      "Commercial Courts Act, 2015",
+      "Section 2 (i) (c)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 15(2)",
+      "Commercial Courts Act, 2015",
+      "Section 15(2)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 2(1) (c) (xxii)",
+      "Commercial Courts Act, 2015",
+      "Section 2(1) (c) (xxii)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Clause-vii of Section 2(1) (c)",
+      "Commercial Courts Act, 2015",
+      "Clause-vii of Section 2(1) (c)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 34",
+      "Arbitration and Conciliation Act",
+      "Section 34",
+      "Arbitration and Conciliation Act"
+    ],
+    [
+      "Section 3G(1)",
+      "National Highways Act, 1956",
+      "Section 3G(1)",
+      "National Highways Act, 1956"
+    ],
+    [
+      "Section 3G(5)",
+      "National Highways Act, 1956",
+      "Section 3G(5)",
+      "National Highways Act, 1956"
+    ],
+    [
+      "Section 3G(5)",
+      "National Highways Act, 1956",
+      "Section 3G(5)",
+      "National Highways Act, 1956"
+    ],
+    [
+      "Section 15",
+      "Commercial Courts Act, 2015",
+      "Section 15",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 10",
+      "Commercial Courts Act",
+      "Section 10",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 2(1)(i)",
+      "Commercial Courts Act, 2015",
+      "Section 2(1)(i)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Sections 10 and 15(2)",
+      "Commercial Courts Act",
+      "Sections 10 and 15(2)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 2 (1) (c)",
+      "Commercial Courts Act, 2015",
+      "Section 2 (1) (c)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Clause (xxii) of Section 2 (1) (c)",
+      "Commercial Courts Act, 2015",
+      "Clause (xxii) of Section 2 (1) (c)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 2(1) (c) (xxii)",
+      "Commercial Courts Act, 2015",
+      "Section 2(1) (c) (xxii)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 2(1) (c) (xxii)",
+      "Commercial Courts Act, 2015",
+      "Section 2(1) (c) (xxii)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "sub-section (2) of section 3C",
+      "National Highways Act, 1956",
+      "sub-section (2) of section 3C",
+      "National Highways Act, 1956"
+    ],
+    [
+      "section 3A",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "section 3A",
+      "Arbitration and Conciliation Act, 1996 (26 of 1996)"
+    ]
+  ],
+  "precedent_counts": {},
+  "provision_counts": {
+    "Section 3G(6) of National Highways Act, 1956": 1,
+    "Section 3 of National Highways Act, 1956": 1,
+    "Section 3G(6) of Arbitration and Conciliation Act, 1996": 1,
+    "Section 34 of Arbitration and Conciliation Act, 1996": 1,
+    "Section 15(2) of Commercial Courts Act, 2015": 2,
+    "Section 15 of Commercial Courts Act, 2015": 2,
+    "Order XV-A] of Code of Civil Procedure, 1908 (5 of 1908):": 1,
+    "proviso to sub-rule (1) of Rule 1 of Order V of Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Section 6 of Commercial Courts Act, 2015": 1,
+    "Section 10 of Commercial Courts Act": 2,
+    "Sections 6, 10 and 15 of Commercial Courts Act": 1,
+    "Section 2(1)(c) of Commercial Courts Act, 2015": 1,
+    "Section 2(1) (c) of Commercial Courts Act, 2015": 1,
+    "Section 2 (i) (c) of Commercial Courts Act, 2015": 1,
+    "Section 34 of Arbitration and Conciliation Act": 2,
+    "Section 2(1) (c) (xxii) of Commercial Courts Act, 2015": 3,
+    "Clause-vii of Section 2(1) (c) of Commercial Courts Act, 2015": 1,
+    "Section 3G(1) of National Highways Act, 1956": 1,
+    "Section 3G(5) of National Highways Act, 1956": 2,
+    "Section 2(1)(i) of Commercial Courts Act, 2015": 1,
+    "Sections 10 and 15(2) of Commercial Courts Act": 1,
+    "Section 2 (1) (c) of Commercial Courts Act, 2015": 1,
+    "Clause (xxii) of Section 2 (1) (c) of Commercial Courts Act, 2015": 1,
+    "sub-section (2) of section 3C of National Highways Act, 1956": 1,
+    "section 3A of Arbitration and Conciliation Act, 1996 (26 of 1996)": 1
+  },
+  "statute_counts": {
+    "National Highways Act, 1956": 6,
+    "Arbitration and Conciliation Act, 1996": 2,
+    "Commercial Courts Act, 2015": 15,
+    "Code of Civil Procedure, 1908 (5 of 1908):": 1,
+    "Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Commercial Courts Act": 4,
+    "Arbitration and Conciliation Act": 2,
+    "Arbitration and Conciliation Act, 1996 (26 of 1996)": 1
+  }
+}

@@ -1,0 +1,5108 @@
+{
+  "entities": [
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 16
+    },
+    {
+      "text": "Delhi Chemical And Pharmaceutical",
+      "label": "PETITIONER",
+      "start_char": 21,
+      "end_char": 54
+    },
+    {
+      "text": "Himgiri Realtors Pvt. Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 62,
+      "end_char": 88
+    },
+    {
+      "text": "Rajiv Sahai Endlaw",
+      "label": "JUDGE",
+      "start_char": 166,
+      "end_char": 184
+    },
+    {
+      "text": "Rajiv Sahai Endlaw",
+      "label": "JUDGE",
+      "start_char": 192,
+      "end_char": 210
+    },
+    {
+      "text": "Amit Bansal",
+      "label": "LAWYER",
+      "start_char": 212,
+      "end_char": 223
+    },
+    {
+      "text": "High Court Of Delhi At New Delhi",
+      "label": "COURT",
+      "start_char": 237,
+      "end_char": 269
+    },
+    {
+      "text": "Delhi Chemical And Pharmaceutical Works",
+      "label": "PETITIONER",
+      "start_char": 503,
+      "end_char": 542
+    },
+    {
+      "text": "B.B. Gupta",
+      "label": "LAWYER",
+      "start_char": 642,
+      "end_char": 652
+    },
+    {
+      "text": "Sanjay Agnihotri",
+      "label": "LAWYER",
+      "start_char": 701,
+      "end_char": 717
+    },
+    {
+      "text": "Himgiri Realtors Pvt. Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 839,
+      "end_char": 865
+    },
+    {
+      "text": "Siddharth Bhatli",
+      "label": "LAWYER",
+      "start_char": 929,
+      "end_char": 945
+    },
+    {
+      "text": "Abhishek\n                           Choudhary",
+      "label": "LAWYER",
+      "start_char": 952,
+      "end_char": 997
+    },
+    {
+      "text": "P. Nagesh",
+      "label": "LAWYER",
+      "start_char": 1045,
+      "end_char": 1054
+    },
+    {
+      "text": "Akshay Sharma",
+      "label": "LAWYER",
+      "start_char": 1101,
+      "end_char": 1114
+    },
+    {
+      "text": "Rajiv Sahai Endlaw",
+      "label": "JUDGE",
+      "start_char": 1157,
+      "end_char": 1175
+    },
+    {
+      "text": "Amit Bansal",
+      "label": "JUDGE",
+      "start_char": 1196,
+      "end_char": 1207
+    },
+    {
+      "text": "Rajiv Sahai Endlaw",
+      "label": "JUDGE",
+      "start_char": 1233,
+      "end_char": 1251
+    },
+    {
+      "text": "Engineers & Builders Pvt. Ltd. Vs.",
+      "label": "PRECEDENT",
+      "start_char": 1738,
+      "end_char": 1772
+    },
+    {
+      "text": "Maharia Raj Joint Venture MANU/DE/4601/2019",
+      "label": "ORG",
+      "start_char": 1774,
+      "end_char": 1817
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 1888,
+      "end_char": 1921
+    },
+    {
+      "text": "M.L. Gupta Vs.",
+      "label": "PRECEDENT",
+      "start_char": 1938,
+      "end_char": 1952
+    },
+    {
+      "text": "Aerens Gold Souk International Ltd. 2018 SCC OnLine Del 7621",
+      "label": "PRECEDENT",
+      "start_char": 1953,
+      "end_char": 2013
+    },
+    {
+      "text": "Delhi Chemical and Pharmaceutical Works Pvt. Ltd.",
+      "label": "PETITIONER",
+      "start_char": 2253,
+      "end_char": 2302
+    },
+    {
+      "text": "Ameet Sharma",
+      "label": "PETITIONER",
+      "start_char": 2322,
+      "end_char": 2334
+    },
+    {
+      "text": "Himgiri Realtors Pvt. Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 2372,
+      "end_char": 2398
+    },
+    {
+      "text": "Samir Dev Sharma",
+      "label": "RESPONDENT",
+      "start_char": 2442,
+      "end_char": 2458
+    },
+    {
+      "text": "25th May, 2021",
+      "label": "DATE",
+      "start_char": 2474,
+      "end_char": 2488
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 3202,
+      "end_char": 3215
+    },
+    {
+      "text": "23rd March, 2020",
+      "label": "DATE",
+      "start_char": 3235,
+      "end_char": 3251
+    },
+    {
+      "text": "8th Match, 2021",
+      "label": "DATE",
+      "start_char": 3256,
+      "end_char": 3271
+    },
+    {
+      "text": "CM No.11906/2021",
+      "label": "CASE_NUMBER",
+      "start_char": 3389,
+      "end_char": 3405
+    },
+    {
+      "text": "CM No.11906/2021",
+      "label": "CASE_NUMBER",
+      "start_char": 3504,
+      "end_char": 3520
+    },
+    {
+      "text": "No.140/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 3586,
+      "end_char": 3597
+    },
+    {
+      "text": "11th March, 2019",
+      "label": "DATE",
+      "start_char": 3640,
+      "end_char": 3656
+    },
+    {
+      "text": "11th July, 2019",
+      "label": "DATE",
+      "start_char": 3862,
+      "end_char": 3877
+    },
+    {
+      "text": "11th March, 2019",
+      "label": "DATE",
+      "start_char": 4096,
+      "end_char": 4112
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (CPC)",
+      "label": "STATUTE",
+      "start_char": 4193,
+      "end_char": 4228
+    },
+    {
+      "text": "Order XXI",
+      "label": "PROVISION",
+      "start_char": 4492,
+      "end_char": 4501
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 4509,
+      "end_char": 4512
+    },
+    {
+      "text": "11th March, 2019",
+      "label": "DATE",
+      "start_char": 5189,
+      "end_char": 5205
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 5645,
+      "end_char": 5654
+    },
+    {
+      "text": "Ghaziabad",
+      "label": "GPE",
+      "start_char": 5716,
+      "end_char": 5725
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 5876,
+      "end_char": 5885
+    },
+    {
+      "text": "30th August, 2019",
+      "label": "DATE",
+      "start_char": 6274,
+      "end_char": 6291
+    },
+    {
+      "text": "Order XXI Rule 41(2)",
+      "label": "PROVISION",
+      "start_char": 6346,
+      "end_char": 6366
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 6374,
+      "end_char": 6377
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 6476,
+      "end_char": 6479
+    },
+    {
+      "text": "3rd December, 2019",
+      "label": "DATE",
+      "start_char": 6523,
+      "end_char": 6541
+    },
+    {
+      "text": "23rd December, 2019",
+      "label": "DATE",
+      "start_char": 6778,
+      "end_char": 6797
+    },
+    {
+      "text": "3rd December, 2019",
+      "label": "DATE",
+      "start_char": 6982,
+      "end_char": 7000
+    },
+    {
+      "text": "3rd December, 2019",
+      "label": "DATE",
+      "start_char": 7109,
+      "end_char": 7127
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 7184,
+      "end_char": 7217
+    },
+    {
+      "text": "EA No.217/2020",
+      "label": "CASE_NUMBER",
+      "start_char": 7263,
+      "end_char": 7277
+    },
+    {
+      "text": "Review Petition No.64/2020",
+      "label": "CASE_NUMBER",
+      "start_char": 7282,
+      "end_char": 7308
+    },
+    {
+      "text": "13th March, 2020",
+      "label": "DATE",
+      "start_char": 7630,
+      "end_char": 7646
+    },
+    {
+      "text": "Sahibabad",
+      "label": "GPE",
+      "start_char": 8239,
+      "end_char": 8248
+    },
+    {
+      "text": "Ghaziabad",
+      "label": "GPE",
+      "start_char": 8259,
+      "end_char": 8268
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 8992,
+      "end_char": 9002
+    },
+    {
+      "text": "Arbitration & Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 9010,
+      "end_char": 9046
+    },
+    {
+      "text": "OMP(ENF.)(COMM) No.140/2019",
+      "label": "CASE_NUMBER",
+      "start_char": 9194,
+      "end_char": 9221
+    },
+    {
+      "text": "Order XXI Rule 41(2)",
+      "label": "PROVISION",
+      "start_char": 9256,
+      "end_char": 9276
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 9284,
+      "end_char": 9287
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 9871,
+      "end_char": 9904
+    },
+    {
+      "text": "Order XXI Rule 41 (2)",
+      "label": "PROVISION",
+      "start_char": 10054,
+      "end_char": 10075
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 10083,
+      "end_char": 10086
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 10779,
+      "end_char": 10812
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 10826,
+      "end_char": 10859
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 11429,
+      "end_char": 11446
+    },
+    {
+      "text": "Section 106",
+      "label": "PROVISION",
+      "start_char": 12171,
+      "end_char": 12182
+    },
+    {
+      "text": "Indian Evidence Act, 1872",
+      "label": "STATUTE",
+      "start_char": 12190,
+      "end_char": 12215
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 12391,
+      "end_char": 12424
+    },
+    {
+      "text": "High Court of Bombay",
+      "label": "COURT",
+      "start_char": 12691,
+      "end_char": 12711
+    },
+    {
+      "text": "United Phosphorous Ltd.",
+      "label": "ORG",
+      "start_char": 12716,
+      "end_char": 12739
+    },
+    {
+      "text": "A.K. Kanoria",
+      "label": "OTHER_PERSON",
+      "start_char": 12744,
+      "end_char": 12756
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 12826,
+      "end_char": 12843
+    },
+    {
+      "text": "Order XXI Rule 11(2)(j)",
+      "label": "PROVISION",
+      "start_char": 12908,
+      "end_char": 12931
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 12939,
+      "end_char": 12942
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 12944,
+      "end_char": 12961
+    },
+    {
+      "text": "High Court of Calcutta",
+      "label": "COURT",
+      "start_char": 13133,
+      "end_char": 13155
+    },
+    {
+      "text": "Srei Equipment Finance Pvt",
+      "label": "ORG",
+      "start_char": 13164,
+      "end_char": 13190
+    },
+    {
+      "text": "Khyoda Apik AIR 2016 Cal 293 (DB)",
+      "label": "PRECEDENT",
+      "start_char": 13201,
+      "end_char": 13234
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 13249,
+      "end_char": 13266
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 13429,
+      "end_char": 13462
+    },
+    {
+      "text": "Order XLI Rule 1(3) and Rule 5",
+      "label": "PROVISION",
+      "start_char": 13648,
+      "end_char": 13678
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 13817,
+      "end_char": 13827
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 13835,
+      "end_char": 13850
+    },
+    {
+      "text": "Kohinoor Transporters Vs.",
+      "label": "PRECEDENT",
+      "start_char": 15005,
+      "end_char": 15030
+    },
+    {
+      "text": "State of Uttar Pradesh",
+      "label": "GPE",
+      "start_char": 15031,
+      "end_char": 15053
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 15140,
+      "end_char": 15173
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 15809,
+      "end_char": 15842
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 16381,
+      "end_char": 16398
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 16406,
+      "end_char": 16409
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 16462,
+      "end_char": 16495
+    },
+    {
+      "text": "Income Tax Act, 1961",
+      "label": "STATUTE",
+      "start_char": 16601,
+      "end_char": 16621
+    },
+    {
+      "text": "Companies Act, 1956",
+      "label": "STATUTE",
+      "start_char": 16630,
+      "end_char": 16649
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 16783,
+      "end_char": 16816
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 17195,
+      "end_char": 17228
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 17508,
+      "end_char": 17541
+    },
+    {
+      "text": "Credit Information Bureau (India) Limited",
+      "label": "ORG",
+      "start_char": 17689,
+      "end_char": 17730
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 17886,
+      "end_char": 17919
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 18167,
+      "end_char": 18200
+    },
+    {
+      "text": "M.V. Vali Pero Vs.",
+      "label": "PRECEDENT",
+      "start_char": 18445,
+      "end_char": 18463
+    },
+    {
+      "text": "Fernando Lopez AIR 1989 SC 2206",
+      "label": "PRECEDENT",
+      "start_char": 18464,
+      "end_char": 18495
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 18617,
+      "end_char": 18650
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 18830,
+      "end_char": 18845
+    },
+    {
+      "text": "Emkay Global Financial Services Ltd. Vs.",
+      "label": "PRECEDENT",
+      "start_char": 18862,
+      "end_char": 18902
+    },
+    {
+      "text": "Girdhar Sondhi (2018) 9 SCC 49",
+      "label": "PRECEDENT",
+      "start_char": 18903,
+      "end_char": 18933
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 19214,
+      "end_char": 19231
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 19232,
+      "end_char": 19235
+    },
+    {
+      "text": "Bachhaj Nahar Vs.",
+      "label": "PRECEDENT",
+      "start_char": 19346,
+      "end_char": 19363
+    },
+    {
+      "text": "Nilima Mandal (2008) 17 SCC 491",
+      "label": "PRECEDENT",
+      "start_char": 19364,
+      "end_char": 19395
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 19821,
+      "end_char": 19831
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 19993,
+      "end_char": 20026
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 20551,
+      "end_char": 20584
+    },
+    {
+      "text": "23rd December, 2019",
+      "label": "DATE",
+      "start_char": 21358,
+      "end_char": 21377
+    },
+    {
+      "text": "EA no.217/2020",
+      "label": "CASE_NUMBER",
+      "start_char": 21719,
+      "end_char": 21733
+    },
+    {
+      "text": "Review Petition no.64/2020",
+      "label": "CASE_NUMBER",
+      "start_char": 21738,
+      "end_char": 21764
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt. Ltd.",
+      "label": "ORG",
+      "start_char": 22110,
+      "end_char": 22149
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 22300,
+      "end_char": 22310
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 22318,
+      "end_char": 22333
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 22438,
+      "end_char": 22441
+    },
+    {
+      "text": "Section 34",
+      "label": "PROVISION",
+      "start_char": 22595,
+      "end_char": 22605
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 22613,
+      "end_char": 22628
+    },
+    {
+      "text": "Sections 36 to 74",
+      "label": "PROVISION",
+      "start_char": 22853,
+      "end_char": 22870
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 22878,
+      "end_char": 22881
+    },
+    {
+      "text": "Section 51",
+      "label": "PROVISION",
+      "start_char": 22932,
+      "end_char": 22942
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 23115,
+      "end_char": 23148
+    },
+    {
+      "text": "Order XXI Rules 10 and 11",
+      "label": "PROVISION",
+      "start_char": 23578,
+      "end_char": 23603
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 23611,
+      "end_char": 23614
+    },
+    {
+      "text": "Order XXI Rule 11(2)(j)",
+      "label": "PROVISION",
+      "start_char": 23839,
+      "end_char": 23862
+    },
+    {
+      "text": "(v) Order XXI Rules 12 and 13",
+      "label": "PROVISION",
+      "start_char": 24117,
+      "end_char": 24146
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 24349,
+      "end_char": 24366
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 24374,
+      "end_char": 24377
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 24652,
+      "end_char": 24685
+    },
+    {
+      "text": "Rule 17(4) of Order XXI",
+      "label": "PROVISION",
+      "start_char": 24912,
+      "end_char": 24935
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 25127,
+      "end_char": 25144
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 25345,
+      "end_char": 25348
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 25437,
+      "end_char": 25454
+    },
+    {
+      "text": "Order XLVIII Rule (3)",
+      "label": "PROVISION",
+      "start_char": 25481,
+      "end_char": 25502
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 25510,
+      "end_char": 25513
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 25783,
+      "end_char": 25786
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 25800,
+      "end_char": 25817
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 25926,
+      "end_char": 25959
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 26095,
+      "end_char": 26112
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 26120,
+      "end_char": 26123
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 26350,
+      "end_char": 26367
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 26375,
+      "end_char": 26378
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 27041,
+      "end_char": 27058
+    },
+    {
+      "text": "Order XXI Rule 41(3)",
+      "label": "PROVISION",
+      "start_char": 27100,
+      "end_char": 27120
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 27189,
+      "end_char": 27206
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 27214,
+      "end_char": 27217
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 27297,
+      "end_char": 27330
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 27577,
+      "end_char": 27594
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 27602,
+      "end_char": 27605
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 27623,
+      "end_char": 27656
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 27767,
+      "end_char": 27770
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 27783,
+      "end_char": 27786
+    },
+    {
+      "text": "Order XLVIII Rule 3",
+      "label": "PROVISION",
+      "start_char": 27874,
+      "end_char": 27893
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 28011,
+      "end_char": 28044
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 28200,
+      "end_char": 28203
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 28222,
+      "end_char": 28255
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 28333,
+      "end_char": 28354
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 28363,
+      "end_char": 28396
+    },
+    {
+      "text": "Order XXI Rule 17(4)",
+      "label": "PROVISION",
+      "start_char": 28555,
+      "end_char": 28575
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 28593,
+      "end_char": 28626
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 28741,
+      "end_char": 28774
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 29488,
+      "end_char": 29505
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 29513,
+      "end_char": 29516
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 29576,
+      "end_char": 29609
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 29737,
+      "end_char": 29770
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 29825,
+      "end_char": 29842
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 29917,
+      "end_char": 29950
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 30180,
+      "end_char": 30197
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 30205,
+      "end_char": 30208
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 30726,
+      "end_char": 30743
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 30751,
+      "end_char": 30754
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 30982,
+      "end_char": 30999
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 31007,
+      "end_char": 31010
+    },
+    {
+      "text": "Anirban Roy Vs.",
+      "label": "PRECEDENT",
+      "start_char": 31299,
+      "end_char": 31314
+    },
+    {
+      "text": "Ram Kishan Gupta",
+      "label": "OTHER_PERSON",
+      "start_char": 31315,
+      "end_char": 31331
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 31410,
+      "end_char": 31443
+    },
+    {
+      "text": "K.S. Puttaswamy Vs.",
+      "label": "PRECEDENT",
+      "start_char": 31611,
+      "end_char": 31630
+    },
+    {
+      "text": "Union of India (2017) 10 SCC 1",
+      "label": "PRECEDENT",
+      "start_char": 31631,
+      "end_char": 31661
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 31709,
+      "end_char": 31742
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 32138,
+      "end_char": 32171
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 32632,
+      "end_char": 32665
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 33123,
+      "end_char": 33126
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 33196,
+      "end_char": 33213
+    },
+    {
+      "text": "Order XXI Rule 12",
+      "label": "PROVISION",
+      "start_char": 33322,
+      "end_char": 33339
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 33347,
+      "end_char": 33350
+    },
+    {
+      "text": "EA No.217/2020",
+      "label": "CASE_NUMBER",
+      "start_char": 33619,
+      "end_char": 33633
+    },
+    {
+      "text": "Review Petition No.64/2020",
+      "label": "CASE_NUMBER",
+      "start_char": 33638,
+      "end_char": 33664
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt. Ltd.",
+      "label": "ORG",
+      "start_char": 33800,
+      "end_char": 33839
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 33967,
+      "end_char": 33984
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 33992,
+      "end_char": 33995
+    },
+    {
+      "text": "27th April, 2021",
+      "label": "DATE",
+      "start_char": 34500,
+      "end_char": 34516
+    },
+    {
+      "text": "D&H India Ltd.",
+      "label": "ORG",
+      "start_char": 34738,
+      "end_char": 34752
+    },
+    {
+      "text": "Superon Schweisstechnik India Ltd. (2020) 268 DLT 15 (DB)",
+      "label": "PRECEDENT",
+      "start_char": 34757,
+      "end_char": 34814
+    },
+    {
+      "text": "proviso to Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 34835,
+      "end_char": 34860
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 34868,
+      "end_char": 34889
+    },
+    {
+      "text": "Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 34950,
+      "end_char": 34964
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 35113,
+      "end_char": 35124
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 35132,
+      "end_char": 35135
+    },
+    {
+      "text": "Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 35163,
+      "end_char": 35177
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 35343,
+      "end_char": 35346
+    },
+    {
+      "text": "Chapter II",
+      "label": "PROVISION",
+      "start_char": 35393,
+      "end_char": 35403
+    },
+    {
+      "text": "Delhi High Court (Original Side) Rules, 2018",
+      "label": "STATUTE",
+      "start_char": 35411,
+      "end_char": 35455
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 35544,
+      "end_char": 35565
+    },
+    {
+      "text": "Section 10(2)",
+      "label": "PROVISION",
+      "start_char": 35578,
+      "end_char": 35591
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 35599,
+      "end_char": 35620
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 35705,
+      "end_char": 35720
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 35860,
+      "end_char": 35875
+    },
+    {
+      "text": "Section 10(2)",
+      "label": "PROVISION",
+      "start_char": 36014,
+      "end_char": 36027
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 36168,
+      "end_char": 36183
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 36355,
+      "end_char": 36376
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 36426,
+      "end_char": 36436
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 36444,
+      "end_char": 36465
+    },
+    {
+      "text": "Section 10",
+      "label": "PROVISION",
+      "start_char": 36601,
+      "end_char": 36611
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 36619,
+      "end_char": 36640
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 36707,
+      "end_char": 36728
+    },
+    {
+      "text": "Review Petition No.64/2020",
+      "label": "CASE_NUMBER",
+      "start_char": 36904,
+      "end_char": 36930
+    },
+    {
+      "text": "3 rd December, 2019",
+      "label": "DATE",
+      "start_char": 37006,
+      "end_char": 37025
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 37491,
+      "end_char": 37524
+    },
+    {
+      "text": "30th August, 2019",
+      "label": "DATE",
+      "start_char": 37555,
+      "end_char": 37572
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 37693,
+      "end_char": 37696
+    },
+    {
+      "text": "3 rd December, 2019",
+      "label": "DATE",
+      "start_char": 37752,
+      "end_char": 37771
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 37860,
+      "end_char": 37863
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 37964,
+      "end_char": 37997
+    },
+    {
+      "text": "23rd December, 2019",
+      "label": "DATE",
+      "start_char": 38028,
+      "end_char": 38047
+    },
+    {
+      "text": "3rd December, 2019",
+      "label": "DATE",
+      "start_char": 38358,
+      "end_char": 38376
+    },
+    {
+      "text": "23 rd December, 2019",
+      "label": "DATE",
+      "start_char": 38508,
+      "end_char": 38528
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 38597,
+      "end_char": 38630
+    },
+    {
+      "text": "Sahibabad",
+      "label": "GPE",
+      "start_char": 38768,
+      "end_char": 38777
+    },
+    {
+      "text": "Uttar Pradesh State Industrial Development Corporation",
+      "label": "ORG",
+      "start_char": 38851,
+      "end_char": 38905
+    },
+    {
+      "text": "UPSIDC",
+      "label": "ORG",
+      "start_char": 38907,
+      "end_char": 38913
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 39341,
+      "end_char": 39374
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 39388,
+      "end_char": 39421
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 39535,
+      "end_char": 39568
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 39662,
+      "end_char": 39695
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 39792,
+      "end_char": 39825
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 39935,
+      "end_char": 39968
+    },
+    {
+      "text": "EA No.217/2020",
+      "label": "CASE_NUMBER",
+      "start_char": 40275,
+      "end_char": 40289
+    },
+    {
+      "text": "Review Petition No.64/2020",
+      "label": "CASE_NUMBER",
+      "start_char": 40294,
+      "end_char": 40320
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 40601,
+      "end_char": 40634
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 40885,
+      "end_char": 40918
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 41247,
+      "end_char": 41250
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 41264,
+      "end_char": 41274
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 41282,
+      "end_char": 41297
+    },
+    {
+      "text": "D&H India Ltd.",
+      "label": "ORG",
+      "start_char": 41459,
+      "end_char": 41473
+    },
+    {
+      "text": "Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 41578,
+      "end_char": 41592
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 41600,
+      "end_char": 41621
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 41777,
+      "end_char": 41788
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 41796,
+      "end_char": 41799
+    },
+    {
+      "text": "Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 41931,
+      "end_char": 41945
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 41953,
+      "end_char": 41974
+    },
+    {
+      "text": "Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 42047,
+      "end_char": 42061
+    },
+    {
+      "text": "Section 13(1)",
+      "label": "PROVISION",
+      "start_char": 42078,
+      "end_char": 42091
+    },
+    {
+      "text": "Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 42103,
+      "end_char": 42117
+    },
+    {
+      "text": "Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 42126,
+      "end_char": 42140
+    },
+    {
+      "text": "D&H India Ltd.",
+      "label": "ORG",
+      "start_char": 42197,
+      "end_char": 42211
+    },
+    {
+      "text": "HPL (India) Limited Vs. QRG Enterprises (2017) 238 DLT 123 (DB)",
+      "label": "PRECEDENT",
+      "start_char": 42298,
+      "end_char": 42361
+    },
+    {
+      "text": "Samsung Leasing Ltd.",
+      "label": "ORG",
+      "start_char": 42363,
+      "end_char": 42383
+    },
+    {
+      "text": "Samsung Electronics Co. Ltd. (2017) 242 DLT 608 (DB)",
+      "label": "PRECEDENT",
+      "start_char": 42388,
+      "end_char": 42440
+    },
+    {
+      "text": "Rahul Gupta Vs.",
+      "label": "PRECEDENT",
+      "start_char": 42445,
+      "end_char": 42460
+    },
+    {
+      "text": "Pratap Singh (2014) 206 DLT 188 (DB)",
+      "label": "PRECEDENT",
+      "start_char": 42461,
+      "end_char": 42497
+    },
+    {
+      "text": "HPL (India) Ltd.",
+      "label": "ORG",
+      "start_char": 42502,
+      "end_char": 42518
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 42548,
+      "end_char": 42558
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 42743,
+      "end_char": 42753
+    },
+    {
+      "text": "Section 13(1) and Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 42793,
+      "end_char": 42825
+    },
+    {
+      "text": "Section 13(1)",
+      "label": "PROVISION",
+      "start_char": 42901,
+      "end_char": 42914
+    },
+    {
+      "text": "Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 42919,
+      "end_char": 42933
+    },
+    {
+      "text": "Section 2(14)",
+      "label": "PROVISION",
+      "start_char": 42977,
+      "end_char": 42990
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 42998,
+      "end_char": 43001
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 43171,
+      "end_char": 43182
+    },
+    {
+      "text": "Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 43214,
+      "end_char": 43228
+    },
+    {
+      "text": "Commercial Court Act",
+      "label": "STATUTE",
+      "start_char": 43236,
+      "end_char": 43256
+    },
+    {
+      "text": "Section 13(2)",
+      "label": "PROVISION",
+      "start_char": 43262,
+      "end_char": 43275
+    },
+    {
+      "text": "Delhi High Court Act, 1966",
+      "label": "STATUTE",
+      "start_char": 43508,
+      "end_char": 43534
+    },
+    {
+      "text": "Delhi High Court Act",
+      "label": "STATUTE",
+      "start_char": 43575,
+      "end_char": 43595
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 43733,
+      "end_char": 43754
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 43825,
+      "end_char": 43836
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 43844,
+      "end_char": 43847
+    },
+    {
+      "text": "Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 43935,
+      "end_char": 43949
+    },
+    {
+      "text": "Shah Babulal Khimji Vs.",
+      "label": "PRECEDENT",
+      "start_char": 43996,
+      "end_char": 44019
+    },
+    {
+      "text": "Jayaben D. Kaniya (1981) 4 SCC 8",
+      "label": "PRECEDENT",
+      "start_char": 44020,
+      "end_char": 44052
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 44114,
+      "end_char": 44124
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 44132,
+      "end_char": 44153
+    },
+    {
+      "text": "Shah Babulal Khimji",
+      "label": "OTHER_PERSON",
+      "start_char": 44303,
+      "end_char": 44322
+    },
+    {
+      "text": "Section 13(2)",
+      "label": "PROVISION",
+      "start_char": 44440,
+      "end_char": 44453
+    },
+    {
+      "text": "Samsung Leasing Ltd.",
+      "label": "ORG",
+      "start_char": 44669,
+      "end_char": 44689
+    },
+    {
+      "text": "Prasar Bharati Vs.",
+      "label": "PRECEDENT",
+      "start_char": 44710,
+      "end_char": 44728
+    },
+    {
+      "text": "Stracon India Limited",
+      "label": "ORG",
+      "start_char": 44729,
+      "end_char": 44750
+    },
+    {
+      "text": "MANU/DE/1371/2020",
+      "label": "CASE_NUMBER",
+      "start_char": 44751,
+      "end_char": 44768
+    },
+    {
+      "text": "HPL (India) Ltd.",
+      "label": "ORG",
+      "start_char": 44861,
+      "end_char": 44877
+    },
+    {
+      "text": "D&H India Ltd.",
+      "label": "ORG",
+      "start_char": 44985,
+      "end_char": 44999
+    },
+    {
+      "text": "Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 45062,
+      "end_char": 45076
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 45084,
+      "end_char": 45105
+    },
+    {
+      "text": "Section 13(1) and Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 45169,
+      "end_char": 45201
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 45329,
+      "end_char": 45332
+    },
+    {
+      "text": "Rule 5",
+      "label": "PROVISION",
+      "start_char": 45350,
+      "end_char": 45356
+    },
+    {
+      "text": "Chapter II",
+      "label": "PROVISION",
+      "start_char": 45360,
+      "end_char": 45370
+    },
+    {
+      "text": "Delhi High Court (Original Side) Rules, 2018",
+      "label": "COURT",
+      "start_char": 45378,
+      "end_char": 45422
+    },
+    {
+      "text": "D&H India Ltd.",
+      "label": "ORG",
+      "start_char": 45606,
+      "end_char": 45620
+    },
+    {
+      "text": "D&H India Ltd.",
+      "label": "ORG",
+      "start_char": 45688,
+      "end_char": 45702
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 45838,
+      "end_char": 45871
+    },
+    {
+      "text": "Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 46671,
+      "end_char": 46685
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 46693,
+      "end_char": 46714
+    },
+    {
+      "text": "Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 46732,
+      "end_char": 46746
+    },
+    {
+      "text": "Section 13(1)",
+      "label": "PROVISION",
+      "start_char": 46758,
+      "end_char": 46771
+    },
+    {
+      "text": "Section 13(1) and Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 46840,
+      "end_char": 46872
+    },
+    {
+      "text": "Section 13(1)",
+      "label": "PROVISION",
+      "start_char": 46960,
+      "end_char": 46973
+    },
+    {
+      "text": "Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 47122,
+      "end_char": 47136
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 47347,
+      "end_char": 47357
+    },
+    {
+      "text": "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Act, 2018",
+      "label": "STATUTE",
+      "start_char": 47379,
+      "end_char": 47488
+    },
+    {
+      "text": "3rd May, 2018",
+      "label": "DATE",
+      "start_char": 47506,
+      "end_char": 47519
+    },
+    {
+      "text": "Section 13(1)",
+      "label": "PROVISION",
+      "start_char": 47545,
+      "end_char": 47558
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 47736,
+      "end_char": 47746
+    },
+    {
+      "text": "sub-section (1) of Section 13",
+      "label": "PROVISION",
+      "start_char": 47781,
+      "end_char": 47810
+    },
+    {
+      "text": "Section 13(1)",
+      "label": "PROVISION",
+      "start_char": 47966,
+      "end_char": 47979
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 47991,
+      "end_char": 47996
+    },
+    {
+      "text": "Section 13(1)",
+      "label": "PROVISION",
+      "start_char": 48082,
+      "end_char": 48095
+    },
+    {
+      "text": "Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 48100,
+      "end_char": 48114
+    },
+    {
+      "text": "Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 48255,
+      "end_char": 48269
+    },
+    {
+      "text": "Section 13(1) as well as Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 48317,
+      "end_char": 48356
+    },
+    {
+      "text": "Section 10",
+      "label": "PROVISION",
+      "start_char": 48607,
+      "end_char": 48617
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 48625,
+      "end_char": 48646
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 48852,
+      "end_char": 48867
+    },
+    {
+      "text": "Sahibabad",
+      "label": "GPE",
+      "start_char": 49392,
+      "end_char": 49401
+    },
+    {
+      "text": "clauses (vi) and (vii) of Section 2(1)(c)",
+      "label": "PROVISION",
+      "start_char": 50028,
+      "end_char": 50069
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 50077,
+      "end_char": 50098
+    },
+    {
+      "text": "Section 10",
+      "label": "PROVISION",
+      "start_char": 50296,
+      "end_char": 50306
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 50314,
+      "end_char": 50329
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 50554,
+      "end_char": 50569
+    },
+    {
+      "text": "Section 10(2)",
+      "label": "PROVISION",
+      "start_char": 50593,
+      "end_char": 50606
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 50614,
+      "end_char": 50629
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 50789,
+      "end_char": 50799
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 50807,
+      "end_char": 50828
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 50864,
+      "end_char": 50879
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 51043,
+      "end_char": 51053
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 51172,
+      "end_char": 51175
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 51286,
+      "end_char": 51301
+    },
+    {
+      "text": "Section 2(1)(c)",
+      "label": "PROVISION",
+      "start_char": 51738,
+      "end_char": 51753
+    },
+    {
+      "text": "Sections 6 and 7",
+      "label": "PROVISION",
+      "start_char": 51910,
+      "end_char": 51926
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 51934,
+      "end_char": 51955
+    },
+    {
+      "text": "Section 2(1)(i)",
+      "label": "PROVISION",
+      "start_char": 52854,
+      "end_char": 52869
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 52877,
+      "end_char": 52898
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 53049,
+      "end_char": 53059
+    },
+    {
+      "text": "Section 12",
+      "label": "PROVISION",
+      "start_char": 53143,
+      "end_char": 53153
+    },
+    {
+      "text": "Section 2(1)(i)",
+      "label": "PROVISION",
+      "start_char": 53339,
+      "end_char": 53354
+    },
+    {
+      "text": "Sections 6 and 7",
+      "label": "PROVISION",
+      "start_char": 53436,
+      "end_char": 53452
+    },
+    {
+      "text": "Sections 10, 12, 6 and 7",
+      "label": "PROVISION",
+      "start_char": 53881,
+      "end_char": 53905
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 53913,
+      "end_char": 53934
+    },
+    {
+      "text": "Section 47",
+      "label": "PROVISION",
+      "start_char": 54304,
+      "end_char": 54314
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 54322,
+      "end_char": 54325
+    },
+    {
+      "text": "Section 2(1)(c)",
+      "label": "PROVISION",
+      "start_char": 55215,
+      "end_char": 55230
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 55369,
+      "end_char": 55390
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 55850,
+      "end_char": 55871
+    },
+    {
+      "text": "HPL (India) Ltd.",
+      "label": "ORG",
+      "start_char": 55889,
+      "end_char": 55905
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 56164,
+      "end_char": 56177
+    },
+    {
+      "text": "Rahul S. Shah Vs.",
+      "label": "PRECEDENT",
+      "start_char": 56195,
+      "end_char": 56212
+    },
+    {
+      "text": "Jinendra Kumar Gandhi",
+      "label": "OTHER_PERSON",
+      "start_char": 56213,
+      "end_char": 56234
+    },
+    {
+      "text": "Raja Durbhunga",
+      "label": "OTHER_PERSON",
+      "start_char": 56563,
+      "end_char": 56577
+    },
+    {
+      "text": "Maharaja Coomar Ramaput Singh 1872 SCC OnLine PC 16",
+      "label": "PRECEDENT",
+      "start_char": 56582,
+      "end_char": 56633
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 56681,
+      "end_char": 56686
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 56939,
+      "end_char": 56960
+    },
+    {
+      "text": "Rajiv Sahai Endlaw",
+      "label": "JUDGE",
+      "start_char": 57427,
+      "end_char": 57445
+    },
+    {
+      "text": "Bayer Intellectual Property GMBH",
+      "label": "ORG",
+      "start_char": 57470,
+      "end_char": 57502
+    },
+    {
+      "text": "Symed Laboratories Ltd. 2019 SCC OnLine Del 7410",
+      "label": "PRECEDENT",
+      "start_char": 57507,
+      "end_char": 57555
+    },
+    {
+      "text": "Order XXI Rule 11(2)",
+      "label": "PROVISION",
+      "start_char": 57889,
+      "end_char": 57909
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 57917,
+      "end_char": 57920
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 58032,
+      "end_char": 58035
+    },
+    {
+      "text": "Sections 6 and 7",
+      "label": "PROVISION",
+      "start_char": 58253,
+      "end_char": 58269
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 58277,
+      "end_char": 58298
+    },
+    {
+      "text": "Section 10(2)",
+      "label": "PROVISION",
+      "start_char": 58613,
+      "end_char": 58626
+    },
+    {
+      "text": "Section 10(2)",
+      "label": "PROVISION",
+      "start_char": 58930,
+      "end_char": 58943
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 58951,
+      "end_char": 58972
+    },
+    {
+      "text": "Section 36",
+      "label": "PROVISION",
+      "start_char": 58974,
+      "end_char": 58984
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 58992,
+      "end_char": 59007
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 59096,
+      "end_char": 59099
+    },
+    {
+      "text": "Section 38",
+      "label": "PROVISION",
+      "start_char": 59197,
+      "end_char": 59207
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 59215,
+      "end_char": 59218
+    },
+    {
+      "text": "Section 38",
+      "label": "PROVISION",
+      "start_char": 59423,
+      "end_char": 59433
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 59441,
+      "end_char": 59444
+    },
+    {
+      "text": "Section 38",
+      "label": "PROVISION",
+      "start_char": 59856,
+      "end_char": 59866
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 59874,
+      "end_char": 59877
+    },
+    {
+      "text": "Section 2(i)",
+      "label": "PROVISION",
+      "start_char": 60015,
+      "end_char": 60027
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 60035,
+      "end_char": 60056
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 60532,
+      "end_char": 60542
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 60550,
+      "end_char": 60571
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 60738,
+      "end_char": 60748
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 60756,
+      "end_char": 60777
+    },
+    {
+      "text": "Rules 46H and 103 of Order XXI",
+      "label": "PROVISION",
+      "start_char": 60976,
+      "end_char": 61006
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 61014,
+      "end_char": 61017
+    },
+    {
+      "text": "Section 13",
+      "label": "PROVISION",
+      "start_char": 61183,
+      "end_char": 61193
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 61201,
+      "end_char": 61222
+    },
+    {
+      "text": "HPL (India) Ltd.",
+      "label": "ORG",
+      "start_char": 61243,
+      "end_char": 61259
+    },
+    {
+      "text": "Order XLIII",
+      "label": "PROVISION",
+      "start_char": 61294,
+      "end_char": 61305
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 61313,
+      "end_char": 61316
+    },
+    {
+      "text": "Section 13(1A)",
+      "label": "PROVISION",
+      "start_char": 61414,
+      "end_char": 61428
+    },
+    {
+      "text": "Order XLIII Rule 1(j) and (ja)",
+      "label": "PROVISION",
+      "start_char": 61490,
+      "end_char": 61520
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 61631,
+      "end_char": 61648
+    },
+    {
+      "text": "D&H India Ltd.",
+      "label": "ORG",
+      "start_char": 61714,
+      "end_char": 61728
+    },
+    {
+      "text": "Rajiv Sahai Endlaw",
+      "label": "JUDGE",
+      "start_char": 62005,
+      "end_char": 62023
+    },
+    {
+      "text": "M.L. Gupta",
+      "label": "OTHER_PERSON",
+      "start_char": 62048,
+      "end_char": 62058
+    },
+    {
+      "text": "22nd February, 2018",
+      "label": "DATE",
+      "start_char": 62076,
+      "end_char": 62095
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 62177,
+      "end_char": 62210
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 62250,
+      "end_char": 62267
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 62275,
+      "end_char": 62278
+    },
+    {
+      "text": "Order XXI Rule 11(2)(j)",
+      "label": "PROVISION",
+      "start_char": 62420,
+      "end_char": 62443
+    },
+    {
+      "text": "Order XXI Rule 17",
+      "label": "PROVISION",
+      "start_char": 62650,
+      "end_char": 62667
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 62675,
+      "end_char": 62678
+    },
+    {
+      "text": "Rules 11 to 14",
+      "label": "PROVISION",
+      "start_char": 62744,
+      "end_char": 62758
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 62982,
+      "end_char": 62999
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 63007,
+      "end_char": 63010
+    },
+    {
+      "text": "Order XXI Rule 11(2)(j)",
+      "label": "PROVISION",
+      "start_char": 63294,
+      "end_char": 63317
+    },
+    {
+      "text": "Order XXI Rule 22",
+      "label": "PROVISION",
+      "start_char": 63370,
+      "end_char": 63387
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 63395,
+      "end_char": 63398
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 63662,
+      "end_char": 63695
+    },
+    {
+      "text": "5th December, 2019",
+      "label": "DATE",
+      "start_char": 63724,
+      "end_char": 63742
+    },
+    {
+      "text": "11th January, 2016",
+      "label": "DATE",
+      "start_char": 63787,
+      "end_char": 63805
+    },
+    {
+      "text": "MANU/DE/0535/2016",
+      "label": "CASE_NUMBER",
+      "start_char": 63818,
+      "end_char": 63835
+    },
+    {
+      "text": "5th February, 2019",
+      "label": "DATE",
+      "start_char": 63843,
+      "end_char": 63861
+    },
+    {
+      "text": "2019 SCC OnLine Del 11879",
+      "label": "CASE_NUMBER",
+      "start_char": 63874,
+      "end_char": 63899
+    },
+    {
+      "text": "5th August, 2020",
+      "label": "DATE",
+      "start_char": 63911,
+      "end_char": 63927
+    },
+    {
+      "text": "MANU/DE/1497/2020",
+      "label": "CASE_NUMBER",
+      "start_char": 63940,
+      "end_char": 63957
+    },
+    {
+      "text": "11th January, 2016",
+      "label": "DATE",
+      "start_char": 64109,
+      "end_char": 64127
+    },
+    {
+      "text": "Order XXI Rule 41(2)",
+      "label": "PROVISION",
+      "start_char": 64457,
+      "end_char": 64477
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 64485,
+      "end_char": 64508
+    },
+    {
+      "text": "Order XXI Rule 41(1)",
+      "label": "PROVISION",
+      "start_char": 64680,
+      "end_char": 64700
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 64708,
+      "end_char": 64731
+    },
+    {
+      "text": "5th February, 2019",
+      "label": "DATE",
+      "start_char": 64950,
+      "end_char": 64968
+    },
+    {
+      "text": "Order XXI Rule 41(2)",
+      "label": "PROVISION",
+      "start_char": 65613,
+      "end_char": 65633
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 65728,
+      "end_char": 65731
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 65775,
+      "end_char": 65778
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 66296,
+      "end_char": 66307
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 66315,
+      "end_char": 66318
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 66466,
+      "end_char": 66477
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 66485,
+      "end_char": 66506
+    },
+    {
+      "text": "Section 151 and Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 66655,
+      "end_char": 66688
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 66696,
+      "end_char": 66699
+    },
+    {
+      "text": "Sections 106 and 165",
+      "label": "PROVISION",
+      "start_char": 66710,
+      "end_char": 66730
+    },
+    {
+      "text": "Indian Evidence Act",
+      "label": "STATUTE",
+      "start_char": 66738,
+      "end_char": 66757
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 66762,
+      "end_char": 66773
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 66781,
+      "end_char": 66802
+    },
+    {
+      "text": "5th December, 2019",
+      "label": "DATE",
+      "start_char": 67537,
+      "end_char": 67555
+    },
+    {
+      "text": "5th August, 2020",
+      "label": "DATE",
+      "start_char": 67683,
+      "end_char": 67699
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 67959,
+      "end_char": 67992
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 68369,
+      "end_char": 68380
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 68388,
+      "end_char": 68391
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 68393,
+      "end_char": 68404
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 68491,
+      "end_char": 68494
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 68714,
+      "end_char": 68725
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 68956,
+      "end_char": 68967
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 68983,
+      "end_char": 69016
+    },
+    {
+      "text": "Padam Sen Vs.",
+      "label": "PRECEDENT",
+      "start_char": 69242,
+      "end_char": 69255
+    },
+    {
+      "text": "State of UP AIR 1961 SC 218",
+      "label": "PRECEDENT",
+      "start_char": 69256,
+      "end_char": 69283
+    },
+    {
+      "text": "Vinod Seth Vs.",
+      "label": "PRECEDENT",
+      "start_char": 69299,
+      "end_char": 69313
+    },
+    {
+      "text": "Devinder Bajaj (2010) 8 SCC 1",
+      "label": "PRECEDENT",
+      "start_char": 69314,
+      "end_char": 69343
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 69392,
+      "end_char": 69403
+    },
+    {
+      "text": "Padam Sen",
+      "label": "OTHER_PERSON",
+      "start_char": 69550,
+      "end_char": 69559
+    },
+    {
+      "text": "Ram Chand",
+      "label": "OTHER_PERSON",
+      "start_char": 69567,
+      "end_char": 69576
+    },
+    {
+      "text": "Son Sugar Mills Private Ltd.",
+      "label": "ORG",
+      "start_char": 69581,
+      "end_char": 69609
+    },
+    {
+      "text": "Kanhayalal Bhargava AIR 1966 SC 1899",
+      "label": "PRECEDENT",
+      "start_char": 69614,
+      "end_char": 69650
+    },
+    {
+      "text": "Nain Singh",
+      "label": "OTHER_PERSON",
+      "start_char": 69652,
+      "end_char": 69662
+    },
+    {
+      "text": "Koonwarjee (1970) 1 SCC 732",
+      "label": "PRECEDENT",
+      "start_char": 69667,
+      "end_char": 69694
+    },
+    {
+      "text": "P.A. Ahammed Ibrahim",
+      "label": "OTHER_PERSON",
+      "start_char": 69696,
+      "end_char": 69716
+    },
+    {
+      "text": "Food Corporation of India (1999) 7",
+      "label": "PRECEDENT",
+      "start_char": 69721,
+      "end_char": 69755
+    },
+    {
+      "text": "SCC 39",
+      "label": "PROVISION",
+      "start_char": 69756,
+      "end_char": 69762
+    },
+    {
+      "text": "Shipping Corporation of India Ltd.",
+      "label": "ORG",
+      "start_char": 69764,
+      "end_char": 69798
+    },
+    {
+      "text": "Machado Brothers (2004) 11 SCC 168",
+      "label": "PRECEDENT",
+      "start_char": 69803,
+      "end_char": 69837
+    },
+    {
+      "text": "Durgesh Sharma Vs. Jayshree (2008) 9 SCC 648",
+      "label": "PRECEDENT",
+      "start_char": 69839,
+      "end_char": 69883
+    },
+    {
+      "text": "Vinod Seth",
+      "label": "OTHER_PERSON",
+      "start_char": 69885,
+      "end_char": 69895
+    },
+    {
+      "text": "Ram Prakash Agarwal Vs.",
+      "label": "PRECEDENT",
+      "start_char": 69909,
+      "end_char": 69932
+    },
+    {
+      "text": "Gopi Krishan (2013) 11 SCC 296",
+      "label": "PRECEDENT",
+      "start_char": 69933,
+      "end_char": 69963
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 69998,
+      "end_char": 70009
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 70080,
+      "end_char": 70083
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 70136,
+      "end_char": 70147
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 70282,
+      "end_char": 70315
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 70354,
+      "end_char": 70365
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 70373,
+      "end_char": 70376
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 70478,
+      "end_char": 70481
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt. Ltd.",
+      "label": "ORG",
+      "start_char": 70583,
+      "end_char": 70622
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 70684,
+      "end_char": 70701
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 70709,
+      "end_char": 70712
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 70800,
+      "end_char": 70817
+    },
+    {
+      "text": "Appendix-E",
+      "label": "PROVISION",
+      "start_char": 70840,
+      "end_char": 70850
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 70858,
+      "end_char": 70861
+    },
+    {
+      "text": "Order XLVIII Rule 3",
+      "label": "PROVISION",
+      "start_char": 70866,
+      "end_char": 70885
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 70893,
+      "end_char": 70896
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 70965,
+      "end_char": 70998
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 71107,
+      "end_char": 71124
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 71132,
+      "end_char": 71135
+    },
+    {
+      "text": "Appendix-E",
+      "label": "PROVISION",
+      "start_char": 71359,
+      "end_char": 71369
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 71377,
+      "end_char": 71380
+    },
+    {
+      "text": "Order XLVIII Rule 3",
+      "label": "PROVISION",
+      "start_char": 71389,
+      "end_char": 71408
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 71486,
+      "end_char": 71489
+    },
+    {
+      "text": "Order XLVIII Rule 3",
+      "label": "PROVISION",
+      "start_char": 71574,
+      "end_char": 71593
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 71601,
+      "end_char": 71604
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 72052,
+      "end_char": 72069
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 72160,
+      "end_char": 72193
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 72232,
+      "end_char": 72249
+    },
+    {
+      "text": "Order XXI Rule 41(2)",
+      "label": "PROVISION",
+      "start_char": 72640,
+      "end_char": 72660
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 73017,
+      "end_char": 73028
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 73039,
+      "end_char": 73056
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 73064,
+      "end_char": 73067
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 73857,
+      "end_char": 73868
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 74191,
+      "end_char": 74202
+    },
+    {
+      "text": "High Court of Bombay",
+      "label": "COURT",
+      "start_char": 74328,
+      "end_char": 74348
+    },
+    {
+      "text": "Bachubai Manjrekar Vs.",
+      "label": "PRECEDENT",
+      "start_char": 74368,
+      "end_char": 74390
+    },
+    {
+      "text": "Raghunath Ghanshyam Manjrekar",
+      "label": "OTHER_PERSON",
+      "start_char": 74391,
+      "end_char": 74420
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 74534,
+      "end_char": 74551
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 74559,
+      "end_char": 74562
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 74733,
+      "end_char": 74736
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 74780,
+      "end_char": 74791
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 74912,
+      "end_char": 74945
+    },
+    {
+      "text": "Sections 106 and 165",
+      "label": "PROVISION",
+      "start_char": 74962,
+      "end_char": 74982
+    },
+    {
+      "text": "Indian Evidence Act",
+      "label": "STATUTE",
+      "start_char": 74990,
+      "end_char": 75009
+    },
+    {
+      "text": "Section 106",
+      "label": "PROVISION",
+      "start_char": 75011,
+      "end_char": 75022
+    },
+    {
+      "text": "Section 165",
+      "label": "PROVISION",
+      "start_char": 75155,
+      "end_char": 75166
+    },
+    {
+      "text": "Section 106 and 165",
+      "label": "PROVISION",
+      "start_char": 75434,
+      "end_char": 75453
+    },
+    {
+      "text": "Evidence Act",
+      "label": "STATUTE",
+      "start_char": 75461,
+      "end_char": 75473
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 75535,
+      "end_char": 75538
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 75540,
+      "end_char": 75543
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 76019,
+      "end_char": 76036
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 76262,
+      "end_char": 76279
+    },
+    {
+      "text": "Form 16A, Appendix-E",
+      "label": "PROVISION",
+      "start_char": 76290,
+      "end_char": 76310
+    },
+    {
+      "text": "Order XLVIII Rule 3",
+      "label": "PROVISION",
+      "start_char": 76321,
+      "end_char": 76340
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 76348,
+      "end_char": 76351
+    },
+    {
+      "text": "Sections 106 and 165",
+      "label": "PROVISION",
+      "start_char": 76392,
+      "end_char": 76412
+    },
+    {
+      "text": "State of Uttar Pradesh Vs.",
+      "label": "PRECEDENT",
+      "start_char": 76716,
+      "end_char": 76742
+    },
+    {
+      "text": "Singhara Singh AIR 1964 SC 358",
+      "label": "PRECEDENT",
+      "start_char": 76743,
+      "end_char": 76773
+    },
+    {
+      "text": "Dhanajaya Reddy",
+      "label": "OTHER_PERSON",
+      "start_char": 76775,
+      "end_char": 76790
+    },
+    {
+      "text": "State of Karnataka (2001) 4 SCC 9",
+      "label": "PRECEDENT",
+      "start_char": 76795,
+      "end_char": 76828
+    },
+    {
+      "text": "Commissioner of Income Tax, Mumbai Vs.",
+      "label": "PRECEDENT",
+      "start_char": 76830,
+      "end_char": 76868
+    },
+    {
+      "text": "Anjum M.H. Ghaswala (2002) 1 SCC 633",
+      "label": "PRECEDENT",
+      "start_char": 76869,
+      "end_char": 76905
+    },
+    {
+      "text": "Captain Sube Singh Vs.",
+      "label": "PRECEDENT",
+      "start_char": 76907,
+      "end_char": 76929
+    },
+    {
+      "text": "Delhi",
+      "label": "GPE",
+      "start_char": 76946,
+      "end_char": 76951
+    },
+    {
+      "text": "Kunwar Pal Singh",
+      "label": "OTHER_PERSON",
+      "start_char": 76970,
+      "end_char": 76986
+    },
+    {
+      "text": "State of U.P. (2007) 5 SCC 85",
+      "label": "PRECEDENT",
+      "start_char": 76991,
+      "end_char": 77020
+    },
+    {
+      "text": "State of Kerala Vs.",
+      "label": "PRECEDENT",
+      "start_char": 77025,
+      "end_char": 77044
+    },
+    {
+      "text": "Kerala Rare Earth and Minerals Limited (2016) 6 SCC 323",
+      "label": "PRECEDENT",
+      "start_char": 77045,
+      "end_char": 77100
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt. Ltd.",
+      "label": "ORG",
+      "start_char": 77121,
+      "end_char": 77160
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 77195,
+      "end_char": 77206
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 77214,
+      "end_char": 77235
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 77280,
+      "end_char": 77291
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 78022,
+      "end_char": 78033
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 78268,
+      "end_char": 78279
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 78653,
+      "end_char": 78664
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 78672,
+      "end_char": 78693
+    },
+    {
+      "text": "Part X",
+      "label": "PROVISION",
+      "start_char": 78741,
+      "end_char": 78747
+    },
+    {
+      "text": "Sections 121 to 130",
+      "label": "PROVISION",
+      "start_char": 78777,
+      "end_char": 78796
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 78805,
+      "end_char": 78808
+    },
+    {
+      "text": "Section 122",
+      "label": "PROVISION",
+      "start_char": 78815,
+      "end_char": 78826
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 79094,
+      "end_char": 79097
+    },
+    {
+      "text": "Order I to Order LI",
+      "label": "PROVISION",
+      "start_char": 79112,
+      "end_char": 79131
+    },
+    {
+      "text": "Section 123",
+      "label": "PROVISION",
+      "start_char": 79155,
+      "end_char": 79166
+    },
+    {
+      "text": "Section 122",
+      "label": "PROVISION",
+      "start_char": 79259,
+      "end_char": 79270
+    },
+    {
+      "text": "Section 124",
+      "label": "PROVISION",
+      "start_char": 79272,
+      "end_char": 79283
+    },
+    {
+      "text": "Section 125 and Section 126",
+      "label": "PROVISION",
+      "start_char": 79369,
+      "end_char": 79396
+    },
+    {
+      "text": "Section 127",
+      "label": "PROVISION",
+      "start_char": 79512,
+      "end_char": 79523
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 79675,
+      "end_char": 79686
+    },
+    {
+      "text": "Section 130 read with Section 123",
+      "label": "PROVISION",
+      "start_char": 79875,
+      "end_char": 79908
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 79916,
+      "end_char": 79919
+    },
+    {
+      "text": "Part X",
+      "label": "PROVISION",
+      "start_char": 79983,
+      "end_char": 79989
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 79997,
+      "end_char": 80000
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 80248,
+      "end_char": 80281
+    },
+    {
+      "text": "Section 130",
+      "label": "PROVISION",
+      "start_char": 80418,
+      "end_char": 80429
+    },
+    {
+      "text": "Part X",
+      "label": "PROVISION",
+      "start_char": 80566,
+      "end_char": 80572
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 80580,
+      "end_char": 80583
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 80626,
+      "end_char": 80643
+    },
+    {
+      "text": "Appendix-E",
+      "label": "PROVISION",
+      "start_char": 80666,
+      "end_char": 80676
+    },
+    {
+      "text": "Order XLVIII Rule (3)",
+      "label": "PROVISION",
+      "start_char": 80687,
+      "end_char": 80708
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 80716,
+      "end_char": 80719
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 80741,
+      "end_char": 80774
+    },
+    {
+      "text": "Schedule I",
+      "label": "PROVISION",
+      "start_char": 81067,
+      "end_char": 81077
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 81085,
+      "end_char": 81088
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 81260,
+      "end_char": 81293
+    },
+    {
+      "text": "Order XXI Rule 41 or in Form 16A",
+      "label": "PROVISION",
+      "start_char": 81353,
+      "end_char": 81385
+    },
+    {
+      "text": "Appendix-E",
+      "label": "PROVISION",
+      "start_char": 81389,
+      "end_char": 81399
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 81855,
+      "end_char": 81858
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 81960,
+      "end_char": 81973
+    },
+    {
+      "text": "Rahul S. Shah",
+      "label": "OTHER_PERSON",
+      "start_char": 81978,
+      "end_char": 81991
+    },
+    {
+      "text": "Article 227",
+      "label": "PROVISION",
+      "start_char": 82170,
+      "end_char": 82181
+    },
+    {
+      "text": "Section 122",
+      "label": "PROVISION",
+      "start_char": 82192,
+      "end_char": 82203
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 82211,
+      "end_char": 82214
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 82250,
+      "end_char": 82283
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 82505,
+      "end_char": 82538
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 82955,
+      "end_char": 82988
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 85426,
+      "end_char": 85443
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 85451,
+      "end_char": 85454
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 85616,
+      "end_char": 85619
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 85742,
+      "end_char": 85759
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 86172,
+      "end_char": 86175
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 86342,
+      "end_char": 86375
+    },
+    {
+      "text": "Jolly George Varghese Vs.",
+      "label": "PRECEDENT",
+      "start_char": 86898,
+      "end_char": 86923
+    },
+    {
+      "text": "Bank of Cochin (1980) 2 SCC 360",
+      "label": "PRECEDENT",
+      "start_char": 86928,
+      "end_char": 86959
+    },
+    {
+      "text": "Article 21",
+      "label": "PROVISION",
+      "start_char": 87335,
+      "end_char": 87345
+    },
+    {
+      "text": "Articles 14 and 19",
+      "label": "PROVISION",
+      "start_char": 87356,
+      "end_char": 87374
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 87382,
+      "end_char": 87403
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt",
+      "label": "ORG",
+      "start_char": 87868,
+      "end_char": 87901
+    },
+    {
+      "text": "Vinod Seth",
+      "label": "OTHER_PERSON",
+      "start_char": 88020,
+      "end_char": 88030
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 88054,
+      "end_char": 88065
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 88073,
+      "end_char": 88076
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 88518,
+      "end_char": 88529
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 88537,
+      "end_char": 88540
+    },
+    {
+      "text": "Bhandari Engineers & Builders Pvt. Ltd.",
+      "label": "ORG",
+      "start_char": 88944,
+      "end_char": 88983
+    },
+    {
+      "text": "3rd December, 2019",
+      "label": "DATE",
+      "start_char": 89353,
+      "end_char": 89371
+    },
+    {
+      "text": "3rd December, 2019",
+      "label": "DATE",
+      "start_char": 89442,
+      "end_char": 89460
+    },
+    {
+      "text": "23rd December, 2019",
+      "label": "DATE",
+      "start_char": 89498,
+      "end_char": 89517
+    },
+    {
+      "text": "3 rd December, 2019",
+      "label": "DATE",
+      "start_char": 89554,
+      "end_char": 89573
+    },
+    {
+      "text": "23rd December, 2019",
+      "label": "DATE",
+      "start_char": 89666,
+      "end_char": 89685
+    },
+    {
+      "text": "Order XXI Rule 41",
+      "label": "PROVISION",
+      "start_char": 90512,
+      "end_char": 90529
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 90537,
+      "end_char": 90540
+    },
+    {
+      "text": "RAJIV SAHAI ENDLAW",
+      "label": "JUDGE",
+      "start_char": 90701,
+      "end_char": 90719
+    },
+    {
+      "text": "AMIT BANSAL",
+      "label": "JUDGE",
+      "start_char": 90724,
+      "end_char": 90735
+    },
+    {
+      "text": "JULY 05, 2021",
+      "label": "DATE",
+      "start_char": 90740,
+      "end_char": 90753
+    }
+  ],
+  "precedent_clusters": {
+    "Engineers & Builders Pvt. Ltd. Vs.": [
+      "Engineers & Builders Pvt. Ltd. Vs.",
+      "M.L. Gupta Vs.",
+      "Kohinoor Transporters Vs.",
+      "M.V. Vali Pero Vs.",
+      "Emkay Global Financial Services Ltd. Vs.",
+      "Bachhaj Nahar Vs.",
+      "Anirban Roy Vs.",
+      "K.S. Puttaswamy Vs.",
+      "Rahul Gupta Vs.",
+      "Shah Babulal Khimji Vs.",
+      "Prasar Bharati Vs.",
+      "Rahul S. Shah Vs.",
+      "Padam Sen Vs.",
+      "Vinod Seth Vs.",
+      "Food Corporation of India (1999) 7",
+      "Ram Prakash Agarwal Vs.",
+      "Bachubai Manjrekar Vs.",
+      "State of Uttar Pradesh Vs.",
+      "Commissioner of Income Tax, Mumbai Vs.",
+      "Captain Sube Singh Vs.",
+      "State of Kerala Vs.",
+      "Jolly George Varghese Vs."
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Order XXI",
+      "CPC",
+      "Order XXI",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41(2)",
+      "CPC",
+      "Order XXI Rule 41(2)",
+      "CPC"
+    ],
+    [
+      "Section 34",
+      "Arbitration & Conciliation Act, 1996",
+      "Section 34",
+      "Arbitration & Conciliation Act, 1996"
+    ],
+    [
+      "Order XXI Rule 41(2)",
+      "CPC",
+      "Order XXI Rule 41(2)",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41 (2)",
+      "CPC",
+      "Order XXI Rule 41 (2)",
+      "CPC"
+    ],
+    [
+      "Section 106",
+      "Indian Evidence Act, 1872",
+      "Section 106",
+      "Indian Evidence Act, 1872"
+    ],
+    [
+      "Order XXI Rule 11(2)(j)",
+      "CPC",
+      "Order XXI Rule 11(2)(j)",
+      "CPC"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act",
+      "Section 36",
+      "Arbitration Act"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Sections 36 to 74",
+      "CPC",
+      "Sections 36 to 74",
+      "CPC"
+    ],
+    [
+      "Order XXI Rules 10 and 11",
+      "CPC",
+      "Order XXI Rules 10 and 11",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Order XLVIII Rule (3)",
+      "CPC",
+      "Order XLVIII Rule (3)",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 12",
+      "CPC",
+      "Order XXI Rule 12",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "proviso to Section 13(1A)",
+      "Commercial Courts Act",
+      "proviso to Section 13(1A)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order XLIII",
+      "CPC",
+      "Order XLIII",
+      "CPC"
+    ],
+    [
+      "Section 13(1A)",
+      "CPC",
+      "Section 13(1A)",
+      "CPC"
+    ],
+    [
+      "Chapter II",
+      "Delhi High Court (Original Side) Rules, 2018",
+      "Chapter II",
+      "Delhi High Court (Original Side) Rules, 2018"
+    ],
+    [
+      "Section 13(1A)",
+      "Commercial Courts Act",
+      "Section 13(1A)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 10(2)",
+      "Commercial Courts Act",
+      "Section 10(2)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 10(2)",
+      "Arbitration Act",
+      "Section 10(2)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 10",
+      "Commercial Courts Act",
+      "Section 10",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act",
+      "Section 36",
+      "Arbitration Act"
+    ],
+    [
+      "Section 13(1A)",
+      "Commercial Courts Act",
+      "Section 13(1A)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order XLIII",
+      "CPC",
+      "Order XLIII",
+      "CPC"
+    ],
+    [
+      "Section 13(1A)",
+      "Commercial Courts Act",
+      "Section 13(1A)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 2(14)",
+      "CPC",
+      "Section 2(14)",
+      "CPC"
+    ],
+    [
+      "Section 13(1A)",
+      "Commercial Court Act",
+      "Section 13(1A)",
+      "Commercial Court Act"
+    ],
+    [
+      "Section 13(2)",
+      "Delhi High Court Act, 1966",
+      "Section 13(2)",
+      "Delhi High Court Act, 1966"
+    ],
+    [
+      "Order XLIII",
+      "Delhi High Court Act",
+      "Order XLIII",
+      "Delhi High Court Act"
+    ],
+    [
+      "Section 13(1A)",
+      "Commercial Courts Act",
+      "Section 13(1A)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order XLIII",
+      "CPC",
+      "Order XLIII",
+      "CPC"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13(1A)",
+      "Commercial Courts Act",
+      "Section 13(1A)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13(1) and Section 13(1A)",
+      "CPC",
+      "Section 13(1) and Section 13(1A)",
+      "CPC"
+    ],
+    [
+      "Section 13(1A)",
+      "Commercial Courts Act",
+      "Section 13(1A)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Act, 2018",
+      "Section 13",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Act, 2018"
+    ],
+    [
+      "Section 10",
+      "Commercial Courts Act",
+      "Section 10",
+      "Commercial Courts Act"
+    ],
+    [
+      "clauses (vi) and (vii) of Section 2(1)(c)",
+      "Commercial Courts Act",
+      "clauses (vi) and (vii) of Section 2(1)(c)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 10",
+      "Arbitration Act",
+      "Section 10",
+      "Arbitration Act"
+    ],
+    [
+      "Section 10(2)",
+      "Arbitration Act",
+      "Section 10(2)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 36",
+      "CPC",
+      "Section 36",
+      "CPC"
+    ],
+    [
+      "Sections 6 and 7",
+      "Commercial Courts Act",
+      "Sections 6 and 7",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 2(1)(i)",
+      "Commercial Courts Act",
+      "Section 2(1)(i)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Sections 10, 12, 6 and 7",
+      "Commercial Courts Act",
+      "Sections 10, 12, 6 and 7",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 47",
+      "CPC",
+      "Section 47",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 11(2)",
+      "CPC",
+      "Order XXI Rule 11(2)",
+      "CPC"
+    ],
+    [
+      "Sections 6 and 7",
+      "Commercial Courts Act",
+      "Sections 6 and 7",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 10(2)",
+      "Commercial Courts Act",
+      "Section 10(2)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 36",
+      "Arbitration Act",
+      "Section 36",
+      "Arbitration Act"
+    ],
+    [
+      "Section 38",
+      "CPC",
+      "Section 38",
+      "CPC"
+    ],
+    [
+      "Section 38",
+      "CPC",
+      "Section 38",
+      "CPC"
+    ],
+    [
+      "Section 38",
+      "CPC",
+      "Section 38",
+      "CPC"
+    ],
+    [
+      "Section 2(i)",
+      "Commercial Courts Act",
+      "Section 2(i)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Rules 46H and 103 of Order XXI",
+      "CPC",
+      "Rules 46H and 103 of Order XXI",
+      "CPC"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order XLIII",
+      "CPC",
+      "Order XLIII",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 17",
+      "CPC",
+      "Order XXI Rule 17",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 22",
+      "CPC",
+      "Order XXI Rule 22",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41(2)",
+      "Code of Civil Procedure",
+      "Order XXI Rule 41(2)",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Order XXI Rule 41(1)",
+      "Code of Civil Procedure",
+      "Order XXI Rule 41(1)",
+      "Code of Civil Procedure"
+    ],
+    [
+      "Order XXI Rule 41(2)",
+      "CPC",
+      "Order XXI Rule 41(2)",
+      "CPC"
+    ],
+    [
+      "Section 151",
+      "CPC",
+      "Section 151",
+      "CPC"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Section 151 and Order XXI Rule 41",
+      "CPC",
+      "Section 151 and Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Sections 106 and 165",
+      "Indian Evidence Act",
+      "Sections 106 and 165",
+      "Indian Evidence Act"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Section 151",
+      "CPC",
+      "Section 151",
+      "CPC"
+    ],
+    [
+      "Section 151",
+      "CPC",
+      "Section 151",
+      "CPC"
+    ],
+    [
+      "Section 151",
+      "CPC",
+      "Section 151",
+      "CPC"
+    ],
+    [
+      "Section 151",
+      "CPC",
+      "Section 151",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Appendix-E",
+      "CPC",
+      "Appendix-E",
+      "CPC"
+    ],
+    [
+      "Order XLVIII Rule 3",
+      "CPC",
+      "Order XLVIII Rule 3",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Appendix-E",
+      "CPC",
+      "Appendix-E",
+      "CPC"
+    ],
+    [
+      "Order XLVIII Rule 3",
+      "CPC",
+      "Order XLVIII Rule 3",
+      "CPC"
+    ],
+    [
+      "Order XLVIII Rule 3",
+      "CPC",
+      "Order XLVIII Rule 3",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Sections 106 and 165",
+      "Indian Evidence Act",
+      "Sections 106 and 165",
+      "Indian Evidence Act"
+    ],
+    [
+      "Section 106 and 165",
+      "Evidence Act",
+      "Section 106 and 165",
+      "Evidence Act"
+    ],
+    [
+      "Order XLVIII Rule 3",
+      "CPC",
+      "Order XLVIII Rule 3",
+      "CPC"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Sections 121 to 130",
+      "CPC",
+      "Sections 121 to 130",
+      "CPC"
+    ],
+    [
+      "Section 122",
+      "CPC",
+      "Section 122",
+      "CPC"
+    ],
+    [
+      "Section 130 read with Section 123",
+      "CPC",
+      "Section 130 read with Section 123",
+      "CPC"
+    ],
+    [
+      "Part X",
+      "CPC",
+      "Part X",
+      "CPC"
+    ],
+    [
+      "Part X",
+      "CPC",
+      "Part X",
+      "CPC"
+    ],
+    [
+      "Order XLVIII Rule (3)",
+      "CPC",
+      "Order XLVIII Rule (3)",
+      "CPC"
+    ],
+    [
+      "Schedule I",
+      "CPC",
+      "Schedule I",
+      "CPC"
+    ],
+    [
+      "Section 122",
+      "CPC",
+      "Section 122",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Articles 14 and 19",
+      "Constitution of India",
+      "Articles 14 and 19",
+      "Constitution of India"
+    ],
+    [
+      "Section 151",
+      "CPC",
+      "Section 151",
+      "CPC"
+    ],
+    [
+      "Section 151",
+      "CPC",
+      "Section 151",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Section 34",
+      "Arbitration Act",
+      "Section 34",
+      "Arbitration Act"
+    ],
+    [
+      "Order XXI Rule 11(2)(j)",
+      "CPC",
+      "Order XXI Rule 11(2)(j)",
+      "CPC"
+    ],
+    [
+      "(v) Order XXI Rules 12 and 13",
+      "Commercial Courts Act",
+      "(v) Order XXI Rules 12 and 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Rule 17(4) of Order XXI",
+      "CPC",
+      "Rule 17(4) of Order XXI",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41(3)",
+      "CPC",
+      "Order XXI Rule 41(3)",
+      "CPC"
+    ],
+    [
+      "Order XLVIII Rule 3",
+      "CPC",
+      "Order XLVIII Rule 3",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 17(4)",
+      "CPC",
+      "Order XXI Rule 17(4)",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Section 13(1A)",
+      "Commercial Courts Act",
+      "Section 13(1A)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13(1)",
+      "Commercial Courts Act",
+      "Section 13(1)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13(1A)",
+      "Commercial Courts Act",
+      "Section 13(1A)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13(1A)",
+      "Commercial Courts Act",
+      "Section 13(1A)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts Act",
+      "Section 13",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13(1) and Section 13(1A)",
+      "Commercial Courts Act",
+      "Section 13(1) and Section 13(1A)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13(1)",
+      "Commercial Courts Act",
+      "Section 13(1)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13(1A)",
+      "Commercial Courts Act",
+      "Section 13(1A)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13(2)",
+      "Commercial Courts Act",
+      "Section 13(2)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Chapter II",
+      "Delhi High Court (Original Side) Rules, 2018",
+      "Chapter II",
+      "Delhi High Court (Original Side) Rules, 2018"
+    ],
+    [
+      "Section 13(1A)",
+      "Commercial Courts Act",
+      "Section 13(1A)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13(1)",
+      "Commercial Courts Act",
+      "Section 13(1)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13(1) and Section 13(1A)",
+      "Commercial Courts Act",
+      "Section 13(1) and Section 13(1A)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13(1)",
+      "Commercial Courts Act",
+      "Section 13(1)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13(1A)",
+      "Commercial Courts Act",
+      "Section 13(1A)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13(1)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Act, 2018",
+      "Section 13(1)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Act, 2018"
+    ],
+    [
+      "Section 13",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Act, 2018",
+      "Section 13",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Act, 2018"
+    ],
+    [
+      "sub-section (1) of Section 13",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Act, 2018",
+      "sub-section (1) of Section 13",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Act, 2018"
+    ],
+    [
+      "Section 13(1)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Act, 2018",
+      "Section 13(1)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Act, 2018"
+    ],
+    [
+      "Section 13(1)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Act, 2018",
+      "Section 13(1)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Act, 2018"
+    ],
+    [
+      "Section 13(1A)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Act, 2018",
+      "Section 13(1A)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Act, 2018"
+    ],
+    [
+      "Section 13(1A)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Act, 2018",
+      "Section 13(1A)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Act, 2018"
+    ],
+    [
+      "Section 13(1) as well as Section 13(1A)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Act, 2018",
+      "Section 13(1) as well as Section 13(1A)",
+      "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Act, 2018"
+    ],
+    [
+      "Section 2(1)(c)",
+      "Commercial Courts Act",
+      "Section 2(1)(c)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 12",
+      "Commercial Courts Act",
+      "Section 12",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 12",
+      "Commercial Courts Act",
+      "Section 12",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 2(1)(i)",
+      "Commercial Courts Act",
+      "Section 2(1)(i)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Sections 6 and 7",
+      "Commercial Courts Act",
+      "Sections 6 and 7",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 2(1)(c)",
+      "Commercial Courts Act",
+      "Section 2(1)(c)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 10(2)",
+      "Commercial Courts Act",
+      "Section 10(2)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 13(1A)",
+      "Commercial Courts Act",
+      "Section 13(1A)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 11(2)(j)",
+      "CPC",
+      "Order XXI Rule 11(2)(j)",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 11(2)(j)",
+      "CPC",
+      "Order XXI Rule 11(2)(j)",
+      "CPC"
+    ],
+    [
+      "Section 151",
+      "CPC",
+      "Section 151",
+      "CPC"
+    ],
+    [
+      "Section 151",
+      "CPC",
+      "Section 151",
+      "CPC"
+    ],
+    [
+      "Section 151",
+      "CPC",
+      "Section 151",
+      "CPC"
+    ],
+    [
+      "Section 151",
+      "CPC",
+      "Section 151",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41(2)",
+      "CPC",
+      "Order XXI Rule 41(2)",
+      "CPC"
+    ],
+    [
+      "Section 151",
+      "CPC",
+      "Section 151",
+      "CPC"
+    ],
+    [
+      "Section 151",
+      "CPC",
+      "Section 151",
+      "CPC"
+    ],
+    [
+      "Section 151",
+      "CPC",
+      "Section 151",
+      "CPC"
+    ],
+    [
+      "Section 151",
+      "CPC",
+      "Section 151",
+      "CPC"
+    ],
+    [
+      "Section 106",
+      "Indian Evidence Act",
+      "Section 106",
+      "Indian Evidence Act"
+    ],
+    [
+      "Section 165",
+      "Indian Evidence Act",
+      "Section 165",
+      "Indian Evidence Act"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Form 16A, Appendix-E",
+      "CPC",
+      "Form 16A, Appendix-E",
+      "CPC"
+    ],
+    [
+      "Sections 106 and 165",
+      "Indian Evidence Act",
+      "Sections 106 and 165",
+      "Indian Evidence Act"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Part X",
+      "CPC",
+      "Part X",
+      "CPC"
+    ],
+    [
+      "Section 122",
+      "CPC",
+      "Section 122",
+      "CPC"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Appendix-E",
+      "CPC",
+      "Appendix-E",
+      "CPC"
+    ],
+    [
+      "Order XXI Rule 41 or in Form 16A",
+      "CPC",
+      "Order XXI Rule 41 or in Form 16A",
+      "CPC"
+    ],
+    [
+      "Appendix-E",
+      "CPC",
+      "Appendix-E",
+      "CPC"
+    ],
+    [
+      "Article 227",
+      "Constitution of India",
+      "Article 227",
+      "Constitution of India"
+    ],
+    [
+      "Order XXI Rule 41",
+      "CPC",
+      "Order XXI Rule 41",
+      "CPC"
+    ],
+    [
+      "Order XLI Rule 1(3) and Rule 5",
+      "CPC",
+      "Order XLI Rule 1(3) and Rule 5",
+      "CPC"
+    ],
+    [
+      "Section 51",
+      "CPC",
+      "Section 51",
+      "CPC"
+    ],
+    [
+      "Rule 5",
+      "CPC",
+      "Rule 5",
+      "CPC"
+    ],
+    [
+      "Order XLIII Rule 1(j) and (ja)",
+      "CPC",
+      "Order XLIII Rule 1(j) and (ja)",
+      "CPC"
+    ],
+    [
+      "Rules 11 to 14",
+      "CPC",
+      "Rules 11 to 14",
+      "CPC"
+    ],
+    [
+      "SCC 39",
+      "CPC",
+      "SCC 39",
+      "CPC"
+    ],
+    [
+      "Order I to Order LI",
+      "CPC",
+      "Order I to Order LI",
+      "CPC"
+    ],
+    [
+      "Section 123",
+      "CPC",
+      "Section 123",
+      "CPC"
+    ],
+    [
+      "Section 124",
+      "CPC",
+      "Section 124",
+      "CPC"
+    ],
+    [
+      "Section 125 and Section 126",
+      "CPC",
+      "Section 125 and Section 126",
+      "CPC"
+    ],
+    [
+      "Section 127",
+      "CPC",
+      "Section 127",
+      "CPC"
+    ],
+    [
+      "Section 130",
+      "CPC",
+      "Section 130",
+      "CPC"
+    ],
+    [
+      "Article 21",
+      "Constitution of India",
+      "Article 21",
+      "Constitution of India"
+    ]
+  ],
+  "precedent_counts": {
+    "Engineers & Builders Pvt. Ltd. Vs.": 22
+  },
+  "provision_counts": {
+    "Order XXI of CPC": 1,
+    "Order XXI Rule 41(2) of CPC": 4,
+    "Section 34 of Arbitration & Conciliation Act, 1996": 1,
+    "Order XXI Rule 41 (2) of CPC": 1,
+    "Section 106 of Indian Evidence Act, 1872": 1,
+    "Order XXI Rule 11(2)(j) of CPC": 4,
+    "Section 34 of Arbitration Act": 3,
+    "Order XXI Rule 41 of CPC": 38,
+    "Section 36 of Arbitration Act": 3,
+    "Sections 36 to 74 of CPC": 1,
+    "Order XXI Rules 10 and 11 of CPC": 1,
+    "Order XLVIII Rule (3) of CPC": 2,
+    "Order XXI Rule 12 of CPC": 1,
+    "proviso to Section 13(1A) of Commercial Courts Act": 1,
+    "Order XLIII of CPC": 4,
+    "Section 13(1A) of CPC": 1,
+    "Chapter II of Delhi High Court (Original Side) Rules, 2018": 2,
+    "Section 13(1A) of Commercial Courts Act": 13,
+    "Section 10(2) of Commercial Courts Act": 3,
+    "Section 10(2) of Arbitration Act": 2,
+    "Section 13 of Commercial Courts Act": 8,
+    "Section 10 of Commercial Courts Act": 2,
+    "Section 2(14) of CPC": 1,
+    "Section 13(1A) of Commercial Court Act": 1,
+    "Section 13(2) of Delhi High Court Act, 1966": 1,
+    "Order XLIII of Delhi High Court Act": 1,
+    "Section 13(1) and Section 13(1A) of CPC": 1,
+    "Section 13 of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Act, 2018": 2,
+    "clauses (vi) and (vii) of Section 2(1)(c) of Commercial Courts Act": 1,
+    "Section 10 of Arbitration Act": 1,
+    "Section 36 of CPC": 1,
+    "Sections 6 and 7 of Commercial Courts Act": 3,
+    "Section 2(1)(i) of Commercial Courts Act": 2,
+    "Sections 10, 12, 6 and 7 of Commercial Courts Act": 1,
+    "Section 47 of CPC": 1,
+    "Order XXI Rule 11(2) of CPC": 1,
+    "Section 38 of CPC": 3,
+    "Section 2(i) of Commercial Courts Act": 1,
+    "Rules 46H and 103 of Order XXI of CPC": 1,
+    "Order XXI Rule 17 of CPC": 1,
+    "Order XXI Rule 22 of CPC": 1,
+    "Order XXI Rule 41(2) of Code of Civil Procedure": 1,
+    "Order XXI Rule 41(1) of Code of Civil Procedure": 1,
+    "Section 151 of CPC": 15,
+    "Article 227 of Constitution of India": 9,
+    "Section 151 and Order XXI Rule 41 of CPC": 1,
+    "Sections 106 and 165 of Indian Evidence Act": 3,
+    "Appendix-E of CPC": 4,
+    "Order XLVIII Rule 3 of CPC": 5,
+    "Section 106 and 165 of Evidence Act": 1,
+    "Sections 121 to 130 of CPC": 1,
+    "Section 122 of CPC": 3,
+    "Section 130 read with Section 123 of CPC": 1,
+    "Part X of CPC": 3,
+    "Schedule I of CPC": 1,
+    "Articles 14 and 19 of Constitution of India": 1,
+    "(v) Order XXI Rules 12 and 13 of Commercial Courts Act": 1,
+    "Rule 17(4) of Order XXI of CPC": 1,
+    "Order XXI Rule 41(3) of CPC": 1,
+    "Order XXI Rule 17(4) of CPC": 1,
+    "Section 13(1) of Commercial Courts Act": 4,
+    "Section 13(1) and Section 13(1A) of Commercial Courts Act": 2,
+    "Section 13(2) of Commercial Courts Act": 1,
+    "Section 13(1) of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Act, 2018": 3,
+    "sub-section (1) of Section 13 of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Act, 2018": 1,
+    "Section 13(1A) of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Act, 2018": 2,
+    "Section 13(1) as well as Section 13(1A) of Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Act, 2018": 1,
+    "Section 2(1)(c) of Commercial Courts Act": 2,
+    "Section 12 of Commercial Courts Act": 2,
+    "Section 106 of Indian Evidence Act": 1,
+    "Section 165 of Indian Evidence Act": 1,
+    "Form 16A, Appendix-E of CPC": 1,
+    "Order XXI Rule 41 or in Form 16A of CPC": 1,
+    "Order XLI Rule 1(3) and Rule 5 of CPC": 1,
+    "Section 51 of CPC": 1,
+    "Rule 5 of CPC": 1,
+    "Order XLIII Rule 1(j) and (ja) of CPC": 1,
+    "Rules 11 to 14 of CPC": 1,
+    "SCC 39 of CPC": 1,
+    "Order I to Order LI of CPC": 1,
+    "Section 123 of CPC": 1,
+    "Section 124 of CPC": 1,
+    "Section 125 and Section 126 of CPC": 1,
+    "Section 127 of CPC": 1,
+    "Section 130 of CPC": 1,
+    "Article 21 of Constitution of India": 1
+  },
+  "statute_counts": {
+    "CPC": 120,
+    "Arbitration & Conciliation Act, 1996": 1,
+    "Indian Evidence Act, 1872": 1,
+    "Arbitration Act": 9,
+    "Commercial Courts Act": 47,
+    "Delhi High Court (Original Side) Rules, 2018": 2,
+    "Commercial Court Act": 1,
+    "Delhi High Court Act, 1966": 1,
+    "Delhi High Court Act": 1,
+    "Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Act, 2018": 9,
+    "Code of Civil Procedure": 2,
+    "Constitution of India": 11,
+    "Indian Evidence Act": 5,
+    "Evidence Act": 1
+  }
+}

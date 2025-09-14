@@ -1,0 +1,1026 @@
+{
+  "entities": [
+    {
+      "text": "Rajasthan High Court - Jodhpur",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 30
+    },
+    {
+      "text": "Doshion Private Limited",
+      "label": "PETITIONER",
+      "start_char": 31,
+      "end_char": 54
+    },
+    {
+      "text": "Hindustan Zinc Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 58,
+      "end_char": 77
+    },
+    {
+      "text": "Arun Bhansali",
+      "label": "LAWYER",
+      "start_char": 179,
+      "end_char": 192
+    },
+    {
+      "text": "Arun Bhansali",
+      "label": "JUDGE",
+      "start_char": 200,
+      "end_char": 213
+    },
+    {
+      "text": "High Court Of Judicature For Rajasthan At\n                      Jodhpur",
+      "label": "COURT",
+      "start_char": 219,
+      "end_char": 290
+    },
+    {
+      "text": "Doshion Private Limited",
+      "label": "ORG",
+      "start_char": 342,
+      "end_char": 365
+    },
+    {
+      "text": "Ahmedabad",
+      "label": "GPE",
+      "start_char": 433,
+      "end_char": 442
+    },
+    {
+      "text": "Raju   Meghwal",
+      "label": "OTHER_PERSON",
+      "start_char": 500,
+      "end_char": 514
+    },
+    {
+      "text": "Laxmilal Meghwal",
+      "label": "OTHER_PERSON",
+      "start_char": 532,
+      "end_char": 548
+    },
+    {
+      "text": "Udaipur",
+      "label": "GPE",
+      "start_char": 605,
+      "end_char": 612
+    },
+    {
+      "text": "Rajasthan",
+      "label": "GPE",
+      "start_char": 614,
+      "end_char": 623
+    },
+    {
+      "text": "Hindustan Zinc Limited",
+      "label": "ORG",
+      "start_char": 752,
+      "end_char": 774
+    },
+    {
+      "text": "Udaipur",
+      "label": "GPE",
+      "start_char": 844,
+      "end_char": 851
+    },
+    {
+      "text": "Narayan Prasad Gupta",
+      "label": "OTHER_PERSON",
+      "start_char": 930,
+      "end_char": 950
+    },
+    {
+      "text": "High        Court Judges Colony, Sector-105, Noida (U.P.)",
+      "label": "COURT",
+      "start_char": 960,
+      "end_char": 1017
+    },
+    {
+      "text": "Ankit Sareen",
+      "label": "LAWYER",
+      "start_char": 1132,
+      "end_char": 1144
+    },
+    {
+      "text": "Sachin Acharya",
+      "label": "OTHER_PERSON",
+      "start_char": 1183,
+      "end_char": 1197
+    },
+    {
+      "text": "Shridhar Mehta",
+      "label": "OTHER_PERSON",
+      "start_char": 1236,
+      "end_char": 1250
+    },
+    {
+      "text": "ARUN BHANSALI",
+      "label": "JUDGE",
+      "start_char": 1289,
+      "end_char": 1302
+    },
+    {
+      "text": "03/01/2019",
+      "label": "DATE",
+      "start_char": 1309,
+      "end_char": 1319
+    },
+    {
+      "text": "Article 226 and 227",
+      "label": "PROVISION",
+      "start_char": 1345,
+      "end_char": 1364
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 1372,
+      "end_char": 1393
+    },
+    {
+      "text": "Commercial Court, Jaipur",
+      "label": "COURT",
+      "start_char": 1453,
+      "end_char": 1477
+    },
+    {
+      "text": "CW-6074/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 1888,
+      "end_char": 1900
+    },
+    {
+      "text": "HZL",
+      "label": "RESPONDENT",
+      "start_char": 2108,
+      "end_char": 2111
+    },
+    {
+      "text": "27/9/2016",
+      "label": "DATE",
+      "start_char": 2142,
+      "end_char": 2151
+    },
+    {
+      "text": "HZL",
+      "label": "ORG",
+      "start_char": 2184,
+      "end_char": 2187
+    },
+    {
+      "text": "Manual of Procedure for Alternative Dispute Resolution, 2009",
+      "label": "STATUTE",
+      "start_char": 2324,
+      "end_char": 2384
+    },
+    {
+      "text": "Schedule IV",
+      "label": "PROVISION",
+      "start_char": 2593,
+      "end_char": 2604
+    },
+    {
+      "text": "23/3/2017",
+      "label": "DATE",
+      "start_char": 2702,
+      "end_char": 2711
+    },
+    {
+      "text": "23/10/2015",
+      "label": "DATE",
+      "start_char": 2836,
+      "end_char": 2846
+    },
+    {
+      "text": "26/5/2017",
+      "label": "DATE",
+      "start_char": 3082,
+      "end_char": 3091
+    },
+    {
+      "text": "26/5/2017",
+      "label": "DATE",
+      "start_char": 3227,
+      "end_char": 3236
+    },
+    {
+      "text": "CW-6074/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 3618,
+      "end_char": 3630
+    },
+    {
+      "text": "26/5/2017",
+      "label": "DATE",
+      "start_char": 3665,
+      "end_char": 3674
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 3741,
+      "end_char": 3751
+    },
+    {
+      "text": "23/3/2017",
+      "label": "DATE",
+      "start_char": 3946,
+      "end_char": 3955
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 4009,
+      "end_char": 4019
+    },
+    {
+      "text": "4/1/2018",
+      "label": "DATE",
+      "start_char": 4075,
+      "end_char": 4083
+    },
+    {
+      "text": "4/1/2018",
+      "label": "DATE",
+      "start_char": 4298,
+      "end_char": 4306
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 4421,
+      "end_char": 4431
+    },
+    {
+      "text": "1/4/2018",
+      "label": "DATE",
+      "start_char": 4572,
+      "end_char": 4580
+    },
+    {
+      "text": "1/4/2018",
+      "label": "DATE",
+      "start_char": 4686,
+      "end_char": 4694
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 4750,
+      "end_char": 4760
+    },
+    {
+      "text": "Indian Limitation Act",
+      "label": "STATUTE",
+      "start_char": 4768,
+      "end_char": 4789
+    },
+    {
+      "text": "section 29-A",
+      "label": "PROVISION",
+      "start_char": 5438,
+      "end_char": 5450
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 5598,
+      "end_char": 5608
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 5616,
+      "end_char": 5631
+    },
+    {
+      "text": "CW-6074/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 5648,
+      "end_char": 5660
+    },
+    {
+      "text": "9/4/2018",
+      "label": "DATE",
+      "start_char": 6430,
+      "end_char": 6438
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 6745,
+      "end_char": 6760
+    },
+    {
+      "text": "23.03.2017",
+      "label": "DATE",
+      "start_char": 6806,
+      "end_char": 6816
+    },
+    {
+      "text": "no.01",
+      "label": "CASE_NUMBER",
+      "start_char": 6948,
+      "end_char": 6953
+    },
+    {
+      "text": "/",
+      "label": "CASE_NUMBER",
+      "start_char": 6953,
+      "end_char": 6954
+    },
+    {
+      "text": "S.R.O./2017",
+      "label": "CASE_NUMBER",
+      "start_char": 6954,
+      "end_char": 6965
+    },
+    {
+      "text": "23.03.2017",
+      "label": "DATE",
+      "start_char": 6972,
+      "end_char": 6982
+    },
+    {
+      "text": "01.04.2018",
+      "label": "DATE",
+      "start_char": 7061,
+      "end_char": 7071
+    },
+    {
+      "text": "section 14",
+      "label": "PROVISION",
+      "start_char": 7363,
+      "end_char": 7373
+    },
+    {
+      "text": "29.04.2018",
+      "label": "DATE",
+      "start_char": 7477,
+      "end_char": 7487
+    },
+    {
+      "text": "29.04.2018",
+      "label": "DATE",
+      "start_char": 7634,
+      "end_char": 7644
+    },
+    {
+      "text": "18.01.2018",
+      "label": "DATE",
+      "start_char": 7738,
+      "end_char": 7748
+    },
+    {
+      "text": "29.04.2018",
+      "label": "DATE",
+      "start_char": 7809,
+      "end_char": 7819
+    },
+    {
+      "text": "section 29A",
+      "label": "PROVISION",
+      "start_char": 7909,
+      "end_char": 7920
+    },
+    {
+      "text": "CW-6074/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 8195,
+      "end_char": 8207
+    },
+    {
+      "text": "24/5/2018",
+      "label": "DATE",
+      "start_char": 8460,
+      "end_char": 8469
+    },
+    {
+      "text": "HZL",
+      "label": "RESPONDENT",
+      "start_char": 8735,
+      "end_char": 8738
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 8762,
+      "end_char": 8775
+    },
+    {
+      "text": "18/6/2018",
+      "label": "DATE",
+      "start_char": 8841,
+      "end_char": 8850
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 8986,
+      "end_char": 8996
+    },
+    {
+      "text": "Schedule IV",
+      "label": "PROVISION",
+      "start_char": 9123,
+      "end_char": 9134
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 9282,
+      "end_char": 9292
+    },
+    {
+      "text": "CW-6074/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 9860,
+      "end_char": 9872
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 9986,
+      "end_char": 9996
+    },
+    {
+      "text": "9/4/2018",
+      "label": "DATE",
+      "start_char": 10442,
+      "end_char": 10450
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 10768,
+      "end_char": 10784
+    },
+    {
+      "text": "National Highways Authority of India vs. Gammon Engineers and Contractor Pvt",
+      "label": "PRECEDENT",
+      "start_char": 10788,
+      "end_char": 10864
+    },
+    {
+      "text": "I.A. No.6559/2018 & 9228/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 10900,
+      "end_char": 10929
+    },
+    {
+      "text": "20/7/2018",
+      "label": "DATE",
+      "start_char": 10941,
+      "end_char": 10950
+    },
+    {
+      "text": "Section 17",
+      "label": "PROVISION",
+      "start_char": 11403,
+      "end_char": 11413
+    },
+    {
+      "text": "CW-6074/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 11532,
+      "end_char": 11544
+    },
+    {
+      "text": "HZL",
+      "label": "RESPONDENT",
+      "start_char": 11972,
+      "end_char": 11975
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 12621,
+      "end_char": 12631
+    },
+    {
+      "text": "CW-6074/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 13285,
+      "end_char": 13297
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 13636,
+      "end_char": 13646
+    },
+    {
+      "text": "sub-section (3) of Section 13",
+      "label": "PROVISION",
+      "start_char": 14284,
+      "end_char": 14313
+    },
+    {
+      "text": "sub-section (3) of Section 12",
+      "label": "PROVISION",
+      "start_char": 14516,
+      "end_char": 14545
+    },
+    {
+      "text": "CW-6074/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 15310,
+      "end_char": 15322
+    },
+    {
+      "text": "Schedule IV",
+      "label": "PROVISION",
+      "start_char": 15564,
+      "end_char": 15575
+    },
+    {
+      "text": "23/3/2017",
+      "label": "DATE",
+      "start_char": 15614,
+      "end_char": 15623
+    },
+    {
+      "text": "Section 14",
+      "label": "PROVISION",
+      "start_char": 15987,
+      "end_char": 15997
+    },
+    {
+      "text": "section 34",
+      "label": "PROVISION",
+      "start_char": 16500,
+      "end_char": 16510
+    },
+    {
+      "text": "Arbitration and Conciliation Act,1996.",
+      "label": "STATUTE",
+      "start_char": 16518,
+      "end_char": 16556
+    },
+    {
+      "text": "Schedule IV",
+      "label": "PROVISION",
+      "start_char": 17251,
+      "end_char": 17262
+    },
+    {
+      "text": "23/3/2017",
+      "label": "DATE",
+      "start_char": 17312,
+      "end_char": 17321
+    },
+    {
+      "text": "CW-6074/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 17386,
+      "end_char": 17398
+    },
+    {
+      "text": "HZL",
+      "label": "RESPONDENT",
+      "start_char": 17923,
+      "end_char": 17926
+    },
+    {
+      "text": "1/4/2018",
+      "label": "DATE",
+      "start_char": 18606,
+      "end_char": 18614
+    },
+    {
+      "text": "1/4/2018",
+      "label": "DATE",
+      "start_char": 19045,
+      "end_char": 19053
+    },
+    {
+      "text": "CW-6074/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 19117,
+      "end_char": 19129
+    },
+    {
+      "text": "24/5/2018",
+      "label": "DATE",
+      "start_char": 19131,
+      "end_char": 19140
+    },
+    {
+      "text": "29.04.2018",
+      "label": "DATE",
+      "start_char": 19383,
+      "end_char": 19393
+    },
+    {
+      "text": "05.05.2018",
+      "label": "DATE",
+      "start_char": 19450,
+      "end_char": 19460
+    },
+    {
+      "text": "05.05.2018",
+      "label": "DATE",
+      "start_char": 19473,
+      "end_char": 19483
+    },
+    {
+      "text": "27.04.2018",
+      "label": "DATE",
+      "start_char": 19570,
+      "end_char": 19580
+    },
+    {
+      "text": "02.05.2018",
+      "label": "DATE",
+      "start_char": 19671,
+      "end_char": 19681
+    },
+    {
+      "text": "14.05.2018",
+      "label": "DATE",
+      "start_char": 19927,
+      "end_char": 19937
+    },
+    {
+      "text": "11.05.2018",
+      "label": "DATE",
+      "start_char": 19961,
+      "end_char": 19971
+    },
+    {
+      "text": "25.05.2018",
+      "label": "DATE",
+      "start_char": 20218,
+      "end_char": 20228
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 21037,
+      "end_char": 21050
+    },
+    {
+      "text": "Union of India vs. Singh Builders Syndicate : (2009) 4",
+      "label": "PRECEDENT",
+      "start_char": 21054,
+      "end_char": 21108
+    },
+    {
+      "text": "SCC 523",
+      "label": "CASE_NUMBER",
+      "start_char": 21109,
+      "end_char": 21116
+    },
+    {
+      "text": "CW-6074/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 21604,
+      "end_char": 21616
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "start_char": 22546,
+      "end_char": 22556
+    },
+    {
+      "text": "Schedule IV",
+      "label": "PROVISION",
+      "start_char": 22568,
+      "end_char": 22579
+    },
+    {
+      "text": "Arbitration and Conciliation (Amendment) Act, 2015",
+      "label": "STATUTE",
+      "start_char": 22601,
+      "end_char": 22651
+    },
+    {
+      "text": "Section 11(14)",
+      "label": "PROVISION",
+      "start_char": 22662,
+      "end_char": 22676
+    },
+    {
+      "text": "23/3/2017",
+      "label": "DATE",
+      "start_char": 22802,
+      "end_char": 22811
+    },
+    {
+      "text": "Amendment Act, 2015",
+      "label": "STATUTE",
+      "start_char": 22856,
+      "end_char": 22875
+    },
+    {
+      "text": "23/10/2015",
+      "label": "DATE",
+      "start_char": 22897,
+      "end_char": 22907
+    },
+    {
+      "text": "Madras High Court",
+      "label": "COURT",
+      "start_char": 22914,
+      "end_char": 22931
+    },
+    {
+      "text": "Madras Fertilizers Limited vs. SICGIL India Limited : 2010 (2) CTC 357",
+      "label": "PRECEDENT",
+      "start_char": 22935,
+      "end_char": 23005
+    },
+    {
+      "text": "Section 14(1)(a)",
+      "label": "PROVISION",
+      "start_char": 23060,
+      "end_char": 23076
+    },
+    {
+      "text": "Section 14(1)(a)",
+      "label": "PROVISION",
+      "start_char": 23466,
+      "end_char": 23482
+    },
+    {
+      "text": "Section 14(1)(a)",
+      "label": "PROVISION",
+      "start_char": 24483,
+      "end_char": 24499
+    },
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 24561,
+      "end_char": 24577
+    },
+    {
+      "text": "National Highways Authority of India",
+      "label": "PRECEDENT",
+      "start_char": 24593,
+      "end_char": 24629
+    },
+    {
+      "text": "Madras High Court",
+      "label": "COURT",
+      "start_char": 25012,
+      "end_char": 25029
+    },
+    {
+      "text": "Madras Fertilizers Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 25033,
+      "end_char": 25056
+    },
+    {
+      "text": "CW-6074/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 25865,
+      "end_char": 25877
+    },
+    {
+      "text": "Section 14(1)(a)",
+      "label": "PROVISION",
+      "start_char": 26106,
+      "end_char": 26122
+    },
+    {
+      "text": "9/4/2018",
+      "label": "DATE",
+      "start_char": 26337,
+      "end_char": 26345
+    },
+    {
+      "text": "27/9/2016",
+      "label": "DATE",
+      "start_char": 26543,
+      "end_char": 26552
+    },
+    {
+      "text": "1/4/2018",
+      "label": "DATE",
+      "start_char": 26879,
+      "end_char": 26887
+    },
+    {
+      "text": "ARUN BHANSALI),J",
+      "label": "JUDGE",
+      "start_char": 26914,
+      "end_char": 26930
+    }
+  ],
+  "precedent_clusters": {
+    "Union of India vs. Singh Builders Syndicate : (2009) 4": [
+      "National Highways Authority of India vs. Gammon Engineers and Contractor Pvt",
+      "Union of India vs. Singh Builders Syndicate : (2009) 4",
+      "National Highways Authority of India"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Article 226 and 227",
+      "Constitution of India",
+      "Article 226 and 227",
+      "Constitution of India"
+    ],
+    [
+      "Section 15",
+      "Indian Limitation Act",
+      "Section 15",
+      "Indian Limitation Act"
+    ],
+    [
+      "section 34",
+      "Arbitration Act",
+      "section 34",
+      "Arbitration Act"
+    ],
+    [
+      "section 34",
+      "Arbitration and Conciliation Act,1996.",
+      "section 34",
+      "Arbitration and Conciliation Act,1996."
+    ],
+    [
+      "Schedule IV",
+      "Arbitration and Conciliation (Amendment) Act, 2015",
+      "Schedule IV",
+      "Arbitration and Conciliation (Amendment) Act, 2015"
+    ],
+    [
+      "Section 11(14)",
+      "Amendment Act, 2015",
+      "Section 11(14)",
+      "Amendment Act, 2015"
+    ],
+    [
+      "Schedule IV",
+      "Arbitration and Conciliation (Amendment) Act, 2015",
+      "Schedule IV",
+      "Arbitration and Conciliation (Amendment) Act, 2015"
+    ],
+    [
+      "Section 14",
+      "Manual of Procedure for Alternative Dispute Resolution, 2009",
+      "Section 14",
+      "Manual of Procedure for Alternative Dispute Resolution, 2009"
+    ],
+    [
+      "Section 14",
+      "Manual of Procedure for Alternative Dispute Resolution, 2009",
+      "Section 14",
+      "Manual of Procedure for Alternative Dispute Resolution, 2009"
+    ],
+    [
+      "section 14",
+      "Manual of Procedure for Alternative Dispute Resolution, 2009",
+      "section 14",
+      "Manual of Procedure for Alternative Dispute Resolution, 2009"
+    ],
+    [
+      "Section 14",
+      "Manual of Procedure for Alternative Dispute Resolution, 2009",
+      "Section 14",
+      "Manual of Procedure for Alternative Dispute Resolution, 2009"
+    ],
+    [
+      "Schedule IV",
+      "Arbitration and Conciliation (Amendment) Act, 2015",
+      "Schedule IV",
+      "Arbitration and Conciliation (Amendment) Act, 2015"
+    ],
+    [
+      "Section 14",
+      "Manual of Procedure for Alternative Dispute Resolution, 2009",
+      "Section 14",
+      "Manual of Procedure for Alternative Dispute Resolution, 2009"
+    ],
+    [
+      "Section 14",
+      "Manual of Procedure for Alternative Dispute Resolution, 2009",
+      "Section 14",
+      "Manual of Procedure for Alternative Dispute Resolution, 2009"
+    ],
+    [
+      "Section 14",
+      "Manual of Procedure for Alternative Dispute Resolution, 2009",
+      "Section 14",
+      "Manual of Procedure for Alternative Dispute Resolution, 2009"
+    ],
+    [
+      "Section 14",
+      "Manual of Procedure for Alternative Dispute Resolution, 2009",
+      "Section 14",
+      "Manual of Procedure for Alternative Dispute Resolution, 2009"
+    ],
+    [
+      "Schedule IV",
+      "Arbitration and Conciliation (Amendment) Act, 2015",
+      "Schedule IV",
+      "Arbitration and Conciliation (Amendment) Act, 2015"
+    ],
+    [
+      "Section 14",
+      "Manual of Procedure for Alternative Dispute Resolution, 2009",
+      "Section 14",
+      "Manual of Procedure for Alternative Dispute Resolution, 2009"
+    ],
+    [
+      "Schedule IV",
+      "Arbitration and Conciliation (Amendment) Act, 2015",
+      "Schedule IV",
+      "Arbitration and Conciliation (Amendment) Act, 2015"
+    ],
+    [
+      "Section 14(1)(a)",
+      "Manual of Procedure for Alternative Dispute Resolution, 2009",
+      "Section 14(1)(a)",
+      "Manual of Procedure for Alternative Dispute Resolution, 2009"
+    ],
+    [
+      "Section 14(1)(a)",
+      "Manual of Procedure for Alternative Dispute Resolution, 2009",
+      "Section 14(1)(a)",
+      "Manual of Procedure for Alternative Dispute Resolution, 2009"
+    ],
+    [
+      "Section 14(1)(a)",
+      "Manual of Procedure for Alternative Dispute Resolution, 2009",
+      "Section 14(1)(a)",
+      "Manual of Procedure for Alternative Dispute Resolution, 2009"
+    ],
+    [
+      "Section 14(1)(a)",
+      "Manual of Procedure for Alternative Dispute Resolution, 2009",
+      "Section 14(1)(a)",
+      "Manual of Procedure for Alternative Dispute Resolution, 2009"
+    ],
+    [
+      "Section 14",
+      "Manual of Procedure for Alternative Dispute Resolution, 2009",
+      "Section 14",
+      "Manual of Procedure for Alternative Dispute Resolution, 2009"
+    ],
+    [
+      "section 29-A",
+      "Indian Limitation Act",
+      "section 29-A",
+      "Indian Limitation Act"
+    ],
+    [
+      "section 29A",
+      "Arbitration Act",
+      "section 29A",
+      "Arbitration Act"
+    ],
+    [
+      "Section 17",
+      "Arbitration Act",
+      "Section 17",
+      "Arbitration Act"
+    ],
+    [
+      "sub-section (3) of Section 13",
+      "Arbitration Act",
+      "sub-section (3) of Section 13",
+      "Arbitration Act"
+    ],
+    [
+      "sub-section (3) of Section 12",
+      "Arbitration Act",
+      "sub-section (3) of Section 12",
+      "Arbitration Act"
+    ]
+  ],
+  "precedent_counts": {
+    "Union of India vs. Singh Builders Syndicate : (2009) 4": 3
+  },
+  "provision_counts": {
+    "Article 226 and 227 of Constitution of India": 1,
+    "Section 15 of Indian Limitation Act": 1,
+    "section 34 of Arbitration Act": 1,
+    "section 34 of Arbitration and Conciliation Act,1996.": 1,
+    "Schedule IV of Arbitration and Conciliation (Amendment) Act, 2015": 5,
+    "Section 11(14) of Amendment Act, 2015": 1,
+    "Section 14 of Manual of Procedure for Alternative Dispute Resolution, 2009": 9,
+    "section 14 of Manual of Procedure for Alternative Dispute Resolution, 2009": 1,
+    "Section 14(1)(a) of Manual of Procedure for Alternative Dispute Resolution, 2009": 4,
+    "section 29-A of Indian Limitation Act": 1,
+    "section 29A of Arbitration Act": 1,
+    "Section 17 of Arbitration Act": 1,
+    "sub-section (3) of Section 13 of Arbitration Act": 1,
+    "sub-section (3) of Section 12 of Arbitration Act": 1
+  },
+  "statute_counts": {
+    "Constitution of India": 1,
+    "Indian Limitation Act": 2,
+    "Arbitration Act": 5,
+    "Arbitration and Conciliation Act,1996.": 1,
+    "Arbitration and Conciliation (Amendment) Act, 2015": 5,
+    "Amendment Act, 2015": 1,
+    "Manual of Procedure for Alternative Dispute Resolution, 2009": 14
+  }
+}

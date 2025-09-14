@@ -1,0 +1,2670 @@
+{
+  "entities": [
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 16
+    },
+    {
+      "text": "Namita Gupta",
+      "label": "PETITIONER",
+      "start_char": 17,
+      "end_char": 29
+    },
+    {
+      "text": "Suraj Holdings Limited",
+      "label": "RESPONDENT",
+      "start_char": 33,
+      "end_char": 55
+    },
+    {
+      "text": "Navin Chawla",
+      "label": "LAWYER",
+      "start_char": 83,
+      "end_char": 95
+    },
+    {
+      "text": "Navin Chawla",
+      "label": "PETITIONER",
+      "start_char": 103,
+      "end_char": 115
+    },
+    {
+      "text": "High Court Of Delhi At New Delhi",
+      "label": "COURT",
+      "start_char": 148,
+      "end_char": 180
+    },
+    {
+      "text": "Namita Gupta",
+      "label": "PETITIONER",
+      "start_char": 434,
+      "end_char": 446
+    },
+    {
+      "text": "Bhuvan             Gugnani",
+      "label": "LAWYER",
+      "start_char": 540,
+      "end_char": 566
+    },
+    {
+      "text": "Rupender Sharma",
+      "label": "LAWYER",
+      "start_char": 620,
+      "end_char": 635
+    },
+    {
+      "text": "Suraj Holdings Ltd. v. Namita Gupta",
+      "label": "PRECEDENT",
+      "start_char": 1273,
+      "end_char": 1308
+    },
+    {
+      "text": "06.03.2023",
+      "label": "DATE",
+      "start_char": 1378,
+      "end_char": 1388
+    },
+    {
+      "text": "14.03.2023",
+      "label": "DATE",
+      "start_char": 1615,
+      "end_char": 1625
+    },
+    {
+      "text": "06.03.2023",
+      "label": "DATE",
+      "start_char": 1880,
+      "end_char": 1890
+    },
+    {
+      "text": "Court of the learned Principal District and Sessions Judge",
+      "label": "COURT",
+      "start_char": 2063,
+      "end_char": 2121
+    },
+    {
+      "text": "14.03.2023",
+      "label": "DATE",
+      "start_char": 2187,
+      "end_char": 2197
+    },
+    {
+      "text": "Court of the learned District Judge, Commercial Court-06, South-East District, Saket Courts, New Delhi",
+      "label": "COURT",
+      "start_char": 2374,
+      "end_char": 2476
+    },
+    {
+      "text": "19.08.2019",
+      "label": "DATE",
+      "start_char": 2690,
+      "end_char": 2700
+    },
+    {
+      "text": "Order XXXVII",
+      "label": "PROVISION",
+      "start_char": 2845,
+      "end_char": 2857
+    },
+    {
+      "text": "Section 151",
+      "label": "PROVISION",
+      "start_char": 2868,
+      "end_char": 2879
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 2887,
+      "end_char": 2916
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 2929,
+      "end_char": 2932
+    },
+    {
+      "text": "13.12.2019",
+      "label": "DATE",
+      "start_char": 2959,
+      "end_char": 2969
+    },
+    {
+      "text": "10.02.2022",
+      "label": "DATE",
+      "start_char": 3278,
+      "end_char": 3288
+    },
+    {
+      "text": "Order VII Rule 11",
+      "label": "PROVISION",
+      "start_char": 3322,
+      "end_char": 3339
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 3347,
+      "end_char": 3350
+    },
+    {
+      "text": "Section 2(1)(c)(i)",
+      "label": "PROVISION",
+      "start_char": 3436,
+      "end_char": 3454
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 3462,
+      "end_char": 3489
+    },
+    {
+      "text": "Section 12-A",
+      "label": "PROVISION",
+      "start_char": 3645,
+      "end_char": 3657
+    },
+    {
+      "text": "06.03.2023",
+      "label": "DATE",
+      "start_char": 3943,
+      "end_char": 3953
+    },
+    {
+      "text": "14.03.2023",
+      "label": "DATE",
+      "start_char": 4134,
+      "end_char": 4144
+    },
+    {
+      "text": "Commercial Court-06, South East District, Saket Courts, New Delhi",
+      "label": "COURT",
+      "start_char": 4265,
+      "end_char": 4330
+    },
+    {
+      "text": "Section 12-A",
+      "label": "PROVISION",
+      "start_char": 5218,
+      "end_char": 5230
+    },
+    {
+      "text": "Section 15(2)",
+      "label": "PROVISION",
+      "start_char": 5597,
+      "end_char": 5610
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 6275,
+      "end_char": 6292
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 6300,
+      "end_char": 6303
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 6471,
+      "end_char": 6484
+    },
+    {
+      "text": "Ambalal Sarabhai Enterprises Ltd. v. K.S. Infraspace LLP & Anr",
+      "label": "PRECEDENT",
+      "start_char": 6488,
+      "end_char": 6550
+    },
+    {
+      "text": "Satyanarain Khandelwal v. Prem Arora, 2022 SCC OnLine Del 2142",
+      "label": "PRECEDENT",
+      "start_char": 6598,
+      "end_char": 6660
+    },
+    {
+      "text": "Narendra Kumar v. Om Daily Needs Retailing Pvt. Ltd. and Anr",
+      "label": "PRECEDENT",
+      "start_char": 6662,
+      "end_char": 6722
+    },
+    {
+      "text": "AV Industries v. M/",
+      "label": "PRECEDENT",
+      "start_char": 6767,
+      "end_char": 6786
+    },
+    {
+      "text": "Neo Neon Electrical Pvt",
+      "label": "ORG",
+      "start_char": 6788,
+      "end_char": 6811
+    },
+    {
+      "text": "Virender Kumar v. Rekha Bhayana, 2022 SCC OnLine Del 2678",
+      "label": "PRECEDENT",
+      "start_char": 6861,
+      "end_char": 6918
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 6931,
+      "end_char": 6950
+    },
+    {
+      "text": "Laxmi Plyfab Pvt. Ltd.",
+      "label": "ORG",
+      "start_char": 6954,
+      "end_char": 6976
+    },
+    {
+      "text": "Eden Realty Ventures Pvt. Ltd. and Ors., 2021 SCC OnLine Cal 1457",
+      "label": "PRECEDENT",
+      "start_char": 6989,
+      "end_char": 7054
+    },
+    {
+      "text": "Maharshi Commerce Limited v. Rajiv R. Balani and Ors",
+      "label": "PRECEDENT",
+      "start_char": 7056,
+      "end_char": 7108
+    },
+    {
+      "text": "10.11.2022",
+      "label": "DATE",
+      "start_char": 7123,
+      "end_char": 7133
+    },
+    {
+      "text": "ANE Industries Private Limited v. J.K. Engineering Private Limited, 2023 SCC OnLine Cal 3331",
+      "label": "PRECEDENT",
+      "start_char": 7159,
+      "end_char": 7251
+    },
+    {
+      "text": "High Court of Andhra Pradesh",
+      "label": "COURT",
+      "start_char": 7264,
+      "end_char": 7292
+    },
+    {
+      "text": "Andhra Pradesh Industrial Infrastructure Corporation (APIIC)",
+      "label": "ORG",
+      "start_char": 7296,
+      "end_char": 7356
+    },
+    {
+      "text": "Meghavaram Power Pvt",
+      "label": "RESPONDENT",
+      "start_char": 7360,
+      "end_char": 7380
+    },
+    {
+      "text": "High Court of Telangana",
+      "label": "COURT",
+      "start_char": 7423,
+      "end_char": 7446
+    },
+    {
+      "text": "Life Shine Medical Services Pvt",
+      "label": "ORG",
+      "start_char": 7450,
+      "end_char": 7481
+    },
+    {
+      "text": "Ltd. v. Dr.Alety Jeevan Reddy & Anr",
+      "label": "PRECEDENT",
+      "start_char": 7483,
+      "end_char": 7518
+    },
+    {
+      "text": "13.04.2023",
+      "label": "DATE",
+      "start_char": 7533,
+      "end_char": 7543
+    },
+    {
+      "text": "Civil Revision Petition No.689 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 7547,
+      "end_char": 7585
+    },
+    {
+      "text": "High Court of Bombay",
+      "label": "COURT",
+      "start_char": 7599,
+      "end_char": 7619
+    },
+    {
+      "text": "Gaurang Manguesh Suctancar v. Sonia Gaurang Suctancar",
+      "label": "PRECEDENT",
+      "start_char": 7623,
+      "end_char": 7676
+    },
+    {
+      "text": "LD-VC-CW-88/2020",
+      "label": "CASE_NUMBER",
+      "start_char": 7681,
+      "end_char": 7697
+    },
+    {
+      "text": "20.07.2020",
+      "label": "DATE",
+      "start_char": 7709,
+      "end_char": 7719
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 7747,
+      "end_char": 7774
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 7860,
+      "end_char": 7863
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 7879,
+      "end_char": 7889
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 7897,
+      "end_char": 7900
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 7979,
+      "end_char": 7992
+    },
+    {
+      "text": "Jaycee Housing Private Limited and Others v. Registrar (General), Orissa High Court, Cuttack and Others, (2023) 1 SCC 549",
+      "label": "PRECEDENT",
+      "start_char": 7996,
+      "end_char": 8117
+    },
+    {
+      "text": "Allahabad High Court",
+      "label": "COURT",
+      "start_char": 8130,
+      "end_char": 8150
+    },
+    {
+      "text": "Shankar Lal Jaiswal v. Asha Devi & Ors",
+      "label": "PRECEDENT",
+      "start_char": 8154,
+      "end_char": 8192
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 8317,
+      "end_char": 8327
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 8335,
+      "end_char": 8338
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 8867,
+      "end_char": 8877
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 8885,
+      "end_char": 8888
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 8906,
+      "end_char": 8916
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 9259,
+      "end_char": 9269
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 9277,
+      "end_char": 9280
+    },
+    {
+      "text": "Punjab Courts Act, 1918",
+      "label": "STATUTE",
+      "start_char": 9517,
+      "end_char": 9540
+    },
+    {
+      "text": "District Judiciary",
+      "label": "ORG",
+      "start_char": 9846,
+      "end_char": 9864
+    },
+    {
+      "text": "Delhi Higher Judicial Services Rules",
+      "label": "STATUTE",
+      "start_char": 9889,
+      "end_char": 9925
+    },
+    {
+      "text": "08.12.2019",
+      "label": "DATE",
+      "start_char": 10157,
+      "end_char": 10167
+    },
+    {
+      "text": "576/14058-104",
+      "label": "DATE",
+      "start_char": 10190,
+      "end_char": 10203
+    },
+    {
+      "text": "18.02.2020",
+      "label": "DATE",
+      "start_char": 10210,
+      "end_char": 10220
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 10432,
+      "end_char": 10442
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 10450,
+      "end_char": 10453
+    },
+    {
+      "text": "Section 24(5)",
+      "label": "PROVISION",
+      "start_char": 10503,
+      "end_char": 10516
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 10524,
+      "end_char": 10527
+    },
+    {
+      "text": "Suraj Prakash v. Neeraj Kumar and Others, 2023 SCC OnLine Del 4563",
+      "label": "PRECEDENT",
+      "start_char": 11241,
+      "end_char": 11307
+    },
+    {
+      "text": "Mahesh Gupta v. Ranjit Singh and Ors., 2009 SCC OnLine Del 1418",
+      "label": "PRECEDENT",
+      "start_char": 11312,
+      "end_char": 11375
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 11592,
+      "end_char": 11602
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 11610,
+      "end_char": 11613
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 11750,
+      "end_char": 11760
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 11768,
+      "end_char": 11771
+    },
+    {
+      "text": "Section 3 and Section 3A",
+      "label": "PROVISION",
+      "start_char": 12257,
+      "end_char": 12281
+    },
+    {
+      "text": "Section 4",
+      "label": "PROVISION",
+      "start_char": 14679,
+      "end_char": 14688
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 15333,
+      "end_char": 15342
+    },
+    {
+      "text": "Section 6",
+      "label": "PROVISION",
+      "start_char": 15574,
+      "end_char": 15583
+    },
+    {
+      "text": "Section 7",
+      "label": "PROVISION",
+      "start_char": 15873,
+      "end_char": 15882
+    },
+    {
+      "text": "Section 11",
+      "label": "PROVISION",
+      "start_char": 16138,
+      "end_char": 16148
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 16698,
+      "end_char": 16708
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 17065,
+      "end_char": 17116
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 17361,
+      "end_char": 17412
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 17938,
+      "end_char": 17989
+    },
+    {
+      "text": "Order XV-A",
+      "label": "PROVISION",
+      "start_char": 18593,
+      "end_char": 18603
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 18611,
+      "end_char": 18652
+    },
+    {
+      "text": "sub-rule (1) of Rule 1 of Order V",
+      "label": "PROVISION",
+      "start_char": 18684,
+      "end_char": 18717
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 18725,
+      "end_char": 18766
+    },
+    {
+      "text": "Sub-Section (1) of Section 15",
+      "label": "PROVISION",
+      "start_char": 19495,
+      "end_char": 19524
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 19611,
+      "end_char": 19649
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 19662,
+      "end_char": 19677
+    },
+    {
+      "text": "Sub-Section (2) of Section 15",
+      "label": "PROVISION",
+      "start_char": 19870,
+      "end_char": 19899
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 19983,
+      "end_char": 19998
+    },
+    {
+      "text": "Sub-Section (5) of Section 15",
+      "label": "PROVISION",
+      "start_char": 20418,
+      "end_char": 20447
+    },
+    {
+      "text": "Sub-Section (5) of Section 15",
+      "label": "PROVISION",
+      "start_char": 21061,
+      "end_char": 21090
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 21362,
+      "end_char": 21372
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 21433,
+      "end_char": 21436
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 21502,
+      "end_char": 21505
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 21904,
+      "end_char": 21907
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 21967,
+      "end_char": 21977
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 21985,
+      "end_char": 21988
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 22025,
+      "end_char": 22035
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 22094,
+      "end_char": 22123
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 22194,
+      "end_char": 22235
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 22476,
+      "end_char": 22517
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 22717,
+      "end_char": 22758
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 22826,
+      "end_char": 22867
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 22915,
+      "end_char": 22938
+    },
+    {
+      "text": "Section 18",
+      "label": "PROVISION",
+      "start_char": 22983,
+      "end_char": 22993
+    },
+    {
+      "text": "Chapter II",
+      "label": "PROVISION",
+      "start_char": 23136,
+      "end_char": 23146
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 23166,
+      "end_char": 23169
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 23688,
+      "end_char": 23698
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 23706,
+      "end_char": 23709
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 23902,
+      "end_char": 23915
+    },
+    {
+      "text": "Ambalal Sarabhai Enterprises Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 23919,
+      "end_char": 23952
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 24087,
+      "end_char": 24104
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 24112,
+      "end_char": 24115
+    },
+    {
+      "text": "High Court of Gujarat",
+      "label": "COURT",
+      "start_char": 24273,
+      "end_char": 24294
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 24367,
+      "end_char": 24384
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 24392,
+      "end_char": 24395
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 24454,
+      "end_char": 24467
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 24551,
+      "end_char": 24568
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 24576,
+      "end_char": 24579
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 24607,
+      "end_char": 24620
+    },
+    {
+      "text": "Virender Kumar",
+      "label": "JUDGE",
+      "start_char": 24630,
+      "end_char": 24644
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 24956,
+      "end_char": 24966
+    },
+    {
+      "text": "sub-section (2) of Section 15",
+      "label": "PROVISION",
+      "start_char": 25214,
+      "end_char": 25243
+    },
+    {
+      "text": "Section 15(2)",
+      "label": "PROVISION",
+      "start_char": 25379,
+      "end_char": 25392
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 25667,
+      "end_char": 25688
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 26215,
+      "end_char": 26232
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 26240,
+      "end_char": 26243
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 26783,
+      "end_char": 26786
+    },
+    {
+      "text": "Section 26, Section 35, Section 35-A",
+      "label": "PROVISION",
+      "start_char": 26798,
+      "end_char": 26834
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 26861,
+      "end_char": 26882
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 27085,
+      "end_char": 27106
+    },
+    {
+      "text": "Order VII Rule 10 (1)",
+      "label": "PROVISION",
+      "start_char": 27409,
+      "end_char": 27430
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 28153,
+      "end_char": 28174
+    },
+    {
+      "text": "Satyanarain Khandelwal",
+      "label": "PRECEDENT",
+      "start_char": 28223,
+      "end_char": 28245
+    },
+    {
+      "text": "Section 19",
+      "label": "PROVISION",
+      "start_char": 28387,
+      "end_char": 28397
+    },
+    {
+      "text": "Commercial Courts (Amending) Act, 2018",
+      "label": "STATUTE",
+      "start_char": 28405,
+      "end_char": 28443
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 28685,
+      "end_char": 28695
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 28703,
+      "end_char": 28706
+    },
+    {
+      "text": "Narendra Kumar",
+      "label": "PRECEDENT",
+      "start_char": 28763,
+      "end_char": 28777
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 29408,
+      "end_char": 29418
+    },
+    {
+      "text": "Section 15(2)",
+      "label": "PROVISION",
+      "start_char": 29601,
+      "end_char": 29614
+    },
+    {
+      "text": "CCA, 2015",
+      "label": "STATUTE",
+      "start_char": 29622,
+      "end_char": 29631
+    },
+    {
+      "text": "16.03.2019",
+      "label": "DATE",
+      "start_char": 29851,
+      "end_char": 29861
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 29905,
+      "end_char": 29932
+    },
+    {
+      "text": "03.05.2018",
+      "label": "DATE",
+      "start_char": 29947,
+      "end_char": 29957
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 29993,
+      "end_char": 30010
+    },
+    {
+      "text": "CPC, 1908",
+      "label": "STATUTE",
+      "start_char": 30011,
+      "end_char": 30020
+    },
+    {
+      "text": "Ambalal Sarabhai Enterprises",
+      "label": "PRECEDENT",
+      "start_char": 30132,
+      "end_char": 30160
+    },
+    {
+      "text": "Virender Kumar vs Rekha Bhayana 2022 SCC OnLine Del 2678",
+      "label": "PRECEDENT",
+      "start_char": 30454,
+      "end_char": 30510
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 30626,
+      "end_char": 30643
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 30644,
+      "end_char": 30647
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 30820,
+      "end_char": 30837
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 30838,
+      "end_char": 30841
+    },
+    {
+      "text": "20.03.2023",
+      "label": "DATE",
+      "start_char": 31414,
+      "end_char": 31424
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 31513,
+      "end_char": 31530
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 31538,
+      "end_char": 31541
+    },
+    {
+      "text": "Maharshi Commerce Limited",
+      "label": "PRECEDENT",
+      "start_char": 31729,
+      "end_char": 31754
+    },
+    {
+      "text": "High Court of Calcutta",
+      "label": "COURT",
+      "start_char": 31768,
+      "end_char": 31790
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 32009,
+      "end_char": 32026
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 32034,
+      "end_char": 32037
+    },
+    {
+      "text": "ANE Industries Private Limited",
+      "label": "PRECEDENT",
+      "start_char": 32152,
+      "end_char": 32182
+    },
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 32196,
+      "end_char": 32215
+    },
+    {
+      "text": "Laxmi Polyfab Pvt. Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 32254,
+      "end_char": 32277
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 32308,
+      "end_char": 32318
+    },
+    {
+      "text": "High Court of Andhra Pradesh",
+      "label": "COURT",
+      "start_char": 32610,
+      "end_char": 32638
+    },
+    {
+      "text": "Andhra Pradesh Industrial Infrastructure Corporation",
+      "label": "ORG",
+      "start_char": 32642,
+      "end_char": 32694
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 32749,
+      "end_char": 32759
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 32767,
+      "end_char": 32770
+    },
+    {
+      "text": "Order VII, Rule 10",
+      "label": "PROVISION",
+      "start_char": 33028,
+      "end_char": 33046
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 33054,
+      "end_char": 33057
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 33171,
+      "end_char": 33181
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 33244,
+      "end_char": 33254
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 33262,
+      "end_char": 33265
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 33297,
+      "end_char": 33307
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 33401,
+      "end_char": 33411
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 33419,
+      "end_char": 33422
+    },
+    {
+      "text": "Life Shine Medical Services Pvt. Ltd.",
+      "label": "PRECEDENT",
+      "start_char": 33498,
+      "end_char": 33535
+    },
+    {
+      "text": "High Court of Telangana",
+      "label": "COURT",
+      "start_char": 33549,
+      "end_char": 33572
+    },
+    {
+      "text": "High Court of Bombay",
+      "label": "COURT",
+      "start_char": 33953,
+      "end_char": 33973
+    },
+    {
+      "text": "Gaurang Manguesh Suctancar",
+      "label": "PRECEDENT",
+      "start_char": 33977,
+      "end_char": 34003
+    },
+    {
+      "text": "Section 2(1)(e)",
+      "label": "PROVISION",
+      "start_char": 34081,
+      "end_char": 34096
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 34104,
+      "end_char": 34119
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 34130,
+      "end_char": 34139
+    },
+    {
+      "text": "Goa Civil Courts Act, 1965",
+      "label": "STATUTE",
+      "start_char": 34147,
+      "end_char": 34173
+    },
+    {
+      "text": "Section 3(1)",
+      "label": "PROVISION",
+      "start_char": 34203,
+      "end_char": 34215
+    },
+    {
+      "text": "Amended Commercial Court Act, 2015",
+      "label": "STATUTE",
+      "start_char": 34223,
+      "end_char": 34257
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 34321,
+      "end_char": 34330
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 34338,
+      "end_char": 34353
+    },
+    {
+      "text": "Panaji",
+      "label": "GPE",
+      "start_char": 34414,
+      "end_char": 34420
+    },
+    {
+      "text": "Section 9",
+      "label": "PROVISION",
+      "start_char": 34552,
+      "end_char": 34561
+    },
+    {
+      "text": "Arbitration Act",
+      "label": "STATUTE",
+      "start_char": 34569,
+      "end_char": 34584
+    },
+    {
+      "text": "A.V. Industries",
+      "label": "PRECEDENT",
+      "start_char": 34705,
+      "end_char": 34720
+    },
+    {
+      "text": "sub-rule (4) & (5) of Rule 15-A of the Order VI",
+      "label": "PROVISION",
+      "start_char": 35534,
+      "end_char": 35581
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 35589,
+      "end_char": 35592
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 36224,
+      "end_char": 36234
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 36305,
+      "end_char": 36315
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 36323,
+      "end_char": 36326
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 36425,
+      "end_char": 36446
+    },
+    {
+      "text": "Section 12-A",
+      "label": "PROVISION",
+      "start_char": 36676,
+      "end_char": 36688
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 36957,
+      "end_char": 36974
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 36982,
+      "end_char": 36985
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 37238,
+      "end_char": 37255
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 37263,
+      "end_char": 37266
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 37617,
+      "end_char": 37634
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 37642,
+      "end_char": 37645
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 37683,
+      "end_char": 37693
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 37701,
+      "end_char": 37704
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 37751,
+      "end_char": 37772
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 37802,
+      "end_char": 37812
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 37820,
+      "end_char": 37823
+    },
+    {
+      "text": "Order VII Rule 10 and Order VII Rule 10A",
+      "label": "PROVISION",
+      "start_char": 37830,
+      "end_char": 37870
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 37878,
+      "end_char": 37881
+    },
+    {
+      "text": "ORDER VII                                                              xxxx                                       ",
+      "label": "PROVISION",
+      "start_char": 37969,
+      "end_char": 38083
+    },
+    {
+      "text": "rule 10A",
+      "label": "PROVISION",
+      "start_char": 38139,
+      "end_char": 38147
+    },
+    {
+      "text": "sub-rule (1)",
+      "label": "PROVISION",
+      "start_char": 39062,
+      "end_char": 39074
+    },
+    {
+      "text": "sub-rule (2)",
+      "label": "PROVISION",
+      "start_char": 39465,
+      "end_char": 39477
+    },
+    {
+      "text": "sub-rule (3),--\n(a)",
+      "label": "PROVISION",
+      "start_char": 39918,
+      "end_char": 39937
+    },
+    {
+      "text": "sub-rule (2)",
+      "label": "PROVISION",
+      "start_char": 40422,
+      "end_char": 40434
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 40551,
+      "end_char": 40568
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 40576,
+      "end_char": 40579
+    },
+    {
+      "text": "Order VII Rule 10A",
+      "label": "PROVISION",
+      "start_char": 40720,
+      "end_char": 40738
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 40746,
+      "end_char": 40749
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 41251,
+      "end_char": 41268
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 41276,
+      "end_char": 41279
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 41559,
+      "end_char": 41572
+    },
+    {
+      "text": "EXL Careers & Anr",
+      "label": "ORG",
+      "start_char": 41576,
+      "end_char": 41593
+    },
+    {
+      "text": "Frankfinn Aviation Services Pvt. Ltd.",
+      "label": "RESPONDENT",
+      "start_char": 41598,
+      "end_char": 41635
+    },
+    {
+      "text": "(2020) 12 SCC 667",
+      "label": "CASE_NUMBER",
+      "start_char": 41636,
+      "end_char": 41653
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 41809,
+      "end_char": 41819
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 41827,
+      "end_char": 41830
+    },
+    {
+      "text": "Sub-Section (5) of Section 24",
+      "label": "PROVISION",
+      "start_char": 42252,
+      "end_char": 42281
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 42424,
+      "end_char": 42434
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 42442,
+      "end_char": 42445
+    },
+    {
+      "text": "Section 24 and Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 44140,
+      "end_char": 44172
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 44180,
+      "end_char": 44183
+    },
+    {
+      "text": "Sub-Section (2) of Section 24",
+      "label": "PROVISION",
+      "start_char": 44204,
+      "end_char": 44233
+    },
+    {
+      "text": "Mahesh Gupta",
+      "label": "OTHER_PERSON",
+      "start_char": 44797,
+      "end_char": 44809
+    },
+    {
+      "text": "Section 24(1)",
+      "label": "PROVISION",
+      "start_char": 45799,
+      "end_char": 45812
+    },
+    {
+      "text": "Section 24(5)",
+      "label": "PROVISION",
+      "start_char": 45823,
+      "end_char": 45836
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 45844,
+      "end_char": 45873
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 46168,
+      "end_char": 46178
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 46179,
+      "end_char": 46182
+    },
+    {
+      "text": "16.2.2009",
+      "label": "DATE",
+      "start_char": 46321,
+      "end_char": 46330
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 47621,
+      "end_char": 47638
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 47639,
+      "end_char": 47642
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 47816,
+      "end_char": 47826
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 47834,
+      "end_char": 47837
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 48191,
+      "end_char": 48202
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 48569,
+      "end_char": 48579
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 48587,
+      "end_char": 48590
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 48821,
+      "end_char": 48831
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 48839,
+      "end_char": 48842
+    },
+    {
+      "text": "Suraj Prakash",
+      "label": "PRECEDENT",
+      "start_char": 48852,
+      "end_char": 48865
+    },
+    {
+      "text": "Riveria Commercial Developers Ltd. v. Brompton Lifestyle Brands Pvt",
+      "label": "PRECEDENT",
+      "start_char": 49189,
+      "end_char": 49256
+    },
+    {
+      "text": "CC Act",
+      "label": "STATUTE",
+      "start_char": 50035,
+      "end_char": 50041
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 50312,
+      "end_char": 50322
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 50370,
+      "end_char": 50373
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 50544,
+      "end_char": 50554
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 50562,
+      "end_char": 50565
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 51083,
+      "end_char": 51094
+    },
+    {
+      "text": "Order VII Rule 11",
+      "label": "PROVISION",
+      "start_char": 51450,
+      "end_char": 51467
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 51475,
+      "end_char": 51478
+    },
+    {
+      "text": "Section 12A",
+      "label": "PROVISION",
+      "start_char": 51593,
+      "end_char": 51604
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 51708,
+      "end_char": 51718
+    },
+    {
+      "text": "Section 3",
+      "label": "PROVISION",
+      "start_char": 51795,
+      "end_char": 51804
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 51930,
+      "end_char": 51943
+    },
+    {
+      "text": "Life Insurance Corporation of India v. Nandini J. Shah & Ors., (2018) 15 SCC 356",
+      "label": "PRECEDENT",
+      "start_char": 51947,
+      "end_char": 52027
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 52091,
+      "end_char": 52101
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 52109,
+      "end_char": 52112
+    },
+    {
+      "text": "section 3",
+      "label": "PROVISION",
+      "start_char": 52482,
+      "end_char": 52491
+    },
+    {
+      "text": "Sub-Section (3) of Section 3",
+      "label": "PROVISION",
+      "start_char": 52789,
+      "end_char": 52817
+    },
+    {
+      "text": "Section 3A",
+      "label": "PROVISION",
+      "start_char": 53305,
+      "end_char": 53315
+    },
+    {
+      "text": "Section 5",
+      "label": "PROVISION",
+      "start_char": 53544,
+      "end_char": 53553
+    },
+    {
+      "text": "Delhi Higher Judicial Services",
+      "label": "ORG",
+      "start_char": 53742,
+      "end_char": 53772
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 53872,
+      "end_char": 53882
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 53890,
+      "end_char": 53893
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 54299,
+      "end_char": 54309
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 54317,
+      "end_char": 54320
+    },
+    {
+      "text": "06.03.2023",
+      "label": "DATE",
+      "start_char": 54600,
+      "end_char": 54610
+    },
+    {
+      "text": "Court of the learned Additional District Judge",
+      "label": "COURT",
+      "start_char": 55274,
+      "end_char": 55320
+    },
+    {
+      "text": "14.03.2023",
+      "label": "DATE",
+      "start_char": 55633,
+      "end_char": 55643
+    },
+    {
+      "text": "06.03.2023",
+      "label": "DATE",
+      "start_char": 55689,
+      "end_char": 55699
+    },
+    {
+      "text": "14.03.2023",
+      "label": "DATE",
+      "start_char": 55768,
+      "end_char": 55778
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 55917,
+      "end_char": 55927
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 55935,
+      "end_char": 55938
+    },
+    {
+      "text": "District Judge (Commercial), South-East District, Saket District Court",
+      "label": "COURT",
+      "start_char": 56159,
+      "end_char": 56229
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 56496,
+      "end_char": 56506
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 56514,
+      "end_char": 56517
+    },
+    {
+      "text": "Court of the District Judge (Commercial), South-East District, Saket District Court",
+      "label": "COURT",
+      "start_char": 56606,
+      "end_char": 56689
+    },
+    {
+      "text": "NAVIN CHAWLA",
+      "label": "JUDGE",
+      "start_char": 56999,
+      "end_char": 57011
+    },
+    {
+      "text": "JANUARY 9, 2023",
+      "label": "DATE",
+      "start_char": 57016,
+      "end_char": 57031
+    }
+  ],
+  "precedent_clusters": {
+    "Narendra Kumar v. Om Daily Needs Retailing Pvt. Ltd. and Anr": [
+      "Suraj Holdings Ltd. v. Namita Gupta",
+      "Ambalal Sarabhai Enterprises Ltd. v. K.S. Infraspace LLP & Anr",
+      "Narendra Kumar v. Om Daily Needs Retailing Pvt. Ltd. and Anr",
+      "AV Industries v. M/",
+      "Maharshi Commerce Limited v. Rajiv R. Balani and Ors",
+      "Ltd. v. Dr.Alety Jeevan Reddy & Anr",
+      "Gaurang Manguesh Suctancar v. Sonia Gaurang Suctancar",
+      "Shankar Lal Jaiswal v. Asha Devi & Ors",
+      "Riveria Commercial Developers Ltd. v. Brompton Lifestyle Brands Pvt",
+      "Ambalal Sarabhai Enterprises Ltd.",
+      "Narendra Kumar",
+      "Ambalal Sarabhai Enterprises",
+      "Maharshi Commerce Limited",
+      "Gaurang Manguesh Suctancar"
+    ],
+    "Satyanarain Khandelwal v. Prem Arora, 2022 SCC OnLine Del 2142": [
+      "Satyanarain Khandelwal v. Prem Arora, 2022 SCC OnLine Del 2142",
+      "Virender Kumar v. Rekha Bhayana, 2022 SCC OnLine Del 2678",
+      "Virender Kumar vs Rekha Bhayana 2022 SCC OnLine Del 2678",
+      "Satyanarain Khandelwal"
+    ],
+    "ANE Industries Private Limited v. J.K. Engineering Private Limited, 2023 SCC OnLine Cal 3331": [
+      "ANE Industries Private Limited v. J.K. Engineering Private Limited, 2023 SCC OnLine Cal 3331",
+      "Suraj Prakash v. Neeraj Kumar and Others, 2023 SCC OnLine Del 4563",
+      "ANE Industries Private Limited",
+      "Suraj Prakash"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 151",
+      "Code of Civil Procedure, 1908",
+      "Section 151",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order XXXVII",
+      "CPC",
+      "Order XXXVII",
+      "CPC"
+    ],
+    [
+      "Order VII Rule 11",
+      "CPC",
+      "Order VII Rule 11",
+      "CPC"
+    ],
+    [
+      "Section 2(1)(c)(i)",
+      "Commercial Courts Act, 2015",
+      "Section 2(1)(c)(i)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Order VII Rule 10",
+      "CPC",
+      "Order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "Section 24",
+      "CPC",
+      "Section 24",
+      "CPC"
+    ],
+    [
+      "Section 24",
+      "CPC",
+      "Section 24",
+      "CPC"
+    ],
+    [
+      "Section 24",
+      "CPC",
+      "Section 24",
+      "CPC"
+    ],
+    [
+      "Section 24",
+      "CPC",
+      "Section 24",
+      "CPC"
+    ],
+    [
+      "Section 24",
+      "CPC",
+      "Section 24",
+      "CPC"
+    ],
+    [
+      "Section 24(5)",
+      "CPC",
+      "Section 24(5)",
+      "CPC"
+    ],
+    [
+      "Section 24",
+      "CPC",
+      "Section 24",
+      "CPC"
+    ],
+    [
+      "Section 24",
+      "CPC",
+      "Section 24",
+      "CPC"
+    ],
+    [
+      "Order XV-A",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "Order XV-A",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "sub-rule (1) of Rule 1 of Order V",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "sub-rule (1) of Rule 1 of Order V",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "Sub-Section (1) of Section 15",
+      "Arbitration and Conciliation Act, 1996",
+      "Sub-Section (1) of Section 15",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Sub-Section (2) of Section 15",
+      "Arbitration Act",
+      "Sub-Section (2) of Section 15",
+      "Arbitration Act"
+    ],
+    [
+      "Section 16",
+      "CPC",
+      "Section 16",
+      "CPC"
+    ],
+    [
+      "Section 24",
+      "CPC",
+      "Section 24",
+      "CPC"
+    ],
+    [
+      "Chapter II",
+      "CPC",
+      "Chapter II",
+      "CPC"
+    ],
+    [
+      "Section 24",
+      "CPC",
+      "Section 24",
+      "CPC"
+    ],
+    [
+      "Order VII Rule 10",
+      "CPC",
+      "Order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "Order VII Rule 10",
+      "CPC",
+      "Order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "Order VII Rule 10",
+      "CPC",
+      "Order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "Section 15(2)",
+      "Commercial Courts Act",
+      "Section 15(2)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order VII Rule 10",
+      "CPC",
+      "Order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "Section 26, Section 35, Section 35-A",
+      "Commercial Courts Act",
+      "Section 26, Section 35, Section 35-A",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 19",
+      "Commercial Courts (Amending) Act, 2018",
+      "Section 19",
+      "Commercial Courts (Amending) Act, 2018"
+    ],
+    [
+      "Section 24",
+      "CPC",
+      "Section 24",
+      "CPC"
+    ],
+    [
+      "Section 15(2)",
+      "CCA, 2015",
+      "Section 15(2)",
+      "CCA, 2015"
+    ],
+    [
+      "Order VII Rule 10",
+      "CPC, 1908",
+      "Order VII Rule 10",
+      "CPC, 1908"
+    ],
+    [
+      "Order VII Rule 10",
+      "CPC",
+      "Order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "Order VII Rule 10",
+      "CPC",
+      "Order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "Order VII Rule 10",
+      "CPC",
+      "Order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "Order VII Rule 10",
+      "CPC",
+      "Order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "Section 24",
+      "CPC",
+      "Section 24",
+      "CPC"
+    ],
+    [
+      "Order VII, Rule 10",
+      "CPC",
+      "Order VII, Rule 10",
+      "CPC"
+    ],
+    [
+      "Section 24",
+      "CPC",
+      "Section 24",
+      "CPC"
+    ],
+    [
+      "Section 24",
+      "CPC",
+      "Section 24",
+      "CPC"
+    ],
+    [
+      "Section 2(1)(e)",
+      "Arbitration Act",
+      "Section 2(1)(e)",
+      "Arbitration Act"
+    ],
+    [
+      "Section 5",
+      "Goa Civil Courts Act, 1965",
+      "Section 5",
+      "Goa Civil Courts Act, 1965"
+    ],
+    [
+      "Section 3(1)",
+      "Amended Commercial Court Act, 2015",
+      "Section 3(1)",
+      "Amended Commercial Court Act, 2015"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "Section 9",
+      "Arbitration Act",
+      "Section 9",
+      "Arbitration Act"
+    ],
+    [
+      "sub-rule (4) & (5) of Rule 15-A of the Order VI",
+      "CPC",
+      "sub-rule (4) & (5) of Rule 15-A of the Order VI",
+      "CPC"
+    ],
+    [
+      "Section 24",
+      "CPC",
+      "Section 24",
+      "CPC"
+    ],
+    [
+      "Order VII Rule 10",
+      "CPC",
+      "Order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "Order VII Rule 10",
+      "CPC",
+      "Order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "Order VII Rule 10",
+      "CPC",
+      "Order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "Section 24",
+      "CPC",
+      "Section 24",
+      "CPC"
+    ],
+    [
+      "Section 24",
+      "CPC",
+      "Section 24",
+      "CPC"
+    ],
+    [
+      "Order VII Rule 10 and Order VII Rule 10A",
+      "CPC",
+      "Order VII Rule 10 and Order VII Rule 10A",
+      "CPC"
+    ],
+    [
+      "Order VII Rule 10",
+      "CPC",
+      "Order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "Order VII Rule 10A",
+      "CPC",
+      "Order VII Rule 10A",
+      "CPC"
+    ],
+    [
+      "Order VII Rule 10",
+      "CPC",
+      "Order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "Section 24",
+      "CPC",
+      "Section 24",
+      "CPC"
+    ],
+    [
+      "Section 24",
+      "CPC",
+      "Section 24",
+      "CPC"
+    ],
+    [
+      "Section 24 and Order VII Rule 10",
+      "CPC",
+      "Section 24 and Order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "Section 24(5)",
+      "Code of Civil Procedure, 1908",
+      "Section 24(5)",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 24",
+      "CPC",
+      "Section 24",
+      "CPC"
+    ],
+    [
+      "Order VII Rule 10",
+      "CPC",
+      "Order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "Section 24",
+      "CPC",
+      "Section 24",
+      "CPC"
+    ],
+    [
+      "Section 24",
+      "CPC",
+      "Section 24",
+      "CPC"
+    ],
+    [
+      "Section 24",
+      "CPC",
+      "Section 24",
+      "CPC"
+    ],
+    [
+      "Section 16",
+      "CPC",
+      "Section 16",
+      "CPC"
+    ],
+    [
+      "Section 24",
+      "CPC",
+      "Section 24",
+      "CPC"
+    ],
+    [
+      "Order VII Rule 11",
+      "CPC",
+      "Order VII Rule 11",
+      "CPC"
+    ],
+    [
+      "Section 24",
+      "CPC",
+      "Section 24",
+      "CPC"
+    ],
+    [
+      "Section 24",
+      "CPC",
+      "Section 24",
+      "CPC"
+    ],
+    [
+      "Section 24",
+      "CPC",
+      "Section 24",
+      "CPC"
+    ],
+    [
+      "Section 24",
+      "CPC",
+      "Section 24",
+      "CPC"
+    ],
+    [
+      "Section 24",
+      "CPC",
+      "Section 24",
+      "CPC"
+    ],
+    [
+      "Section 12-A",
+      "Commercial Courts Act, 2015",
+      "Section 12-A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 15(2)",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 15(2)",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 15",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 15",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Section 3 and Section 3A",
+      "Amended Commercial Court Act, 2015",
+      "Section 3 and Section 3A",
+      "Amended Commercial Court Act, 2015"
+    ],
+    [
+      "Section 5",
+      "Goa Civil Courts Act, 1965",
+      "Section 5",
+      "Goa Civil Courts Act, 1965"
+    ],
+    [
+      "Section 15",
+      "Arbitration and Conciliation Act, 1996",
+      "Section 15",
+      "Arbitration and Conciliation Act, 1996"
+    ],
+    [
+      "Sub-Section (5) of Section 15",
+      "Arbitration Act",
+      "Sub-Section (5) of Section 15",
+      "Arbitration Act"
+    ],
+    [
+      "Sub-Section (5) of Section 15",
+      "Arbitration Act",
+      "Sub-Section (5) of Section 15",
+      "Arbitration Act"
+    ],
+    [
+      "Section 16",
+      "CPC",
+      "Section 16",
+      "CPC"
+    ],
+    [
+      "Section 15",
+      "Arbitration Act",
+      "Section 15",
+      "Arbitration Act"
+    ],
+    [
+      "sub-section (2) of Section 15",
+      "Arbitration Act",
+      "sub-section (2) of Section 15",
+      "Arbitration Act"
+    ],
+    [
+      "Order VII Rule 10 (1)",
+      "CPC",
+      "Order VII Rule 10 (1)",
+      "CPC"
+    ],
+    [
+      "Section 15",
+      "Commercial Courts Act",
+      "Section 15",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 15",
+      "Commercial Courts Act",
+      "Section 15",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 15",
+      "Commercial Courts Act",
+      "Section 15",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 15",
+      "Commercial Courts Act",
+      "Section 15",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 16",
+      "CPC",
+      "Section 16",
+      "CPC"
+    ],
+    [
+      "Section 12-A",
+      "Commercial Courts Act, 2015",
+      "Section 12-A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "sub-rule (2)",
+      "CPC",
+      "sub-rule (2)",
+      "CPC"
+    ],
+    [
+      "sub-rule (3),--\n(a)",
+      "CPC",
+      "sub-rule (3),--\n(a)",
+      "CPC"
+    ],
+    [
+      "sub-rule (2)",
+      "CPC",
+      "sub-rule (2)",
+      "CPC"
+    ],
+    [
+      "Sub-Section (5) of Section 24",
+      "CPC",
+      "Sub-Section (5) of Section 24",
+      "CPC"
+    ],
+    [
+      "Sub-Section (2) of Section 24",
+      "CPC",
+      "Sub-Section (2) of Section 24",
+      "CPC"
+    ],
+    [
+      "Section 24(1)",
+      "CPC",
+      "Section 24(1)",
+      "CPC"
+    ],
+    [
+      "Section 12A",
+      "CPC",
+      "Section 12A",
+      "CPC"
+    ],
+    [
+      "Section 12A",
+      "CPC",
+      "Section 12A",
+      "CPC"
+    ],
+    [
+      "Section 24",
+      "CPC",
+      "Section 24",
+      "CPC"
+    ],
+    [
+      "Section 3",
+      "Amended Commercial Court Act, 2015",
+      "Section 3",
+      "Amended Commercial Court Act, 2015"
+    ],
+    [
+      "section 3",
+      "Amended Commercial Court Act, 2015",
+      "section 3",
+      "Amended Commercial Court Act, 2015"
+    ],
+    [
+      "Sub-Section (3) of Section 3",
+      "Amended Commercial Court Act, 2015",
+      "Sub-Section (3) of Section 3",
+      "Amended Commercial Court Act, 2015"
+    ],
+    [
+      "Section 5",
+      "Goa Civil Courts Act, 1965",
+      "Section 5",
+      "Goa Civil Courts Act, 1965"
+    ],
+    [
+      "Section 12-A",
+      "Commercial Courts Act, 2015",
+      "Section 12-A",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 4",
+      "CPC",
+      "Section 4",
+      "CPC"
+    ],
+    [
+      "Section 6",
+      "CPC",
+      "Section 6",
+      "CPC"
+    ],
+    [
+      "Section 7",
+      "CPC",
+      "Section 7",
+      "CPC"
+    ],
+    [
+      "Section 11",
+      "CPC",
+      "Section 11",
+      "CPC"
+    ],
+    [
+      "Section 18",
+      "Code of Civil Procedure",
+      "Section 18",
+      "Code of Civil Procedure"
+    ],
+    [
+      "ORDER VII                                                              xxxx                                       ",
+      "CPC",
+      "ORDER VII                                                              xxxx                                       ",
+      "CPC"
+    ],
+    [
+      "rule 10A",
+      "CPC",
+      "rule 10A",
+      "CPC"
+    ],
+    [
+      "sub-rule (1)",
+      "CPC",
+      "sub-rule (1)",
+      "CPC"
+    ],
+    [
+      "Section 12A",
+      "CPC",
+      "Section 12A",
+      "CPC"
+    ],
+    [
+      "Section 3A",
+      "CPC",
+      "Section 3A",
+      "CPC"
+    ]
+  ],
+  "precedent_counts": {
+    "Narendra Kumar v. Om Daily Needs Retailing Pvt. Ltd. and Anr": 14,
+    "Satyanarain Khandelwal v. Prem Arora, 2022 SCC OnLine Del 2142": 4,
+    "ANE Industries Private Limited v. J.K. Engineering Private Limited, 2023 SCC OnLine Cal 3331": 4
+  },
+  "provision_counts": {
+    "Section 151 of Code of Civil Procedure, 1908": 1,
+    "Order XXXVII of CPC": 1,
+    "Order VII Rule 11 of CPC": 2,
+    "Section 2(1)(c)(i) of Commercial Courts Act, 2015": 1,
+    "Order VII Rule 10 of CPC": 15,
+    "Section 24 of CPC": 29,
+    "Section 24(5) of CPC": 1,
+    "Order XV-A of Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "sub-rule (1) of Rule 1 of Order V of Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Sub-Section (1) of Section 15 of Arbitration and Conciliation Act, 1996": 1,
+    "Sub-Section (2) of Section 15 of Arbitration Act": 1,
+    "Section 16 of CPC": 4,
+    "Chapter II of CPC": 1,
+    "Section 15(2) of Commercial Courts Act": 1,
+    "Section 26, Section 35, Section 35-A of Commercial Courts Act": 1,
+    "Section 19 of Commercial Courts (Amending) Act, 2018": 1,
+    "Section 15(2) of CCA, 2015": 1,
+    "Order VII Rule 10 of CPC, 1908": 1,
+    "Order VII, Rule 10 of CPC": 1,
+    "Section 2(1)(e) of Arbitration Act": 1,
+    "Section 5 of Goa Civil Courts Act, 1965": 3,
+    "Section 3(1) of Amended Commercial Court Act, 2015": 1,
+    "Section 9 of Arbitration Act": 2,
+    "sub-rule (4) & (5) of Rule 15-A of the Order VI of CPC": 1,
+    "Order VII Rule 10 and Order VII Rule 10A of CPC": 1,
+    "Order VII Rule 10A of CPC": 1,
+    "Section 24 and Order VII Rule 10 of CPC": 1,
+    "Section 24(5) of Code of Civil Procedure, 1908": 1,
+    "Section 12-A of Commercial Courts Act, 2015": 3,
+    "Section 15(2) of Arbitration and Conciliation Act, 1996": 1,
+    "Section 15 of Arbitration and Conciliation Act, 1996": 2,
+    "Section 3 and Section 3A of Amended Commercial Court Act, 2015": 1,
+    "Sub-Section (5) of Section 15 of Arbitration Act": 2,
+    "Section 15 of Arbitration Act": 1,
+    "sub-section (2) of Section 15 of Arbitration Act": 1,
+    "Order VII Rule 10 (1) of CPC": 1,
+    "Section 15 of Commercial Courts Act": 4,
+    "sub-rule (2) of CPC": 2,
+    "sub-rule (3),--\n(a) of CPC": 1,
+    "Sub-Section (5) of Section 24 of CPC": 1,
+    "Sub-Section (2) of Section 24 of CPC": 1,
+    "Section 24(1) of CPC": 1,
+    "Section 12A of CPC": 3,
+    "Section 3 of Amended Commercial Court Act, 2015": 1,
+    "section 3 of Amended Commercial Court Act, 2015": 1,
+    "Sub-Section (3) of Section 3 of Amended Commercial Court Act, 2015": 1,
+    "Section 4 of CPC": 1,
+    "Section 6 of CPC": 1,
+    "Section 7 of CPC": 1,
+    "Section 11 of CPC": 1,
+    "Section 18 of Code of Civil Procedure": 1,
+    "ORDER VII                                                              xxxx                                        of CPC": 1,
+    "rule 10A of CPC": 1,
+    "sub-rule (1) of CPC": 1,
+    "Section 3A of CPC": 1
+  },
+  "statute_counts": {
+    "Code of Civil Procedure, 1908": 2,
+    "CPC": 76,
+    "Commercial Courts Act, 2015": 4,
+    "Code of Civil Procedure, 1908 (5 of 1908)": 2,
+    "Arbitration and Conciliation Act, 1996": 4,
+    "Arbitration Act": 8,
+    "Commercial Courts Act": 6,
+    "Commercial Courts (Amending) Act, 2018": 1,
+    "CCA, 2015": 1,
+    "CPC, 1908": 1,
+    "Goa Civil Courts Act, 1965": 3,
+    "Amended Commercial Court Act, 2015": 5,
+    "Code of Civil Procedure": 1
+  }
+}

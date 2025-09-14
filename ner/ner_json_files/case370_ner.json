@@ -1,0 +1,486 @@
+{
+  "entities": [
+    {
+      "text": "Crompton Greaves Consumer Electricals",
+      "label": "PETITIONER",
+      "start_char": 17,
+      "end_char": 54
+    },
+    {
+      "text": "Kay Ess Electronics And Electricals",
+      "label": "RESPONDENT",
+      "start_char": 66,
+      "end_char": 101
+    },
+    {
+      "text": "High Court Of Delhi At New Delhi",
+      "label": "COURT",
+      "start_char": 299,
+      "end_char": 331
+    },
+    {
+      "text": "Crompton Greaves Consumer\n                           Electricals Limited",
+      "label": "PETITIONER",
+      "start_char": 514,
+      "end_char": 586
+    },
+    {
+      "text": "Hemant Daswani",
+      "label": "LAWYER",
+      "start_char": 666,
+      "end_char": 680
+    },
+    {
+      "text": "Saumya Bajpai",
+      "label": "LAWYER",
+      "start_char": 739,
+      "end_char": 752
+    },
+    {
+      "text": "Kay Ess Electronics",
+      "label": "RESPONDENT",
+      "start_char": 846,
+      "end_char": 865
+    },
+    {
+      "text": "Guru Datt Parashar",
+      "label": "LAWYER",
+      "start_char": 998,
+      "end_char": 1016
+    },
+    {
+      "text": "Lalit Sharma",
+      "label": "LAWYER",
+      "start_char": 1075,
+      "end_char": 1087
+    },
+    {
+      "text": "Vibhu Bakhru",
+      "label": "JUDGE",
+      "start_char": 1236,
+      "end_char": 1248
+    },
+    {
+      "text": "Amit Mahajan",
+      "label": "JUDGE",
+      "start_char": 1296,
+      "end_char": 1308
+    },
+    {
+      "text": "Vibhu Bakhru",
+      "label": "JUDGE",
+      "start_char": 1329,
+      "end_char": 1341
+    },
+    {
+      "text": "July 29, 2016",
+      "label": "DATE",
+      "start_char": 1823,
+      "end_char": 1836
+    },
+    {
+      "text": "01.03.2019",
+      "label": "DATE",
+      "start_char": 1902,
+      "end_char": 1912
+    },
+    {
+      "text": "29.07.2016",
+      "label": "DATE",
+      "start_char": 2204,
+      "end_char": 2214
+    },
+    {
+      "text": "01.03.2019",
+      "label": "DATE",
+      "start_char": 2218,
+      "end_char": 2228
+    },
+    {
+      "text": "District Court at Dwarka",
+      "label": "COURT",
+      "start_char": 2463,
+      "end_char": 2487
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 2640,
+      "end_char": 2649
+    },
+    {
+      "text": "District Court (West) at Tis Hazari Court Complex",
+      "label": "COURT",
+      "start_char": 2708,
+      "end_char": 2757
+    },
+    {
+      "text": "District Court, Shahadara",
+      "label": "COURT",
+      "start_char": 2834,
+      "end_char": 2859
+    },
+    {
+      "text": "Ashok Nagar",
+      "label": "RESPONDENT",
+      "start_char": 2928,
+      "end_char": 2939
+    },
+    {
+      "text": "Ashok Nagar",
+      "label": "ORG",
+      "start_char": 3090,
+      "end_char": 3101
+    },
+    {
+      "text": "Pin Code 110093",
+      "label": "STATUTE",
+      "start_char": 3111,
+      "end_char": 3126
+    },
+    {
+      "text": "Shahadara District Court",
+      "label": "COURT",
+      "start_char": 3183,
+      "end_char": 3207
+    },
+    {
+      "text": "Neutral Citation Number is 2023/DHC/001409",
+      "label": "CASE_NUMBER",
+      "start_char": 3793,
+      "end_char": 3835
+    },
+    {
+      "text": "22.04.2019",
+      "label": "DATE",
+      "start_char": 3836,
+      "end_char": 3846
+    },
+    {
+      "text": "22.04.2019",
+      "label": "DATE",
+      "start_char": 4615,
+      "end_char": 4625
+    },
+    {
+      "text": "15.11.2022",
+      "label": "DATE",
+      "start_char": 4677,
+      "end_char": 4687
+    },
+    {
+      "text": "Order VII Rule 2",
+      "label": "PROVISION",
+      "start_char": 4784,
+      "end_char": 4800
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 4808,
+      "end_char": 4811
+    },
+    {
+      "text": "29.07.2016",
+      "label": "DATE",
+      "start_char": 4951,
+      "end_char": 4961
+    },
+    {
+      "text": "22.04.2019",
+      "label": "DATE",
+      "start_char": 4965,
+      "end_char": 4975
+    },
+    {
+      "text": "Section 35",
+      "label": "PROVISION",
+      "start_char": 5294,
+      "end_char": 5304
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 5308,
+      "end_char": 5311
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 5329,
+      "end_char": 5356
+    },
+    {
+      "text": "Section 35",
+      "label": "PROVISION",
+      "start_char": 5365,
+      "end_char": 5375
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 5378,
+      "end_char": 5381
+    },
+    {
+      "text": "Dwarka District Court",
+      "label": "COURT",
+      "start_char": 7032,
+      "end_char": 7053
+    },
+    {
+      "text": "S.P. Chengalvaraya Naidu (Dead) by LRs Vs.",
+      "label": "PRECEDENT",
+      "start_char": 7644,
+      "end_char": 7686
+    },
+    {
+      "text": "Jaganath",
+      "label": "OTHER_PERSON",
+      "start_char": 7687,
+      "end_char": 7695
+    },
+    {
+      "text": "C.B. Aggarwal Vs.",
+      "label": "PRECEDENT",
+      "start_char": 7734,
+      "end_char": 7751
+    },
+    {
+      "text": "P. Krishna Kapoor : AIR 1995 Delhi 154",
+      "label": "PRECEDENT",
+      "start_char": 7752,
+      "end_char": 7790
+    },
+    {
+      "text": "Goyal MG Gases Pvt",
+      "label": "ORG",
+      "start_char": 7792,
+      "end_char": 7810
+    },
+    {
+      "text": "AIR Liquide Deutschland Gmbh",
+      "label": "RESPONDENT",
+      "start_char": 7821,
+      "end_char": 7849
+    },
+    {
+      "text": "138(2007) DLT 62",
+      "label": "PRECEDENT",
+      "start_char": 7859,
+      "end_char": 7875
+    },
+    {
+      "text": "Salem Advocate Bar Association Vs.",
+      "label": "PRECEDENT",
+      "start_char": 7877,
+      "end_char": 7911
+    },
+    {
+      "text": "Union of India",
+      "label": "ORG",
+      "start_char": 7912,
+      "end_char": 7926
+    },
+    {
+      "text": "(2005) 6",
+      "label": "CASE_NUMBER",
+      "start_char": 7929,
+      "end_char": 7937
+    },
+    {
+      "text": "State of Karnataka Vs.",
+      "label": "PRECEDENT",
+      "start_char": 7947,
+      "end_char": 7969
+    },
+    {
+      "text": "All India Manufacturers Organisation : (2006) 4 SCC 683",
+      "label": "PRECEDENT",
+      "start_char": 7970,
+      "end_char": 8025
+    },
+    {
+      "text": "Morgan Stanley Mutual Fund Vs.",
+      "label": "PRECEDENT",
+      "start_char": 8027,
+      "end_char": 8057
+    },
+    {
+      "text": "Kartick Das",
+      "label": "OTHER_PERSON",
+      "start_char": 8058,
+      "end_char": 8069
+    },
+    {
+      "text": "Indian Steel & Wire Products Vs. B.I.F.R. (DB) : 2004 (110) DLT 186",
+      "label": "PRECEDENT",
+      "start_char": 8090,
+      "end_char": 8157
+    },
+    {
+      "text": "Jagmal Singh Vs.",
+      "label": "PRECEDENT",
+      "start_char": 8159,
+      "end_char": 8175
+    },
+    {
+      "text": "Delhi Transport Corporation : 1995 (59) DLT 604",
+      "label": "PRECEDENT",
+      "start_char": 8176,
+      "end_char": 8223
+    },
+    {
+      "text": "Chandra Shashi v. Anil Kumar Verma : (1995) 1 SCC 421",
+      "label": "PRECEDENT",
+      "start_char": 8225,
+      "end_char": 8278
+    },
+    {
+      "text": "Mumbai International Airport Pvt",
+      "label": "ORG",
+      "start_char": 8280,
+      "end_char": 8312
+    },
+    {
+      "text": "Ltd. vs. Golden Chariot Airport and Anr",
+      "label": "PRECEDENT",
+      "start_char": 8314,
+      "end_char": 8353
+    },
+    {
+      "text": "(2010) 10 SCC 422",
+      "label": "PRECEDENT",
+      "start_char": 8357,
+      "end_char": 8374
+    },
+    {
+      "text": "Vinod Seth Vs.",
+      "label": "PRECEDENT",
+      "start_char": 8376,
+      "end_char": 8390
+    },
+    {
+      "text": "Devinder Bajaj",
+      "label": "OTHER_PERSON",
+      "start_char": 8391,
+      "end_char": 8405
+    },
+    {
+      "text": "Khatri Hotels Private Ltd.",
+      "label": "ORG",
+      "start_char": 8424,
+      "end_char": 8450
+    },
+    {
+      "text": "Union of India : (2011) 9 SCC 126",
+      "label": "PRECEDENT",
+      "start_char": 8455,
+      "end_char": 8488
+    },
+    {
+      "text": "Kishore Samrite Vs.",
+      "label": "PRECEDENT",
+      "start_char": 8490,
+      "end_char": 8509
+    },
+    {
+      "text": "State of UP, (2013) 2 SCC 398",
+      "label": "PRECEDENT",
+      "start_char": 8514,
+      "end_char": 8543
+    },
+    {
+      "text": "Ramrameshwari Devi",
+      "label": "OTHER_PERSON",
+      "start_char": 8549,
+      "end_char": 8567
+    },
+    {
+      "text": "Nirmala Devi",
+      "label": "OTHER_PERSON",
+      "start_char": 8579,
+      "end_char": 8591
+    },
+    {
+      "text": "(2011) 8 SCC 249",
+      "label": "PRECEDENT",
+      "start_char": 8601,
+      "end_char": 8617
+    },
+    {
+      "text": "Commercial Court, Shahadara District",
+      "label": "COURT",
+      "start_char": 9347,
+      "end_char": 9383
+    },
+    {
+      "text": "Shahadara Bar Association",
+      "label": "ORG",
+      "start_char": 9629,
+      "end_char": 9654
+    },
+    {
+      "text": "VIBHU BAKHRU",
+      "label": "JUDGE",
+      "start_char": 9904,
+      "end_char": 9916
+    },
+    {
+      "text": "AMIT MAHAJAN",
+      "label": "JUDGE",
+      "start_char": 9920,
+      "end_char": 9932
+    },
+    {
+      "text": "FEBRUARY 21, 2023",
+      "label": "DATE",
+      "start_char": 9936,
+      "end_char": 9953
+    }
+  ],
+  "precedent_clusters": {
+    "S.P. Chengalvaraya Naidu (Dead) by LRs Vs.": [
+      "S.P. Chengalvaraya Naidu (Dead) by LRs Vs.",
+      "C.B. Aggarwal Vs.",
+      "Salem Advocate Bar Association Vs.",
+      "State of Karnataka Vs.",
+      "Morgan Stanley Mutual Fund Vs.",
+      "Jagmal Singh Vs.",
+      "Ltd. vs. Golden Chariot Airport and Anr",
+      "Vinod Seth Vs.",
+      "Kishore Samrite Vs."
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Order VII Rule 2",
+      "CPC",
+      "Order VII Rule 2",
+      "CPC"
+    ],
+    [
+      "Section 35",
+      "CPC",
+      "Section 35",
+      "CPC"
+    ],
+    [
+      "Section 35",
+      "CPC",
+      "Section 35",
+      "CPC"
+    ]
+  ],
+  "precedent_counts": {
+    "S.P. Chengalvaraya Naidu (Dead) by LRs Vs.": 9
+  },
+  "provision_counts": {
+    "Order VII Rule 2 of CPC": 1,
+    "Section 35 of CPC": 2
+  },
+  "statute_counts": {
+    "CPC": 3
+  }
+}

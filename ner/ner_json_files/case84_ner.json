@@ -1,0 +1,937 @@
+{
+  "entities": [
+    {
+      "text": "P. Siva Mohan Reddy",
+      "label": "PETITIONER",
+      "start_char": 21,
+      "end_char": 40
+    },
+    {
+      "text": "K. R. K. Reddy",
+      "label": "RESPONDENT",
+      "start_char": 48,
+      "end_char": 62
+    },
+    {
+      "text": "P.Naveen Rao",
+      "label": "LAWYER",
+      "start_char": 89,
+      "end_char": 101
+    },
+    {
+      "text": "P.Naveen Rao",
+      "label": "JUDGE",
+      "start_char": 109,
+      "end_char": 121
+    },
+    {
+      "text": "High Court For The State Of Telangana",
+      "label": "COURT",
+      "start_char": 134,
+      "end_char": 171
+    },
+    {
+      "text": "P. Siva Mohan Reddy",
+      "label": "PETITIONER",
+      "start_char": 274,
+      "end_char": 293
+    },
+    {
+      "text": "K.R.K.Reddy",
+      "label": "RESPONDENT",
+      "start_char": 595,
+      "end_char": 606
+    },
+    {
+      "text": "24.03.2023",
+      "label": "DATE",
+      "start_char": 919,
+      "end_char": 929
+    },
+    {
+      "text": "P.NAVEEN RAO",
+      "label": "JUDGE",
+      "start_char": 964,
+      "end_char": 976
+    },
+    {
+      "text": "J.SREENIVAS RAO",
+      "label": "JUDGE",
+      "start_char": 1042,
+      "end_char": 1057
+    },
+    {
+      "text": "PNRJ",
+      "label": "JUDGE",
+      "start_char": 1420,
+      "end_char": 1424
+    },
+    {
+      "text": "P.NAVEEN RAO",
+      "label": "JUDGE",
+      "start_char": 1594,
+      "end_char": 1606
+    },
+    {
+      "text": "J.SREENIVAS RAO",
+      "label": "JUDGE",
+      "start_char": 1680,
+      "end_char": 1695
+    },
+    {
+      "text": "P. Siva Mohan Reddy",
+      "label": "PETITIONER",
+      "start_char": 1776,
+      "end_char": 1795
+    },
+    {
+      "text": "P.Venkata Reddy",
+      "label": "OTHER_PERSON",
+      "start_char": 1807,
+      "end_char": 1822
+    },
+    {
+      "text": "Hyderabad",
+      "label": "GPE",
+      "start_char": 1918,
+      "end_char": 1927
+    },
+    {
+      "text": "K.R.K.Reddy",
+      "label": "RESPONDENT",
+      "start_char": 2104,
+      "end_char": 2115
+    },
+    {
+      "text": "Peri Prabhakar",
+      "label": "LAWYER",
+      "start_char": 2398,
+      "end_char": 2412
+    },
+    {
+      "text": "M.V.Pratap Kumar",
+      "label": "LAWYER",
+      "start_char": 2445,
+      "end_char": 2461
+    },
+    {
+      "text": "P. NAVEEN RAO",
+      "label": "JUDGE",
+      "start_char": 2946,
+      "end_char": 2959
+    },
+    {
+      "text": "J. SREENIVAS RAO",
+      "label": "OTHER_PERSON",
+      "start_char": 3031,
+      "end_char": 3047
+    },
+    {
+      "text": "PETITION NO.3018 of 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 3078,
+      "end_char": 3102
+    },
+    {
+      "text": "P Naveen Rao",
+      "label": "JUDGE",
+      "start_char": 3136,
+      "end_char": 3148
+    },
+    {
+      "text": "Peri Prabhakar",
+      "label": "PETITIONER",
+      "start_char": 3191,
+      "end_char": 3205
+    },
+    {
+      "text": "M.V.Pratap Kumar",
+      "label": "LAWYER",
+      "start_char": 3245,
+      "end_char": 3261
+    },
+    {
+      "text": "Ghousia Begum",
+      "label": "OTHER_PERSON",
+      "start_char": 3542,
+      "end_char": 3555
+    },
+    {
+      "text": "Banjara Hills",
+      "label": "GPE",
+      "start_char": 3598,
+      "end_char": 3611
+    },
+    {
+      "text": "Hyderabad",
+      "label": "GPE",
+      "start_char": 3613,
+      "end_char": 3622
+    },
+    {
+      "text": "2.4.2009",
+      "label": "DATE",
+      "start_char": 3890,
+      "end_char": 3898
+    },
+    {
+      "text": "PNRJ & JSRJ CRP No.3018 OF 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 4356,
+      "end_char": 4387
+    },
+    {
+      "text": "O.S.No.432 of 2012",
+      "label": "CASE_NUMBER",
+      "start_char": 4429,
+      "end_char": 4447
+    },
+    {
+      "text": "Court of III Additional Chief Judge, City Civil Court at Hyderabad",
+      "label": "COURT",
+      "start_char": 4455,
+      "end_char": 4521
+    },
+    {
+      "text": "C.O.S No.135 of 2017",
+      "label": "CASE_NUMBER",
+      "start_char": 4617,
+      "end_char": 4637
+    },
+    {
+      "text": "9.4.2009",
+      "label": "DATE",
+      "start_char": 4798,
+      "end_char": 4806
+    },
+    {
+      "text": "I. A.No.205 of 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 4919,
+      "end_char": 4938
+    },
+    {
+      "text": "Order VII Rule 10 read with Section 151",
+      "label": "PROVISION",
+      "start_char": 4945,
+      "end_char": 4984
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 4988,
+      "end_char": 4991
+    },
+    {
+      "text": "PNRJ & JSRJ CRP No.3018 OF 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 5777,
+      "end_char": 5808
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 6051,
+      "end_char": 6078
+    },
+    {
+      "text": "B.K.Muniraju Vs State of Karnataka and others1",
+      "label": "PRECEDENT",
+      "start_char": 6183,
+      "end_char": 6229
+    },
+    {
+      "text": "Bunga Daniel Babu Vs Sri Vasudeva Constructions and others2",
+      "label": "PRECEDENT",
+      "start_char": 6231,
+      "end_char": 6290
+    },
+    {
+      "text": "Ambalal Sarabhai Enterprises Ltd Vs K.S Infraspace LLP and others3",
+      "label": "PRECEDENT",
+      "start_char": 6292,
+      "end_char": 6358
+    },
+    {
+      "text": "Faqir Chand Gulati Vs Uppal Agencies Private Limited",
+      "label": "PRECEDENT",
+      "start_char": 6360,
+      "end_char": 6412
+    },
+    {
+      "text": "Sandhya Hotels Pvt ltd and Others Vs Amritha Mishra5",
+      "label": "PRECEDENT",
+      "start_char": 6431,
+      "end_char": 6483
+    },
+    {
+      "text": "Telangana State Tourism Development Corporation Limited Vs.",
+      "label": "PRECEDENT",
+      "start_char": 6552,
+      "end_char": 6611
+    },
+    {
+      "text": "A.A. Avocations Pvt Ltd6",
+      "label": "ORG",
+      "start_char": 6612,
+      "end_char": 6636
+    },
+    {
+      "text": "Section 2(1)(c)(xi)7 and Section 68",
+      "label": "PROVISION",
+      "start_char": 6752,
+      "end_char": 6787
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 6795,
+      "end_char": 6822
+    },
+    {
+      "text": "(2008) 4 SCC 451 (2016) 8 SCC 429 (2020) 15 SCC 585 (208) 10 SCC 345",
+      "label": "PRECEDENT",
+      "start_char": 6851,
+      "end_char": 6919
+    },
+    {
+      "text": "CRP No.3018 OF 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 7177,
+      "end_char": 7196
+    },
+    {
+      "text": "Section 2(1)(c)(xi)",
+      "label": "PROVISION",
+      "start_char": 7214,
+      "end_char": 7233
+    },
+    {
+      "text": "Section 2(1)(c)(xi)",
+      "label": "PROVISION",
+      "start_char": 7367,
+      "end_char": 7386
+    },
+    {
+      "text": "Ramnathan Iyer",
+      "label": "OTHER_PERSON",
+      "start_char": 7835,
+      "end_char": 7849
+    },
+    {
+      "text": "Faqir Chand Gulati",
+      "label": "PRECEDENT",
+      "start_char": 8225,
+      "end_char": 8243
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 8261,
+      "end_char": 8274
+    },
+    {
+      "text": "sections 16 to 20",
+      "label": "PROVISION",
+      "start_char": 8933,
+      "end_char": 8950
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 8958,
+      "end_char": 8999
+    },
+    {
+      "text": "PNRJ & JSRJ CRP No.3018 OF 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 9002,
+      "end_char": 9033
+    },
+    {
+      "text": "New Delhi",
+      "label": "GPE",
+      "start_char": 9068,
+      "end_char": 9077
+    },
+    {
+      "text": "District Consumer Disputes Redressal Forum",
+      "label": "ORG",
+      "start_char": 9289,
+      "end_char": 9331
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 9672,
+      "end_char": 9685
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 9915,
+      "end_char": 9928
+    },
+    {
+      "text": "PNRJ",
+      "label": "ORG",
+      "start_char": 11489,
+      "end_char": 11493
+    },
+    {
+      "text": "JSRJ CRP No.3018 OF 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 11496,
+      "end_char": 11520
+    },
+    {
+      "text": "Corpus Juris Secundum (Vol.",
+      "label": "PRECEDENT",
+      "start_char": 12397,
+      "end_char": 12424
+    },
+    {
+      "text": "B.K.Muniraju",
+      "label": "OTHER_PERSON",
+      "start_char": 13743,
+      "end_char": 13755
+    },
+    {
+      "text": "supreme Court",
+      "label": "COURT",
+      "start_char": 13787,
+      "end_char": 13800
+    },
+    {
+      "text": "PNRJ & JSRJ CRP No.3018 OF 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 14768,
+      "end_char": 14799
+    },
+    {
+      "text": "Vidhyadhar v. Manikrao [(1999) 3",
+      "label": "PRECEDENT",
+      "start_char": 14805,
+      "end_char": 14837
+    },
+    {
+      "text": "Subbegowda v. Thimmegowda [(2004) 9 SCC 734]",
+      "label": "PRECEDENT",
+      "start_char": 14848,
+      "end_char": 14892
+    },
+    {
+      "text": "Bishwanath Prasad Singh v. Rajendra Prasad [(2006) 4 SCC 432]",
+      "label": "PRECEDENT",
+      "start_char": 14897,
+      "end_char": 14958
+    },
+    {
+      "text": "4-3-1948",
+      "label": "DATE",
+      "start_char": 15241,
+      "end_char": 15249
+    },
+    {
+      "text": "Motappa",
+      "label": "OTHER_PERSON",
+      "start_char": 15274,
+      "end_char": 15281
+    },
+    {
+      "text": "Bunga Daniel Babu v Sri Vasudeva Constructions and others9",
+      "label": "PRECEDENT",
+      "start_char": 15669,
+      "end_char": 15727
+    },
+    {
+      "text": "Visakhapatnam",
+      "label": "GPE",
+      "start_char": 15784,
+      "end_char": 15797
+    },
+    {
+      "text": "District Consumer Disputes Redressal Forum",
+      "label": "ORG",
+      "start_char": 16270,
+      "end_char": 16312
+    },
+    {
+      "text": "(2016) 8 SCC 429 PNRJ & JSRJ CRP No.3018 OF 2022",
+      "label": "PRECEDENT",
+      "start_char": 16705,
+      "end_char": 16753
+    },
+    {
+      "text": "Consumer Protection Act",
+      "label": "STATUTE",
+      "start_char": 16813,
+      "end_char": 16836
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 16856,
+      "end_char": 16869
+    },
+    {
+      "text": "Kalpavruksha Charitable Trust v. Toshniwal Brothers (Bombay) Pvt",
+      "label": "PRECEDENT",
+      "start_char": 16884,
+      "end_char": 16948
+    },
+    {
+      "text": "Laxmi Engineering Works",
+      "label": "PRECEDENT",
+      "start_char": 16992,
+      "end_char": 17015
+    },
+    {
+      "text": "Faqir Chand Gulati",
+      "label": "PRECEDENT",
+      "start_char": 17507,
+      "end_char": 17525
+    },
+    {
+      "text": "Ambalal Sarabhai Enterprises Ltd v KS Infraspace LLP",
+      "label": "PRECEDENT",
+      "start_char": 17660,
+      "end_char": 17712
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 17946,
+      "end_char": 17963
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 17967,
+      "end_char": 17996
+    },
+    {
+      "text": "(2020) 15 SCC 585 =MANU/SC/1378/2019 PNRJ & JSRJ CRP No.3018 OF 2022",
+      "label": "PRECEDENT",
+      "start_char": 18550,
+      "end_char": 18618
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 19005,
+      "end_char": 19018
+    },
+    {
+      "text": "Section 2(1)(c)(vii)",
+      "label": "PROVISION",
+      "start_char": 19048,
+      "end_char": 19068
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 19170,
+      "end_char": 19183
+    },
+    {
+      "text": "Section 2(1)(c)(vii)",
+      "label": "PROVISION",
+      "start_char": 19530,
+      "end_char": 19550
+    },
+    {
+      "text": "CC Act, 2015",
+      "label": "STATUTE",
+      "start_char": 19558,
+      "end_char": 19570
+    },
+    {
+      "text": "Section 2(1)",
+      "label": "PROVISION",
+      "start_char": 19654,
+      "end_char": 19666
+    },
+    {
+      "text": "CC Act of 2015",
+      "label": "STATUTE",
+      "start_char": 20543,
+      "end_char": 20557
+    },
+    {
+      "text": "PNRJ & JSRJ CRP No.3018 OF 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 21307,
+      "end_char": 21338
+    },
+    {
+      "text": "01.03.2019",
+      "label": "DATE",
+      "start_char": 22424,
+      "end_char": 22434
+    },
+    {
+      "text": "Sandhya Hotels Pvt Ltd v Amritha Sharma11",
+      "label": "PRECEDENT",
+      "start_char": 22592,
+      "end_char": 22633
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 22647,
+      "end_char": 22660
+    },
+    {
+      "text": "Section 2(1)(c)(vii)",
+      "label": "PROVISION",
+      "start_char": 22696,
+      "end_char": 22716
+    },
+    {
+      "text": "Sandhya Hotels Pvt Ltd",
+      "label": "ORG",
+      "start_char": 22783,
+      "end_char": 22805
+    },
+    {
+      "text": "Jubilee Hills Cooperative House Building Society Limited",
+      "label": "ORG",
+      "start_char": 22917,
+      "end_char": 22973
+    },
+    {
+      "text": "M. Jayasree",
+      "label": "OTHER_PERSON",
+      "start_char": 23041,
+      "end_char": 23052
+    },
+    {
+      "text": "M. Jayasree",
+      "label": "OTHER_PERSON",
+      "start_char": 23188,
+      "end_char": 23199
+    },
+    {
+      "text": "MANU/HY/0288/2018 PNRJ & JSRJ CRP No.3018 OF 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 23538,
+      "end_char": 23587
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 24374,
+      "end_char": 24387
+    },
+    {
+      "text": "Section 2(1)(c)",
+      "label": "PROVISION",
+      "start_char": 24573,
+      "end_char": 24588
+    },
+    {
+      "text": "Section 2(1)(c)(vii)",
+      "label": "PROVISION",
+      "start_char": 25160,
+      "end_char": 25180
+    },
+    {
+      "text": "Gujarat High Court",
+      "label": "COURT",
+      "start_char": 25239,
+      "end_char": 25257
+    },
+    {
+      "text": "Vasu Healthcare Private Limited v. Gujarat Akruti TCG Biotech Limited and others (2012) 4",
+      "label": "PRECEDENT",
+      "start_char": 25261,
+      "end_char": 25350
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 25363,
+      "end_char": 25380
+    },
+    {
+      "text": "DineshkumarGulabchand Agrawal v. Commissioner of Income Tax and another (2001) 6",
+      "label": "PRECEDENT",
+      "start_char": 25384,
+      "end_char": 25464
+    },
+    {
+      "text": "SCC 407",
+      "label": "CASE_NUMBER",
+      "start_char": 25465,
+      "end_char": 25472
+    },
+    {
+      "text": "PNRJ & JSRJ CRP No.3018 OF 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 25827,
+      "end_char": 25858
+    },
+    {
+      "text": "Nagpur Bench",
+      "label": "COURT",
+      "start_char": 25943,
+      "end_char": 25955
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 25963,
+      "end_char": 25980
+    },
+    {
+      "text": "Gujarat High Court",
+      "label": "COURT",
+      "start_char": 26018,
+      "end_char": 26036
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 26065,
+      "end_char": 26075
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 26306,
+      "end_char": 26319
+    },
+    {
+      "text": "Section 2(1)(c)(xi)",
+      "label": "PROVISION",
+      "start_char": 26466,
+      "end_char": 26485
+    },
+    {
+      "text": "Clause (xi) of Section 2(1)(c)",
+      "label": "PROVISION",
+      "start_char": 26672,
+      "end_char": 26702
+    },
+    {
+      "text": "2.4.2009",
+      "label": "DATE",
+      "start_char": 27093,
+      "end_char": 27101
+    },
+    {
+      "text": "PNRJ & JSRJ CRP No.3018 OF 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 27484,
+      "end_char": 27515
+    },
+    {
+      "text": "Section 2(1)(c)(vii)",
+      "label": "PROVISION",
+      "start_char": 28242,
+      "end_char": 28262
+    },
+    {
+      "text": "Clause (xi) of Section 2(1)(c)",
+      "label": "PROVISION",
+      "start_char": 28284,
+      "end_char": 28314
+    },
+    {
+      "text": "PNRJ & JSRJ CRP No.3018 OF 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 29065,
+      "end_char": 29096
+    },
+    {
+      "text": "P.NAVEEN RAO",
+      "label": "JUDGE",
+      "start_char": 29490,
+      "end_char": 29502
+    },
+    {
+      "text": "J.SREENIVAS RAO",
+      "label": "JUDGE",
+      "start_char": 29527,
+      "end_char": 29542
+    },
+    {
+      "text": "24.03.2023",
+      "label": "DATE",
+      "start_char": 29551,
+      "end_char": 29561
+    },
+    {
+      "text": "CRP No.3018 OF 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 29614,
+      "end_char": 29633
+    },
+    {
+      "text": "P.NAVEEN RAO",
+      "label": "JUDGE",
+      "start_char": 29654,
+      "end_char": 29666
+    },
+    {
+      "text": "J.SREENIVAS RAO",
+      "label": "JUDGE",
+      "start_char": 29689,
+      "end_char": 29704
+    },
+    {
+      "text": "PETITION NO.3018 OF 2022",
+      "label": "CASE_NUMBER",
+      "start_char": 29720,
+      "end_char": 29744
+    },
+    {
+      "text": "24.03.2023",
+      "label": "DATE",
+      "start_char": 29751,
+      "end_char": 29761
+    }
+  ],
+  "precedent_clusters": {
+    "Vasu Healthcare Private Limited v. Gujarat Akruti TCG Biotech Limited and others (2012) 4": [
+      "B.K.Muniraju Vs State of Karnataka and others1",
+      "Bunga Daniel Babu Vs Sri Vasudeva Constructions and others2",
+      "Ambalal Sarabhai Enterprises Ltd Vs K.S Infraspace LLP and others3",
+      "Faqir Chand Gulati Vs Uppal Agencies Private Limited",
+      "Sandhya Hotels Pvt ltd and Others Vs Amritha Mishra5",
+      "Telangana State Tourism Development Corporation Limited Vs.",
+      "Corpus Juris Secundum (Vol.",
+      "Vidhyadhar v. Manikrao [(1999) 3",
+      "Bunga Daniel Babu v Sri Vasudeva Constructions and others9",
+      "Kalpavruksha Charitable Trust v. Toshniwal Brothers (Bombay) Pvt",
+      "Ambalal Sarabhai Enterprises Ltd v KS Infraspace LLP",
+      "Sandhya Hotels Pvt Ltd v Amritha Sharma11",
+      "Vasu Healthcare Private Limited v. Gujarat Akruti TCG Biotech Limited and others (2012) 4",
+      "DineshkumarGulabchand Agrawal v. Commissioner of Income Tax and another (2001) 6",
+      "Faqir Chand Gulati",
+      "Faqir Chand Gulati"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Order VII Rule 10 read with Section 151",
+      "CPC",
+      "Order VII Rule 10 read with Section 151",
+      "CPC"
+    ],
+    [
+      "Section 2(1)(c)(xi)7 and Section 68",
+      "Commercial Courts Act, 2015",
+      "Section 2(1)(c)(xi)7 and Section 68",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "sections 16 to 20",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "sections 16 to 20",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908",
+      "Order VII Rule 10",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 2(1)(c)(vii)",
+      "CC Act, 2015",
+      "Section 2(1)(c)(vii)",
+      "CC Act, 2015"
+    ],
+    [
+      "Section 2(1)(c)(xi)",
+      "Commercial Courts Act, 2015",
+      "Section 2(1)(c)(xi)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 2(1)(c)(xi)",
+      "Commercial Courts Act, 2015",
+      "Section 2(1)(c)(xi)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 2(1)(c)(vii)",
+      "Commercial Courts Act, 2015",
+      "Section 2(1)(c)(vii)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 2(1)",
+      "Commercial Courts Act, 2015",
+      "Section 2(1)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 2(1)(c)(vii)",
+      "Commercial Courts Act, 2015",
+      "Section 2(1)(c)(vii)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 2(1)(c)",
+      "Commercial Courts Act, 2015",
+      "Section 2(1)(c)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 2(1)(c)(vii)",
+      "Commercial Courts Act, 2015",
+      "Section 2(1)(c)(vii)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 2(1)(c)(xi)",
+      "Commercial Courts Act, 2015",
+      "Section 2(1)(c)(xi)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Clause (xi) of Section 2(1)(c)",
+      "Commercial Courts Act, 2015",
+      "Clause (xi) of Section 2(1)(c)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 2(1)(c)(vii)",
+      "Commercial Courts Act, 2015",
+      "Section 2(1)(c)(vii)",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Clause (xi) of Section 2(1)(c)",
+      "Commercial Courts Act, 2015",
+      "Clause (xi) of Section 2(1)(c)",
+      "Commercial Courts Act, 2015"
+    ]
+  ],
+  "precedent_counts": {
+    "Vasu Healthcare Private Limited v. Gujarat Akruti TCG Biotech Limited and others (2012) 4": 16
+  },
+  "provision_counts": {
+    "Order VII Rule 10 read with Section 151 of CPC": 1,
+    "Section 2(1)(c)(xi)7 and Section 68 of Commercial Courts Act, 2015": 1,
+    "sections 16 to 20 of Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Order VII Rule 10 of Code of Civil Procedure, 1908": 1,
+    "Section 2(1)(c)(vii) of CC Act, 2015": 1,
+    "Section 2(1)(c)(xi) of Commercial Courts Act, 2015": 3,
+    "Section 2(1)(c)(vii) of Commercial Courts Act, 2015": 4,
+    "Section 2(1) of Commercial Courts Act, 2015": 1,
+    "Section 2(1)(c) of Commercial Courts Act, 2015": 1,
+    "Clause (xi) of Section 2(1)(c) of Commercial Courts Act, 2015": 2
+  },
+  "statute_counts": {
+    "CPC": 1,
+    "Commercial Courts Act, 2015": 12,
+    "Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Code of Civil Procedure, 1908": 1,
+    "CC Act, 2015": 1
+  }
+}

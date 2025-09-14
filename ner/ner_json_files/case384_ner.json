@@ -1,0 +1,1425 @@
+{
+  "entities": [
+    {
+      "text": "Sarine Technologies Ltd",
+      "label": "PETITIONER",
+      "start_char": 19,
+      "end_char": 42
+    },
+    {
+      "text": "Diyora And Bhanderi Corporation",
+      "label": "RESPONDENT",
+      "start_char": 46,
+      "end_char": 77
+    },
+    {
+      "text": "10/10/2023",
+      "label": "DATE",
+      "start_char": 277,
+      "end_char": 287
+    },
+    {
+      "text": "HIGH COURT OF GUJARAT AT AHMEDABAD",
+      "label": "COURT",
+      "start_char": 405,
+      "end_char": 439
+    },
+    {
+      "text": "NO. 1177 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 487,
+      "end_char": 503
+    },
+    {
+      "text": "C. DOSHI",
+      "label": "JUDGE",
+      "start_char": 560,
+      "end_char": 568
+    },
+    {
+      "text": "Constitution",
+      "label": "STATUTE",
+      "start_char": 980,
+      "end_char": 992
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 1003,
+      "end_char": 1008
+    },
+    {
+      "text": "SARINE TECHNOLOGIES LTD",
+      "label": "ORG",
+      "start_char": 1156,
+      "end_char": 1179
+    },
+    {
+      "text": "SHALIN MEHTA",
+      "label": "JUDGE",
+      "start_char": 1408,
+      "end_char": 1420
+    },
+    {
+      "text": "ISHWEN UNPEJA",
+      "label": "OTHER_PERSON",
+      "start_char": 1444,
+      "end_char": 1457
+    },
+    {
+      "text": "POOJA DHRUVE",
+      "label": "OTHER_PERSON",
+      "start_char": 1464,
+      "end_char": 1476
+    },
+    {
+      "text": "DHWANI LAKHANI",
+      "label": "OTHER_PERSON",
+      "start_char": 1482,
+      "end_char": 1496
+    },
+    {
+      "text": "SN SOPARKAR",
+      "label": "OTHER_PERSON",
+      "start_char": 1559,
+      "end_char": 1570
+    },
+    {
+      "text": "TARUN KHURANA",
+      "label": "OTHER_PERSON",
+      "start_char": 1594,
+      "end_char": 1607
+    },
+    {
+      "text": "RAJAT SABU",
+      "label": "OTHER_PERSON",
+      "start_char": 1612,
+      "end_char": 1622
+    },
+    {
+      "text": "JWALIT SONEJI",
+      "label": "OTHER_PERSON",
+      "start_char": 1627,
+      "end_char": 1640
+    },
+    {
+      "text": "J. C. DOSHI",
+      "label": "JUDGE",
+      "start_char": 1794,
+      "end_char": 1805
+    },
+    {
+      "text": "10/10/2023",
+      "label": "DATE",
+      "start_char": 1844,
+      "end_char": 1854
+    },
+    {
+      "text": "Tarun Khurana",
+      "label": "OTHER_PERSON",
+      "start_char": 1929,
+      "end_char": 1942
+    },
+    {
+      "text": "10/10/2023",
+      "label": "DATE",
+      "start_char": 2051,
+      "end_char": 2061
+    },
+    {
+      "text": "s 24",
+      "label": "PROVISION",
+      "start_char": 2095,
+      "end_char": 2099
+    },
+    {
+      "text": "Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 2107,
+      "end_char": 2128
+    },
+    {
+      "text": "Commercial Trademark Civil Suit No. 35 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 2192,
+      "end_char": 2238
+    },
+    {
+      "text": "Sarine Technologies Ltd.",
+      "label": "ORG",
+      "start_char": 2249,
+      "end_char": 2273
+    },
+    {
+      "text": "Diyora",
+      "label": "OTHER_PERSON",
+      "start_char": 2278,
+      "end_char": 2284
+    },
+    {
+      "text": "Bhanderi Corporation",
+      "label": "ORG",
+      "start_char": 2289,
+      "end_char": 2309
+    },
+    {
+      "text": "5th Additional District Judge, Surat",
+      "label": "COURT",
+      "start_char": 2346,
+      "end_char": 2382
+    },
+    {
+      "text": "Vivek N. Mapara",
+      "label": "JUDGE",
+      "start_char": 2416,
+      "end_char": 2431
+    },
+    {
+      "text": "City Civil Court, Ahmedabad",
+      "label": "COURT",
+      "start_char": 2454,
+      "end_char": 2481
+    },
+    {
+      "text": "5th Additional District Judge, Surat",
+      "label": "COURT",
+      "start_char": 2501,
+      "end_char": 2537
+    },
+    {
+      "text": "Commercial Trademark Civil Suit No. 35 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 2564,
+      "end_char": 2610
+    },
+    {
+      "text": "Sarine Technologies Ltd.",
+      "label": "ORG",
+      "start_char": 2621,
+      "end_char": 2645
+    },
+    {
+      "text": "Diyora",
+      "label": "OTHER_PERSON",
+      "start_char": 2650,
+      "end_char": 2656
+    },
+    {
+      "text": "Bhanderi Corporation",
+      "label": "ORG",
+      "start_char": 2661,
+      "end_char": 2681
+    },
+    {
+      "text": "Vivek N. Mapara",
+      "label": "JUDGE",
+      "start_char": 2721,
+      "end_char": 2736
+    },
+    {
+      "text": "City Civil Court, Ahmedabad",
+      "label": "COURT",
+      "start_char": 2759,
+      "end_char": 2786
+    },
+    {
+      "text": "Vivek N. Mapara",
+      "label": "JUDGE",
+      "start_char": 2837,
+      "end_char": 2852
+    },
+    {
+      "text": "Commercial Court at City Civil Court, Ahmedabad",
+      "label": "COURT",
+      "start_char": 2854,
+      "end_char": 2901
+    },
+    {
+      "text": "Commercial Trademark Suit No.35 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 3136,
+      "end_char": 3175
+    },
+    {
+      "text": "Commercial Court at Surat",
+      "label": "COURT",
+      "start_char": 3215,
+      "end_char": 3240
+    },
+    {
+      "text": "Copy Right Act, 1957",
+      "label": "STATUTE",
+      "start_char": 3397,
+      "end_char": 3417
+    },
+    {
+      "text": "NEUTRAL CITATION C/MCA/1177/2023 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 3966,
+      "end_char": 4011
+    },
+    {
+      "text": "10/10/2023",
+      "label": "DATE",
+      "start_char": 4019,
+      "end_char": 4029
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 4220,
+      "end_char": 4230
+    },
+    {
+      "text": "SLP (C) No.21953 of 2019",
+      "label": "CASE_NUMBER",
+      "start_char": 4242,
+      "end_char": 4266
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 4308,
+      "end_char": 4318
+    },
+    {
+      "text": "24.11.2020",
+      "label": "DATE",
+      "start_char": 4322,
+      "end_char": 4332
+    },
+    {
+      "text": "Surat",
+      "label": "GPE",
+      "start_char": 4513,
+      "end_char": 4518
+    },
+    {
+      "text": "Vivek N. Mapara",
+      "label": "JUDGE",
+      "start_char": 4524,
+      "end_char": 4539
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 4660,
+      "end_char": 4681
+    },
+    {
+      "text": "Vivek N. Mapara",
+      "label": "JUDGE",
+      "start_char": 4758,
+      "end_char": 4773
+    },
+    {
+      "text": "Vivek N. Mapara",
+      "label": "JUDGE",
+      "start_char": 5037,
+      "end_char": 5052
+    },
+    {
+      "text": "Commercial Court, Surat",
+      "label": "COURT",
+      "start_char": 5075,
+      "end_char": 5098
+    },
+    {
+      "text": "Commercial Court, City Civil Court, Ahmedabad",
+      "label": "COURT",
+      "start_char": 5118,
+      "end_char": 5163
+    },
+    {
+      "text": "City Civil Court, Ahmedabad",
+      "label": "COURT",
+      "start_char": 5382,
+      "end_char": 5409
+    },
+    {
+      "text": "Shalin Mehta",
+      "label": "JUDGE",
+      "start_char": 5448,
+      "end_char": 5460
+    },
+    {
+      "text": "NEUTRAL CITATION",
+      "label": "ORG",
+      "start_char": 5470,
+      "end_char": 5486
+    },
+    {
+      "text": "C/MCA/1177/2023 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 5487,
+      "end_char": 5515
+    },
+    {
+      "text": "10/10/2023",
+      "label": "DATE",
+      "start_char": 5523,
+      "end_char": 5533
+    },
+    {
+      "text": "Ishwen Upneja",
+      "label": "OTHER_PERSON",
+      "start_char": 5569,
+      "end_char": 5582
+    },
+    {
+      "text": "Pooja Dhruve",
+      "label": "OTHER_PERSON",
+      "start_char": 5588,
+      "end_char": 5600
+    },
+    {
+      "text": "Dhwani Lakhani",
+      "label": "OTHER_PERSON",
+      "start_char": 5606,
+      "end_char": 5620
+    },
+    {
+      "text": "SN",
+      "label": "OTHER_PERSON",
+      "start_char": 5693,
+      "end_char": 5695
+    },
+    {
+      "text": "Soparkar",
+      "label": "OTHER_PERSON",
+      "start_char": 5696,
+      "end_char": 5704
+    },
+    {
+      "text": "Tarun Khurana",
+      "label": "OTHER_PERSON",
+      "start_char": 5739,
+      "end_char": 5752
+    },
+    {
+      "text": "Rajat Sabu",
+      "label": "OTHER_PERSON",
+      "start_char": 5758,
+      "end_char": 5768
+    },
+    {
+      "text": "Jwalit Soneji",
+      "label": "OTHER_PERSON",
+      "start_char": 5774,
+      "end_char": 5787
+    },
+    {
+      "text": "Shalin Mehta",
+      "label": "JUDGE",
+      "start_char": 5840,
+      "end_char": 5852
+    },
+    {
+      "text": "Vivek M. Mapara",
+      "label": "JUDGE",
+      "start_char": 6278,
+      "end_char": 6293
+    },
+    {
+      "text": "Commercial Court, Surat",
+      "label": "COURT",
+      "start_char": 6325,
+      "end_char": 6348
+    },
+    {
+      "text": "Vivek Mapara",
+      "label": "JUDGE",
+      "start_char": 6431,
+      "end_char": 6443
+    },
+    {
+      "text": "Vivek Mapara",
+      "label": "JUDGE",
+      "start_char": 6555,
+      "end_char": 6567
+    },
+    {
+      "text": "Commercial Court at Surat",
+      "label": "COURT",
+      "start_char": 6653,
+      "end_char": 6678
+    },
+    {
+      "text": "Vivek Mapara",
+      "label": "JUDGE",
+      "start_char": 6719,
+      "end_char": 6731
+    },
+    {
+      "text": "Shalin Mehta",
+      "label": "JUDGE",
+      "start_char": 6804,
+      "end_char": 6816
+    },
+    {
+      "text": "Vivek Mapara",
+      "label": "JUDGE",
+      "start_char": 6996,
+      "end_char": 7008
+    },
+    {
+      "text": "Commercial Court, Surat",
+      "label": "COURT",
+      "start_char": 7071,
+      "end_char": 7094
+    },
+    {
+      "text": "C/MCA/1177/2023 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 7146,
+      "end_char": 7174
+    },
+    {
+      "text": "10/10/2023",
+      "label": "DATE",
+      "start_char": 7182,
+      "end_char": 7192
+    },
+    {
+      "text": "Commercial Court, Surat",
+      "label": "COURT",
+      "start_char": 7487,
+      "end_char": 7510
+    },
+    {
+      "text": "Vivek Mapara",
+      "label": "JUDGE",
+      "start_char": 7532,
+      "end_char": 7544
+    },
+    {
+      "text": "City Civil Court, Ahmedabad",
+      "label": "COURT",
+      "start_char": 7591,
+      "end_char": 7618
+    },
+    {
+      "text": "Shalin Mehta",
+      "label": "JUDGE",
+      "start_char": 7652,
+      "end_char": 7664
+    },
+    {
+      "text": "Vivek Mapara",
+      "label": "JUDGE",
+      "start_char": 7864,
+      "end_char": 7876
+    },
+    {
+      "text": "City Civil Court, Ahmedabad",
+      "label": "COURT",
+      "start_char": 7923,
+      "end_char": 7950
+    },
+    {
+      "text": "Shalin Mehta",
+      "label": "JUDGE",
+      "start_char": 8363,
+      "end_char": 8375
+    },
+    {
+      "text": "Advance Magazine Publishers Inc.",
+      "label": "ORG",
+      "start_char": 8418,
+      "end_char": 8450
+    },
+    {
+      "text": "Bombay Rayon Fashions Ltd",
+      "label": "ORG",
+      "start_char": 8455,
+      "end_char": 8480
+    },
+    {
+      "text": "2021 AIR CC 283 (2)",
+      "label": "CASE_NUMBER",
+      "start_char": 8504,
+      "end_char": 8523
+    },
+    {
+      "text": "MV Rekha Vs.",
+      "label": "PRECEDENT",
+      "start_char": 8529,
+      "end_char": 8541
+    },
+    {
+      "text": "Sathya @ Suraj",
+      "label": "OTHER_PERSON",
+      "start_char": 8546,
+      "end_char": 8560
+    },
+    {
+      "text": "ILR 2010 KAR NEUTRAL CITATION",
+      "label": "PRECEDENT",
+      "start_char": 8562,
+      "end_char": 8591
+    },
+    {
+      "text": "C/MCA/1177/2023 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 8592,
+      "end_char": 8620
+    },
+    {
+      "text": "10/10/2023",
+      "label": "DATE",
+      "start_char": 8628,
+      "end_char": 8638
+    },
+    {
+      "text": "Shalin Mehta",
+      "label": "JUDGE",
+      "start_char": 8702,
+      "end_char": 8714
+    },
+    {
+      "text": "SN Soparkar",
+      "label": "OTHER_PERSON",
+      "start_char": 8811,
+      "end_char": 8822
+    },
+    {
+      "text": "Commercial Court, Surat",
+      "label": "COURT",
+      "start_char": 9180,
+      "end_char": 9203
+    },
+    {
+      "text": "Vivek M. Mapara",
+      "label": "JUDGE",
+      "start_char": 9236,
+      "end_char": 9251
+    },
+    {
+      "text": "City Civil Court, Ahmedabad",
+      "label": "COURT",
+      "start_char": 9253,
+      "end_char": 9280
+    },
+    {
+      "text": "s 24",
+      "label": "PROVISION",
+      "start_char": 9382,
+      "end_char": 9386
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 9394,
+      "end_char": 9397
+    },
+    {
+      "text": "Commercial Court at Surat",
+      "label": "COURT",
+      "start_char": 9698,
+      "end_char": 9723
+    },
+    {
+      "text": "Commercial Court, Surat",
+      "label": "COURT",
+      "start_char": 9831,
+      "end_char": 9854
+    },
+    {
+      "text": "s 24",
+      "label": "PROVISION",
+      "start_char": 10002,
+      "end_char": 10006
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 10014,
+      "end_char": 10017
+    },
+    {
+      "text": "Commercial Court, Surat",
+      "label": "COURT",
+      "start_char": 10180,
+      "end_char": 10203
+    },
+    {
+      "text": "10/10/2023",
+      "label": "DATE",
+      "start_char": 10259,
+      "end_char": 10269
+    },
+    {
+      "text": "Soparkar",
+      "label": "OTHER_PERSON",
+      "start_char": 10311,
+      "end_char": 10319
+    },
+    {
+      "text": "s 24",
+      "label": "PROVISION",
+      "start_char": 10766,
+      "end_char": 10770
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 10778,
+      "end_char": 10781
+    },
+    {
+      "text": "Soparkar",
+      "label": "OTHER_PERSON",
+      "start_char": 10815,
+      "end_char": 10823
+    },
+    {
+      "text": "Vivek N. Mapara",
+      "label": "JUDGE",
+      "start_char": 11142,
+      "end_char": 11157
+    },
+    {
+      "text": "Commercial Judge, Commercial Court, City Civil Court, Ahmedabad",
+      "label": "COURT",
+      "start_char": 11212,
+      "end_char": 11275
+    },
+    {
+      "text": "Soparkar",
+      "label": "OTHER_PERSON",
+      "start_char": 11784,
+      "end_char": 11792
+    },
+    {
+      "text": "NEUTRAL CITATION C/MCA/1177/2023 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 11870,
+      "end_char": 11915
+    },
+    {
+      "text": "10/10/2023",
+      "label": "DATE",
+      "start_char": 11923,
+      "end_char": 11933
+    },
+    {
+      "text": "Soparkar",
+      "label": "OTHER_PERSON",
+      "start_char": 12060,
+      "end_char": 12068
+    },
+    {
+      "text": "23.5.2022",
+      "label": "DATE",
+      "start_char": 12189,
+      "end_char": 12198
+    },
+    {
+      "text": "Vivek Mapara",
+      "label": "JUDGE",
+      "start_char": 12230,
+      "end_char": 12242
+    },
+    {
+      "text": "8.7.2022",
+      "label": "DATE",
+      "start_char": 12345,
+      "end_char": 12353
+    },
+    {
+      "text": "23.5.2022",
+      "label": "DATE",
+      "start_char": 12499,
+      "end_char": 12508
+    },
+    {
+      "text": "8.7.2022",
+      "label": "DATE",
+      "start_char": 12564,
+      "end_char": 12572
+    },
+    {
+      "text": "6.9.2022",
+      "label": "DATE",
+      "start_char": 12805,
+      "end_char": 12813
+    },
+    {
+      "text": "4.1.2023",
+      "label": "DATE",
+      "start_char": 12836,
+      "end_char": 12844
+    },
+    {
+      "text": "23.5.2022",
+      "label": "DATE",
+      "start_char": 12926,
+      "end_char": 12935
+    },
+    {
+      "text": "Vivek Mapara",
+      "label": "JUDGE",
+      "start_char": 12957,
+      "end_char": 12969
+    },
+    {
+      "text": "8.7.2022",
+      "label": "DATE",
+      "start_char": 13012,
+      "end_char": 13020
+    },
+    {
+      "text": "Soparkar",
+      "label": "OTHER_PERSON",
+      "start_char": 13105,
+      "end_char": 13113
+    },
+    {
+      "text": "22.5.2023",
+      "label": "DATE",
+      "start_char": 13143,
+      "end_char": 13152
+    },
+    {
+      "text": "Gujarat",
+      "label": "GPE",
+      "start_char": 13219,
+      "end_char": 13226
+    },
+    {
+      "text": "Vivek Mapara",
+      "label": "JUDGE",
+      "start_char": 13246,
+      "end_char": 13258
+    },
+    {
+      "text": "Commercial Court, Surat",
+      "label": "COURT",
+      "start_char": 13280,
+      "end_char": 13303
+    },
+    {
+      "text": "Commercial Court at Ahmedabad",
+      "label": "COURT",
+      "start_char": 13311,
+      "end_char": 13340
+    },
+    {
+      "text": "19.5.2023",
+      "label": "DATE",
+      "start_char": 13369,
+      "end_char": 13378
+    },
+    {
+      "text": "Vivek Mapara",
+      "label": "JUDGE",
+      "start_char": 13398,
+      "end_char": 13410
+    },
+    {
+      "text": "10/10/2023",
+      "label": "DATE",
+      "start_char": 13667,
+      "end_char": 13677
+    },
+    {
+      "text": "Vivek Mapara",
+      "label": "JUDGE",
+      "start_char": 13734,
+      "end_char": 13746
+    },
+    {
+      "text": "Soparkar",
+      "label": "OTHER_PERSON",
+      "start_char": 13980,
+      "end_char": 13988
+    },
+    {
+      "text": "Anil Rai Vs.",
+      "label": "PRECEDENT",
+      "start_char": 14018,
+      "end_char": 14030
+    },
+    {
+      "text": "State of Bihar reported in (2001) 7 SCC 318",
+      "label": "PRECEDENT",
+      "start_char": 14031,
+      "end_char": 14074
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 14299,
+      "end_char": 14309
+    },
+    {
+      "text": "Umesh Rai Vs.",
+      "label": "PRECEDENT",
+      "start_char": 14340,
+      "end_char": 14353
+    },
+    {
+      "text": "State of U.P.",
+      "label": "ORG",
+      "start_char": 14354,
+      "end_char": 14367
+    },
+    {
+      "text": "Criminal Appeal No.1518 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 14380,
+      "end_char": 14411
+    },
+    {
+      "text": "Vivek Mapara",
+      "label": "JUDGE",
+      "start_char": 14505,
+      "end_char": 14517
+    },
+    {
+      "text": "s 24",
+      "label": "PROVISION",
+      "start_char": 14918,
+      "end_char": 14922
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 14930,
+      "end_char": 14933
+    },
+    {
+      "text": "Vivek Mapara",
+      "label": "JUDGE",
+      "start_char": 15034,
+      "end_char": 15046
+    },
+    {
+      "text": "NEUTRAL CITATION",
+      "label": "ORG",
+      "start_char": 15227,
+      "end_char": 15243
+    },
+    {
+      "text": "10/10/2023",
+      "label": "DATE",
+      "start_char": 15280,
+      "end_char": 15290
+    },
+    {
+      "text": "Mahabir Prasad Singh Vs.",
+      "label": "PRECEDENT",
+      "start_char": 15304,
+      "end_char": 15328
+    },
+    {
+      "text": "Jacks Aviation Pvt",
+      "label": "ORG",
+      "start_char": 15329,
+      "end_char": 15347
+    },
+    {
+      "text": "(1999) 1 SCC 37",
+      "label": "PRECEDENT",
+      "start_char": 15366,
+      "end_char": 15381
+    },
+    {
+      "text": "Fumo Chem Pvt",
+      "label": "ORG",
+      "start_char": 15391,
+      "end_char": 15404
+    },
+    {
+      "text": "Raj Process Equipments and Systems Pvt",
+      "label": "ORG",
+      "start_char": 15419,
+      "end_char": 15457
+    },
+    {
+      "text": "Transfer Petition (Civil) No.755 of 2021",
+      "label": "CASE_NUMBER",
+      "start_char": 15487,
+      "end_char": 15527
+    },
+    {
+      "text": "Soparkar",
+      "label": "OTHER_PERSON",
+      "start_char": 15585,
+      "end_char": 15593
+    },
+    {
+      "text": "Shalin Mehta",
+      "label": "JUDGE",
+      "start_char": 15666,
+      "end_char": 15678
+    },
+    {
+      "text": "Vivek M. Mapara",
+      "label": "JUDGE",
+      "start_char": 15885,
+      "end_char": 15900
+    },
+    {
+      "text": "Vivek N. Mapara",
+      "label": "JUDGE",
+      "start_char": 16002,
+      "end_char": 16017
+    },
+    {
+      "text": "section 24(1)",
+      "label": "PROVISION",
+      "start_char": 16149,
+      "end_char": 16162
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 16170,
+      "end_char": 16173
+    },
+    {
+      "text": "10/10/2023",
+      "label": "DATE",
+      "start_char": 16779,
+      "end_char": 16789
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 17020,
+      "end_char": 17030
+    },
+    {
+      "text": "Kulwinder v Kandi Friends Education, reported in (2008) 3 SCC 659",
+      "label": "PRECEDENT",
+      "start_char": 17742,
+      "end_char": 17807
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 17821,
+      "end_char": 17831
+    },
+    {
+      "text": "sections 24 and 25",
+      "label": "PROVISION",
+      "start_char": 18013,
+      "end_char": 18031
+    },
+    {
+      "text": "C/MCA/1177/2023",
+      "label": "CASE_NUMBER",
+      "start_char": 18669,
+      "end_char": 18684
+    },
+    {
+      "text": "10/10/2023",
+      "label": "DATE",
+      "start_char": 18705,
+      "end_char": 18715
+    },
+    {
+      "text": "Maneka Sanjoy Gandhi v Rani Jethmalani reported in (1979) 4 SCC 167",
+      "label": "PRECEDENT",
+      "start_char": 19348,
+      "end_char": 19415
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 19429,
+      "end_char": 19439
+    },
+    {
+      "text": "Commercial Court, Surat",
+      "label": "COURT",
+      "start_char": 20319,
+      "end_char": 20342
+    },
+    {
+      "text": "Commercial Court, Surat",
+      "label": "COURT",
+      "start_char": 20483,
+      "end_char": 20506
+    },
+    {
+      "text": "Vivek Mapara",
+      "label": "JUDGE",
+      "start_char": 20648,
+      "end_char": 20660
+    },
+    {
+      "text": "C/MCA/1177/2023 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 20888,
+      "end_char": 20916
+    },
+    {
+      "text": "10/10/2023",
+      "label": "DATE",
+      "start_char": 20924,
+      "end_char": 20934
+    },
+    {
+      "text": "Commercial Court, Surat",
+      "label": "COURT",
+      "start_char": 21106,
+      "end_char": 21129
+    },
+    {
+      "text": "Commercial Court, Ahmedabad",
+      "label": "COURT",
+      "start_char": 21133,
+      "end_char": 21160
+    },
+    {
+      "text": "Shalin Mehta",
+      "label": "JUDGE",
+      "start_char": 21696,
+      "end_char": 21708
+    },
+    {
+      "text": "Section 24",
+      "label": "PROVISION",
+      "start_char": 22109,
+      "end_char": 22119
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 22127,
+      "end_char": 22130
+    },
+    {
+      "text": "23.5.2022",
+      "label": "DATE",
+      "start_char": 22319,
+      "end_char": 22328
+    },
+    {
+      "text": "8.7.2022",
+      "label": "DATE",
+      "start_char": 22366,
+      "end_char": 22374
+    },
+    {
+      "text": "NEUTRAL CITATION C/MCA/1177/2023 CAV JUDGMENT",
+      "label": "CASE_NUMBER",
+      "start_char": 22520,
+      "end_char": 22565
+    },
+    {
+      "text": "10/10/2023",
+      "label": "DATE",
+      "start_char": 22573,
+      "end_char": 22583
+    },
+    {
+      "text": "6.9.2022",
+      "label": "DATE",
+      "start_char": 22594,
+      "end_char": 22602
+    },
+    {
+      "text": "4.1.2023",
+      "label": "DATE",
+      "start_char": 22635,
+      "end_char": 22643
+    },
+    {
+      "text": "23.5.2022",
+      "label": "DATE",
+      "start_char": 22952,
+      "end_char": 22961
+    },
+    {
+      "text": "8.7.2022",
+      "label": "DATE",
+      "start_char": 22965,
+      "end_char": 22973
+    },
+    {
+      "text": "Vivek Mapara",
+      "label": "JUDGE",
+      "start_char": 23014,
+      "end_char": 23026
+    },
+    {
+      "text": "Surat",
+      "label": "GPE",
+      "start_char": 23105,
+      "end_char": 23110
+    },
+    {
+      "text": "Vivek Mapara",
+      "label": "JUDGE",
+      "start_char": 23148,
+      "end_char": 23160
+    },
+    {
+      "text": "22.5.2023",
+      "label": "DATE",
+      "start_char": 23230,
+      "end_char": 23239
+    },
+    {
+      "text": "Commercial Court at Ahmedabad",
+      "label": "COURT",
+      "start_char": 23247,
+      "end_char": 23276
+    },
+    {
+      "text": "19.5.2023",
+      "label": "DATE",
+      "start_char": 23310,
+      "end_char": 23319
+    },
+    {
+      "text": "Vivek Mapara",
+      "label": "JUDGE",
+      "start_char": 23339,
+      "end_char": 23351
+    },
+    {
+      "text": "Commercial Court, Surat",
+      "label": "COURT",
+      "start_char": 23620,
+      "end_char": 23643
+    },
+    {
+      "text": "Vivek Mapara",
+      "label": "JUDGE",
+      "start_char": 23678,
+      "end_char": 23690
+    },
+    {
+      "text": "Commercial Judge, City Civil Court, Ahmedabad",
+      "label": "COURT",
+      "start_char": 23711,
+      "end_char": 23756
+    },
+    {
+      "text": "section 24",
+      "label": "PROVISION",
+      "start_char": 23888,
+      "end_char": 23898
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 23906,
+      "end_char": 23909
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 24110,
+      "end_char": 24120
+    },
+    {
+      "text": "Mahabir Prasad Singh",
+      "label": "PRECEDENT",
+      "start_char": 24132,
+      "end_char": 24152
+    },
+    {
+      "text": "10/10/2023",
+      "label": "DATE",
+      "start_char": 24257,
+      "end_char": 24267
+    },
+    {
+      "text": "Apex Court",
+      "label": "COURT",
+      "start_char": 24370,
+      "end_char": 24380
+    },
+    {
+      "text": "Arun Jaitley",
+      "label": "OTHER_PERSON",
+      "start_char": 24403,
+      "end_char": 24415
+    },
+    {
+      "text": "Jaitley",
+      "label": "OTHER_PERSON",
+      "start_char": 25130,
+      "end_char": 25137
+    },
+    {
+      "text": "Commercial Court, Surat",
+      "label": "COURT",
+      "start_char": 25282,
+      "end_char": 25305
+    },
+    {
+      "text": "Vivek Mapara",
+      "label": "JUDGE",
+      "start_char": 25340,
+      "end_char": 25352
+    },
+    {
+      "text": "Commercial Judge, City Civil Court, Ahmedabad",
+      "label": "COURT",
+      "start_char": 25373,
+      "end_char": 25418
+    },
+    {
+      "text": "DAV Boys Senior Secondary School",
+      "label": "ORG",
+      "start_char": 25950,
+      "end_char": 25982
+    },
+    {
+      "text": "DAV College Managing Committee reported in (2010) 8 SCC 401",
+      "label": "PRECEDENT",
+      "start_char": 25998,
+      "end_char": 26057
+    },
+    {
+      "text": "Section 25",
+      "label": "PROVISION",
+      "start_char": 26115,
+      "end_char": 26125
+    },
+    {
+      "text": "NEUTRAL CITATION C/MCA/1177/2023 CAV JUDGMENT",
+      "label": "STATUTE",
+      "start_char": 26374,
+      "end_char": 26419
+    },
+    {
+      "text": "10/10/2023",
+      "label": "DATE",
+      "start_char": 26427,
+      "end_char": 26437
+    },
+    {
+      "text": "Advance Magazine",
+      "label": "PRECEDENT",
+      "start_char": 27395,
+      "end_char": 27411
+    },
+    {
+      "text": "Shalin Mehta",
+      "label": "JUDGE",
+      "start_char": 27459,
+      "end_char": 27471
+    },
+    {
+      "text": "M.V. Rekha",
+      "label": "PRECEDENT",
+      "start_char": 27630,
+      "end_char": 27640
+    },
+    {
+      "text": "J. C. DOSHI",
+      "label": "JUDGE",
+      "start_char": 28052,
+      "end_char": 28063
+    },
+    {
+      "text": "SHEKHAR P. BARVE",
+      "label": "JUDGE",
+      "start_char": 28067,
+      "end_char": 28083
+    }
+  ],
+  "precedent_clusters": {
+    "Mahabir Prasad Singh Vs.": [
+      "MV Rekha Vs.",
+      "Anil Rai Vs.",
+      "Umesh Rai Vs.",
+      "Mahabir Prasad Singh Vs.",
+      "Mahabir Prasad Singh"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "s 24",
+      "Civil Procedure, 1908",
+      "s 24",
+      "Civil Procedure, 1908"
+    ],
+    [
+      "s 24",
+      "CPC",
+      "s 24",
+      "CPC"
+    ],
+    [
+      "s 24",
+      "CPC",
+      "s 24",
+      "CPC"
+    ],
+    [
+      "s 24",
+      "CPC",
+      "s 24",
+      "CPC"
+    ],
+    [
+      "s 24",
+      "CPC",
+      "s 24",
+      "CPC"
+    ],
+    [
+      "section 24(1)",
+      "CPC",
+      "section 24(1)",
+      "CPC"
+    ],
+    [
+      "Section 24",
+      "CPC",
+      "Section 24",
+      "CPC"
+    ],
+    [
+      "section 24",
+      "CPC",
+      "section 24",
+      "CPC"
+    ],
+    [
+      "Section 25",
+      "NEUTRAL CITATION C/MCA/1177/2023 CAV JUDGMENT",
+      "Section 25",
+      "NEUTRAL CITATION C/MCA/1177/2023 CAV JUDGMENT"
+    ],
+    [
+      "Section 24",
+      "CPC",
+      "Section 24",
+      "CPC"
+    ],
+    [
+      "sections 24 and 25",
+      "NEUTRAL CITATION C/MCA/1177/2023 CAV JUDGMENT",
+      "sections 24 and 25",
+      "NEUTRAL CITATION C/MCA/1177/2023 CAV JUDGMENT"
+    ]
+  ],
+  "precedent_counts": {
+    "Mahabir Prasad Singh Vs.": 5
+  },
+  "provision_counts": {
+    "s 24 of Civil Procedure, 1908": 1,
+    "s 24 of CPC": 4,
+    "section 24(1) of CPC": 1,
+    "Section 24 of CPC": 2,
+    "section 24 of CPC": 1,
+    "Section 25 of NEUTRAL CITATION C/MCA/1177/2023 CAV JUDGMENT": 1,
+    "sections 24 and 25 of NEUTRAL CITATION C/MCA/1177/2023 CAV JUDGMENT": 1
+  },
+  "statute_counts": {
+    "Civil Procedure, 1908": 1,
+    "CPC": 8,
+    "NEUTRAL CITATION C/MCA/1177/2023 CAV JUDGMENT": 2
+  }
+}

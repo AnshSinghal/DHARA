@@ -1,0 +1,707 @@
+{
+  "entities": [
+    {
+      "text": "Calcutta High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 19
+    },
+    {
+      "text": "Rahee Infratech Limited vs Union Of India And Anr",
+      "label": "PRECEDENT",
+      "start_char": 20,
+      "end_char": 69
+    },
+    {
+      "text": "1 May, 2024",
+      "label": "DATE",
+      "start_char": 73,
+      "end_char": 84
+    },
+    {
+      "text": "Sugato Majumdar",
+      "label": "JUDGE",
+      "start_char": 93,
+      "end_char": 108
+    },
+    {
+      "text": "Sugato Majumdar",
+      "label": "JUDGE",
+      "start_char": 116,
+      "end_char": 131
+    },
+    {
+      "text": "HIGH COURT AT CALCUTTA",
+      "label": "COURT",
+      "start_char": 215,
+      "end_char": 237
+    },
+    {
+      "text": "CS-COM/41/2024",
+      "label": "CASE_NUMBER",
+      "start_char": 517,
+      "end_char": 531
+    },
+    {
+      "text": "RAHEE INFRATECH LIMITED",
+      "label": "ORG",
+      "start_char": 558,
+      "end_char": 581
+    },
+    {
+      "text": "UNION OF INDIA",
+      "label": "RESPONDENT",
+      "start_char": 652,
+      "end_char": 666
+    },
+    {
+      "text": "SUGATO MAJUMDAR",
+      "label": "JUDGE",
+      "start_char": 706,
+      "end_char": 721
+    },
+    {
+      "text": "1st May, 2024",
+      "label": "DATE",
+      "start_char": 728,
+      "end_char": 741
+    },
+    {
+      "text": "Nirmalya Dasgupta",
+      "label": "OTHER_PERSON",
+      "start_char": 758,
+      "end_char": 775
+    },
+    {
+      "text": "R. L. Mitra",
+      "label": "OTHER_PERSON",
+      "start_char": 787,
+      "end_char": 798
+    },
+    {
+      "text": "Priyanka Dhar",
+      "label": "LAWYER",
+      "start_char": 810,
+      "end_char": 823
+    },
+    {
+      "text": "Sunil Kumar Singhania",
+      "label": "OTHER_PERSON",
+      "start_char": 857,
+      "end_char": 878
+    },
+    {
+      "text": "K. Singhania",
+      "label": "OTHER_PERSON",
+      "start_char": 890,
+      "end_char": 902
+    },
+    {
+      "text": "Union of India",
+      "label": "RESPONDENT",
+      "start_char": 1278,
+      "end_char": 1292
+    },
+    {
+      "text": "08/05/2023",
+      "label": "DATE",
+      "start_char": 1498,
+      "end_char": 1508
+    },
+    {
+      "text": "Jabalpur",
+      "label": "GPE",
+      "start_char": 1966,
+      "end_char": 1974
+    },
+    {
+      "text": "Jabalpur",
+      "label": "GPE",
+      "start_char": 2030,
+      "end_char": 2038
+    },
+    {
+      "text": "GA 4 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 2130,
+      "end_char": 2142
+    },
+    {
+      "text": "03/08/2010",
+      "label": "DATE",
+      "start_char": 2514,
+      "end_char": 2524
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 2885,
+      "end_char": 2912
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 2931,
+      "end_char": 2954
+    },
+    {
+      "text": "05/03/2024",
+      "label": "DATE",
+      "start_char": 3379,
+      "end_char": 3389
+    },
+    {
+      "text": "Jabalpur",
+      "label": "GPE",
+      "start_char": 3558,
+      "end_char": 3566
+    },
+    {
+      "text": "GA 4 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 3727,
+      "end_char": 3739
+    },
+    {
+      "text": "05/03/2024",
+      "label": "DATE",
+      "start_char": 3812,
+      "end_char": 3822
+    },
+    {
+      "text": "05/03/2024",
+      "label": "DATE",
+      "start_char": 4184,
+      "end_char": 4194
+    },
+    {
+      "text": "Iridium India Telecom Ltd. vs Motorola Inc.",
+      "label": "PRECEDENT",
+      "start_char": 4316,
+      "end_char": 4359
+    },
+    {
+      "text": "(2005) 2 SCC 145",
+      "label": "PRECEDENT",
+      "start_char": 4361,
+      "end_char": 4377
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 4398,
+      "end_char": 4427
+    },
+    {
+      "text": "Firdous Omer (Dead) by L.Rs and Others vs Bankim Chandra Daw (Dead) by L.Rs & Ors",
+      "label": "PRECEDENT",
+      "start_char": 4644,
+      "end_char": 4725
+    },
+    {
+      "text": "(2006) 6 SCC 569]",
+      "label": "PRECEDENT",
+      "start_char": 4728,
+      "end_char": 4745
+    },
+    {
+      "text": "Section 16",
+      "label": "PROVISION",
+      "start_char": 4812,
+      "end_char": 4822
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 4830,
+      "end_char": 4857
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 4890,
+      "end_char": 4919
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 4991,
+      "end_char": 5032
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 5273,
+      "end_char": 5314
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 5514,
+      "end_char": 5555
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 5623,
+      "end_char": 5664
+    },
+    {
+      "text": "Code of Civil Procedure",
+      "label": "STATUTE",
+      "start_char": 5712,
+      "end_char": 5735
+    },
+    {
+      "text": "section 16(2)",
+      "label": "PROVISION",
+      "start_char": 5810,
+      "end_char": 5823
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 5891,
+      "end_char": 5920
+    },
+    {
+      "text": "Commercial Courts Act 2015",
+      "label": "STATUTE",
+      "start_char": 5939,
+      "end_char": 5965
+    },
+    {
+      "text": "Iridium India Telecom Ltd.",
+      "label": "ORG",
+      "start_char": 6060,
+      "end_char": 6086
+    },
+    {
+      "text": "Supreme Court of India",
+      "label": "COURT",
+      "start_char": 6113,
+      "end_char": 6135
+    },
+    {
+      "text": "Commercial Courts' Act 2015",
+      "label": "STATUTE",
+      "start_char": 6145,
+      "end_char": 6172
+    },
+    {
+      "text": "Supreme Court of India",
+      "label": "COURT",
+      "start_char": 6199,
+      "end_char": 6221
+    },
+    {
+      "text": "section 16",
+      "label": "PROVISION",
+      "start_char": 6271,
+      "end_char": 6281
+    },
+    {
+      "text": "Commercial Courts' Act 2015",
+      "label": "STATUTE",
+      "start_char": 6409,
+      "end_char": 6436
+    },
+    {
+      "text": "Parliament",
+      "label": "ORG",
+      "start_char": 6694,
+      "end_char": 6704
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 6710,
+      "end_char": 6739
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 6860,
+      "end_char": 6870
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 7088,
+      "end_char": 7098
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 7229,
+      "end_char": 7280
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 7524,
+      "end_char": 7575
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 8101,
+      "end_char": 8152
+    },
+    {
+      "text": "Order XV-A]",
+      "label": "PROVISION",
+      "start_char": 8757,
+      "end_char": 8768
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908",
+      "label": "STATUTE",
+      "start_char": 8776,
+      "end_char": 8816
+    },
+    {
+      "text": "proviso to sub-rule (1) of Rule 1 of Order V",
+      "label": "PROVISION",
+      "start_char": 8837,
+      "end_char": 8881
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 8889,
+      "end_char": 8930
+    },
+    {
+      "text": "Order V sub-rule 1 of Rule 1",
+      "label": "PROVISION",
+      "start_char": 9662,
+      "end_char": 9690
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 9698,
+      "end_char": 9727
+    },
+    {
+      "text": "Section 15 (4)",
+      "label": "PROVISION",
+      "start_char": 9897,
+      "end_char": 9911
+    },
+    {
+      "text": "Commercial Courts' Act, 2015",
+      "label": "STATUTE",
+      "start_char": 10027,
+      "end_char": 10055
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 10235,
+      "end_char": 10262
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 10286,
+      "end_char": 10315
+    },
+    {
+      "text": "Section 15 (4)",
+      "label": "PROVISION",
+      "start_char": 10361,
+      "end_char": 10375
+    },
+    {
+      "text": "Order XV-A",
+      "label": "PROVISION",
+      "start_char": 10668,
+      "end_char": 10678
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 10686,
+      "end_char": 10715
+    },
+    {
+      "text": "Section 15 (4)",
+      "label": "PROVISION",
+      "start_char": 10842,
+      "end_char": 10856
+    },
+    {
+      "text": "sub-rule 1 of Rule 1 of Order V",
+      "label": "PROVISION",
+      "start_char": 10902,
+      "end_char": 10933
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 10941,
+      "end_char": 10970
+    },
+    {
+      "text": "sub-rule 1 of Rule 1 of Order V",
+      "label": "PROVISION",
+      "start_char": 11185,
+      "end_char": 11216
+    },
+    {
+      "text": "Code of Civil Procedure, 1908",
+      "label": "STATUTE",
+      "start_char": 11224,
+      "end_char": 11253
+    },
+    {
+      "text": "Dilip Choudhury vs Pratishruti Projects Limited and Others [2019 SCC OnLine Cal 2346]",
+      "label": "PRECEDENT",
+      "start_char": 11640,
+      "end_char": 11725
+    },
+    {
+      "text": "Section 15(4)",
+      "label": "PROVISION",
+      "start_char": 11792,
+      "end_char": 11805
+    },
+    {
+      "text": "C.P.C.",
+      "label": "STATUTE",
+      "start_char": 12081,
+      "end_char": 12087
+    },
+    {
+      "text": "Bombay High Court",
+      "label": "COURT",
+      "start_char": 12424,
+      "end_char": 12441
+    },
+    {
+      "text": "Reliance General Insurance Company Ltd.",
+      "label": "ORG",
+      "start_char": 12503,
+      "end_char": 12542
+    },
+    {
+      "text": "Colonial Life Insurance Company (Trinidad) Limited",
+      "label": "RESPONDENT",
+      "start_char": 12546,
+      "end_char": 12596
+    },
+    {
+      "text": "Commercial Courts Act, 2015",
+      "label": "STATUTE",
+      "start_char": 12813,
+      "end_char": 12840
+    },
+    {
+      "text": "Order XV-A",
+      "label": "PROVISION",
+      "start_char": 13132,
+      "end_char": 13142
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 13150,
+      "end_char": 13153
+    },
+    {
+      "text": "Section 15(4)",
+      "label": "PROVISION",
+      "start_char": 13365,
+      "end_char": 13378
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 13386,
+      "end_char": 13407
+    },
+    {
+      "text": "Union of India",
+      "label": "RESPONDENT",
+      "start_char": 13974,
+      "end_char": 13988
+    },
+    {
+      "text": "5th March, 2024",
+      "label": "DATE",
+      "start_char": 14254,
+      "end_char": 14269
+    },
+    {
+      "text": "19 th June, 2024",
+      "label": "DATE",
+      "start_char": 14425,
+      "end_char": 14441
+    },
+    {
+      "text": "GA 5 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 14468,
+      "end_char": 14480
+    },
+    {
+      "text": "GA 5 of 2023",
+      "label": "CASE_NUMBER",
+      "start_char": 14526,
+      "end_char": 14538
+    },
+    {
+      "text": "19/06/2024",
+      "label": "DATE",
+      "start_char": 14639,
+      "end_char": 14649
+    },
+    {
+      "text": "SUGATO MAJUMDAR",
+      "label": "JUDGE",
+      "start_char": 14653,
+      "end_char": 14668
+    }
+  ],
+  "precedent_clusters": {
+    "Firdous Omer (Dead) by L.Rs and Others vs Bankim Chandra Daw (Dead) by L.Rs & Ors": [
+      "Rahee Infratech Limited vs Union Of India And Anr",
+      "Iridium India Telecom Ltd. vs Motorola Inc.",
+      "Firdous Omer (Dead) by L.Rs and Others vs Bankim Chandra Daw (Dead) by L.Rs & Ors"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Section 16",
+      "Commercial Courts Act, 2015",
+      "Section 16",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "section 16(2)",
+      "Code of Civil Procedure, 1908",
+      "section 16(2)",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order XV-A]",
+      "Code of Civil Procedure, 1908 (5 of 1908",
+      "Order XV-A]",
+      "Code of Civil Procedure, 1908 (5 of 1908"
+    ],
+    [
+      "proviso to sub-rule (1) of Rule 1 of Order V",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "proviso to sub-rule (1) of Rule 1 of Order V",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "Order V sub-rule 1 of Rule 1",
+      "Code of Civil Procedure, 1908",
+      "Order V sub-rule 1 of Rule 1",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Section 15 (4)",
+      "Commercial Courts' Act, 2015",
+      "Section 15 (4)",
+      "Commercial Courts' Act, 2015"
+    ],
+    [
+      "Order XV-A",
+      "Code of Civil Procedure, 1908",
+      "Order XV-A",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "sub-rule 1 of Rule 1 of Order V",
+      "Code of Civil Procedure, 1908",
+      "sub-rule 1 of Rule 1 of Order V",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "sub-rule 1 of Rule 1 of Order V",
+      "Code of Civil Procedure, 1908",
+      "sub-rule 1 of Rule 1 of Order V",
+      "Code of Civil Procedure, 1908"
+    ],
+    [
+      "Order XV-A",
+      "CPC",
+      "Order XV-A",
+      "CPC"
+    ],
+    [
+      "Section 15(4)",
+      "Commercial Courts Act",
+      "Section 15(4)",
+      "Commercial Courts Act"
+    ],
+    [
+      "section 16",
+      "Commercial Courts Act, 2015",
+      "section 16",
+      "Commercial Courts Act, 2015"
+    ],
+    [
+      "Section 15",
+      "Commercial Courts' Act, 2015",
+      "Section 15",
+      "Commercial Courts' Act, 2015"
+    ],
+    [
+      "Section 15",
+      "Commercial Courts' Act, 2015",
+      "Section 15",
+      "Commercial Courts' Act, 2015"
+    ],
+    [
+      "Section 15 (4)",
+      "Commercial Courts' Act, 2015",
+      "Section 15 (4)",
+      "Commercial Courts' Act, 2015"
+    ],
+    [
+      "Section 15 (4)",
+      "Commercial Courts' Act, 2015",
+      "Section 15 (4)",
+      "Commercial Courts' Act, 2015"
+    ],
+    [
+      "Section 15(4)",
+      "Commercial Courts' Act, 2015",
+      "Section 15(4)",
+      "Commercial Courts' Act, 2015"
+    ]
+  ],
+  "precedent_counts": {
+    "Firdous Omer (Dead) by L.Rs and Others vs Bankim Chandra Daw (Dead) by L.Rs & Ors": 3
+  },
+  "provision_counts": {
+    "Section 16 of Commercial Courts Act, 2015": 1,
+    "section 16(2) of Code of Civil Procedure, 1908": 1,
+    "Order XV-A] of Code of Civil Procedure, 1908 (5 of 1908": 1,
+    "proviso to sub-rule (1) of Rule 1 of Order V of Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Order V sub-rule 1 of Rule 1 of Code of Civil Procedure, 1908": 1,
+    "Section 15 (4) of Commercial Courts' Act, 2015": 3,
+    "Order XV-A of Code of Civil Procedure, 1908": 1,
+    "sub-rule 1 of Rule 1 of Order V of Code of Civil Procedure, 1908": 2,
+    "Order XV-A of CPC": 1,
+    "Section 15(4) of Commercial Courts Act": 1,
+    "section 16 of Commercial Courts Act, 2015": 1,
+    "Section 15 of Commercial Courts' Act, 2015": 2,
+    "Section 15(4) of Commercial Courts' Act, 2015": 1
+  },
+  "statute_counts": {
+    "Commercial Courts Act, 2015": 2,
+    "Code of Civil Procedure, 1908": 5,
+    "Code of Civil Procedure, 1908 (5 of 1908": 1,
+    "Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Commercial Courts' Act, 2015": 6,
+    "CPC": 1,
+    "Commercial Courts Act": 1
+  }
+}

@@ -1,0 +1,649 @@
+{
+  "entities": [
+    {
+      "text": "Delhi High Court",
+      "label": "COURT",
+      "start_char": 0,
+      "end_char": 16
+    },
+    {
+      "text": "Virender Kumar",
+      "label": "PETITIONER",
+      "start_char": 17,
+      "end_char": 31
+    },
+    {
+      "text": "Rekha Bhayana",
+      "label": "RESPONDENT",
+      "start_char": 35,
+      "end_char": 48
+    },
+    {
+      "text": "C. Hari Shankar",
+      "label": "LAWYER",
+      "start_char": 76,
+      "end_char": 91
+    },
+    {
+      "text": "C. Hari Shankar",
+      "label": "JUDGE",
+      "start_char": 99,
+      "end_char": 114
+    },
+    {
+      "text": "High Court Of Delhi At New Delhi",
+      "label": "COURT",
+      "start_char": 197,
+      "end_char": 229
+    },
+    {
+      "text": "Virender Kumar",
+      "label": "PETITIONER",
+      "start_char": 385,
+      "end_char": 399
+    },
+    {
+      "text": "Gaurav Singh",
+      "label": "LAWYER",
+      "start_char": 494,
+      "end_char": 506
+    },
+    {
+      "text": "Vani",
+      "label": "LAWYER",
+      "start_char": 511,
+      "end_char": 515
+    },
+    {
+      "text": "Raj Tripathi",
+      "label": "LAWYER",
+      "start_char": 567,
+      "end_char": 579
+    },
+    {
+      "text": "Rekha Bhayana",
+      "label": "RESPONDENT",
+      "start_char": 679,
+      "end_char": 692
+    },
+    {
+      "text": "25.08.2022",
+      "label": "DATE",
+      "start_char": 1052,
+      "end_char": 1062
+    },
+    {
+      "text": "19th July 2022",
+      "label": "DATE",
+      "start_char": 1091,
+      "end_char": 1105
+    },
+    {
+      "text": "District Judge (Commercial Court)",
+      "label": "COURT",
+      "start_char": 1129,
+      "end_char": 1162
+    },
+    {
+      "text": "CS DJ 452/2018 (Rekha Bhayana v. Virender Kumar)",
+      "label": "PRECEDENT",
+      "start_char": 1199,
+      "end_char": 1247
+    },
+    {
+      "text": "Order VII Rule 11",
+      "label": "PROVISION",
+      "start_char": 1305,
+      "end_char": 1322
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (CPC)",
+      "label": "STATUTE",
+      "start_char": 1330,
+      "end_char": 1365
+    },
+    {
+      "text": "CS DJ 452/2018",
+      "label": "CASE_NUMBER",
+      "start_char": 1388,
+      "end_char": 1402
+    },
+    {
+      "text": "Nitya Sharma",
+      "label": "OTHER_PERSON",
+      "start_char": 1561,
+      "end_char": 1573
+    },
+    {
+      "text": "Ambalal Sarabhai Enterprises Ltd. v. K.S.Infraspace LLP and Anr.1",
+      "label": "PRECEDENT",
+      "start_char": 1813,
+      "end_char": 1878
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 2035,
+      "end_char": 2052
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 2060,
+      "end_char": 2063
+    },
+    {
+      "text": "Order VII Rule 11",
+      "label": "PROVISION",
+      "start_char": 2104,
+      "end_char": 2121
+    },
+    {
+      "text": "17th February 2020",
+      "label": "DATE",
+      "start_char": 2298,
+      "end_char": 2316
+    },
+    {
+      "text": "Rohini",
+      "label": "JUDGE",
+      "start_char": 2366,
+      "end_char": 2372
+    },
+    {
+      "text": "4th February 2020",
+      "label": "DATE",
+      "start_char": 2460,
+      "end_char": 2477
+    },
+    {
+      "text": "24th August 2021",
+      "label": "DATE",
+      "start_char": 2499,
+      "end_char": 2515
+    },
+    {
+      "text": "DSJ (North- West District) Rohini",
+      "label": "COURT",
+      "start_char": 2542,
+      "end_char": 2575
+    },
+    {
+      "text": "14th September 2021",
+      "label": "DATE",
+      "start_char": 2595,
+      "end_char": 2614
+    },
+    {
+      "text": "Hari Singh v. M.S. Superhouse Ltd.2 and (iv) Section 15(2)",
+      "label": "PRECEDENT",
+      "start_char": 2665,
+      "end_char": 2723
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 2731,
+      "end_char": 2752
+    },
+    {
+      "text": "Ambalal Sarabhai Enterprises.1",
+      "label": "ORG",
+      "start_char": 2785,
+      "end_char": 2815
+    },
+    {
+      "text": "(2020) 15 SCC 585 2021 SCC OnLine Del 4385",
+      "label": "PRECEDENT",
+      "start_char": 3048,
+      "end_char": 3090
+    },
+    {
+      "text": "Section 15(2)",
+      "label": "PROVISION",
+      "start_char": 3268,
+      "end_char": 3281
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 3289,
+      "end_char": 3310
+    },
+    {
+      "text": "Section 15",
+      "label": "PROVISION",
+      "start_char": 3312,
+      "end_char": 3322
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 3330,
+      "end_char": 3351
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 3460,
+      "end_char": 3511
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 3756,
+      "end_char": 3807
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996 (26 of 1996)",
+      "label": "STATUTE",
+      "start_char": 4334,
+      "end_char": 4385
+    },
+    {
+      "text": "Order XV-A]",
+      "label": "PROVISION",
+      "start_char": 4991,
+      "end_char": 5002
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908):",
+      "label": "STATUTE",
+      "start_char": 5010,
+      "end_char": 5052
+    },
+    {
+      "text": "sub-rule (1) of Rule 1 of Order V",
+      "label": "PROVISION",
+      "start_char": 5082,
+      "end_char": 5115
+    },
+    {
+      "text": "Code of Civil Procedure, 1908 (5 of 1908)",
+      "label": "STATUTE",
+      "start_char": 5123,
+      "end_char": 5164
+    },
+    {
+      "text": "Section 15(2)",
+      "label": "PROVISION",
+      "start_char": 5891,
+      "end_char": 5904
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 5912,
+      "end_char": 5915
+    },
+    {
+      "text": "Arbitration and Conciliation Act, 1996",
+      "label": "STATUTE",
+      "start_char": 5989,
+      "end_char": 6027
+    },
+    {
+      "text": "sub-section (2) of Section 15",
+      "label": "PROVISION",
+      "start_char": 6314,
+      "end_char": 6343
+    },
+    {
+      "text": "Section 15(2)",
+      "label": "PROVISION",
+      "start_char": 6479,
+      "end_char": 6492
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 6767,
+      "end_char": 6788
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 7504,
+      "end_char": 7507
+    },
+    {
+      "text": "Section 26, Section 35, Section 35-A",
+      "label": "PROVISION",
+      "start_char": 7519,
+      "end_char": 7555
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 7582,
+      "end_char": 7603
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 7806,
+      "end_char": 7827
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 7899,
+      "end_char": 7916
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 7924,
+      "end_char": 7927
+    },
+    {
+      "text": "Sub-rule (1) of Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 8062,
+      "end_char": 8095
+    },
+    {
+      "text": "rule 10A",
+      "label": "PROVISION",
+      "start_char": 8165,
+      "end_char": 8173
+    },
+    {
+      "text": "Order VII Rule 10 (1)",
+      "label": "PROVISION",
+      "start_char": 8743,
+      "end_char": 8764
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 9073,
+      "end_char": 9086
+    },
+    {
+      "text": "Ambalal Sarabhai Enterprises1",
+      "label": "ORG",
+      "start_char": 9090,
+      "end_char": 9119
+    },
+    {
+      "text": "Ambalal Sarabhai Enterprises",
+      "label": "ORG",
+      "start_char": 9141,
+      "end_char": 9169
+    },
+    {
+      "text": "High Court of Gujarat",
+      "label": "COURT",
+      "start_char": 9267,
+      "end_char": 9288
+    },
+    {
+      "text": "Order VII Rule 10",
+      "label": "PROVISION",
+      "start_char": 9331,
+      "end_char": 9348
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 9394,
+      "end_char": 9407
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 9505,
+      "end_char": 9518
+    },
+    {
+      "text": "Article 141",
+      "label": "PROVISION",
+      "start_char": 9565,
+      "end_char": 9576
+    },
+    {
+      "text": "Constitution of India",
+      "label": "STATUTE",
+      "start_char": 9584,
+      "end_char": 9605
+    },
+    {
+      "text": "Ambalal Sarabhai Enterprises Ltd.1",
+      "label": "ORG",
+      "start_char": 9914,
+      "end_char": 9948
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 10556,
+      "end_char": 10559
+    },
+    {
+      "text": "Supreme Court",
+      "label": "COURT",
+      "start_char": 10583,
+      "end_char": 10596
+    },
+    {
+      "text": "Ambalal Sarabhai Enterprises.1",
+      "label": "ORG",
+      "start_char": 10600,
+      "end_char": 10630
+    },
+    {
+      "text": "Nazir Ahmed v. The King Emperor, (1936) 38 Bom LR 987",
+      "label": "PRECEDENT",
+      "start_char": 10753,
+      "end_char": 10806
+    },
+    {
+      "text": "Taylor v. Taylor, (1875) 1 Ch",
+      "label": "PRECEDENT",
+      "start_char": 10808,
+      "end_char": 10837
+    },
+    {
+      "text": "State of Uttar Pradesh v. Singhara Singh , (1964) 4 SCR 485 Sanjay agarwal v. Hemant Sharma, CM(M) 749/2022",
+      "label": "PRECEDENT",
+      "start_char": 10847,
+      "end_char": 10954
+    },
+    {
+      "text": "Shree Sai Sales Through Its Proprietor/Authorized Representative v. Shri Shyam Collection",
+      "label": "PRECEDENT",
+      "start_char": 10956,
+      "end_char": 11045
+    },
+    {
+      "text": "19th July 2022",
+      "label": "DATE",
+      "start_char": 11142,
+      "end_char": 11156
+    },
+    {
+      "text": "CS DJ 452/2018 (Rekha Bhayana v. Virender Kumar)",
+      "label": "PRECEDENT",
+      "start_char": 11200,
+      "end_char": 11248
+    },
+    {
+      "text": "Order VII Rule 11",
+      "label": "PROVISION",
+      "start_char": 11366,
+      "end_char": 11383
+    },
+    {
+      "text": "CPC",
+      "label": "STATUTE",
+      "start_char": 11391,
+      "end_char": 11394
+    },
+    {
+      "text": "Commercial Courts Act",
+      "label": "STATUTE",
+      "start_char": 11830,
+      "end_char": 11851
+    },
+    {
+      "text": "C. HARI SHANKAR",
+      "label": "JUDGE",
+      "start_char": 11904,
+      "end_char": 11919
+    },
+    {
+      "text": "AUGUST 25, 2022",
+      "label": "DATE",
+      "start_char": 11923,
+      "end_char": 11938
+    }
+  ],
+  "precedent_clusters": {
+    "Hari Singh v. M.S. Superhouse Ltd.2 and (iv) Section 15(2)": [
+      "CS DJ 452/2018 (Rekha Bhayana v. Virender Kumar)",
+      "Ambalal Sarabhai Enterprises Ltd. v. K.S.Infraspace LLP and Anr.1",
+      "Hari Singh v. M.S. Superhouse Ltd.2 and (iv) Section 15(2)",
+      "Shree Sai Sales Through Its Proprietor/Authorized Representative v. Shri Shyam Collection",
+      "CS DJ 452/2018 (Rekha Bhayana v. Virender Kumar)"
+    ]
+  },
+  "statute_clusters": {},
+  "provision_statute_pairs": [
+    [
+      "Order VII Rule 11",
+      "Code of Civil Procedure, 1908 (CPC)",
+      "Order VII Rule 11",
+      "Code of Civil Procedure, 1908 (CPC)"
+    ],
+    [
+      "Order VII Rule 10",
+      "CPC",
+      "Order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "Section 15(2)",
+      "Commercial Courts Act",
+      "Section 15(2)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 15",
+      "Commercial Courts Act",
+      "Section 15",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order XV-A]",
+      "Code of Civil Procedure, 1908 (5 of 1908):",
+      "Order XV-A]",
+      "Code of Civil Procedure, 1908 (5 of 1908):"
+    ],
+    [
+      "sub-rule (1) of Rule 1 of Order V",
+      "Code of Civil Procedure, 1908 (5 of 1908)",
+      "sub-rule (1) of Rule 1 of Order V",
+      "Code of Civil Procedure, 1908 (5 of 1908)"
+    ],
+    [
+      "Section 15(2)",
+      "CPC",
+      "Section 15(2)",
+      "CPC"
+    ],
+    [
+      "Section 15(2)",
+      "Commercial Courts Act",
+      "Section 15(2)",
+      "Commercial Courts Act"
+    ],
+    [
+      "Section 26, Section 35, Section 35-A",
+      "Commercial Courts Act",
+      "Section 26, Section 35, Section 35-A",
+      "Commercial Courts Act"
+    ],
+    [
+      "Order VII Rule 10",
+      "CPC",
+      "Order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "Article 141",
+      "Constitution of India",
+      "Article 141",
+      "Constitution of India"
+    ],
+    [
+      "Order VII Rule 11",
+      "CPC",
+      "Order VII Rule 11",
+      "CPC"
+    ],
+    [
+      "Order VII Rule 11",
+      "Code of Civil Procedure, 1908 (CPC)",
+      "Order VII Rule 11",
+      "Code of Civil Procedure, 1908 (CPC)"
+    ],
+    [
+      "sub-section (2) of Section 15",
+      "CPC",
+      "sub-section (2) of Section 15",
+      "CPC"
+    ],
+    [
+      "Sub-rule (1) of Order VII Rule 10",
+      "CPC",
+      "Sub-rule (1) of Order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "Order VII Rule 10 (1)",
+      "CPC",
+      "Order VII Rule 10 (1)",
+      "CPC"
+    ],
+    [
+      "Order VII Rule 10",
+      "CPC",
+      "Order VII Rule 10",
+      "CPC"
+    ],
+    [
+      "rule 10A",
+      "CPC",
+      "rule 10A",
+      "CPC"
+    ]
+  ],
+  "precedent_counts": {
+    "Hari Singh v. M.S. Superhouse Ltd.2 and (iv) Section 15(2)": 5
+  },
+  "provision_counts": {
+    "Order VII Rule 11 of Code of Civil Procedure, 1908 (CPC)": 2,
+    "Order VII Rule 10 of CPC": 3,
+    "Section 15(2) of Commercial Courts Act": 2,
+    "Section 15 of Commercial Courts Act": 1,
+    "Order XV-A] of Code of Civil Procedure, 1908 (5 of 1908):": 1,
+    "sub-rule (1) of Rule 1 of Order V of Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Section 15(2) of CPC": 1,
+    "Section 26, Section 35, Section 35-A of Commercial Courts Act": 1,
+    "Article 141 of Constitution of India": 1,
+    "Order VII Rule 11 of CPC": 1,
+    "sub-section (2) of Section 15 of CPC": 1,
+    "Sub-rule (1) of Order VII Rule 10 of CPC": 1,
+    "Order VII Rule 10 (1) of CPC": 1,
+    "rule 10A of CPC": 1
+  },
+  "statute_counts": {
+    "Code of Civil Procedure, 1908 (CPC)": 2,
+    "CPC": 9,
+    "Commercial Courts Act": 4,
+    "Code of Civil Procedure, 1908 (5 of 1908):": 1,
+    "Code of Civil Procedure, 1908 (5 of 1908)": 1,
+    "Constitution of India": 1
+  }
+}
