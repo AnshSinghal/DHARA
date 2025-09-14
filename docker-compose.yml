@@ -1,0 +1,54 @@
+services:
+  legal-rag-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    env_file:
+      - .env
+    image: legal-rag-api:latest
+    container_name: legal-rag-api
+    ports:
+      - "8000:8000"
+    environment:
+      - PYTHONPATH=/app
+      - LOG_LEVEL=${LOG_LEVEL:-INFO}
+      - ENVIRONMENT=production
+      - TRANSFORMERS_CACHE=/app/models
+      - HF_HOME=/app/models
+      - TOKENIZERS_PARALLELISM=false
+    secrets:
+      - PINECONE_API_KEY
+      - GOOGLE_API_KEY
+    volumes:
+      - app_logs:/app/logs
+    restart: unless-stopped
+    networks:
+      - legal-rag-network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 90s
+    deploy:
+      resources:
+        limits:
+          memory: 3G
+          cpus: '2.0'
+        reservations:
+          memory: 1G
+          cpus: '0.5'
+
+volumes:
+  app_logs:
+    driver: local
+
+networks:
+  legal-rag-network:
+    driver: bridge
+
+secrets:
+  PINECONE_API_KEY:
+    file: ./secrets/PINECONE_API_KEY.txt
+  GOOGLE_API_KEY:
+    file: ./secrets/google_api_key.txt

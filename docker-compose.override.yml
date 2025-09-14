@@ -1,0 +1,22 @@
+services:
+  legal-rag-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      - LOG_LEVEL=DEBUG
+      - ENVIRONMENT=development
+      - PYTHONPATH=/app
+    volumes:
+      - ./app:/app/app:rw
+      - ./data:/app/data:ro
+      - ./logs:/app/logs:rw
+    command: ["uv", "run", "uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000", "--reload"]
+    ports:
+      - "8000:8000"
+      - "5678:5678"
+    deploy:
+      resources:
+        limits:
+          memory: 2G
+          cpus: '1.0'
