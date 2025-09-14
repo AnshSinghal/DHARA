@@ -98,7 +98,8 @@ graph TD
 | **Stage 2: BERT Reranker** | +3% accuracy boost | +120ms | Semantic relevance refinement |
 
 
-### Benchmark Comparisons| **System Type** | **Accuracy** | **Response Time** | **Scalability** |
+### Benchmark Comparisons
+| **System Type** | **Accuracy** | **Response Time** | **Scalability** |
 |-----------------|--------------|-------------------|-----------------|
 | **Traditional Keyword Search** | 65% | 100ms | High |
 | **Basic RAG** | 78% | 200ms | Medium |
@@ -107,11 +108,12 @@ graph TD
 
 ---
 
-### Key Takeaways✅ **12% accuracy improvement** with full NER + RRL pipeline
-✅ **95% top-10 precision** ensures highly relevant results
-✅ **500ms response time** maintains real-time user experience
-✅ **Enterprise-grade performance** with 99.9% uptime
-✅ **Cost-effective scaling** compared to commercial alternatives
+### Key Takeaways
+- **12% accuracy improvement** with full NER + RRL pipeline
+- **95% top-10 precision** ensures highly relevant results
+- **500ms response time** maintains real-time user experience
+- **Enterprise-grade performance** with 99.9% uptime
+- **Cost-effective scaling** compared to commercial alternatives
 
 The performance data clearly demonstrates that while the full pipeline adds computational overhead, the substantial accuracy improvements and user satisfaction gains justify the increased latency for professional legal research applications.
 
