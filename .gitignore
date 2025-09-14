@@ -5,8 +5,10 @@ build/
 dist/
 wheels/
 *.egg-info
+inlegalbert-rrl/
 
 # Virtual environments
 .venv
+.env
 
 .envsecrets/
